@@ -1,0 +1,65 @@
+Title: Mohamed Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/eino-fisher
+- 
+  type: relations/money/debtor
+  item: people/werner-nader-phd
+- 
+  type: relations/parental/mom
+  item: people/claudie-bode
+- 
+  type: relations/parental/mom
+  item: people/dr-eliza-terry
+- 
+  type: relations/parental/dad
+  item: people/verdie-farrell
+- 
+  type: relations/parental/dad
+  item: people/prof-hazel-flatley-dvm
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/employer
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

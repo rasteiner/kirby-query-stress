@@ -1,0 +1,64 @@
+Title: Zola Cormier MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-aisha-nader
+- 
+  type: relations/parental/friend
+  item: people/danika-veum
+- 
+  type: relations/money/creditor
+  item: people/odie-champlin
+- 
+  type: relations/parental/dad
+  item: people/ms-clementina-terry-iii
+- 
+  type: relations/parental/mom
+  item: people/gail-hermiston
+- 
+  type: relations/parental/dad
+  item: people/dr-guillermo-wolff
+- 
+  type: relations/work/client
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-veum
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

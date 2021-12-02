@@ -1,0 +1,64 @@
+Title: Nash Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-trenton-langworth-i
+- 
+  type: relations/parental/colleague
+  item: people/colleen-gislason
+- 
+  type: relations/parental/friend
+  item: people/ward-thompson
+- 
+  type: relations/parental/friend
+  item: people/colt-brekke
+- 
+  type: relations/money/debtor
+  item: people/dr-alex-paucek-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-cielo-kris
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

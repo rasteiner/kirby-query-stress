@@ -1,0 +1,64 @@
+Title: Shakira Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shyanne-feeney
+- 
+  type: relations/parental/dad
+  item: people/shany-torphy
+- 
+  type: relations/parental/friend
+  item: people/miss-ena-metz-sr
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ettie-treutel-phd
+- 
+  type: relations/money/debtor
+  item: people/mr-adrien-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/delpha-rutherford-dds
+- 
+  type: relations/work/employer
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

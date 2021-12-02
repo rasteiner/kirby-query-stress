@@ -1,0 +1,64 @@
+Title: Mr. Monserrat Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-roselyn-feil-i
+- 
+  type: relations/parental/friend
+  item: people/lambert-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/henri-osinski
+- 
+  type: relations/parental/colleague
+  item: people/emmet-mayert
+- 
+  type: relations/parental/brosis
+  item: people/rusty-walsh-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dorothea-bernier-dvm
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/money/creditor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

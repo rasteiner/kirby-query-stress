@@ -1,0 +1,64 @@
+Title: Jake Harris MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/noelia-schinner-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-raheem-shields-dvm
+- 
+  type: relations/money/creditor
+  item: people/molly-von
+- 
+  type: relations/parental/dad
+  item: people/reymundo-kling
+- 
+  type: relations/parental/mom
+  item: people/mrs-princess-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/dr-wyatt-green-ii
+- 
+  type: relations/work/client
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-inc
+- 
+  type: relations/money/creditor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

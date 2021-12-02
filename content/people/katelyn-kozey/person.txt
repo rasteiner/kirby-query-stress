@@ -1,0 +1,64 @@
+Title: Katelyn Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/willie-baumbach
+- 
+  type: relations/parental/mom
+  item: people/melany-sauer
+- 
+  type: relations/parental/mom
+  item: people/vincenza-fritsch-md
+- 
+  type: relations/money/debtor
+  item: people/jerome-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/trisha-little
+- 
+  type: relations/parental/mom
+  item: people/keith-streich
+- 
+  type: relations/money/creditor
+  item: companies/towne-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/work/client
+  item: companies/bashirian-klein
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

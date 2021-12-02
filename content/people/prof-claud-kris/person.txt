@@ -1,0 +1,64 @@
+Title: Prof. Claud Kris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sandra-lindgren
+- 
+  type: relations/parental/mom
+  item: people/hollis-ziemann
+- 
+  type: relations/parental/dad
+  item: people/lazaro-nader
+- 
+  type: relations/parental/mom
+  item: people/tatyana-krajcik
+- 
+  type: relations/parental/colleague
+  item: people/roosevelt-feil
+- 
+  type: relations/parental/dad
+  item: people/prof-arnoldo-moore
+- 
+  type: relations/money/creditor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/client
+  item: companies/weber-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/work/client
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

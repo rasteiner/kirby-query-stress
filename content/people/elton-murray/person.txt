@@ -1,0 +1,64 @@
+Title: Elton Murray
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-aida-schaden-sr
+- 
+  type: relations/parental/colleague
+  item: people/ilene-kulas
+- 
+  type: relations/parental/mom
+  item: people/malinda-rolfson
+- 
+  type: relations/money/debtor
+  item: people/iva-volkman
+- 
+  type: relations/parental/dad
+  item: people/gavin-tremblay
+- 
+  type: relations/money/creditor
+  item: people/curt-blanda
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/creditor
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

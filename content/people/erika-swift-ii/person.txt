@@ -1,0 +1,64 @@
+Title: Erika Swift II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/glennie-rowe
+- 
+  type: relations/parental/mom
+  item: people/vallie-franecki
+- 
+  type: relations/money/debtor
+  item: people/alyson-cummings-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-sharon-hammes
+- 
+  type: relations/parental/colleague
+  item: people/carmelo-d-amore
+- 
+  type: relations/parental/brosis
+  item: people/deonte-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

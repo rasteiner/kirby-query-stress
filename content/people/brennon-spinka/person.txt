@@ -1,0 +1,64 @@
+Title: Brennon Spinka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/charity-mante
+- 
+  type: relations/parental/dad
+  item: people/prof-yolanda-kutch-dds
+- 
+  type: relations/parental/colleague
+  item: people/kaitlyn-zboncak
+- 
+  type: relations/parental/mom
+  item: people/miss-alvena-franecki
+- 
+  type: relations/parental/mom
+  item: people/madilyn-d-amore
+- 
+  type: relations/parental/mom
+  item: people/miss-scarlett-rogahn
+- 
+  type: relations/work/client
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

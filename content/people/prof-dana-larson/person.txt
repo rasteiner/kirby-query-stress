@@ -1,0 +1,64 @@
+Title: Prof. Dana Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/chandler-fisher
+- 
+  type: relations/parental/friend
+  item: people/nelle-gorczany
+- 
+  type: relations/parental/mom
+  item: people/prof-antone-pacocha-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-janis-brown
+- 
+  type: relations/parental/colleague
+  item: people/diamond-reilly
+- 
+  type: relations/parental/colleague
+  item: people/samara-walter
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/employer
+  item: companies/hudson-group
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

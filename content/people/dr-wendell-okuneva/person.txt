@@ -1,0 +1,64 @@
+Title: Dr. Wendell Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-leann-stehr
+- 
+  type: relations/parental/brosis
+  item: people/dr-brisa-kerluke-dvm
+- 
+  type: relations/money/debtor
+  item: people/connor-franecki
+- 
+  type: relations/money/creditor
+  item: people/brando-brakus
+- 
+  type: relations/parental/colleague
+  item: people/devonte-miller
+- 
+  type: relations/parental/colleague
+  item: people/prof-rick-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

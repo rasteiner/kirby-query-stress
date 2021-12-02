@@ -1,0 +1,64 @@
+Title: Claire Jacobs
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jessica-olson-dvm
+- 
+  type: relations/parental/brosis
+  item: people/gracie-dubuque
+- 
+  type: relations/parental/brosis
+  item: people/aubree-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/casimer-wehner
+- 
+  type: relations/parental/friend
+  item: people/prof-gus-cole
+- 
+  type: relations/parental/brosis
+  item: people/prof-antwon-glover-dvm
+- 
+  type: relations/money/debtor
+  item: companies/emard-inc
+- 
+  type: relations/work/client
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/client
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

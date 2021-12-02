@@ -1,0 +1,64 @@
+Title: Andres Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bianka-kunde
+- 
+  type: relations/parental/mom
+  item: people/dr-scottie-rippin
+- 
+  type: relations/parental/brosis
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/money/creditor
+  item: people/fern-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/coralie-bode
+- 
+  type: relations/parental/brosis
+  item: people/claudine-lindgren
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/client
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

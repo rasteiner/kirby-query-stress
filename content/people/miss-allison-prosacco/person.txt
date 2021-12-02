@@ -1,0 +1,64 @@
+Title: Miss Allison Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/carissa-barton-dvm
+- 
+  type: relations/money/debtor
+  item: people/mathias-beier
+- 
+  type: relations/parental/dad
+  item: people/mona-durgan
+- 
+  type: relations/parental/colleague
+  item: people/prof-juwan-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/remington-abshire
+- 
+  type: relations/parental/friend
+  item: people/cali-haley
+- 
+  type: relations/money/debtor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/employer
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

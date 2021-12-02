@@ -1,0 +1,64 @@
+Title: Llewellyn Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marcelina-gulgowski
+- 
+  type: relations/money/debtor
+  item: people/rahsaan-reynolds-dds
+- 
+  type: relations/parental/colleague
+  item: people/willis-stroman
+- 
+  type: relations/parental/dad
+  item: people/viva-zulauf
+- 
+  type: relations/parental/dad
+  item: people/dessie-streich-i
+- 
+  type: relations/money/debtor
+  item: people/jayson-corkery
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/work/client
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

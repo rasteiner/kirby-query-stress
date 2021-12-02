@@ -1,0 +1,64 @@
+Title: Rebeka Weimann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/meredith-larson
+- 
+  type: relations/parental/friend
+  item: people/edison-bode-sr
+- 
+  type: relations/money/debtor
+  item: people/maudie-mante
+- 
+  type: relations/money/debtor
+  item: people/nathanael-greenholt
+- 
+  type: relations/money/debtor
+  item: people/prof-zora-jones-jr
+- 
+  type: relations/money/creditor
+  item: people/catharine-towne
+- 
+  type: relations/work/client
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/client
+  item: companies/hauck-inc
+- 
+  type: relations/work/client
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

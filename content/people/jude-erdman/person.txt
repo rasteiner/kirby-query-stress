@@ -1,0 +1,66 @@
+Title: Jude Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/devan-barrows
+- 
+  type: relations/parental/friend
+  item: people/garrick-bruen
+- 
+  type: relations/money/debtor
+  item: people/marlin-robel
+- 
+  type: relations/parental/mom
+  item: people/prof-henderson-jacobson
+- 
+  type: relations/parental/dad
+  item: people/jazmin-beatty
+- 
+  type: relations/money/debtor
+  item: people/gino-keebler-dvm
+- 
+  type: relations/money/creditor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/work/employer
+  item: companies/wolff-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/work/client
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

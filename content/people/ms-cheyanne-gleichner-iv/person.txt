@@ -1,0 +1,64 @@
+Title: Ms. Cheyanne Gleichner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/chaz-schaden
+- 
+  type: relations/parental/mom
+  item: people/rebekah-jakubowski
+- 
+  type: relations/parental/dad
+  item: people/drake-zboncak
+- 
+  type: relations/parental/friend
+  item: people/leola-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/ms-erica-quigley
+- 
+  type: relations/parental/dad
+  item: people/joanie-johnston
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/work/client
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

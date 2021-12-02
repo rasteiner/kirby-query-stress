@@ -1,0 +1,64 @@
+Title: Arlene Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miller-torp
+- 
+  type: relations/money/creditor
+  item: people/citlalli-gleason
+- 
+  type: relations/money/debtor
+  item: people/prof-trenton-langworth-i
+- 
+  type: relations/parental/dad
+  item: people/colleen-gislason
+- 
+  type: relations/money/debtor
+  item: people/ward-thompson
+- 
+  type: relations/parental/brosis
+  item: people/colt-brekke
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/money/debtor
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/employer
+  item: companies/davis-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

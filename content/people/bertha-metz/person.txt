@@ -1,0 +1,64 @@
+Title: Bertha Metz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/myra-kemmer
+- 
+  type: relations/parental/dad
+  item: people/viola-gerlach-dds
+- 
+  type: relations/parental/mom
+  item: people/santos-franecki-dvm
+- 
+  type: relations/parental/dad
+  item: people/wade-marvin
+- 
+  type: relations/parental/brosis
+  item: people/oran-dooley
+- 
+  type: relations/parental/brosis
+  item: people/ellen-wyman
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/debtor
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/debtor
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

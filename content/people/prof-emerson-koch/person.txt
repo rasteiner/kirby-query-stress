@@ -1,0 +1,64 @@
+Title: Prof. Emerson Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/irving-walker-i
+- 
+  type: relations/parental/colleague
+  item: people/mrs-bridget-klocko-iii
+- 
+  type: relations/parental/colleague
+  item: people/mohamed-dietrich
+- 
+  type: relations/parental/dad
+  item: people/mr-brandt-crooks-v
+- 
+  type: relations/parental/colleague
+  item: people/mr-lonny-greenholt
+- 
+  type: relations/parental/dad
+  item: people/elmer-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/sporer-plc
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/client
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

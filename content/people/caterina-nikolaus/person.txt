@@ -1,0 +1,64 @@
+Title: Caterina Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/arturo-hermann
+- 
+  type: relations/money/creditor
+  item: people/prof-virginia-kutch-iii
+- 
+  type: relations/parental/dad
+  item: people/francesca-ryan
+- 
+  type: relations/parental/dad
+  item: people/dr-muhammad-lowe
+- 
+  type: relations/parental/dad
+  item: people/dr-gaylord-o-kon-jr
+- 
+  type: relations/parental/dad
+  item: people/marina-lowe
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/work/client
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

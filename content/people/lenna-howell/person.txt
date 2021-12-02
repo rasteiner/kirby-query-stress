@@ -1,0 +1,64 @@
+Title: Lenna Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-julie-sipes-dvm
+- 
+  type: relations/money/creditor
+  item: people/estevan-robel
+- 
+  type: relations/parental/mom
+  item: people/lelia-hansen
+- 
+  type: relations/money/creditor
+  item: people/alessandra-haley
+- 
+  type: relations/money/debtor
+  item: people/dr-anissa-blanda
+- 
+  type: relations/money/creditor
+  item: people/marisa-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/client
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

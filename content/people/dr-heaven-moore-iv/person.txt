@@ -1,0 +1,64 @@
+Title: Dr. Heaven Moore IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lavina-reilly
+- 
+  type: relations/parental/mom
+  item: people/cristian-erdman
+- 
+  type: relations/parental/mom
+  item: people/ms-hilda-goyette-phd
+- 
+  type: relations/parental/friend
+  item: people/alfonzo-leffler
+- 
+  type: relations/parental/colleague
+  item: people/edward-monahan
+- 
+  type: relations/parental/friend
+  item: people/ms-anabelle-kub
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/work/client
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/client
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

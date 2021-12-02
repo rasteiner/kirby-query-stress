@@ -1,0 +1,64 @@
+Title: Athena Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nelson-ortiz
+- 
+  type: relations/money/debtor
+  item: people/tamara-nienow-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-magnus-barrows-phd
+- 
+  type: relations/money/debtor
+  item: people/mr-rafael-zboncak-jr
+- 
+  type: relations/parental/mom
+  item: people/thora-green
+- 
+  type: relations/parental/brosis
+  item: people/colten-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/client
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/employer
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/employer
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

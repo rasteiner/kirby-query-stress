@@ -1,0 +1,64 @@
+Title: Ruby Kuvalis II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/camila-von
+- 
+  type: relations/parental/friend
+  item: people/wilhelmine-miller-v
+- 
+  type: relations/money/creditor
+  item: people/prof-arlene-veum-jr
+- 
+  type: relations/money/creditor
+  item: people/maud-mertz
+- 
+  type: relations/parental/friend
+  item: people/prof-johanna-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/vincent-gleason
+- 
+  type: relations/money/debtor
+  item: companies/labadie-plc
+- 
+  type: relations/work/employer
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

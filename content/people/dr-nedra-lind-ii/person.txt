@@ -1,0 +1,65 @@
+Title: Dr. Nedra Lind II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/afton-breitenberg-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-gordon-trantow-dvm
+- 
+  type: relations/parental/dad
+  item: people/donald-blanda-i
+- 
+  type: relations/parental/friend
+  item: people/lauriane-kertzmann
+- 
+  type: relations/parental/colleague
+  item: people/mrs-chloe-berge-dds
+- 
+  type: relations/parental/brosis
+  item: people/chadd-johnston
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

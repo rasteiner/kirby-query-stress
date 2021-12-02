@@ -1,0 +1,64 @@
+Title: Clare Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anderson-thiel
+- 
+  type: relations/parental/friend
+  item: people/america-ankunding-iv
+- 
+  type: relations/parental/friend
+  item: people/vicky-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/keara-osinski
+- 
+  type: relations/parental/colleague
+  item: people/kolby-lind
+- 
+  type: relations/parental/friend
+  item: people/mortimer-wisozk
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/client
+  item: companies/heller-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

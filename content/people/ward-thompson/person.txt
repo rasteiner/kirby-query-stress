@@ -1,0 +1,64 @@
+Title: Ward Thompson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jarred-kirlin
+- 
+  type: relations/parental/brosis
+  item: people/kendrick-adams
+- 
+  type: relations/money/creditor
+  item: people/dr-cindy-ratke
+- 
+  type: relations/parental/brosis
+  item: people/jarret-shields
+- 
+  type: relations/parental/mom
+  item: people/christa-dooley
+- 
+  type: relations/money/creditor
+  item: people/prof-bennie-padberg
+- 
+  type: relations/work/client
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/client
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Dr. Lemuel Mayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jerry-christiansen
+- 
+  type: relations/parental/brosis
+  item: people/nikki-stamm-dvm
+- 
+  type: relations/parental/mom
+  item: people/mr-francesco-stroman-jr
+- 
+  type: relations/parental/friend
+  item: people/avis-morar
+- 
+  type: relations/money/debtor
+  item: people/judson-homenick
+- 
+  type: relations/money/creditor
+  item: people/paul-welch
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

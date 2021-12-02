@@ -1,0 +1,64 @@
+Title: Alanna Leuschke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nona-schmeler-i
+- 
+  type: relations/parental/brosis
+  item: people/andre-larson
+- 
+  type: relations/money/debtor
+  item: people/cleta-harber
+- 
+  type: relations/money/creditor
+  item: people/giles-moore-iv
+- 
+  type: relations/parental/mom
+  item: people/giovanny-rohan
+- 
+  type: relations/money/debtor
+  item: people/ms-alessandra-beier
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/work/client
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/debtor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

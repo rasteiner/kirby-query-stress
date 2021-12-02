@@ -1,0 +1,64 @@
+Title: Edmond Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cathrine-cummings
+- 
+  type: relations/parental/brosis
+  item: people/damion-lindgren-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-arnaldo-brakus-ii
+- 
+  type: relations/parental/colleague
+  item: people/lenora-ullrich-ii
+- 
+  type: relations/parental/friend
+  item: people/ms-kaitlin-koss
+- 
+  type: relations/money/debtor
+  item: people/faye-larson
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

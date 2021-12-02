@@ -1,0 +1,64 @@
+Title: Jerome Glover
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-gonzalo-runte
+- 
+  type: relations/money/debtor
+  item: people/nayeli-frami
+- 
+  type: relations/parental/dad
+  item: people/leann-abbott
+- 
+  type: relations/money/debtor
+  item: people/carolyn-friesen
+- 
+  type: relations/parental/dad
+  item: people/benjamin-cormier
+- 
+  type: relations/money/debtor
+  item: people/isac-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/koch-ltd
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/work/employer
+  item: companies/daniel-hills
+- 
+  type: relations/work/employer
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

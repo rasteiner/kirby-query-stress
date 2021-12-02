@@ -1,0 +1,64 @@
+Title: Mollie Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/aiden-pollich
+- 
+  type: relations/parental/mom
+  item: people/maye-kerluke
+- 
+  type: relations/parental/mom
+  item: people/stewart-senger
+- 
+  type: relations/money/debtor
+  item: people/dr-stephanie-oberbrunner-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-ethel-hoppe
+- 
+  type: relations/parental/brosis
+  item: people/bud-wilderman
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

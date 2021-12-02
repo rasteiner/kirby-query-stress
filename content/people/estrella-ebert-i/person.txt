@@ -1,0 +1,64 @@
+Title: Estrella Ebert I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-kelley-lockman-dds
+- 
+  type: relations/parental/dad
+  item: people/frankie-price
+- 
+  type: relations/money/creditor
+  item: people/nathanael-fahey
+- 
+  type: relations/money/creditor
+  item: people/prof-trenton-dickinson-iv
+- 
+  type: relations/parental/brosis
+  item: people/brenna-howell-v
+- 
+  type: relations/parental/mom
+  item: people/myriam-marquardt-md
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/work/employer
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/employer
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

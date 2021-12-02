@@ -1,0 +1,64 @@
+Title: Madaline Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-ross-schoen-v
+- 
+  type: relations/money/creditor
+  item: people/dr-evie-kulas-v
+- 
+  type: relations/parental/colleague
+  item: people/brooks-mosciski-i
+- 
+  type: relations/money/debtor
+  item: people/tod-halvorson
+- 
+  type: relations/money/debtor
+  item: people/grant-hyatt
+- 
+  type: relations/parental/friend
+  item: people/laurel-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/employer
+  item: companies/boehm-group
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Dr. Clementine Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/riley-miller
+- 
+  type: relations/parental/dad
+  item: people/dr-gudrun-powlowski
+- 
+  type: relations/money/creditor
+  item: people/art-wolff
+- 
+  type: relations/parental/mom
+  item: people/daren-bernhard
+- 
+  type: relations/parental/dad
+  item: people/rodrick-hamill
+- 
+  type: relations/money/creditor
+  item: people/lysanne-kuvalis
+- 
+  type: relations/work/employer
+  item: companies/blanda-ltd
+- 
+  type: relations/work/employer
+  item: companies/turcotte-and-sons
+- 
+  type: relations/work/client
+  item: companies/haag-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

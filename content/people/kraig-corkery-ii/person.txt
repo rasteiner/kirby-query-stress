@@ -1,0 +1,64 @@
+Title: Kraig Corkery II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-stevie-howe-i
+- 
+  type: relations/parental/mom
+  item: people/eleanora-simonis
+- 
+  type: relations/money/creditor
+  item: people/ellie-hermiston
+- 
+  type: relations/parental/mom
+  item: people/mrs-jadyn-lehner
+- 
+  type: relations/parental/colleague
+  item: people/prof-marquis-huels
+- 
+  type: relations/money/debtor
+  item: people/jamel-welch
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/work/employer
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

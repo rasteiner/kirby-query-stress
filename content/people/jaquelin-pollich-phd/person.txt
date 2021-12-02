@@ -1,0 +1,64 @@
+Title: Jaquelin Pollich PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/macy-gislason
+- 
+  type: relations/parental/colleague
+  item: people/mr-koby-miller-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-colten-champlin-i
+- 
+  type: relations/parental/mom
+  item: people/charity-mueller
+- 
+  type: relations/parental/brosis
+  item: people/dakota-simonis
+- 
+  type: relations/parental/friend
+  item: people/ms-alba-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

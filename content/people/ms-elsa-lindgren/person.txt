@@ -1,0 +1,65 @@
+Title: Ms. Elsa Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-jaleel-schiller-iii
+- 
+  type: relations/parental/mom
+  item: people/moses-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/flo-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/catherine-berge
+- 
+  type: relations/parental/friend
+  item: people/dr-serenity-upton
+- 
+  type: relations/parental/dad
+  item: people/mrs-jammie-schneider
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

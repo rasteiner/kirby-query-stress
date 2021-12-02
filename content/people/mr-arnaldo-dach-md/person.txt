@@ -1,0 +1,64 @@
+Title: Mr. Arnaldo Dach MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/laurel-schamberger-dvm
+- 
+  type: relations/parental/dad
+  item: people/keely-kub
+- 
+  type: relations/parental/dad
+  item: people/antonia-ward
+- 
+  type: relations/parental/colleague
+  item: people/kaya-walker
+- 
+  type: relations/money/debtor
+  item: people/joey-hammes
+- 
+  type: relations/parental/brosis
+  item: people/eloise-leffler
+- 
+  type: relations/work/client
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bogan-llc
+- 
+  type: relations/work/employer
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

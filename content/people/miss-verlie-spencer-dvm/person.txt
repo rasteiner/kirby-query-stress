@@ -1,0 +1,64 @@
+Title: Miss Verlie Spencer DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bradly-murphy
+- 
+  type: relations/parental/colleague
+  item: people/lucinda-hermann
+- 
+  type: relations/parental/colleague
+  item: people/dorothea-labadie-ii
+- 
+  type: relations/parental/colleague
+  item: people/keeley-kulas-dvm
+- 
+  type: relations/parental/mom
+  item: people/stephen-brakus-phd
+- 
+  type: relations/parental/colleague
+  item: people/libbie-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/money/debtor
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/employer
+  item: companies/walsh-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

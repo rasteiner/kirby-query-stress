@@ -1,0 +1,64 @@
+Title: Lia Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vivienne-hackett
+- 
+  type: relations/parental/colleague
+  item: people/maribel-legros
+- 
+  type: relations/parental/mom
+  item: people/sheridan-feeney
+- 
+  type: relations/parental/mom
+  item: people/hobart-koch
+- 
+  type: relations/parental/mom
+  item: people/trever-kulas-ii
+- 
+  type: relations/parental/friend
+  item: people/eulah-champlin
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/client
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

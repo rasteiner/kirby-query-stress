@@ -1,0 +1,64 @@
+Title: Miss Elyssa Gulgowski V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-selmer-homenick-i
+- 
+  type: relations/money/creditor
+  item: people/aniya-schumm
+- 
+  type: relations/money/creditor
+  item: people/anita-gutmann
+- 
+  type: relations/parental/dad
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/money/creditor
+  item: people/dameon-schuster
+- 
+  type: relations/parental/friend
+  item: people/garrison-will
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/work/client
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

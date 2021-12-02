@@ -1,0 +1,64 @@
+Title: Dr. Wyatt Green II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/monserrate-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/prof-domingo-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/mrs-maiya-harber
+- 
+  type: relations/parental/colleague
+  item: people/brock-mckenzie
+- 
+  type: relations/parental/brosis
+  item: people/unique-dibbert
+- 
+  type: relations/money/creditor
+  item: people/prof-rocky-towne
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hamill-plc
+- 
+  type: relations/work/employer
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

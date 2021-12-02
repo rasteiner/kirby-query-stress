@@ -1,0 +1,64 @@
+Title: Jessyca Farrell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lafayette-quigley
+- 
+  type: relations/money/creditor
+  item: people/demario-mcdermott-jr
+- 
+  type: relations/money/creditor
+  item: people/sadye-stiedemann-i
+- 
+  type: relations/parental/brosis
+  item: people/maurine-heaney-i
+- 
+  type: relations/parental/dad
+  item: people/kayley-gutmann
+- 
+  type: relations/parental/brosis
+  item: people/ian-wuckert
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/client
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

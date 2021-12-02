@@ -1,0 +1,43 @@
+Title: Bruen, Denesik and Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/dach-llc
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-group
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort

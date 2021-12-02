@@ -1,0 +1,43 @@
+Title: Morissette, Schoen and Huel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-treutel
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/betsyfort

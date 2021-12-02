@@ -1,0 +1,64 @@
+Title: Nils McLaughlin Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/abigail-cormier
+- 
+  type: relations/money/creditor
+  item: people/marilie-wintheiser-iv
+- 
+  type: relations/money/debtor
+  item: people/earnestine-schultz
+- 
+  type: relations/parental/friend
+  item: people/ellen-hauck-dds
+- 
+  type: relations/money/debtor
+  item: people/mrs-jazmyne-veum-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-peter-fahey
+- 
+  type: relations/work/employer
+  item: companies/carter-daniel
+- 
+  type: relations/money/creditor
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

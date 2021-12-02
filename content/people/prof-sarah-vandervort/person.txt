@@ -1,0 +1,64 @@
+Title: Prof. Sarah Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bennett-cummings
+- 
+  type: relations/money/creditor
+  item: people/prof-rosendo-hane
+- 
+  type: relations/parental/brosis
+  item: people/beatrice-donnelly
+- 
+  type: relations/parental/mom
+  item: people/reuben-veum
+- 
+  type: relations/parental/dad
+  item: people/santina-torp-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-kiley-o-reilly
+- 
+  type: relations/work/client
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/employer
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

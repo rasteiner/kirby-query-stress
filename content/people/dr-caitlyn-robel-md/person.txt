@@ -1,0 +1,65 @@
+Title: Dr. Caitlyn Robel MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/parental/mom
+  item: people/prof-shakira-champlin
+- 
+  type: relations/parental/mom
+  item: people/christina-kautzer
+- 
+  type: relations/parental/friend
+  item: people/maximillia-boyer
+- 
+  type: relations/parental/mom
+  item: people/thea-waters-md
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/debtor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/money/creditor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

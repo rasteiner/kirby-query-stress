@@ -1,0 +1,64 @@
+Title: Cali Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/franco-prosacco
+- 
+  type: relations/parental/colleague
+  item: people/blair-marvin
+- 
+  type: relations/money/debtor
+  item: people/frances-zemlak
+- 
+  type: relations/parental/dad
+  item: people/larue-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/alva-medhurst
+- 
+  type: relations/parental/dad
+  item: people/mr-dane-fadel
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/ferry-inc
+- 
+  type: relations/work/client
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

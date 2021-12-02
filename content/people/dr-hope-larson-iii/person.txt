@@ -1,0 +1,64 @@
+Title: Dr. Hope Larson III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/yazmin-rempel
+- 
+  type: relations/parental/dad
+  item: people/erna-gibson
+- 
+  type: relations/parental/mom
+  item: people/jaron-auer-ii
+- 
+  type: relations/parental/colleague
+  item: people/clement-hilpert
+- 
+  type: relations/parental/dad
+  item: people/mr-alvah-oberbrunner-iv
+- 
+  type: relations/parental/mom
+  item: people/darius-johnston
+- 
+  type: relations/work/employer
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

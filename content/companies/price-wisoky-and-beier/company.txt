@@ -1,0 +1,44 @@
+Title: Price, Wisoky and Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/bauch-plc
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

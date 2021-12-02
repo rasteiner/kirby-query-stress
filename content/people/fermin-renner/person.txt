@@ -1,0 +1,64 @@
+Title: Fermin Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-cecilia-hickle-phd
+- 
+  type: relations/parental/dad
+  item: people/bailey-rodriguez
+- 
+  type: relations/parental/dad
+  item: people/prof-melvin-emard-ii
+- 
+  type: relations/parental/colleague
+  item: people/erwin-medhurst
+- 
+  type: relations/money/creditor
+  item: people/caleigh-brakus
+- 
+  type: relations/parental/friend
+  item: people/loraine-stracke-md
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

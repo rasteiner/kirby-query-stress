@@ -1,0 +1,64 @@
+Title: Dr. Nathan Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-keon-keebler
+- 
+  type: relations/parental/dad
+  item: people/chelsey-reinger
+- 
+  type: relations/parental/mom
+  item: people/dr-loraine-wolf-v
+- 
+  type: relations/parental/dad
+  item: people/dr-nayeli-ankunding
+- 
+  type: relations/parental/dad
+  item: people/antonia-prosacco
+- 
+  type: relations/parental/mom
+  item: people/fredrick-labadie
+- 
+  type: relations/money/debtor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

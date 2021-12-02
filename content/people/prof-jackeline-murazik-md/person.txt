@@ -1,0 +1,64 @@
+Title: Prof. Jackeline Murazik MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/maryse-rowe-dvm
+- 
+  type: relations/parental/colleague
+  item: people/merl-bins
+- 
+  type: relations/parental/mom
+  item: people/mrs-hillary-purdy
+- 
+  type: relations/money/debtor
+  item: people/megane-rau
+- 
+  type: relations/money/creditor
+  item: people/dr-perry-crooks-dvm
+- 
+  type: relations/parental/colleague
+  item: people/alexis-lind
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Percival Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/aurelie-schuster
+- 
+  type: relations/parental/dad
+  item: people/cecile-bednar
+- 
+  type: relations/parental/brosis
+  item: people/anahi-roberts
+- 
+  type: relations/parental/dad
+  item: people/wyatt-olson
+- 
+  type: relations/money/creditor
+  item: people/johnson-kub
+- 
+  type: relations/parental/dad
+  item: people/lou-kuhlman
+- 
+  type: relations/work/client
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/work/client
+  item: companies/kunze-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/work/client
+  item: companies/heaney-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

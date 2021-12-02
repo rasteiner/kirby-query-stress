@@ -1,0 +1,64 @@
+Title: Lily Parker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marjolaine-bode-v
+- 
+  type: relations/parental/friend
+  item: people/mr-jarret-wyman
+- 
+  type: relations/money/creditor
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/parental/brosis
+  item: people/retta-hilll-i
+- 
+  type: relations/parental/dad
+  item: people/ms-destini-hand
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

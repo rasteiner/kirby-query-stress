@@ -1,0 +1,64 @@
+Title: Roosevelt Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/art-hyatt
+- 
+  type: relations/parental/mom
+  item: people/ernesto-quitzon
+- 
+  type: relations/parental/dad
+  item: people/gladyce-waters
+- 
+  type: relations/money/creditor
+  item: people/neva-harvey
+- 
+  type: relations/parental/colleague
+  item: people/nathanial-mckenzie
+- 
+  type: relations/parental/brosis
+  item: people/zack-bradtke-iv
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/client
+  item: companies/johnson-windler
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

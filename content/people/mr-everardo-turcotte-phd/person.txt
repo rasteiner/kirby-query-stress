@@ -1,0 +1,64 @@
+Title: Mr. Everardo Turcotte PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ben-lakin
+- 
+  type: relations/parental/dad
+  item: people/gonzalo-schmeler
+- 
+  type: relations/parental/mom
+  item: people/carmella-stracke-md
+- 
+  type: relations/parental/dad
+  item: people/faustino-deckow
+- 
+  type: relations/parental/colleague
+  item: people/prof-raina-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/jayme-bayer
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/work/employer
+  item: companies/ernser-inc
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

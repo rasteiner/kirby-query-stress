@@ -1,0 +1,64 @@
+Title: Alia Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lelia-swaniawski
+- 
+  type: relations/parental/colleague
+  item: people/rachelle-schamberger-md
+- 
+  type: relations/parental/dad
+  item: people/rahul-heathcote-iii
+- 
+  type: relations/parental/dad
+  item: people/britney-gusikowski-i
+- 
+  type: relations/money/creditor
+  item: people/fleta-reynolds
+- 
+  type: relations/money/creditor
+  item: people/jaylan-farrell
+- 
+  type: relations/work/employer
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/employer
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

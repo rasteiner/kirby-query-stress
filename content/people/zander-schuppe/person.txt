@@ -1,0 +1,64 @@
+Title: Zander Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/christine-stark
+- 
+  type: relations/money/debtor
+  item: people/elmer-smith-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-wilber-thiel-iii
+- 
+  type: relations/parental/friend
+  item: people/edwin-dach
+- 
+  type: relations/parental/friend
+  item: people/everett-king
+- 
+  type: relations/parental/friend
+  item: people/scot-howell-ii
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/work/employer
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

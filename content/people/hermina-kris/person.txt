@@ -1,0 +1,64 @@
+Title: Hermina Kris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/clementina-johns
+- 
+  type: relations/parental/dad
+  item: people/dr-micheal-waters
+- 
+  type: relations/money/creditor
+  item: people/ms-donna-upton
+- 
+  type: relations/money/creditor
+  item: people/prof-adan-ziemann-i
+- 
+  type: relations/parental/mom
+  item: people/rashawn-ernser
+- 
+  type: relations/parental/brosis
+  item: people/mrs-gia-connelly-i
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

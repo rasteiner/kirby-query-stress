@@ -1,0 +1,64 @@
+Title: Meda Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lulu-waters
+- 
+  type: relations/money/creditor
+  item: people/dr-michale-maggio-iv
+- 
+  type: relations/parental/dad
+  item: people/donnie-volkman
+- 
+  type: relations/parental/dad
+  item: people/abe-spinka-phd
+- 
+  type: relations/parental/colleague
+  item: people/janae-pouros
+- 
+  type: relations/parental/dad
+  item: people/vidal-wintheiser
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

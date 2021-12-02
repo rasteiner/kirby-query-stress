@@ -1,0 +1,64 @@
+Title: Raphael Nader Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-agustin-sporer
+- 
+  type: relations/parental/mom
+  item: people/germaine-nienow
+- 
+  type: relations/parental/colleague
+  item: people/zola-kihn
+- 
+  type: relations/parental/mom
+  item: people/imelda-abshire
+- 
+  type: relations/money/debtor
+  item: people/dr-ward-bins
+- 
+  type: relations/money/debtor
+  item: people/prof-ursula-cronin
+- 
+  type: relations/money/creditor
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-group
+- 
+  type: relations/money/creditor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

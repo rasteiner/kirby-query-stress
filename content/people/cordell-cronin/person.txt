@@ -1,0 +1,64 @@
+Title: Cordell Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/watson-volkman
+- 
+  type: relations/parental/dad
+  item: people/mallory-feeney
+- 
+  type: relations/parental/mom
+  item: people/elizabeth-rippin
+- 
+  type: relations/money/debtor
+  item: people/daphnee-conn
+- 
+  type: relations/money/creditor
+  item: people/macey-streich
+- 
+  type: relations/parental/friend
+  item: people/wilhelm-hoeger-phd
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/work/client
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

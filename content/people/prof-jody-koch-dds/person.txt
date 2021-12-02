@@ -1,0 +1,64 @@
+Title: Prof. Jody Koch DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-laury-mccullough
+- 
+  type: relations/parental/dad
+  item: people/dandre-wiegand
+- 
+  type: relations/parental/dad
+  item: people/paxton-klein
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ashleigh-vonrueden-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-vern-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/prof-eudora-kreiger-dds
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

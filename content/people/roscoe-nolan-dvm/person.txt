@@ -1,0 +1,64 @@
+Title: Roscoe Nolan DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shea-fisher-md
+- 
+  type: relations/money/debtor
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/parental/mom
+  item: people/lura-sipes
+- 
+  type: relations/parental/friend
+  item: people/dr-lela-senger-i
+- 
+  type: relations/parental/dad
+  item: people/christiana-kuhic
+- 
+  type: relations/parental/dad
+  item: people/turner-casper
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

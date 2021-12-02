@@ -1,0 +1,64 @@
+Title: Dr. Colten Champlin I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-aniyah-botsford-iv
+- 
+  type: relations/money/debtor
+  item: people/alta-tromp
+- 
+  type: relations/parental/colleague
+  item: people/hailee-ullrich
+- 
+  type: relations/parental/mom
+  item: people/alberta-pagac-md
+- 
+  type: relations/parental/mom
+  item: people/jamaal-zboncak
+- 
+  type: relations/parental/mom
+  item: people/celia-sawayn
+- 
+  type: relations/work/client
+  item: companies/lebsack-berge
+- 
+  type: relations/money/creditor
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/work/client
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Patsy Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-urban-champlin
+- 
+  type: relations/money/debtor
+  item: people/cheyanne-kreiger
+- 
+  type: relations/parental/mom
+  item: people/prof-joesph-hilll-md
+- 
+  type: relations/money/creditor
+  item: people/kali-botsford-dds
+- 
+  type: relations/money/debtor
+  item: people/astrid-bechtelar
+- 
+  type: relations/money/creditor
+  item: people/prof-alena-cormier-i
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/employer
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

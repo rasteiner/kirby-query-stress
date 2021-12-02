@@ -1,0 +1,65 @@
+Title: Prof. Steve Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carol-krajcik
+- 
+  type: relations/parental/colleague
+  item: people/pattie-abbott
+- 
+  type: relations/parental/friend
+  item: people/esta-rice-ii
+- 
+  type: relations/parental/brosis
+  item: people/simone-feest-iv
+- 
+  type: relations/money/creditor
+  item: people/mr-maximo-wolf
+- 
+  type: relations/parental/colleague
+  item: people/edmond-roberts
+- 
+  type: relations/work/employer
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

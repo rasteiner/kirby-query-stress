@@ -1,0 +1,43 @@
+Title: Nienow, Robel and Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-treutel
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort

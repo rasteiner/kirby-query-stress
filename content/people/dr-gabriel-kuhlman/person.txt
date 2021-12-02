@@ -1,0 +1,64 @@
+Title: Dr. Gabriel Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/estrella-wiza
+- 
+  type: relations/parental/mom
+  item: people/henriette-johnson
+- 
+  type: relations/parental/brosis
+  item: people/terry-kulas
+- 
+  type: relations/parental/colleague
+  item: people/mr-zion-bartoletti
+- 
+  type: relations/parental/friend
+  item: people/prof-royce-shanahan-sr
+- 
+  type: relations/parental/dad
+  item: people/reymundo-cormier
+- 
+  type: relations/work/client
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/client
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

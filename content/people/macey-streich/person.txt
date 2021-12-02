@@ -1,0 +1,64 @@
+Title: Macey Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/stephen-herman
+- 
+  type: relations/parental/dad
+  item: people/mr-deven-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/abbey-carter
+- 
+  type: relations/money/debtor
+  item: people/judy-kunde
+- 
+  type: relations/parental/mom
+  item: people/mason-rice
+- 
+  type: relations/money/creditor
+  item: people/kendra-kunde
+- 
+  type: relations/money/creditor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/employer
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

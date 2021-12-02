@@ -1,0 +1,43 @@
+Title: Price-Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/kris-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/hansen-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/debtor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/schneider-durgan
+- 
+  type: relations/money/debtor
+  item: companies/conn-inc
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/port-jonfort

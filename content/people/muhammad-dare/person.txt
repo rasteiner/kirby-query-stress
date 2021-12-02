@@ -1,0 +1,64 @@
+Title: Muhammad Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/freddie-ryan
+- 
+  type: relations/parental/dad
+  item: people/patience-buckridge
+- 
+  type: relations/parental/dad
+  item: people/garret-nader-jr
+- 
+  type: relations/parental/dad
+  item: people/virginia-heathcote
+- 
+  type: relations/parental/brosis
+  item: people/yvonne-greenfelder
+- 
+  type: relations/parental/dad
+  item: people/virginie-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

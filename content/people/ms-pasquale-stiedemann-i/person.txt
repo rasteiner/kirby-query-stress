@@ -1,0 +1,64 @@
+Title: Ms. Pasquale Stiedemann I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/triston-muller
+- 
+  type: relations/parental/dad
+  item: people/prof-urban-conn-v
+- 
+  type: relations/money/debtor
+  item: people/dr-rebeca-christiansen
+- 
+  type: relations/money/debtor
+  item: people/osvaldo-kertzmann-jr
+- 
+  type: relations/parental/mom
+  item: people/mrs-edyth-brekke-i
+- 
+  type: relations/money/creditor
+  item: people/emmitt-barrows
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/creditor
+  item: companies/effertz-llc
+- 
+  type: relations/work/client
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/employer
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

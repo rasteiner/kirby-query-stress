@@ -1,0 +1,64 @@
+Title: Fanny Terry II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adriel-dickinson
+- 
+  type: relations/money/debtor
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/colleague
+  item: people/dr-heidi-hessel
+- 
+  type: relations/parental/mom
+  item: people/dr-evie-powlowski
+- 
+  type: relations/parental/friend
+  item: people/gay-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

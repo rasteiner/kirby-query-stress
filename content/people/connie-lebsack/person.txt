@@ -1,0 +1,64 @@
+Title: Connie Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/shania-schmitt
+- 
+  type: relations/parental/dad
+  item: people/carlie-cremin
+- 
+  type: relations/parental/friend
+  item: people/dr-shakira-murazik
+- 
+  type: relations/parental/brosis
+  item: people/miss-zora-blick-i
+- 
+  type: relations/parental/friend
+  item: people/herbert-weber-iii
+- 
+  type: relations/parental/colleague
+  item: people/deanna-reilly
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/client
+  item: companies/osinski-lehner
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

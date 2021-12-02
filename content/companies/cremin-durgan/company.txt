@@ -1,0 +1,43 @@
+Title: Cremin-Durgan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/money/creditor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/north-dusty

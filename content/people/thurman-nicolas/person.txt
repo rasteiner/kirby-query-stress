@@ -1,0 +1,64 @@
+Title: Thurman Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-melvin-emard-ii
+- 
+  type: relations/parental/friend
+  item: people/erwin-medhurst
+- 
+  type: relations/parental/colleague
+  item: people/caleigh-brakus
+- 
+  type: relations/parental/colleague
+  item: people/loraine-stracke-md
+- 
+  type: relations/money/creditor
+  item: people/golden-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/jayden-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/client
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Arnaldo Bernier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/enid-sporer-ii
+- 
+  type: relations/parental/brosis
+  item: people/abbey-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/liana-kirlin
+- 
+  type: relations/money/debtor
+  item: people/cordelia-walter-i
+- 
+  type: relations/parental/colleague
+  item: people/nikolas-smitham
+- 
+  type: relations/money/debtor
+  item: people/dr-otis-ryan
+- 
+  type: relations/work/client
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/work/client
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

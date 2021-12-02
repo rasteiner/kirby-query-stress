@@ -1,0 +1,64 @@
+Title: Darius Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-kenna-koss
+- 
+  type: relations/money/debtor
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/parental/dad
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/money/debtor
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/money/creditor
+  item: people/catherine-waters
+- 
+  type: relations/parental/dad
+  item: people/prof-santa-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Oma Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/wellington-hessel
+- 
+  type: relations/parental/friend
+  item: people/krista-ferry
+- 
+  type: relations/parental/brosis
+  item: people/cassie-krajcik
+- 
+  type: relations/parental/dad
+  item: people/alexander-goldner
+- 
+  type: relations/parental/colleague
+  item: people/mrs-thora-beahan
+- 
+  type: relations/money/creditor
+  item: people/otho-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/money/debtor
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

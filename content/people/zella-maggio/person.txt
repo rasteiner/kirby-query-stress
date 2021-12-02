@@ -1,0 +1,64 @@
+Title: Zella Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/molly-von
+- 
+  type: relations/parental/brosis
+  item: people/reymundo-kling
+- 
+  type: relations/parental/brosis
+  item: people/mrs-princess-nikolaus
+- 
+  type: relations/parental/colleague
+  item: people/dr-wyatt-green-ii
+- 
+  type: relations/parental/mom
+  item: people/ariel-keebler
+- 
+  type: relations/parental/friend
+  item: people/mallie-breitenberg-iv
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

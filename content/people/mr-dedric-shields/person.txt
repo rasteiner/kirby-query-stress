@@ -1,0 +1,64 @@
+Title: Mr. Dedric Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/juliana-hane
+- 
+  type: relations/money/debtor
+  item: people/brett-lehner
+- 
+  type: relations/parental/colleague
+  item: people/eulah-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/stephen-rath
+- 
+  type: relations/money/debtor
+  item: people/jonathon-stracke
+- 
+  type: relations/parental/friend
+  item: people/lilliana-johnston-dvm
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/work/client
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

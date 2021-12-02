@@ -1,0 +1,64 @@
+Title: Prof. Augustus Cassin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/deonte-borer-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-dereck-padberg
+- 
+  type: relations/parental/mom
+  item: people/nannie-moore
+- 
+  type: relations/parental/mom
+  item: people/prof-travon-hegmann
+- 
+  type: relations/parental/brosis
+  item: people/jeanne-klocko-v
+- 
+  type: relations/money/creditor
+  item: people/cassie-morissette-iii
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

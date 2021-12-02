@@ -1,0 +1,64 @@
+Title: Mr. Brown Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/timmy-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/prof-alaina-quigley-iii
+- 
+  type: relations/parental/friend
+  item: people/devan-barrows
+- 
+  type: relations/parental/brosis
+  item: people/garrick-bruen
+- 
+  type: relations/parental/brosis
+  item: people/marlin-robel
+- 
+  type: relations/parental/mom
+  item: people/prof-henderson-jacobson
+- 
+  type: relations/work/client
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/money/debtor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/work/employer
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/work/client
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

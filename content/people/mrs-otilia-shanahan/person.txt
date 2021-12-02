@@ -1,0 +1,64 @@
+Title: Mrs. Otilia Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-jazmyne-nienow-iv
+- 
+  type: relations/parental/brosis
+  item: people/mr-deon-heidenreich-dvm
+- 
+  type: relations/parental/friend
+  item: people/garret-harber-dvm
+- 
+  type: relations/money/creditor
+  item: people/prof-edd-leffler-ii
+- 
+  type: relations/money/creditor
+  item: people/stephen-kovacek
+- 
+  type: relations/parental/colleague
+  item: people/urban-mayer
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/employer
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/client
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

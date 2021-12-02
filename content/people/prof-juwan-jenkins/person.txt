@@ -1,0 +1,64 @@
+Title: Prof. Juwan Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-linnea-king-phd
+- 
+  type: relations/money/debtor
+  item: people/luther-reilly
+- 
+  type: relations/parental/friend
+  item: people/karelle-cremin
+- 
+  type: relations/parental/brosis
+  item: people/tremaine-o-kon
+- 
+  type: relations/parental/colleague
+  item: people/kylie-krajcik
+- 
+  type: relations/parental/mom
+  item: people/mr-philip-rath-dvm
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Lauriane Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-halle-renner
+- 
+  type: relations/money/creditor
+  item: people/marquise-graham
+- 
+  type: relations/parental/friend
+  item: people/janick-schuppe
+- 
+  type: relations/parental/mom
+  item: people/pasquale-gleason
+- 
+  type: relations/parental/mom
+  item: people/miss-bianka-hahn
+- 
+  type: relations/parental/colleague
+  item: people/kim-crooks
+- 
+  type: relations/work/employer
+  item: companies/bode-reinger
+- 
+  type: relations/work/client
+  item: companies/frami-group
+- 
+  type: relations/work/employer
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

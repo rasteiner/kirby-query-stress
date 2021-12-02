@@ -1,0 +1,65 @@
+Title: Ettie Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kelly-morissette
+- 
+  type: relations/money/debtor
+  item: people/linnea-price
+- 
+  type: relations/parental/dad
+  item: people/hillary-ratke
+- 
+  type: relations/parental/dad
+  item: people/stephan-heathcote
+- 
+  type: relations/parental/mom
+  item: people/dolly-hermiston
+- 
+  type: relations/money/debtor
+  item: people/rafael-kuvalis-phd
+- 
+  type: relations/work/employer
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/employer
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/work/client
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

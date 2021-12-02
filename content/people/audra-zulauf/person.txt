@@ -1,0 +1,64 @@
+Title: Audra Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/aurelie-huels
+- 
+  type: relations/money/debtor
+  item: people/cristina-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/miss-maudie-abbott
+- 
+  type: relations/parental/colleague
+  item: people/federico-wintheiser
+- 
+  type: relations/parental/mom
+  item: people/cristian-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/ms-ollie-kunde-dds
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/bins-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

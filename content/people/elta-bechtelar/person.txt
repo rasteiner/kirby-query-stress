@@ -1,0 +1,64 @@
+Title: Elta Bechtelar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/zackary-bayer
+- 
+  type: relations/money/debtor
+  item: people/tyshawn-turcotte
+- 
+  type: relations/parental/friend
+  item: people/jerrell-hane
+- 
+  type: relations/parental/brosis
+  item: people/kenny-gutmann
+- 
+  type: relations/parental/dad
+  item: people/sandrine-pagac
+- 
+  type: relations/money/debtor
+  item: people/melvina-murazik
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/client
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

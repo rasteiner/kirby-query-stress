@@ -1,0 +1,64 @@
+Title: Turner Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-shaina-gusikowski-v
+- 
+  type: relations/parental/colleague
+  item: people/ahmad-lang-dds
+- 
+  type: relations/parental/brosis
+  item: people/libby-berge
+- 
+  type: relations/parental/dad
+  item: people/marjorie-kiehn
+- 
+  type: relations/parental/mom
+  item: people/jayne-stehr
+- 
+  type: relations/parental/mom
+  item: people/crystal-larson
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Cassandre Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/abigayle-wintheiser
+- 
+  type: relations/parental/friend
+  item: people/darion-haag
+- 
+  type: relations/money/creditor
+  item: people/dr-kellen-heaney-iv
+- 
+  type: relations/parental/mom
+  item: people/mrs-zelda-rempel
+- 
+  type: relations/parental/friend
+  item: people/ollie-durgan
+- 
+  type: relations/parental/brosis
+  item: people/barrett-schmeler
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

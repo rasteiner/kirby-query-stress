@@ -1,0 +1,64 @@
+Title: Deontae Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dortha-terry
+- 
+  type: relations/money/debtor
+  item: people/winfield-stehr
+- 
+  type: relations/parental/friend
+  item: people/dr-marc-kunze-v
+- 
+  type: relations/money/debtor
+  item: people/karine-abernathy
+- 
+  type: relations/parental/brosis
+  item: people/prof-stefan-tromp
+- 
+  type: relations/parental/mom
+  item: people/carlee-sauer
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/work/client
+  item: companies/medhurst-group
+- 
+  type: relations/money/debtor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

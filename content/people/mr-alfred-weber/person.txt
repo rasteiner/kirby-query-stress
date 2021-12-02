@@ -1,0 +1,64 @@
+Title: Mr. Alfred Weber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-madge-heaney-sr
+- 
+  type: relations/parental/mom
+  item: people/arlene-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/prof-karli-moore
+- 
+  type: relations/money/debtor
+  item: people/dr-wayne-macejkovic-v
+- 
+  type: relations/money/debtor
+  item: people/dr-annie-rice-dvm
+- 
+  type: relations/money/debtor
+  item: people/ross-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/employer
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/debtor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

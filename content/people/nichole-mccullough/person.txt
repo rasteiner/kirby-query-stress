@@ -1,0 +1,64 @@
+Title: Nichole McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/colby-corwin
+- 
+  type: relations/parental/brosis
+  item: people/henri-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/vivienne-hackett
+- 
+  type: relations/parental/friend
+  item: people/maribel-legros
+- 
+  type: relations/parental/mom
+  item: people/sheridan-feeney
+- 
+  type: relations/parental/mom
+  item: people/hobart-koch
+- 
+  type: relations/work/client
+  item: companies/towne-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/work/client
+  item: companies/keebler-treutel
+- 
+  type: relations/work/client
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

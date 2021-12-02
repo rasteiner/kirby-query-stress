@@ -1,0 +1,64 @@
+Title: Uriah Graham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-mariane-abbott
+- 
+  type: relations/parental/friend
+  item: people/lisandro-hirthe
+- 
+  type: relations/parental/dad
+  item: people/mrs-britney-howell
+- 
+  type: relations/parental/colleague
+  item: people/lupe-bins
+- 
+  type: relations/money/creditor
+  item: people/ericka-corwin
+- 
+  type: relations/parental/brosis
+  item: people/miss-idell-skiles-i
+- 
+  type: relations/work/employer
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/employer
+  item: companies/mills-wyman
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

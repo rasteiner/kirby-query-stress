@@ -1,0 +1,64 @@
+Title: Jadyn Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jerrell-hane
+- 
+  type: relations/money/debtor
+  item: people/kenny-gutmann
+- 
+  type: relations/parental/friend
+  item: people/sandrine-pagac
+- 
+  type: relations/parental/mom
+  item: people/melvina-murazik
+- 
+  type: relations/parental/dad
+  item: people/johnny-stanton
+- 
+  type: relations/parental/brosis
+  item: people/dr-wilber-padberg
+- 
+  type: relations/work/employer
+  item: companies/blanda-ltd
+- 
+  type: relations/work/client
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

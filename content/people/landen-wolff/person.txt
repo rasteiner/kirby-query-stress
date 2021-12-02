@@ -1,0 +1,64 @@
+Title: Landen Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-deangelo-vonrueden-md
+- 
+  type: relations/parental/brosis
+  item: people/emmet-west-iv
+- 
+  type: relations/parental/dad
+  item: people/miss-retha-ledner
+- 
+  type: relations/money/creditor
+  item: people/stephan-welch
+- 
+  type: relations/money/debtor
+  item: people/otto-auer
+- 
+  type: relations/parental/friend
+  item: people/prof-tiara-hirthe-iii
+- 
+  type: relations/work/employer
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

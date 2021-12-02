@@ -1,0 +1,64 @@
+Title: Braeden Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-kyla-wolff-iii
+- 
+  type: relations/money/creditor
+  item: people/kelton-harvey
+- 
+  type: relations/parental/friend
+  item: people/dr-krystal-friesen-iv
+- 
+  type: relations/parental/dad
+  item: people/ms-nichole-mante
+- 
+  type: relations/money/debtor
+  item: people/mrs-hortense-gusikowski
+- 
+  type: relations/parental/mom
+  item: people/gustave-mclaughlin
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/employer
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/client
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

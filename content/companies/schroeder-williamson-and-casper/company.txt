@@ -1,0 +1,43 @@
+Title: Schroeder, Williamson and Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/money/creditor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/debtor
+  item: companies/harvey-lang
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/money/creditor
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/verlaberg

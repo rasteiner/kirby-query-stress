@@ -1,0 +1,64 @@
+Title: Prof. Finn Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/heaven-deckow
+- 
+  type: relations/parental/brosis
+  item: people/prof-garfield-borer-i
+- 
+  type: relations/money/creditor
+  item: people/prof-aida-schaden-sr
+- 
+  type: relations/money/creditor
+  item: people/ilene-kulas
+- 
+  type: relations/parental/colleague
+  item: people/malinda-rolfson
+- 
+  type: relations/parental/mom
+  item: people/iva-volkman
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/client
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/client
+  item: companies/bogan-llc
+- 
+  type: relations/work/client
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

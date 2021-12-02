@@ -1,0 +1,64 @@
+Title: Amy Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cecil-feil
+- 
+  type: relations/money/creditor
+  item: people/stuart-lemke
+- 
+  type: relations/money/debtor
+  item: people/mrs-aurore-schroeder-jr
+- 
+  type: relations/money/debtor
+  item: people/ms-cheyanne-baumbach-iii
+- 
+  type: relations/parental/mom
+  item: people/isaias-denesik
+- 
+  type: relations/parental/dad
+  item: people/miss-gretchen-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/work/employer
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

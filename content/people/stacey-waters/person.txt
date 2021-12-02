@@ -1,0 +1,64 @@
+Title: Stacey Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cheyanne-bergnaum
+- 
+  type: relations/parental/colleague
+  item: people/brayan-watsica-jr
+- 
+  type: relations/parental/colleague
+  item: people/ms-faye-reichert
+- 
+  type: relations/parental/brosis
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/parental/friend
+  item: people/gino-flatley
+- 
+  type: relations/money/debtor
+  item: people/ara-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

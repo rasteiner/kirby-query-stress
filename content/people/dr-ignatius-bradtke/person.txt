@@ -1,0 +1,64 @@
+Title: Dr. Ignatius Bradtke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-celestine-mills-md
+- 
+  type: relations/parental/mom
+  item: people/reggie-hermiston
+- 
+  type: relations/parental/colleague
+  item: people/sandra-champlin-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-joshuah-langosh-i
+- 
+  type: relations/parental/friend
+  item: people/jade-herman
+- 
+  type: relations/money/debtor
+  item: people/cristobal-mayert
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/client
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/client
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

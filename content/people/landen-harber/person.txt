@@ -1,0 +1,64 @@
+Title: Landen Harber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/freida-murazik-v
+- 
+  type: relations/money/debtor
+  item: people/ida-boyle
+- 
+  type: relations/parental/brosis
+  item: people/mr-jaleel-schiller-iii
+- 
+  type: relations/money/debtor
+  item: people/moses-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/flo-nitzsche
+- 
+  type: relations/money/debtor
+  item: people/catherine-berge
+- 
+  type: relations/money/creditor
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/employer
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

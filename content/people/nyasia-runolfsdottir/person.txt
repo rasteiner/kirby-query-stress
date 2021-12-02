@@ -1,0 +1,64 @@
+Title: Nyasia Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maximillian-willms
+- 
+  type: relations/parental/friend
+  item: people/eldred-yundt
+- 
+  type: relations/parental/friend
+  item: people/maximillia-mueller
+- 
+  type: relations/parental/dad
+  item: people/cleora-dooley
+- 
+  type: relations/money/creditor
+  item: people/elouise-cummings
+- 
+  type: relations/parental/friend
+  item: people/albina-terry-dvm
+- 
+  type: relations/work/employer
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

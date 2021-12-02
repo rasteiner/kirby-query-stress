@@ -1,0 +1,64 @@
+Title: Shyann Von V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/willa-leffler
+- 
+  type: relations/parental/friend
+  item: people/enoch-hills-ii
+- 
+  type: relations/parental/brosis
+  item: people/miss-maximillia-rippin
+- 
+  type: relations/parental/friend
+  item: people/nicholaus-gleason
+- 
+  type: relations/parental/brosis
+  item: people/ms-laury-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/dandre-wiegand
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/client
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,65 @@
+Title: Shyanne Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-coleman-white
+- 
+  type: relations/money/creditor
+  item: people/cayla-boyle
+- 
+  type: relations/parental/dad
+  item: people/kiarra-hansen
+- 
+  type: relations/parental/mom
+  item: people/cleo-conroy
+- 
+  type: relations/parental/colleague
+  item: people/clarabelle-abshire-iv
+- 
+  type: relations/money/debtor
+  item: people/ms-elsa-lindgren
+- 
+  type: relations/work/client
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/employer
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

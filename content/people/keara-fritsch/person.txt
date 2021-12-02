@@ -1,0 +1,64 @@
+Title: Keara Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-rosalinda-bergstrom-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mrs-amara-langosh-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-heaven-moore-iv
+- 
+  type: relations/money/debtor
+  item: people/mrs-marielle-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/conrad-herzog
+- 
+  type: relations/money/debtor
+  item: people/miss-madilyn-batz
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/debtor
+  item: companies/hane-group
+- 
+  type: relations/money/debtor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

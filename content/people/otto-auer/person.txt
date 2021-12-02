@@ -1,0 +1,64 @@
+Title: Otto Auer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cruz-berge
+- 
+  type: relations/money/debtor
+  item: people/eloise-braun
+- 
+  type: relations/parental/colleague
+  item: people/tina-cartwright
+- 
+  type: relations/parental/colleague
+  item: people/augusta-daugherty
+- 
+  type: relations/money/creditor
+  item: people/miss-makayla-connelly-dds
+- 
+  type: relations/parental/dad
+  item: people/camila-blanda-i
+- 
+  type: relations/work/employer
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/employer
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

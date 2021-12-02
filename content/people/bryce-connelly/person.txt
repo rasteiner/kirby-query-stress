@@ -1,0 +1,64 @@
+Title: Bryce Connelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/magdalen-hammes
+- 
+  type: relations/parental/dad
+  item: people/dr-rebekah-friesen
+- 
+  type: relations/parental/mom
+  item: people/lindsay-lindgren
+- 
+  type: relations/parental/dad
+  item: people/dulce-grimes-sr
+- 
+  type: relations/parental/colleague
+  item: people/adah-dubuque
+- 
+  type: relations/parental/dad
+  item: people/reese-stamm
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

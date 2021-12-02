@@ -1,0 +1,64 @@
+Title: Taylor Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/justus-ratke
+- 
+  type: relations/parental/friend
+  item: people/harry-durgan
+- 
+  type: relations/parental/dad
+  item: people/kyra-willms
+- 
+  type: relations/parental/dad
+  item: people/josiane-okuneva
+- 
+  type: relations/money/debtor
+  item: people/jovani-jast
+- 
+  type: relations/parental/friend
+  item: people/mr-brown-mertz
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/money/creditor
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/employer
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/employer
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

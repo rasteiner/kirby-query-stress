@@ -1,0 +1,64 @@
+Title: Darius Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/josue-swift
+- 
+  type: relations/parental/brosis
+  item: people/ramiro-kling
+- 
+  type: relations/parental/dad
+  item: people/carroll-marvin
+- 
+  type: relations/parental/mom
+  item: people/rupert-lind
+- 
+  type: relations/money/creditor
+  item: people/hilma-collier
+- 
+  type: relations/parental/friend
+  item: people/ms-maymie-cummerata-ii
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/employer
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

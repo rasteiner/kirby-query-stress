@@ -1,0 +1,43 @@
+Title: Kuhn-Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/welch-borer
+- 
+  type: relations/money/debtor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/debtor
+  item: companies/simonis-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/money/creditor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/creditor
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside

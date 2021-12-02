@@ -1,0 +1,64 @@
+Title: Dr. Katheryn Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-darwin-wisozk
+- 
+  type: relations/parental/friend
+  item: people/mrs-joana-olson-sr
+- 
+  type: relations/money/creditor
+  item: people/hilario-spinka-dds
+- 
+  type: relations/money/creditor
+  item: people/rosamond-kautzer
+- 
+  type: relations/money/debtor
+  item: people/linnie-leffler-dvm
+- 
+  type: relations/parental/friend
+  item: people/mr-wyman-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Lexus Moore II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hoyt-champlin
+- 
+  type: relations/parental/dad
+  item: people/roma-lebsack
+- 
+  type: relations/money/creditor
+  item: people/miss-lysanne-mraz
+- 
+  type: relations/money/creditor
+  item: people/prof-makenzie-fadel-jr
+- 
+  type: relations/parental/brosis
+  item: people/jermey-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/adeline-yundt
+- 
+  type: relations/money/creditor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/work/employer
+  item: companies/buckridge-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

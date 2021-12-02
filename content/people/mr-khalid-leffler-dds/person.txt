@@ -1,0 +1,64 @@
+Title: Mr. Khalid Leffler DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shannon-king
+- 
+  type: relations/parental/friend
+  item: people/zoey-okuneva
+- 
+  type: relations/parental/friend
+  item: people/ms-felicity-daniel
+- 
+  type: relations/parental/mom
+  item: people/carolyn-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/prof-catherine-hackett-v
+- 
+  type: relations/parental/dad
+  item: people/ms-tressa-mueller
+- 
+  type: relations/money/debtor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

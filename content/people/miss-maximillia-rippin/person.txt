@@ -1,0 +1,64 @@
+Title: Miss Maximillia Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/nicolas-roberts
+- 
+  type: relations/money/debtor
+  item: people/eleonore-bashirian
+- 
+  type: relations/parental/mom
+  item: people/webster-wyman
+- 
+  type: relations/money/creditor
+  item: people/eleazar-adams
+- 
+  type: relations/parental/friend
+  item: people/mr-billy-ferry-md
+- 
+  type: relations/parental/colleague
+  item: people/prof-stefanie-gulgowski-md
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/work/client
+  item: companies/keebler-inc
+- 
+  type: relations/work/client
+  item: companies/dicki-ltd
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

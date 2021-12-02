@@ -1,0 +1,64 @@
+Title: Idella Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cassandre-murazik
+- 
+  type: relations/parental/brosis
+  item: people/prof-bobbie-schoen-i
+- 
+  type: relations/parental/friend
+  item: people/jackson-bode
+- 
+  type: relations/parental/colleague
+  item: people/dr-keyshawn-schuppe
+- 
+  type: relations/money/debtor
+  item: people/mr-brandt-hoppe-v
+- 
+  type: relations/money/creditor
+  item: people/dr-darby-bins-iv
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

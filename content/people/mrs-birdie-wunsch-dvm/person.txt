@@ -1,0 +1,64 @@
+Title: Mrs. Birdie Wunsch DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-tre-gerhold-phd
+- 
+  type: relations/money/creditor
+  item: people/krystal-jacobi
+- 
+  type: relations/parental/dad
+  item: people/prof-edwardo-lehner
+- 
+  type: relations/money/debtor
+  item: people/dr-maximilian-stokes
+- 
+  type: relations/parental/dad
+  item: people/coty-mitchell-dvm
+- 
+  type: relations/money/creditor
+  item: people/gust-bartell
+- 
+  type: relations/work/employer
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/client
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

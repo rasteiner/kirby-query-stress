@@ -1,0 +1,64 @@
+Title: Litzy Ernser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/esmeralda-graham
+- 
+  type: relations/money/creditor
+  item: people/john-kautzer
+- 
+  type: relations/money/creditor
+  item: people/mr-ole-durgan-iii
+- 
+  type: relations/parental/colleague
+  item: people/freida-corkery-phd
+- 
+  type: relations/parental/colleague
+  item: people/karina-shields
+- 
+  type: relations/parental/dad
+  item: people/walker-wiza
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/employer
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/employer
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

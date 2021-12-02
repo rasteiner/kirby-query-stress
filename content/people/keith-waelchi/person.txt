@@ -1,0 +1,64 @@
+Title: Keith Waelchi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/addison-grant
+- 
+  type: relations/parental/colleague
+  item: people/gertrude-rogahn
+- 
+  type: relations/parental/mom
+  item: people/nola-pfeffer
+- 
+  type: relations/money/creditor
+  item: people/mr-casimer-keebler-sr
+- 
+  type: relations/money/creditor
+  item: people/jaleel-sauer
+- 
+  type: relations/parental/mom
+  item: people/tyler-gleichner-v
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

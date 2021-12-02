@@ -1,0 +1,65 @@
+Title: Leslie Morissette V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/henri-osinski
+- 
+  type: relations/parental/mom
+  item: people/emmet-mayert
+- 
+  type: relations/parental/colleague
+  item: people/rusty-walsh-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dorothea-bernier-dvm
+- 
+  type: relations/money/debtor
+  item: people/freida-bode
+- 
+  type: relations/parental/mom
+  item: people/rene-yost
+- 
+  type: relations/work/employer
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/client
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Lillie Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alysha-hilpert
+- 
+  type: relations/money/debtor
+  item: people/lucienne-sawayn
+- 
+  type: relations/parental/mom
+  item: people/kaylah-cartwright
+- 
+  type: relations/money/debtor
+  item: people/miss-meghan-lind-v
+- 
+  type: relations/parental/mom
+  item: people/braulio-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/dr-esmeralda-frami
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/client
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

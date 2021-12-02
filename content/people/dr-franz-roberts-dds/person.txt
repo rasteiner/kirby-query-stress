@@ -1,0 +1,64 @@
+Title: Dr. Franz Roberts DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/astrid-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/prof-alena-cormier-i
+- 
+  type: relations/parental/colleague
+  item: people/ms-isobel-west-v
+- 
+  type: relations/money/creditor
+  item: people/kristy-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/prof-clint-ondricka-phd
+- 
+  type: relations/money/creditor
+  item: people/ona-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

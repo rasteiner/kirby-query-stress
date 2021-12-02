@@ -1,0 +1,64 @@
+Title: Ms. Rosanna Gottlieb I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/augustus-kris-jr
+- 
+  type: relations/money/creditor
+  item: people/mr-diamond-ward
+- 
+  type: relations/parental/mom
+  item: people/chaya-haley
+- 
+  type: relations/parental/colleague
+  item: people/mr-carey-goodwin
+- 
+  type: relations/money/debtor
+  item: people/bernhard-doyle
+- 
+  type: relations/parental/brosis
+  item: people/kara-schimmel
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

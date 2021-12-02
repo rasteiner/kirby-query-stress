@@ -1,0 +1,64 @@
+Title: Letha Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jan-veum
+- 
+  type: relations/parental/mom
+  item: people/muriel-medhurst-phd
+- 
+  type: relations/parental/mom
+  item: people/nolan-klocko
+- 
+  type: relations/money/creditor
+  item: people/mr-jarret-weimann
+- 
+  type: relations/money/debtor
+  item: people/mac-ward
+- 
+  type: relations/parental/colleague
+  item: people/daphne-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/roberts-mueller
+- 
+  type: relations/money/creditor
+  item: companies/murphy-batz
+- 
+  type: relations/work/employer
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/employer
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Neha Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/guiseppe-larkin
+- 
+  type: relations/parental/brosis
+  item: people/walter-gerlach
+- 
+  type: relations/money/creditor
+  item: people/aurelie-schuster
+- 
+  type: relations/money/debtor
+  item: people/cecile-bednar
+- 
+  type: relations/parental/friend
+  item: people/anahi-roberts
+- 
+  type: relations/parental/colleague
+  item: people/wyatt-olson
+- 
+  type: relations/money/debtor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/client
+  item: companies/cremin-durgan
+- 
+  type: relations/work/employer
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

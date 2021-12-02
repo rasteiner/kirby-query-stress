@@ -1,0 +1,65 @@
+Title: Addison Ondricka MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/nigel-crooks
+- 
+  type: relations/money/creditor
+  item: people/fannie-lubowitz
+- 
+  type: relations/money/creditor
+  item: people/morgan-welch-phd
+- 
+  type: relations/parental/dad
+  item: people/ms-valentina-sanford
+- 
+  type: relations/parental/mom
+  item: people/miss-elyssa-gulgowski-v
+- 
+  type: relations/parental/brosis
+  item: people/alysha-borer-iii
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

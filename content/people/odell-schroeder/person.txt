@@ -1,0 +1,64 @@
+Title: Odell Schroeder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sherwood-waters
+- 
+  type: relations/money/debtor
+  item: people/violette-senger-jr
+- 
+  type: relations/money/debtor
+  item: people/benedict-parisian
+- 
+  type: relations/money/debtor
+  item: people/myra-schultz
+- 
+  type: relations/money/debtor
+  item: people/dr-tracy-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/khalil-kihn
+- 
+  type: relations/work/employer
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/frami-group
+- 
+  type: relations/work/client
+  item: companies/jenkins-group
+- 
+  type: relations/money/creditor
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

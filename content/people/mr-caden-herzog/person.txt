@@ -1,0 +1,64 @@
+Title: Mr. Caden Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-maurice-gaylord-iv
+- 
+  type: relations/money/creditor
+  item: people/elisa-kassulke-ii
+- 
+  type: relations/parental/mom
+  item: people/giuseppe-halvorson
+- 
+  type: relations/parental/friend
+  item: people/brennon-bogan
+- 
+  type: relations/parental/dad
+  item: people/margaret-schaefer
+- 
+  type: relations/parental/dad
+  item: people/dr-jonatan-luettgen-sr
+- 
+  type: relations/money/debtor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/employer
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/client
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Sadie Little
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/wava-treutel
+- 
+  type: relations/parental/friend
+  item: people/dr-zack-will
+- 
+  type: relations/parental/mom
+  item: people/martine-pouros
+- 
+  type: relations/parental/brosis
+  item: people/prof-arno-wintheiser-jr
+- 
+  type: relations/parental/friend
+  item: people/kristoffer-jast-iii
+- 
+  type: relations/parental/brosis
+  item: people/dr-nedra-lind-ii
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/employer
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

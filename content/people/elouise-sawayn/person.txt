@@ -1,0 +1,64 @@
+Title: Elouise Sawayn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kaylie-johns-dds
+- 
+  type: relations/money/debtor
+  item: people/herminio-hermiston
+- 
+  type: relations/parental/friend
+  item: people/magali-marvin
+- 
+  type: relations/money/debtor
+  item: people/mrs-amely-ebert
+- 
+  type: relations/money/debtor
+  item: people/dr-name-bernhard-iv
+- 
+  type: relations/parental/colleague
+  item: people/mozell-feest
+- 
+  type: relations/money/debtor
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

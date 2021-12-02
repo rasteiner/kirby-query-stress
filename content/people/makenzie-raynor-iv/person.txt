@@ -1,0 +1,64 @@
+Title: Makenzie Raynor IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anibal-lakin
+- 
+  type: relations/money/debtor
+  item: people/emmett-wilkinson
+- 
+  type: relations/parental/colleague
+  item: people/alivia-okuneva
+- 
+  type: relations/money/creditor
+  item: people/dustin-spinka
+- 
+  type: relations/parental/friend
+  item: people/damaris-hamill
+- 
+  type: relations/money/debtor
+  item: people/rosanna-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/employer
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/employer
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

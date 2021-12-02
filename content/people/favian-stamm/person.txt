@@ -1,0 +1,64 @@
+Title: Favian Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ashleigh-prosacco
+- 
+  type: relations/parental/friend
+  item: people/winnifred-reilly-dvm
+- 
+  type: relations/parental/dad
+  item: people/franz-conn
+- 
+  type: relations/parental/friend
+  item: people/gay-lynch
+- 
+  type: relations/parental/dad
+  item: people/prof-keshaun-labadie-v
+- 
+  type: relations/money/debtor
+  item: people/odell-gottlieb-v
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

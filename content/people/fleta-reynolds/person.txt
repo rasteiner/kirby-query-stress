@@ -1,0 +1,64 @@
+Title: Fleta Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/reggie-kulas
+- 
+  type: relations/parental/friend
+  item: people/christine-mcglynn
+- 
+  type: relations/parental/colleague
+  item: people/colby-streich
+- 
+  type: relations/money/creditor
+  item: people/nikolas-smith
+- 
+  type: relations/money/creditor
+  item: people/prof-jordy-weissnat-md
+- 
+  type: relations/parental/dad
+  item: people/ed-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

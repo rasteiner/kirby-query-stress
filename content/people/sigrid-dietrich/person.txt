@@ -1,0 +1,64 @@
+Title: Sigrid Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/marco-luettgen
+- 
+  type: relations/parental/friend
+  item: people/brent-hane-dvm
+- 
+  type: relations/money/debtor
+  item: people/mrs-katlyn-rice
+- 
+  type: relations/parental/colleague
+  item: people/kasandra-nienow-iii
+- 
+  type: relations/parental/brosis
+  item: people/noel-shields
+- 
+  type: relations/money/creditor
+  item: people/jamir-beer
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

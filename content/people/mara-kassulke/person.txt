@@ -1,0 +1,64 @@
+Title: Mara Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cydney-abernathy
+- 
+  type: relations/money/debtor
+  item: people/odell-auer-iii
+- 
+  type: relations/money/creditor
+  item: people/miracle-raynor
+- 
+  type: relations/parental/friend
+  item: people/mr-conrad-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/mrs-amira-kiehn
+- 
+  type: relations/parental/colleague
+  item: people/isidro-dare
+- 
+  type: relations/money/creditor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/client
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/work/employer
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/work/client
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Bud Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/maribel-mcglynn-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-vinnie-parisian-sr
+- 
+  type: relations/parental/mom
+  item: people/cornelius-keebler
+- 
+  type: relations/money/debtor
+  item: people/nya-fisher
+- 
+  type: relations/parental/friend
+  item: people/brad-breitenberg
+- 
+  type: relations/parental/colleague
+  item: people/mr-sterling-stoltenberg-iv
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/debtor
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/client
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

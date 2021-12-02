@@ -1,0 +1,44 @@
+Title: DuBuque, Hegmann and Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/creditor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/shaneton

@@ -1,0 +1,64 @@
+Title: Prof. Regan Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/autumn-kutch
+- 
+  type: relations/money/debtor
+  item: people/jake-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/prof-cleveland-ullrich-i
+- 
+  type: relations/money/debtor
+  item: people/cristian-blick
+- 
+  type: relations/money/creditor
+  item: people/prof-davonte-bernier-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-eliezer-beier-iii
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/employer
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

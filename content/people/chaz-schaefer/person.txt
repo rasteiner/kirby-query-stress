@@ -1,0 +1,64 @@
+Title: Chaz Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/edwina-crooks
+- 
+  type: relations/parental/dad
+  item: people/elody-tillman
+- 
+  type: relations/money/debtor
+  item: people/itzel-wiegand
+- 
+  type: relations/parental/brosis
+  item: people/tiana-tremblay
+- 
+  type: relations/money/debtor
+  item: people/baron-kunde
+- 
+  type: relations/parental/brosis
+  item: people/jacquelyn-wisoky
+- 
+  type: relations/work/client
+  item: companies/thompson-flatley
+- 
+  type: relations/work/client
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/employer
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

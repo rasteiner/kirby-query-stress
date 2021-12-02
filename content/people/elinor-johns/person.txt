@@ -1,0 +1,64 @@
+Title: Elinor Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kayley-price
+- 
+  type: relations/parental/mom
+  item: people/dominique-gerhold
+- 
+  type: relations/money/creditor
+  item: people/albertha-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/camren-kemmer
+- 
+  type: relations/money/debtor
+  item: people/albert-auer
+- 
+  type: relations/parental/mom
+  item: people/sterling-turcotte-sr
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/money/debtor
+  item: companies/stokes-inc
+- 
+  type: relations/work/client
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

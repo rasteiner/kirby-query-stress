@@ -1,0 +1,64 @@
+Title: Jerad Schroeder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/betty-blick
+- 
+  type: relations/parental/dad
+  item: people/lora-mann-md
+- 
+  type: relations/money/creditor
+  item: people/dr-declan-mclaughlin-ii
+- 
+  type: relations/parental/dad
+  item: people/rex-ward
+- 
+  type: relations/money/debtor
+  item: people/anastacio-mills
+- 
+  type: relations/money/debtor
+  item: people/dasia-nolan
+- 
+  type: relations/work/client
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

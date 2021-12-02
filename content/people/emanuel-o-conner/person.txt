@@ -1,0 +1,64 @@
+Title: Emanuel O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/houston-medhurst-v
+- 
+  type: relations/money/debtor
+  item: people/leslie-morissette-v
+- 
+  type: relations/parental/mom
+  item: people/mrs-cecilia-hickle-phd
+- 
+  type: relations/money/creditor
+  item: people/bailey-rodriguez
+- 
+  type: relations/parental/brosis
+  item: people/prof-melvin-emard-ii
+- 
+  type: relations/parental/mom
+  item: people/erwin-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

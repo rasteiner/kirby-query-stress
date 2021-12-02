@@ -1,0 +1,64 @@
+Title: Danyka Bosco Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-delpha-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/ms-marguerite-casper
+- 
+  type: relations/parental/colleague
+  item: people/nelson-ortiz
+- 
+  type: relations/money/creditor
+  item: people/tamara-nienow-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-magnus-barrows-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-rafael-zboncak-jr
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/client
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/client
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

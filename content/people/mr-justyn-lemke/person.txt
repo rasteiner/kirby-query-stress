@@ -1,0 +1,64 @@
+Title: Mr. Justyn Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/destini-o-conner
+- 
+  type: relations/parental/dad
+  item: people/miss-alvina-bins-dvm
+- 
+  type: relations/parental/dad
+  item: people/sigmund-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/kenton-grimes-iv
+- 
+  type: relations/parental/mom
+  item: people/nash-smith
+- 
+  type: relations/parental/colleague
+  item: people/wilton-powlowski
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/employer
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

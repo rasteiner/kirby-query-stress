@@ -1,0 +1,64 @@
+Title: Ettie Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-mario-mosciski-ii
+- 
+  type: relations/parental/brosis
+  item: people/dr-gonzalo-parker-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-caterina-wisozk
+- 
+  type: relations/parental/brosis
+  item: people/rebeka-mosciski-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-florine-wilderman-phd
+- 
+  type: relations/parental/colleague
+  item: people/darron-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/casper-inc
+- 
+  type: relations/money/creditor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/work/employer
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,65 @@
+Title: Annalise Ankunding DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/laisha-mccullough
+- 
+  type: relations/money/creditor
+  item: people/dr-zita-volkman
+- 
+  type: relations/parental/colleague
+  item: people/emmet-wisozk-v
+- 
+  type: relations/money/creditor
+  item: people/sofia-rohan
+- 
+  type: relations/parental/brosis
+  item: people/cordia-bernier
+- 
+  type: relations/parental/colleague
+  item: people/leopold-skiles
+- 
+  type: relations/work/client
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/client
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

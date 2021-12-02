@@ -1,0 +1,64 @@
+Title: Yoshiko Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cydney-huels
+- 
+  type: relations/money/creditor
+  item: people/haleigh-osinski-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-imani-shanahan
+- 
+  type: relations/money/creditor
+  item: people/dr-rhett-hilll-iv
+- 
+  type: relations/parental/brosis
+  item: people/yvonne-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/dusty-rempel
+- 
+  type: relations/work/employer
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/herzog-plc
+- 
+  type: relations/money/debtor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

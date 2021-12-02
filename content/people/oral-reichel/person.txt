@@ -1,0 +1,64 @@
+Title: Oral Reichel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-josh-lesch
+- 
+  type: relations/parental/colleague
+  item: people/alvera-rippin
+- 
+  type: relations/parental/mom
+  item: people/ozella-stracke
+- 
+  type: relations/parental/friend
+  item: people/aimee-yost
+- 
+  type: relations/money/creditor
+  item: people/andreane-koss
+- 
+  type: relations/parental/brosis
+  item: people/dr-christiana-hamill-iii
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/client
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

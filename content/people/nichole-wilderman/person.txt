@@ -1,0 +1,64 @@
+Title: Nichole Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/myrtie-thompson
+- 
+  type: relations/parental/brosis
+  item: people/junior-reynolds
+- 
+  type: relations/parental/dad
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/parental/brosis
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/money/debtor
+  item: people/lafayette-stehr
+- 
+  type: relations/money/debtor
+  item: people/maegan-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/work/client
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/client
+  item: companies/mraz-kub
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Ryleigh Haley I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-jarrett-abbott-ii
+- 
+  type: relations/parental/colleague
+  item: people/ms-olga-herzog
+- 
+  type: relations/money/creditor
+  item: people/lavonne-vandervort
+- 
+  type: relations/money/creditor
+  item: people/dr-delia-zieme
+- 
+  type: relations/parental/colleague
+  item: people/prof-osbaldo-lesch-iv
+- 
+  type: relations/parental/brosis
+  item: people/mrs-jakayla-romaguera-dds
+- 
+  type: relations/money/creditor
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/client
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

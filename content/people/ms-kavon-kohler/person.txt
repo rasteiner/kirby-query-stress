@@ -1,0 +1,65 @@
+Title: Ms. Kavon Kohler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/addie-schroeder
+- 
+  type: relations/parental/dad
+  item: people/josephine-heaney
+- 
+  type: relations/parental/brosis
+  item: people/dr-mable-hettinger
+- 
+  type: relations/parental/colleague
+  item: people/prof-magnus-hermiston-v
+- 
+  type: relations/money/debtor
+  item: people/vance-harris
+- 
+  type: relations/parental/colleague
+  item: people/hannah-jakubowski
+- 
+  type: relations/work/employer
+  item: companies/ratke-inc
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/client
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

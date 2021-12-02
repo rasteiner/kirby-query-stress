@@ -1,0 +1,64 @@
+Title: Jeffry Jaskolski MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cheyanne-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/brayan-watsica-jr
+- 
+  type: relations/parental/dad
+  item: people/ms-faye-reichert
+- 
+  type: relations/money/creditor
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/money/debtor
+  item: people/gino-flatley
+- 
+  type: relations/parental/mom
+  item: people/ara-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/money/debtor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Juston Wintheiser PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elinore-kulas
+- 
+  type: relations/parental/colleague
+  item: people/koby-rempel
+- 
+  type: relations/money/debtor
+  item: people/haven-kiehn
+- 
+  type: relations/parental/mom
+  item: people/prof-marco-walker
+- 
+  type: relations/money/creditor
+  item: people/mr-darrell-d-amore
+- 
+  type: relations/money/debtor
+  item: people/cecilia-purdy
+- 
+  type: relations/work/employer
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/client
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/client
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

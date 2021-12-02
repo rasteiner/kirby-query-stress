@@ -1,0 +1,65 @@
+Title: Annetta Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/johnny-kulas
+- 
+  type: relations/parental/mom
+  item: people/hailie-pfeffer
+- 
+  type: relations/parental/dad
+  item: people/gaston-prosacco
+- 
+  type: relations/money/creditor
+  item: people/kelley-krajcik
+- 
+  type: relations/parental/dad
+  item: people/clementina-johns
+- 
+  type: relations/parental/friend
+  item: people/dr-micheal-waters
+- 
+  type: relations/work/client
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

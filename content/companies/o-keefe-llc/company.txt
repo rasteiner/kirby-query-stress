@@ -1,0 +1,44 @@
+Title: O'Keefe LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/lehner-considine
+- 
+  type: relations/money/creditor
+  item: companies/harvey-ltd
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/south-emerson
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

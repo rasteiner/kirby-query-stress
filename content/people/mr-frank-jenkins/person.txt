@@ -1,0 +1,64 @@
+Title: Mr. Frank Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jaylon-nader
+- 
+  type: relations/money/creditor
+  item: people/braulio-willms-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-patricia-white-ii
+- 
+  type: relations/money/debtor
+  item: people/jolie-gleichner-ii
+- 
+  type: relations/parental/dad
+  item: people/mrs-yvonne-mcdermott
+- 
+  type: relations/parental/colleague
+  item: people/katelyn-carroll
+- 
+  type: relations/work/employer
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

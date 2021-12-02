@@ -1,0 +1,64 @@
+Title: Laurianne Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jamie-dicki
+- 
+  type: relations/parental/friend
+  item: people/emie-hermiston
+- 
+  type: relations/parental/friend
+  item: people/summer-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/peggie-pollich
+- 
+  type: relations/parental/dad
+  item: people/macy-gislason
+- 
+  type: relations/money/debtor
+  item: people/mr-koby-miller-sr
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/work/employer
+  item: companies/miller-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

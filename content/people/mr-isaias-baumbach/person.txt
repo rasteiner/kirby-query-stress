@@ -1,0 +1,64 @@
+Title: Mr. Isaias Baumbach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/noemy-flatley
+- 
+  type: relations/money/debtor
+  item: people/raina-schuster
+- 
+  type: relations/parental/friend
+  item: people/terrence-gottlieb
+- 
+  type: relations/parental/dad
+  item: people/hassie-koelpin
+- 
+  type: relations/money/debtor
+  item: people/gordon-balistreri
+- 
+  type: relations/parental/colleague
+  item: people/lauriane-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/emard-inc
+- 
+  type: relations/money/creditor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

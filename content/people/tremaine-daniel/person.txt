@@ -1,0 +1,65 @@
+Title: Tremaine Daniel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hillary-mccullough
+- 
+  type: relations/money/creditor
+  item: people/johnnie-altenwerth
+- 
+  type: relations/money/debtor
+  item: people/mr-davon-shanahan-iv
+- 
+  type: relations/parental/brosis
+  item: people/prof-edd-hartmann-v
+- 
+  type: relations/parental/mom
+  item: people/joseph-zieme
+- 
+  type: relations/money/creditor
+  item: people/stanley-mccullough
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/work/employer
+  item: companies/larson-denesik
+- 
+  type: relations/work/employer
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Melody Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jocelyn-towne-v
+- 
+  type: relations/money/debtor
+  item: people/archibald-auer
+- 
+  type: relations/money/debtor
+  item: people/jodie-green
+- 
+  type: relations/money/creditor
+  item: people/prof-donavon-kessler
+- 
+  type: relations/parental/brosis
+  item: people/miss-shania-johns
+- 
+  type: relations/money/debtor
+  item: people/mr-lee-bruen
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/botsford-plc
+- 
+  type: relations/work/employer
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

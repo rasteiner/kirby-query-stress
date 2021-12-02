@@ -1,0 +1,64 @@
+Title: Randi Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jamir-hansen
+- 
+  type: relations/money/debtor
+  item: people/norberto-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/victoria-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/prof-trudie-franecki-dds
+- 
+  type: relations/parental/friend
+  item: people/christiana-hyatt
+- 
+  type: relations/parental/mom
+  item: people/mr-brian-sawayn-ii
+- 
+  type: relations/work/client
+  item: companies/jones-daugherty
+- 
+  type: relations/work/employer
+  item: companies/ferry-inc
+- 
+  type: relations/work/client
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

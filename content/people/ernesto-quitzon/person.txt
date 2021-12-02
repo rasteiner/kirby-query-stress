@@ -1,0 +1,65 @@
+Title: Ernesto Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/max-kiehn
+- 
+  type: relations/money/debtor
+  item: people/hillard-doyle-v
+- 
+  type: relations/parental/mom
+  item: people/mr-westley-lebsack-dvm
+- 
+  type: relations/money/debtor
+  item: people/dr-anahi-cormier
+- 
+  type: relations/money/creditor
+  item: people/dr-orie-mueller-i
+- 
+  type: relations/parental/mom
+  item: people/ms-alexa-ebert-dvm
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/debtor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Prof. Priscilla Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mauricio-murazik
+- 
+  type: relations/money/debtor
+  item: people/dr-delores-armstrong
+- 
+  type: relations/parental/dad
+  item: people/reanna-baumbach-dds
+- 
+  type: relations/money/creditor
+  item: people/hannah-stamm
+- 
+  type: relations/money/debtor
+  item: people/prof-daryl-spinka
+- 
+  type: relations/parental/dad
+  item: people/cesar-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sporer-plc
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

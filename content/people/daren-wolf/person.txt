@@ -1,0 +1,64 @@
+Title: Daren Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/eulah-shanahan
+- 
+  type: relations/parental/mom
+  item: people/stephen-rath
+- 
+  type: relations/parental/colleague
+  item: people/jonathon-stracke
+- 
+  type: relations/parental/mom
+  item: people/lilliana-johnston-dvm
+- 
+  type: relations/parental/friend
+  item: people/dr-leif-hartmann
+- 
+  type: relations/parental/dad
+  item: people/bettye-corkery-dds
+- 
+  type: relations/work/employer
+  item: companies/beier-kub
+- 
+  type: relations/work/employer
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/client
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

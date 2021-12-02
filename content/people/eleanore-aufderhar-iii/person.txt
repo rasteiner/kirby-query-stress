@@ -1,0 +1,64 @@
+Title: Eleanore Aufderhar III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alycia-rice-phd
+- 
+  type: relations/parental/colleague
+  item: people/vena-lakin
+- 
+  type: relations/parental/mom
+  item: people/chaz-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/miss-marie-rowe-iv
+- 
+  type: relations/parental/dad
+  item: people/titus-nienow-iii
+- 
+  type: relations/parental/dad
+  item: people/vella-mayer
+- 
+  type: relations/work/client
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-fay
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

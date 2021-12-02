@@ -1,0 +1,64 @@
+Title: Christy Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kristopher-kulas
+- 
+  type: relations/parental/dad
+  item: people/mable-goldner
+- 
+  type: relations/parental/friend
+  item: people/shayne-turner
+- 
+  type: relations/money/creditor
+  item: people/otis-barrows
+- 
+  type: relations/parental/friend
+  item: people/dr-eldon-jacobi-dds
+- 
+  type: relations/money/debtor
+  item: people/kellen-deckow
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/money/creditor
+  item: companies/terry-ltd
+- 
+  type: relations/work/employer
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/employer
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Virginia Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/makayla-schinner-dvm
+- 
+  type: relations/parental/mom
+  item: people/sylvester-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/madonna-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/ethelyn-jast
+- 
+  type: relations/parental/dad
+  item: people/naomi-welch
+- 
+  type: relations/parental/brosis
+  item: people/jettie-hackett
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/work/client
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

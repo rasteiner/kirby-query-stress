@@ -1,0 +1,64 @@
+Title: Lacy Schaden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shayne-runte
+- 
+  type: relations/parental/brosis
+  item: people/enoch-pfeffer
+- 
+  type: relations/parental/friend
+  item: people/ofelia-homenick-jr
+- 
+  type: relations/parental/brosis
+  item: people/rasheed-borer
+- 
+  type: relations/parental/dad
+  item: people/jesus-herman
+- 
+  type: relations/parental/colleague
+  item: people/wilton-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/work/client
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

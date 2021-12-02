@@ -1,0 +1,65 @@
+Title: Miss Hulda Hodkiewicz IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-lina-bahringer-sr
+- 
+  type: relations/money/debtor
+  item: people/dr-raymundo-schmidt
+- 
+  type: relations/parental/colleague
+  item: people/nya-swaniawski
+- 
+  type: relations/parental/colleague
+  item: people/flavio-keeling
+- 
+  type: relations/parental/brosis
+  item: people/dr-cortney-green
+- 
+  type: relations/parental/mom
+  item: people/junior-cremin
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/client
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

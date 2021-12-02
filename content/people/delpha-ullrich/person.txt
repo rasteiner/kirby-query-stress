@@ -1,0 +1,64 @@
+Title: Delpha Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/amelie-walsh
+- 
+  type: relations/money/creditor
+  item: people/sadie-kertzmann
+- 
+  type: relations/money/creditor
+  item: people/eveline-torp
+- 
+  type: relations/parental/mom
+  item: people/augustus-hudson
+- 
+  type: relations/money/debtor
+  item: people/melisa-hayes-ii
+- 
+  type: relations/parental/dad
+  item: people/jamil-von
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Dr. Flavie Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-rogelio-hills
+- 
+  type: relations/parental/dad
+  item: people/mabel-balistreri-sr
+- 
+  type: relations/money/creditor
+  item: people/mr-arvel-kerluke
+- 
+  type: relations/parental/friend
+  item: people/mrs-alyce-vandervort-iv
+- 
+  type: relations/money/debtor
+  item: people/ashleigh-prosacco
+- 
+  type: relations/parental/friend
+  item: people/winnifred-reilly-dvm
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/work/employer
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/employer
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

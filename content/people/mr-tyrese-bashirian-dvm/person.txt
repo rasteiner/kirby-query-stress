@@ -1,0 +1,64 @@
+Title: Mr. Tyrese Bashirian DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kristy-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/elmira-cummings
+- 
+  type: relations/parental/colleague
+  item: people/lorenz-donnelly
+- 
+  type: relations/money/debtor
+  item: people/xzavier-schaefer
+- 
+  type: relations/parental/dad
+  item: people/mr-felton-considine-dvm
+- 
+  type: relations/parental/friend
+  item: people/manuel-harris
+- 
+  type: relations/money/creditor
+  item: companies/howe-group
+- 
+  type: relations/money/creditor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

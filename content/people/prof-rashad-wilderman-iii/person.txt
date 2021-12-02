@@ -1,0 +1,64 @@
+Title: Prof. Rashad Wilderman III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-alessia-blanda
+- 
+  type: relations/parental/dad
+  item: people/reuben-grady
+- 
+  type: relations/money/debtor
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/money/creditor
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/parental/brosis
+  item: people/brendon-ryan-md
+- 
+  type: relations/money/debtor
+  item: people/derick-pollich
+- 
+  type: relations/money/debtor
+  item: companies/collins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

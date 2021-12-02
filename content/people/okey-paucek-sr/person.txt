@@ -1,0 +1,64 @@
+Title: Okey Paucek Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-jamal-pagac
+- 
+  type: relations/money/creditor
+  item: people/maximillian-fadel
+- 
+  type: relations/money/debtor
+  item: people/cathrine-cummings
+- 
+  type: relations/parental/mom
+  item: people/damion-lindgren-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-arnaldo-brakus-ii
+- 
+  type: relations/parental/dad
+  item: people/lenora-ullrich-ii
+- 
+  type: relations/money/creditor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/work/employer
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

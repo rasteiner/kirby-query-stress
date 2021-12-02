@@ -1,0 +1,64 @@
+Title: Pearlie Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/easton-mann
+- 
+  type: relations/parental/colleague
+  item: people/jude-kreiger-v
+- 
+  type: relations/parental/friend
+  item: people/cecilia-koelpin
+- 
+  type: relations/parental/friend
+  item: people/mrs-madge-stiedemann-jr
+- 
+  type: relations/parental/mom
+  item: people/velma-berge
+- 
+  type: relations/parental/brosis
+  item: people/jarvis-stanton
+- 
+  type: relations/work/client
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/hane-plc
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-funk
+- 
+  type: relations/work/client
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

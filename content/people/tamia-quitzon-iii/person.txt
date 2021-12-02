@@ -1,0 +1,64 @@
+Title: Tamia Quitzon III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/keanu-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/emiliano-donnelly
+- 
+  type: relations/parental/friend
+  item: people/rocio-mann-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-jaeden-mraz
+- 
+  type: relations/parental/colleague
+  item: people/prof-vance-blanda
+- 
+  type: relations/parental/mom
+  item: people/abbie-hackett
+- 
+  type: relations/money/debtor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

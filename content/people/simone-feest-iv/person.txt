@@ -1,0 +1,64 @@
+Title: Simone Feest IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/paxton-klein
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ashleigh-vonrueden-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-vern-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/prof-eudora-kreiger-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-marlene-purdy-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-ole-ryan
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

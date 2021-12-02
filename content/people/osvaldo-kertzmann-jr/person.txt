@@ -1,0 +1,64 @@
+Title: Osvaldo Kertzmann Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/katelyn-kozey
+- 
+  type: relations/parental/dad
+  item: people/mr-rey-beier-i
+- 
+  type: relations/money/debtor
+  item: people/nikki-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/gene-yost-iv
+- 
+  type: relations/parental/mom
+  item: people/faustino-mccullough
+- 
+  type: relations/money/debtor
+  item: people/vilma-o-connell-phd
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/work/employer
+  item: companies/hane-plc
+- 
+  type: relations/work/client
+  item: companies/gorczany-funk
+- 
+  type: relations/money/creditor
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

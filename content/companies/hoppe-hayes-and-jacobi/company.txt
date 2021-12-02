@@ -1,0 +1,43 @@
+Title: Hoppe, Hayes and Jacobi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-inc
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/creditor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt

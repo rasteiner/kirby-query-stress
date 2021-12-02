@@ -1,0 +1,43 @@
+Title: Harris, Reinger and Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-plc
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/price-toy-and-roob
+- 
+  type: relations/money/creditor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/kuhicport

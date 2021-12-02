@@ -1,0 +1,64 @@
+Title: Max Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alia-zboncak
+- 
+  type: relations/parental/friend
+  item: people/abigail-daniel
+- 
+  type: relations/parental/colleague
+  item: people/marjolaine-bode-v
+- 
+  type: relations/parental/mom
+  item: people/mr-jarret-wyman
+- 
+  type: relations/parental/dad
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

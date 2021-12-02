@@ -1,0 +1,64 @@
+Title: Muhammad Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-alisha-kilback
+- 
+  type: relations/parental/brosis
+  item: people/brandon-braun
+- 
+  type: relations/parental/dad
+  item: people/valentina-hahn
+- 
+  type: relations/parental/dad
+  item: people/onie-nolan
+- 
+  type: relations/parental/mom
+  item: people/miss-fabiola-dickens
+- 
+  type: relations/parental/dad
+  item: people/dr-dell-leuschke-iii
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/client
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

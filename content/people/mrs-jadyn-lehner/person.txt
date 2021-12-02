@@ -1,0 +1,64 @@
+Title: Mrs. Jadyn Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/juliana-hane
+- 
+  type: relations/money/debtor
+  item: people/brett-lehner
+- 
+  type: relations/parental/friend
+  item: people/eulah-shanahan
+- 
+  type: relations/parental/mom
+  item: people/stephen-rath
+- 
+  type: relations/money/creditor
+  item: people/jonathon-stracke
+- 
+  type: relations/money/debtor
+  item: people/lilliana-johnston-dvm
+- 
+  type: relations/work/client
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-ltd
+- 
+  type: relations/work/employer
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

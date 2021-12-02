@@ -1,0 +1,64 @@
+Title: Casandra Mayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marilyne-predovic-md
+- 
+  type: relations/parental/mom
+  item: people/dr-garrett-osinski
+- 
+  type: relations/money/creditor
+  item: people/dr-sonny-altenwerth-v
+- 
+  type: relations/parental/dad
+  item: people/mr-mose-heaney
+- 
+  type: relations/parental/mom
+  item: people/prof-noe-wunsch-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-macie-gleichner-md
+- 
+  type: relations/work/client
+  item: companies/stroman-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

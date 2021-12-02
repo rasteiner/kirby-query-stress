@@ -1,0 +1,64 @@
+Title: Aliyah Kilback
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/clark-doyle
+- 
+  type: relations/parental/mom
+  item: people/prof-robbie-carroll-iv
+- 
+  type: relations/parental/colleague
+  item: people/neva-rutherford
+- 
+  type: relations/parental/friend
+  item: people/stevie-kuhic
+- 
+  type: relations/parental/colleague
+  item: people/bill-gibson-dds
+- 
+  type: relations/parental/dad
+  item: people/adrienne-renner
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Dr. Guillermo Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/colby-streich
+- 
+  type: relations/parental/friend
+  item: people/nikolas-smith
+- 
+  type: relations/parental/dad
+  item: people/prof-jordy-weissnat-md
+- 
+  type: relations/parental/friend
+  item: people/ed-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/damien-franecki
+- 
+  type: relations/parental/mom
+  item: people/georgiana-ernser
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

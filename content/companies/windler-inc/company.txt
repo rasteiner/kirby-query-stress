@@ -1,0 +1,43 @@
+Title: Windler Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/port-ricky

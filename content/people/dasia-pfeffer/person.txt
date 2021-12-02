@@ -1,0 +1,64 @@
+Title: Dasia Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/addie-medhurst
+- 
+  type: relations/parental/friend
+  item: people/jeffrey-weber
+- 
+  type: relations/parental/dad
+  item: people/mr-alfredo-pfannerstill-ii
+- 
+  type: relations/money/creditor
+  item: people/miss-gwen-upton
+- 
+  type: relations/parental/friend
+  item: people/etha-thiel
+- 
+  type: relations/money/debtor
+  item: people/ms-hertha-douglas-iii
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/work/client
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

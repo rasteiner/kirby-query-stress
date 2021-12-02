@@ -1,0 +1,64 @@
+Title: Clare Leuschke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/christian-cruickshank-ii
+- 
+  type: relations/parental/brosis
+  item: people/prof-travon-hamill
+- 
+  type: relations/parental/brosis
+  item: people/dr-maci-hermiston-md
+- 
+  type: relations/parental/brosis
+  item: people/miss-tina-dare
+- 
+  type: relations/money/creditor
+  item: people/dr-telly-o-keefe-ii
+- 
+  type: relations/parental/colleague
+  item: people/mauricio-cormier
+- 
+  type: relations/money/debtor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/employer
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/creditor
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

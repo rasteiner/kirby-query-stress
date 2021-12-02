@@ -1,0 +1,64 @@
+Title: Brittany Harber Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-vern-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/marcella-marks
+- 
+  type: relations/money/debtor
+  item: people/adaline-daniel
+- 
+  type: relations/parental/colleague
+  item: people/mrs-emmalee-rogahn-dds
+- 
+  type: relations/parental/friend
+  item: people/jed-kautzer
+- 
+  type: relations/money/debtor
+  item: people/mitchel-kirlin
+- 
+  type: relations/work/client
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/employer
+  item: companies/becker-ltd
+- 
+  type: relations/work/client
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

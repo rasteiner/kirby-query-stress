@@ -1,0 +1,65 @@
+Title: Bartholome Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-idella-rippin-iii
+- 
+  type: relations/parental/dad
+  item: people/gerhard-hauck
+- 
+  type: relations/parental/mom
+  item: people/willie-baumbach
+- 
+  type: relations/parental/brosis
+  item: people/melany-sauer
+- 
+  type: relations/parental/brosis
+  item: people/vincenza-fritsch-md
+- 
+  type: relations/money/creditor
+  item: people/jerome-rodriguez
+- 
+  type: relations/work/client
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

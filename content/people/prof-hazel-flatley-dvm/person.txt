@@ -1,0 +1,64 @@
+Title: Prof. Hazel Flatley DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-laron-gerlach
+- 
+  type: relations/parental/mom
+  item: people/berry-bartell
+- 
+  type: relations/parental/colleague
+  item: people/addison-grant
+- 
+  type: relations/parental/dad
+  item: people/gertrude-rogahn
+- 
+  type: relations/money/debtor
+  item: people/nola-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/mr-casimer-keebler-sr
+- 
+  type: relations/money/debtor
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/work/employer
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

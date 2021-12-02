@@ -1,0 +1,64 @@
+Title: Mr. Joshua Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-dorothy-veum
+- 
+  type: relations/parental/mom
+  item: people/mrs-meagan-feest
+- 
+  type: relations/money/debtor
+  item: people/annetta-shanahan
+- 
+  type: relations/parental/colleague
+  item: people/sincere-lesch
+- 
+  type: relations/money/creditor
+  item: people/branson-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/emerald-douglas
+- 
+  type: relations/work/client
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

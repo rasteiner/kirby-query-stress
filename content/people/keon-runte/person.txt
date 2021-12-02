@@ -1,0 +1,64 @@
+Title: Keon Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/otho-fritsch
+- 
+  type: relations/parental/friend
+  item: people/nya-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/parental/friend
+  item: people/emiliano-homenick
+- 
+  type: relations/parental/brosis
+  item: people/vivien-boyle
+- 
+  type: relations/parental/friend
+  item: people/mercedes-legros
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

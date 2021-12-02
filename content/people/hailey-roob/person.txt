@@ -1,0 +1,64 @@
+Title: Hailey Roob
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/liam-corwin
+- 
+  type: relations/parental/mom
+  item: people/mrs-antonina-pfeffer
+- 
+  type: relations/money/debtor
+  item: people/gabrielle-ferry-i
+- 
+  type: relations/parental/brosis
+  item: people/lamar-kerluke-phd
+- 
+  type: relations/parental/dad
+  item: people/prof-lillie-schultz-ii
+- 
+  type: relations/parental/dad
+  item: people/birdie-hudson
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

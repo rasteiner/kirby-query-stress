@@ -1,0 +1,43 @@
+Title: Bogan and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/money/debtor
+  item: companies/wyman-legros
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/location/visited
+  item: places/new-carmela
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt

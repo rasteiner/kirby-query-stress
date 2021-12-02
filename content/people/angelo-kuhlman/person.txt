@@ -1,0 +1,64 @@
+Title: Angelo Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/steve-predovic
+- 
+  type: relations/money/debtor
+  item: people/prof-bria-yost
+- 
+  type: relations/money/debtor
+  item: people/dr-jamal-pagac
+- 
+  type: relations/parental/dad
+  item: people/maximillian-fadel
+- 
+  type: relations/parental/friend
+  item: people/cathrine-cummings
+- 
+  type: relations/parental/dad
+  item: people/damion-lindgren-dds
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

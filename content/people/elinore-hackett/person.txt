@@ -1,0 +1,64 @@
+Title: Elinore Hackett
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sarina-johnson
+- 
+  type: relations/parental/brosis
+  item: people/chadrick-reichert
+- 
+  type: relations/parental/brosis
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/parental/colleague
+  item: people/oma-howell
+- 
+  type: relations/parental/brosis
+  item: people/jamie-dicki
+- 
+  type: relations/parental/brosis
+  item: people/emie-hermiston
+- 
+  type: relations/work/employer
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/employer
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/work/employer
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

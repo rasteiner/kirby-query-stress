@@ -1,0 +1,64 @@
+Title: Monique Kilback
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elton-mante
+- 
+  type: relations/money/creditor
+  item: people/hilbert-ullrich
+- 
+  type: relations/parental/brosis
+  item: people/coralie-feil
+- 
+  type: relations/parental/brosis
+  item: people/anais-jakubowski
+- 
+  type: relations/money/debtor
+  item: people/leslie-hilpert
+- 
+  type: relations/parental/friend
+  item: people/theron-heller
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/client
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

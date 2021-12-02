@@ -1,0 +1,64 @@
+Title: Mara Johnson DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dawson-oberbrunner
+- 
+  type: relations/parental/dad
+  item: people/annie-wyman
+- 
+  type: relations/money/creditor
+  item: people/mr-toney-wehner-v
+- 
+  type: relations/parental/friend
+  item: people/prof-coy-barton
+- 
+  type: relations/parental/dad
+  item: people/alford-kuphal-dvm
+- 
+  type: relations/parental/friend
+  item: people/mrs-meta-pagac-sr
+- 
+  type: relations/work/employer
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/client
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/debtor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

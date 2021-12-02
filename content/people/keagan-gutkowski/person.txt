@@ -1,0 +1,64 @@
+Title: Keagan Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-kellie-thiel
+- 
+  type: relations/money/creditor
+  item: people/treva-rogahn
+- 
+  type: relations/money/debtor
+  item: people/filiberto-cummerata
+- 
+  type: relations/money/creditor
+  item: people/josianne-bernhard
+- 
+  type: relations/parental/dad
+  item: people/augustine-toy
+- 
+  type: relations/money/debtor
+  item: people/shea-witting
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/money/debtor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

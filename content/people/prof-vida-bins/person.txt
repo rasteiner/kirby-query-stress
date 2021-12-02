@@ -1,0 +1,64 @@
+Title: Prof. Vida Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marie-littel-dvm
+- 
+  type: relations/parental/mom
+  item: people/miss-sarah-reilly
+- 
+  type: relations/parental/friend
+  item: people/miss-albina-rolfson-iv
+- 
+  type: relations/parental/brosis
+  item: people/amanda-friesen
+- 
+  type: relations/money/creditor
+  item: people/lempi-vonrueden
+- 
+  type: relations/parental/colleague
+  item: people/moses-huel-md
+- 
+  type: relations/work/employer
+  item: companies/boyer-llc
+- 
+  type: relations/work/employer
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/client
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

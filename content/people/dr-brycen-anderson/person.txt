@@ -1,0 +1,64 @@
+Title: Dr. Brycen Anderson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/zola-kihn
+- 
+  type: relations/parental/colleague
+  item: people/imelda-abshire
+- 
+  type: relations/parental/mom
+  item: people/dr-ward-bins
+- 
+  type: relations/parental/colleague
+  item: people/prof-ursula-cronin
+- 
+  type: relations/parental/colleague
+  item: people/arvel-rosenbaum
+- 
+  type: relations/parental/colleague
+  item: people/anjali-lind
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

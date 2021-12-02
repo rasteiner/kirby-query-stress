@@ -1,0 +1,64 @@
+Title: Myrna Cruickshank Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marilyne-predovic-md
+- 
+  type: relations/parental/mom
+  item: people/dr-garrett-osinski
+- 
+  type: relations/parental/friend
+  item: people/dr-sonny-altenwerth-v
+- 
+  type: relations/parental/friend
+  item: people/mr-mose-heaney
+- 
+  type: relations/parental/mom
+  item: people/prof-noe-wunsch-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-macie-gleichner-md
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/work/employer
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/employer
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/employer
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

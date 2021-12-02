@@ -1,0 +1,66 @@
+Title: Dr. Velda Cruickshank
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miguel-wehner
+- 
+  type: relations/parental/colleague
+  item: people/ettie-lemke
+- 
+  type: relations/parental/dad
+  item: people/myrtis-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/guadalupe-west
+- 
+  type: relations/parental/brosis
+  item: people/dr-alexys-russel
+- 
+  type: relations/money/creditor
+  item: people/coby-ferry
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

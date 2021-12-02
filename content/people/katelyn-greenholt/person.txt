@@ -1,0 +1,64 @@
+Title: Katelyn Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-trinity-d-amore-jr
+- 
+  type: relations/parental/brosis
+  item: people/curt-balistreri
+- 
+  type: relations/parental/mom
+  item: people/mae-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/della-kohler-phd
+- 
+  type: relations/parental/mom
+  item: people/erin-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/miss-trycia-cartwright-sr
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/work/client
+  item: companies/west-barrows
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

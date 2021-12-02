@@ -1,0 +1,64 @@
+Title: Hoyt Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-billie-smitham-v
+- 
+  type: relations/parental/brosis
+  item: people/giovanny-connelly
+- 
+  type: relations/parental/mom
+  item: people/marjorie-kris-ii
+- 
+  type: relations/money/debtor
+  item: people/dasia-toy
+- 
+  type: relations/parental/mom
+  item: people/tristin-conroy
+- 
+  type: relations/parental/colleague
+  item: people/asa-kulas
+- 
+  type: relations/work/client
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/money/debtor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/employer
+  item: companies/beahan-sauer
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

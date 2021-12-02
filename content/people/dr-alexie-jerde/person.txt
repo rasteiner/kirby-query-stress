@@ -1,0 +1,64 @@
+Title: Dr. Alexie Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hilma-collier
+- 
+  type: relations/money/creditor
+  item: people/ms-maymie-cummerata-ii
+- 
+  type: relations/parental/mom
+  item: people/jeff-beer
+- 
+  type: relations/parental/mom
+  item: people/bernadine-williamson
+- 
+  type: relations/parental/colleague
+  item: people/ms-euna-fadel
+- 
+  type: relations/money/debtor
+  item: people/earnest-wiza
+- 
+  type: relations/work/client
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

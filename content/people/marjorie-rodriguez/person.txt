@@ -1,0 +1,64 @@
+Title: Marjorie Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/harry-cremin
+- 
+  type: relations/parental/friend
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/money/debtor
+  item: people/christian-cruickshank-ii
+- 
+  type: relations/parental/dad
+  item: people/prof-travon-hamill
+- 
+  type: relations/parental/dad
+  item: people/dr-maci-hermiston-md
+- 
+  type: relations/parental/dad
+  item: people/miss-tina-dare
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/work/employer
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

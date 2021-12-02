@@ -1,0 +1,65 @@
+Title: Mrs. Elfrieda Erdman Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/geoffrey-schaden
+- 
+  type: relations/parental/brosis
+  item: people/ms-drew-prohaska-dvm
+- 
+  type: relations/money/debtor
+  item: people/michele-smitham-iii
+- 
+  type: relations/parental/brosis
+  item: people/tessie-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/elmo-kilback
+- 
+  type: relations/parental/colleague
+  item: people/rocky-sipes
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/schiller-collier
+- 
+  type: relations/money/creditor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/creditor
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

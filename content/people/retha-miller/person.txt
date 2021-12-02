@@ -1,0 +1,64 @@
+Title: Retha Miller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-oda-mills-dvm
+- 
+  type: relations/parental/colleague
+  item: people/maribel-blanda
+- 
+  type: relations/parental/dad
+  item: people/colleen-bruen
+- 
+  type: relations/parental/friend
+  item: people/bessie-corwin
+- 
+  type: relations/parental/brosis
+  item: people/prof-kamryn-jenkins
+- 
+  type: relations/parental/friend
+  item: people/shawna-parisian
+- 
+  type: relations/money/creditor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/work/client
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

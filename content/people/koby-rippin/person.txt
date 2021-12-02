@@ -1,0 +1,64 @@
+Title: Koby Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/andrew-reinger-iv
+- 
+  type: relations/money/creditor
+  item: people/rachel-wyman
+- 
+  type: relations/parental/friend
+  item: people/prof-walker-fisher
+- 
+  type: relations/money/debtor
+  item: people/kayden-pacocha
+- 
+  type: relations/parental/friend
+  item: people/rick-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/lia-kuhlman
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/work/employer
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Bobby Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/sheridan-boehm-dds
+- 
+  type: relations/money/creditor
+  item: people/clyde-zemlak
+- 
+  type: relations/parental/dad
+  item: people/madisen-gutmann-iv
+- 
+  type: relations/parental/friend
+  item: people/micah-howe-sr
+- 
+  type: relations/money/debtor
+  item: people/margarette-heidenreich
+- 
+  type: relations/money/creditor
+  item: people/miss-elvera-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/client
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Maritza Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cassie-cummerata
+- 
+  type: relations/money/debtor
+  item: people/fidel-renner
+- 
+  type: relations/parental/mom
+  item: people/velva-volkman
+- 
+  type: relations/parental/dad
+  item: people/rory-lehner
+- 
+  type: relations/money/creditor
+  item: people/stephen-rolfson
+- 
+  type: relations/parental/colleague
+  item: people/maxwell-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

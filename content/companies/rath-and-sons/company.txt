@@ -1,0 +1,43 @@
+Title: Rath and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/leffler-inc
+- 
+  type: relations/money/creditor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/money/creditor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

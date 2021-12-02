@@ -1,0 +1,64 @@
+Title: Billie Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-vincenza-denesik
+- 
+  type: relations/parental/mom
+  item: people/rosendo-howe
+- 
+  type: relations/parental/colleague
+  item: people/lance-emard
+- 
+  type: relations/parental/colleague
+  item: people/theresa-mcdermott
+- 
+  type: relations/parental/brosis
+  item: people/adrienne-funk-dds
+- 
+  type: relations/parental/friend
+  item: people/myrtice-strosin
+- 
+  type: relations/work/employer
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

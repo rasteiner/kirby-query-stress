@@ -1,0 +1,64 @@
+Title: Mrs. Lucinda Hoeger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/thea-will
+- 
+  type: relations/money/creditor
+  item: people/ines-heller
+- 
+  type: relations/parental/friend
+  item: people/jaycee-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/dr-reanna-bruen
+- 
+  type: relations/money/debtor
+  item: people/blake-miller
+- 
+  type: relations/money/creditor
+  item: people/holly-pollich
+- 
+  type: relations/work/employer
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

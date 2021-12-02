@@ -1,0 +1,64 @@
+Title: Camylle Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marquis-orn
+- 
+  type: relations/parental/dad
+  item: people/gabriel-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/felicita-deckow
+- 
+  type: relations/parental/colleague
+  item: people/grant-schaden-phd
+- 
+  type: relations/money/creditor
+  item: people/jaquelin-pollich-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-raoul-greenfelder-dvm
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/money/creditor
+  item: companies/smith-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Hillary Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/terrance-schuster
+- 
+  type: relations/parental/colleague
+  item: people/prof-kamron-boyer-dds
+- 
+  type: relations/money/debtor
+  item: people/hassie-white
+- 
+  type: relations/parental/friend
+  item: people/danika-stroman
+- 
+  type: relations/parental/dad
+  item: people/khalil-schmitt
+- 
+  type: relations/money/creditor
+  item: people/dr-virgil-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

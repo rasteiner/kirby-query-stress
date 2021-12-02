@@ -1,0 +1,65 @@
+Title: Dr. Jonatan Luettgen Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/laisha-mccullough
+- 
+  type: relations/money/debtor
+  item: people/dr-zita-volkman
+- 
+  type: relations/money/debtor
+  item: people/emmet-wisozk-v
+- 
+  type: relations/parental/dad
+  item: people/sofia-rohan
+- 
+  type: relations/parental/mom
+  item: people/cordia-bernier
+- 
+  type: relations/parental/friend
+  item: people/leopold-skiles
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/client
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

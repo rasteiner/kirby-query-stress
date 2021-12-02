@@ -1,0 +1,64 @@
+Title: Genoveva Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-kailey-erdman
+- 
+  type: relations/money/creditor
+  item: people/clara-dare
+- 
+  type: relations/money/debtor
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/money/creditor
+  item: people/reyes-koepp
+- 
+  type: relations/parental/friend
+  item: people/buck-erdman
+- 
+  type: relations/parental/colleague
+  item: people/prof-mervin-renner
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

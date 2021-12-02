@@ -1,0 +1,64 @@
+Title: Prof. Andre Tillman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/juwan-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/mrs-kirstin-marquardt-i
+- 
+  type: relations/parental/friend
+  item: people/adam-spinka
+- 
+  type: relations/parental/brosis
+  item: people/erna-kertzmann-i
+- 
+  type: relations/parental/brosis
+  item: people/sadie-gerlach-dvm
+- 
+  type: relations/parental/mom
+  item: people/lacey-schmidt-phd
+- 
+  type: relations/work/employer
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

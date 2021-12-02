@@ -1,0 +1,65 @@
+Title: Keith Grimes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-myrl-huel
+- 
+  type: relations/money/creditor
+  item: people/prof-susana-johnston
+- 
+  type: relations/money/debtor
+  item: people/kathryn-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/alaina-hane
+- 
+  type: relations/parental/mom
+  item: people/lila-will
+- 
+  type: relations/parental/dad
+  item: people/neoma-casper
+- 
+  type: relations/money/creditor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/money/debtor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

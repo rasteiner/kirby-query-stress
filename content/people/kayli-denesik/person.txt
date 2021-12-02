@@ -1,0 +1,64 @@
+Title: Kayli Denesik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/zella-maggio
+- 
+  type: relations/parental/brosis
+  item: people/miss-lavina-hettinger
+- 
+  type: relations/parental/dad
+  item: people/lia-hettinger
+- 
+  type: relations/money/creditor
+  item: people/velda-maggio
+- 
+  type: relations/parental/mom
+  item: people/derek-sanford-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-mckenna-terry-dvm
+- 
+  type: relations/work/client
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/o-keefe-group
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Gerardo Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-felicity-daniel
+- 
+  type: relations/money/debtor
+  item: people/carolyn-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/prof-catherine-hackett-v
+- 
+  type: relations/parental/brosis
+  item: people/ms-tressa-mueller
+- 
+  type: relations/parental/brosis
+  item: people/maybell-herzog
+- 
+  type: relations/money/debtor
+  item: people/oren-hackett
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/client
+  item: companies/littel-armstrong
+- 
+  type: relations/work/client
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

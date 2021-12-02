@@ -1,0 +1,64 @@
+Title: Haylie Muller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bernardo-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/bobby-corwin
+- 
+  type: relations/parental/brosis
+  item: people/dasia-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/prof-lauren-armstrong-dvm
+- 
+  type: relations/parental/mom
+  item: people/elissa-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/rod-kerluke
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/work/employer
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

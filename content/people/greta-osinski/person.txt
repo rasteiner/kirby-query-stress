@@ -1,0 +1,64 @@
+Title: Greta Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-immanuel-bartell
+- 
+  type: relations/parental/colleague
+  item: people/riley-lakin
+- 
+  type: relations/parental/mom
+  item: people/vinnie-lemke
+- 
+  type: relations/parental/brosis
+  item: people/kenyon-kilback-dvm
+- 
+  type: relations/money/creditor
+  item: people/muhammad-dare
+- 
+  type: relations/money/debtor
+  item: people/glenda-bruen-sr
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

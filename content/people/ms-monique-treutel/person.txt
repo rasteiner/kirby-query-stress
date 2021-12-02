@@ -1,0 +1,64 @@
+Title: Ms. Monique Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/oran-dooley
+- 
+  type: relations/parental/brosis
+  item: people/ellen-wyman
+- 
+  type: relations/parental/brosis
+  item: people/ms-theodora-hilpert-md
+- 
+  type: relations/parental/dad
+  item: people/prof-arnoldo-lehner-md
+- 
+  type: relations/parental/colleague
+  item: people/ben-stiedemann-i
+- 
+  type: relations/money/creditor
+  item: people/gust-hickle
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/employer
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/employer
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

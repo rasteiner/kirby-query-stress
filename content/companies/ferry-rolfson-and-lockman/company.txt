@@ -1,0 +1,43 @@
+Title: Ferry, Rolfson and Lockman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/debtor
+  item: companies/keebler-inc
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-gaylord
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/lennyton

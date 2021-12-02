@@ -1,0 +1,64 @@
+Title: Hank Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/neil-jones
+- 
+  type: relations/parental/mom
+  item: people/wilburn-weber
+- 
+  type: relations/money/creditor
+  item: people/lavina-reilly
+- 
+  type: relations/parental/brosis
+  item: people/cristian-erdman
+- 
+  type: relations/parental/mom
+  item: people/ms-hilda-goyette-phd
+- 
+  type: relations/parental/dad
+  item: people/alfonzo-leffler
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-ltd
+- 
+  type: relations/work/client
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

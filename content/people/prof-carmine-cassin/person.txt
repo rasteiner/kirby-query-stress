@@ -1,0 +1,64 @@
+Title: Prof. Carmine Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mertie-prosacco
+- 
+  type: relations/money/creditor
+  item: people/anabel-heathcote
+- 
+  type: relations/money/creditor
+  item: people/dr-nathan-skiles
+- 
+  type: relations/parental/colleague
+  item: people/edna-schimmel
+- 
+  type: relations/money/creditor
+  item: people/dr-devin-schuppe
+- 
+  type: relations/money/debtor
+  item: people/ms-agnes-hackett
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

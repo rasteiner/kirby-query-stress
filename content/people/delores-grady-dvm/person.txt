@@ -1,0 +1,64 @@
+Title: Delores Grady DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lauriane-zulauf
+- 
+  type: relations/parental/dad
+  item: people/myah-murray
+- 
+  type: relations/parental/brosis
+  item: people/marcus-schinner-ii
+- 
+  type: relations/money/creditor
+  item: people/ms-pasquale-stiedemann-i
+- 
+  type: relations/parental/mom
+  item: people/prof-norene-prohaska-md
+- 
+  type: relations/money/creditor
+  item: people/heidi-kuhn
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/client
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/client
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

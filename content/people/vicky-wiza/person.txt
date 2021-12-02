@@ -1,0 +1,65 @@
+Title: Vicky Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/zoe-hansen
+- 
+  type: relations/parental/mom
+  item: people/jason-ullrich
+- 
+  type: relations/parental/mom
+  item: people/prof-opal-hammes-iv
+- 
+  type: relations/money/debtor
+  item: people/jewel-schowalter
+- 
+  type: relations/parental/mom
+  item: people/rosella-bartoletti
+- 
+  type: relations/parental/friend
+  item: people/madie-schmeler-v
+- 
+  type: relations/money/debtor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/client
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

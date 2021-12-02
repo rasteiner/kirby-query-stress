@@ -1,0 +1,64 @@
+Title: Dr. Kellen Fay III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/harvey-gerlach
+- 
+  type: relations/parental/mom
+  item: people/mr-leonardo-schoen
+- 
+  type: relations/parental/dad
+  item: people/josie-stehr-md
+- 
+  type: relations/money/debtor
+  item: people/carmen-connelly
+- 
+  type: relations/parental/colleague
+  item: people/dr-verona-ullrich
+- 
+  type: relations/money/creditor
+  item: people/hans-lebsack
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/money/creditor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

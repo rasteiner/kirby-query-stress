@@ -1,0 +1,64 @@
+Title: Aileen Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lawrence-o-kon
+- 
+  type: relations/parental/friend
+  item: people/joy-stracke
+- 
+  type: relations/parental/mom
+  item: people/prof-selina-funk
+- 
+  type: relations/parental/colleague
+  item: people/mrs-delphine-rohan
+- 
+  type: relations/parental/brosis
+  item: people/dr-betsy-schneider
+- 
+  type: relations/parental/friend
+  item: people/prof-steve-maggio
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/client
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

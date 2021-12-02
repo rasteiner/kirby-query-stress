@@ -1,0 +1,43 @@
+Title: Barton, Hagenes and Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/creditor
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/money/creditor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/smith-douglas
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/new-jettie

@@ -1,0 +1,44 @@
+Title: Feil Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/creditor
+  item: companies/rippin-bode
+- 
+  type: relations/money/debtor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/howe-group
+- 
+  type: relations/money/debtor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/claudiestad

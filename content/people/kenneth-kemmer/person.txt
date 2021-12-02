@@ -1,0 +1,64 @@
+Title: Kenneth Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-alexane-lesch-phd
+- 
+  type: relations/money/debtor
+  item: people/marcos-lemke
+- 
+  type: relations/money/creditor
+  item: people/dr-keely-dicki
+- 
+  type: relations/money/creditor
+  item: people/andy-lang
+- 
+  type: relations/money/debtor
+  item: people/shaina-lockman
+- 
+  type: relations/money/creditor
+  item: people/claudine-kautzer-dds
+- 
+  type: relations/money/debtor
+  item: companies/nolan-inc
+- 
+  type: relations/money/creditor
+  item: companies/sanford-lehner
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-plc
+- 
+  type: relations/work/client
+  item: companies/flatley-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

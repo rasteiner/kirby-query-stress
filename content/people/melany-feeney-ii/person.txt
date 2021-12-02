@@ -1,0 +1,64 @@
+Title: Melany Feeney II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/edward-monahan
+- 
+  type: relations/money/creditor
+  item: people/ms-anabelle-kub
+- 
+  type: relations/parental/dad
+  item: people/electa-russel
+- 
+  type: relations/parental/mom
+  item: people/omer-roberts
+- 
+  type: relations/parental/friend
+  item: people/kay-sporer
+- 
+  type: relations/money/creditor
+  item: people/americo-kilback
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/client
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

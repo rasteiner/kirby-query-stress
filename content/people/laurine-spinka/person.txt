@@ -1,0 +1,64 @@
+Title: Laurine Spinka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/joesph-adams
+- 
+  type: relations/money/debtor
+  item: people/emmie-mann
+- 
+  type: relations/parental/dad
+  item: people/mr-jakob-wunsch
+- 
+  type: relations/parental/brosis
+  item: people/katarina-rempel
+- 
+  type: relations/parental/dad
+  item: people/nyasia-quigley
+- 
+  type: relations/money/creditor
+  item: people/prof-edgar-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/work/client
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

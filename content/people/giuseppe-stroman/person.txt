@@ -1,0 +1,64 @@
+Title: Giuseppe Stroman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/keshawn-legros
+- 
+  type: relations/parental/dad
+  item: people/brandy-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/dr-marco-metz-iii
+- 
+  type: relations/parental/dad
+  item: people/jackie-dach
+- 
+  type: relations/parental/mom
+  item: people/carolyn-herzog-dvm
+- 
+  type: relations/parental/colleague
+  item: people/eleanore-bruen
+- 
+  type: relations/money/creditor
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-stark
+- 
+  type: relations/work/employer
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

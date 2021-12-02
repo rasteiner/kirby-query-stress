@@ -1,0 +1,64 @@
+Title: Mary Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/addison-olson
+- 
+  type: relations/parental/colleague
+  item: people/mrs-mabelle-howell-iii
+- 
+  type: relations/parental/brosis
+  item: people/gail-rolfson
+- 
+  type: relations/money/creditor
+  item: people/gennaro-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/vivian-lueilwitz-iii
+- 
+  type: relations/parental/dad
+  item: people/layla-mclaughlin-dds
+- 
+  type: relations/work/client
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

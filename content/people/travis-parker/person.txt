@@ -1,0 +1,64 @@
+Title: Travis Parker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shaylee-herzog
+- 
+  type: relations/parental/friend
+  item: people/kaci-boyer
+- 
+  type: relations/parental/brosis
+  item: people/titus-considine
+- 
+  type: relations/parental/friend
+  item: people/felton-beatty
+- 
+  type: relations/money/debtor
+  item: people/nico-kilback-iv
+- 
+  type: relations/parental/friend
+  item: people/mr-cruz-reichel
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/keebler-inc
+- 
+  type: relations/work/employer
+  item: companies/dicki-ltd
+- 
+  type: relations/work/employer
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

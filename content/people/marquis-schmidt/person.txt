@@ -1,0 +1,64 @@
+Title: Marquis Schmidt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/brandt-jacobs
+- 
+  type: relations/money/debtor
+  item: people/prof-clotilde-kunde
+- 
+  type: relations/parental/brosis
+  item: people/flossie-beatty
+- 
+  type: relations/parental/colleague
+  item: people/prof-valentine-hilpert
+- 
+  type: relations/money/debtor
+  item: people/dr-jasmin-willms
+- 
+  type: relations/parental/colleague
+  item: people/dr-eloy-shanahan
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/work/employer
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

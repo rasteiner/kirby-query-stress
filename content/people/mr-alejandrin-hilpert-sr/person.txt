@@ -1,0 +1,64 @@
+Title: Mr. Alejandrin Hilpert Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lucinda-ortiz
+- 
+  type: relations/parental/brosis
+  item: people/jaden-heller
+- 
+  type: relations/money/creditor
+  item: people/nicole-stokes
+- 
+  type: relations/parental/colleague
+  item: people/gaetano-fay
+- 
+  type: relations/money/debtor
+  item: people/glenda-champlin
+- 
+  type: relations/parental/mom
+  item: people/brendan-labadie
+- 
+  type: relations/money/creditor
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

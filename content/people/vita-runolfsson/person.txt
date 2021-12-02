@@ -1,0 +1,64 @@
+Title: Vita Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-jada-sauer
+- 
+  type: relations/parental/brosis
+  item: people/delores-gerhold
+- 
+  type: relations/parental/colleague
+  item: people/aron-lesch
+- 
+  type: relations/parental/friend
+  item: people/mason-herman
+- 
+  type: relations/money/creditor
+  item: people/adalberto-mann
+- 
+  type: relations/parental/brosis
+  item: people/prof-buford-mosciski-md
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/client
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

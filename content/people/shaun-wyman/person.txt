@@ -1,0 +1,64 @@
+Title: Shaun Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/claire-jacobs
+- 
+  type: relations/parental/colleague
+  item: people/allie-parisian
+- 
+  type: relations/parental/colleague
+  item: people/burdette-ernser-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-shayne-bruen
+- 
+  type: relations/parental/mom
+  item: people/oscar-o-connell
+- 
+  type: relations/parental/colleague
+  item: people/terrill-upton
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

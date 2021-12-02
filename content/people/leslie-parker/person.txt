@@ -1,0 +1,64 @@
+Title: Leslie Parker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kaden-heidenreich-dvm
+- 
+  type: relations/money/debtor
+  item: people/chet-cassin
+- 
+  type: relations/parental/brosis
+  item: people/alba-gaylord
+- 
+  type: relations/money/debtor
+  item: people/noemy-bode
+- 
+  type: relations/parental/brosis
+  item: people/prof-easter-keeling
+- 
+  type: relations/money/creditor
+  item: people/foster-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

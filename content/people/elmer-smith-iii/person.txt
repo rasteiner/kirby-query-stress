@@ -1,0 +1,64 @@
+Title: Elmer Smith III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-sunny-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/alexanne-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/sage-leannon
+- 
+  type: relations/money/creditor
+  item: people/josefina-kiehn
+- 
+  type: relations/money/creditor
+  item: people/rudolph-toy
+- 
+  type: relations/parental/colleague
+  item: people/chaim-denesik-ii
+- 
+  type: relations/money/creditor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/blanda-inc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Lia Kreiger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lia-gusikowski-v
+- 
+  type: relations/parental/colleague
+  item: people/aletha-mills
+- 
+  type: relations/money/debtor
+  item: people/marilie-beahan-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-zackery-legros
+- 
+  type: relations/parental/friend
+  item: people/misty-fay
+- 
+  type: relations/parental/dad
+  item: people/freddy-zemlak-ii
+- 
+  type: relations/work/client
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/client
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

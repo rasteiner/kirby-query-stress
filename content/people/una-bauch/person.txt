@@ -1,0 +1,64 @@
+Title: Una Bauch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-kendrick-rippin
+- 
+  type: relations/parental/mom
+  item: people/bryce-connelly
+- 
+  type: relations/parental/friend
+  item: people/shakira-senger
+- 
+  type: relations/money/creditor
+  item: people/emmy-hahn
+- 
+  type: relations/parental/mom
+  item: people/wellington-adams
+- 
+  type: relations/parental/dad
+  item: people/danielle-hayes-iii
+- 
+  type: relations/work/client
+  item: companies/feest-ltd
+- 
+  type: relations/work/employer
+  item: companies/dooley-walter
+- 
+  type: relations/work/employer
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

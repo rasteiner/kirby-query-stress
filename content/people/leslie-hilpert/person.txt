@@ -1,0 +1,64 @@
+Title: Leslie Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/etha-keebler
+- 
+  type: relations/money/debtor
+  item: people/andre-morar-v
+- 
+  type: relations/parental/mom
+  item: people/guadalupe-yost-iv
+- 
+  type: relations/money/creditor
+  item: people/tania-wunsch-iii
+- 
+  type: relations/money/creditor
+  item: people/yasmin-cremin-ii
+- 
+  type: relations/parental/dad
+  item: people/moshe-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Mossie Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/camille-ullrich-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-randi-batz-iv
+- 
+  type: relations/parental/friend
+  item: people/prof-darryl-mclaughlin-i
+- 
+  type: relations/money/creditor
+  item: people/allene-mueller-i
+- 
+  type: relations/parental/dad
+  item: people/prof-lenore-pollich
+- 
+  type: relations/parental/colleague
+  item: people/robert-rodriguez
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/work/employer
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

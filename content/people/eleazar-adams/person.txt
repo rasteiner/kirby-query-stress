@@ -1,0 +1,64 @@
+Title: Eleazar Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nadia-goodwin
+- 
+  type: relations/parental/friend
+  item: people/mr-rex-mante
+- 
+  type: relations/money/creditor
+  item: people/dr-heath-swaniawski-ii
+- 
+  type: relations/parental/dad
+  item: people/ms-pansy-rau
+- 
+  type: relations/money/creditor
+  item: people/mrs-heath-mayer-phd
+- 
+  type: relations/parental/colleague
+  item: people/dolores-herzog
+- 
+  type: relations/work/client
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/work/client
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

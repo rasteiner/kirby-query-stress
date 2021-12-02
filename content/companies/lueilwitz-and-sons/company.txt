@@ -1,0 +1,43 @@
+Title: Lueilwitz and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/new-carmela

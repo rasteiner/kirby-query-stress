@@ -1,0 +1,64 @@
+Title: Belle Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/johnson-kub
+- 
+  type: relations/parental/mom
+  item: people/lou-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/forrest-friesen
+- 
+  type: relations/parental/mom
+  item: people/ephraim-langworth
+- 
+  type: relations/parental/colleague
+  item: people/vita-o-hara
+- 
+  type: relations/parental/brosis
+  item: people/domenick-waelchi
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/employer
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

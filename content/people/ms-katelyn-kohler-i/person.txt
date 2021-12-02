@@ -1,0 +1,65 @@
+Title: Ms. Katelyn Kohler I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/leopold-jast
+- 
+  type: relations/parental/mom
+  item: people/eudora-ankunding
+- 
+  type: relations/money/creditor
+  item: people/anita-medhurst-v
+- 
+  type: relations/parental/mom
+  item: people/dortha-koepp-iv
+- 
+  type: relations/parental/mom
+  item: people/blanche-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/dr-pete-wehner-iii
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dora Thompson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-olen-bradtke
+- 
+  type: relations/parental/mom
+  item: people/mollie-swift-dvm
+- 
+  type: relations/money/creditor
+  item: people/kaylie-marvin
+- 
+  type: relations/money/debtor
+  item: people/alice-mcclure
+- 
+  type: relations/parental/mom
+  item: people/trevion-zemlak
+- 
+  type: relations/parental/colleague
+  item: people/jed-smitham
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

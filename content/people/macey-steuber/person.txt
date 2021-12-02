@@ -1,0 +1,64 @@
+Title: Macey Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anastacio-mills
+- 
+  type: relations/parental/dad
+  item: people/dasia-nolan
+- 
+  type: relations/money/debtor
+  item: people/adam-klocko
+- 
+  type: relations/money/debtor
+  item: people/pauline-pfannerstill
+- 
+  type: relations/parental/dad
+  item: people/dr-kadin-lesch-sr
+- 
+  type: relations/money/creditor
+  item: people/bryon-langworth
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/employer
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

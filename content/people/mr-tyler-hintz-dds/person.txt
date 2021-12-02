@@ -1,0 +1,64 @@
+Title: Mr. Tyler Hintz DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/clifton-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/candelario-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/dr-erwin-stroman-sr
+- 
+  type: relations/parental/brosis
+  item: people/margret-kozey
+- 
+  type: relations/parental/dad
+  item: people/anjali-kozey
+- 
+  type: relations/parental/friend
+  item: people/prof-jody-koch-dds
+- 
+  type: relations/work/employer
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/client
+  item: companies/mills-wyman
+- 
+  type: relations/work/client
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/client
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

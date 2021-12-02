@@ -1,0 +1,64 @@
+Title: Jazmin Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/octavia-bechtelar
+- 
+  type: relations/money/debtor
+  item: people/parker-barrows
+- 
+  type: relations/parental/friend
+  item: people/mr-jan-hand
+- 
+  type: relations/parental/mom
+  item: people/dr-armani-willms
+- 
+  type: relations/parental/mom
+  item: people/prof-priscilla-renner
+- 
+  type: relations/parental/mom
+  item: people/mr-ottis-ondricka-jr
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Mrs. Molly Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kavon-king
+- 
+  type: relations/parental/friend
+  item: people/prof-tod-haley-ii
+- 
+  type: relations/parental/mom
+  item: people/jeff-auer
+- 
+  type: relations/parental/dad
+  item: people/elijah-douglas
+- 
+  type: relations/parental/friend
+  item: people/florence-conn
+- 
+  type: relations/money/creditor
+  item: people/dr-kassandra-block-md
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

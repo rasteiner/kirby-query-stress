@@ -1,0 +1,64 @@
+Title: Branson Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-juliana-lang-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-otis-bosco-v
+- 
+  type: relations/parental/dad
+  item: people/giovanna-ondricka
+- 
+  type: relations/parental/brosis
+  item: people/joanne-green-dvm
+- 
+  type: relations/parental/mom
+  item: people/shyanne-feeney
+- 
+  type: relations/parental/colleague
+  item: people/shany-torphy
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Mikayla Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nora-thompson
+- 
+  type: relations/parental/brosis
+  item: people/marty-welch
+- 
+  type: relations/money/debtor
+  item: people/linnea-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/jon-kutch-v
+- 
+  type: relations/parental/colleague
+  item: people/afton-breitenberg-md
+- 
+  type: relations/parental/dad
+  item: people/mr-gordon-trantow-dvm
+- 
+  type: relations/work/employer
+  item: companies/stroman-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/employer
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

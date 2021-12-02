@@ -1,0 +1,64 @@
+Title: Margaret Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/martina-armstrong
+- 
+  type: relations/parental/mom
+  item: people/prof-wendy-gleason-iii
+- 
+  type: relations/parental/brosis
+  item: people/dr-cedrick-konopelski-i
+- 
+  type: relations/money/debtor
+  item: people/luis-pfannerstill-md
+- 
+  type: relations/money/debtor
+  item: people/roberta-larkin
+- 
+  type: relations/money/creditor
+  item: people/marilou-towne
+- 
+  type: relations/work/employer
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

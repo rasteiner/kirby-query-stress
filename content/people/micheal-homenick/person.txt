@@ -1,0 +1,64 @@
+Title: Micheal Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-torrance-schiller-iii
+- 
+  type: relations/money/debtor
+  item: people/dana-kessler
+- 
+  type: relations/parental/friend
+  item: people/helga-skiles
+- 
+  type: relations/parental/friend
+  item: people/otilia-harris
+- 
+  type: relations/parental/dad
+  item: people/koby-kohler
+- 
+  type: relations/money/debtor
+  item: people/leonie-rodriguez
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

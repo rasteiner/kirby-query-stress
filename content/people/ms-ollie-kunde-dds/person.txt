@@ -1,0 +1,64 @@
+Title: Ms. Ollie Kunde DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/stella-rosenbaum-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-alivia-parisian
+- 
+  type: relations/parental/brosis
+  item: people/dr-ayla-spinka-i
+- 
+  type: relations/parental/mom
+  item: people/gretchen-lemke
+- 
+  type: relations/money/creditor
+  item: people/mrs-reta-howell-phd
+- 
+  type: relations/parental/colleague
+  item: people/kayli-denesik
+- 
+  type: relations/work/employer
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/employer
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,66 @@
+Title: Bernadette Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-cooper-collins-i
+- 
+  type: relations/parental/friend
+  item: people/mr-elroy-stehr
+- 
+  type: relations/money/creditor
+  item: people/clarabelle-breitenberg
+- 
+  type: relations/money/debtor
+  item: people/jazlyn-marvin
+- 
+  type: relations/money/creditor
+  item: people/cleve-gaylord
+- 
+  type: relations/money/debtor
+  item: people/jaron-wehner-sr
+- 
+  type: relations/work/client
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/wolff-ltd
+- 
+  type: relations/work/client
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/debtor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

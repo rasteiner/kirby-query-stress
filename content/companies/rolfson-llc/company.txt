@@ -1,0 +1,44 @@
+Title: Rolfson LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-lehner
+- 
+  type: relations/money/debtor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/becker-ltd
+- 
+  type: relations/location/visited
+  item: places/robertstown
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/new-selmer

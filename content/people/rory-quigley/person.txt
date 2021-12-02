@@ -1,0 +1,64 @@
+Title: Rory Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elaina-williamson
+- 
+  type: relations/parental/brosis
+  item: people/cruz-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/rozella-morar
+- 
+  type: relations/parental/colleague
+  item: people/rosalyn-hagenes
+- 
+  type: relations/parental/friend
+  item: people/riley-hodkiewicz
+- 
+  type: relations/parental/mom
+  item: people/larry-stanton
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/client
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/client
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/employer
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

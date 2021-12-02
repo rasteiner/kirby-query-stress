@@ -1,0 +1,64 @@
+Title: Vance Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/alysson-shields
+- 
+  type: relations/parental/dad
+  item: people/rocky-ziemann
+- 
+  type: relations/parental/colleague
+  item: people/cordell-cronin
+- 
+  type: relations/parental/mom
+  item: people/travis-abbott-ii
+- 
+  type: relations/parental/friend
+  item: people/callie-ritchie
+- 
+  type: relations/money/debtor
+  item: people/annalise-baumbach
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/work/employer
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

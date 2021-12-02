@@ -1,0 +1,64 @@
+Title: Miss Autumn Hermann Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sanford-glover
+- 
+  type: relations/parental/dad
+  item: people/miss-edna-kerluke-i
+- 
+  type: relations/parental/friend
+  item: people/gilda-grady-i
+- 
+  type: relations/parental/friend
+  item: people/kim-berge
+- 
+  type: relations/parental/colleague
+  item: people/keeley-ziemann
+- 
+  type: relations/money/creditor
+  item: people/mrs-glenda-davis-iii
+- 
+  type: relations/money/creditor
+  item: companies/weber-lockman
+- 
+  type: relations/work/employer
+  item: companies/hane-plc
+- 
+  type: relations/work/client
+  item: companies/gorczany-funk
+- 
+  type: relations/work/employer
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

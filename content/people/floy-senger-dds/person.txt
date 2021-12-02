@@ -1,0 +1,64 @@
+Title: Floy Senger DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jaleel-streich
+- 
+  type: relations/parental/colleague
+  item: people/reanna-hettinger
+- 
+  type: relations/parental/mom
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/parental/mom
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/parental/colleague
+  item: people/joesph-adams
+- 
+  type: relations/money/debtor
+  item: people/emmie-mann
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,43 @@
+Title: Koepp, Christiansen and Simonis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/money/creditor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/creditor
+  item: companies/bogan-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury

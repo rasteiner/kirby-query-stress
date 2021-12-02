@@ -1,0 +1,64 @@
+Title: Warren McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nettie-rippin
+- 
+  type: relations/parental/dad
+  item: people/macey-sauer
+- 
+  type: relations/parental/friend
+  item: people/philip-o-kon
+- 
+  type: relations/parental/mom
+  item: people/shea-goodwin
+- 
+  type: relations/money/debtor
+  item: people/luella-kulas
+- 
+  type: relations/money/debtor
+  item: people/ms-melissa-rolfson-jr
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Miss Kyra Howe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nettie-rippin
+- 
+  type: relations/money/debtor
+  item: people/macey-sauer
+- 
+  type: relations/parental/colleague
+  item: people/philip-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/shea-goodwin
+- 
+  type: relations/parental/dad
+  item: people/luella-kulas
+- 
+  type: relations/parental/brosis
+  item: people/ms-melissa-rolfson-jr
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

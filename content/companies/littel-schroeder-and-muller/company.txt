@@ -1,0 +1,43 @@
+Title: Littel, Schroeder and Muller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/creditor
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/smith-douglas
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Andreane Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-kenna-koss
+- 
+  type: relations/parental/brosis
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/parental/brosis
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/parental/dad
+  item: people/catherine-waters
+- 
+  type: relations/parental/mom
+  item: people/prof-santa-bashirian
+- 
+  type: relations/work/employer
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

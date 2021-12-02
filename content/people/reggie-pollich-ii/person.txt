@@ -1,0 +1,64 @@
+Title: Reggie Pollich II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/claud-steuber
+- 
+  type: relations/parental/dad
+  item: people/lukas-quitzon
+- 
+  type: relations/money/debtor
+  item: people/rory-runolfsson
+- 
+  type: relations/parental/colleague
+  item: people/ceasar-sawayn-sr
+- 
+  type: relations/money/debtor
+  item: people/felicita-kris-phd
+- 
+  type: relations/money/creditor
+  item: people/alexie-grimes
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

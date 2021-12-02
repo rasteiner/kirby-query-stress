@@ -1,0 +1,64 @@
+Title: Ferne Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-ned-grimes-iii
+- 
+  type: relations/parental/colleague
+  item: people/kirstin-haag-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-yasmine-nolan-ii
+- 
+  type: relations/money/creditor
+  item: people/sofia-hodkiewicz-sr
+- 
+  type: relations/money/debtor
+  item: people/keara-fritsch
+- 
+  type: relations/money/creditor
+  item: people/miss-carli-hoeger
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/employer
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

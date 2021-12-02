@@ -1,0 +1,43 @@
+Title: Grimes Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mayer-kutch
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/orn-inc
+- 
+  type: relations/money/debtor
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/kathrynestad
+- 
+  type: relations/location/residence
+  item: places/kadinview

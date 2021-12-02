@@ -1,0 +1,64 @@
+Title: Cristina Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/karley-herman-dds
+- 
+  type: relations/parental/colleague
+  item: people/jaron-walter-iv
+- 
+  type: relations/parental/mom
+  item: people/elliott-farrell
+- 
+  type: relations/money/debtor
+  item: people/mr-hilton-hilpert
+- 
+  type: relations/parental/friend
+  item: people/willa-brown
+- 
+  type: relations/money/creditor
+  item: people/janessa-douglas
+- 
+  type: relations/work/client
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

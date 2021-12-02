@@ -1,0 +1,66 @@
+Title: Brian Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-florine-wilderman-phd
+- 
+  type: relations/money/creditor
+  item: people/darron-schamberger
+- 
+  type: relations/parental/mom
+  item: people/jedediah-dickinson
+- 
+  type: relations/parental/dad
+  item: people/jadyn-walker
+- 
+  type: relations/parental/mom
+  item: people/katlyn-green
+- 
+  type: relations/parental/mom
+  item: people/erica-kuhn
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

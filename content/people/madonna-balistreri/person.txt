@@ -1,0 +1,64 @@
+Title: Madonna Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/reggie-bruen
+- 
+  type: relations/parental/colleague
+  item: people/antonette-pagac
+- 
+  type: relations/parental/mom
+  item: people/adell-rau-phd
+- 
+  type: relations/parental/mom
+  item: people/oda-walsh-dvm
+- 
+  type: relations/money/debtor
+  item: people/manuel-rutherford
+- 
+  type: relations/money/debtor
+  item: people/mr-isaac-mccullough-phd
+- 
+  type: relations/money/debtor
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

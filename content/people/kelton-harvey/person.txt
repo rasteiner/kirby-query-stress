@@ -1,0 +1,64 @@
+Title: Kelton Harvey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/electa-welch
+- 
+  type: relations/parental/colleague
+  item: people/mr-will-wolff
+- 
+  type: relations/parental/colleague
+  item: people/stephany-nolan
+- 
+  type: relations/parental/colleague
+  item: people/mireya-funk
+- 
+  type: relations/parental/colleague
+  item: people/tania-borer
+- 
+  type: relations/parental/mom
+  item: people/francisco-smith
+- 
+  type: relations/work/employer
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/effertz-llc
+- 
+  type: relations/money/creditor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/debtor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

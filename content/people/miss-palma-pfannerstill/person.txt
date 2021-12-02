@@ -1,0 +1,64 @@
+Title: Miss Palma Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hermina-kris
+- 
+  type: relations/money/debtor
+  item: people/alessandro-doyle
+- 
+  type: relations/parental/colleague
+  item: people/prof-clair-bernhard
+- 
+  type: relations/parental/friend
+  item: people/dr-dovie-willms
+- 
+  type: relations/parental/colleague
+  item: people/mitchell-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/herta-armstrong
+- 
+  type: relations/work/client
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/client
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/client
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

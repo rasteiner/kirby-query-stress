@@ -1,0 +1,65 @@
+Title: Etha Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/xzavier-smitham
+- 
+  type: relations/parental/brosis
+  item: people/miss-wanda-prohaska
+- 
+  type: relations/parental/brosis
+  item: people/berniece-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/prof-mathew-o-reilly-i
+- 
+  type: relations/parental/dad
+  item: people/lavon-bayer
+- 
+  type: relations/parental/brosis
+  item: people/mafalda-o-connell-dvm
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/creditor
+  item: companies/pollich-plc
+- 
+  type: relations/work/client
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

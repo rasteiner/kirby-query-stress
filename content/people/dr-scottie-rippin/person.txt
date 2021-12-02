@@ -1,0 +1,65 @@
+Title: Dr. Scottie Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-ella-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/dr-korbin-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/selina-runolfsson
+- 
+  type: relations/parental/friend
+  item: people/odell-wisoky
+- 
+  type: relations/parental/dad
+  item: people/dr-alan-ankunding
+- 
+  type: relations/parental/mom
+  item: people/miss-vivian-von-iv
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

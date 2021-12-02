@@ -1,0 +1,64 @@
+Title: Ms. Mattie McKenzie II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-sedrick-hilll-iii
+- 
+  type: relations/parental/friend
+  item: people/bud-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/prof-aric-hegmann
+- 
+  type: relations/money/debtor
+  item: people/miss-autumn-cruickshank-sr
+- 
+  type: relations/parental/colleague
+  item: people/mr-angelo-dach-iv
+- 
+  type: relations/parental/mom
+  item: people/robb-weissnat
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/work/client
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Prof. Hudson Graham DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/chanel-pollich-i
+- 
+  type: relations/parental/dad
+  item: people/prof-cierra-fisher-i
+- 
+  type: relations/money/debtor
+  item: people/marcelina-gulgowski
+- 
+  type: relations/parental/colleague
+  item: people/rahsaan-reynolds-dds
+- 
+  type: relations/parental/mom
+  item: people/willis-stroman
+- 
+  type: relations/parental/dad
+  item: people/viva-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

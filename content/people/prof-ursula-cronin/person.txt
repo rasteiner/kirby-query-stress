@@ -1,0 +1,64 @@
+Title: Prof. Ursula Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adah-weber-jr
+- 
+  type: relations/parental/colleague
+  item: people/floyd-grady
+- 
+  type: relations/parental/mom
+  item: people/rubie-russel
+- 
+  type: relations/money/creditor
+  item: people/dr-laurel-greenholt-md
+- 
+  type: relations/money/debtor
+  item: people/henriette-howell
+- 
+  type: relations/parental/mom
+  item: people/aletha-hermann
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/work/client
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

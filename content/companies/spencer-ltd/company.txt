@@ -1,0 +1,43 @@
+Title: Spencer Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/koelpin-group
+- 
+  type: relations/money/debtor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/debtor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/north-dallin

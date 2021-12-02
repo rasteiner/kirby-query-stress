@@ -1,0 +1,64 @@
+Title: Malika Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/parental/mom
+  item: people/sienna-dubuque
+- 
+  type: relations/money/debtor
+  item: people/kiera-konopelski-ii
+- 
+  type: relations/parental/dad
+  item: people/cleve-stamm
+- 
+  type: relations/money/creditor
+  item: people/mr-jamar-labadie
+- 
+  type: relations/parental/brosis
+  item: people/tianna-wilkinson
+- 
+  type: relations/work/client
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/work/employer
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

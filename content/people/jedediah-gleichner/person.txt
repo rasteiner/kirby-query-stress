@@ -1,0 +1,64 @@
+Title: Jedediah Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/porter-ward
+- 
+  type: relations/parental/friend
+  item: people/chauncey-corwin
+- 
+  type: relations/parental/friend
+  item: people/terrance-schuster
+- 
+  type: relations/money/debtor
+  item: people/prof-kamron-boyer-dds
+- 
+  type: relations/parental/colleague
+  item: people/hassie-white
+- 
+  type: relations/money/debtor
+  item: people/danika-stroman
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/kunze-group
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

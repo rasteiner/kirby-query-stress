@@ -1,0 +1,66 @@
+Title: Gene Yost IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miracle-raynor
+- 
+  type: relations/parental/mom
+  item: people/mr-conrad-kuphal
+- 
+  type: relations/parental/friend
+  item: people/mrs-amira-kiehn
+- 
+  type: relations/parental/dad
+  item: people/isidro-dare
+- 
+  type: relations/parental/friend
+  item: people/malvina-hodkiewicz-md
+- 
+  type: relations/parental/friend
+  item: people/karson-goodwin
+- 
+  type: relations/work/client
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/wolff-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/work/employer
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

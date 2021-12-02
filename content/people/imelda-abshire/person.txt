@@ -1,0 +1,65 @@
+Title: Imelda Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-ronaldo-lemke
+- 
+  type: relations/parental/colleague
+  item: people/andreanne-rippin
+- 
+  type: relations/parental/friend
+  item: people/charity-kling-phd
+- 
+  type: relations/money/debtor
+  item: people/dr-monica-prohaska-sr
+- 
+  type: relations/parental/mom
+  item: people/justen-schoen
+- 
+  type: relations/parental/colleague
+  item: people/darrick-huels
+- 
+  type: relations/work/client
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/client
+  item: companies/goodwin-nader
+- 
+  type: relations/money/creditor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/employer
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Dr. Wyatt Hammes MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/esta-turcotte
+- 
+  type: relations/money/debtor
+  item: people/mrs-euna-buckridge
+- 
+  type: relations/money/debtor
+  item: people/manley-hyatt
+- 
+  type: relations/parental/friend
+  item: people/mrs-cierra-lakin-dds
+- 
+  type: relations/parental/mom
+  item: people/mr-isaias-baumbach
+- 
+  type: relations/parental/brosis
+  item: people/mckenzie-lehner
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/work/client
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Bill Gibson DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-sofia-stroman-iii
+- 
+  type: relations/money/debtor
+  item: people/demarcus-gulgowski-sr
+- 
+  type: relations/money/debtor
+  item: people/alanis-mante-sr
+- 
+  type: relations/money/debtor
+  item: people/adolf-collins
+- 
+  type: relations/parental/colleague
+  item: people/carolyne-mitchell-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-jess-dickens-i
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/work/client
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/client
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

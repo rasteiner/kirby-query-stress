@@ -1,0 +1,64 @@
+Title: Ms. Astrid West
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-guillermo-stokes
+- 
+  type: relations/parental/mom
+  item: people/reece-leannon-iii
+- 
+  type: relations/parental/dad
+  item: people/lucie-schaden
+- 
+  type: relations/parental/friend
+  item: people/jazmin-klein
+- 
+  type: relations/parental/mom
+  item: people/natalie-mueller
+- 
+  type: relations/parental/dad
+  item: people/ms-mafalda-hackett-v
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/client
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Darrel Morissette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bernhard-doyle
+- 
+  type: relations/money/debtor
+  item: people/kara-schimmel
+- 
+  type: relations/parental/mom
+  item: people/mr-jonas-harvey-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-max-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/winfield-treutel
+- 
+  type: relations/parental/dad
+  item: people/julien-beatty
+- 
+  type: relations/money/debtor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/work/client
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Halle Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/shakira-robel
+- 
+  type: relations/money/creditor
+  item: people/stacey-dach-iii
+- 
+  type: relations/money/creditor
+  item: people/prof-katherine-kerluke
+- 
+  type: relations/money/debtor
+  item: people/margret-schoen
+- 
+  type: relations/parental/dad
+  item: people/miss-cassie-tillman-dvm
+- 
+  type: relations/parental/mom
+  item: people/guido-graham
+- 
+  type: relations/work/client
+  item: companies/pollich-watsica
+- 
+  type: relations/money/creditor
+  item: companies/huel-sipes
+- 
+  type: relations/work/employer
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/client
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

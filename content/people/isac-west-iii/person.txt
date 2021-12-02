@@ -1,0 +1,64 @@
+Title: Isac West III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/devon-nicolas
+- 
+  type: relations/parental/colleague
+  item: people/jason-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/dr-fred-schinner-md
+- 
+  type: relations/money/creditor
+  item: people/justice-o-connell-dvm
+- 
+  type: relations/money/creditor
+  item: people/shayna-franecki
+- 
+  type: relations/parental/mom
+  item: people/roy-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

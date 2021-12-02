@@ -1,0 +1,65 @@
+Title: Steve Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/winston-dicki-sr
+- 
+  type: relations/parental/dad
+  item: people/marquis-franecki
+- 
+  type: relations/parental/dad
+  item: people/carmela-zboncak
+- 
+  type: relations/parental/dad
+  item: people/prof-alexie-schneider
+- 
+  type: relations/parental/dad
+  item: people/raoul-dickinson-dds
+- 
+  type: relations/parental/mom
+  item: people/amara-robel
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

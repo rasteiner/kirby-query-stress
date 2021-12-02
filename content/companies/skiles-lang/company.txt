@@ -1,0 +1,44 @@
+Title: Skiles-Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-inc
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/robertstown
+- 
+  type: relations/location/residence
+  item: places/hillardburgh

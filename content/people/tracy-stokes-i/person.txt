@@ -1,0 +1,64 @@
+Title: Tracy Stokes I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/justyn-schumm
+- 
+  type: relations/parental/colleague
+  item: people/santina-rogahn
+- 
+  type: relations/parental/friend
+  item: people/madilyn-dare-jr
+- 
+  type: relations/parental/colleague
+  item: people/sydnee-stehr
+- 
+  type: relations/parental/colleague
+  item: people/ruby-berge
+- 
+  type: relations/parental/colleague
+  item: people/elenor-gleichner
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

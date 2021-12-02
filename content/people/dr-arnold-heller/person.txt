@@ -1,0 +1,64 @@
+Title: Dr. Arnold Heller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-wendell-okuneva
+- 
+  type: relations/parental/dad
+  item: people/mrs-mariam-vonrueden-i
+- 
+  type: relations/parental/dad
+  item: people/deangelo-stroman
+- 
+  type: relations/parental/dad
+  item: people/prof-dewayne-yundt-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-velda-cruickshank
+- 
+  type: relations/parental/friend
+  item: people/mr-mekhi-waters-dds
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/employer
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/client
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

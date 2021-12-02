@@ -1,0 +1,64 @@
+Title: Ms. Kenyatta Roberts I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/steve-smith
+- 
+  type: relations/parental/colleague
+  item: people/cassie-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/prof-sean-white
+- 
+  type: relations/parental/friend
+  item: people/lorenz-stroman-phd
+- 
+  type: relations/money/debtor
+  item: people/aurelie-huels
+- 
+  type: relations/parental/colleague
+  item: people/cristina-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/debtor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/employer
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

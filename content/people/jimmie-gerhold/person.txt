@@ -1,0 +1,64 @@
+Title: Jimmie Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/tyrel-schaefer
+- 
+  type: relations/parental/friend
+  item: people/buster-doyle
+- 
+  type: relations/parental/colleague
+  item: people/jess-kub
+- 
+  type: relations/parental/mom
+  item: people/darien-schaefer
+- 
+  type: relations/parental/friend
+  item: people/cayla-grimes-sr
+- 
+  type: relations/parental/brosis
+  item: people/arvilla-doyle
+- 
+  type: relations/work/client
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

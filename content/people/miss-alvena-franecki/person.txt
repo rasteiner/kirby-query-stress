@@ -1,0 +1,64 @@
+Title: Miss Alvena Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-samantha-collins-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-amanda-adams-md
+- 
+  type: relations/money/creditor
+  item: people/andres-goyette
+- 
+  type: relations/parental/dad
+  item: people/prof-jared-beier
+- 
+  type: relations/money/creditor
+  item: people/keeley-schimmel
+- 
+  type: relations/parental/mom
+  item: people/cornelius-watsica-sr
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Mrs. Gertrude Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-aniya-purdy
+- 
+  type: relations/parental/mom
+  item: people/prof-leonie-stiedemann
+- 
+  type: relations/parental/colleague
+  item: people/dr-linnea-king-phd
+- 
+  type: relations/money/debtor
+  item: people/luther-reilly
+- 
+  type: relations/parental/colleague
+  item: people/karelle-cremin
+- 
+  type: relations/parental/brosis
+  item: people/tremaine-o-kon
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/work/client
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Nicolas Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elouise-stiedemann-ii
+- 
+  type: relations/money/debtor
+  item: people/noemy-collier
+- 
+  type: relations/parental/brosis
+  item: people/ruth-abshire-dds
+- 
+  type: relations/money/creditor
+  item: people/katherine-murphy
+- 
+  type: relations/parental/dad
+  item: people/prof-brandyn-heidenreich
+- 
+  type: relations/parental/colleague
+  item: people/prof-kianna-kihn-iv
+- 
+  type: relations/work/client
+  item: companies/simonis-inc
+- 
+  type: relations/money/debtor
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/work/employer
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

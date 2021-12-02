@@ -1,0 +1,64 @@
+Title: Kayden Lakin DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elinor-bogisich-v
+- 
+  type: relations/parental/dad
+  item: people/yesenia-gleason-jr
+- 
+  type: relations/parental/dad
+  item: people/adolf-lind
+- 
+  type: relations/money/creditor
+  item: people/herminia-jacobs
+- 
+  type: relations/parental/brosis
+  item: people/prof-alan-kuphal-iii
+- 
+  type: relations/parental/colleague
+  item: people/dimitri-kuphal
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

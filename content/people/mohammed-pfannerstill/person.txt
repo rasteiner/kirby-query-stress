@@ -1,0 +1,64 @@
+Title: Mohammed Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-arlene-veum-jr
+- 
+  type: relations/parental/mom
+  item: people/maud-mertz
+- 
+  type: relations/parental/colleague
+  item: people/prof-johanna-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/vincent-gleason
+- 
+  type: relations/parental/dad
+  item: people/alessia-kerluke
+- 
+  type: relations/parental/friend
+  item: people/santos-reynolds
+- 
+  type: relations/work/employer
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/work/employer
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

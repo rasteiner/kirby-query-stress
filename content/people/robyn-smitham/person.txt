@@ -1,0 +1,64 @@
+Title: Robyn Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lydia-cronin
+- 
+  type: relations/parental/mom
+  item: people/zelda-luettgen
+- 
+  type: relations/money/creditor
+  item: people/prof-doyle-o-hara
+- 
+  type: relations/parental/friend
+  item: people/mrs-carley-tromp
+- 
+  type: relations/money/debtor
+  item: people/tyrell-balistreri
+- 
+  type: relations/money/debtor
+  item: people/trever-kuphal
+- 
+  type: relations/money/creditor
+  item: companies/pollich-watsica
+- 
+  type: relations/work/client
+  item: companies/huel-sipes
+- 
+  type: relations/work/employer
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/debtor
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

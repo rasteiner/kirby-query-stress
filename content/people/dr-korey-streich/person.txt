@@ -1,0 +1,64 @@
+Title: Dr. Korey Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/deshaun-klocko
+- 
+  type: relations/parental/friend
+  item: people/cheyenne-harris
+- 
+  type: relations/parental/friend
+  item: people/wellington-mitchell
+- 
+  type: relations/money/creditor
+  item: people/yadira-mayer-iv
+- 
+  type: relations/parental/colleague
+  item: people/aglae-adams
+- 
+  type: relations/parental/brosis
+  item: people/adela-dach
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/employer
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

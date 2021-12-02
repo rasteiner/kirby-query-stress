@@ -1,0 +1,64 @@
+Title: Jeramy Conn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/merritt-carter
+- 
+  type: relations/parental/dad
+  item: people/liana-friesen
+- 
+  type: relations/parental/dad
+  item: people/elza-langworth-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/parental/mom
+  item: people/garfield-leannon
+- 
+  type: relations/money/creditor
+  item: people/sally-hickle-ii
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/client
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/client
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

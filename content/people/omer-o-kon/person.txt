@@ -1,0 +1,64 @@
+Title: Omer O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mattie-hackett
+- 
+  type: relations/money/debtor
+  item: people/dr-zakary-farrell-dvm
+- 
+  type: relations/parental/dad
+  item: people/raul-waters
+- 
+  type: relations/parental/mom
+  item: people/ignacio-effertz
+- 
+  type: relations/parental/friend
+  item: people/estrella-ebert-i
+- 
+  type: relations/parental/dad
+  item: people/ashtyn-hills
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/work/client
+  item: companies/turcotte-and-sons
+- 
+  type: relations/work/client
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

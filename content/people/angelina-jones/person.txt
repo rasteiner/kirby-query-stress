@@ -1,0 +1,64 @@
+Title: Angelina Jones
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/sandra-lindgren
+- 
+  type: relations/money/debtor
+  item: people/hollis-ziemann
+- 
+  type: relations/parental/friend
+  item: people/lazaro-nader
+- 
+  type: relations/parental/brosis
+  item: people/tatyana-krajcik
+- 
+  type: relations/parental/mom
+  item: people/roosevelt-feil
+- 
+  type: relations/money/creditor
+  item: people/prof-arnoldo-moore
+- 
+  type: relations/money/debtor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/weber-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

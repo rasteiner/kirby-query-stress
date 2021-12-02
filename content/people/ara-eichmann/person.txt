@@ -1,0 +1,64 @@
+Title: Ara Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cecil-mcclure
+- 
+  type: relations/money/debtor
+  item: people/cassandra-runolfsdottir
+- 
+  type: relations/parental/dad
+  item: people/miss-natasha-konopelski
+- 
+  type: relations/parental/friend
+  item: people/dr-rupert-rolfson
+- 
+  type: relations/parental/mom
+  item: people/prof-maynard-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/natalie-bailey
+- 
+  type: relations/money/creditor
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/client
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

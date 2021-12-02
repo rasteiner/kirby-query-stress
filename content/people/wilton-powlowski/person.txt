@@ -1,0 +1,64 @@
+Title: Wilton Powlowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-luisa-grady-jr
+- 
+  type: relations/money/debtor
+  item: people/dr-hector-jakubowski
+- 
+  type: relations/parental/mom
+  item: people/shayne-runte
+- 
+  type: relations/parental/dad
+  item: people/enoch-pfeffer
+- 
+  type: relations/parental/brosis
+  item: people/ofelia-homenick-jr
+- 
+  type: relations/parental/friend
+  item: people/rasheed-borer
+- 
+  type: relations/work/client
+  item: companies/weber-lockman
+- 
+  type: relations/work/employer
+  item: companies/hane-plc
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-funk
+- 
+  type: relations/work/employer
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Rylan Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jensen-mohr-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-derek-cummings
+- 
+  type: relations/money/debtor
+  item: people/albertha-morissette-jr
+- 
+  type: relations/parental/mom
+  item: people/litzy-ernser
+- 
+  type: relations/money/creditor
+  item: people/mr-tre-blick-phd
+- 
+  type: relations/money/creditor
+  item: people/belle-dietrich
+- 
+  type: relations/work/employer
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/employer
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Prof. Makenzie Fadel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/madison-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/terrell-ortiz
+- 
+  type: relations/parental/friend
+  item: people/otho-fritsch
+- 
+  type: relations/money/creditor
+  item: people/nya-kautzer
+- 
+  type: relations/parental/colleague
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/emiliano-homenick
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

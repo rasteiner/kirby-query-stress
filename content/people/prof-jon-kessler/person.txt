@@ -1,0 +1,64 @@
+Title: Prof. Jon Kessler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-carole-tillman-jr
+- 
+  type: relations/parental/mom
+  item: people/katlyn-stark
+- 
+  type: relations/parental/mom
+  item: people/bert-hills-v
+- 
+  type: relations/parental/friend
+  item: people/shirley-luettgen
+- 
+  type: relations/parental/dad
+  item: people/dr-wilbert-hackett-iv
+- 
+  type: relations/parental/dad
+  item: people/marc-lowe
+- 
+  type: relations/money/debtor
+  item: companies/huels-walter
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

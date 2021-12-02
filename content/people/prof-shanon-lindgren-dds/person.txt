@@ -1,0 +1,64 @@
+Title: Prof. Shanon Lindgren DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-erwin-stroman-sr
+- 
+  type: relations/parental/colleague
+  item: people/margret-kozey
+- 
+  type: relations/parental/brosis
+  item: people/anjali-kozey
+- 
+  type: relations/money/debtor
+  item: people/prof-jody-koch-dds
+- 
+  type: relations/parental/colleague
+  item: people/elouise-sawayn
+- 
+  type: relations/parental/friend
+  item: people/kiera-shields
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Delphia Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carroll-marvin
+- 
+  type: relations/money/creditor
+  item: people/rupert-lind
+- 
+  type: relations/parental/dad
+  item: people/hilma-collier
+- 
+  type: relations/money/creditor
+  item: people/ms-maymie-cummerata-ii
+- 
+  type: relations/parental/friend
+  item: people/jeff-beer
+- 
+  type: relations/parental/dad
+  item: people/bernadine-williamson
+- 
+  type: relations/work/client
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/debtor
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/employer
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

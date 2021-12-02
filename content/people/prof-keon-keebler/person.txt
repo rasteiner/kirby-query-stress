@@ -1,0 +1,65 @@
+Title: Prof. Keon Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-franz-kuphal
+- 
+  type: relations/parental/mom
+  item: people/miss-jennifer-vandervort-i
+- 
+  type: relations/parental/friend
+  item: people/dr-christa-kuhn
+- 
+  type: relations/money/debtor
+  item: people/sophia-satterfield
+- 
+  type: relations/parental/mom
+  item: people/dr-chesley-borer-v
+- 
+  type: relations/money/debtor
+  item: people/maymie-johns
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/work/client
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/employer
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Jonathon Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cordie-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/dr-erik-kozey
+- 
+  type: relations/parental/dad
+  item: people/gladyce-morar-v
+- 
+  type: relations/money/creditor
+  item: people/jarvis-shields-dvm
+- 
+  type: relations/parental/colleague
+  item: people/aliza-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/wallace-trantow-sr
+- 
+  type: relations/work/client
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/employer
+  item: companies/tremblay-group
+- 
+  type: relations/work/client
+  item: companies/windler-plc
+- 
+  type: relations/money/creditor
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

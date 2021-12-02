@@ -1,0 +1,64 @@
+Title: Adele Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/sabrina-lubowitz
+- 
+  type: relations/money/debtor
+  item: people/sarah-aufderhar
+- 
+  type: relations/money/debtor
+  item: people/junior-keeling-sr
+- 
+  type: relations/parental/dad
+  item: people/dejuan-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/dr-brycen-anderson
+- 
+  type: relations/parental/dad
+  item: people/ignatius-mertz
+- 
+  type: relations/work/employer
+  item: companies/howell-plc
+- 
+  type: relations/money/debtor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/work/employer
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

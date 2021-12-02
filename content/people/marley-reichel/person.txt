@@ -1,0 +1,64 @@
+Title: Marley Reichel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ruthie-fritsch
+- 
+  type: relations/parental/dad
+  item: people/sim-west-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-danny-kilback
+- 
+  type: relations/parental/colleague
+  item: people/ms-pamela-ernser
+- 
+  type: relations/parental/friend
+  item: people/rylan-bartell
+- 
+  type: relations/money/debtor
+  item: people/michael-herzog
+- 
+  type: relations/money/creditor
+  item: companies/mertz-ltd
+- 
+  type: relations/work/employer
+  item: companies/stanton-plc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-group
+- 
+  type: relations/money/creditor
+  item: companies/russel-skiles
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

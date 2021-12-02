@@ -1,0 +1,64 @@
+Title: Ciara Haag
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-deion-schulist-iii
+- 
+  type: relations/money/creditor
+  item: people/orlando-brakus
+- 
+  type: relations/money/creditor
+  item: people/dr-sofia-stroman-iii
+- 
+  type: relations/parental/brosis
+  item: people/demarcus-gulgowski-sr
+- 
+  type: relations/parental/dad
+  item: people/alanis-mante-sr
+- 
+  type: relations/money/creditor
+  item: people/adolf-collins
+- 
+  type: relations/work/employer
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

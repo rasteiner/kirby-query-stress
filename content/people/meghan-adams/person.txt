@@ -1,0 +1,64 @@
+Title: Meghan Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gino-flatley
+- 
+  type: relations/money/creditor
+  item: people/ara-eichmann
+- 
+  type: relations/money/creditor
+  item: people/baby-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/amos-hilll-phd
+- 
+  type: relations/parental/brosis
+  item: people/geo-robel
+- 
+  type: relations/parental/mom
+  item: people/hellen-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Christina Kautzer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/makayla-kling
+- 
+  type: relations/parental/colleague
+  item: people/jacynthe-lueilwitz
+- 
+  type: relations/parental/mom
+  item: people/dallin-terry
+- 
+  type: relations/parental/dad
+  item: people/prof-benton-goldner
+- 
+  type: relations/money/creditor
+  item: people/harold-reichel
+- 
+  type: relations/parental/mom
+  item: people/adalberto-runte
+- 
+  type: relations/money/creditor
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/client
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

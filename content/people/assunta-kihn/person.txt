@@ -1,0 +1,64 @@
+Title: Assunta Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elouise-stiedemann-ii
+- 
+  type: relations/parental/mom
+  item: people/noemy-collier
+- 
+  type: relations/money/debtor
+  item: people/ruth-abshire-dds
+- 
+  type: relations/parental/brosis
+  item: people/katherine-murphy
+- 
+  type: relations/parental/colleague
+  item: people/prof-brandyn-heidenreich
+- 
+  type: relations/money/creditor
+  item: people/prof-kianna-kihn-iv
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/work/employer
+  item: companies/klein-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

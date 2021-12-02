@@ -1,0 +1,64 @@
+Title: Hosea Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rory-wisoky-iii
+- 
+  type: relations/parental/dad
+  item: people/antonina-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/adrain-leuschke
+- 
+  type: relations/parental/colleague
+  item: people/dr-adam-muller-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-vito-runolfsdottir
+- 
+  type: relations/parental/mom
+  item: people/dr-hollie-kreiger
+- 
+  type: relations/work/client
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

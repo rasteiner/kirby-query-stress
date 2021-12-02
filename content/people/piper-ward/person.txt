@@ -1,0 +1,64 @@
+Title: Piper Ward
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/norbert-nicolas
+- 
+  type: relations/parental/colleague
+  item: people/deion-daugherty
+- 
+  type: relations/parental/friend
+  item: people/ellis-skiles
+- 
+  type: relations/parental/dad
+  item: people/sheridan-parisian
+- 
+  type: relations/parental/colleague
+  item: people/mazie-koelpin
+- 
+  type: relations/parental/brosis
+  item: people/mossie-hansen
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

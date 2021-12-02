@@ -1,0 +1,64 @@
+Title: Trudie Zemlak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/abbey-carter
+- 
+  type: relations/parental/dad
+  item: people/judy-kunde
+- 
+  type: relations/money/creditor
+  item: people/mason-rice
+- 
+  type: relations/money/creditor
+  item: people/kendra-kunde
+- 
+  type: relations/money/debtor
+  item: people/mrs-callie-streich-md
+- 
+  type: relations/parental/mom
+  item: people/miss-mara-okuneva-sr
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-ltd
+- 
+  type: relations/work/client
+  item: companies/collier-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

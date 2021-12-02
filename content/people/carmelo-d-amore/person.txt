@@ -1,0 +1,64 @@
+Title: Carmelo D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/precious-murray
+- 
+  type: relations/parental/dad
+  item: people/prof-emilie-deckow
+- 
+  type: relations/money/creditor
+  item: people/karolann-leffler
+- 
+  type: relations/parental/colleague
+  item: people/callie-wolff
+- 
+  type: relations/parental/friend
+  item: people/houston-medhurst-v
+- 
+  type: relations/parental/dad
+  item: people/leslie-morissette-v
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

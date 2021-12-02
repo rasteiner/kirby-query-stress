@@ -1,0 +1,64 @@
+Title: Frances Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-fred-schinner-md
+- 
+  type: relations/parental/dad
+  item: people/justice-o-connell-dvm
+- 
+  type: relations/parental/friend
+  item: people/shayna-franecki
+- 
+  type: relations/parental/mom
+  item: people/roy-hettinger
+- 
+  type: relations/parental/mom
+  item: people/albertha-murphy
+- 
+  type: relations/money/creditor
+  item: people/dillon-lynch-v
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/debtor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

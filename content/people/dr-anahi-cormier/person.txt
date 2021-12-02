@@ -1,0 +1,64 @@
+Title: Dr. Anahi Cormier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kolby-lind
+- 
+  type: relations/parental/friend
+  item: people/mortimer-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/deshaun-klocko
+- 
+  type: relations/parental/mom
+  item: people/cheyenne-harris
+- 
+  type: relations/money/creditor
+  item: people/wellington-mitchell
+- 
+  type: relations/money/creditor
+  item: people/yadira-mayer-iv
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-ltd
+- 
+  type: relations/work/client
+  item: companies/dickens-group
+- 
+  type: relations/work/employer
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

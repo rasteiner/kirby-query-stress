@@ -1,0 +1,64 @@
+Title: Brendon Ryan MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-lenore-pollich
+- 
+  type: relations/parental/colleague
+  item: people/robert-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/bernie-rath
+- 
+  type: relations/money/creditor
+  item: people/summer-cole-iii
+- 
+  type: relations/parental/dad
+  item: people/mrs-juliana-leffler-i
+- 
+  type: relations/money/creditor
+  item: people/prof-guido-okuneva
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/client
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

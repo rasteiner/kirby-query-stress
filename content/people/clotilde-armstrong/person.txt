@@ -1,0 +1,64 @@
+Title: Clotilde Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kailyn-casper
+- 
+  type: relations/parental/colleague
+  item: people/joany-kihn
+- 
+  type: relations/parental/mom
+  item: people/florence-ortiz
+- 
+  type: relations/parental/dad
+  item: people/elyssa-hermann
+- 
+  type: relations/money/creditor
+  item: people/alejandra-muller
+- 
+  type: relations/money/creditor
+  item: people/ms-gina-hirthe
+- 
+  type: relations/work/employer
+  item: companies/cassin-llc
+- 
+  type: relations/work/client
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/employer
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

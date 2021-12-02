@@ -1,0 +1,64 @@
+Title: Walton Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kristina-pagac
+- 
+  type: relations/parental/colleague
+  item: people/ken-d-amore
+- 
+  type: relations/parental/brosis
+  item: people/elouise-gibson
+- 
+  type: relations/money/debtor
+  item: people/ludie-bosco
+- 
+  type: relations/money/creditor
+  item: people/cora-parker
+- 
+  type: relations/parental/brosis
+  item: people/garry-sanford
+- 
+  type: relations/work/employer
+  item: companies/roberts-mueller
+- 
+  type: relations/money/creditor
+  item: companies/murphy-batz
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/employer
+  item: companies/ondricka-plc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Rosendo Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/maryse-jacobson
+- 
+  type: relations/parental/dad
+  item: people/leatha-brown
+- 
+  type: relations/parental/dad
+  item: people/elbert-schulist
+- 
+  type: relations/parental/brosis
+  item: people/prof-terence-gleason
+- 
+  type: relations/parental/mom
+  item: people/mr-ariel-fisher
+- 
+  type: relations/parental/brosis
+  item: people/prof-darron-treutel-phd
+- 
+  type: relations/work/employer
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/work/client
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

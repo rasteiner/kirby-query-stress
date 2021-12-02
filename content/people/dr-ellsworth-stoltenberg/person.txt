@@ -1,0 +1,64 @@
+Title: Dr. Ellsworth Stoltenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jaleel-corwin-dds
+- 
+  type: relations/money/debtor
+  item: people/reanna-orn
+- 
+  type: relations/parental/colleague
+  item: people/kaylee-conn-iii
+- 
+  type: relations/parental/dad
+  item: people/prof-lisandro-stark
+- 
+  type: relations/parental/dad
+  item: people/eloise-cronin
+- 
+  type: relations/parental/brosis
+  item: people/oceane-casper
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/money/debtor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/client
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

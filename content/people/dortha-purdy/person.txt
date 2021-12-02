@@ -1,0 +1,64 @@
+Title: Dortha Purdy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lillian-bailey
+- 
+  type: relations/parental/dad
+  item: people/queenie-klocko
+- 
+  type: relations/parental/mom
+  item: people/jeff-shanahan
+- 
+  type: relations/parental/friend
+  item: people/romaine-rath
+- 
+  type: relations/parental/brosis
+  item: people/geovany-adams
+- 
+  type: relations/money/debtor
+  item: people/leland-torphy
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/work/client
+  item: companies/veum-and-sons
+- 
+  type: relations/work/employer
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

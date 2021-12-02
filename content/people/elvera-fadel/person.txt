@@ -1,0 +1,64 @@
+Title: Elvera Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jaida-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/deonte-hermiston-iii
+- 
+  type: relations/parental/mom
+  item: people/tillman-veum
+- 
+  type: relations/money/creditor
+  item: people/mrs-yasmine-rempel-v
+- 
+  type: relations/parental/friend
+  item: people/abdullah-casper
+- 
+  type: relations/money/creditor
+  item: people/wilton-gleason
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Ms. Glenna Raynor DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shakira-senger
+- 
+  type: relations/parental/colleague
+  item: people/emmy-hahn
+- 
+  type: relations/parental/colleague
+  item: people/wellington-adams
+- 
+  type: relations/parental/mom
+  item: people/danielle-hayes-iii
+- 
+  type: relations/money/debtor
+  item: people/sibyl-watsica
+- 
+  type: relations/parental/mom
+  item: people/flavio-marks
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/work/employer
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/creditor
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

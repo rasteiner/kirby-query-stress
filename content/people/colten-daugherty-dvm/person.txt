@@ -1,0 +1,64 @@
+Title: Colten Daugherty DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/destini-crist-md
+- 
+  type: relations/parental/mom
+  item: people/mr-waylon-pacocha-i
+- 
+  type: relations/money/debtor
+  item: people/jacques-prosacco-dvm
+- 
+  type: relations/money/creditor
+  item: people/shaun-wyman
+- 
+  type: relations/parental/colleague
+  item: people/curt-hilll
+- 
+  type: relations/parental/mom
+  item: people/tommie-jacobson
+- 
+  type: relations/work/client
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,5 @@
+Title: Parental
+
+----
+
+Allows_from: person

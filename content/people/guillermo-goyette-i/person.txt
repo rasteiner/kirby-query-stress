@@ -1,0 +1,64 @@
+Title: Guillermo Goyette I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lamont-bode
+- 
+  type: relations/parental/mom
+  item: people/alexanne-nienow-v
+- 
+  type: relations/money/creditor
+  item: people/modesto-marvin
+- 
+  type: relations/parental/mom
+  item: people/oceane-larkin
+- 
+  type: relations/parental/brosis
+  item: people/jazmyne-marquardt
+- 
+  type: relations/parental/colleague
+  item: people/macey-friesen
+- 
+  type: relations/work/client
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/creditor
+  item: companies/welch-borer
+- 
+  type: relations/money/debtor
+  item: companies/pollich-ltd
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

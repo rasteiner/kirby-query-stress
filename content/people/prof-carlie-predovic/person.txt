@@ -1,0 +1,64 @@
+Title: Prof. Carlie Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/albertha-morissette-jr
+- 
+  type: relations/parental/mom
+  item: people/litzy-ernser
+- 
+  type: relations/parental/dad
+  item: people/mr-tre-blick-phd
+- 
+  type: relations/money/creditor
+  item: people/belle-dietrich
+- 
+  type: relations/parental/dad
+  item: people/mason-prohaska
+- 
+  type: relations/money/debtor
+  item: people/marianna-corwin
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/work/client
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

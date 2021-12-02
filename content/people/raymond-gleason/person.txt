@@ -1,0 +1,64 @@
+Title: Raymond Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-gus-cole
+- 
+  type: relations/parental/dad
+  item: people/prof-antwon-glover-dvm
+- 
+  type: relations/parental/brosis
+  item: people/lina-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/miss-ava-sporer
+- 
+  type: relations/parental/friend
+  item: people/tom-hilpert-sr
+- 
+  type: relations/parental/mom
+  item: people/maximus-mueller
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/employer
+  item: companies/jenkins-veum
+- 
+  type: relations/work/client
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

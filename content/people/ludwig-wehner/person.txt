@@ -1,0 +1,64 @@
+Title: Ludwig Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-marlene-purdy-sr
+- 
+  type: relations/parental/colleague
+  item: people/dr-ole-ryan
+- 
+  type: relations/parental/brosis
+  item: people/elaina-williamson
+- 
+  type: relations/money/debtor
+  item: people/cruz-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/rozella-morar
+- 
+  type: relations/parental/friend
+  item: people/rosalyn-hagenes
+- 
+  type: relations/work/employer
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Prof. Luisa Grady Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/amalia-beier
+- 
+  type: relations/parental/colleague
+  item: people/jody-rogahn
+- 
+  type: relations/parental/friend
+  item: people/prof-nathanial-bartoletti-dds
+- 
+  type: relations/parental/mom
+  item: people/nannie-schroeder
+- 
+  type: relations/money/debtor
+  item: people/prof-manley-vonrueden
+- 
+  type: relations/parental/colleague
+  item: people/rudy-kiehn
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/work/employer
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/client
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

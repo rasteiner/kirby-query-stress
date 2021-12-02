@@ -1,0 +1,43 @@
+Title: Johns-Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/schinner-llc
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/creditor
+  item: companies/klein-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport

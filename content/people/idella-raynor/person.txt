@@ -1,0 +1,64 @@
+Title: Idella Raynor
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-yvonne-mcdermott
+- 
+  type: relations/parental/friend
+  item: people/katelyn-carroll
+- 
+  type: relations/money/debtor
+  item: people/archibald-rutherford-phd
+- 
+  type: relations/parental/friend
+  item: people/norbert-braun-ii
+- 
+  type: relations/parental/brosis
+  item: people/scarlett-oberbrunner
+- 
+  type: relations/money/debtor
+  item: people/mr-rhett-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/debtor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

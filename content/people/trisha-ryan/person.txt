@@ -1,0 +1,64 @@
+Title: Trisha Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/danny-luettgen
+- 
+  type: relations/money/debtor
+  item: people/miss-grace-durgan
+- 
+  type: relations/parental/colleague
+  item: people/mr-nathanael-douglas-sr
+- 
+  type: relations/parental/friend
+  item: people/eriberto-rippin
+- 
+  type: relations/parental/colleague
+  item: people/itzel-cormier
+- 
+  type: relations/parental/mom
+  item: people/merl-feeney-iii
+- 
+  type: relations/work/client
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

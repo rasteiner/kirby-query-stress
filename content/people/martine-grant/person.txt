@@ -1,0 +1,64 @@
+Title: Martine Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jedediah-dickinson
+- 
+  type: relations/money/debtor
+  item: people/jadyn-walker
+- 
+  type: relations/parental/colleague
+  item: people/katlyn-green
+- 
+  type: relations/parental/friend
+  item: people/erica-kuhn
+- 
+  type: relations/money/creditor
+  item: people/kareem-glover
+- 
+  type: relations/parental/brosis
+  item: people/abigayle-koch
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Kendra Corkery
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-rusty-labadie
+- 
+  type: relations/parental/dad
+  item: people/prof-helena-langosh-jr
+- 
+  type: relations/parental/brosis
+  item: people/jarvis-beer
+- 
+  type: relations/money/debtor
+  item: people/dr-amos-mohr
+- 
+  type: relations/money/creditor
+  item: people/prof-berneice-lind-md
+- 
+  type: relations/parental/friend
+  item: people/tre-casper
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/work/employer
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Abigale Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/claire-jacobs
+- 
+  type: relations/parental/friend
+  item: people/allie-parisian
+- 
+  type: relations/money/creditor
+  item: people/burdette-ernser-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-shayne-bruen
+- 
+  type: relations/parental/brosis
+  item: people/oscar-o-connell
+- 
+  type: relations/parental/dad
+  item: people/terrill-upton
+- 
+  type: relations/work/client
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/client
+  item: companies/ritchie-plc
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

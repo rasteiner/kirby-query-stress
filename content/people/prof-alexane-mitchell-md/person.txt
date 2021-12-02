@@ -1,0 +1,64 @@
+Title: Prof. Alexane Mitchell MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-aniyah-boyle
+- 
+  type: relations/parental/friend
+  item: people/micheal-bayer
+- 
+  type: relations/money/creditor
+  item: people/prof-camryn-brakus-v
+- 
+  type: relations/parental/friend
+  item: people/prof-elnora-hilpert-iii
+- 
+  type: relations/parental/colleague
+  item: people/etha-keebler
+- 
+  type: relations/parental/brosis
+  item: people/andre-morar-v
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/client
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/creditor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

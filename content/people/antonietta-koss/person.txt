@@ -1,0 +1,64 @@
+Title: Antonietta Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/randall-streich-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-amelia-welch
+- 
+  type: relations/money/debtor
+  item: people/dr-dimitri-zboncak
+- 
+  type: relations/parental/mom
+  item: people/leonardo-hudson
+- 
+  type: relations/parental/colleague
+  item: people/prof-judd-johnston
+- 
+  type: relations/parental/mom
+  item: people/prof-cicero-rutherford-md
+- 
+  type: relations/work/client
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

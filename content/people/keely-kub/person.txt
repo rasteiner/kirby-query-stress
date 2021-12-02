@@ -1,0 +1,64 @@
+Title: Keely Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ellen-schinner-ii
+- 
+  type: relations/money/debtor
+  item: people/dorian-haley-jr
+- 
+  type: relations/parental/brosis
+  item: people/ms-mariane-abbott
+- 
+  type: relations/parental/friend
+  item: people/lisandro-hirthe
+- 
+  type: relations/parental/mom
+  item: people/mrs-britney-howell
+- 
+  type: relations/parental/mom
+  item: people/lupe-bins
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/work/employer
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

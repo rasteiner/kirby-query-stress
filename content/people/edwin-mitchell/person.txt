@@ -1,0 +1,65 @@
+Title: Edwin Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/christine-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/guillermo-koss-iii
+- 
+  type: relations/money/debtor
+  item: people/marilie-lakin
+- 
+  type: relations/money/debtor
+  item: people/olen-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/berta-cole
+- 
+  type: relations/parental/dad
+  item: people/claudie-zieme
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

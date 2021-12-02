@@ -1,0 +1,64 @@
+Title: Liam Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-delbert-fisher
+- 
+  type: relations/parental/brosis
+  item: people/casey-carter
+- 
+  type: relations/parental/colleague
+  item: people/gonzalo-bauch-v
+- 
+  type: relations/parental/mom
+  item: people/kelly-goodwin
+- 
+  type: relations/parental/brosis
+  item: people/kim-osinski
+- 
+  type: relations/parental/brosis
+  item: people/prof-yvette-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

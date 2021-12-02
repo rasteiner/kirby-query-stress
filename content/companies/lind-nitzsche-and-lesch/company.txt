@@ -1,0 +1,44 @@
+Title: Lind, Nitzsche and Lesch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/terry-ltd
+- 
+  type: relations/money/creditor
+  item: companies/purdy-koch
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/malindastad

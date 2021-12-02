@@ -1,0 +1,64 @@
+Title: Cassie Dickens DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-cecilia-hickle-phd
+- 
+  type: relations/parental/dad
+  item: people/bailey-rodriguez
+- 
+  type: relations/parental/brosis
+  item: people/prof-melvin-emard-ii
+- 
+  type: relations/parental/mom
+  item: people/erwin-medhurst
+- 
+  type: relations/money/creditor
+  item: people/caleigh-brakus
+- 
+  type: relations/parental/friend
+  item: people/loraine-stracke-md
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/client
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

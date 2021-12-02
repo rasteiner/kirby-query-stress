@@ -1,0 +1,43 @@
+Title: Ritchie, Beahan and Blanda
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/leffler-stroman
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

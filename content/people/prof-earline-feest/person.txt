@@ -1,0 +1,65 @@
+Title: Prof. Earline Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-harvey-carroll
+- 
+  type: relations/money/debtor
+  item: people/taurean-mckenzie-jr
+- 
+  type: relations/parental/friend
+  item: people/kariane-zboncak
+- 
+  type: relations/money/creditor
+  item: people/sabryna-schaefer
+- 
+  type: relations/money/debtor
+  item: people/ernest-gottlieb
+- 
+  type: relations/parental/friend
+  item: people/dr-andrew-rau
+- 
+  type: relations/work/client
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Dr. Sonny Altenwerth V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hardy-littel
+- 
+  type: relations/parental/colleague
+  item: people/mattie-anderson-iii
+- 
+  type: relations/money/creditor
+  item: people/ms-ellen-cummings-i
+- 
+  type: relations/money/debtor
+  item: people/tremaine-nitzsche
+- 
+  type: relations/parental/brosis
+  item: people/marta-gulgowski
+- 
+  type: relations/money/debtor
+  item: people/mrs-melyssa-monahan
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/work/client
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

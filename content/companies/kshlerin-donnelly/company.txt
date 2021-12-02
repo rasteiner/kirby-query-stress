@@ -1,0 +1,43 @@
+Title: Kshlerin-Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/debtor
+  item: companies/walsh-plc
+- 
+  type: relations/money/creditor
+  item: companies/dach-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/money/creditor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn

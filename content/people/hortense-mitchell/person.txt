@@ -1,0 +1,64 @@
+Title: Hortense Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-mina-gerhold-iv
+- 
+  type: relations/parental/brosis
+  item: people/carey-fahey
+- 
+  type: relations/money/debtor
+  item: people/evangeline-funk
+- 
+  type: relations/parental/dad
+  item: people/mrs-verna-paucek
+- 
+  type: relations/money/debtor
+  item: people/jamir-adams
+- 
+  type: relations/money/creditor
+  item: people/ms-hope-aufderhar
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/harvey-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Prof. Antonina Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-juliana-wisozk
+- 
+  type: relations/parental/dad
+  item: people/turner-bashirian
+- 
+  type: relations/parental/friend
+  item: people/mr-eldon-romaguera
+- 
+  type: relations/money/creditor
+  item: people/rudy-crist-iii
+- 
+  type: relations/parental/dad
+  item: people/belle-hagenes
+- 
+  type: relations/parental/dad
+  item: people/nicholas-parisian
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

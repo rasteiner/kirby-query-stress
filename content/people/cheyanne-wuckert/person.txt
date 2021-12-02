@@ -1,0 +1,64 @@
+Title: Cheyanne Wuckert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-dana-larson
+- 
+  type: relations/parental/dad
+  item: people/oswald-konopelski
+- 
+  type: relations/money/creditor
+  item: people/maddison-zemlak-ii
+- 
+  type: relations/parental/colleague
+  item: people/mr-dedric-shields
+- 
+  type: relations/parental/dad
+  item: people/mr-efrain-kunze-sr
+- 
+  type: relations/money/creditor
+  item: people/leatha-russel-ii
+- 
+  type: relations/money/debtor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-group
+- 
+  type: relations/work/client
+  item: companies/windler-plc
+- 
+  type: relations/money/debtor
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

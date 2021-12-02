@@ -1,0 +1,64 @@
+Title: Brycen Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jeanie-greenholt
+- 
+  type: relations/money/creditor
+  item: people/brittany-harber-sr
+- 
+  type: relations/money/creditor
+  item: people/prof-benny-hermann-sr
+- 
+  type: relations/parental/mom
+  item: people/prof-haskell-o-connell-iv
+- 
+  type: relations/parental/friend
+  item: people/miss-kattie-cummings-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-bernice-purdy-iii
+- 
+  type: relations/work/employer
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/client
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/client
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

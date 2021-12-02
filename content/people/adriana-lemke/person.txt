@@ -1,0 +1,64 @@
+Title: Adriana Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-cara-haley
+- 
+  type: relations/parental/colleague
+  item: people/miss-donna-gutmann
+- 
+  type: relations/parental/friend
+  item: people/prof-elta-mills
+- 
+  type: relations/parental/friend
+  item: people/colten-keebler
+- 
+  type: relations/money/debtor
+  item: people/kamren-johns
+- 
+  type: relations/money/creditor
+  item: people/prof-emmanuelle-bailey
+- 
+  type: relations/work/employer
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

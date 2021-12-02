@@ -1,0 +1,64 @@
+Title: Aliza Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-meredith-baumbach
+- 
+  type: relations/money/creditor
+  item: people/lonnie-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/coty-rogahn
+- 
+  type: relations/parental/colleague
+  item: people/christine-hudson
+- 
+  type: relations/parental/dad
+  item: people/prof-agustin-sporer
+- 
+  type: relations/money/creditor
+  item: people/germaine-nienow
+- 
+  type: relations/money/debtor
+  item: companies/purdy-koch
+- 
+  type: relations/money/debtor
+  item: companies/smith-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-harber
+- 
+  type: relations/work/employer
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

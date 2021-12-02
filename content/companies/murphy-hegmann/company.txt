@@ -1,0 +1,43 @@
+Title: Murphy-Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hamill-inc
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/south-taniachester

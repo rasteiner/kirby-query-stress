@@ -1,0 +1,64 @@
+Title: Blaze Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/travis-carroll
+- 
+  type: relations/money/creditor
+  item: people/taylor-howell
+- 
+  type: relations/parental/brosis
+  item: people/prof-clemens-auer
+- 
+  type: relations/parental/mom
+  item: people/madisyn-fritsch
+- 
+  type: relations/money/creditor
+  item: people/ms-dora-hand-iv
+- 
+  type: relations/parental/brosis
+  item: people/brigitte-crooks-md
+- 
+  type: relations/work/client
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/client
+  item: companies/hackett-inc
+- 
+  type: relations/work/employer
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/client
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

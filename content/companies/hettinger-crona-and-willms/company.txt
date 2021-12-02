@@ -1,0 +1,43 @@
+Title: Hettinger, Crona and Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/debtor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/money/creditor
+  item: companies/orn-inc
+- 
+  type: relations/money/debtor
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport

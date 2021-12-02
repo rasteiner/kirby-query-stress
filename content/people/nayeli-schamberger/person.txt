@@ -1,0 +1,64 @@
+Title: Nayeli Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-euna-fadel
+- 
+  type: relations/parental/mom
+  item: people/earnest-wiza
+- 
+  type: relations/parental/dad
+  item: people/delaney-runolfsdottir-i
+- 
+  type: relations/parental/colleague
+  item: people/dolores-bins
+- 
+  type: relations/parental/mom
+  item: people/samanta-kovacek
+- 
+  type: relations/parental/mom
+  item: people/prof-isaiah-weber
+- 
+  type: relations/work/client
+  item: companies/grimes-inc
+- 
+  type: relations/money/debtor
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/money/debtor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

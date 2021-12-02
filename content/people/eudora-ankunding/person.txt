@@ -1,0 +1,64 @@
+Title: Eudora Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-leslie-simonis
+- 
+  type: relations/parental/colleague
+  item: people/jonas-bosco-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-alivia-schaden
+- 
+  type: relations/parental/dad
+  item: people/meredith-koelpin
+- 
+  type: relations/parental/brosis
+  item: people/delores-lowe
+- 
+  type: relations/parental/colleague
+  item: people/amelia-skiles
+- 
+  type: relations/money/creditor
+  item: companies/murray-o-hara
+- 
+  type: relations/money/debtor
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/wisoky-watsica
+- 
+  type: relations/work/employer
+  item: companies/price-toy-and-roob
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

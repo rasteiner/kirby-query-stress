@@ -1,0 +1,64 @@
+Title: Vicente Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hailee-zieme
+- 
+  type: relations/parental/friend
+  item: people/nina-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/claire-jacobs
+- 
+  type: relations/parental/brosis
+  item: people/allie-parisian
+- 
+  type: relations/parental/dad
+  item: people/burdette-ernser-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-shayne-bruen
+- 
+  type: relations/work/employer
+  item: companies/towne-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

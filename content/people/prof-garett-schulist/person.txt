@@ -1,0 +1,64 @@
+Title: Prof. Garett Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-johnathon-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/mrs-kaylah-stamm-i
+- 
+  type: relations/parental/mom
+  item: people/monica-hane
+- 
+  type: relations/parental/friend
+  item: people/claudie-kemmer
+- 
+  type: relations/money/creditor
+  item: people/mrs-lesly-hilll
+- 
+  type: relations/parental/colleague
+  item: people/mr-austyn-conroy
+- 
+  type: relations/money/creditor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

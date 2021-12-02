@@ -1,0 +1,64 @@
+Title: Jennie Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rosalind-gusikowski-ii
+- 
+  type: relations/parental/mom
+  item: people/berneice-gerhold
+- 
+  type: relations/money/debtor
+  item: people/dandre-bergstrom-sr
+- 
+  type: relations/parental/brosis
+  item: people/ayden-murazik
+- 
+  type: relations/parental/colleague
+  item: people/jamir-hansen
+- 
+  type: relations/parental/colleague
+  item: people/norberto-kertzmann
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

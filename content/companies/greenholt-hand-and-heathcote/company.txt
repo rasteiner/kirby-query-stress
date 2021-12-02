@@ -1,0 +1,43 @@
+Title: Greenholt, Hand and Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/creditor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/russel-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt

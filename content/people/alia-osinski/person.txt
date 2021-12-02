@@ -1,0 +1,64 @@
+Title: Alia Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/oliver-stamm
+- 
+  type: relations/parental/mom
+  item: people/gwendolyn-monahan
+- 
+  type: relations/parental/mom
+  item: people/dr-vincenza-denesik
+- 
+  type: relations/parental/dad
+  item: people/rosendo-howe
+- 
+  type: relations/money/creditor
+  item: people/lance-emard
+- 
+  type: relations/money/creditor
+  item: people/theresa-mcdermott
+- 
+  type: relations/work/employer
+  item: companies/grimes-inc
+- 
+  type: relations/money/debtor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

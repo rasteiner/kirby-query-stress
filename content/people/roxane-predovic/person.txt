@@ -1,0 +1,64 @@
+Title: Roxane Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/loy-simonis
+- 
+  type: relations/parental/brosis
+  item: people/robb-hegmann
+- 
+  type: relations/parental/mom
+  item: people/baby-hand
+- 
+  type: relations/parental/friend
+  item: people/fannie-koepp-iii
+- 
+  type: relations/money/creditor
+  item: people/miss-esperanza-block-dds
+- 
+  type: relations/parental/friend
+  item: people/ruby-trantow
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

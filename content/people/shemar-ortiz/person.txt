@@ -1,0 +1,64 @@
+Title: Shemar Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/otto-auer
+- 
+  type: relations/money/creditor
+  item: people/prof-tiara-hirthe-iii
+- 
+  type: relations/parental/dad
+  item: people/addison-fahey
+- 
+  type: relations/parental/dad
+  item: people/enola-jacobs
+- 
+  type: relations/parental/dad
+  item: people/cleora-hansen
+- 
+  type: relations/money/debtor
+  item: people/jaqueline-volkman
+- 
+  type: relations/work/client
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

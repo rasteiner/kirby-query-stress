@@ -1,0 +1,64 @@
+Title: Leonardo Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/wiley-runolfsson
+- 
+  type: relations/parental/mom
+  item: people/jack-kiehn
+- 
+  type: relations/money/creditor
+  item: people/miss-dorothy-veum
+- 
+  type: relations/money/debtor
+  item: people/mrs-meagan-feest
+- 
+  type: relations/parental/dad
+  item: people/annetta-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/sincere-lesch
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/employer
+  item: companies/kris-and-sons
+- 
+  type: relations/work/client
+  item: companies/hintz-group
+- 
+  type: relations/work/client
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

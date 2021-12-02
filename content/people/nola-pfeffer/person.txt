@@ -1,0 +1,64 @@
+Title: Nola Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/thurman-collier-sr
+- 
+  type: relations/parental/brosis
+  item: people/melody-smith-sr
+- 
+  type: relations/parental/mom
+  item: people/gloria-lebsack-ii
+- 
+  type: relations/parental/mom
+  item: people/marcelle-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/margaret-becker
+- 
+  type: relations/money/debtor
+  item: people/prof-cooper-ernser-iii
+- 
+  type: relations/work/employer
+  item: companies/o-hara-hettinger
+- 
+  type: relations/work/client
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/employer
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

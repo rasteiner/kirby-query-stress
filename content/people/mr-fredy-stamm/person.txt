@@ -1,0 +1,64 @@
+Title: Mr. Fredy Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-elian-mitchell
+- 
+  type: relations/parental/friend
+  item: people/veronica-mayer
+- 
+  type: relations/parental/mom
+  item: people/reece-breitenberg
+- 
+  type: relations/parental/colleague
+  item: people/emmitt-white
+- 
+  type: relations/parental/friend
+  item: people/myrtie-rosenbaum
+- 
+  type: relations/parental/brosis
+  item: people/prof-keeley-brekke-jr
+- 
+  type: relations/money/creditor
+  item: companies/graham-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/hintz-fisher
+- 
+  type: relations/money/debtor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

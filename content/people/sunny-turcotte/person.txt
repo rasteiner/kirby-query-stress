@@ -1,0 +1,65 @@
+Title: Sunny Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/carissa-cummings
+- 
+  type: relations/money/debtor
+  item: people/paris-hills
+- 
+  type: relations/parental/dad
+  item: people/mrs-sadye-keebler-i
+- 
+  type: relations/parental/friend
+  item: people/miss-rachel-lemke
+- 
+  type: relations/parental/friend
+  item: people/gayle-heaney
+- 
+  type: relations/money/creditor
+  item: people/mr-guido-lind-dvm
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/employer
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

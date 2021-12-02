@@ -1,0 +1,65 @@
+Title: Merritt Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-felicita-trantow
+- 
+  type: relations/parental/friend
+  item: people/veda-schulist
+- 
+  type: relations/parental/friend
+  item: people/albin-hilll
+- 
+  type: relations/parental/friend
+  item: people/cory-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/parental/dad
+  item: people/raheem-leffler
+- 
+  type: relations/work/employer
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/employer
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/client
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

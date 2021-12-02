@@ -1,0 +1,64 @@
+Title: Landen Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dameon-schuster
+- 
+  type: relations/parental/dad
+  item: people/garrison-will
+- 
+  type: relations/money/debtor
+  item: people/dr-derrick-schaefer-dvm
+- 
+  type: relations/parental/friend
+  item: people/eleanore-gutmann
+- 
+  type: relations/parental/mom
+  item: people/lenna-howell
+- 
+  type: relations/parental/colleague
+  item: people/prof-henderson-shields-ii
+- 
+  type: relations/work/client
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/work/employer
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

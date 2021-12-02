@@ -1,0 +1,64 @@
+Title: Flavio Marks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/esta-toy-dds
+- 
+  type: relations/money/creditor
+  item: people/abigail-parker
+- 
+  type: relations/parental/colleague
+  item: people/alexzander-parisian
+- 
+  type: relations/parental/brosis
+  item: people/lelah-kessler-sr
+- 
+  type: relations/parental/colleague
+  item: people/lloyd-howe
+- 
+  type: relations/parental/friend
+  item: people/dawn-lakin-i
+- 
+  type: relations/work/employer
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/work/client
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

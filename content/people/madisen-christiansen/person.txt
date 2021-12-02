@@ -1,0 +1,64 @@
+Title: Madisen Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kyla-emmerich
+- 
+  type: relations/parental/mom
+  item: people/mariana-west
+- 
+  type: relations/parental/friend
+  item: people/miss-jammie-orn-ii
+- 
+  type: relations/parental/friend
+  item: people/kevin-hintz
+- 
+  type: relations/parental/dad
+  item: people/lemuel-white
+- 
+  type: relations/parental/brosis
+  item: people/esmeralda-lynch
+- 
+  type: relations/work/client
+  item: companies/yost-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/work/employer
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

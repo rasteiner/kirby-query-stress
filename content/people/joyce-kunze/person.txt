@@ -1,0 +1,64 @@
+Title: Joyce Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/haylie-lehner
+- 
+  type: relations/money/debtor
+  item: people/mrs-antonina-funk-dds
+- 
+  type: relations/parental/friend
+  item: people/dejuan-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/richmond-price
+- 
+  type: relations/money/creditor
+  item: people/prof-leonor-kertzmann-phd
+- 
+  type: relations/parental/friend
+  item: people/kiera-hilll
+- 
+  type: relations/work/employer
+  item: companies/casper-inc
+- 
+  type: relations/work/client
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/money/debtor
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

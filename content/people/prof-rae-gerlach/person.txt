@@ -1,0 +1,64 @@
+Title: Prof. Rae Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/percival-smitham
+- 
+  type: relations/parental/brosis
+  item: people/gilda-zboncak-iv
+- 
+  type: relations/parental/friend
+  item: people/danial-weber
+- 
+  type: relations/money/creditor
+  item: people/miss-carmen-adams-iii
+- 
+  type: relations/parental/mom
+  item: people/jazlyn-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/ms-hildegard-green
+- 
+  type: relations/money/debtor
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

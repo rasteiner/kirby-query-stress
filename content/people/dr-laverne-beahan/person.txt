@@ -1,0 +1,64 @@
+Title: Dr. Laverne Beahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-maia-dicki-jr
+- 
+  type: relations/money/debtor
+  item: people/raymond-dach
+- 
+  type: relations/parental/colleague
+  item: people/hans-hermiston-v
+- 
+  type: relations/money/debtor
+  item: people/valentine-willms
+- 
+  type: relations/parental/dad
+  item: people/noah-lockman
+- 
+  type: relations/parental/colleague
+  item: people/emmett-mayert
+- 
+  type: relations/money/debtor
+  item: companies/jones-daugherty
+- 
+  type: relations/work/client
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

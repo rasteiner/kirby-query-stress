@@ -1,0 +1,64 @@
+Title: Prof. Henderson Jacobson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/francesco-jast
+- 
+  type: relations/money/creditor
+  item: people/bernadette-walter
+- 
+  type: relations/parental/friend
+  item: people/myrna-cruickshank-jr
+- 
+  type: relations/parental/dad
+  item: people/miller-bayer-iii
+- 
+  type: relations/money/creditor
+  item: people/prof-taylor-schaefer
+- 
+  type: relations/parental/dad
+  item: people/dr-nicholas-huel
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/employer
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

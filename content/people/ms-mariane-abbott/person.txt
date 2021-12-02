@@ -1,0 +1,64 @@
+Title: Ms. Mariane Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cara-schoen
+- 
+  type: relations/parental/friend
+  item: people/prof-alfredo-wilkinson-dvm
+- 
+  type: relations/parental/dad
+  item: people/larue-wisoky
+- 
+  type: relations/parental/friend
+  item: people/virginie-hermiston
+- 
+  type: relations/money/debtor
+  item: people/paula-trantow
+- 
+  type: relations/parental/dad
+  item: people/wilhelmine-jenkins
+- 
+  type: relations/work/employer
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

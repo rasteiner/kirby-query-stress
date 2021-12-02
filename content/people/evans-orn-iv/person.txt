@@ -1,0 +1,64 @@
+Title: Evans Orn IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/katelin-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/mr-bo-gusikowski-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-marvin-murazik-phd
+- 
+  type: relations/parental/mom
+  item: people/janiya-fisher
+- 
+  type: relations/parental/friend
+  item: people/dr-benedict-johns-sr
+- 
+  type: relations/money/debtor
+  item: people/ubaldo-howell
+- 
+  type: relations/work/client
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/client
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

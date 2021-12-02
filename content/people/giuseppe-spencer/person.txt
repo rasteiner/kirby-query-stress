@@ -1,0 +1,64 @@
+Title: Giuseppe Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maybell-herzog
+- 
+  type: relations/money/debtor
+  item: people/oren-hackett
+- 
+  type: relations/money/debtor
+  item: people/prof-carole-tillman-jr
+- 
+  type: relations/money/creditor
+  item: people/katlyn-stark
+- 
+  type: relations/money/creditor
+  item: people/bert-hills-v
+- 
+  type: relations/parental/dad
+  item: people/shirley-luettgen
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/money/debtor
+  item: companies/terry-ltd
+- 
+  type: relations/money/creditor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/client
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

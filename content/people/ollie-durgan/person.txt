@@ -1,0 +1,64 @@
+Title: Ollie Durgan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-selmer-homenick-i
+- 
+  type: relations/money/debtor
+  item: people/aniya-schumm
+- 
+  type: relations/parental/dad
+  item: people/anita-gutmann
+- 
+  type: relations/money/debtor
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/money/creditor
+  item: people/dameon-schuster
+- 
+  type: relations/money/debtor
+  item: people/garrison-will
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

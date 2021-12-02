@@ -1,0 +1,64 @@
+Title: Luis Cruickshank
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lindsey-ebert-ii
+- 
+  type: relations/parental/colleague
+  item: people/krista-hayes
+- 
+  type: relations/parental/colleague
+  item: people/mrs-gwendolyn-roberts-phd
+- 
+  type: relations/parental/brosis
+  item: people/prof-tyshawn-lynch
+- 
+  type: relations/parental/friend
+  item: people/connor-koelpin-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-tony-gislason-md
+- 
+  type: relations/work/client
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

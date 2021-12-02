@@ -1,0 +1,64 @@
+Title: Else Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-mikayla-bayer-iv
+- 
+  type: relations/parental/dad
+  item: people/serenity-prohaska
+- 
+  type: relations/parental/dad
+  item: people/carissa-cummings
+- 
+  type: relations/parental/dad
+  item: people/paris-hills
+- 
+  type: relations/money/creditor
+  item: people/mrs-sadye-keebler-i
+- 
+  type: relations/parental/brosis
+  item: people/miss-rachel-lemke
+- 
+  type: relations/work/client
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/effertz-llc
+- 
+  type: relations/work/employer
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/client
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

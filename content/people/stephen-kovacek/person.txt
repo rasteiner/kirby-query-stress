@@ -1,0 +1,65 @@
+Title: Stephen Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-juliana-leffler-i
+- 
+  type: relations/parental/friend
+  item: people/prof-guido-okuneva
+- 
+  type: relations/parental/mom
+  item: people/florence-rath
+- 
+  type: relations/parental/mom
+  item: people/barney-kunde
+- 
+  type: relations/money/debtor
+  item: people/emelia-raynor
+- 
+  type: relations/parental/mom
+  item: people/anne-price
+- 
+  type: relations/work/client
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/work/client
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

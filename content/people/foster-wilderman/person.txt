@@ -1,0 +1,64 @@
+Title: Foster Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/remington-abshire
+- 
+  type: relations/parental/dad
+  item: people/cali-haley
+- 
+  type: relations/parental/friend
+  item: people/jarod-gerhold
+- 
+  type: relations/parental/friend
+  item: people/ismael-oberbrunner
+- 
+  type: relations/money/debtor
+  item: people/wanda-kutch
+- 
+  type: relations/parental/brosis
+  item: people/braxton-kihn
+- 
+  type: relations/work/client
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/work/employer
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

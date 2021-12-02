@@ -1,0 +1,44 @@
+Title: Schuster, Mann and Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/hintz-group
+- 
+  type: relations/money/creditor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/creditor
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/robertstown

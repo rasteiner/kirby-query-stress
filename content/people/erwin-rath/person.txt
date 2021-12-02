@@ -1,0 +1,64 @@
+Title: Erwin Rath
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/gennaro-king
+- 
+  type: relations/parental/colleague
+  item: people/dr-sylvester-douglas-jr
+- 
+  type: relations/parental/dad
+  item: people/eloisa-lowe
+- 
+  type: relations/parental/friend
+  item: people/melyssa-effertz
+- 
+  type: relations/parental/colleague
+  item: people/denis-gulgowski
+- 
+  type: relations/parental/friend
+  item: people/prof-ubaldo-terry-i
+- 
+  type: relations/work/employer
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/client
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/employer
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

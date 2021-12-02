@@ -1,0 +1,64 @@
+Title: Prof. Valerie McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/shayne-turner
+- 
+  type: relations/money/debtor
+  item: people/otis-barrows
+- 
+  type: relations/parental/mom
+  item: people/dr-eldon-jacobi-dds
+- 
+  type: relations/parental/mom
+  item: people/kellen-deckow
+- 
+  type: relations/parental/brosis
+  item: people/enid-sporer-ii
+- 
+  type: relations/parental/mom
+  item: people/abbey-buckridge
+- 
+  type: relations/work/client
+  item: companies/huels-walter
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

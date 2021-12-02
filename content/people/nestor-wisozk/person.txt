@@ -1,0 +1,64 @@
+Title: Nestor Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-noemy-barrows-phd
+- 
+  type: relations/parental/friend
+  item: people/elbert-schowalter
+- 
+  type: relations/money/debtor
+  item: people/mr-kane-bernier-iii
+- 
+  type: relations/parental/dad
+  item: people/mr-columbus-casper
+- 
+  type: relations/parental/mom
+  item: people/bettye-lang
+- 
+  type: relations/money/creditor
+  item: people/mr-angel-ullrich-dvm
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/work/employer
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

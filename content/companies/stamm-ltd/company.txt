@@ -1,0 +1,43 @@
+Title: Stamm Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/abbott-llc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-brisaport

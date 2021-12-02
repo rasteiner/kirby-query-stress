@@ -1,0 +1,65 @@
+Title: Sadie Gerlach DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/pierce-morissette-jr
+- 
+  type: relations/parental/dad
+  item: people/alysson-thompson
+- 
+  type: relations/parental/friend
+  item: people/cordie-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/dr-erik-kozey
+- 
+  type: relations/parental/mom
+  item: people/gladyce-morar-v
+- 
+  type: relations/money/creditor
+  item: people/jarvis-shields-dvm
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/client
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

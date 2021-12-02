@@ -1,0 +1,64 @@
+Title: Daren Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jamaal-franecki
+- 
+  type: relations/parental/mom
+  item: people/trisha-schaden-iii
+- 
+  type: relations/parental/mom
+  item: people/annetta-metz
+- 
+  type: relations/parental/mom
+  item: people/lela-leffler
+- 
+  type: relations/parental/brosis
+  item: people/kayley-gutkowski
+- 
+  type: relations/parental/friend
+  item: people/mrs-jude-stroman-ii
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

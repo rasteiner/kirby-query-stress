@@ -1,0 +1,64 @@
+Title: Prof. Santa Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/walton-white
+- 
+  type: relations/parental/dad
+  item: people/hoyt-price
+- 
+  type: relations/money/debtor
+  item: people/dolly-thiel
+- 
+  type: relations/parental/mom
+  item: people/pearl-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/armand-keeling
+- 
+  type: relations/parental/colleague
+  item: people/neal-walker
+- 
+  type: relations/work/employer
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/work/employer
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Esta Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maud-hessel
+- 
+  type: relations/parental/colleague
+  item: people/reyes-leannon-v
+- 
+  type: relations/parental/mom
+  item: people/rachel-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/sage-goyette
+- 
+  type: relations/parental/mom
+  item: people/justine-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/camilla-turner
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/employer
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

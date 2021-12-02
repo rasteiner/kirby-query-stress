@@ -1,0 +1,64 @@
+Title: Gerson Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-evan-effertz-iii
+- 
+  type: relations/money/creditor
+  item: people/ms-shana-bradtke
+- 
+  type: relations/parental/colleague
+  item: people/dr-beau-terry
+- 
+  type: relations/parental/brosis
+  item: people/terrence-rogahn
+- 
+  type: relations/parental/brosis
+  item: people/prof-alexanne-powlowski-v
+- 
+  type: relations/parental/mom
+  item: people/juliet-kilback-ii
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/work/client
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/client
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

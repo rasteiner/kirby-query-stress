@@ -1,0 +1,64 @@
+Title: Burnice Eichmann IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kaitlyn-swaniawski
+- 
+  type: relations/parental/mom
+  item: people/nils-mclaughlin-jr
+- 
+  type: relations/parental/friend
+  item: people/yolanda-russel-i
+- 
+  type: relations/parental/mom
+  item: people/taya-schmitt
+- 
+  type: relations/parental/colleague
+  item: people/laurie-aufderhar
+- 
+  type: relations/parental/dad
+  item: people/dr-mercedes-berge-dds
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/work/client
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

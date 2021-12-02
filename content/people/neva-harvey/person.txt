@@ -1,0 +1,64 @@
+Title: Neva Harvey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/athena-wehner
+- 
+  type: relations/parental/mom
+  item: people/devante-yost-i
+- 
+  type: relations/parental/colleague
+  item: people/dr-gabrielle-parker
+- 
+  type: relations/parental/colleague
+  item: people/lisa-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/matt-rutherford
+- 
+  type: relations/parental/dad
+  item: people/nola-howell-dds
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/work/client
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

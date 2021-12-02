@@ -1,0 +1,64 @@
+Title: Leatha Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jerome-miller-dds
+- 
+  type: relations/parental/friend
+  item: people/jaida-trantow
+- 
+  type: relations/parental/colleague
+  item: people/savanah-anderson
+- 
+  type: relations/parental/brosis
+  item: people/frida-o-kon
+- 
+  type: relations/parental/friend
+  item: people/ibrahim-carroll
+- 
+  type: relations/parental/friend
+  item: people/prof-don-dietrich-dvm
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

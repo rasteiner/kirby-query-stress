@@ -1,0 +1,43 @@
+Title: Howe, Lueilwitz and Romaguera
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/nolan-inc
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/east-therese

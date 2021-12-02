@@ -1,0 +1,64 @@
+Title: Mr. Wilton Conn III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-sherman-schaefer-md
+- 
+  type: relations/parental/friend
+  item: people/mrs-ashtyn-funk
+- 
+  type: relations/parental/friend
+  item: people/mr-deshawn-parker-phd
+- 
+  type: relations/parental/brosis
+  item: people/prof-pablo-skiles-sr
+- 
+  type: relations/money/debtor
+  item: people/sherwood-waters
+- 
+  type: relations/parental/friend
+  item: people/violette-senger-jr
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/employer
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

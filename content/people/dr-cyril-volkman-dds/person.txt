@@ -1,0 +1,64 @@
+Title: Dr. Cyril Volkman DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-mable-hettinger
+- 
+  type: relations/parental/brosis
+  item: people/prof-magnus-hermiston-v
+- 
+  type: relations/parental/mom
+  item: people/vance-harris
+- 
+  type: relations/parental/dad
+  item: people/hannah-jakubowski
+- 
+  type: relations/parental/colleague
+  item: people/mr-steve-morissette
+- 
+  type: relations/parental/mom
+  item: people/eli-funk
+- 
+  type: relations/work/client
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

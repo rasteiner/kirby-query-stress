@@ -1,0 +1,64 @@
+Title: Omari Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/frankie-balistreri
+- 
+  type: relations/parental/dad
+  item: people/savanah-o-kon
+- 
+  type: relations/parental/colleague
+  item: people/dr-stephan-reynolds
+- 
+  type: relations/parental/colleague
+  item: people/oleta-towne
+- 
+  type: relations/money/creditor
+  item: people/dalton-bahringer
+- 
+  type: relations/parental/mom
+  item: people/wilburn-hermann-v
+- 
+  type: relations/work/client
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/client
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

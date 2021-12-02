@@ -1,0 +1,64 @@
+Title: Kaylee Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/denis-ebert-ii
+- 
+  type: relations/money/creditor
+  item: people/mr-ward-will-iv
+- 
+  type: relations/money/debtor
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/lila-walter
+- 
+  type: relations/money/debtor
+  item: people/demarco-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/trudie-veum
+- 
+  type: relations/work/client
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/work/employer
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

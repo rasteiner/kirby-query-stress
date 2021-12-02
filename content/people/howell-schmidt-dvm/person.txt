@@ -1,0 +1,64 @@
+Title: Howell Schmidt DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-skylar-shields
+- 
+  type: relations/money/creditor
+  item: people/dr-laron-hilll
+- 
+  type: relations/parental/brosis
+  item: people/una-bauch
+- 
+  type: relations/parental/colleague
+  item: people/brando-sipes
+- 
+  type: relations/money/creditor
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/parental/mom
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/money/creditor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/client
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,65 @@
+Title: Maurine Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-jazmyne-veum-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-peter-fahey
+- 
+  type: relations/parental/colleague
+  item: people/jose-heidenreich
+- 
+  type: relations/parental/brosis
+  item: people/alessandra-towne
+- 
+  type: relations/parental/mom
+  item: people/syble-dietrich-v
+- 
+  type: relations/parental/mom
+  item: people/prof-sarai-crooks-dvm
+- 
+  type: relations/money/debtor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

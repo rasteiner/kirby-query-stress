@@ -1,0 +1,64 @@
+Title: Gabe Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jovan-denesik-iii
+- 
+  type: relations/parental/friend
+  item: people/cielo-lebsack-iv
+- 
+  type: relations/parental/colleague
+  item: people/freddie-ryan
+- 
+  type: relations/parental/colleague
+  item: people/patience-buckridge
+- 
+  type: relations/parental/friend
+  item: people/garret-nader-jr
+- 
+  type: relations/parental/friend
+  item: people/virginia-heathcote
+- 
+  type: relations/work/employer
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/client
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/client
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

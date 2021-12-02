@@ -1,0 +1,43 @@
+Title: Prohaska-Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-group
+- 
+  type: relations/money/debtor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/debtor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

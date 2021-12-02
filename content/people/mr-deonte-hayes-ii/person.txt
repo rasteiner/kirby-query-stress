@@ -1,0 +1,64 @@
+Title: Mr. Deonte Hayes II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dillan-mcglynn
+- 
+  type: relations/parental/brosis
+  item: people/salma-ortiz-jr
+- 
+  type: relations/parental/brosis
+  item: people/leanne-schiller
+- 
+  type: relations/money/creditor
+  item: people/cloyd-harvey-md
+- 
+  type: relations/parental/friend
+  item: people/mr-juwan-gorczany
+- 
+  type: relations/parental/brosis
+  item: people/glenna-klocko
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/money/debtor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Miss Alessia Blanda
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/trever-kulas-ii
+- 
+  type: relations/parental/dad
+  item: people/eulah-champlin
+- 
+  type: relations/parental/brosis
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/vito-swift
+- 
+  type: relations/parental/friend
+  item: people/merritt-carter
+- 
+  type: relations/money/creditor
+  item: people/liana-friesen
+- 
+  type: relations/work/employer
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-ltd
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

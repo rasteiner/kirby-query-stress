@@ -1,0 +1,64 @@
+Title: Eleanore Kiehn PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/enos-veum
+- 
+  type: relations/parental/friend
+  item: people/miss-karen-bode-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-blanche-heller-phd
+- 
+  type: relations/parental/colleague
+  item: people/terrill-carter
+- 
+  type: relations/parental/colleague
+  item: people/shanie-stoltenberg
+- 
+  type: relations/parental/colleague
+  item: people/prof-bennie-bogan
+- 
+  type: relations/money/debtor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/debtor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/lindgren-rath
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

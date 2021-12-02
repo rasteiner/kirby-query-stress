@@ -1,0 +1,64 @@
+Title: Prof. Russell Graham Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kay-barrows
+- 
+  type: relations/money/creditor
+  item: people/korey-shanahan
+- 
+  type: relations/parental/colleague
+  item: people/barrett-bergstrom
+- 
+  type: relations/parental/colleague
+  item: people/prof-amya-bartoletti
+- 
+  type: relations/parental/dad
+  item: people/anderson-toy
+- 
+  type: relations/money/debtor
+  item: people/mckayla-gleason
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

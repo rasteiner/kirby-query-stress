@@ -1,0 +1,43 @@
+Title: Beer, Brown and Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/port-noraborough

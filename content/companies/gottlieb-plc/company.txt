@@ -1,0 +1,44 @@
+Title: Gottlieb PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/creditor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/koch-ltd
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury

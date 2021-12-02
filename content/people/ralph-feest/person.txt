@@ -1,0 +1,64 @@
+Title: Ralph Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-britney-howell
+- 
+  type: relations/parental/colleague
+  item: people/lupe-bins
+- 
+  type: relations/money/debtor
+  item: people/ericka-corwin
+- 
+  type: relations/parental/colleague
+  item: people/miss-idell-skiles-i
+- 
+  type: relations/parental/colleague
+  item: people/alysha-hilpert
+- 
+  type: relations/parental/dad
+  item: people/lucienne-sawayn
+- 
+  type: relations/work/client
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

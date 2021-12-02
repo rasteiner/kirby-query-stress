@@ -1,0 +1,64 @@
+Title: Dr. Ethel Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/chadrick-carroll
+- 
+  type: relations/parental/mom
+  item: people/hiram-dooley-dds
+- 
+  type: relations/parental/dad
+  item: people/eddie-ziemann
+- 
+  type: relations/money/debtor
+  item: people/treva-abernathy-dds
+- 
+  type: relations/parental/dad
+  item: people/justina-gulgowski
+- 
+  type: relations/money/debtor
+  item: people/ms-anastasia-rice-dds
+- 
+  type: relations/work/client
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

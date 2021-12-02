@@ -1,0 +1,64 @@
+Title: Isidro Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/emmalee-hahn
+- 
+  type: relations/money/creditor
+  item: people/nelle-heathcote
+- 
+  type: relations/parental/friend
+  item: people/ashlee-bayer
+- 
+  type: relations/parental/brosis
+  item: people/dr-jaleel-abernathy-md
+- 
+  type: relations/money/debtor
+  item: people/makenzie-oberbrunner-phd
+- 
+  type: relations/parental/dad
+  item: people/jay-nikolaus
+- 
+  type: relations/money/creditor
+  item: companies/walker-howe
+- 
+  type: relations/money/debtor
+  item: companies/orn-inc
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/creditor
+  item: companies/mayer-conn
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

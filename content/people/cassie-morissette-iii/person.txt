@@ -1,0 +1,64 @@
+Title: Cassie Morissette III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/minerva-lakin-jr
+- 
+  type: relations/money/debtor
+  item: people/elmer-rempel
+- 
+  type: relations/money/debtor
+  item: people/imelda-mosciski
+- 
+  type: relations/parental/dad
+  item: people/amani-dare
+- 
+  type: relations/parental/friend
+  item: people/lelah-reilly
+- 
+  type: relations/parental/dad
+  item: people/roosevelt-ziemann
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/debtor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

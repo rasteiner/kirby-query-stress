@@ -1,0 +1,64 @@
+Title: Kody Borer DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maximillian-willms
+- 
+  type: relations/money/debtor
+  item: people/eldred-yundt
+- 
+  type: relations/parental/brosis
+  item: people/maximillia-mueller
+- 
+  type: relations/parental/brosis
+  item: people/cleora-dooley
+- 
+  type: relations/parental/brosis
+  item: people/elouise-cummings
+- 
+  type: relations/parental/mom
+  item: people/albina-terry-dvm
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

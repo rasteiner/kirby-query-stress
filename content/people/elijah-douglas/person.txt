@@ -1,0 +1,64 @@
+Title: Elijah Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mona-wuckert
+- 
+  type: relations/parental/friend
+  item: people/asia-pouros
+- 
+  type: relations/money/creditor
+  item: people/ms-rosetta-steuber
+- 
+  type: relations/parental/brosis
+  item: people/mazie-considine
+- 
+  type: relations/parental/colleague
+  item: people/mr-jocelyn-toy-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-ernest-zieme-phd
+- 
+  type: relations/work/client
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/work/client
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/client
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

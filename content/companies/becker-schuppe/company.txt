@@ -1,0 +1,44 @@
+Title: Becker-Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/port-jonfort

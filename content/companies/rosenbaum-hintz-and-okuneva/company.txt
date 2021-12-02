@@ -1,0 +1,45 @@
+Title: Rosenbaum, Hintz and Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: German Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/denis-gulgowski
+- 
+  type: relations/parental/dad
+  item: people/prof-ubaldo-terry-i
+- 
+  type: relations/money/debtor
+  item: people/lenora-walsh
+- 
+  type: relations/parental/brosis
+  item: people/anne-johnson
+- 
+  type: relations/parental/dad
+  item: people/sallie-hickle-dds
+- 
+  type: relations/money/debtor
+  item: people/audie-berge-jr
+- 
+  type: relations/work/client
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

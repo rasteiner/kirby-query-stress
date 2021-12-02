@@ -1,0 +1,64 @@
+Title: Forrest Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/omari-hirthe
+- 
+  type: relations/money/debtor
+  item: people/kenny-bosco
+- 
+  type: relations/money/debtor
+  item: people/isaac-simonis-phd
+- 
+  type: relations/parental/dad
+  item: people/haylie-hayes
+- 
+  type: relations/parental/colleague
+  item: people/carol-krajcik
+- 
+  type: relations/parental/mom
+  item: people/pattie-abbott
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

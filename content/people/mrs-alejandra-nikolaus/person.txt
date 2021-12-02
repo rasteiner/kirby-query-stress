@@ -1,0 +1,64 @@
+Title: Mrs. Alejandra Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/reggie-kulas
+- 
+  type: relations/parental/mom
+  item: people/christine-mcglynn
+- 
+  type: relations/parental/dad
+  item: people/colby-streich
+- 
+  type: relations/parental/dad
+  item: people/nikolas-smith
+- 
+  type: relations/money/debtor
+  item: people/prof-jordy-weissnat-md
+- 
+  type: relations/parental/brosis
+  item: people/ed-o-keefe
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

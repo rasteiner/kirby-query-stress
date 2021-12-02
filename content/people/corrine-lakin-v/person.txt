@@ -1,0 +1,64 @@
+Title: Corrine Lakin V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gerry-nienow-iv
+- 
+  type: relations/parental/brosis
+  item: people/marjory-tillman
+- 
+  type: relations/parental/mom
+  item: people/lou-hagenes
+- 
+  type: relations/money/debtor
+  item: people/muhammad-monahan
+- 
+  type: relations/parental/friend
+  item: people/gerard-grady-v
+- 
+  type: relations/parental/friend
+  item: people/isaac-gaylord
+- 
+  type: relations/work/employer
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/employer
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

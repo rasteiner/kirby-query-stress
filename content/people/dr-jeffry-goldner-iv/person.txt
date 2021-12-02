@@ -1,0 +1,64 @@
+Title: Dr. Jeffry Goldner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-sanford-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/erica-cartwright-v
+- 
+  type: relations/parental/colleague
+  item: people/holden-nienow
+- 
+  type: relations/parental/mom
+  item: people/isac-west-iii
+- 
+  type: relations/money/debtor
+  item: people/mae-shields
+- 
+  type: relations/parental/mom
+  item: people/mr-isidro-considine
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

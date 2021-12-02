@@ -1,0 +1,65 @@
+Title: Dr. Guy Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/columbus-huels-i
+- 
+  type: relations/parental/friend
+  item: people/franz-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/brycen-gibson
+- 
+  type: relations/parental/dad
+  item: people/ms-lucie-walsh-sr
+- 
+  type: relations/parental/colleague
+  item: people/cristian-renner
+- 
+  type: relations/parental/friend
+  item: people/tyrel-cremin
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/work/client
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Chloe Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/angela-tremblay-ii
+- 
+  type: relations/parental/colleague
+  item: people/alanna-franecki
+- 
+  type: relations/money/creditor
+  item: people/ms-jodie-blanda-dds
+- 
+  type: relations/parental/colleague
+  item: people/mr-jennings-o-conner
+- 
+  type: relations/parental/brosis
+  item: people/jamie-mante
+- 
+  type: relations/money/creditor
+  item: people/dr-carolyn-prosacco
+- 
+  type: relations/work/employer
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/money/debtor
+  item: companies/russel-collier
+- 
+  type: relations/work/employer
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

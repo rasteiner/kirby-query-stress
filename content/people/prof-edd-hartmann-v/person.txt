@@ -1,0 +1,64 @@
+Title: Prof. Edd Hartmann V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/patricia-hackett
+- 
+  type: relations/parental/brosis
+  item: people/emmanuelle-lehner-iv
+- 
+  type: relations/parental/brosis
+  item: people/mattie-rolfson-iii
+- 
+  type: relations/parental/mom
+  item: people/gregoria-rohan
+- 
+  type: relations/parental/mom
+  item: people/janae-dietrich
+- 
+  type: relations/parental/colleague
+  item: people/randal-schowalter
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Murphy Medhurst PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-della-schimmel-jr
+- 
+  type: relations/parental/brosis
+  item: people/fiona-schulist
+- 
+  type: relations/parental/friend
+  item: people/judd-parisian
+- 
+  type: relations/parental/mom
+  item: people/prof-russell-graham-sr
+- 
+  type: relations/parental/colleague
+  item: people/hermina-feil
+- 
+  type: relations/parental/dad
+  item: people/kylee-rice-dds
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/work/employer
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/employer
+  item: companies/osinski-lehner
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

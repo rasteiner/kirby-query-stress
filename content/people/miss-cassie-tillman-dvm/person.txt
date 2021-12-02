@@ -1,0 +1,64 @@
+Title: Miss Cassie Tillman DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-mona-koss-v
+- 
+  type: relations/parental/colleague
+  item: people/deondre-hayes
+- 
+  type: relations/parental/dad
+  item: people/dorian-schiller
+- 
+  type: relations/parental/dad
+  item: people/dell-jacobi
+- 
+  type: relations/money/creditor
+  item: people/meredith-larson
+- 
+  type: relations/money/creditor
+  item: people/edison-bode-sr
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/work/client
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

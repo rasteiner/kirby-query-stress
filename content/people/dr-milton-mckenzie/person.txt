@@ -1,0 +1,64 @@
+Title: Dr. Milton McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-dorthy-cassin
+- 
+  type: relations/parental/friend
+  item: people/reginald-blanda-jr
+- 
+  type: relations/parental/colleague
+  item: people/elouise-stiedemann-ii
+- 
+  type: relations/parental/mom
+  item: people/noemy-collier
+- 
+  type: relations/parental/dad
+  item: people/ruth-abshire-dds
+- 
+  type: relations/parental/dad
+  item: people/katherine-murphy
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/work/employer
+  item: companies/ferry-inc
+- 
+  type: relations/work/client
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

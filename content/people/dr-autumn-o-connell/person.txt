@@ -1,0 +1,64 @@
+Title: Dr. Autumn O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-justyn-lemke
+- 
+  type: relations/money/debtor
+  item: people/tabitha-schmitt
+- 
+  type: relations/parental/brosis
+  item: people/justyn-schumm
+- 
+  type: relations/money/creditor
+  item: people/santina-rogahn
+- 
+  type: relations/parental/friend
+  item: people/madilyn-dare-jr
+- 
+  type: relations/parental/mom
+  item: people/sydnee-stehr
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

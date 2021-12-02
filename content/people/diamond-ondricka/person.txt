@@ -1,0 +1,65 @@
+Title: Diamond Ondricka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/may-zulauf
+- 
+  type: relations/parental/dad
+  item: people/prof-jean-waelchi-v
+- 
+  type: relations/parental/dad
+  item: people/johathan-oberbrunner-dds
+- 
+  type: relations/parental/mom
+  item: people/crystal-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/dr-jameson-krajcik-i
+- 
+  type: relations/parental/colleague
+  item: people/tessie-keebler
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/work/employer
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/employer
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

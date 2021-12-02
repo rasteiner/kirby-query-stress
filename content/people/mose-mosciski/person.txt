@@ -1,0 +1,64 @@
+Title: Mose Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/idella-trantow
+- 
+  type: relations/money/creditor
+  item: people/julianne-robel
+- 
+  type: relations/parental/mom
+  item: people/ceasar-jenkins
+- 
+  type: relations/parental/friend
+  item: people/cassie-dickens-dvm
+- 
+  type: relations/parental/brosis
+  item: people/susana-keeling
+- 
+  type: relations/parental/dad
+  item: people/rosario-walter-sr
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

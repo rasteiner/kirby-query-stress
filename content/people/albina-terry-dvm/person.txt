@@ -1,0 +1,64 @@
+Title: Albina Terry DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/camylle-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/kali-sipes
+- 
+  type: relations/parental/mom
+  item: people/mr-d-angelo-braun
+- 
+  type: relations/parental/colleague
+  item: people/ms-mozelle-sawayn
+- 
+  type: relations/parental/mom
+  item: people/isabelle-miller-ii
+- 
+  type: relations/parental/brosis
+  item: people/evie-stehr
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

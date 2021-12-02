@@ -1,0 +1,64 @@
+Title: Prof. Broderick Effertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/abdiel-welch
+- 
+  type: relations/parental/dad
+  item: people/emmanuelle-runolfsdottir-dds
+- 
+  type: relations/money/debtor
+  item: people/neal-labadie
+- 
+  type: relations/money/debtor
+  item: people/noemi-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/lina-davis
+- 
+  type: relations/parental/dad
+  item: people/mohamed-morar
+- 
+  type: relations/money/creditor
+  item: companies/williamson-willms
+- 
+  type: relations/work/client
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/debtor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/employer
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

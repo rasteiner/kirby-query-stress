@@ -1,0 +1,43 @@
+Title: Beatty, Kulas and Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/schowalterchester

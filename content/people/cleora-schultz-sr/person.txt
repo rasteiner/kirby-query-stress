@@ -1,0 +1,64 @@
+Title: Cleora Schultz Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-carlee-padberg-jr
+- 
+  type: relations/parental/dad
+  item: people/ms-astrid-west
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ida-kozey
+- 
+  type: relations/parental/brosis
+  item: people/annabel-turcotte
+- 
+  type: relations/money/debtor
+  item: people/prof-raul-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/wayne-green
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/work/client
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/client
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Max Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lia-gusikowski-v
+- 
+  type: relations/money/creditor
+  item: people/aletha-mills
+- 
+  type: relations/money/debtor
+  item: people/marilie-beahan-ii
+- 
+  type: relations/parental/mom
+  item: people/mr-zackery-legros
+- 
+  type: relations/parental/friend
+  item: people/misty-fay
+- 
+  type: relations/parental/mom
+  item: people/freddy-zemlak-ii
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/employer
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

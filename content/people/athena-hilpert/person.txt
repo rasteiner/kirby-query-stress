@@ -1,0 +1,65 @@
+Title: Athena Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cortez-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/felicia-orn
+- 
+  type: relations/parental/dad
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/money/debtor
+  item: people/patricia-dare
+- 
+  type: relations/parental/dad
+  item: people/david-lowe
+- 
+  type: relations/money/debtor
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/money/debtor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/work/employer
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

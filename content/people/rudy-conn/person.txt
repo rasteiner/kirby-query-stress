@@ -1,0 +1,64 @@
+Title: Rudy Conn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/keagan-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/arvilla-treutel
+- 
+  type: relations/money/debtor
+  item: people/elmo-kulas-iii
+- 
+  type: relations/parental/dad
+  item: people/eladio-keebler
+- 
+  type: relations/money/creditor
+  item: people/camille-ullrich-phd
+- 
+  type: relations/parental/dad
+  item: people/prof-randi-batz-iv
+- 
+  type: relations/work/employer
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

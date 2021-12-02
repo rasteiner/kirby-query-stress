@@ -1,0 +1,64 @@
+Title: Josephine Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-monte-kerluke
+- 
+  type: relations/parental/dad
+  item: people/onie-howell
+- 
+  type: relations/parental/brosis
+  item: people/carleton-boyer-sr
+- 
+  type: relations/parental/colleague
+  item: people/arianna-grant
+- 
+  type: relations/money/debtor
+  item: people/montana-mraz-dvm
+- 
+  type: relations/parental/brosis
+  item: people/ms-betty-rowe
+- 
+  type: relations/work/employer
+  item: companies/considine-bruen
+- 
+  type: relations/work/employer
+  item: companies/emard-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/work/employer
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

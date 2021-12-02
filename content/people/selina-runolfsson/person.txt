@@ -1,0 +1,64 @@
+Title: Selina Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/willa-brown
+- 
+  type: relations/parental/mom
+  item: people/janessa-douglas
+- 
+  type: relations/parental/brosis
+  item: people/brando-schowalter
+- 
+  type: relations/parental/dad
+  item: people/miss-ava-klocko
+- 
+  type: relations/money/creditor
+  item: people/august-nienow-i
+- 
+  type: relations/parental/brosis
+  item: people/stacy-schiller
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

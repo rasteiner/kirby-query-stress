@@ -1,0 +1,64 @@
+Title: Mr. Pierre Fahey I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/roosevelt-feil
+- 
+  type: relations/parental/dad
+  item: people/prof-arnoldo-moore
+- 
+  type: relations/parental/friend
+  item: people/frances-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/ismael-rippin
+- 
+  type: relations/parental/mom
+  item: people/jonas-nikolaus
+- 
+  type: relations/parental/colleague
+  item: people/roman-ritchie
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/money/creditor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

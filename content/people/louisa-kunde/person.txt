@@ -1,0 +1,64 @@
+Title: Louisa Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/melyssa-graham-iv
+- 
+  type: relations/money/debtor
+  item: people/tillman-o-reilly
+- 
+  type: relations/money/creditor
+  item: people/velda-emard
+- 
+  type: relations/parental/colleague
+  item: people/frida-purdy
+- 
+  type: relations/parental/brosis
+  item: people/mr-keshaun-d-amore
+- 
+  type: relations/parental/dad
+  item: people/ms-fatima-west-v
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/client
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

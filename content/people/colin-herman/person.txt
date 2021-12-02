@@ -1,0 +1,64 @@
+Title: Colin Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/parental/mom
+  item: people/brendon-ryan-md
+- 
+  type: relations/money/debtor
+  item: people/derick-pollich
+- 
+  type: relations/parental/dad
+  item: people/dr-reginald-hoppe-md
+- 
+  type: relations/money/creditor
+  item: people/mr-jamison-breitenberg-md
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/work/client
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/work/client
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

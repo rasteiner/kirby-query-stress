@@ -1,0 +1,64 @@
+Title: Ottis Lynch V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/emanuel-ebert
+- 
+  type: relations/money/creditor
+  item: people/kylie-bernier
+- 
+  type: relations/parental/friend
+  item: people/ms-sandrine-mosciski-i
+- 
+  type: relations/parental/friend
+  item: people/prof-dorcas-shields
+- 
+  type: relations/money/debtor
+  item: people/miss-leila-hane-iv
+- 
+  type: relations/parental/colleague
+  item: people/ana-smitham
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

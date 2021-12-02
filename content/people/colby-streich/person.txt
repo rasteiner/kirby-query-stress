@@ -1,0 +1,64 @@
+Title: Colby Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leatha-friesen-iii
+- 
+  type: relations/parental/colleague
+  item: people/ivory-bradtke
+- 
+  type: relations/parental/brosis
+  item: people/bryana-kub
+- 
+  type: relations/money/creditor
+  item: people/lexus-halvorson
+- 
+  type: relations/parental/brosis
+  item: people/zechariah-willms
+- 
+  type: relations/parental/mom
+  item: people/alessandra-batz
+- 
+  type: relations/work/employer
+  item: companies/lebsack-berge
+- 
+  type: relations/work/employer
+  item: companies/king-schaefer
+- 
+  type: relations/work/employer
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

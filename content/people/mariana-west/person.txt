@@ -1,0 +1,64 @@
+Title: Mariana West
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/wava-kuhic
+- 
+  type: relations/parental/mom
+  item: people/lavina-johnson
+- 
+  type: relations/money/debtor
+  item: people/neha-predovic
+- 
+  type: relations/parental/colleague
+  item: people/katelyn-johnston
+- 
+  type: relations/money/debtor
+  item: people/dr-milton-mckenzie
+- 
+  type: relations/parental/dad
+  item: people/ricky-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/creditor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/work/employer
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

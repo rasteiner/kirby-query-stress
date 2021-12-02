@@ -1,0 +1,44 @@
+Title: Farrell, Beatty and Wilkinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-lehner
+- 
+  type: relations/money/debtor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/becker-ltd
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg

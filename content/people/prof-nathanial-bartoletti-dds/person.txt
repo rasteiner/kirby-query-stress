@@ -1,0 +1,64 @@
+Title: Prof. Nathanial Bartoletti DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-selina-funk
+- 
+  type: relations/parental/brosis
+  item: people/mrs-delphine-rohan
+- 
+  type: relations/parental/dad
+  item: people/dr-betsy-schneider
+- 
+  type: relations/parental/brosis
+  item: people/prof-steve-maggio
+- 
+  type: relations/money/creditor
+  item: people/louisa-kunde
+- 
+  type: relations/money/creditor
+  item: people/mrs-marcia-borer-i
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/work/client
+  item: companies/dicki-wiza
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Prof. Alivia Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rae-balistreri
+- 
+  type: relations/parental/friend
+  item: people/miss-delfina-hegmann
+- 
+  type: relations/money/creditor
+  item: people/mr-jalon-corkery
+- 
+  type: relations/money/creditor
+  item: people/cecilia-larson-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-murl-nikolaus-v
+- 
+  type: relations/parental/brosis
+  item: people/bridie-harris
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/employer
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/employer
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Kayley Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-kiana-champlin
+- 
+  type: relations/parental/friend
+  item: people/ona-roob
+- 
+  type: relations/parental/friend
+  item: people/katlyn-bins
+- 
+  type: relations/parental/mom
+  item: people/kailee-dach
+- 
+  type: relations/parental/mom
+  item: people/dr-lesley-runte
+- 
+  type: relations/parental/mom
+  item: people/lamar-reichert
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-group
+- 
+  type: relations/work/employer
+  item: companies/prohaska-group
+- 
+  type: relations/work/client
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/schmeler-conn
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

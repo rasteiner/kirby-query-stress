@@ -1,0 +1,64 @@
+Title: Terrence Gottlieb
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-wilma-upton
+- 
+  type: relations/parental/mom
+  item: people/jerry-flatley
+- 
+  type: relations/parental/mom
+  item: people/major-padberg
+- 
+  type: relations/money/debtor
+  item: people/dr-dario-satterfield-dvm
+- 
+  type: relations/parental/dad
+  item: people/prof-zola-ruecker-phd
+- 
+  type: relations/parental/friend
+  item: people/blaze-lebsack
+- 
+  type: relations/money/creditor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/client
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

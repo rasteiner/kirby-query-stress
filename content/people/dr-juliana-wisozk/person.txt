@@ -1,0 +1,64 @@
+Title: Dr. Juliana Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/amelia-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/margarita-mckenzie
+- 
+  type: relations/parental/mom
+  item: people/ms-adele-goyette-i
+- 
+  type: relations/money/debtor
+  item: people/dr-nikolas-konopelski
+- 
+  type: relations/parental/brosis
+  item: people/marcelino-ondricka
+- 
+  type: relations/parental/dad
+  item: people/josh-ortiz
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/employer
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,44 @@
+Title: Gibson LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/darleneshire

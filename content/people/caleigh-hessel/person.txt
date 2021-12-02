@@ -1,0 +1,64 @@
+Title: Caleigh Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-stefan-tromp
+- 
+  type: relations/parental/brosis
+  item: people/carlee-sauer
+- 
+  type: relations/money/debtor
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-river-wolff
+- 
+  type: relations/parental/friend
+  item: people/ola-dibbert
+- 
+  type: relations/parental/mom
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/work/client
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

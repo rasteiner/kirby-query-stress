@@ -1,0 +1,64 @@
+Title: Mr. Amos Leuschke II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-ray-schmidt
+- 
+  type: relations/parental/colleague
+  item: people/dr-ellsworth-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/miss-zoie-pagac-iv
+- 
+  type: relations/parental/mom
+  item: people/maybelle-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/katharina-grimes
+- 
+  type: relations/parental/friend
+  item: people/brown-roob-iii
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/client
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

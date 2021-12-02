@@ -1,0 +1,64 @@
+Title: Prof. Guillermo Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/leonor-hilpert
+- 
+  type: relations/parental/mom
+  item: people/cory-rosenbaum
+- 
+  type: relations/parental/friend
+  item: people/myrna-bayer
+- 
+  type: relations/parental/mom
+  item: people/leanna-stark
+- 
+  type: relations/parental/mom
+  item: people/prof-shana-glover
+- 
+  type: relations/parental/brosis
+  item: people/miss-stephanie-bergstrom-i
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/work/employer
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Prof. Giovanni Auer Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/avis-cassin
+- 
+  type: relations/parental/brosis
+  item: people/markus-kuhn
+- 
+  type: relations/money/debtor
+  item: people/ms-paige-barrows
+- 
+  type: relations/parental/dad
+  item: people/prof-cyrus-powlowski
+- 
+  type: relations/money/creditor
+  item: people/kyleigh-stokes
+- 
+  type: relations/money/creditor
+  item: people/martine-stamm-iv
+- 
+  type: relations/work/employer
+  item: companies/carter-inc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/client
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/client
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

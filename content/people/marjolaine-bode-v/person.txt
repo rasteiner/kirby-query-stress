@@ -1,0 +1,64 @@
+Title: Marjolaine Bode V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gerard-johns
+- 
+  type: relations/money/creditor
+  item: people/prof-maximo-fadel
+- 
+  type: relations/parental/brosis
+  item: people/prof-elwin-macejkovic-i
+- 
+  type: relations/money/creditor
+  item: people/prof-charles-rowe-iii
+- 
+  type: relations/parental/brosis
+  item: people/violet-treutel
+- 
+  type: relations/parental/colleague
+  item: people/nick-powlowski-dds
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/money/creditor
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/employer
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

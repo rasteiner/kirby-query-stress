@@ -1,0 +1,64 @@
+Title: Dr. Felix Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-brandt-hoppe-v
+- 
+  type: relations/parental/friend
+  item: people/dr-darby-bins-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-monica-bednar-v
+- 
+  type: relations/parental/dad
+  item: people/nicola-murazik
+- 
+  type: relations/parental/mom
+  item: people/mr-cale-schultz
+- 
+  type: relations/parental/friend
+  item: people/sebastian-mills-v
+- 
+  type: relations/work/employer
+  item: companies/white-gutmann
+- 
+  type: relations/work/client
+  item: companies/morissette-jerde
+- 
+  type: relations/work/client
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

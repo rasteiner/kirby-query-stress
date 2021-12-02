@@ -1,0 +1,43 @@
+Title: Muller, Turner and Stroman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/money/creditor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/debtor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/creditor
+  item: companies/hamill-herzog
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-brisaport

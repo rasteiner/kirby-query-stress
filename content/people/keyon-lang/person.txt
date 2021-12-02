@@ -1,0 +1,64 @@
+Title: Keyon Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-jasen-swift
+- 
+  type: relations/money/debtor
+  item: people/vicente-heidenreich
+- 
+  type: relations/parental/brosis
+  item: people/stanton-jacobi
+- 
+  type: relations/parental/mom
+  item: people/ms-felicia-davis-v
+- 
+  type: relations/parental/colleague
+  item: people/daphney-zboncak
+- 
+  type: relations/parental/dad
+  item: people/sister-hammes
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kris-ltd
+- 
+  type: relations/work/employer
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

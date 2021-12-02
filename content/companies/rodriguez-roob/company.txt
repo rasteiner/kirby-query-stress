@@ -1,0 +1,43 @@
+Title: Rodriguez-Roob
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/creditor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/south-scarlett

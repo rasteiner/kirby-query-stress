@@ -1,0 +1,64 @@
+Title: Virginie Tromp I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lindsay-lindgren
+- 
+  type: relations/parental/dad
+  item: people/dulce-grimes-sr
+- 
+  type: relations/parental/dad
+  item: people/adah-dubuque
+- 
+  type: relations/parental/dad
+  item: people/reese-stamm
+- 
+  type: relations/parental/mom
+  item: people/dr-franz-labadie-jr
+- 
+  type: relations/parental/colleague
+  item: people/pamela-lakin
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/employer
+  item: companies/russel-collier
+- 
+  type: relations/work/employer
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

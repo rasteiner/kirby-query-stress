@@ -1,0 +1,64 @@
+Title: Prof. Amiya Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/vern-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/mrs-breanne-frami-jr
+- 
+  type: relations/parental/colleague
+  item: people/maryam-brown
+- 
+  type: relations/parental/friend
+  item: people/mr-soledad-aufderhar-md
+- 
+  type: relations/money/debtor
+  item: people/brett-labadie
+- 
+  type: relations/parental/dad
+  item: people/adrianna-schuppe
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/debtor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

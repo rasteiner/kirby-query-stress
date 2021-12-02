@@ -1,0 +1,64 @@
+Title: Gina Goodwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/curt-hilll
+- 
+  type: relations/money/debtor
+  item: people/tommie-jacobson
+- 
+  type: relations/parental/brosis
+  item: people/mr-ronaldo-lemke
+- 
+  type: relations/money/debtor
+  item: people/andreanne-rippin
+- 
+  type: relations/money/creditor
+  item: people/charity-kling-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-monica-prohaska-sr
+- 
+  type: relations/work/client
+  item: companies/crist-and-sons
+- 
+  type: relations/work/employer
+  item: companies/franecki-blick
+- 
+  type: relations/work/client
+  item: companies/gibson-inc
+- 
+  type: relations/work/client
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

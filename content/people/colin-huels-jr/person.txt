@@ -1,0 +1,64 @@
+Title: Colin Huels Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cristal-wunsch
+- 
+  type: relations/money/debtor
+  item: people/breanna-satterfield
+- 
+  type: relations/parental/mom
+  item: people/vilma-jacobs
+- 
+  type: relations/parental/colleague
+  item: people/missouri-stroman
+- 
+  type: relations/parental/friend
+  item: people/dawson-langosh
+- 
+  type: relations/parental/brosis
+  item: people/kenyatta-marvin
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/creditor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

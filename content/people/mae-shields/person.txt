@@ -1,0 +1,64 @@
+Title: Mae Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-tia-mraz
+- 
+  type: relations/money/debtor
+  item: people/prof-gussie-kuphal-jr
+- 
+  type: relations/parental/dad
+  item: people/geoffrey-pollich
+- 
+  type: relations/parental/mom
+  item: people/marcelina-kutch-dvm
+- 
+  type: relations/parental/friend
+  item: people/earnest-gleichner
+- 
+  type: relations/money/debtor
+  item: people/evans-orn-iv
+- 
+  type: relations/work/employer
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/debtor
+  item: companies/johnson-windler
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

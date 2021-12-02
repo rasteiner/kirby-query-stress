@@ -1,0 +1,64 @@
+Title: Dr. Tracy Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cyrus-schinner
+- 
+  type: relations/parental/mom
+  item: people/miss-jeanette-kling
+- 
+  type: relations/parental/dad
+  item: people/mr-durward-treutel-i
+- 
+  type: relations/parental/mom
+  item: people/mathilde-boyle
+- 
+  type: relations/money/creditor
+  item: people/jorge-stracke-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-mason-swaniawski-jr
+- 
+  type: relations/work/client
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/client
+  item: companies/rice-inc
+- 
+  type: relations/money/debtor
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

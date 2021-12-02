@@ -1,0 +1,66 @@
+Title: Daphne Abernathy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/buster-hartmann-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-frances-o-connell
+- 
+  type: relations/money/creditor
+  item: people/jeffery-welch-iv
+- 
+  type: relations/parental/dad
+  item: people/viviane-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/consuelo-o-connell
+- 
+  type: relations/parental/friend
+  item: people/dr-reba-dicki-jr
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/collins-ltd
+- 
+  type: relations/work/client
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/employer
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

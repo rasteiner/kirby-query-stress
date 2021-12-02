@@ -1,0 +1,44 @@
+Title: Schulist-Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/douglas-emard
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/claudiestad

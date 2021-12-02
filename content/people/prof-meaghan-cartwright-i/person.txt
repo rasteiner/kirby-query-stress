@@ -1,0 +1,64 @@
+Title: Prof. Meaghan Cartwright I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-keanu-tromp
+- 
+  type: relations/money/debtor
+  item: people/keara-treutel
+- 
+  type: relations/parental/colleague
+  item: people/prof-lowell-ruecker-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-leonie-crist
+- 
+  type: relations/money/debtor
+  item: people/keon-lind
+- 
+  type: relations/money/creditor
+  item: people/jamey-nienow
+- 
+  type: relations/money/creditor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/employer
+  item: companies/hauck-inc
+- 
+  type: relations/money/creditor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

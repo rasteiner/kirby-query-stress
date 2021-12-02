@@ -1,0 +1,64 @@
+Title: Kim Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/terence-hyatt-sr
+- 
+  type: relations/money/creditor
+  item: people/joseph-yost
+- 
+  type: relations/parental/mom
+  item: people/lia-gusikowski-v
+- 
+  type: relations/parental/friend
+  item: people/aletha-mills
+- 
+  type: relations/parental/brosis
+  item: people/marilie-beahan-ii
+- 
+  type: relations/money/debtor
+  item: people/mr-zackery-legros
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

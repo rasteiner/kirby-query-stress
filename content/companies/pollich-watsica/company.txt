@@ -1,0 +1,43 @@
+Title: Pollich-Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/blick-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort
+- 
+  type: relations/location/visited
+  item: places/steubershire

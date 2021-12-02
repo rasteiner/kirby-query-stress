@@ -1,0 +1,64 @@
+Title: Prof. Monte Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-garnet-hartmann
+- 
+  type: relations/parental/friend
+  item: people/mckayla-bode
+- 
+  type: relations/money/debtor
+  item: people/mr-vern-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/marcella-marks
+- 
+  type: relations/parental/colleague
+  item: people/adaline-daniel
+- 
+  type: relations/parental/mom
+  item: people/mrs-emmalee-rogahn-dds
+- 
+  type: relations/work/employer
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/client
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

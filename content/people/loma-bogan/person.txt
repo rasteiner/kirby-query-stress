@@ -1,0 +1,64 @@
+Title: Loma Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jesus-herman
+- 
+  type: relations/money/creditor
+  item: people/wilton-bergstrom
+- 
+  type: relations/parental/colleague
+  item: people/clarissa-schulist
+- 
+  type: relations/parental/friend
+  item: people/stevie-jast
+- 
+  type: relations/parental/brosis
+  item: people/dr-kacey-sanford-i
+- 
+  type: relations/parental/brosis
+  item: people/gideon-o-kon
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

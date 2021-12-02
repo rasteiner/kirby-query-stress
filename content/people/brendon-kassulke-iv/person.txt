@@ -1,0 +1,64 @@
+Title: Brendon Kassulke IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/demetrius-rosenbaum
+- 
+  type: relations/parental/brosis
+  item: people/johanna-upton
+- 
+  type: relations/parental/dad
+  item: people/mrs-dakota-waters
+- 
+  type: relations/parental/dad
+  item: people/rogers-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/miss-kellie-thiel
+- 
+  type: relations/parental/dad
+  item: people/treva-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/work/client
+  item: companies/klocko-quigley
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/work/client
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

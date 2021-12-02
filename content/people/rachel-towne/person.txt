@@ -1,0 +1,64 @@
+Title: Rachel Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/emmet-wisozk-v
+- 
+  type: relations/money/debtor
+  item: people/sofia-rohan
+- 
+  type: relations/parental/colleague
+  item: people/cordia-bernier
+- 
+  type: relations/parental/friend
+  item: people/leopold-skiles
+- 
+  type: relations/money/creditor
+  item: people/gerson-yost
+- 
+  type: relations/parental/friend
+  item: people/omer-o-kon
+- 
+  type: relations/money/debtor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/schimmel-inc
+- 
+  type: relations/work/client
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/money/debtor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

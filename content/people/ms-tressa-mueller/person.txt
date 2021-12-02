@@ -1,0 +1,64 @@
+Title: Ms. Tressa Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/irwin-davis
+- 
+  type: relations/parental/brosis
+  item: people/derick-adams
+- 
+  type: relations/money/debtor
+  item: people/valentin-gislason
+- 
+  type: relations/parental/friend
+  item: people/rachel-towne
+- 
+  type: relations/parental/mom
+  item: people/patricia-hackett
+- 
+  type: relations/parental/brosis
+  item: people/emmanuelle-lehner-iv
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Angelo Stiedemann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-yasmine-nolan-ii
+- 
+  type: relations/parental/colleague
+  item: people/sofia-hodkiewicz-sr
+- 
+  type: relations/parental/mom
+  item: people/keara-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/miss-carli-hoeger
+- 
+  type: relations/parental/dad
+  item: people/miss-rosalinda-bergstrom-dvm
+- 
+  type: relations/parental/friend
+  item: people/mrs-amara-langosh-iii
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

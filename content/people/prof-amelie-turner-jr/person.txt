@@ -1,0 +1,64 @@
+Title: Prof. Amelie Turner Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keely-hackett
+- 
+  type: relations/money/creditor
+  item: people/andres-ziemann
+- 
+  type: relations/parental/friend
+  item: people/mabel-effertz
+- 
+  type: relations/parental/colleague
+  item: people/ms-julie-koss-md
+- 
+  type: relations/parental/dad
+  item: people/forest-hoppe
+- 
+  type: relations/money/debtor
+  item: people/maxie-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

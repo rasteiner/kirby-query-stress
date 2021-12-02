@@ -1,0 +1,64 @@
+Title: Shawna Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-ezequiel-zemlak
+- 
+  type: relations/parental/colleague
+  item: people/alexandra-kulas
+- 
+  type: relations/money/debtor
+  item: people/alexandre-howell
+- 
+  type: relations/parental/colleague
+  item: people/deangelo-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/miss-giovanna-gleichner
+- 
+  type: relations/parental/colleague
+  item: people/henderson-hermiston
+- 
+  type: relations/work/employer
+  item: companies/mertz-stracke
+- 
+  type: relations/work/client
+  item: companies/ullrich-llc
+- 
+  type: relations/work/client
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

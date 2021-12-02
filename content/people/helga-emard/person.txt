@@ -1,0 +1,64 @@
+Title: Helga Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dylan-mosciski
+- 
+  type: relations/money/creditor
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/parental/mom
+  item: people/ressie-douglas
+- 
+  type: relations/parental/dad
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/parental/colleague
+  item: people/emelie-bernhard
+- 
+  type: relations/parental/friend
+  item: people/ottilie-wolf
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-inc
+- 
+  type: relations/work/client
+  item: companies/sauer-ltd
+- 
+  type: relations/work/employer
+  item: companies/roob-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/haley-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Mr. Lon Shanahan V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/colleen-bruen
+- 
+  type: relations/parental/dad
+  item: people/bessie-corwin
+- 
+  type: relations/money/debtor
+  item: people/prof-kamryn-jenkins
+- 
+  type: relations/money/creditor
+  item: people/shawna-parisian
+- 
+  type: relations/parental/friend
+  item: people/carmela-daniel
+- 
+  type: relations/parental/brosis
+  item: people/ressie-hayes
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/work/client
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

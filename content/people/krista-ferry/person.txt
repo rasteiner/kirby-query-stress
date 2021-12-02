@@ -1,0 +1,64 @@
+Title: Krista Ferry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/joesph-adams
+- 
+  type: relations/money/creditor
+  item: people/emmie-mann
+- 
+  type: relations/money/creditor
+  item: people/mr-jakob-wunsch
+- 
+  type: relations/parental/colleague
+  item: people/katarina-rempel
+- 
+  type: relations/parental/colleague
+  item: people/nyasia-quigley
+- 
+  type: relations/parental/friend
+  item: people/prof-edgar-bogisich
+- 
+  type: relations/work/client
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

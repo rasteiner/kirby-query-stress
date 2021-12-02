@@ -1,0 +1,64 @@
+Title: Justyn Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-griffin-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/elmo-watsica
+- 
+  type: relations/parental/friend
+  item: people/mr-monserrat-block
+- 
+  type: relations/parental/friend
+  item: people/mozell-schaefer
+- 
+  type: relations/parental/mom
+  item: people/elenor-west-dvm
+- 
+  type: relations/parental/mom
+  item: people/jeremy-moore
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Mckayla Bailey IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lonny-kovacek
+- 
+  type: relations/parental/dad
+  item: people/mr-felton-wuckert-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-junius-keeling-iii
+- 
+  type: relations/parental/mom
+  item: people/jerel-ratke
+- 
+  type: relations/parental/dad
+  item: people/dr-dell-mcglynn
+- 
+  type: relations/money/creditor
+  item: people/prof-simeon-weimann
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/work/client
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

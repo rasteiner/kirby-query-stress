@@ -1,0 +1,64 @@
+Title: Prof. Yasmine Nolan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-thea-nader
+- 
+  type: relations/parental/brosis
+  item: people/reese-kunze-dds
+- 
+  type: relations/money/creditor
+  item: people/kristy-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/elmira-cummings
+- 
+  type: relations/money/creditor
+  item: people/lorenz-donnelly
+- 
+  type: relations/money/debtor
+  item: people/xzavier-schaefer
+- 
+  type: relations/work/client
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

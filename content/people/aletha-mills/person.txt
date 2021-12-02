@@ -1,0 +1,64 @@
+Title: Aletha Mills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marquis-orn
+- 
+  type: relations/money/debtor
+  item: people/gabriel-mcdermott
+- 
+  type: relations/parental/mom
+  item: people/felicita-deckow
+- 
+  type: relations/money/creditor
+  item: people/grant-schaden-phd
+- 
+  type: relations/money/debtor
+  item: people/jaquelin-pollich-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-raoul-greenfelder-dvm
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/client
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

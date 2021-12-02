@@ -1,0 +1,64 @@
+Title: Dr. Green Jaskolski DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-jammie-orn-ii
+- 
+  type: relations/parental/dad
+  item: people/kevin-hintz
+- 
+  type: relations/money/debtor
+  item: people/lemuel-white
+- 
+  type: relations/parental/brosis
+  item: people/esmeralda-lynch
+- 
+  type: relations/parental/brosis
+  item: people/kaya-moen
+- 
+  type: relations/parental/brosis
+  item: people/emmy-larkin
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/debtor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

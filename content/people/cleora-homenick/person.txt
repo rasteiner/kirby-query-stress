@@ -1,0 +1,64 @@
+Title: Cleora Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/benedict-parisian
+- 
+  type: relations/money/debtor
+  item: people/myra-schultz
+- 
+  type: relations/parental/dad
+  item: people/dr-tracy-turcotte
+- 
+  type: relations/parental/friend
+  item: people/khalil-kihn
+- 
+  type: relations/money/creditor
+  item: people/antoinette-senger
+- 
+  type: relations/parental/dad
+  item: people/mr-hassan-bruen-v
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Rudy Crist III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cyrus-o-kon
+- 
+  type: relations/parental/friend
+  item: people/maymie-lang
+- 
+  type: relations/money/creditor
+  item: people/beryl-stehr
+- 
+  type: relations/parental/mom
+  item: people/mrs-lola-metz-jr
+- 
+  type: relations/parental/brosis
+  item: people/stacey-waters
+- 
+  type: relations/money/creditor
+  item: people/dr-louisa-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/huels-hintz
+- 
+  type: relations/work/client
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

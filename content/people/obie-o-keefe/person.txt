@@ -1,0 +1,64 @@
+Title: Obie O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/daphney-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/sister-hammes
+- 
+  type: relations/parental/colleague
+  item: people/ms-kenyatta-roberts-i
+- 
+  type: relations/parental/colleague
+  item: people/mackenzie-dickens
+- 
+  type: relations/parental/mom
+  item: people/aliza-jakubowski
+- 
+  type: relations/parental/colleague
+  item: people/mr-jeramie-collier-md
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,43 @@
+Title: Graham Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/rolfson-llc
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/gaylordchester

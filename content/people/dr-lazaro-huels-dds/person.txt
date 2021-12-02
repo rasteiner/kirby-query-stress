@@ -1,0 +1,65 @@
+Title: Dr. Lazaro Huels DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jarod-gerhold
+- 
+  type: relations/money/creditor
+  item: people/ismael-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/wanda-kutch
+- 
+  type: relations/parental/friend
+  item: people/braxton-kihn
+- 
+  type: relations/parental/mom
+  item: people/magnolia-morissette-dvm
+- 
+  type: relations/parental/colleague
+  item: people/theresia-kulas-phd
+- 
+  type: relations/work/employer
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/debtor
+  item: companies/goodwin-nader
+- 
+  type: relations/work/employer
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/client
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Karolann Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-kianna-mckenzie-iv
+- 
+  type: relations/money/debtor
+  item: people/amir-marks
+- 
+  type: relations/money/creditor
+  item: people/harry-cremin
+- 
+  type: relations/parental/colleague
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/money/debtor
+  item: people/christian-cruickshank-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-travon-hamill
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

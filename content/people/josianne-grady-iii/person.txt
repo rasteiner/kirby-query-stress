@@ -1,0 +1,64 @@
+Title: Josianne Grady III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cathrine-morar
+- 
+  type: relations/parental/brosis
+  item: people/golden-hirthe
+- 
+  type: relations/parental/mom
+  item: people/prof-genevieve-braun
+- 
+  type: relations/parental/friend
+  item: people/luna-o-conner-ii
+- 
+  type: relations/money/debtor
+  item: people/elmer-hartmann
+- 
+  type: relations/parental/dad
+  item: people/keira-schinner-dvm
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/work/employer
+  item: companies/dooley-walter
+- 
+  type: relations/work/employer
+  item: companies/lindgren-group
+- 
+  type: relations/money/creditor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Dr. Alex Paucek DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-kelley-lockman-dds
+- 
+  type: relations/parental/mom
+  item: people/frankie-price
+- 
+  type: relations/parental/brosis
+  item: people/nathanael-fahey
+- 
+  type: relations/parental/friend
+  item: people/prof-trenton-dickinson-iv
+- 
+  type: relations/parental/brosis
+  item: people/brenna-howell-v
+- 
+  type: relations/parental/dad
+  item: people/myriam-marquardt-md
+- 
+  type: relations/work/client
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/employer
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

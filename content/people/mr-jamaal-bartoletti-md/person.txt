@@ -1,0 +1,64 @@
+Title: Mr. Jamaal Bartoletti MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alford-kuphal-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mrs-meta-pagac-sr
+- 
+  type: relations/parental/colleague
+  item: people/marianne-rempel
+- 
+  type: relations/parental/colleague
+  item: people/miss-sadie-mertz-ii
+- 
+  type: relations/money/debtor
+  item: people/eleazar-heaney
+- 
+  type: relations/parental/brosis
+  item: people/eriberto-stark
+- 
+  type: relations/work/employer
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/client
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

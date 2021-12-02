@@ -1,0 +1,64 @@
+Title: Ms. Myah Torp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/zita-hoppe
+- 
+  type: relations/parental/dad
+  item: people/dr-tyler-nienow
+- 
+  type: relations/money/creditor
+  item: people/kadin-skiles
+- 
+  type: relations/money/debtor
+  item: people/destiney-purdy
+- 
+  type: relations/parental/dad
+  item: people/ms-noemy-barrows-phd
+- 
+  type: relations/parental/friend
+  item: people/elbert-schowalter
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Ms. Nellie Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-lenore-pollich
+- 
+  type: relations/parental/mom
+  item: people/robert-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/bernie-rath
+- 
+  type: relations/money/creditor
+  item: people/summer-cole-iii
+- 
+  type: relations/parental/colleague
+  item: people/mrs-juliana-leffler-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-guido-okuneva
+- 
+  type: relations/work/client
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/client
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,43 @@
+Title: Ward LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/huels-walter
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/blanda-inc
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth

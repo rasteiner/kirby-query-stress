@@ -1,0 +1,64 @@
+Title: Bonita Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-laury-kohler-iv
+- 
+  type: relations/parental/mom
+  item: people/abigale-stark
+- 
+  type: relations/parental/mom
+  item: people/dax-stracke
+- 
+  type: relations/parental/dad
+  item: people/joan-hauck
+- 
+  type: relations/parental/friend
+  item: people/lavada-bogan
+- 
+  type: relations/parental/dad
+  item: people/mrs-kathryne-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/client
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

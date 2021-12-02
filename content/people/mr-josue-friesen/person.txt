@@ -1,0 +1,64 @@
+Title: Mr. Josue Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-crystel-jerde
+- 
+  type: relations/parental/dad
+  item: people/ramiro-rempel
+- 
+  type: relations/parental/dad
+  item: people/dr-ross-schoen-v
+- 
+  type: relations/parental/mom
+  item: people/dr-evie-kulas-v
+- 
+  type: relations/parental/friend
+  item: people/brooks-mosciski-i
+- 
+  type: relations/parental/brosis
+  item: people/tod-halvorson
+- 
+  type: relations/money/creditor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

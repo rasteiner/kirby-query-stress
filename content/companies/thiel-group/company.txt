@@ -1,0 +1,43 @@
+Title: Thiel Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-jamal
+- 
+  type: relations/location/residence
+  item: places/west-alize

@@ -1,0 +1,64 @@
+Title: Ms. Destini Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/loy-simonis
+- 
+  type: relations/money/debtor
+  item: people/robb-hegmann
+- 
+  type: relations/parental/brosis
+  item: people/baby-hand
+- 
+  type: relations/parental/mom
+  item: people/fannie-koepp-iii
+- 
+  type: relations/parental/friend
+  item: people/miss-esperanza-block-dds
+- 
+  type: relations/parental/brosis
+  item: people/ruby-trantow
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

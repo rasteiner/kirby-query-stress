@@ -1,0 +1,64 @@
+Title: Joan Hauck
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/coralie-feil
+- 
+  type: relations/money/debtor
+  item: people/anais-jakubowski
+- 
+  type: relations/parental/colleague
+  item: people/leslie-hilpert
+- 
+  type: relations/parental/mom
+  item: people/theron-heller
+- 
+  type: relations/money/creditor
+  item: people/freeman-kohler-v
+- 
+  type: relations/parental/mom
+  item: people/letha-fay
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

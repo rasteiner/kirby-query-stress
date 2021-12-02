@@ -1,0 +1,64 @@
+Title: Nikolas Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/money/creditor
+  item: people/mara-johnson-dds
+- 
+  type: relations/parental/mom
+  item: people/mrs-breanne-frami-iv
+- 
+  type: relations/parental/colleague
+  item: people/carolina-ankunding
+- 
+  type: relations/parental/brosis
+  item: people/deontae-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/dr-myrl-feil
+- 
+  type: relations/work/client
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/client
+  item: companies/weber-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-bode
+- 
+  type: relations/work/employer
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

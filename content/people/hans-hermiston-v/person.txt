@@ -1,0 +1,64 @@
+Title: Hans Hermiston V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jesus-nikolaus
+- 
+  type: relations/parental/mom
+  item: people/torrance-reynolds
+- 
+  type: relations/parental/mom
+  item: people/prof-branson-feil-phd
+- 
+  type: relations/parental/mom
+  item: people/miss-allie-gulgowski-iii
+- 
+  type: relations/money/creditor
+  item: people/mrs-kristy-kuhic
+- 
+  type: relations/parental/friend
+  item: people/prof-penelope-trantow-jr
+- 
+  type: relations/money/debtor
+  item: companies/gleason-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/employer
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

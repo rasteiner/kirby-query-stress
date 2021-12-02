@@ -1,0 +1,65 @@
+Title: Nikki Bechtelar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-jessy-durgan-dds
+- 
+  type: relations/parental/dad
+  item: people/tania-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/dr-richie-swaniawski-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-monserrate-rodriguez-i
+- 
+  type: relations/parental/mom
+  item: people/ms-sally-will-sr
+- 
+  type: relations/parental/colleague
+  item: people/dr-hillard-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/creditor
+  item: companies/rippin-sauer
+- 
+  type: relations/work/client
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

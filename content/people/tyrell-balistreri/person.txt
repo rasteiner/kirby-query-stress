@@ -1,0 +1,64 @@
+Title: Tyrell Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/madelynn-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/toni-shields-v
+- 
+  type: relations/parental/mom
+  item: people/alexane-hagenes
+- 
+  type: relations/parental/friend
+  item: people/wilbert-predovic
+- 
+  type: relations/parental/friend
+  item: people/prof-elian-mccullough-v
+- 
+  type: relations/parental/friend
+  item: people/prof-dillon-gutkowski-iii
+- 
+  type: relations/work/client
+  item: companies/strosin-ltd
+- 
+  type: relations/work/client
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/employer
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

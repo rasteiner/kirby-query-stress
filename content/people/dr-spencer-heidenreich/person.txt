@@ -1,0 +1,65 @@
+Title: Dr. Spencer Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/braxton-runolfsson-iv
+- 
+  type: relations/parental/colleague
+  item: people/benedict-hamill
+- 
+  type: relations/money/debtor
+  item: people/verona-mayert
+- 
+  type: relations/money/creditor
+  item: people/kaleb-daugherty
+- 
+  type: relations/parental/friend
+  item: people/charlene-turcotte-v
+- 
+  type: relations/money/debtor
+  item: people/hellen-haag
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/lemke-ltd
+- 
+  type: relations/work/client
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

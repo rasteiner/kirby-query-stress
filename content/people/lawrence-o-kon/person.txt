@@ -1,0 +1,64 @@
+Title: Lawrence O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/vern-wunsch
+- 
+  type: relations/parental/friend
+  item: people/timmy-kihn
+- 
+  type: relations/parental/brosis
+  item: people/verona-christiansen
+- 
+  type: relations/parental/friend
+  item: people/cullen-lehner-v
+- 
+  type: relations/money/debtor
+  item: people/julian-lind-iv
+- 
+  type: relations/money/debtor
+  item: people/miss-makayla-ferry-md
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/creditor
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/client
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

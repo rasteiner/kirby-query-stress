@@ -1,0 +1,64 @@
+Title: Nella Langosh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/xavier-quigley
+- 
+  type: relations/parental/mom
+  item: people/rollin-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/trey-crona
+- 
+  type: relations/parental/brosis
+  item: people/sharon-boehm-phd
+- 
+  type: relations/parental/colleague
+  item: people/melissa-thiel
+- 
+  type: relations/parental/brosis
+  item: people/dr-garnet-runte-iii
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/creditor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

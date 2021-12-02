@@ -1,0 +1,64 @@
+Title: Prof. Jennings Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mazie-koelpin
+- 
+  type: relations/parental/colleague
+  item: people/mossie-hansen
+- 
+  type: relations/parental/dad
+  item: people/andre-swift
+- 
+  type: relations/money/debtor
+  item: people/wilhelmine-runolfsson
+- 
+  type: relations/parental/mom
+  item: people/jude-erdman
+- 
+  type: relations/parental/brosis
+  item: people/prof-newell-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/thompson-flatley
+- 
+  type: relations/money/creditor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/client
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

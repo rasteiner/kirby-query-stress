@@ -1,0 +1,43 @@
+Title: Rice Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/rice-inc
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/debtor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview
+- 
+  type: relations/location/visited
+  item: places/new-brayanside

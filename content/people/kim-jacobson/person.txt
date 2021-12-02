@@ -1,0 +1,65 @@
+Title: Kim Jacobson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jeffry-boyer
+- 
+  type: relations/parental/brosis
+  item: people/dr-elvera-goldner
+- 
+  type: relations/money/creditor
+  item: people/ova-stracke
+- 
+  type: relations/parental/dad
+  item: people/barton-grant-jr
+- 
+  type: relations/parental/colleague
+  item: people/anastacio-eichmann
+- 
+  type: relations/parental/friend
+  item: people/vita-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/runte-cremin
+- 
+  type: relations/work/client
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Newton Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sheridan-feeney
+- 
+  type: relations/money/creditor
+  item: people/hobart-koch
+- 
+  type: relations/money/debtor
+  item: people/trever-kulas-ii
+- 
+  type: relations/money/debtor
+  item: people/eulah-champlin
+- 
+  type: relations/parental/mom
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/vito-swift
+- 
+  type: relations/work/employer
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

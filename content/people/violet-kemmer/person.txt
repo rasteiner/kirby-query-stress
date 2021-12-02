@@ -1,0 +1,64 @@
+Title: Violet Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/josue-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/prof-ole-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/dr-ruthe-jacobson-dvm
+- 
+  type: relations/parental/mom
+  item: people/georgiana-hilpert
+- 
+  type: relations/parental/mom
+  item: people/prof-alexandria-schmidt-i
+- 
+  type: relations/parental/dad
+  item: people/elena-rice
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

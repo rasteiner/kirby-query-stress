@@ -1,0 +1,64 @@
+Title: Ms. Aurore Robel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/selmer-osinski
+- 
+  type: relations/parental/colleague
+  item: people/narciso-daugherty-ii
+- 
+  type: relations/parental/dad
+  item: people/enos-wiegand-ii
+- 
+  type: relations/parental/dad
+  item: people/lois-konopelski-i
+- 
+  type: relations/parental/friend
+  item: people/freddie-hammes-md
+- 
+  type: relations/parental/mom
+  item: people/danielle-mayert
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Vivian Lueilwitz III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vita-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/domenick-waelchi
+- 
+  type: relations/money/debtor
+  item: people/isidro-bailey
+- 
+  type: relations/parental/mom
+  item: people/nakia-stroman
+- 
+  type: relations/parental/brosis
+  item: people/dr-ray-schmidt
+- 
+  type: relations/money/creditor
+  item: people/dr-ellsworth-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/lebsack-berge
+- 
+  type: relations/work/employer
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

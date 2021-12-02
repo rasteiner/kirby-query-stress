@@ -1,0 +1,64 @@
+Title: Prof. Guido Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-rudolph-berge-phd
+- 
+  type: relations/money/debtor
+  item: people/dr-mylene-little-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-corbin-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/kasandra-paucek-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-lexie-leuschke-v
+- 
+  type: relations/parental/mom
+  item: people/joan-wolff
+- 
+  type: relations/work/client
+  item: companies/sporer-plc
+- 
+  type: relations/money/creditor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/client
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

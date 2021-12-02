@@ -1,0 +1,43 @@
+Title: D'Amore, Walter and Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/creditor
+  item: companies/hilll-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/money/creditor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort

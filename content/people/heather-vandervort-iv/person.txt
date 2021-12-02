@@ -1,0 +1,64 @@
+Title: Heather Vandervort IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/otho-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/nya-kautzer
+- 
+  type: relations/parental/colleague
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/parental/dad
+  item: people/emiliano-homenick
+- 
+  type: relations/parental/brosis
+  item: people/vivien-boyle
+- 
+  type: relations/money/debtor
+  item: people/mercedes-legros
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

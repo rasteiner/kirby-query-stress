@@ -1,0 +1,64 @@
+Title: Miss Euna Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-darwin-wisozk
+- 
+  type: relations/parental/dad
+  item: people/mrs-joana-olson-sr
+- 
+  type: relations/parental/dad
+  item: people/hilario-spinka-dds
+- 
+  type: relations/parental/mom
+  item: people/rosamond-kautzer
+- 
+  type: relations/money/creditor
+  item: people/linnie-leffler-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mr-wyman-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

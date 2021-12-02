@@ -1,0 +1,65 @@
+Title: Prof. Mable Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-leola-johnson-md
+- 
+  type: relations/parental/friend
+  item: people/crawford-bergnaum
+- 
+  type: relations/parental/dad
+  item: people/icie-mraz
+- 
+  type: relations/parental/mom
+  item: people/ms-emmanuelle-nitzsche
+- 
+  type: relations/parental/dad
+  item: people/alanna-fahey
+- 
+  type: relations/parental/mom
+  item: people/dr-ryleigh-rice-dds
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/employer
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

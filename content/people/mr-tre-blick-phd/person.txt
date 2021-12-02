@@ -1,0 +1,64 @@
+Title: Mr. Tre Blick PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/guido-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/mr-jaylan-haag-v
+- 
+  type: relations/parental/mom
+  item: people/mr-leonel-jacobson-iii
+- 
+  type: relations/parental/dad
+  item: people/ruth-o-conner
+- 
+  type: relations/money/debtor
+  item: people/akeem-stoltenberg
+- 
+  type: relations/parental/mom
+  item: people/jana-huels
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/money/debtor
+  item: companies/brown-group
+- 
+  type: relations/work/employer
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

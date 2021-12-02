@@ -1,0 +1,64 @@
+Title: Carolyn Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-jasmin-willms
+- 
+  type: relations/parental/colleague
+  item: people/dr-eloy-shanahan
+- 
+  type: relations/money/debtor
+  item: people/prof-ella-nitzsche
+- 
+  type: relations/parental/brosis
+  item: people/dr-korbin-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: people/selina-runolfsson
+- 
+  type: relations/parental/brosis
+  item: people/odell-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

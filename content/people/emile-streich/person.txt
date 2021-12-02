@@ -1,0 +1,65 @@
+Title: Emile Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/wilbert-mosciski
+- 
+  type: relations/money/creditor
+  item: people/luther-turner
+- 
+  type: relations/parental/mom
+  item: people/cassandre-huel
+- 
+  type: relations/parental/dad
+  item: people/miss-jewel-kovacek
+- 
+  type: relations/parental/friend
+  item: people/justyn-beer
+- 
+  type: relations/parental/dad
+  item: people/dr-alexie-jerde
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/client
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/client
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

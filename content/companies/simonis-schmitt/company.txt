@@ -1,0 +1,43 @@
+Title: Simonis-Schmitt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/money/debtor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-llc
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

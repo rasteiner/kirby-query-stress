@@ -1,0 +1,64 @@
+Title: Lemuel White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/oscar-o-connell
+- 
+  type: relations/parental/brosis
+  item: people/terrill-upton
+- 
+  type: relations/parental/mom
+  item: people/miss-kiana-ernser-iii
+- 
+  type: relations/money/creditor
+  item: people/rhianna-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/kylee-runte
+- 
+  type: relations/parental/mom
+  item: people/hanna-wiza
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

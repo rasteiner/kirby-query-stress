@@ -1,0 +1,64 @@
+Title: Eudora Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ashly-cummings
+- 
+  type: relations/parental/mom
+  item: people/heloise-kulas
+- 
+  type: relations/parental/colleague
+  item: people/elnora-mraz
+- 
+  type: relations/money/debtor
+  item: people/sincere-tremblay-dds
+- 
+  type: relations/parental/colleague
+  item: people/gennaro-king
+- 
+  type: relations/parental/mom
+  item: people/dr-sylvester-douglas-jr
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/work/employer
+  item: companies/murphy-inc
+- 
+  type: relations/work/client
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/work/client
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,43 @@
+Title: Krajcik and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/price-pagac
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/creditor
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/doyle-murphy
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/money/creditor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/new-selmer
+- 
+  type: relations/location/residence
+  item: places/bretberg

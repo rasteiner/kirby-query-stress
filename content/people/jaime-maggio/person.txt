@@ -1,0 +1,64 @@
+Title: Jaime Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/christelle-keeling
+- 
+  type: relations/parental/friend
+  item: people/sunny-turcotte
+- 
+  type: relations/parental/mom
+  item: people/alexa-beahan-dvm
+- 
+  type: relations/parental/brosis
+  item: people/mrs-rosetta-mraz-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-bridget-tromp
+- 
+  type: relations/parental/dad
+  item: people/francis-borer
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/employer
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

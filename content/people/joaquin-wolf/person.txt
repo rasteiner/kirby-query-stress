@@ -1,0 +1,64 @@
+Title: Joaquin Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/garnett-luettgen
+- 
+  type: relations/parental/dad
+  item: people/else-moen-jr
+- 
+  type: relations/parental/friend
+  item: people/theo-hyatt
+- 
+  type: relations/parental/colleague
+  item: people/carli-walsh
+- 
+  type: relations/money/creditor
+  item: people/wilbert-mosciski
+- 
+  type: relations/parental/dad
+  item: people/luther-turner
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/work/employer
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/client
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

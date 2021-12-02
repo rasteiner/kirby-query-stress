@@ -1,0 +1,64 @@
+Title: Cecile Hauck V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-alisha-kilback
+- 
+  type: relations/parental/colleague
+  item: people/brandon-braun
+- 
+  type: relations/parental/colleague
+  item: people/valentina-hahn
+- 
+  type: relations/parental/dad
+  item: people/onie-nolan
+- 
+  type: relations/money/debtor
+  item: people/miss-fabiola-dickens
+- 
+  type: relations/parental/colleague
+  item: people/dr-dell-leuschke-iii
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/client
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

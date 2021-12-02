@@ -1,0 +1,64 @@
+Title: Dr. Dorris Volkman II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/juliana-torp
+- 
+  type: relations/parental/friend
+  item: people/leta-dibbert
+- 
+  type: relations/money/debtor
+  item: people/ova-pfeffer-md
+- 
+  type: relations/parental/dad
+  item: people/dr-jesse-metz-phd
+- 
+  type: relations/parental/mom
+  item: people/prof-karley-nader-jr
+- 
+  type: relations/parental/friend
+  item: people/tianna-bahringer-i
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/client
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Erwin Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maegan-mayer
+- 
+  type: relations/money/creditor
+  item: people/sadie-little
+- 
+  type: relations/money/debtor
+  item: people/enrico-murray
+- 
+  type: relations/parental/friend
+  item: people/lennie-hane
+- 
+  type: relations/parental/mom
+  item: people/dr-brooklyn-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/krystel-purdy
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/lehner-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

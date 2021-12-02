@@ -1,0 +1,64 @@
+Title: Darrell Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-hugh-lemke
+- 
+  type: relations/money/debtor
+  item: people/lydia-lehner-md
+- 
+  type: relations/parental/mom
+  item: people/miss-blanche-carter
+- 
+  type: relations/parental/mom
+  item: people/kayla-swift
+- 
+  type: relations/parental/mom
+  item: people/prof-rudolph-berge-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-mylene-little-dds
+- 
+  type: relations/work/client
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/work/client
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

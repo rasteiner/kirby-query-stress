@@ -1,0 +1,64 @@
+Title: Prof. Finn Bode Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hilma-swaniawski
+- 
+  type: relations/parental/colleague
+  item: people/nolan-langosh
+- 
+  type: relations/money/debtor
+  item: people/eulah-beatty
+- 
+  type: relations/parental/colleague
+  item: people/dr-wyatt-hammes-md
+- 
+  type: relations/money/debtor
+  item: people/ms-otha-mcglynn
+- 
+  type: relations/parental/dad
+  item: people/arvilla-ward-md
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

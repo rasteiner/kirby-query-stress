@@ -1,0 +1,65 @@
+Title: Ryder Barton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-rozella-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/destiny-o-hara
+- 
+  type: relations/money/creditor
+  item: people/dr-bennie-ziemann
+- 
+  type: relations/parental/dad
+  item: people/nyasia-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/thea-will
+- 
+  type: relations/parental/friend
+  item: people/ines-heller
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/employer
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

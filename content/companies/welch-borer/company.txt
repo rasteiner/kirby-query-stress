@@ -1,0 +1,43 @@
+Title: Welch-Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/creditor
+  item: companies/rippin-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/dicki-armstrong
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

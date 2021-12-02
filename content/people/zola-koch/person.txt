@@ -1,0 +1,65 @@
+Title: Zola Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-ida-kozey
+- 
+  type: relations/money/debtor
+  item: people/annabel-turcotte
+- 
+  type: relations/parental/dad
+  item: people/prof-raul-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/wayne-green
+- 
+  type: relations/parental/dad
+  item: people/emmalee-abshire
+- 
+  type: relations/money/debtor
+  item: people/marquis-schmidt
+- 
+  type: relations/work/client
+  item: companies/ratke-inc
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/client
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

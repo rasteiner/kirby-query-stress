@@ -1,0 +1,64 @@
+Title: Prof. Kevon Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/coty-mitchell-dvm
+- 
+  type: relations/parental/colleague
+  item: people/gust-bartell
+- 
+  type: relations/money/debtor
+  item: people/derick-d-amore
+- 
+  type: relations/parental/friend
+  item: people/dr-freeman-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/lambert-legros
+- 
+  type: relations/money/creditor
+  item: people/bridie-trantow-phd
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

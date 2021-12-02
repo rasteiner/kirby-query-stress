@@ -1,0 +1,64 @@
+Title: Kacie Pagac MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-laurel-stark-i
+- 
+  type: relations/parental/colleague
+  item: people/marietta-mante
+- 
+  type: relations/money/debtor
+  item: people/rahsaan-bahringer-ii
+- 
+  type: relations/parental/colleague
+  item: people/rosina-nolan
+- 
+  type: relations/parental/friend
+  item: people/clara-effertz
+- 
+  type: relations/money/creditor
+  item: people/deonte-larkin-phd
+- 
+  type: relations/money/debtor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/client
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

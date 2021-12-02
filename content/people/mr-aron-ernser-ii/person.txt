@@ -1,0 +1,64 @@
+Title: Mr. Aron Ernser II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gussie-klocko
+- 
+  type: relations/parental/friend
+  item: people/dr-austin-watsica-sr
+- 
+  type: relations/parental/friend
+  item: people/reuben-ryan-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-brooks-beier
+- 
+  type: relations/parental/colleague
+  item: people/prof-moshe-white
+- 
+  type: relations/parental/friend
+  item: people/ellis-johns-jr
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/client
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

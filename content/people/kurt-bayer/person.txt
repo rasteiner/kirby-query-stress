@@ -1,0 +1,65 @@
+Title: Kurt Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/blanca-ernser
+- 
+  type: relations/parental/mom
+  item: people/claude-wilkinson
+- 
+  type: relations/money/debtor
+  item: people/jany-kuhic
+- 
+  type: relations/parental/dad
+  item: people/myrtie-cassin
+- 
+  type: relations/parental/dad
+  item: people/isaiah-bode
+- 
+  type: relations/parental/friend
+  item: people/dr-austen-pouros-md
+- 
+  type: relations/work/employer
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/employer
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

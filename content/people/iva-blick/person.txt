@@ -1,0 +1,65 @@
+Title: Iva Blick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/andre-swift
+- 
+  type: relations/parental/dad
+  item: people/wilhelmine-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/jude-erdman
+- 
+  type: relations/parental/brosis
+  item: people/prof-newell-gottlieb
+- 
+  type: relations/parental/dad
+  item: people/winston-fritsch
+- 
+  type: relations/money/creditor
+  item: people/miss-destini-streich
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/employer
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

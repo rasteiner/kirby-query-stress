@@ -1,0 +1,64 @@
+Title: Dr. Noble Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/frederik-fritsch
+- 
+  type: relations/money/creditor
+  item: people/maximilian-hettinger
+- 
+  type: relations/money/debtor
+  item: people/verner-kautzer
+- 
+  type: relations/parental/colleague
+  item: people/oceane-goldner-iv
+- 
+  type: relations/parental/brosis
+  item: people/mallory-larson
+- 
+  type: relations/parental/colleague
+  item: people/muriel-bednar
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-group
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-group
+- 
+  type: relations/money/debtor
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/schmeler-conn
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

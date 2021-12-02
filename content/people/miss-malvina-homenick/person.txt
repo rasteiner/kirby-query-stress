@@ -1,0 +1,64 @@
+Title: Miss Malvina Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-evie-powlowski
+- 
+  type: relations/parental/dad
+  item: people/gay-altenwerth
+- 
+  type: relations/money/debtor
+  item: people/prof-zachery-douglas-md
+- 
+  type: relations/money/debtor
+  item: people/mark-wolff
+- 
+  type: relations/parental/dad
+  item: people/clarissa-batz
+- 
+  type: relations/parental/mom
+  item: people/mrs-shaylee-kunde
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/work/client
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

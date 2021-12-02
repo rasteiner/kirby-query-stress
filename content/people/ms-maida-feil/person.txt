@@ -1,0 +1,65 @@
+Title: Ms. Maida Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/douglas-veum
+- 
+  type: relations/money/debtor
+  item: people/prof-lisa-feeney
+- 
+  type: relations/parental/colleague
+  item: people/monserrat-mosciski
+- 
+  type: relations/parental/dad
+  item: people/miss-twila-cormier-jr
+- 
+  type: relations/parental/friend
+  item: people/ms-rafaela-mosciski-v
+- 
+  type: relations/parental/colleague
+  item: people/muhammad-kautzer
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

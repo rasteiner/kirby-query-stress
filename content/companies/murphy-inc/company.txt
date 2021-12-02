@@ -1,0 +1,43 @@
+Title: Murphy Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/creditor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland

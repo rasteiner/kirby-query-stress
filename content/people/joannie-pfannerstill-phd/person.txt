@@ -1,0 +1,64 @@
+Title: Joannie Pfannerstill PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-vito-runolfsdottir
+- 
+  type: relations/parental/mom
+  item: people/dr-hollie-kreiger
+- 
+  type: relations/parental/friend
+  item: people/dr-bulah-kirlin
+- 
+  type: relations/parental/mom
+  item: people/dr-creola-kohler-iii
+- 
+  type: relations/parental/colleague
+  item: people/dr-angus-schumm-sr
+- 
+  type: relations/parental/colleague
+  item: people/krystina-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/sporer-will
+- 
+  type: relations/work/client
+  item: companies/kling-ltd
+- 
+  type: relations/work/employer
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

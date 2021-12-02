@@ -1,0 +1,64 @@
+Title: Kristy VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-sylvester-schulist
+- 
+  type: relations/parental/brosis
+  item: people/ruthe-murphy
+- 
+  type: relations/money/debtor
+  item: people/lilly-beatty-sr
+- 
+  type: relations/parental/mom
+  item: people/otilia-ryan
+- 
+  type: relations/parental/brosis
+  item: people/dr-elton-witting-i
+- 
+  type: relations/parental/dad
+  item: people/salvatore-goyette
+- 
+  type: relations/work/employer
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/client
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/employer
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

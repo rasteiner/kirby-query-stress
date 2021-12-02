@@ -1,0 +1,64 @@
+Title: Tyreek Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kay-ebert-dvm
+- 
+  type: relations/parental/friend
+  item: people/ramona-harris-ii
+- 
+  type: relations/money/debtor
+  item: people/michael-parisian
+- 
+  type: relations/parental/colleague
+  item: people/gracie-wilkinson
+- 
+  type: relations/parental/friend
+  item: people/anika-cronin
+- 
+  type: relations/parental/friend
+  item: people/rhett-ziemann
+- 
+  type: relations/work/client
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/work/client
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

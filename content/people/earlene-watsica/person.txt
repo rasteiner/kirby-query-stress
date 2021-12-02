@@ -1,0 +1,64 @@
+Title: Earlene Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-felton-considine-dvm
+- 
+  type: relations/parental/brosis
+  item: people/manuel-harris
+- 
+  type: relations/parental/brosis
+  item: people/dr-nickolas-d-amore
+- 
+  type: relations/parental/friend
+  item: people/alex-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/mrs-chanelle-thompson-v
+- 
+  type: relations/money/creditor
+  item: people/dr-nova-toy-dds
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/work/client
+  item: companies/orn-and-sons
+- 
+  type: relations/work/client
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

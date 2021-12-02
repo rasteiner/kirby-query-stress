@@ -1,0 +1,64 @@
+Title: Dr. Rupert Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/wilfrid-wiegand-dds
+- 
+  type: relations/money/debtor
+  item: people/miss-trisha-hand-ii
+- 
+  type: relations/parental/mom
+  item: people/miss-verlie-spencer-dvm
+- 
+  type: relations/money/creditor
+  item: people/mrs-kelly-hettinger-dds
+- 
+  type: relations/parental/mom
+  item: people/santos-hilpert-sr
+- 
+  type: relations/parental/mom
+  item: people/darron-morar
+- 
+  type: relations/work/employer
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kris-ltd
+- 
+  type: relations/money/creditor
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

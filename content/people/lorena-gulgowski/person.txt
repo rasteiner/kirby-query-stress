@@ -1,0 +1,64 @@
+Title: Lorena Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-stefan-tromp
+- 
+  type: relations/parental/brosis
+  item: people/carlee-sauer
+- 
+  type: relations/parental/dad
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/parental/brosis
+  item: people/ms-river-wolff
+- 
+  type: relations/money/debtor
+  item: people/ola-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/work/employer
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/client
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/employer
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

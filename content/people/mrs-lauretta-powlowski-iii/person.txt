@@ -1,0 +1,64 @@
+Title: Mrs. Lauretta Powlowski III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/will-nienow
+- 
+  type: relations/money/creditor
+  item: people/guillermo-goyette-i
+- 
+  type: relations/money/creditor
+  item: people/ila-runolfsdottir
+- 
+  type: relations/parental/dad
+  item: people/mr-enoch-denesik-jr
+- 
+  type: relations/parental/dad
+  item: people/lilliana-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/kristian-corkery
+- 
+  type: relations/money/debtor
+  item: companies/yost-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/work/client
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

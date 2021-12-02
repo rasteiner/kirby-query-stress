@@ -1,0 +1,43 @@
+Title: Howell PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/new-karinaland

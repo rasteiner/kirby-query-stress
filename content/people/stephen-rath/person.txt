@@ -1,0 +1,64 @@
+Title: Stephen Rath
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-agnes-bartell
+- 
+  type: relations/parental/colleague
+  item: people/dewayne-fay
+- 
+  type: relations/parental/friend
+  item: people/colin-huels-jr
+- 
+  type: relations/money/debtor
+  item: people/theodore-collins
+- 
+  type: relations/money/creditor
+  item: people/keara-walker
+- 
+  type: relations/parental/brosis
+  item: people/cristina-cummerata-iii
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/work/employer
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

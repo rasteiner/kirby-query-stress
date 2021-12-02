@@ -1,0 +1,64 @@
+Title: Adelbert Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-ellen-cummings-i
+- 
+  type: relations/parental/brosis
+  item: people/tremaine-nitzsche
+- 
+  type: relations/parental/brosis
+  item: people/marta-gulgowski
+- 
+  type: relations/parental/mom
+  item: people/mrs-melyssa-monahan
+- 
+  type: relations/money/creditor
+  item: people/leora-maggio
+- 
+  type: relations/parental/mom
+  item: people/clare-casper
+- 
+  type: relations/work/employer
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/client
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

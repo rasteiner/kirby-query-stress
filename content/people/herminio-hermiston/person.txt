@@ -1,0 +1,64 @@
+Title: Herminio Hermiston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/reva-kohler
+- 
+  type: relations/parental/dad
+  item: people/madeline-leuschke
+- 
+  type: relations/parental/dad
+  item: people/prof-dawson-pfannerstill
+- 
+  type: relations/parental/colleague
+  item: people/ofelia-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/mr-broderick-kshlerin
+- 
+  type: relations/parental/mom
+  item: people/prof-rasheed-mraz-i
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/work/employer
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

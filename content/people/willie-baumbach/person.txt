@@ -1,0 +1,64 @@
+Title: Willie Baumbach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cecilia-koelpin
+- 
+  type: relations/parental/mom
+  item: people/mrs-madge-stiedemann-jr
+- 
+  type: relations/money/creditor
+  item: people/velma-berge
+- 
+  type: relations/parental/friend
+  item: people/jarvis-stanton
+- 
+  type: relations/parental/mom
+  item: people/mr-dorthy-cassin
+- 
+  type: relations/parental/mom
+  item: people/reginald-blanda-jr
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ferry-bayer
+- 
+  type: relations/work/client
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

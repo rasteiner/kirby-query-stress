@@ -1,0 +1,65 @@
+Title: Miss Donna Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/marie-murazik
+- 
+  type: relations/parental/mom
+  item: people/miss-aditya-reichert
+- 
+  type: relations/parental/colleague
+  item: people/elinore-conroy
+- 
+  type: relations/money/creditor
+  item: people/mrs-jada-adams-dds
+- 
+  type: relations/money/creditor
+  item: people/lottie-heathcote
+- 
+  type: relations/parental/brosis
+  item: people/jake-harris-md
+- 
+  type: relations/money/debtor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/debtor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

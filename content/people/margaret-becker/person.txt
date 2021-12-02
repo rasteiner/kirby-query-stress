@@ -1,0 +1,64 @@
+Title: Margaret Becker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-nathanial-bartoletti-dds
+- 
+  type: relations/parental/brosis
+  item: people/nannie-schroeder
+- 
+  type: relations/money/debtor
+  item: people/prof-manley-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/rudy-kiehn
+- 
+  type: relations/parental/dad
+  item: people/mrs-amelie-purdy-dvm
+- 
+  type: relations/money/debtor
+  item: people/maybell-beer
+- 
+  type: relations/work/client
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/effertz-llc
+- 
+  type: relations/work/client
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/client
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

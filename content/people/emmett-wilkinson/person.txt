@@ -1,0 +1,64 @@
+Title: Emmett Wilkinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lindsey-hagenes
+- 
+  type: relations/money/creditor
+  item: people/leonel-becker
+- 
+  type: relations/parental/colleague
+  item: people/zander-bashirian
+- 
+  type: relations/money/creditor
+  item: people/miss-chaya-armstrong
+- 
+  type: relations/parental/dad
+  item: people/selena-beahan
+- 
+  type: relations/parental/brosis
+  item: people/madge-hessel
+- 
+  type: relations/work/employer
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/employer
+  item: companies/mills-wyman
+- 
+  type: relations/work/employer
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/employer
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

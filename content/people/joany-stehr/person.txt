@@ -1,0 +1,64 @@
+Title: Joany Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-taylor-schaefer
+- 
+  type: relations/parental/dad
+  item: people/dr-nicholas-huel
+- 
+  type: relations/parental/mom
+  item: people/bonita-rogahn
+- 
+  type: relations/parental/friend
+  item: people/iva-walsh
+- 
+  type: relations/parental/mom
+  item: people/marlin-wisozk
+- 
+  type: relations/parental/dad
+  item: people/name-keeling
+- 
+  type: relations/money/creditor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/work/client
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/employer
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

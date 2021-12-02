@@ -1,0 +1,64 @@
+Title: Terry Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ronaldo-bradtke
+- 
+  type: relations/money/creditor
+  item: people/maximus-jones
+- 
+  type: relations/parental/colleague
+  item: people/constantin-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/jackeline-zemlak
+- 
+  type: relations/money/creditor
+  item: people/bennett-cummings
+- 
+  type: relations/parental/colleague
+  item: people/prof-rosendo-hane
+- 
+  type: relations/work/employer
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/work/client
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

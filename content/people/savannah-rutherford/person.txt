@@ -1,0 +1,64 @@
+Title: Savannah Rutherford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-heaven-moore-iv
+- 
+  type: relations/parental/dad
+  item: people/mrs-marielle-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/conrad-herzog
+- 
+  type: relations/parental/mom
+  item: people/miss-madilyn-batz
+- 
+  type: relations/parental/brosis
+  item: people/prof-delpha-ebert-i
+- 
+  type: relations/parental/colleague
+  item: people/rosalee-streich
+- 
+  type: relations/money/creditor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

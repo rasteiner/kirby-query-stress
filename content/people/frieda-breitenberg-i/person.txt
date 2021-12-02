@@ -1,0 +1,64 @@
+Title: Frieda Breitenberg I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/manuel-walker
+- 
+  type: relations/parental/mom
+  item: people/florian-wiegand
+- 
+  type: relations/parental/brosis
+  item: people/jermain-lind-ii
+- 
+  type: relations/parental/mom
+  item: people/prudence-krajcik-phd
+- 
+  type: relations/parental/brosis
+  item: people/ms-vincenza-bosco-i
+- 
+  type: relations/parental/colleague
+  item: people/jocelyn-kohler
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

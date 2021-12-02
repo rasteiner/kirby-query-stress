@@ -1,0 +1,64 @@
+Title: Dr. Coy Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-erica-quigley
+- 
+  type: relations/parental/colleague
+  item: people/joanie-johnston
+- 
+  type: relations/money/debtor
+  item: people/dr-junius-champlin-sr
+- 
+  type: relations/parental/friend
+  item: people/adele-waters
+- 
+  type: relations/parental/friend
+  item: people/paige-dubuque
+- 
+  type: relations/parental/colleague
+  item: people/deangelo-rempel
+- 
+  type: relations/work/employer
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/work/client
+  item: companies/veum-and-sons
+- 
+  type: relations/work/employer
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

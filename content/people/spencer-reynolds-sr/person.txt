@@ -1,0 +1,64 @@
+Title: Spencer Reynolds Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ollie-durgan
+- 
+  type: relations/parental/brosis
+  item: people/barrett-schmeler
+- 
+  type: relations/parental/mom
+  item: people/myrtle-hermann
+- 
+  type: relations/parental/dad
+  item: people/mr-harold-zieme
+- 
+  type: relations/money/creditor
+  item: people/leone-conn-phd
+- 
+  type: relations/parental/dad
+  item: people/destiney-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/employer
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

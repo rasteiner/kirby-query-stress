@@ -1,0 +1,64 @@
+Title: Mr. Angel Ullrich DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-kailyn-funk
+- 
+  type: relations/parental/friend
+  item: people/christina-bosco
+- 
+  type: relations/money/creditor
+  item: people/prof-katlynn-gusikowski-phd
+- 
+  type: relations/money/debtor
+  item: people/godfrey-beahan
+- 
+  type: relations/money/creditor
+  item: people/vern-feeney
+- 
+  type: relations/parental/brosis
+  item: people/mrs-margot-beatty-dvm
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

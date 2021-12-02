@@ -1,0 +1,64 @@
+Title: Mr. Jarret Weimann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alia-osinski
+- 
+  type: relations/parental/dad
+  item: people/lon-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/helene-wuckert-i
+- 
+  type: relations/parental/friend
+  item: people/fannie-hermann
+- 
+  type: relations/parental/mom
+  item: people/cristopher-lemke
+- 
+  type: relations/parental/friend
+  item: people/kody-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

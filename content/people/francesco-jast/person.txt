@@ -1,0 +1,64 @@
+Title: Francesco Jast
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/newton-hand
+- 
+  type: relations/parental/dad
+  item: people/caterina-kuvalis-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-hayden-connelly
+- 
+  type: relations/parental/mom
+  item: people/hector-wisoky
+- 
+  type: relations/parental/brosis
+  item: people/dr-alda-walker
+- 
+  type: relations/parental/friend
+  item: people/dora-smith
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

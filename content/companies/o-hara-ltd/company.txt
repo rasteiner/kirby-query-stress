@@ -1,0 +1,43 @@
+Title: O'Hara Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt

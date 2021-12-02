@@ -1,0 +1,65 @@
+Title: Dr. Arnaldo Balistreri DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/johnathan-luettgen
+- 
+  type: relations/parental/dad
+  item: people/dr-santos-moen-phd
+- 
+  type: relations/parental/brosis
+  item: people/odessa-thompson
+- 
+  type: relations/parental/brosis
+  item: people/mrs-bernice-kuphal
+- 
+  type: relations/parental/dad
+  item: people/terrell-doyle-v
+- 
+  type: relations/parental/mom
+  item: people/keara-wiegand
+- 
+  type: relations/money/debtor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/work/client
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/client
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

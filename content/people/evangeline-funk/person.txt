@@ -1,0 +1,64 @@
+Title: Evangeline Funk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jonathan-harris
+- 
+  type: relations/money/creditor
+  item: people/jessica-mitchell
+- 
+  type: relations/parental/dad
+  item: people/rory-wisoky-iii
+- 
+  type: relations/money/creditor
+  item: people/antonina-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/adrain-leuschke
+- 
+  type: relations/money/debtor
+  item: people/dr-adam-muller-i
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-group
+- 
+  type: relations/work/employer
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/client
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/employer
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

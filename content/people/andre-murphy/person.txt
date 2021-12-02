@@ -1,0 +1,64 @@
+Title: Andre Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-efrain-kunze-sr
+- 
+  type: relations/money/creditor
+  item: people/leatha-russel-ii
+- 
+  type: relations/parental/colleague
+  item: people/deonte-borer-md
+- 
+  type: relations/parental/mom
+  item: people/dr-dereck-padberg
+- 
+  type: relations/parental/brosis
+  item: people/nannie-moore
+- 
+  type: relations/parental/mom
+  item: people/prof-travon-hegmann
+- 
+  type: relations/work/employer
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/client
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

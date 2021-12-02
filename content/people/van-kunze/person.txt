@@ -1,0 +1,64 @@
+Title: Van Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lelia-hansen
+- 
+  type: relations/money/creditor
+  item: people/alessandra-haley
+- 
+  type: relations/money/debtor
+  item: people/dr-anissa-blanda
+- 
+  type: relations/parental/brosis
+  item: people/marisa-armstrong
+- 
+  type: relations/money/creditor
+  item: people/delbert-senger
+- 
+  type: relations/money/debtor
+  item: people/rosella-ullrich
+- 
+  type: relations/work/employer
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/hintz-fisher
+- 
+  type: relations/money/debtor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

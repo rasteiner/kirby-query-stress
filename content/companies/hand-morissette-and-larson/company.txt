@@ -1,0 +1,44 @@
+Title: Hand, Morissette and Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/dooley-walter
+- 
+  type: relations/location/residence
+  item: places/malindastad
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/rubyeville

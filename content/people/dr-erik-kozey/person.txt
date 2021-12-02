@@ -1,0 +1,64 @@
+Title: Dr. Erik Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/brosis
+  item: people/bailey-raynor
+- 
+  type: relations/parental/colleague
+  item: people/dr-dillon-herzog
+- 
+  type: relations/money/creditor
+  item: people/dr-rupert-mayer-md
+- 
+  type: relations/parental/colleague
+  item: people/tyrel-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/raheem-muller
+- 
+  type: relations/work/client
+  item: companies/watsica-inc
+- 
+  type: relations/work/client
+  item: companies/casper-larson
+- 
+  type: relations/work/employer
+  item: companies/anderson-muller
+- 
+  type: relations/work/client
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

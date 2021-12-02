@@ -1,0 +1,64 @@
+Title: Stephan Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/armani-lockman
+- 
+  type: relations/money/creditor
+  item: people/jimmie-gerhold
+- 
+  type: relations/parental/dad
+  item: people/halie-reichert
+- 
+  type: relations/parental/friend
+  item: people/oswald-cassin
+- 
+  type: relations/parental/mom
+  item: people/ena-satterfield-v
+- 
+  type: relations/parental/dad
+  item: people/roger-hahn
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

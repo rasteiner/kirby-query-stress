@@ -1,0 +1,64 @@
+Title: Autumn Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/stephen-kovacek
+- 
+  type: relations/money/debtor
+  item: people/urban-mayer
+- 
+  type: relations/money/debtor
+  item: people/mrs-nyah-shields
+- 
+  type: relations/parental/brosis
+  item: people/ulices-kohler
+- 
+  type: relations/money/debtor
+  item: people/karl-kuhic
+- 
+  type: relations/parental/mom
+  item: people/dr-wade-larkin
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

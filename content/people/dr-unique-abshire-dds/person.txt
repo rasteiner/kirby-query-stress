@@ -1,0 +1,64 @@
+Title: Dr. Unique Abshire DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/josh-leannon
+- 
+  type: relations/parental/dad
+  item: people/mr-delaney-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/alexandrea-nikolaus
+- 
+  type: relations/money/debtor
+  item: people/greg-dicki-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-geraldine-o-keefe
+- 
+  type: relations/parental/colleague
+  item: people/lacey-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/client
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

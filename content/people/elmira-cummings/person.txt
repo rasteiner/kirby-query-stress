@@ -1,0 +1,64 @@
+Title: Elmira Cummings
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/serenity-denesik
+- 
+  type: relations/parental/mom
+  item: people/miss-rubie-wilderman-jr
+- 
+  type: relations/parental/friend
+  item: people/eliezer-sipes-md
+- 
+  type: relations/money/debtor
+  item: people/pansy-considine-sr
+- 
+  type: relations/parental/brosis
+  item: people/prof-regan-hansen
+- 
+  type: relations/parental/dad
+  item: people/virgie-gibson
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/employer
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

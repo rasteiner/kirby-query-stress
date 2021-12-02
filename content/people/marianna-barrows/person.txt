@@ -1,0 +1,64 @@
+Title: Marianna Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-kaitlyn-renner
+- 
+  type: relations/parental/dad
+  item: people/francesca-johns
+- 
+  type: relations/parental/mom
+  item: people/adrian-bechtelar-i
+- 
+  type: relations/parental/brosis
+  item: people/merl-harvey
+- 
+  type: relations/parental/dad
+  item: people/miss-melyna-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/annette-deckow-ii
+- 
+  type: relations/work/employer
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

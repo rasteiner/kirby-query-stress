@@ -1,0 +1,43 @@
+Title: Funk-Ward
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/money/creditor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/money/creditor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/money/debtor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/otiliachester

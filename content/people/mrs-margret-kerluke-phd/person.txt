@@ -1,0 +1,64 @@
+Title: Mrs. Margret Kerluke PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/liana-padberg
+- 
+  type: relations/money/creditor
+  item: people/isom-ritchie
+- 
+  type: relations/money/creditor
+  item: people/addie-schroeder
+- 
+  type: relations/money/debtor
+  item: people/josephine-heaney
+- 
+  type: relations/parental/colleague
+  item: people/dr-mable-hettinger
+- 
+  type: relations/parental/friend
+  item: people/prof-magnus-hermiston-v
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/mann-gutmann
+- 
+  type: relations/work/client
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

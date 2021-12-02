@@ -1,0 +1,64 @@
+Title: Dolly Hickle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kailee-prohaska
+- 
+  type: relations/money/debtor
+  item: people/demond-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/shany-wolf-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-elisha-christiansen
+- 
+  type: relations/parental/friend
+  item: people/charles-kihn
+- 
+  type: relations/parental/colleague
+  item: people/jamey-buckridge
+- 
+  type: relations/work/employer
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/client
+  item: companies/keeling-denesik
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

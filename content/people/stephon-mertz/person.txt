@@ -1,0 +1,64 @@
+Title: Stephon Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alanis-stamm-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-isaac-rohan-v
+- 
+  type: relations/parental/mom
+  item: people/rusty-bechtelar-dvm
+- 
+  type: relations/parental/dad
+  item: people/audra-toy-v
+- 
+  type: relations/parental/colleague
+  item: people/irving-walker-i
+- 
+  type: relations/money/creditor
+  item: people/mrs-bridget-klocko-iii
+- 
+  type: relations/money/creditor
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/work/client
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

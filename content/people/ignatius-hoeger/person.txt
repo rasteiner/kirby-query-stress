@@ -1,0 +1,65 @@
+Title: Ignatius Hoeger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lavada-stoltenberg
+- 
+  type: relations/money/creditor
+  item: people/prof-nico-friesen
+- 
+  type: relations/parental/mom
+  item: people/kevon-paucek
+- 
+  type: relations/money/creditor
+  item: people/prof-janiya-spencer
+- 
+  type: relations/parental/dad
+  item: people/samson-vandervort
+- 
+  type: relations/money/debtor
+  item: people/mr-kenton-schaden-phd
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

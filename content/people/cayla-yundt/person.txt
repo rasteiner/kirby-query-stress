@@ -1,0 +1,64 @@
+Title: Cayla Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-dorothy-runolfsdottir
+- 
+  type: relations/parental/mom
+  item: people/dr-christ-cole
+- 
+  type: relations/parental/dad
+  item: people/prof-peyton-gaylord-jr
+- 
+  type: relations/parental/brosis
+  item: people/miss-brandy-shields
+- 
+  type: relations/parental/mom
+  item: people/tyreek-buckridge-md
+- 
+  type: relations/parental/friend
+  item: people/nella-hartmann-ii
+- 
+  type: relations/money/debtor
+  item: companies/howell-plc
+- 
+  type: relations/work/client
+  item: companies/klocko-quigley
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

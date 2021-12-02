@@ -1,0 +1,64 @@
+Title: Marianna Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dudley-white
+- 
+  type: relations/parental/brosis
+  item: people/miss-sierra-champlin
+- 
+  type: relations/parental/brosis
+  item: people/mr-austin-macejkovic
+- 
+  type: relations/parental/dad
+  item: people/jaylan-hudson
+- 
+  type: relations/money/creditor
+  item: people/earl-douglas-i
+- 
+  type: relations/money/creditor
+  item: people/tamia-quitzon-iii
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

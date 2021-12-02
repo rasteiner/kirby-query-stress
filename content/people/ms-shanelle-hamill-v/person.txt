@@ -1,0 +1,64 @@
+Title: Ms. Shanelle Hamill V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/alva-medhurst
+- 
+  type: relations/parental/friend
+  item: people/mr-dane-fadel
+- 
+  type: relations/money/creditor
+  item: people/dr-wilma-upton
+- 
+  type: relations/parental/friend
+  item: people/jerry-flatley
+- 
+  type: relations/parental/mom
+  item: people/major-padberg
+- 
+  type: relations/parental/friend
+  item: people/dr-dario-satterfield-dvm
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/money/debtor
+  item: companies/howell-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

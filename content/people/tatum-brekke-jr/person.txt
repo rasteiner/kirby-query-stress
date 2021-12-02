@@ -1,0 +1,64 @@
+Title: Tatum Brekke Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-krystina-kreiger
+- 
+  type: relations/parental/friend
+  item: people/seth-collier-i
+- 
+  type: relations/parental/friend
+  item: people/lexi-stehr
+- 
+  type: relations/parental/friend
+  item: people/dr-leatha-kerluke
+- 
+  type: relations/parental/friend
+  item: people/jamaal-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/jennings-blanda
+- 
+  type: relations/work/client
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/employer
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/work/client
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

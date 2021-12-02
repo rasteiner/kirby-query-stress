@@ -1,0 +1,64 @@
+Title: Lulu Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/willa-leffler
+- 
+  type: relations/parental/dad
+  item: people/enoch-hills-ii
+- 
+  type: relations/parental/colleague
+  item: people/miss-maximillia-rippin
+- 
+  type: relations/parental/colleague
+  item: people/nicholaus-gleason
+- 
+  type: relations/parental/brosis
+  item: people/ms-laury-mccullough
+- 
+  type: relations/money/creditor
+  item: people/dandre-wiegand
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/client
+  item: companies/ullrich-llc
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

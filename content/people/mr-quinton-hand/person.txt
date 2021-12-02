@@ -1,0 +1,64 @@
+Title: Mr. Quinton Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lauren-mraz
+- 
+  type: relations/parental/colleague
+  item: people/dr-flavie-prohaska
+- 
+  type: relations/parental/colleague
+  item: people/kaitlyn-swaniawski
+- 
+  type: relations/parental/friend
+  item: people/nils-mclaughlin-jr
+- 
+  type: relations/parental/colleague
+  item: people/yolanda-russel-i
+- 
+  type: relations/money/debtor
+  item: people/taya-schmitt
+- 
+  type: relations/money/debtor
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/employer
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/client
+  item: companies/walsh-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

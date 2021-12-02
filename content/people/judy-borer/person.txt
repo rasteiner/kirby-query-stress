@@ -1,0 +1,64 @@
+Title: Judy Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/emil-kozey
+- 
+  type: relations/parental/friend
+  item: people/marcos-brekke
+- 
+  type: relations/money/creditor
+  item: people/lindsay-hayes
+- 
+  type: relations/money/creditor
+  item: people/henriette-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/elinore-kulas
+- 
+  type: relations/parental/brosis
+  item: people/koby-rempel
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

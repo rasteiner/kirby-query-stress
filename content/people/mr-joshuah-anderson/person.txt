@@ -1,0 +1,64 @@
+Title: Mr. Joshuah Anderson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bertrand-rath
+- 
+  type: relations/parental/dad
+  item: people/retha-parisian
+- 
+  type: relations/parental/brosis
+  item: people/jacinthe-maggio
+- 
+  type: relations/parental/friend
+  item: people/prof-jace-bashirian-sr
+- 
+  type: relations/parental/dad
+  item: people/ron-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/melody-cummerata-dvm
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

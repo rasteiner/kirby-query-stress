@@ -1,0 +1,64 @@
+Title: Lenna Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hester-abshire
+- 
+  type: relations/parental/mom
+  item: people/pascale-greenfelder
+- 
+  type: relations/parental/mom
+  item: people/gilda-hyatt
+- 
+  type: relations/money/debtor
+  item: people/connie-lebsack
+- 
+  type: relations/money/creditor
+  item: people/otilia-dooley-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-dayana-konopelski-ii
+- 
+  type: relations/money/creditor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/employer
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

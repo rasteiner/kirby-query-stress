@@ -1,0 +1,64 @@
+Title: Elizabeth Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-alan-kuphal-iii
+- 
+  type: relations/parental/mom
+  item: people/dimitri-kuphal
+- 
+  type: relations/money/creditor
+  item: people/dr-ramon-lind
+- 
+  type: relations/parental/dad
+  item: people/pink-olson
+- 
+  type: relations/parental/brosis
+  item: people/clovis-wintheiser
+- 
+  type: relations/parental/friend
+  item: people/vance-braun
+- 
+  type: relations/money/debtor
+  item: companies/towne-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

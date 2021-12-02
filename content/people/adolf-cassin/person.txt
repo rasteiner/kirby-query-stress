@@ -1,0 +1,64 @@
+Title: Adolf Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alanis-mante-sr
+- 
+  type: relations/parental/mom
+  item: people/adolf-collins
+- 
+  type: relations/parental/dad
+  item: people/carolyne-mitchell-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-jess-dickens-i
+- 
+  type: relations/parental/mom
+  item: people/billie-kihn
+- 
+  type: relations/money/debtor
+  item: people/otha-fay-dvm
+- 
+  type: relations/money/debtor
+  item: companies/sporer-plc
+- 
+  type: relations/work/client
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/employer
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

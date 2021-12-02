@@ -1,0 +1,64 @@
+Title: Ms. Hildegard Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-mervin-lakin
+- 
+  type: relations/money/debtor
+  item: people/sherwood-vandervort
+- 
+  type: relations/parental/friend
+  item: people/serenity-denesik
+- 
+  type: relations/money/debtor
+  item: people/miss-rubie-wilderman-jr
+- 
+  type: relations/parental/mom
+  item: people/eliezer-sipes-md
+- 
+  type: relations/parental/brosis
+  item: people/pansy-considine-sr
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/work/client
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

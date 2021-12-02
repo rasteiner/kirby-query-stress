@@ -1,0 +1,64 @@
+Title: Camden Bailey DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-mabel-adams-iii
+- 
+  type: relations/money/debtor
+  item: people/josh-johns-i
+- 
+  type: relations/parental/brosis
+  item: people/andre-ruecker
+- 
+  type: relations/parental/mom
+  item: people/mr-winfield-mayer-i
+- 
+  type: relations/money/debtor
+  item: people/pasquale-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/gabrielle-kassulke
+- 
+  type: relations/work/client
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

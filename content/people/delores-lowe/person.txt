@@ -1,0 +1,64 @@
+Title: Delores Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/anjali-kozey
+- 
+  type: relations/parental/brosis
+  item: people/prof-jody-koch-dds
+- 
+  type: relations/parental/dad
+  item: people/elouise-sawayn
+- 
+  type: relations/money/creditor
+  item: people/kiera-shields
+- 
+  type: relations/parental/colleague
+  item: people/deion-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/dr-santa-turner
+- 
+  type: relations/work/employer
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

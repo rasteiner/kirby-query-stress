@@ -1,0 +1,64 @@
+Title: Prof. Cristian Walter III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/monica-hane
+- 
+  type: relations/parental/dad
+  item: people/claudie-kemmer
+- 
+  type: relations/parental/dad
+  item: people/mrs-lesly-hilll
+- 
+  type: relations/money/creditor
+  item: people/mr-austyn-conroy
+- 
+  type: relations/parental/friend
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/money/creditor
+  item: people/sienna-dubuque
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

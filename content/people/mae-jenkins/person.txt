@@ -1,0 +1,64 @@
+Title: Mae Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lempi-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/moses-huel-md
+- 
+  type: relations/money/creditor
+  item: people/jaycee-osinski
+- 
+  type: relations/parental/brosis
+  item: people/mrs-noelia-jerde-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-halle-renner
+- 
+  type: relations/parental/dad
+  item: people/marquise-graham
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

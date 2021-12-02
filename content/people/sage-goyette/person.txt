@@ -1,0 +1,64 @@
+Title: Sage Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-camryn-brakus-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-elnora-hilpert-iii
+- 
+  type: relations/parental/dad
+  item: people/etha-keebler
+- 
+  type: relations/parental/friend
+  item: people/andre-morar-v
+- 
+  type: relations/money/debtor
+  item: people/guadalupe-yost-iv
+- 
+  type: relations/parental/colleague
+  item: people/tania-wunsch-iii
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/work/employer
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

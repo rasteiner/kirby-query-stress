@@ -1,0 +1,66 @@
+Title: Raul Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kristopher-zieme
+- 
+  type: relations/parental/brosis
+  item: people/opal-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/cleora-homenick
+- 
+  type: relations/parental/dad
+  item: people/tyrese-windler-sr
+- 
+  type: relations/money/debtor
+  item: people/lou-johnson
+- 
+  type: relations/money/creditor
+  item: people/schuyler-rogahn-md
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/employer
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Kirstin Haag DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eulah-lindgren
+- 
+  type: relations/money/debtor
+  item: people/isadore-schuster
+- 
+  type: relations/money/creditor
+  item: people/prof-emilio-schaefer
+- 
+  type: relations/money/debtor
+  item: people/mr-dale-erdman-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-gaetano-ondricka
+- 
+  type: relations/parental/dad
+  item: people/alf-grady
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

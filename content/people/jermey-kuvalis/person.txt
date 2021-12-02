@@ -1,0 +1,64 @@
+Title: Jermey Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/felicita-deckow
+- 
+  type: relations/parental/mom
+  item: people/grant-schaden-phd
+- 
+  type: relations/parental/colleague
+  item: people/jaquelin-pollich-phd
+- 
+  type: relations/parental/colleague
+  item: people/mr-raoul-greenfelder-dvm
+- 
+  type: relations/money/debtor
+  item: people/shania-ryan
+- 
+  type: relations/money/creditor
+  item: people/ms-claudie-shanahan-md
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

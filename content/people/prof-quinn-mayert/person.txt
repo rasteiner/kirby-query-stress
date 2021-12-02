@@ -1,0 +1,64 @@
+Title: Prof. Quinn Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-kelton-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/irving-langosh
+- 
+  type: relations/money/creditor
+  item: people/prof-meaghan-cartwright-i
+- 
+  type: relations/money/creditor
+  item: people/grady-howe
+- 
+  type: relations/parental/friend
+  item: people/geoffrey-schaden
+- 
+  type: relations/parental/colleague
+  item: people/ms-drew-prohaska-dvm
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/work/client
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

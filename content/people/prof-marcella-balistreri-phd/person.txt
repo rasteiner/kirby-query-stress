@@ -1,0 +1,64 @@
+Title: Prof. Marcella Balistreri PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/myah-barton
+- 
+  type: relations/parental/mom
+  item: people/mable-zboncak-jr
+- 
+  type: relations/parental/brosis
+  item: people/cyrus-schinner
+- 
+  type: relations/money/creditor
+  item: people/miss-jeanette-kling
+- 
+  type: relations/money/creditor
+  item: people/mr-durward-treutel-i
+- 
+  type: relations/parental/dad
+  item: people/mathilde-boyle
+- 
+  type: relations/work/employer
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/client
+  item: companies/weber-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-bode
+- 
+  type: relations/work/client
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

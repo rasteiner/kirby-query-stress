@@ -1,0 +1,64 @@
+Title: Prof. Terrell Borer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cooper-paucek
+- 
+  type: relations/parental/mom
+  item: people/elvie-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/cruz-legros
+- 
+  type: relations/parental/brosis
+  item: people/prof-conner-gorczany
+- 
+  type: relations/parental/brosis
+  item: people/prof-gaylord-beatty-dds
+- 
+  type: relations/parental/brosis
+  item: people/odie-nitzsche
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/money/debtor
+  item: companies/kub-plc
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/client
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

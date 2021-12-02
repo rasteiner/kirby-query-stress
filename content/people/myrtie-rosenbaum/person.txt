@@ -1,0 +1,64 @@
+Title: Myrtie Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/louvenia-jakubowski-dvm
+- 
+  type: relations/money/creditor
+  item: people/agustina-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/horacio-wunsch
+- 
+  type: relations/money/debtor
+  item: people/kiana-wuckert
+- 
+  type: relations/money/debtor
+  item: people/horacio-hessel
+- 
+  type: relations/parental/friend
+  item: people/connor-wehner
+- 
+  type: relations/money/creditor
+  item: companies/blanda-ltd
+- 
+  type: relations/work/client
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

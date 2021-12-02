@@ -1,0 +1,64 @@
+Title: Miss Retha Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jayne-stehr
+- 
+  type: relations/parental/colleague
+  item: people/crystal-larson
+- 
+  type: relations/money/debtor
+  item: people/clark-doyle
+- 
+  type: relations/parental/colleague
+  item: people/prof-robbie-carroll-iv
+- 
+  type: relations/money/creditor
+  item: people/neva-rutherford
+- 
+  type: relations/parental/brosis
+  item: people/stevie-kuhic
+- 
+  type: relations/work/client
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

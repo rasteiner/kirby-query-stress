@@ -1,0 +1,64 @@
+Title: Carlo Buckridge Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-betsy-schneider
+- 
+  type: relations/money/debtor
+  item: people/prof-steve-maggio
+- 
+  type: relations/parental/dad
+  item: people/louisa-kunde
+- 
+  type: relations/parental/brosis
+  item: people/mrs-marcia-borer-i
+- 
+  type: relations/money/creditor
+  item: people/adriel-dickinson
+- 
+  type: relations/parental/brosis
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/work/client
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/money/creditor
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

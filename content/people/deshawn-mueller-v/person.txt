@@ -1,0 +1,64 @@
+Title: Deshawn Mueller V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-crystel-jerde
+- 
+  type: relations/parental/colleague
+  item: people/ramiro-rempel
+- 
+  type: relations/parental/friend
+  item: people/dr-ross-schoen-v
+- 
+  type: relations/parental/friend
+  item: people/dr-evie-kulas-v
+- 
+  type: relations/money/creditor
+  item: people/brooks-mosciski-i
+- 
+  type: relations/parental/friend
+  item: people/tod-halvorson
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

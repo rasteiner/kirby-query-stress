@@ -1,0 +1,64 @@
+Title: Mr. Juwan Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/santos-hilpert-sr
+- 
+  type: relations/money/debtor
+  item: people/darron-morar
+- 
+  type: relations/money/creditor
+  item: people/fay-dickinson
+- 
+  type: relations/money/debtor
+  item: people/constance-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/keanu-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/emiliano-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

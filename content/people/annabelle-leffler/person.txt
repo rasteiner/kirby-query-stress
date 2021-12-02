@@ -1,0 +1,64 @@
+Title: Annabelle Leffler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/bria-zieme
+- 
+  type: relations/parental/colleague
+  item: people/flavio-collins
+- 
+  type: relations/parental/mom
+  item: people/gianni-skiles
+- 
+  type: relations/parental/mom
+  item: people/mrs-mable-orn-iii
+- 
+  type: relations/parental/friend
+  item: people/destiney-bernhard
+- 
+  type: relations/parental/friend
+  item: people/thora-hermiston-i
+- 
+  type: relations/work/client
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/client
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-group
+- 
+  type: relations/work/client
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

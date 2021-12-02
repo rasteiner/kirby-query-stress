@@ -1,0 +1,64 @@
+Title: Freeda Dooley III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/dad
+  item: people/hilma-smith
+- 
+  type: relations/money/debtor
+  item: people/prof-edison-bartell-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-carmella-crona
+- 
+  type: relations/money/creditor
+  item: people/maia-kilback-sr
+- 
+  type: relations/money/creditor
+  item: people/jeff-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

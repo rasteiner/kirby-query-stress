@@ -1,0 +1,64 @@
+Title: David Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-otha-mcglynn
+- 
+  type: relations/parental/friend
+  item: people/arvilla-ward-md
+- 
+  type: relations/parental/colleague
+  item: people/prof-joesph-hackett
+- 
+  type: relations/money/creditor
+  item: people/dr-osbaldo-stehr
+- 
+  type: relations/money/debtor
+  item: people/joanny-kessler
+- 
+  type: relations/parental/mom
+  item: people/edward-barrows
+- 
+  type: relations/work/employer
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/client
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

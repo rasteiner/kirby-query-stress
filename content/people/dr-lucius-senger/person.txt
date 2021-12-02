@@ -1,0 +1,64 @@
+Title: Dr. Lucius Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mohamed-dietrich
+- 
+  type: relations/parental/friend
+  item: people/mr-brandt-crooks-v
+- 
+  type: relations/parental/friend
+  item: people/mr-lonny-greenholt
+- 
+  type: relations/parental/brosis
+  item: people/elmer-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/shad-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/madonna-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/debtor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/debtor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/client
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

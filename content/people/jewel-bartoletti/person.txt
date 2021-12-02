@@ -1,0 +1,64 @@
+Title: Jewel Bartoletti
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/shany-wolf-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-elisha-christiansen
+- 
+  type: relations/parental/friend
+  item: people/charles-kihn
+- 
+  type: relations/parental/friend
+  item: people/jamey-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/louie-effertz
+- 
+  type: relations/parental/mom
+  item: people/aryanna-bruen
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/client
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

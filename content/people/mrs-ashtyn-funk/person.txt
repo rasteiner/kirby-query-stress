@@ -1,0 +1,64 @@
+Title: Mrs. Ashtyn Funk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ewald-crooks
+- 
+  type: relations/money/debtor
+  item: people/anderson-swift
+- 
+  type: relations/money/debtor
+  item: people/beatrice-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/pasquale-lowe
+- 
+  type: relations/money/creditor
+  item: people/mona-schamberger
+- 
+  type: relations/parental/dad
+  item: people/quincy-fahey
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bogan-llc
+- 
+  type: relations/money/creditor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

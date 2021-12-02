@@ -1,0 +1,64 @@
+Title: Mattie Rolfson III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/henriette-howell
+- 
+  type: relations/parental/friend
+  item: people/aletha-hermann
+- 
+  type: relations/parental/colleague
+  item: people/declan-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/gerardo-kutch
+- 
+  type: relations/money/creditor
+  item: people/rubie-breitenberg-iv
+- 
+  type: relations/money/creditor
+  item: people/nolan-treutel
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/ferry-inc
+- 
+  type: relations/work/employer
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

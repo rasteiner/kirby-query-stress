@@ -1,0 +1,64 @@
+Title: Mittie Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-karelle-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-drew-lebsack-phd
+- 
+  type: relations/parental/brosis
+  item: people/elva-kertzmann
+- 
+  type: relations/parental/mom
+  item: people/geo-boyer
+- 
+  type: relations/parental/dad
+  item: people/pauline-kuhn
+- 
+  type: relations/parental/friend
+  item: people/russel-johnston
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

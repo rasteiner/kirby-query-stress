@@ -1,0 +1,64 @@
+Title: Ms. Cassidy Graham Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carrie-klein
+- 
+  type: relations/money/debtor
+  item: people/craig-gaylord
+- 
+  type: relations/parental/dad
+  item: people/prof-noemy-larkin
+- 
+  type: relations/parental/colleague
+  item: people/miss-malvina-homenick
+- 
+  type: relations/money/creditor
+  item: people/ms-rosanna-gottlieb-i
+- 
+  type: relations/parental/colleague
+  item: people/prince-okuneva-ii
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/client
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

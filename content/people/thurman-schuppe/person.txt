@@ -1,0 +1,64 @@
+Title: Thurman Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ben-ernser-dvm
+- 
+  type: relations/money/creditor
+  item: people/miss-bridie-bradtke-phd
+- 
+  type: relations/parental/mom
+  item: people/mr-edwardo-kohler
+- 
+  type: relations/parental/dad
+  item: people/ryan-beier-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-marjory-pacocha-phd
+- 
+  type: relations/parental/dad
+  item: people/carol-wuckert-iii
+- 
+  type: relations/money/debtor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/work/client
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

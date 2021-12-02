@@ -1,0 +1,64 @@
+Title: Missouri Stroman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sheridan-boehm-dds
+- 
+  type: relations/parental/friend
+  item: people/clyde-zemlak
+- 
+  type: relations/money/debtor
+  item: people/madisen-gutmann-iv
+- 
+  type: relations/parental/mom
+  item: people/micah-howe-sr
+- 
+  type: relations/parental/friend
+  item: people/margarette-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/miss-elvera-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

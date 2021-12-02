@@ -1,0 +1,65 @@
+Title: Karley Herman DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-fritz-kuhic-phd
+- 
+  type: relations/parental/brosis
+  item: people/prof-annalise-rogahn
+- 
+  type: relations/money/creditor
+  item: people/miss-beth-nitzsche-v
+- 
+  type: relations/money/debtor
+  item: people/ms-taya-hintz
+- 
+  type: relations/money/creditor
+  item: people/isac-russel
+- 
+  type: relations/money/creditor
+  item: people/gussie-kemmer-jr
+- 
+  type: relations/money/creditor
+  item: companies/kilback-kub
+- 
+  type: relations/work/client
+  item: companies/larson-denesik
+- 
+  type: relations/money/debtor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,43 @@
+Title: Stokes Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/creditor
+  item: companies/skiles-johns
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/hane-ltd
+- 
+  type: relations/money/debtor
+  item: companies/roob-heathcote
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/new-marafurt

@@ -1,0 +1,64 @@
+Title: Winston Dicki Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/susana-keeling
+- 
+  type: relations/parental/colleague
+  item: people/rosario-walter-sr
+- 
+  type: relations/parental/brosis
+  item: people/gilda-reichert
+- 
+  type: relations/parental/friend
+  item: people/leanne-cole-jr
+- 
+  type: relations/parental/dad
+  item: people/dr-karelle-kris-i
+- 
+  type: relations/parental/colleague
+  item: people/eleanore-kiehn-phd
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/work/client
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

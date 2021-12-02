@@ -1,0 +1,64 @@
+Title: Miss Tina Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-laurel-stark-i
+- 
+  type: relations/parental/dad
+  item: people/marietta-mante
+- 
+  type: relations/parental/dad
+  item: people/rahsaan-bahringer-ii
+- 
+  type: relations/parental/colleague
+  item: people/rosina-nolan
+- 
+  type: relations/money/debtor
+  item: people/clara-effertz
+- 
+  type: relations/parental/brosis
+  item: people/deonte-larkin-phd
+- 
+  type: relations/money/creditor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/employer
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

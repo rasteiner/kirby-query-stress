@@ -1,0 +1,64 @@
+Title: Dr. Gay Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/andy-fisher-v
+- 
+  type: relations/parental/brosis
+  item: people/murphy-gulgowski
+- 
+  type: relations/parental/friend
+  item: people/wellington-hessel
+- 
+  type: relations/parental/friend
+  item: people/krista-ferry
+- 
+  type: relations/parental/colleague
+  item: people/cassie-krajcik
+- 
+  type: relations/money/creditor
+  item: people/alexander-goldner
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/client
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

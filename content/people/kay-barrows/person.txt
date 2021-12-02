@@ -1,0 +1,65 @@
+Title: Kay Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/vernie-rolfson
+- 
+  type: relations/parental/friend
+  item: people/rey-torphy-i
+- 
+  type: relations/parental/friend
+  item: people/barrett-klocko
+- 
+  type: relations/parental/dad
+  item: people/mr-oswaldo-herzog-v
+- 
+  type: relations/parental/brosis
+  item: people/hilbert-schumm
+- 
+  type: relations/parental/brosis
+  item: people/ashlynn-will
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

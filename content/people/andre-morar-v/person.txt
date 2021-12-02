@@ -1,0 +1,64 @@
+Title: Andre Morar V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elnora-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/aniyah-mante
+- 
+  type: relations/parental/mom
+  item: people/mr-lon-crooks
+- 
+  type: relations/parental/mom
+  item: people/winifred-thiel
+- 
+  type: relations/parental/dad
+  item: people/retta-nitzsche-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-brayan-anderson-jr
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

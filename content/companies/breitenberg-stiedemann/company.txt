@@ -1,0 +1,44 @@
+Title: Breitenberg-Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/debtor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/matildafort

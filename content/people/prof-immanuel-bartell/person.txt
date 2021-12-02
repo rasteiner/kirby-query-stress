@@ -1,0 +1,64 @@
+Title: Prof. Immanuel Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-franz-roberts-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-hubert-padberg-i
+- 
+  type: relations/money/debtor
+  item: people/saige-king
+- 
+  type: relations/parental/dad
+  item: people/cicero-williamson
+- 
+  type: relations/parental/colleague
+  item: people/prof-kiley-watsica-jr
+- 
+  type: relations/money/debtor
+  item: people/ms-cassandre-mcclure-iii
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

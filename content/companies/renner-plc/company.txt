@@ -1,0 +1,43 @@
+Title: Renner PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/money/creditor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/stromanstad

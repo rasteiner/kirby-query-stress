@@ -1,0 +1,64 @@
+Title: Madeline Leuschke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-louisa-conroy
+- 
+  type: relations/parental/colleague
+  item: people/mr-jamison-schimmel
+- 
+  type: relations/parental/friend
+  item: people/darrell-abshire
+- 
+  type: relations/parental/brosis
+  item: people/emelia-cruickshank
+- 
+  type: relations/parental/brosis
+  item: people/cary-robel
+- 
+  type: relations/parental/brosis
+  item: people/dr-mozell-terry
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-group
+- 
+  type: relations/work/employer
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/client
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

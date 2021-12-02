@@ -1,0 +1,43 @@
+Title: Bailey-Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/swift-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester

@@ -1,0 +1,64 @@
+Title: Kendra Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/abigayle-wintheiser
+- 
+  type: relations/parental/friend
+  item: people/darion-haag
+- 
+  type: relations/money/debtor
+  item: people/dr-kellen-heaney-iv
+- 
+  type: relations/parental/friend
+  item: people/mrs-zelda-rempel
+- 
+  type: relations/parental/brosis
+  item: people/ollie-durgan
+- 
+  type: relations/money/debtor
+  item: people/barrett-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

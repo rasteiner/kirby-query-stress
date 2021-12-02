@@ -1,0 +1,64 @@
+Title: Dr. Evie Kulas V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/chadrick-carroll
+- 
+  type: relations/money/creditor
+  item: people/hiram-dooley-dds
+- 
+  type: relations/parental/friend
+  item: people/eddie-ziemann
+- 
+  type: relations/parental/friend
+  item: people/treva-abernathy-dds
+- 
+  type: relations/money/creditor
+  item: people/justina-gulgowski
+- 
+  type: relations/money/creditor
+  item: people/ms-anastasia-rice-dds
+- 
+  type: relations/work/client
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/employer
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

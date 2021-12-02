@@ -1,0 +1,64 @@
+Title: Giovanny Rohan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-torrey-farrell-jr
+- 
+  type: relations/money/debtor
+  item: people/eleazar-goyette
+- 
+  type: relations/parental/brosis
+  item: people/miss-maritza-armstrong-iii
+- 
+  type: relations/parental/friend
+  item: people/matilde-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/herta-predovic
+- 
+  type: relations/parental/friend
+  item: people/jakayla-schneider
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/debtor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

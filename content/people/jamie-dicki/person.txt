@@ -1,0 +1,64 @@
+Title: Jamie Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/janick-ward-dds
+- 
+  type: relations/parental/friend
+  item: people/kobe-wiegand
+- 
+  type: relations/parental/colleague
+  item: people/mr-alfred-weber
+- 
+  type: relations/parental/mom
+  item: people/lorna-langosh
+- 
+  type: relations/parental/brosis
+  item: people/howell-schmidt-dvm
+- 
+  type: relations/money/creditor
+  item: people/lawrence-stokes
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/creditor
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

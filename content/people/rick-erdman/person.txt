@@ -1,0 +1,64 @@
+Title: Rick Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/emmalee-kautzer
+- 
+  type: relations/parental/colleague
+  item: people/deja-cole
+- 
+  type: relations/parental/dad
+  item: people/miss-reina-quitzon
+- 
+  type: relations/parental/friend
+  item: people/lillie-davis
+- 
+  type: relations/parental/friend
+  item: people/prof-david-bruen-phd
+- 
+  type: relations/money/debtor
+  item: people/nikko-zulauf
+- 
+  type: relations/work/employer
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/work/employer
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Kenton Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/name-roberts
+- 
+  type: relations/money/creditor
+  item: people/adrienne-hills
+- 
+  type: relations/money/creditor
+  item: people/ezequiel-ondricka-i
+- 
+  type: relations/parental/dad
+  item: people/jeanie-ritchie
+- 
+  type: relations/parental/dad
+  item: people/mr-hilbert-dubuque
+- 
+  type: relations/parental/dad
+  item: people/terrence-schneider
+- 
+  type: relations/work/employer
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

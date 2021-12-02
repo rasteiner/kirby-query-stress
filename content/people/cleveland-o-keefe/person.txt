@@ -1,0 +1,64 @@
+Title: Cleveland O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/money/creditor
+  item: people/mara-johnson-dds
+- 
+  type: relations/parental/brosis
+  item: people/mrs-breanne-frami-iv
+- 
+  type: relations/parental/brosis
+  item: people/carolina-ankunding
+- 
+  type: relations/parental/colleague
+  item: people/deontae-hodkiewicz
+- 
+  type: relations/parental/colleague
+  item: people/dr-myrl-feil
+- 
+  type: relations/work/client
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/weber-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/money/debtor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

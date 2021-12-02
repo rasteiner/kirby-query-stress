@@ -1,0 +1,64 @@
+Title: Enos Wiegand II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/adrain-leuschke
+- 
+  type: relations/money/creditor
+  item: people/dr-adam-muller-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-vito-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/dr-hollie-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/dr-bulah-kirlin
+- 
+  type: relations/money/creditor
+  item: people/dr-creola-kohler-iii
+- 
+  type: relations/work/employer
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

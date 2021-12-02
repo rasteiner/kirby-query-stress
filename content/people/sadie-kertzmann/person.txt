@@ -1,0 +1,64 @@
+Title: Sadie Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dolly-hickle
+- 
+  type: relations/parental/colleague
+  item: people/dr-ivy-herman
+- 
+  type: relations/parental/brosis
+  item: people/theresa-orn
+- 
+  type: relations/money/debtor
+  item: people/precious-cruickshank
+- 
+  type: relations/parental/friend
+  item: people/imelda-kihn
+- 
+  type: relations/parental/colleague
+  item: people/dr-allen-hodkiewicz-ii
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Alessandra Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/keenan-collier
+- 
+  type: relations/parental/brosis
+  item: people/omari-ledner
+- 
+  type: relations/money/debtor
+  item: people/prof-darwin-wisozk
+- 
+  type: relations/money/debtor
+  item: people/mrs-joana-olson-sr
+- 
+  type: relations/parental/friend
+  item: people/hilario-spinka-dds
+- 
+  type: relations/parental/colleague
+  item: people/rosamond-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

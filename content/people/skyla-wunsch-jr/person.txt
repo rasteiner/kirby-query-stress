@@ -1,0 +1,64 @@
+Title: Skyla Wunsch Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-daren-rodriguez-jr
+- 
+  type: relations/money/creditor
+  item: people/tomasa-fay
+- 
+  type: relations/parental/dad
+  item: people/alessandro-reynolds
+- 
+  type: relations/parental/dad
+  item: people/walton-frami
+- 
+  type: relations/money/creditor
+  item: people/brandt-jacobs
+- 
+  type: relations/parental/brosis
+  item: people/prof-clotilde-kunde
+- 
+  type: relations/work/employer
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/employer
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

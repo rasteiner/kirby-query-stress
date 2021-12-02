@@ -1,0 +1,64 @@
+Title: Gregory Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/angela-tremblay-ii
+- 
+  type: relations/parental/mom
+  item: people/alanna-franecki
+- 
+  type: relations/parental/brosis
+  item: people/ms-jodie-blanda-dds
+- 
+  type: relations/parental/colleague
+  item: people/mr-jennings-o-conner
+- 
+  type: relations/parental/colleague
+  item: people/jamie-mante
+- 
+  type: relations/parental/friend
+  item: people/dr-carolyn-prosacco
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/employer
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

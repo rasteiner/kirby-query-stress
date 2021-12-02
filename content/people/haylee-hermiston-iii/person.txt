@@ -1,0 +1,64 @@
+Title: Haylee Hermiston III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brock-windler
+- 
+  type: relations/money/creditor
+  item: people/raleigh-douglas
+- 
+  type: relations/money/creditor
+  item: people/lonny-kovacek
+- 
+  type: relations/money/debtor
+  item: people/mr-felton-wuckert-iii
+- 
+  type: relations/money/debtor
+  item: people/mr-junius-keeling-iii
+- 
+  type: relations/parental/dad
+  item: people/jerel-ratke
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/client
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

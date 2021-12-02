@@ -1,0 +1,43 @@
+Title: Hoppe Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/money/creditor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/creditor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/new-donnie
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire

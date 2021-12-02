@@ -1,0 +1,64 @@
+Title: Jerry Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/enrico-ullrich-v
+- 
+  type: relations/parental/friend
+  item: people/juston-wintheiser-phd
+- 
+  type: relations/parental/colleague
+  item: people/cassidy-cole
+- 
+  type: relations/parental/mom
+  item: people/curt-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/stephon-mertz
+- 
+  type: relations/money/creditor
+  item: people/earnest-grimes
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

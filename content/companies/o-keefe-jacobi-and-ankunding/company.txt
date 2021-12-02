@@ -1,0 +1,43 @@
+Title: O'Keefe, Jacobi and Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/south-bridie

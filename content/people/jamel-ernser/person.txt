@@ -1,0 +1,64 @@
+Title: Jamel Ernser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-louisa-conroy
+- 
+  type: relations/parental/mom
+  item: people/mr-jamison-schimmel
+- 
+  type: relations/money/creditor
+  item: people/darrell-abshire
+- 
+  type: relations/money/creditor
+  item: people/emelia-cruickshank
+- 
+  type: relations/parental/dad
+  item: people/cary-robel
+- 
+  type: relations/money/creditor
+  item: people/dr-mozell-terry
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

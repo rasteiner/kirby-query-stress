@@ -1,0 +1,64 @@
+Title: Justus Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/omari-paucek
+- 
+  type: relations/parental/colleague
+  item: people/jeromy-bosco
+- 
+  type: relations/parental/mom
+  item: people/dr-garry-lemke-v
+- 
+  type: relations/parental/brosis
+  item: people/simeon-gusikowski
+- 
+  type: relations/parental/dad
+  item: people/carissa-deckow
+- 
+  type: relations/parental/mom
+  item: people/franco-skiles-dds
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

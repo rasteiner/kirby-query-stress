@@ -1,0 +1,64 @@
+Title: Judah Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-anibal-schimmel-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-guido-thompson
+- 
+  type: relations/money/creditor
+  item: people/danny-luettgen
+- 
+  type: relations/money/debtor
+  item: people/miss-grace-durgan
+- 
+  type: relations/money/creditor
+  item: people/mr-nathanael-douglas-sr
+- 
+  type: relations/money/creditor
+  item: people/eriberto-rippin
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/employer
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

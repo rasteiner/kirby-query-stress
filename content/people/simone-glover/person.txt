@@ -1,0 +1,64 @@
+Title: Simone Glover
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/charity-mante
+- 
+  type: relations/money/creditor
+  item: people/prof-yolanda-kutch-dds
+- 
+  type: relations/money/debtor
+  item: people/kaitlyn-zboncak
+- 
+  type: relations/money/debtor
+  item: people/miss-alvena-franecki
+- 
+  type: relations/money/creditor
+  item: people/madilyn-d-amore
+- 
+  type: relations/parental/mom
+  item: people/miss-scarlett-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/work/client
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/client
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Mrs. Madge Stiedemann Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/chelsey-sanford
+- 
+  type: relations/parental/brosis
+  item: people/susanna-strosin-iv
+- 
+  type: relations/money/debtor
+  item: people/alvina-bernier
+- 
+  type: relations/parental/mom
+  item: people/rudolph-koch
+- 
+  type: relations/money/debtor
+  item: people/dr-lucius-senger
+- 
+  type: relations/parental/brosis
+  item: people/ivah-feeney
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

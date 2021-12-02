@@ -1,0 +1,64 @@
+Title: Treva Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-seth-ebert-jr
+- 
+  type: relations/parental/colleague
+  item: people/mrs-germaine-tillman
+- 
+  type: relations/parental/friend
+  item: people/miss-edna-konopelski
+- 
+  type: relations/parental/dad
+  item: people/rudy-conn
+- 
+  type: relations/parental/dad
+  item: people/alexandro-ward
+- 
+  type: relations/parental/dad
+  item: people/mandy-kilback
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

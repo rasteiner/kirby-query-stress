@@ -1,0 +1,64 @@
+Title: Dr. Omer Schroeder Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/hellen-homenick
+- 
+  type: relations/parental/dad
+  item: people/freeda-lockman
+- 
+  type: relations/money/creditor
+  item: people/tamara-ledner-dds
+- 
+  type: relations/money/creditor
+  item: people/freeda-cormier-dds
+- 
+  type: relations/money/debtor
+  item: people/zander-schuppe
+- 
+  type: relations/parental/friend
+  item: people/tess-bednar-phd
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

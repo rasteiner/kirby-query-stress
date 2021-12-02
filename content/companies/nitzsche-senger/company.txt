@@ -1,0 +1,43 @@
+Title: Nitzsche-Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth

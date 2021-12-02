@@ -1,0 +1,64 @@
+Title: Mr. Scottie Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/caroline-halvorson
+- 
+  type: relations/money/creditor
+  item: people/mr-kenton-rosenbaum-md
+- 
+  type: relations/money/debtor
+  item: people/angela-tremblay-ii
+- 
+  type: relations/money/creditor
+  item: people/alanna-franecki
+- 
+  type: relations/parental/colleague
+  item: people/ms-jodie-blanda-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-jennings-o-conner
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

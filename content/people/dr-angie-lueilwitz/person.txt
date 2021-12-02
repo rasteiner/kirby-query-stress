@@ -1,0 +1,64 @@
+Title: Dr. Angie Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/karley-hyatt
+- 
+  type: relations/parental/mom
+  item: people/kasey-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/nikki-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/ms-lindsay-von
+- 
+  type: relations/money/creditor
+  item: people/mireille-schumm
+- 
+  type: relations/parental/colleague
+  item: people/miss-carole-zboncak-v
+- 
+  type: relations/work/client
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

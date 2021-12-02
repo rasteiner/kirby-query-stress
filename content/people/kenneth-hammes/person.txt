@@ -1,0 +1,64 @@
+Title: Kenneth Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-tyson-o-conner-md
+- 
+  type: relations/money/debtor
+  item: people/zetta-heathcote
+- 
+  type: relations/parental/mom
+  item: people/gerardo-yundt
+- 
+  type: relations/money/debtor
+  item: people/delfina-ward
+- 
+  type: relations/parental/colleague
+  item: people/armand-kreiger-i
+- 
+  type: relations/parental/mom
+  item: people/mr-amos-leuschke-ii
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/work/employer
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/parker-pagac
+- 
+  type: relations/work/client
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

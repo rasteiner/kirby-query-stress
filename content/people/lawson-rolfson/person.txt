@@ -1,0 +1,64 @@
+Title: Lawson Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cora-parker
+- 
+  type: relations/parental/brosis
+  item: people/garry-sanford
+- 
+  type: relations/parental/dad
+  item: people/linnie-orn-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-madelynn-koepp-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-franz-rohan
+- 
+  type: relations/money/creditor
+  item: people/prof-baylee-hauck-md
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/creditor
+  item: companies/hackett-inc
+- 
+  type: relations/work/client
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

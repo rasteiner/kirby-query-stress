@@ -1,0 +1,64 @@
+Title: Roy Hettinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kayley-gutkowski
+- 
+  type: relations/parental/dad
+  item: people/mrs-jude-stroman-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-jennings-keebler
+- 
+  type: relations/parental/brosis
+  item: people/leonie-bayer
+- 
+  type: relations/parental/friend
+  item: people/dr-nickolas-hand-ii
+- 
+  type: relations/parental/brosis
+  item: people/telly-pouros
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-group
+- 
+  type: relations/work/client
+  item: companies/prohaska-group
+- 
+  type: relations/money/creditor
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/work/employer
+  item: companies/schmeler-conn
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

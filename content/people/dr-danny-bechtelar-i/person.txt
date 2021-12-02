@@ -1,0 +1,64 @@
+Title: Dr. Danny Bechtelar I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jodie-green
+- 
+  type: relations/money/debtor
+  item: people/prof-donavon-kessler
+- 
+  type: relations/money/debtor
+  item: people/miss-shania-johns
+- 
+  type: relations/money/debtor
+  item: people/mr-lee-bruen
+- 
+  type: relations/money/creditor
+  item: people/unique-rempel-iv
+- 
+  type: relations/parental/friend
+  item: people/prof-rasheed-o-hara-iii
+- 
+  type: relations/work/employer
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/client
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/work/employer
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

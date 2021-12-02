@@ -1,0 +1,64 @@
+Title: Dr. Rowan Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kathlyn-nolan
+- 
+  type: relations/parental/dad
+  item: people/mrs-haylie-streich-sr
+- 
+  type: relations/money/creditor
+  item: people/payton-toy
+- 
+  type: relations/parental/friend
+  item: people/arnaldo-bernier
+- 
+  type: relations/parental/mom
+  item: people/murray-koss
+- 
+  type: relations/parental/brosis
+  item: people/martin-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

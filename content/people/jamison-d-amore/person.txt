@@ -1,0 +1,64 @@
+Title: Jamison D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/deangelo-stroman
+- 
+  type: relations/parental/brosis
+  item: people/prof-dewayne-yundt-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-velda-cruickshank
+- 
+  type: relations/parental/colleague
+  item: people/mr-mekhi-waters-dds
+- 
+  type: relations/parental/friend
+  item: people/caleigh-hessel
+- 
+  type: relations/parental/mom
+  item: people/kaelyn-abshire
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/work/employer
+  item: companies/lindgren-group
+- 
+  type: relations/money/creditor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,43 @@
+Title: Marvin, Gulgowski and Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/money/debtor
+  item: companies/hand-schuster
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/kuhicborough

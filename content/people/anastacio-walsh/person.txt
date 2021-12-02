@@ -1,0 +1,64 @@
+Title: Anastacio Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/louisa-kunde
+- 
+  type: relations/parental/colleague
+  item: people/mrs-marcia-borer-i
+- 
+  type: relations/parental/mom
+  item: people/adriel-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/colleague
+  item: people/dr-heidi-hessel
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/client
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

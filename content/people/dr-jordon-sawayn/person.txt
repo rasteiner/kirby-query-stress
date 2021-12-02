@@ -1,0 +1,65 @@
+Title: Dr. Jordon Sawayn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-kristy-kuhic
+- 
+  type: relations/parental/friend
+  item: people/prof-penelope-trantow-jr
+- 
+  type: relations/parental/friend
+  item: people/houston-donnelly
+- 
+  type: relations/parental/friend
+  item: people/cecil-hilpert
+- 
+  type: relations/parental/mom
+  item: people/mr-raul-torphy
+- 
+  type: relations/parental/mom
+  item: people/kianna-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/client
+  item: companies/bogan-mertz
+- 
+  type: relations/work/client
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

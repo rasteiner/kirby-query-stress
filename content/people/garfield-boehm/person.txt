@@ -1,0 +1,65 @@
+Title: Garfield Boehm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dessie-streich-i
+- 
+  type: relations/parental/friend
+  item: people/jayson-corkery
+- 
+  type: relations/parental/friend
+  item: people/hailee-zieme
+- 
+  type: relations/parental/friend
+  item: people/nina-hodkiewicz
+- 
+  type: relations/parental/mom
+  item: people/claire-jacobs
+- 
+  type: relations/parental/dad
+  item: people/allie-parisian
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

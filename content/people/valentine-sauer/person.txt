@@ -1,0 +1,64 @@
+Title: Valentine Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/parental/mom
+  item: people/catherine-waters
+- 
+  type: relations/parental/brosis
+  item: people/prof-santa-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/mrs-kenya-tremblay
+- 
+  type: relations/parental/mom
+  item: people/prof-adonis-kassulke
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/client
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

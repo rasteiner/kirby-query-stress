@@ -1,0 +1,64 @@
+Title: Rogers Powlowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/daryl-schinner
+- 
+  type: relations/money/debtor
+  item: people/america-leffler
+- 
+  type: relations/parental/colleague
+  item: people/prof-keon-keebler
+- 
+  type: relations/parental/dad
+  item: people/chelsey-reinger
+- 
+  type: relations/parental/dad
+  item: people/dr-loraine-wolf-v
+- 
+  type: relations/money/creditor
+  item: people/dr-nayeli-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/client
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/client
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Kyla Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/leonel-runolfsdottir-v
+- 
+  type: relations/parental/dad
+  item: people/joannie-stiedemann
+- 
+  type: relations/parental/brosis
+  item: people/kyla-emmerich
+- 
+  type: relations/parental/colleague
+  item: people/mariana-west
+- 
+  type: relations/money/creditor
+  item: people/miss-jammie-orn-ii
+- 
+  type: relations/parental/dad
+  item: people/kevin-hintz
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/work/employer
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/employer
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,43 @@
+Title: Kunde and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/cremin-durgan
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/north-horace

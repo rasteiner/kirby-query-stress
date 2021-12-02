@@ -1,0 +1,64 @@
+Title: Katelin Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/toy-bergnaum-jr
+- 
+  type: relations/parental/mom
+  item: people/dorcas-collins
+- 
+  type: relations/parental/mom
+  item: people/wilhelmine-boyer
+- 
+  type: relations/money/debtor
+  item: people/hilton-herzog
+- 
+  type: relations/parental/dad
+  item: people/athena-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/eusebio-stark
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/work/client
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

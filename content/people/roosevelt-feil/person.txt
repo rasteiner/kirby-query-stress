@@ -1,0 +1,64 @@
+Title: Roosevelt Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kianna-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/emile-fahey
+- 
+  type: relations/money/debtor
+  item: people/dixie-lesch
+- 
+  type: relations/money/debtor
+  item: people/samir-botsford
+- 
+  type: relations/money/creditor
+  item: people/dr-hugh-lemke
+- 
+  type: relations/parental/brosis
+  item: people/lydia-lehner-md
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/work/client
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/client
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

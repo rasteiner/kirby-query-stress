@@ -1,0 +1,64 @@
+Title: Rick Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jay-kautzer
+- 
+  type: relations/parental/mom
+  item: people/mrs-hermina-yundt-ii
+- 
+  type: relations/parental/brosis
+  item: people/jake-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/jaylen-brown
+- 
+  type: relations/parental/colleague
+  item: people/cleo-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/mr-sedrick-emard
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/work/employer
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

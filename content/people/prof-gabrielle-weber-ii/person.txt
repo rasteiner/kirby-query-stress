@@ -1,0 +1,64 @@
+Title: Prof. Gabrielle Weber II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/maegan-mayer
+- 
+  type: relations/money/debtor
+  item: people/sadie-little
+- 
+  type: relations/parental/colleague
+  item: people/enrico-murray
+- 
+  type: relations/parental/colleague
+  item: people/lennie-hane
+- 
+  type: relations/parental/brosis
+  item: people/dr-brooklyn-pfannerstill
+- 
+  type: relations/parental/brosis
+  item: people/krystel-purdy
+- 
+  type: relations/work/client
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/lehner-sipes
+- 
+  type: relations/work/client
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

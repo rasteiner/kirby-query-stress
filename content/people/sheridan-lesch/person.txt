@@ -1,0 +1,64 @@
+Title: Sheridan Lesch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elouise-gibson
+- 
+  type: relations/parental/brosis
+  item: people/ludie-bosco
+- 
+  type: relations/money/creditor
+  item: people/cora-parker
+- 
+  type: relations/parental/mom
+  item: people/garry-sanford
+- 
+  type: relations/parental/brosis
+  item: people/linnie-orn-jr
+- 
+  type: relations/parental/dad
+  item: people/dr-madelynn-koepp-jr
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/work/employer
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

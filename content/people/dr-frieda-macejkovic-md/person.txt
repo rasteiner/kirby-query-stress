@@ -1,0 +1,64 @@
+Title: Dr. Frieda Macejkovic MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rocio-mann-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-jaeden-mraz
+- 
+  type: relations/parental/dad
+  item: people/prof-vance-blanda
+- 
+  type: relations/money/debtor
+  item: people/abbie-hackett
+- 
+  type: relations/money/creditor
+  item: people/arne-hermiston
+- 
+  type: relations/parental/colleague
+  item: people/ms-vernie-franecki-dds
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/creditor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

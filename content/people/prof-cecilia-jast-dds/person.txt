@@ -1,0 +1,64 @@
+Title: Prof. Cecilia Jast DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-maude-hegmann
+- 
+  type: relations/parental/friend
+  item: people/dayana-green
+- 
+  type: relations/parental/dad
+  item: people/kallie-okuneva
+- 
+  type: relations/money/creditor
+  item: people/sadie-schmeler
+- 
+  type: relations/parental/dad
+  item: people/myrtie-thompson
+- 
+  type: relations/money/creditor
+  item: people/junior-reynolds
+- 
+  type: relations/money/creditor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

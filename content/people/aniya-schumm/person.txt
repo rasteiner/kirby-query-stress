@@ -1,0 +1,64 @@
+Title: Aniya Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jaida-klocko
+- 
+  type: relations/parental/dad
+  item: people/prof-finn-bode-jr
+- 
+  type: relations/money/debtor
+  item: people/miss-etha-tromp-phd
+- 
+  type: relations/parental/brosis
+  item: people/jayson-bergstrom
+- 
+  type: relations/parental/colleague
+  item: people/miss-catherine-kuhic
+- 
+  type: relations/money/debtor
+  item: people/annabelle-leffler
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

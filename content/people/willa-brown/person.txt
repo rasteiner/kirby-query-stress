@@ -1,0 +1,64 @@
+Title: Willa Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maximillia-boyer
+- 
+  type: relations/money/debtor
+  item: people/thea-waters-md
+- 
+  type: relations/parental/dad
+  item: people/prof-eliseo-feil-iv
+- 
+  type: relations/parental/brosis
+  item: people/miss-reva-rutherford-phd
+- 
+  type: relations/money/creditor
+  item: people/wyman-zulauf-ii
+- 
+  type: relations/parental/colleague
+  item: people/patrick-langworth
+- 
+  type: relations/money/debtor
+  item: companies/collins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

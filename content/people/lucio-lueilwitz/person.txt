@@ -1,0 +1,64 @@
+Title: Lucio Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jarrod-bahringer
+- 
+  type: relations/money/debtor
+  item: people/trudie-greenholt-jr
+- 
+  type: relations/parental/brosis
+  item: people/ernesto-daniel
+- 
+  type: relations/parental/friend
+  item: people/prof-raymond-robel-ii
+- 
+  type: relations/parental/friend
+  item: people/dr-bud-nienow
+- 
+  type: relations/money/debtor
+  item: people/mr-alejandrin-hilpert-sr
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/client
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

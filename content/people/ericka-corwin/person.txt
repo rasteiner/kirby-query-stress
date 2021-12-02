@@ -1,0 +1,64 @@
+Title: Ericka Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kailyn-casper
+- 
+  type: relations/money/debtor
+  item: people/joany-kihn
+- 
+  type: relations/parental/colleague
+  item: people/florence-ortiz
+- 
+  type: relations/parental/mom
+  item: people/elyssa-hermann
+- 
+  type: relations/parental/friend
+  item: people/alejandra-muller
+- 
+  type: relations/parental/mom
+  item: people/ms-gina-hirthe
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

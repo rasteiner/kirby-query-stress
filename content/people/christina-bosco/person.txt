@@ -1,0 +1,64 @@
+Title: Christina Bosco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-alejandra-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/serena-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/tatyana-windler
+- 
+  type: relations/money/creditor
+  item: people/alberta-braun
+- 
+  type: relations/parental/brosis
+  item: people/prof-name-koss
+- 
+  type: relations/parental/mom
+  item: people/heber-parisian
+- 
+  type: relations/money/debtor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

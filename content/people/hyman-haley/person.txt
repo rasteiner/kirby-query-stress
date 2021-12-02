@@ -1,0 +1,64 @@
+Title: Hyman Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-anthony-gutkowski-phd
+- 
+  type: relations/parental/dad
+  item: people/beverly-abshire
+- 
+  type: relations/money/creditor
+  item: people/prof-drew-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/jordan-bernier
+- 
+  type: relations/parental/colleague
+  item: people/ms-kianna-mckenzie-iv
+- 
+  type: relations/parental/colleague
+  item: people/amir-marks
+- 
+  type: relations/work/client
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/gibson-llc
+- 
+  type: relations/work/client
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

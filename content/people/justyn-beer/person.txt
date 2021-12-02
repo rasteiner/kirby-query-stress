@@ -1,0 +1,64 @@
+Title: Justyn Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/andres-fay
+- 
+  type: relations/money/debtor
+  item: people/imogene-feest
+- 
+  type: relations/parental/mom
+  item: people/cathrine-morar
+- 
+  type: relations/parental/friend
+  item: people/golden-hirthe
+- 
+  type: relations/parental/mom
+  item: people/prof-genevieve-braun
+- 
+  type: relations/money/creditor
+  item: people/luna-o-conner-ii
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/client
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/client
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

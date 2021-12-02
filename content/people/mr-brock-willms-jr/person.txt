@@ -1,0 +1,64 @@
+Title: Mr. Brock Willms Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elouise-sawayn
+- 
+  type: relations/parental/brosis
+  item: people/kiera-shields
+- 
+  type: relations/parental/dad
+  item: people/deion-hodkiewicz
+- 
+  type: relations/parental/colleague
+  item: people/dr-santa-turner
+- 
+  type: relations/parental/dad
+  item: people/willa-leffler
+- 
+  type: relations/parental/friend
+  item: people/enoch-hills-ii
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

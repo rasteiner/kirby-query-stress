@@ -1,0 +1,64 @@
+Title: Dr. Roscoe Abernathy DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/rory-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/mr-darius-rogahn
+- 
+  type: relations/money/debtor
+  item: people/marquis-orn
+- 
+  type: relations/parental/dad
+  item: people/gabriel-mcdermott
+- 
+  type: relations/parental/brosis
+  item: people/felicita-deckow
+- 
+  type: relations/parental/mom
+  item: people/grant-schaden-phd
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/employer
+  item: companies/mills-wyman
+- 
+  type: relations/work/employer
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

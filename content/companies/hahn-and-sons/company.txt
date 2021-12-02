@@ -1,0 +1,43 @@
+Title: Hahn and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/money/debtor
+  item: companies/morar-connelly
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/money/creditor
+  item: companies/weber-inc
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Tre Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-hilbert-dubuque
+- 
+  type: relations/money/debtor
+  item: people/terrence-schneider
+- 
+  type: relations/money/debtor
+  item: people/elda-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/ronaldo-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/jaquelin-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/arch-abernathy
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

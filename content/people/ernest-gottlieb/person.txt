@@ -1,0 +1,64 @@
+Title: Ernest Gottlieb
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/wilbert-krajcik
+- 
+  type: relations/parental/friend
+  item: people/alvera-quitzon
+- 
+  type: relations/parental/friend
+  item: people/ms-lily-maggio
+- 
+  type: relations/parental/colleague
+  item: people/tracey-ebert-sr
+- 
+  type: relations/parental/mom
+  item: people/declan-kuhic-v
+- 
+  type: relations/money/debtor
+  item: people/miss-kirstin-nolan
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

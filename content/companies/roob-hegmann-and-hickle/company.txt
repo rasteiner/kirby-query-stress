@@ -1,0 +1,43 @@
+Title: Roob, Hegmann and Hickle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/laronview

@@ -1,0 +1,64 @@
+Title: Jarret Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/freddie-hammes-md
+- 
+  type: relations/money/creditor
+  item: people/danielle-mayert
+- 
+  type: relations/parental/mom
+  item: people/ms-dorothy-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: people/dr-christ-cole
+- 
+  type: relations/parental/friend
+  item: people/prof-peyton-gaylord-jr
+- 
+  type: relations/parental/mom
+  item: people/miss-brandy-shields
+- 
+  type: relations/money/creditor
+  item: companies/becker-schuppe
+- 
+  type: relations/work/employer
+  item: companies/mante-plc
+- 
+  type: relations/work/employer
+  item: companies/ruecker-llc
+- 
+  type: relations/money/debtor
+  item: companies/kunde-llc
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

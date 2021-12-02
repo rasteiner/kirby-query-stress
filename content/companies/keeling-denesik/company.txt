@@ -1,0 +1,43 @@
+Title: Keeling-Denesik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/creditor
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/littel-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/north-horace

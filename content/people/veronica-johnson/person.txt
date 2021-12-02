@@ -1,0 +1,64 @@
+Title: Veronica Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/bradford-hansen
+- 
+  type: relations/money/creditor
+  item: people/delia-hirthe
+- 
+  type: relations/parental/dad
+  item: people/german-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/evelyn-brekke
+- 
+  type: relations/parental/mom
+  item: people/jonathan-considine-v
+- 
+  type: relations/parental/friend
+  item: people/dixie-carroll
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/work/employer
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

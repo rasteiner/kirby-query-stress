@@ -1,0 +1,64 @@
+Title: Aric Runte MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/newell-berge
+- 
+  type: relations/money/creditor
+  item: people/miss-thora-gutmann-md
+- 
+  type: relations/parental/mom
+  item: people/gwen-brekke
+- 
+  type: relations/parental/dad
+  item: people/alvena-towne
+- 
+  type: relations/money/debtor
+  item: people/katrine-nikolaus-ii
+- 
+  type: relations/parental/mom
+  item: people/alisa-conroy
+- 
+  type: relations/work/client
+  item: companies/sporer-will
+- 
+  type: relations/work/client
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/work/employer
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,65 @@
+Title: Faye Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lucius-senger
+- 
+  type: relations/money/debtor
+  item: people/ivah-feeney
+- 
+  type: relations/money/creditor
+  item: people/micah-stokes
+- 
+  type: relations/parental/colleague
+  item: people/laurine-spinka
+- 
+  type: relations/money/creditor
+  item: people/annetta-swift
+- 
+  type: relations/parental/brosis
+  item: people/billy-king
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/client
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

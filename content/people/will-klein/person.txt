@@ -1,0 +1,64 @@
+Title: Will Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rudolph-toy
+- 
+  type: relations/money/debtor
+  item: people/chaim-denesik-ii
+- 
+  type: relations/money/debtor
+  item: people/thurman-collier-sr
+- 
+  type: relations/money/creditor
+  item: people/melody-smith-sr
+- 
+  type: relations/parental/mom
+  item: people/gloria-lebsack-ii
+- 
+  type: relations/money/creditor
+  item: people/marcelle-kuhlman
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/work/client
+  item: companies/o-kon-ltd
+- 
+  type: relations/work/employer
+  item: companies/collier-plc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Gilda Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shaylee-funk
+- 
+  type: relations/parental/mom
+  item: people/will-fay
+- 
+  type: relations/parental/brosis
+  item: people/bert-rodriguez-md
+- 
+  type: relations/money/debtor
+  item: people/megane-collier
+- 
+  type: relations/money/creditor
+  item: people/mattie-hackett
+- 
+  type: relations/money/creditor
+  item: people/dr-zakary-farrell-dvm
+- 
+  type: relations/money/creditor
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

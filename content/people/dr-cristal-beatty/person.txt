@@ -1,0 +1,64 @@
+Title: Dr. Cristal Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/esta-towne
+- 
+  type: relations/money/debtor
+  item: people/dr-ignatius-bradtke
+- 
+  type: relations/money/debtor
+  item: people/cortney-hoeger
+- 
+  type: relations/parental/colleague
+  item: people/tyree-mante
+- 
+  type: relations/parental/dad
+  item: people/alene-ortiz
+- 
+  type: relations/money/creditor
+  item: people/carmel-schinner
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

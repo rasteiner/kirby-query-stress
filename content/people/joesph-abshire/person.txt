@@ -1,0 +1,64 @@
+Title: Joesph Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/genoveva-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/terrell-rosenbaum
+- 
+  type: relations/money/creditor
+  item: people/sierra-mcclure
+- 
+  type: relations/parental/mom
+  item: people/miss-valentina-balistreri
+- 
+  type: relations/money/debtor
+  item: people/monserrate-von
+- 
+  type: relations/parental/friend
+  item: people/dianna-swaniawski
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

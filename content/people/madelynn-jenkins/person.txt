@@ -1,0 +1,64 @@
+Title: Madelynn Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/delmer-hayes
+- 
+  type: relations/parental/mom
+  item: people/bart-zboncak
+- 
+  type: relations/money/creditor
+  item: people/reggie-kulas
+- 
+  type: relations/parental/mom
+  item: people/christine-mcglynn
+- 
+  type: relations/money/creditor
+  item: people/colby-streich
+- 
+  type: relations/money/debtor
+  item: people/nikolas-smith
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/employer
+  item: companies/jacobi-inc
+- 
+  type: relations/money/debtor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/employer
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

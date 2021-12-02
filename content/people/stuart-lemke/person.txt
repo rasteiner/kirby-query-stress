@@ -1,0 +1,64 @@
+Title: Stuart Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miller-metz
+- 
+  type: relations/money/debtor
+  item: people/ms-thelma-bernhard-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-mervin-lakin
+- 
+  type: relations/money/debtor
+  item: people/sherwood-vandervort
+- 
+  type: relations/parental/dad
+  item: people/serenity-denesik
+- 
+  type: relations/parental/friend
+  item: people/miss-rubie-wilderman-jr
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,43 @@
+Title: Kovacek LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/carmineshire
+- 
+  type: relations/location/residence
+  item: places/jerrytown

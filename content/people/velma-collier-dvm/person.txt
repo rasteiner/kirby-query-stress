@@ -1,0 +1,64 @@
+Title: Velma Collier DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/devin-deckow-v
+- 
+  type: relations/money/debtor
+  item: people/dino-pagac
+- 
+  type: relations/money/debtor
+  item: people/johnny-kulas
+- 
+  type: relations/parental/brosis
+  item: people/hailie-pfeffer
+- 
+  type: relations/parental/friend
+  item: people/gaston-prosacco
+- 
+  type: relations/money/debtor
+  item: people/kelley-krajcik
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/work/employer
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/mann-gutmann
+- 
+  type: relations/work/client
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

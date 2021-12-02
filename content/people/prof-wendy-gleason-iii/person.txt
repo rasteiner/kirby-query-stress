@@ -1,0 +1,64 @@
+Title: Prof. Wendy Gleason III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-billy-ferry-md
+- 
+  type: relations/parental/colleague
+  item: people/prof-stefanie-gulgowski-md
+- 
+  type: relations/money/creditor
+  item: people/chadrick-buckridge
+- 
+  type: relations/parental/mom
+  item: people/gus-braun
+- 
+  type: relations/parental/colleague
+  item: people/mrs-gabriella-stanton
+- 
+  type: relations/parental/brosis
+  item: people/dortha-purdy
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

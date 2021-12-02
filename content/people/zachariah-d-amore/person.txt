@@ -1,0 +1,64 @@
+Title: Zachariah D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-syble-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/vada-hilll
+- 
+  type: relations/parental/brosis
+  item: people/dr-tyrel-hane-sr
+- 
+  type: relations/parental/friend
+  item: people/lesley-wilderman
+- 
+  type: relations/parental/brosis
+  item: people/chelsie-hessel
+- 
+  type: relations/parental/brosis
+  item: people/dr-providenci-toy
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Mr. Turner Langworth DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-seth-gutkowski
+- 
+  type: relations/parental/dad
+  item: people/dave-quigley-sr
+- 
+  type: relations/parental/dad
+  item: people/braxton-smith
+- 
+  type: relations/parental/dad
+  item: people/maud-labadie
+- 
+  type: relations/money/creditor
+  item: people/jan-runolfsson
+- 
+  type: relations/parental/friend
+  item: people/maxie-price
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/work/employer
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Dr. Daisy Sanford DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/glennie-rowe
+- 
+  type: relations/parental/dad
+  item: people/vallie-franecki
+- 
+  type: relations/money/debtor
+  item: people/alyson-cummings-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-sharon-hammes
+- 
+  type: relations/parental/dad
+  item: people/carmelo-d-amore
+- 
+  type: relations/money/creditor
+  item: people/deonte-hagenes
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/client
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Rubie Russel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/alia-zboncak
+- 
+  type: relations/parental/mom
+  item: people/abigail-daniel
+- 
+  type: relations/parental/brosis
+  item: people/marjolaine-bode-v
+- 
+  type: relations/parental/friend
+  item: people/mr-jarret-wyman
+- 
+  type: relations/money/creditor
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/work/client
+  item: companies/brown-group
+- 
+  type: relations/work/client
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Sylvester Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elinore-kulas
+- 
+  type: relations/money/creditor
+  item: people/koby-rempel
+- 
+  type: relations/parental/dad
+  item: people/haven-kiehn
+- 
+  type: relations/parental/colleague
+  item: people/prof-marco-walker
+- 
+  type: relations/parental/dad
+  item: people/mr-darrell-d-amore
+- 
+  type: relations/parental/mom
+  item: people/cecilia-purdy
+- 
+  type: relations/work/employer
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/employer
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/client
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

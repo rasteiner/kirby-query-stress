@@ -1,0 +1,65 @@
+Title: Elmer Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/consuelo-o-connell
+- 
+  type: relations/parental/mom
+  item: people/dr-reba-dicki-jr
+- 
+  type: relations/parental/dad
+  item: people/hayley-stehr
+- 
+  type: relations/parental/dad
+  item: people/princess-romaguera
+- 
+  type: relations/money/creditor
+  item: people/gardner-king-iv
+- 
+  type: relations/parental/colleague
+  item: people/elyse-reichert
+- 
+  type: relations/money/creditor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/creditor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/employer
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Mr. Werner Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/roel-dicki-jr
+- 
+  type: relations/parental/colleague
+  item: people/destinee-kutch
+- 
+  type: relations/parental/mom
+  item: people/prof-joy-cronin
+- 
+  type: relations/parental/colleague
+  item: people/shawn-goyette
+- 
+  type: relations/money/debtor
+  item: people/brice-beier
+- 
+  type: relations/money/debtor
+  item: people/thea-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/creditor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

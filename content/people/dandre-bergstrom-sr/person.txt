@@ -1,0 +1,64 @@
+Title: Dandre Bergstrom Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/joelle-bernhard
+- 
+  type: relations/parental/mom
+  item: people/dayton-rempel
+- 
+  type: relations/parental/colleague
+  item: people/ludwig-wehner
+- 
+  type: relations/parental/friend
+  item: people/cheyanne-wuckert
+- 
+  type: relations/parental/friend
+  item: people/zack-abbott
+- 
+  type: relations/parental/colleague
+  item: people/mafalda-cormier
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/employer
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

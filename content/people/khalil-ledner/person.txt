@@ -1,0 +1,64 @@
+Title: Khalil Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lolita-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/graham-ruecker
+- 
+  type: relations/money/creditor
+  item: people/angela-wuckert-dvm
+- 
+  type: relations/money/creditor
+  item: people/dulce-hackett
+- 
+  type: relations/money/creditor
+  item: people/fausto-schultz
+- 
+  type: relations/parental/brosis
+  item: people/camden-bailey-dds
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/money/debtor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/davis-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

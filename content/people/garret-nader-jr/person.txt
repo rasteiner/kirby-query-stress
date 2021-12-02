@@ -1,0 +1,64 @@
+Title: Garret Nader Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-immanuel-bartell
+- 
+  type: relations/money/debtor
+  item: people/riley-lakin
+- 
+  type: relations/money/creditor
+  item: people/vinnie-lemke
+- 
+  type: relations/parental/mom
+  item: people/kenyon-kilback-dvm
+- 
+  type: relations/money/creditor
+  item: people/muhammad-dare
+- 
+  type: relations/money/creditor
+  item: people/glenda-bruen-sr
+- 
+  type: relations/work/employer
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

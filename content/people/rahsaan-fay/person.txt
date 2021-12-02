@@ -1,0 +1,64 @@
+Title: Rahsaan Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jaden-bergnaum
+- 
+  type: relations/parental/mom
+  item: people/zoila-dach-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-mia-wuckert
+- 
+  type: relations/parental/friend
+  item: people/princess-abernathy
+- 
+  type: relations/parental/colleague
+  item: people/ayden-bogisich-md
+- 
+  type: relations/parental/dad
+  item: people/dr-lauretta-beatty
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/employer
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Mr. Blaze Heidenreich I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jarred-kirlin
+- 
+  type: relations/parental/mom
+  item: people/kendrick-adams
+- 
+  type: relations/money/creditor
+  item: people/dr-cindy-ratke
+- 
+  type: relations/money/creditor
+  item: people/jarret-shields
+- 
+  type: relations/money/debtor
+  item: people/christa-dooley
+- 
+  type: relations/money/creditor
+  item: people/prof-bennie-padberg
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

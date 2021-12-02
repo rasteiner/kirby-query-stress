@@ -1,0 +1,44 @@
+Title: Hagenes and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-lehner
+- 
+  type: relations/money/debtor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/becker-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/consueloberg

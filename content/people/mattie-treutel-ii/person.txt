@@ -1,0 +1,64 @@
+Title: Mattie Treutel II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/abigail-cormier
+- 
+  type: relations/parental/dad
+  item: people/marilie-wintheiser-iv
+- 
+  type: relations/money/creditor
+  item: people/earnestine-schultz
+- 
+  type: relations/parental/colleague
+  item: people/ellen-hauck-dds
+- 
+  type: relations/parental/friend
+  item: people/mrs-jazmyne-veum-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-peter-fahey
+- 
+  type: relations/money/creditor
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/client
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

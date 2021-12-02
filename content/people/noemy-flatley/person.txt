@@ -1,0 +1,64 @@
+Title: Noemy Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-angelo-dach-iv
+- 
+  type: relations/parental/mom
+  item: people/robb-weissnat
+- 
+  type: relations/parental/mom
+  item: people/miss-alessia-blanda
+- 
+  type: relations/parental/colleague
+  item: people/reuben-grady
+- 
+  type: relations/parental/mom
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/client
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Prof. Annie Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/arlie-stroman
+- 
+  type: relations/money/debtor
+  item: people/peter-hintz-dds
+- 
+  type: relations/money/creditor
+  item: people/rosario-yundt
+- 
+  type: relations/money/creditor
+  item: people/delores-grady-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-savannah-kassulke
+- 
+  type: relations/parental/brosis
+  item: people/frank-witting
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/client
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/client
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/creditor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Prof. Kirsten Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/piper-ward
+- 
+  type: relations/parental/mom
+  item: people/dr-judson-gleason
+- 
+  type: relations/money/debtor
+  item: people/katharina-halvorson
+- 
+  type: relations/money/creditor
+  item: people/kenneth-sauer
+- 
+  type: relations/parental/friend
+  item: people/felicita-baumbach-sr
+- 
+  type: relations/parental/friend
+  item: people/gilberto-christiansen
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/employer
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

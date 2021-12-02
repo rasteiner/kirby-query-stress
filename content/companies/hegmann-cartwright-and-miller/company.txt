@@ -1,0 +1,43 @@
+Title: Hegmann, Cartwright and Miller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/feest-ltd
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/money/debtor
+  item: companies/nitzsche-senger
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/money/creditor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/debtor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/brayanmouth
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven

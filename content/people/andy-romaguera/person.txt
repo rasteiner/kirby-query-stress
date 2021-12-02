@@ -1,0 +1,64 @@
+Title: Andy Romaguera
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tate-pagac
+- 
+  type: relations/money/debtor
+  item: people/prof-savanna-ankunding-sr
+- 
+  type: relations/money/debtor
+  item: people/carole-dare
+- 
+  type: relations/parental/friend
+  item: people/mr-ricky-robel-v
+- 
+  type: relations/parental/dad
+  item: people/mr-arnaldo-dach-md
+- 
+  type: relations/money/debtor
+  item: people/deshawn-mueller-v
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/hintz-fisher
+- 
+  type: relations/work/client
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

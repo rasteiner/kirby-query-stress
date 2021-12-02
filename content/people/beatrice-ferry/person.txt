@@ -1,0 +1,64 @@
+Title: Beatrice Ferry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/coby-murazik-ii
+- 
+  type: relations/parental/dad
+  item: people/mireya-baumbach
+- 
+  type: relations/money/debtor
+  item: people/cyrus-o-kon
+- 
+  type: relations/parental/colleague
+  item: people/maymie-lang
+- 
+  type: relations/parental/mom
+  item: people/beryl-stehr
+- 
+  type: relations/parental/friend
+  item: people/mrs-lola-metz-jr
+- 
+  type: relations/work/employer
+  item: companies/hand-schuster
+- 
+  type: relations/work/employer
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

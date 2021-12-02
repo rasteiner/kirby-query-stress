@@ -1,0 +1,64 @@
+Title: Lonnie Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-solon-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/tierra-beatty
+- 
+  type: relations/parental/dad
+  item: people/khalil-ledner
+- 
+  type: relations/money/creditor
+  item: people/jordyn-abbott
+- 
+  type: relations/money/creditor
+  item: people/maritza-reynolds
+- 
+  type: relations/parental/friend
+  item: people/kayden-lakin-dds
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/employer
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/employer
+  item: companies/blanda-bartell
+- 
+  type: relations/work/client
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

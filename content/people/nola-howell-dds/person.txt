@@ -1,0 +1,64 @@
+Title: Nola Howell DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jonathon-stracke
+- 
+  type: relations/money/debtor
+  item: people/lilliana-johnston-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-leif-hartmann
+- 
+  type: relations/parental/mom
+  item: people/bettye-corkery-dds
+- 
+  type: relations/parental/mom
+  item: people/miss-aurelie-considine-iii
+- 
+  type: relations/parental/colleague
+  item: people/dr-conor-sipes
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/creditor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/debtor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

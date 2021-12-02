@@ -1,0 +1,64 @@
+Title: Rebekah Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kane-lind
+- 
+  type: relations/parental/dad
+  item: people/hope-langworth-sr
+- 
+  type: relations/parental/friend
+  item: people/gage-keebler
+- 
+  type: relations/parental/brosis
+  item: people/freeda-dooley-iii
+- 
+  type: relations/parental/brosis
+  item: people/jerry-streich
+- 
+  type: relations/money/creditor
+  item: people/mr-charles-wunsch
+- 
+  type: relations/work/employer
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

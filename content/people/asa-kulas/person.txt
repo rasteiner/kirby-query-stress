@@ -1,0 +1,64 @@
+Title: Asa Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elenor-west-dvm
+- 
+  type: relations/parental/mom
+  item: people/jeremy-moore
+- 
+  type: relations/parental/colleague
+  item: people/electa-welch
+- 
+  type: relations/money/debtor
+  item: people/mr-will-wolff
+- 
+  type: relations/money/debtor
+  item: people/stephany-nolan
+- 
+  type: relations/parental/mom
+  item: people/mireya-funk
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

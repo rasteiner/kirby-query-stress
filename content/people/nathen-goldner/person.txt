@@ -1,0 +1,64 @@
+Title: Nathen Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/blaise-friesen
+- 
+  type: relations/money/debtor
+  item: people/corrine-lakin-v
+- 
+  type: relations/parental/dad
+  item: people/prof-selmer-homenick-i
+- 
+  type: relations/parental/friend
+  item: people/aniya-schumm
+- 
+  type: relations/money/creditor
+  item: people/anita-gutmann
+- 
+  type: relations/parental/dad
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/employer
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

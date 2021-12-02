@@ -1,0 +1,64 @@
+Title: Selmer Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/branson-pfannerstill
+- 
+  type: relations/parental/brosis
+  item: people/emerald-douglas
+- 
+  type: relations/parental/brosis
+  item: people/dr-trent-kuhn
+- 
+  type: relations/parental/friend
+  item: people/emmy-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/miss-sonia-fay
+- 
+  type: relations/parental/friend
+  item: people/tristian-purdy-iv
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,43 @@
+Title: Reynolds and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/location/visited
+  item: places/kathrynestad
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/west-jamey

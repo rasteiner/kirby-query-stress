@@ -1,0 +1,64 @@
+Title: Prof. Leda Maggio Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ibrahim-carroll
+- 
+  type: relations/parental/brosis
+  item: people/prof-don-dietrich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/casimer-stracke
+- 
+  type: relations/money/debtor
+  item: people/shany-boehm-dvm
+- 
+  type: relations/parental/brosis
+  item: people/ignatius-kreiger
+- 
+  type: relations/parental/friend
+  item: people/dr-benton-fay
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/client
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

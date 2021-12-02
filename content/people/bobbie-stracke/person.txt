@@ -1,0 +1,64 @@
+Title: Bobbie Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mattie-ledner
+- 
+  type: relations/parental/dad
+  item: people/lauretta-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/johanna-mayert
+- 
+  type: relations/parental/mom
+  item: people/deontae-macejkovic
+- 
+  type: relations/parental/colleague
+  item: people/chanelle-hilpert
+- 
+  type: relations/parental/mom
+  item: people/jacey-lowe
+- 
+  type: relations/work/employer
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/employer
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/employer
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

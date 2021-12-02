@@ -1,0 +1,64 @@
+Title: Madisen Tremblay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marjolaine-kulas
+- 
+  type: relations/parental/friend
+  item: people/demetris-ernser-md
+- 
+  type: relations/money/creditor
+  item: people/marilyne-predovic-md
+- 
+  type: relations/parental/dad
+  item: people/dr-garrett-osinski
+- 
+  type: relations/parental/colleague
+  item: people/dr-sonny-altenwerth-v
+- 
+  type: relations/parental/dad
+  item: people/mr-mose-heaney
+- 
+  type: relations/work/employer
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/creditor
+  item: companies/hauck-inc
+- 
+  type: relations/work/employer
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

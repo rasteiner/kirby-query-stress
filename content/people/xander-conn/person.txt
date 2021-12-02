@@ -1,0 +1,64 @@
+Title: Xander Conn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/noelia-wehner-sr
+- 
+  type: relations/money/debtor
+  item: people/louisa-homenick
+- 
+  type: relations/parental/mom
+  item: people/tianna-ortiz
+- 
+  type: relations/parental/dad
+  item: people/brady-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/meghan-adams
+- 
+  type: relations/money/debtor
+  item: people/natalia-marquardt
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/work/client
+  item: companies/hills-inc
+- 
+  type: relations/work/client
+  item: companies/king-plc
+- 
+  type: relations/money/debtor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

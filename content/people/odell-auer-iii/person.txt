@@ -1,0 +1,64 @@
+Title: Odell Auer III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/geo-robel
+- 
+  type: relations/money/creditor
+  item: people/hellen-schamberger
+- 
+  type: relations/money/creditor
+  item: people/sidney-lynch-iv
+- 
+  type: relations/money/creditor
+  item: people/ezra-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/carmine-hirthe
+- 
+  type: relations/money/creditor
+  item: people/antonina-kshlerin
+- 
+  type: relations/work/client
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Colby Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-zachery-douglas-md
+- 
+  type: relations/money/creditor
+  item: people/mark-wolff
+- 
+  type: relations/parental/brosis
+  item: people/clarissa-batz
+- 
+  type: relations/parental/friend
+  item: people/mrs-shaylee-kunde
+- 
+  type: relations/parental/mom
+  item: people/zackary-bayer
+- 
+  type: relations/money/creditor
+  item: people/tyshawn-turcotte
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/client
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

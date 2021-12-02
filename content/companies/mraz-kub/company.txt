@@ -1,0 +1,43 @@
+Title: Mraz-Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-group
+- 
+  type: relations/money/creditor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/port-dale

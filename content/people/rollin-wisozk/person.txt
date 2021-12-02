@@ -1,0 +1,65 @@
+Title: Rollin Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/khalil-ledner
+- 
+  type: relations/parental/mom
+  item: people/jordyn-abbott
+- 
+  type: relations/parental/friend
+  item: people/maritza-reynolds
+- 
+  type: relations/parental/brosis
+  item: people/kayden-lakin-dds
+- 
+  type: relations/parental/brosis
+  item: people/jazmin-russel
+- 
+  type: relations/money/creditor
+  item: people/dr-noble-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/work/client
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

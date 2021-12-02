@@ -1,0 +1,65 @@
+Title: Cristopher Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/berta-ullrich
+- 
+  type: relations/parental/dad
+  item: people/audreanne-dicki
+- 
+  type: relations/parental/mom
+  item: people/mrs-scarlett-harvey-phd
+- 
+  type: relations/parental/colleague
+  item: people/grant-cummings
+- 
+  type: relations/money/debtor
+  item: people/ollie-kunze
+- 
+  type: relations/parental/brosis
+  item: people/palma-dubuque
+- 
+  type: relations/work/client
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/client
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

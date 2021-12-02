@@ -1,0 +1,64 @@
+Title: Alysson Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mona-schamberger
+- 
+  type: relations/parental/mom
+  item: people/quincy-fahey
+- 
+  type: relations/parental/colleague
+  item: people/eudora-torphy
+- 
+  type: relations/parental/mom
+  item: people/helene-bauch
+- 
+  type: relations/parental/friend
+  item: people/watson-hand
+- 
+  type: relations/parental/mom
+  item: people/roxane-predovic
+- 
+  type: relations/work/client
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

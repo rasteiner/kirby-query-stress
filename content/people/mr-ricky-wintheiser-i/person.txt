@@ -1,0 +1,64 @@
+Title: Mr. Ricky Wintheiser I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/thad-bartell
+- 
+  type: relations/money/debtor
+  item: people/aniya-legros
+- 
+  type: relations/parental/brosis
+  item: people/laisha-sipes-i
+- 
+  type: relations/parental/mom
+  item: people/aaron-schneider
+- 
+  type: relations/money/creditor
+  item: people/ms-bernita-gusikowski
+- 
+  type: relations/parental/friend
+  item: people/prof-merl-sipes
+- 
+  type: relations/money/debtor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/client
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/employer
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

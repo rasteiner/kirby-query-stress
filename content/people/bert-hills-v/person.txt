@@ -1,0 +1,64 @@
+Title: Bert Hills V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/riley-wiza
+- 
+  type: relations/parental/friend
+  item: people/jerome-o-connell
+- 
+  type: relations/money/creditor
+  item: people/unique-schiller
+- 
+  type: relations/parental/colleague
+  item: people/thora-bednar-iii
+- 
+  type: relations/parental/colleague
+  item: people/mrs-giovanna-deckow-v
+- 
+  type: relations/money/debtor
+  item: people/rowena-paucek-jr
+- 
+  type: relations/money/creditor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/employer
+  item: companies/schinner-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

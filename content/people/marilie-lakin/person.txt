@@ -1,0 +1,64 @@
+Title: Marilie Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bonnie-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/hallie-howell
+- 
+  type: relations/parental/mom
+  item: people/marge-berge-i
+- 
+  type: relations/money/debtor
+  item: people/dr-janie-windler
+- 
+  type: relations/money/debtor
+  item: people/krystel-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/kenyon-krajcik
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

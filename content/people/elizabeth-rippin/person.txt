@@ -1,0 +1,64 @@
+Title: Elizabeth Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-sabina-beier-dvm
+- 
+  type: relations/parental/colleague
+  item: people/joanne-koch
+- 
+  type: relations/parental/mom
+  item: people/mr-torrey-farrell-jr
+- 
+  type: relations/parental/brosis
+  item: people/eleazar-goyette
+- 
+  type: relations/money/debtor
+  item: people/miss-maritza-armstrong-iii
+- 
+  type: relations/parental/mom
+  item: people/matilde-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

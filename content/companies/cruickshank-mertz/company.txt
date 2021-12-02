@@ -1,0 +1,43 @@
+Title: Cruickshank-Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh

@@ -1,0 +1,65 @@
+Title: Ruthe Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-noah-kovacek-i
+- 
+  type: relations/parental/dad
+  item: people/mr-shayne-dooley
+- 
+  type: relations/parental/friend
+  item: people/prof-guillermo-stokes
+- 
+  type: relations/money/creditor
+  item: people/reece-leannon-iii
+- 
+  type: relations/parental/mom
+  item: people/lucie-schaden
+- 
+  type: relations/parental/brosis
+  item: people/jazmin-klein
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

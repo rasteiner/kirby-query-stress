@@ -1,0 +1,65 @@
+Title: Chanelle Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kattie-prohaska
+- 
+  type: relations/parental/mom
+  item: people/mrs-kavon-pagac-md
+- 
+  type: relations/parental/colleague
+  item: people/esta-towne
+- 
+  type: relations/parental/mom
+  item: people/dr-ignatius-bradtke
+- 
+  type: relations/money/debtor
+  item: people/cortney-hoeger
+- 
+  type: relations/parental/brosis
+  item: people/tyree-mante
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/debtor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

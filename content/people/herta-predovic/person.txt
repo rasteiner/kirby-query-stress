@@ -1,0 +1,64 @@
+Title: Herta Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eudora-rutherford
+- 
+  type: relations/parental/friend
+  item: people/ottis-murray
+- 
+  type: relations/parental/dad
+  item: people/linnie-moore
+- 
+  type: relations/parental/brosis
+  item: people/pat-abernathy
+- 
+  type: relations/parental/colleague
+  item: people/linda-waelchi
+- 
+  type: relations/parental/brosis
+  item: people/prof-emmet-hermann
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

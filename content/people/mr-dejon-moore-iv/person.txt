@@ -1,0 +1,64 @@
+Title: Mr. Dejon Moore IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/manley-hyatt
+- 
+  type: relations/parental/mom
+  item: people/mrs-cierra-lakin-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-isaias-baumbach
+- 
+  type: relations/parental/dad
+  item: people/mckenzie-lehner
+- 
+  type: relations/parental/dad
+  item: people/valerie-armstrong-iii
+- 
+  type: relations/parental/mom
+  item: people/lucy-bradtke
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

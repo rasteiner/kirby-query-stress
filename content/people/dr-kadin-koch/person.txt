@@ -1,0 +1,64 @@
+Title: Dr. Kadin Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lela-reichert
+- 
+  type: relations/parental/friend
+  item: people/dr-stefan-rath
+- 
+  type: relations/parental/friend
+  item: people/ruthie-nitzsche-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-clair-bartell-jr
+- 
+  type: relations/parental/colleague
+  item: people/zena-moen-dvm
+- 
+  type: relations/parental/mom
+  item: people/prof-watson-langworth
+- 
+  type: relations/money/debtor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/employer
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

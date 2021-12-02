@@ -1,0 +1,64 @@
+Title: Miss Arlene Davis DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tyrell-balistreri
+- 
+  type: relations/parental/mom
+  item: people/trever-kuphal
+- 
+  type: relations/parental/dad
+  item: people/justen-carter
+- 
+  type: relations/money/debtor
+  item: people/uriah-graham
+- 
+  type: relations/parental/brosis
+  item: people/ms-aniya-koelpin
+- 
+  type: relations/money/creditor
+  item: people/tracey-monahan
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/client
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

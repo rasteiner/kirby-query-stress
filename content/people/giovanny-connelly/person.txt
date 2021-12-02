@@ -1,0 +1,64 @@
+Title: Giovanny Connelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-jasen-daugherty-ii
+- 
+  type: relations/parental/colleague
+  item: people/brionna-schumm
+- 
+  type: relations/parental/friend
+  item: people/rickey-jakubowski-sr
+- 
+  type: relations/money/creditor
+  item: people/caterina-nikolaus
+- 
+  type: relations/money/debtor
+  item: people/mittie-baumbach-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-abigale-schiller
+- 
+  type: relations/money/creditor
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/work/client
+  item: companies/bayer-group
+- 
+  type: relations/money/debtor
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

@@ -1,0 +1,64 @@
+Title: Meredith Koelpin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/judson-homenick
+- 
+  type: relations/money/debtor
+  item: people/paul-welch
+- 
+  type: relations/money/creditor
+  item: people/kelvin-feeney
+- 
+  type: relations/parental/friend
+  item: people/mr-quentin-kautzer-iii
+- 
+  type: relations/money/debtor
+  item: people/fabiola-wuckert
+- 
+  type: relations/money/debtor
+  item: people/ashlee-rempel
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/client
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Kody Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-delphia-satterfield
+- 
+  type: relations/money/debtor
+  item: people/sibyl-hahn
+- 
+  type: relations/parental/friend
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/money/debtor
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/parental/dad
+  item: people/cleveland-gleichner
+- 
+  type: relations/money/debtor
+  item: people/mrs-enola-hansen-jr
+- 
+  type: relations/work/client
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

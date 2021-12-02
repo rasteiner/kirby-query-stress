@@ -1,0 +1,64 @@
+Title: Caitlyn Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/triston-muller
+- 
+  type: relations/parental/mom
+  item: people/prof-urban-conn-v
+- 
+  type: relations/money/debtor
+  item: people/dr-rebeca-christiansen
+- 
+  type: relations/parental/mom
+  item: people/osvaldo-kertzmann-jr
+- 
+  type: relations/parental/mom
+  item: people/mrs-edyth-brekke-i
+- 
+  type: relations/parental/brosis
+  item: people/emmitt-barrows
+- 
+  type: relations/work/client
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/work/employer
+  item: companies/effertz-llc
+- 
+  type: relations/money/debtor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/debtor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Ralph Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/wilber-flatley
+- 
+  type: relations/money/debtor
+  item: people/adaline-corwin
+- 
+  type: relations/money/debtor
+  item: people/christina-zemlak-ii
+- 
+  type: relations/parental/dad
+  item: people/kiley-o-kon
+- 
+  type: relations/parental/dad
+  item: people/willow-gerhold
+- 
+  type: relations/parental/mom
+  item: people/halie-parisian-v
+- 
+  type: relations/work/employer
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

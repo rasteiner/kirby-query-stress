@@ -1,0 +1,64 @@
+Title: Deondre Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/fausto-schultz
+- 
+  type: relations/parental/brosis
+  item: people/camden-bailey-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-gonzalo-mcglynn-i
+- 
+  type: relations/parental/colleague
+  item: people/ottilie-nienow
+- 
+  type: relations/parental/mom
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/money/debtor
+  item: people/mara-johnson-dds
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

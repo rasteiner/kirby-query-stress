@@ -1,0 +1,64 @@
+Title: Laverna Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-ned-grimes-iii
+- 
+  type: relations/parental/friend
+  item: people/kirstin-haag-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-yasmine-nolan-ii
+- 
+  type: relations/money/debtor
+  item: people/sofia-hodkiewicz-sr
+- 
+  type: relations/money/debtor
+  item: people/keara-fritsch
+- 
+  type: relations/parental/friend
+  item: people/miss-carli-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

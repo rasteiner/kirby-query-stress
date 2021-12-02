@@ -1,0 +1,64 @@
+Title: Wellington Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-laila-hyatt-jr
+- 
+  type: relations/parental/dad
+  item: people/dr-giuseppe-zboncak
+- 
+  type: relations/money/creditor
+  item: people/tressa-reichel
+- 
+  type: relations/parental/friend
+  item: people/rasheed-bernhard
+- 
+  type: relations/parental/dad
+  item: people/jeffry-boyer
+- 
+  type: relations/money/debtor
+  item: people/dr-elvera-goldner
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Mylene Hermann IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tobin-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/makenzie-raynor-iv
+- 
+  type: relations/parental/dad
+  item: people/russel-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/michale-ebert
+- 
+  type: relations/money/creditor
+  item: people/laverna-reynolds
+- 
+  type: relations/parental/brosis
+  item: people/tamia-stiedemann-iii
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-inc
+- 
+  type: relations/work/employer
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/client
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

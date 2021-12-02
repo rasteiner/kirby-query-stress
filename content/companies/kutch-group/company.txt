@@ -1,0 +1,43 @@
+Title: Kutch Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mante-plc
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/money/debtor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/alfordview

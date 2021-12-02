@@ -1,0 +1,64 @@
+Title: Mya Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-euna-willms-dds
+- 
+  type: relations/parental/friend
+  item: people/shany-balistreri
+- 
+  type: relations/parental/colleague
+  item: people/miss-marielle-dare
+- 
+  type: relations/parental/brosis
+  item: people/dr-guy-keebler
+- 
+  type: relations/parental/brosis
+  item: people/dr-lauren-mraz
+- 
+  type: relations/parental/mom
+  item: people/dr-flavie-prohaska
+- 
+  type: relations/work/client
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/money/creditor
+  item: companies/kemmer-ltd
+- 
+  type: relations/work/employer
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

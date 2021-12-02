@@ -1,0 +1,64 @@
+Title: Reymundo Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/levi-hilpert-sr
+- 
+  type: relations/parental/mom
+  item: people/jensen-terry-jr
+- 
+  type: relations/money/debtor
+  item: people/abigayle-wintheiser
+- 
+  type: relations/money/creditor
+  item: people/darion-haag
+- 
+  type: relations/money/debtor
+  item: people/dr-kellen-heaney-iv
+- 
+  type: relations/parental/friend
+  item: people/mrs-zelda-rempel
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

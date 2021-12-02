@@ -1,0 +1,64 @@
+Title: Bill Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alvis-casper
+- 
+  type: relations/parental/friend
+  item: people/ima-jakubowski
+- 
+  type: relations/parental/colleague
+  item: people/edwina-crooks
+- 
+  type: relations/parental/friend
+  item: people/elody-tillman
+- 
+  type: relations/parental/mom
+  item: people/itzel-wiegand
+- 
+  type: relations/parental/brosis
+  item: people/tiana-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/employer
+  item: companies/welch-borer
+- 
+  type: relations/money/debtor
+  item: companies/pollich-ltd
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Lora Mann MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-prince-friesen
+- 
+  type: relations/parental/dad
+  item: people/abbigail-bernier
+- 
+  type: relations/money/creditor
+  item: people/dr-clare-beer
+- 
+  type: relations/money/debtor
+  item: people/laurianne-beier
+- 
+  type: relations/parental/colleague
+  item: people/dr-mauricio-turcotte-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-landen-reilly-jr
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/creditor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

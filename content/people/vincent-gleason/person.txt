@@ -1,0 +1,64 @@
+Title: Vincent Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-violette-lehner-jr
+- 
+  type: relations/parental/colleague
+  item: people/nedra-marvin
+- 
+  type: relations/money/creditor
+  item: people/prof-morgan-heaney-i
+- 
+  type: relations/parental/colleague
+  item: people/fanny-rice
+- 
+  type: relations/parental/dad
+  item: people/dudley-white
+- 
+  type: relations/parental/mom
+  item: people/miss-sierra-champlin
+- 
+  type: relations/work/client
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

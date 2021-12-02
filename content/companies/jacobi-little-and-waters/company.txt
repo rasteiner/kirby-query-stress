@@ -1,0 +1,43 @@
+Title: Jacobi, Little and Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/money/creditor
+  item: companies/weber-inc
+- 
+  type: relations/location/visited
+  item: places/new-donnie
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt

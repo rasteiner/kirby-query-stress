@@ -1,0 +1,43 @@
+Title: Okuneva Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/money/creditor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/money/debtor
+  item: companies/schmeler-conn
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh

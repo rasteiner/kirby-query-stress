@@ -1,0 +1,64 @@
+Title: Miss Dolly Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-geovanni-gusikowski-dds
+- 
+  type: relations/parental/brosis
+  item: people/percy-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/kraig-corkery-ii
+- 
+  type: relations/parental/brosis
+  item: people/trystan-towne
+- 
+  type: relations/money/creditor
+  item: people/guy-carroll
+- 
+  type: relations/parental/colleague
+  item: people/dr-alicia-mcclure-dds
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/employer
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

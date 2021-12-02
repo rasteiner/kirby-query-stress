@@ -1,0 +1,64 @@
+Title: Miss Mozelle Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/keely-hackett
+- 
+  type: relations/parental/friend
+  item: people/andres-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/mabel-effertz
+- 
+  type: relations/parental/brosis
+  item: people/ms-julie-koss-md
+- 
+  type: relations/money/debtor
+  item: people/forest-hoppe
+- 
+  type: relations/money/creditor
+  item: people/maxie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/work/client
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

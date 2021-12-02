@@ -1,0 +1,64 @@
+Title: Norwood Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ruth-gerlach
+- 
+  type: relations/parental/dad
+  item: people/mireya-boehm
+- 
+  type: relations/parental/mom
+  item: people/mr-xzavier-crooks-md
+- 
+  type: relations/parental/friend
+  item: people/ollie-romaguera
+- 
+  type: relations/money/creditor
+  item: people/prof-layne-ratke-v
+- 
+  type: relations/parental/friend
+  item: people/andre-murphy
+- 
+  type: relations/money/creditor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stanton-metz
+- 
+  type: relations/work/employer
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/work/client
+  item: companies/renner-erdman-and-larson
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

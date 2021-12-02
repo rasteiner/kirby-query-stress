@@ -1,0 +1,64 @@
+Title: Natalie Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-dakota-mclaughlin-iv
+- 
+  type: relations/parental/mom
+  item: people/ewell-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/dr-autumn-o-connell
+- 
+  type: relations/parental/colleague
+  item: people/dr-otilia-bauch-sr
+- 
+  type: relations/parental/friend
+  item: people/lexus-moore-ii
+- 
+  type: relations/parental/brosis
+  item: people/mr-anderson-donnelly-sr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/money/creditor
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/work/client
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

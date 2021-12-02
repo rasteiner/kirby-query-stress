@@ -1,0 +1,64 @@
+Title: Karina Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/idella-trantow
+- 
+  type: relations/money/creditor
+  item: people/julianne-robel
+- 
+  type: relations/parental/colleague
+  item: people/ceasar-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/cassie-dickens-dvm
+- 
+  type: relations/parental/friend
+  item: people/susana-keeling
+- 
+  type: relations/money/creditor
+  item: people/rosario-walter-sr
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,65 @@
+Title: Prof. Alexie Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kaia-marks
+- 
+  type: relations/money/debtor
+  item: people/emmalee-kessler
+- 
+  type: relations/parental/brosis
+  item: people/anne-friesen-sr
+- 
+  type: relations/parental/brosis
+  item: people/ladarius-trantow
+- 
+  type: relations/parental/mom
+  item: people/miss-viola-graham
+- 
+  type: relations/money/creditor
+  item: people/lia-bode
+- 
+  type: relations/money/creditor
+  item: companies/ratke-inc
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

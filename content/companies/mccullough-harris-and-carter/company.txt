@@ -1,0 +1,43 @@
+Title: McCullough, Harris and Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/leffler-inc
+- 
+  type: relations/money/creditor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/money/creditor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside

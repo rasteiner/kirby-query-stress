@@ -1,0 +1,64 @@
+Title: Mr. Jeramie Collier MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/eloisa-lowe
+- 
+  type: relations/parental/friend
+  item: people/melyssa-effertz
+- 
+  type: relations/parental/colleague
+  item: people/denis-gulgowski
+- 
+  type: relations/money/creditor
+  item: people/prof-ubaldo-terry-i
+- 
+  type: relations/parental/friend
+  item: people/lenora-walsh
+- 
+  type: relations/parental/mom
+  item: people/anne-johnson
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Art Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-electa-rohan-ii
+- 
+  type: relations/parental/friend
+  item: people/leonardo-haag
+- 
+  type: relations/parental/dad
+  item: people/dr-macey-reichert-sr
+- 
+  type: relations/parental/brosis
+  item: people/miss-hermina-hauck-v
+- 
+  type: relations/parental/colleague
+  item: people/monserrat-gorczany
+- 
+  type: relations/parental/dad
+  item: people/prof-jeromy-upton
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

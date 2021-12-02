@@ -1,0 +1,64 @@
+Title: Fidel Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rosamond-konopelski
+- 
+  type: relations/parental/mom
+  item: people/prof-laurel-rice-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-morris-mills-ii
+- 
+  type: relations/parental/friend
+  item: people/mrs-sydnie-howell
+- 
+  type: relations/money/creditor
+  item: people/prof-nathaniel-sanford-dds
+- 
+  type: relations/parental/dad
+  item: people/milo-rice
+- 
+  type: relations/work/employer
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

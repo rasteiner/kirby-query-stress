@@ -1,0 +1,64 @@
+Title: Tania Wunsch III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/katharina-grimes
+- 
+  type: relations/money/debtor
+  item: people/brown-roob-iii
+- 
+  type: relations/parental/colleague
+  item: people/brant-kunze
+- 
+  type: relations/parental/friend
+  item: people/torrance-anderson
+- 
+  type: relations/parental/brosis
+  item: people/chelsey-sanford
+- 
+  type: relations/parental/colleague
+  item: people/susanna-strosin-iv
+- 
+  type: relations/money/creditor
+  item: companies/feest-ltd
+- 
+  type: relations/work/client
+  item: companies/dooley-walter
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-group
+- 
+  type: relations/work/client
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

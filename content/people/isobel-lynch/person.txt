@@ -1,0 +1,64 @@
+Title: Isobel Lynch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jeremy-barrows
+- 
+  type: relations/money/creditor
+  item: people/brycen-haley
+- 
+  type: relations/parental/brosis
+  item: people/favian-stamm
+- 
+  type: relations/parental/colleague
+  item: people/miss-dayana-hickle
+- 
+  type: relations/money/debtor
+  item: people/arnoldo-morissette
+- 
+  type: relations/money/debtor
+  item: people/bertha-metz
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

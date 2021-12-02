@@ -1,0 +1,64 @@
+Title: Mr. Columbus Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/arjun-hegmann-dvm
+- 
+  type: relations/money/debtor
+  item: people/lesly-stehr
+- 
+  type: relations/money/debtor
+  item: people/addie-medhurst
+- 
+  type: relations/parental/colleague
+  item: people/jeffrey-weber
+- 
+  type: relations/parental/friend
+  item: people/mr-alfredo-pfannerstill-ii
+- 
+  type: relations/money/debtor
+  item: people/miss-gwen-upton
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-dooley
+- 
+  type: relations/work/client
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/client
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

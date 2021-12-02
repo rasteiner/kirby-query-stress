@@ -1,0 +1,64 @@
+Title: Ms. Daphnee McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miller-metz
+- 
+  type: relations/money/debtor
+  item: people/ms-thelma-bernhard-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-mervin-lakin
+- 
+  type: relations/parental/friend
+  item: people/sherwood-vandervort
+- 
+  type: relations/money/debtor
+  item: people/serenity-denesik
+- 
+  type: relations/money/creditor
+  item: people/miss-rubie-wilderman-jr
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/work/client
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

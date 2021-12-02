@@ -1,0 +1,64 @@
+Title: Miss Antonette Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/johann-corwin
+- 
+  type: relations/parental/dad
+  item: people/terrence-orn
+- 
+  type: relations/parental/friend
+  item: people/berenice-fadel-ii
+- 
+  type: relations/parental/colleague
+  item: people/miss-kyra-howe
+- 
+  type: relations/parental/brosis
+  item: people/eladio-kutch
+- 
+  type: relations/money/debtor
+  item: people/maurine-trantow
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/debtor
+  item: companies/blanda-bartell
+- 
+  type: relations/work/employer
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

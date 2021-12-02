@@ -1,0 +1,64 @@
+Title: Dr. Zack Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/avis-cassin
+- 
+  type: relations/parental/colleague
+  item: people/markus-kuhn
+- 
+  type: relations/parental/mom
+  item: people/ms-paige-barrows
+- 
+  type: relations/money/debtor
+  item: people/prof-cyrus-powlowski
+- 
+  type: relations/money/creditor
+  item: people/kyleigh-stokes
+- 
+  type: relations/parental/friend
+  item: people/martine-stamm-iv
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/work/client
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/client
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

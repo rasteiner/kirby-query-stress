@@ -1,0 +1,64 @@
+Title: Ms. Felicity Daniel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/vicky-franecki
+- 
+  type: relations/parental/friend
+  item: people/jacklyn-windler
+- 
+  type: relations/parental/colleague
+  item: people/ken-dickinson
+- 
+  type: relations/money/debtor
+  item: people/mr-brock-willms-jr
+- 
+  type: relations/parental/dad
+  item: people/prof-jalen-blanda
+- 
+  type: relations/parental/friend
+  item: people/pearl-robel
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

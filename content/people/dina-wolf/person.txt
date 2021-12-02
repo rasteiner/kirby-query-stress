@@ -1,0 +1,64 @@
+Title: Dina Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/johanna-mosciski
+- 
+  type: relations/money/creditor
+  item: people/gwen-weimann-iii
+- 
+  type: relations/parental/brosis
+  item: people/hardy-nitzsche
+- 
+  type: relations/parental/colleague
+  item: people/ms-karolann-metz-md
+- 
+  type: relations/money/creditor
+  item: people/laurel-schamberger-dvm
+- 
+  type: relations/parental/dad
+  item: people/keely-kub
+- 
+  type: relations/work/client
+  item: companies/o-hara-hettinger
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/client
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/client
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

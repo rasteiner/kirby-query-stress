@@ -1,0 +1,64 @@
+Title: Bailey Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/shanie-stoltenberg
+- 
+  type: relations/parental/dad
+  item: people/prof-bennie-bogan
+- 
+  type: relations/parental/friend
+  item: people/ronaldo-bradtke
+- 
+  type: relations/money/debtor
+  item: people/maximus-jones
+- 
+  type: relations/parental/friend
+  item: people/constantin-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/jackeline-zemlak
+- 
+  type: relations/money/debtor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/work/client
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

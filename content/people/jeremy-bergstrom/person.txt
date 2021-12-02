@@ -1,0 +1,64 @@
+Title: Jeremy Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/major-wilderman
+- 
+  type: relations/parental/colleague
+  item: people/landen-wolff
+- 
+  type: relations/parental/friend
+  item: people/raphael-jerde
+- 
+  type: relations/parental/mom
+  item: people/jackie-ferry
+- 
+  type: relations/parental/brosis
+  item: people/meggie-brown
+- 
+  type: relations/money/debtor
+  item: people/linwood-ruecker
+- 
+  type: relations/work/employer
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

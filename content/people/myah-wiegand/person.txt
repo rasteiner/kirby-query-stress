@@ -1,0 +1,64 @@
+Title: Myah Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/pablo-jakubowski
+- 
+  type: relations/parental/dad
+  item: people/boyd-homenick
+- 
+  type: relations/parental/friend
+  item: people/travis-carroll
+- 
+  type: relations/parental/dad
+  item: people/taylor-howell
+- 
+  type: relations/parental/colleague
+  item: people/prof-clemens-auer
+- 
+  type: relations/parental/dad
+  item: people/madisyn-fritsch
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/work/employer
+  item: companies/collins-eichmann
+- 
+  type: relations/work/client
+  item: companies/nader-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

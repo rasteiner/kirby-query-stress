@@ -1,0 +1,64 @@
+Title: Natasha Schimmel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/malvina-hermiston-i
+- 
+  type: relations/parental/colleague
+  item: people/lina-waters
+- 
+  type: relations/parental/colleague
+  item: people/laron-sauer
+- 
+  type: relations/parental/mom
+  item: people/gunner-johnston
+- 
+  type: relations/parental/dad
+  item: people/shea-steuber
+- 
+  type: relations/money/debtor
+  item: people/burdette-kozey-dds
+- 
+  type: relations/work/employer
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Dr. Carli Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/verla-boyer
+- 
+  type: relations/money/creditor
+  item: people/solon-mante
+- 
+  type: relations/money/debtor
+  item: people/kane-monahan
+- 
+  type: relations/parental/mom
+  item: people/dr-waino-wiza
+- 
+  type: relations/parental/brosis
+  item: people/mr-frank-jenkins
+- 
+  type: relations/money/creditor
+  item: people/dr-anibal-ledner
+- 
+  type: relations/work/employer
+  item: companies/gerlach-group
+- 
+  type: relations/work/employer
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/client
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

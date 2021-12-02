@@ -1,0 +1,5 @@
+title: Company
+
+----
+
+Allows_from: person

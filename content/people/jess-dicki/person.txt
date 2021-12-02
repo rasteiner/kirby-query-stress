@@ -1,0 +1,64 @@
+Title: Jess Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/reed-nikolaus
+- 
+  type: relations/parental/colleague
+  item: people/deborah-anderson-sr
+- 
+  type: relations/money/creditor
+  item: people/elton-mante
+- 
+  type: relations/parental/mom
+  item: people/hilbert-ullrich
+- 
+  type: relations/money/creditor
+  item: people/coralie-feil
+- 
+  type: relations/parental/colleague
+  item: people/anais-jakubowski
+- 
+  type: relations/work/employer
+  item: companies/ryan-little
+- 
+  type: relations/work/employer
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

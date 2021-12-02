@@ -1,0 +1,64 @@
+Title: Ramon Marquardt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/parental/dad
+  item: people/noah-gerlach
+- 
+  type: relations/parental/mom
+  item: people/easton-bednar
+- 
+  type: relations/money/creditor
+  item: people/gillian-simonis
+- 
+  type: relations/parental/mom
+  item: people/augustus-kris-jr
+- 
+  type: relations/money/debtor
+  item: people/mr-diamond-ward
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/money/debtor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/koelpin-group
+- 
+  type: relations/work/client
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

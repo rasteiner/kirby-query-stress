@@ -1,0 +1,65 @@
+Title: Prof. Kianna Kessler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lynn-harris
+- 
+  type: relations/money/creditor
+  item: people/else-jerde
+- 
+  type: relations/parental/mom
+  item: people/dr-aric-greenholt
+- 
+  type: relations/parental/brosis
+  item: people/jammie-homenick-iii
+- 
+  type: relations/money/debtor
+  item: people/abigale-kovacek
+- 
+  type: relations/money/debtor
+  item: people/raymundo-haley
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/work/client
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

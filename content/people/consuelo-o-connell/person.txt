@@ -1,0 +1,65 @@
+Title: Consuelo O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/adolf-lind
+- 
+  type: relations/money/debtor
+  item: people/herminia-jacobs
+- 
+  type: relations/parental/colleague
+  item: people/prof-alan-kuphal-iii
+- 
+  type: relations/parental/dad
+  item: people/dimitri-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/dr-ramon-lind
+- 
+  type: relations/parental/friend
+  item: people/pink-olson
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/haley-inc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

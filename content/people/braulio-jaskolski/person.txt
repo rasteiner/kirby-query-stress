@@ -1,0 +1,64 @@
+Title: Braulio Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/leatha-watsica
+- 
+  type: relations/parental/friend
+  item: people/pascale-mertz
+- 
+  type: relations/parental/friend
+  item: people/prof-jett-lakin-dvm
+- 
+  type: relations/parental/mom
+  item: people/chelsie-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/vincenza-turner
+- 
+  type: relations/parental/dad
+  item: people/lilian-gerlach
+- 
+  type: relations/work/employer
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Linnie Pouros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaitlyn-swaniawski
+- 
+  type: relations/parental/friend
+  item: people/nils-mclaughlin-jr
+- 
+  type: relations/money/creditor
+  item: people/yolanda-russel-i
+- 
+  type: relations/money/creditor
+  item: people/taya-schmitt
+- 
+  type: relations/money/creditor
+  item: people/laurie-aufderhar
+- 
+  type: relations/parental/mom
+  item: people/dr-mercedes-berge-dds
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

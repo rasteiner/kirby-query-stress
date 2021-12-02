@@ -1,0 +1,65 @@
+Title: Afton Breitenberg MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-alexander-stracke
+- 
+  type: relations/parental/dad
+  item: people/mallie-okuneva
+- 
+  type: relations/parental/brosis
+  item: people/blaise-friesen
+- 
+  type: relations/parental/colleague
+  item: people/corrine-lakin-v
+- 
+  type: relations/money/debtor
+  item: people/prof-selmer-homenick-i
+- 
+  type: relations/money/creditor
+  item: people/aniya-schumm
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

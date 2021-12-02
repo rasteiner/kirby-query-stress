@@ -1,0 +1,64 @@
+Title: Winifred Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kayley-price
+- 
+  type: relations/parental/brosis
+  item: people/dominique-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/albertha-gutkowski
+- 
+  type: relations/parental/brosis
+  item: people/camren-kemmer
+- 
+  type: relations/parental/colleague
+  item: people/albert-auer
+- 
+  type: relations/money/debtor
+  item: people/sterling-turcotte-sr
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/work/employer
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Vita O'Hara
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/isai-heidenreich-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-mabel-labadie-iii
+- 
+  type: relations/parental/mom
+  item: people/frankie-balistreri
+- 
+  type: relations/parental/mom
+  item: people/savanah-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/dr-stephan-reynolds
+- 
+  type: relations/parental/colleague
+  item: people/oleta-towne
+- 
+  type: relations/work/client
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/keeling-denesik
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

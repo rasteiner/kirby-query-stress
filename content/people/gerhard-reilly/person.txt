@@ -1,0 +1,64 @@
+Title: Gerhard Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-perry-crooks-dvm
+- 
+  type: relations/money/debtor
+  item: people/alexis-lind
+- 
+  type: relations/money/debtor
+  item: people/kellie-little
+- 
+  type: relations/money/debtor
+  item: people/gavin-romaguera-phd
+- 
+  type: relations/parental/dad
+  item: people/kyra-sanford-jr
+- 
+  type: relations/parental/friend
+  item: people/mr-dave-mohr-dds
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/employer
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

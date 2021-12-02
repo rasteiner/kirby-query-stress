@@ -1,0 +1,64 @@
+Title: Wilbert Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/aliya-dickens-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-destinee-konopelski-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-aleen-wolff-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-gunnar-herman
+- 
+  type: relations/parental/mom
+  item: people/heloise-nader
+- 
+  type: relations/parental/friend
+  item: people/trudie-zemlak
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/work/client
+  item: companies/terry-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/employer
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

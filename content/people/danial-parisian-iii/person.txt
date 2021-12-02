@@ -1,0 +1,64 @@
+Title: Danial Parisian III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mariam-hayes
+- 
+  type: relations/parental/dad
+  item: people/kaylah-wisozk-dds
+- 
+  type: relations/money/debtor
+  item: people/zoe-hansen
+- 
+  type: relations/money/creditor
+  item: people/jason-ullrich
+- 
+  type: relations/parental/dad
+  item: people/prof-opal-hammes-iv
+- 
+  type: relations/parental/friend
+  item: people/jewel-schowalter
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

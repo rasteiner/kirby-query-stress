@@ -1,0 +1,64 @@
+Title: Shea Fisher MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/chaz-schaden
+- 
+  type: relations/money/creditor
+  item: people/rebekah-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/drake-zboncak
+- 
+  type: relations/money/debtor
+  item: people/leola-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/ms-erica-quigley
+- 
+  type: relations/parental/dad
+  item: people/joanie-johnston
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/work/employer
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Miss Zora Blick I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hillary-ratke
+- 
+  type: relations/money/debtor
+  item: people/stephan-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/dolly-hermiston
+- 
+  type: relations/parental/friend
+  item: people/rafael-kuvalis-phd
+- 
+  type: relations/parental/friend
+  item: people/adriana-lemke
+- 
+  type: relations/parental/colleague
+  item: people/prof-leda-maggio-jr
+- 
+  type: relations/work/client
+  item: companies/towne-llc
+- 
+  type: relations/work/employer
+  item: companies/dickens-inc
+- 
+  type: relations/work/employer
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Beth Weber I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/vincenza-turner
+- 
+  type: relations/parental/mom
+  item: people/lilian-gerlach
+- 
+  type: relations/parental/dad
+  item: people/prof-delbert-fisher
+- 
+  type: relations/parental/colleague
+  item: people/casey-carter
+- 
+  type: relations/money/creditor
+  item: people/gonzalo-bauch-v
+- 
+  type: relations/parental/friend
+  item: people/kelly-goodwin
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/client
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/employer
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

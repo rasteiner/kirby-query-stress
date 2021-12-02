@@ -1,0 +1,64 @@
+Title: Brock Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mae-schimmel
+- 
+  type: relations/parental/colleague
+  item: people/dr-sigurd-block-md
+- 
+  type: relations/parental/friend
+  item: people/mrs-maybelle-christiansen-iii
+- 
+  type: relations/parental/mom
+  item: people/magnus-schiller
+- 
+  type: relations/parental/dad
+  item: people/greta-osinski
+- 
+  type: relations/parental/dad
+  item: people/estella-runte
+- 
+  type: relations/money/debtor
+  item: companies/bogan-ltd
+- 
+  type: relations/work/client
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-llc
+- 
+  type: relations/work/employer
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

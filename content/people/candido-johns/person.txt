@@ -1,0 +1,64 @@
+Title: Candido Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-breanne-frami-iv
+- 
+  type: relations/money/debtor
+  item: people/carolina-ankunding
+- 
+  type: relations/parental/brosis
+  item: people/deontae-hodkiewicz
+- 
+  type: relations/parental/colleague
+  item: people/dr-myrl-feil
+- 
+  type: relations/parental/mom
+  item: people/abigail-cormier
+- 
+  type: relations/parental/friend
+  item: people/marilie-wintheiser-iv
+- 
+  type: relations/work/employer
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/money/debtor
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Avis Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rylan-wuckert
+- 
+  type: relations/money/debtor
+  item: people/enrico-heaney
+- 
+  type: relations/parental/colleague
+  item: people/kailee-prohaska
+- 
+  type: relations/parental/colleague
+  item: people/demond-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/shany-wolf-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-elisha-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/employer
+  item: companies/zboncak-group
+- 
+  type: relations/money/creditor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/client
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

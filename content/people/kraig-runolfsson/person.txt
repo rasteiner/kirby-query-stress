@@ -1,0 +1,64 @@
+Title: Kraig Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jason-ward
+- 
+  type: relations/money/debtor
+  item: people/maryse-schulist-ii
+- 
+  type: relations/parental/brosis
+  item: people/gertrude-kohler
+- 
+  type: relations/money/debtor
+  item: people/vallie-littel
+- 
+  type: relations/money/debtor
+  item: people/avery-hayes
+- 
+  type: relations/parental/friend
+  item: people/sydni-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

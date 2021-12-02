@@ -1,0 +1,64 @@
+Title: Jordy Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/easton-bednar
+- 
+  type: relations/parental/dad
+  item: people/gillian-simonis
+- 
+  type: relations/parental/colleague
+  item: people/augustus-kris-jr
+- 
+  type: relations/money/creditor
+  item: people/mr-diamond-ward
+- 
+  type: relations/money/debtor
+  item: people/chaya-haley
+- 
+  type: relations/money/creditor
+  item: people/mr-carey-goodwin
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/work/employer
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/work/employer
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

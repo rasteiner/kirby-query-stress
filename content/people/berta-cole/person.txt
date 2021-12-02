@@ -1,0 +1,64 @@
+Title: Berta Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lavina-reilly
+- 
+  type: relations/parental/friend
+  item: people/cristian-erdman
+- 
+  type: relations/parental/friend
+  item: people/ms-hilda-goyette-phd
+- 
+  type: relations/parental/brosis
+  item: people/alfonzo-leffler
+- 
+  type: relations/parental/dad
+  item: people/edward-monahan
+- 
+  type: relations/parental/dad
+  item: people/ms-anabelle-kub
+- 
+  type: relations/money/debtor
+  item: companies/mayert-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

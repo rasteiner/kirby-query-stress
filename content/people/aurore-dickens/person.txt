@@ -1,0 +1,64 @@
+Title: Aurore Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/tyrell-balistreri
+- 
+  type: relations/parental/friend
+  item: people/trever-kuphal
+- 
+  type: relations/parental/friend
+  item: people/justen-carter
+- 
+  type: relations/parental/mom
+  item: people/uriah-graham
+- 
+  type: relations/money/creditor
+  item: people/ms-aniya-koelpin
+- 
+  type: relations/parental/colleague
+  item: people/tracey-monahan
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

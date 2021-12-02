@@ -1,0 +1,64 @@
+Title: Wilber Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cory-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/mr-frankie-mann
+- 
+  type: relations/parental/mom
+  item: people/tianna-barton-phd
+- 
+  type: relations/parental/dad
+  item: people/trever-lockman
+- 
+  type: relations/parental/brosis
+  item: people/prof-hannah-friesen-jr
+- 
+  type: relations/parental/brosis
+  item: people/anastasia-williamson-md
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/work/employer
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/employer
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/employer
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Allan Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/hazel-marvin
+- 
+  type: relations/parental/brosis
+  item: people/randy-russel
+- 
+  type: relations/money/debtor
+  item: people/raymundo-will
+- 
+  type: relations/parental/brosis
+  item: people/bartholome-torphy
+- 
+  type: relations/parental/dad
+  item: people/kenna-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/tiffany-pacocha
+- 
+  type: relations/work/client
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/employer
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

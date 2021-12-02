@@ -1,0 +1,64 @@
+Title: Kayley Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/favian-stamm
+- 
+  type: relations/money/debtor
+  item: people/miss-dayana-hickle
+- 
+  type: relations/parental/mom
+  item: people/arnoldo-morissette
+- 
+  type: relations/parental/brosis
+  item: people/bertha-metz
+- 
+  type: relations/parental/brosis
+  item: people/lauryn-schiller
+- 
+  type: relations/parental/mom
+  item: people/mr-dwight-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/client
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

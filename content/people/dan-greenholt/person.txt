@@ -1,0 +1,64 @@
+Title: Dan Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-shyann-nolan
+- 
+  type: relations/parental/brosis
+  item: people/dr-jasen-lynch-iv
+- 
+  type: relations/parental/brosis
+  item: people/sim-davis
+- 
+  type: relations/money/creditor
+  item: people/leonie-sanford
+- 
+  type: relations/money/creditor
+  item: people/leanna-johns
+- 
+  type: relations/parental/dad
+  item: people/destini-barton
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Prof. Raegan Schmitt V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-tyson-o-conner-md
+- 
+  type: relations/parental/colleague
+  item: people/zetta-heathcote
+- 
+  type: relations/money/debtor
+  item: people/gerardo-yundt
+- 
+  type: relations/parental/friend
+  item: people/delfina-ward
+- 
+  type: relations/parental/colleague
+  item: people/armand-kreiger-i
+- 
+  type: relations/money/creditor
+  item: people/mr-amos-leuschke-ii
+- 
+  type: relations/work/employer
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/money/debtor
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

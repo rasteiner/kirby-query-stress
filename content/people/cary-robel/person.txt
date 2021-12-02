@@ -1,0 +1,64 @@
+Title: Cary Robel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mae-shields
+- 
+  type: relations/parental/mom
+  item: people/mr-isidro-considine
+- 
+  type: relations/parental/dad
+  item: people/aurore-ruecker
+- 
+  type: relations/parental/friend
+  item: people/antone-schamberger-v
+- 
+  type: relations/parental/colleague
+  item: people/rex-schimmel
+- 
+  type: relations/parental/friend
+  item: people/lorine-grimes
+- 
+  type: relations/work/employer
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/work/client
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Mr. Monte Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/gertrude-kohler
+- 
+  type: relations/parental/brosis
+  item: people/vallie-littel
+- 
+  type: relations/parental/brosis
+  item: people/avery-hayes
+- 
+  type: relations/money/creditor
+  item: people/sydni-balistreri
+- 
+  type: relations/money/debtor
+  item: people/mr-zion-schumm
+- 
+  type: relations/money/creditor
+  item: people/brandyn-walsh-ii
+- 
+  type: relations/work/employer
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/client
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/employer
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

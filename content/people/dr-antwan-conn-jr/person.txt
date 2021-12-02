@@ -1,0 +1,64 @@
+Title: Dr. Antwan Conn Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/genoveva-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/terrell-rosenbaum
+- 
+  type: relations/parental/mom
+  item: people/sierra-mcclure
+- 
+  type: relations/parental/brosis
+  item: people/miss-valentina-balistreri
+- 
+  type: relations/parental/brosis
+  item: people/monserrate-von
+- 
+  type: relations/parental/colleague
+  item: people/dianna-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

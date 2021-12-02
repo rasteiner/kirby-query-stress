@@ -1,0 +1,64 @@
+Title: Kristopher Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/arturo-zulauf
+- 
+  type: relations/parental/mom
+  item: people/evan-bernhard
+- 
+  type: relations/parental/dad
+  item: people/miss-shyanne-weimann-i
+- 
+  type: relations/money/debtor
+  item: people/rafael-will
+- 
+  type: relations/money/creditor
+  item: people/emerald-bartoletti-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-juwan-block-i
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/client
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

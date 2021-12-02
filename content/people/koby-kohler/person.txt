@@ -1,0 +1,64 @@
+Title: Koby Kohler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-kendrick-rippin
+- 
+  type: relations/parental/friend
+  item: people/bryce-connelly
+- 
+  type: relations/money/creditor
+  item: people/shakira-senger
+- 
+  type: relations/money/debtor
+  item: people/emmy-hahn
+- 
+  type: relations/parental/brosis
+  item: people/wellington-adams
+- 
+  type: relations/parental/friend
+  item: people/danielle-hayes-iii
+- 
+  type: relations/work/employer
+  item: companies/feest-ltd
+- 
+  type: relations/work/client
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/work/client
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

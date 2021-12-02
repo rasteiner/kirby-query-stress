@@ -1,0 +1,64 @@
+Title: Edward Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cecilia-koelpin
+- 
+  type: relations/money/debtor
+  item: people/mrs-madge-stiedemann-jr
+- 
+  type: relations/parental/mom
+  item: people/velma-berge
+- 
+  type: relations/parental/brosis
+  item: people/jarvis-stanton
+- 
+  type: relations/parental/dad
+  item: people/mr-dorthy-cassin
+- 
+  type: relations/parental/colleague
+  item: people/reginald-blanda-jr
+- 
+  type: relations/work/client
+  item: companies/treutel-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ferry-bayer
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

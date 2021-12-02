@@ -1,0 +1,64 @@
+Title: Gayle Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/granville-witting-sr
+- 
+  type: relations/money/creditor
+  item: people/prof-zachary-bogan
+- 
+  type: relations/money/creditor
+  item: people/ms-america-schaefer-v
+- 
+  type: relations/parental/brosis
+  item: people/preston-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/velma-kuhn
+- 
+  type: relations/parental/dad
+  item: people/mrs-makenzie-conn-jr
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

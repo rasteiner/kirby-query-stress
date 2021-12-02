@@ -1,0 +1,64 @@
+Title: Garrison Stroman PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rodrigo-lockman-iv
+- 
+  type: relations/parental/mom
+  item: people/obie-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/emmitt-orn
+- 
+  type: relations/parental/colleague
+  item: people/ms-catalina-ryan
+- 
+  type: relations/parental/colleague
+  item: people/cruz-christiansen
+- 
+  type: relations/parental/dad
+  item: people/antwan-champlin
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/work/client
+  item: companies/murphy-batz
+- 
+  type: relations/work/employer
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Prof. Lisa Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-katlyn-rice
+- 
+  type: relations/parental/colleague
+  item: people/kasandra-nienow-iii
+- 
+  type: relations/parental/mom
+  item: people/noel-shields
+- 
+  type: relations/money/debtor
+  item: people/jamir-beer
+- 
+  type: relations/money/creditor
+  item: people/prof-kayli-schumm-dvm
+- 
+  type: relations/parental/mom
+  item: people/lester-wolf
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

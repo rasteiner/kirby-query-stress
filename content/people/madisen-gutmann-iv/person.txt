@@ -1,0 +1,64 @@
+Title: Madisen Gutmann IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-oda-mills-dvm
+- 
+  type: relations/parental/friend
+  item: people/maribel-blanda
+- 
+  type: relations/parental/colleague
+  item: people/colleen-bruen
+- 
+  type: relations/parental/brosis
+  item: people/bessie-corwin
+- 
+  type: relations/money/creditor
+  item: people/prof-kamryn-jenkins
+- 
+  type: relations/money/debtor
+  item: people/shawna-parisian
+- 
+  type: relations/work/employer
+  item: companies/mertz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/work/employer
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Dr. Ewald Wisoky DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ryann-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/ms-estelle-lebsack-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-eusebio-harvey
+- 
+  type: relations/parental/colleague
+  item: people/mallie-prosacco
+- 
+  type: relations/money/creditor
+  item: people/amelia-stamm-phd
+- 
+  type: relations/money/debtor
+  item: people/zita-blick
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/work/client
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

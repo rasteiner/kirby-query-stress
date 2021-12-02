@@ -1,0 +1,64 @@
+Title: Hailey Mohr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mckenzie-sauer-dds
+- 
+  type: relations/parental/colleague
+  item: people/theodora-christiansen
+- 
+  type: relations/parental/brosis
+  item: people/donato-brown
+- 
+  type: relations/parental/mom
+  item: people/dr-jammie-wiegand
+- 
+  type: relations/parental/colleague
+  item: people/kailee-hermann
+- 
+  type: relations/parental/brosis
+  item: people/jaycee-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

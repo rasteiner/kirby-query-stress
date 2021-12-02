@@ -1,0 +1,64 @@
+Title: Mrs. Maybelle Christiansen III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/joe-considine-dvm
+- 
+  type: relations/money/debtor
+  item: people/dr-roberto-weber
+- 
+  type: relations/parental/dad
+  item: people/anastacio-walsh
+- 
+  type: relations/parental/dad
+  item: people/mia-quigley
+- 
+  type: relations/parental/mom
+  item: people/emmalee-kautzer
+- 
+  type: relations/money/debtor
+  item: people/deja-cole
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/debtor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/employer
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

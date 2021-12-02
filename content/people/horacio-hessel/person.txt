@@ -1,0 +1,64 @@
+Title: Horacio Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-jamaal-barrows-phd
+- 
+  type: relations/money/debtor
+  item: people/chester-deckow
+- 
+  type: relations/parental/dad
+  item: people/jaime-maggio
+- 
+  type: relations/parental/brosis
+  item: people/ms-myah-torp
+- 
+  type: relations/parental/dad
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/money/creditor
+  item: people/paris-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

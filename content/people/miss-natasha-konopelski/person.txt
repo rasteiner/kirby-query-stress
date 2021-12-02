@@ -1,0 +1,64 @@
+Title: Miss Natasha Konopelski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-maynard-cummerata
+- 
+  type: relations/parental/mom
+  item: people/natalie-bailey
+- 
+  type: relations/parental/dad
+  item: people/isabel-strosin
+- 
+  type: relations/parental/brosis
+  item: people/frieda-o-connell-dvm
+- 
+  type: relations/parental/dad
+  item: people/jazmyne-davis
+- 
+  type: relations/parental/brosis
+  item: people/sydnie-wolff
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/work/employer
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

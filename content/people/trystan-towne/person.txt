@@ -1,0 +1,64 @@
+Title: Trystan Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jaron-auer-ii
+- 
+  type: relations/parental/friend
+  item: people/clement-hilpert
+- 
+  type: relations/money/creditor
+  item: people/mr-alvah-oberbrunner-iv
+- 
+  type: relations/parental/mom
+  item: people/darius-johnston
+- 
+  type: relations/parental/mom
+  item: people/glennie-zieme
+- 
+  type: relations/parental/dad
+  item: people/ibrahim-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/client
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

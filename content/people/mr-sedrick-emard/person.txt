@@ -1,0 +1,64 @@
+Title: Mr. Sedrick Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lilliana-pfeffer
+- 
+  type: relations/parental/dad
+  item: people/kristian-corkery
+- 
+  type: relations/parental/dad
+  item: people/jeanie-greenholt
+- 
+  type: relations/parental/dad
+  item: people/brittany-harber-sr
+- 
+  type: relations/parental/colleague
+  item: people/prof-benny-hermann-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-haskell-o-connell-iv
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

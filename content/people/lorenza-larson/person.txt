@@ -1,0 +1,65 @@
+Title: Lorenza Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carissa-cummings
+- 
+  type: relations/parental/friend
+  item: people/paris-hills
+- 
+  type: relations/parental/brosis
+  item: people/mrs-sadye-keebler-i
+- 
+  type: relations/money/debtor
+  item: people/miss-rachel-lemke
+- 
+  type: relations/parental/friend
+  item: people/gayle-heaney
+- 
+  type: relations/parental/mom
+  item: people/mr-guido-lind-dvm
+- 
+  type: relations/work/client
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

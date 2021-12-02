@@ -1,0 +1,64 @@
+Title: Mrs. Gabriella Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/parental/colleague
+  item: people/robb-parisian
+- 
+  type: relations/money/creditor
+  item: people/kennith-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/leda-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/maverick-schiller
+- 
+  type: relations/parental/mom
+  item: people/prof-laurence-ernser-phd
+- 
+  type: relations/work/employer
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

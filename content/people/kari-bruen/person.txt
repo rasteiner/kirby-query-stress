@@ -1,0 +1,64 @@
+Title: Kari Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/anastasia-fritsch
+- 
+  type: relations/money/debtor
+  item: people/alta-baumbach
+- 
+  type: relations/parental/dad
+  item: people/miss-rose-becker
+- 
+  type: relations/parental/brosis
+  item: people/prof-frieda-rempel-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kali-waelchi
+- 
+  type: relations/money/creditor
+  item: people/roberta-kunde
+- 
+  type: relations/work/client
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

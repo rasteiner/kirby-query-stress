@@ -1,0 +1,64 @@
+Title: Autumn Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-norberto-emmerich
+- 
+  type: relations/parental/colleague
+  item: people/kale-hoppe-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-jovany-white
+- 
+  type: relations/parental/friend
+  item: people/estefania-tremblay
+- 
+  type: relations/parental/colleague
+  item: people/mr-khalid-leffler-dds
+- 
+  type: relations/money/creditor
+  item: people/landen-thiel
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/employer
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/client
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

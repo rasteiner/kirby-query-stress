@@ -1,0 +1,64 @@
+Title: Prof. Hannah Friesen Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/meredith-larson
+- 
+  type: relations/parental/brosis
+  item: people/edison-bode-sr
+- 
+  type: relations/parental/mom
+  item: people/maudie-mante
+- 
+  type: relations/parental/mom
+  item: people/nathanael-greenholt
+- 
+  type: relations/parental/friend
+  item: people/prof-zora-jones-jr
+- 
+  type: relations/parental/colleague
+  item: people/catharine-towne
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/creditor
+  item: companies/hauck-inc
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

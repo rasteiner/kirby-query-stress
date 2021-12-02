@@ -1,0 +1,64 @@
+Title: Dr. Giuseppe Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-juwan-gorczany
+- 
+  type: relations/parental/brosis
+  item: people/glenna-klocko
+- 
+  type: relations/money/debtor
+  item: people/prof-brenden-jacobson-jr
+- 
+  type: relations/money/debtor
+  item: people/dina-wolf
+- 
+  type: relations/money/debtor
+  item: people/lynn-harris
+- 
+  type: relations/parental/brosis
+  item: people/else-jerde
+- 
+  type: relations/work/employer
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/employer
+  item: companies/kris-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/hintz-group
+- 
+  type: relations/work/employer
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

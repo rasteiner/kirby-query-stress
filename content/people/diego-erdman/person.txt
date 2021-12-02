@@ -1,0 +1,64 @@
+Title: Diego Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ron-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/melody-cummerata-dvm
+- 
+  type: relations/parental/colleague
+  item: people/imelda-bernhard
+- 
+  type: relations/parental/friend
+  item: people/erik-schaefer
+- 
+  type: relations/money/creditor
+  item: people/zella-maggio
+- 
+  type: relations/parental/brosis
+  item: people/miss-lavina-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/client
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

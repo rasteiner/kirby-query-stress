@@ -1,0 +1,65 @@
+Title: Kailyn Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/berenice-fadel-ii
+- 
+  type: relations/parental/dad
+  item: people/miss-kyra-howe
+- 
+  type: relations/money/debtor
+  item: people/eladio-kutch
+- 
+  type: relations/parental/friend
+  item: people/maurine-trantow
+- 
+  type: relations/parental/friend
+  item: people/miss-serenity-davis
+- 
+  type: relations/parental/colleague
+  item: people/dr-nat-schaefer-md
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

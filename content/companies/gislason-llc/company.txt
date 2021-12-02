@@ -1,0 +1,43 @@
+Title: Gislason LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/muller-lockman
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/creditor
+  item: companies/metz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/otiston

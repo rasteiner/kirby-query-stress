@@ -1,0 +1,64 @@
+Title: Dr. Nadia DuBuque PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/henderson-lehner-v
+- 
+  type: relations/parental/mom
+  item: people/leslie-ritchie
+- 
+  type: relations/parental/dad
+  item: people/francisco-dare
+- 
+  type: relations/money/creditor
+  item: people/rupert-ferry-dds
+- 
+  type: relations/money/creditor
+  item: people/marjolaine-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/dr-spencer-heidenreich
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

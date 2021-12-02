@@ -1,0 +1,65 @@
+Title: Miss Roberta Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/al-williamson
+- 
+  type: relations/parental/colleague
+  item: people/charles-corwin
+- 
+  type: relations/parental/colleague
+  item: people/ms-katelyn-kohler-i
+- 
+  type: relations/money/debtor
+  item: people/chet-windler-ii
+- 
+  type: relations/money/debtor
+  item: people/ashly-kassulke
+- 
+  type: relations/money/creditor
+  item: people/carolyne-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/creditor
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

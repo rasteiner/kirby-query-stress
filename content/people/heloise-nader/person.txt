@@ -1,0 +1,65 @@
+Title: Heloise Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/bennett-schuster
+- 
+  type: relations/money/debtor
+  item: people/vinnie-fisher-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/dad
+  item: people/bailey-raynor
+- 
+  type: relations/parental/mom
+  item: people/dr-dillon-herzog
+- 
+  type: relations/parental/brosis
+  item: people/dr-rupert-mayer-md
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

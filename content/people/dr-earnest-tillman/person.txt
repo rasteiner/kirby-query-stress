@@ -1,0 +1,64 @@
+Title: Dr. Earnest Tillman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cristian-renner
+- 
+  type: relations/parental/dad
+  item: people/tyrel-cremin
+- 
+  type: relations/parental/friend
+  item: people/mr-ricky-ankunding-dvm
+- 
+  type: relations/parental/brosis
+  item: people/vanessa-skiles
+- 
+  type: relations/money/creditor
+  item: people/sydney-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/maya-lind
+- 
+  type: relations/work/employer
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/money/debtor
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

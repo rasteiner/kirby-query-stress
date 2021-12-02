@@ -1,0 +1,64 @@
+Title: Shanie Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/shanny-sauer
+- 
+  type: relations/parental/colleague
+  item: people/prof-kiel-durgan-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-tyrese-bashirian-dvm
+- 
+  type: relations/parental/dad
+  item: people/tate-schulist
+- 
+  type: relations/parental/colleague
+  item: people/gerhard-reilly
+- 
+  type: relations/parental/mom
+  item: people/dr-magali-fisher
+- 
+  type: relations/money/debtor
+  item: companies/langosh-maggio
+- 
+  type: relations/work/client
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/client
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

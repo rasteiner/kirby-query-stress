@@ -1,0 +1,44 @@
+Title: Huels-Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/terry-ltd
+- 
+  type: relations/money/debtor
+  item: companies/purdy-koch
+- 
+  type: relations/location/visited
+  item: places/south-emerson
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg
+- 
+  type: relations/location/visited
+  item: places/heatherville

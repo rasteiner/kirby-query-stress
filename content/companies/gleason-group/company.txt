@@ -1,0 +1,43 @@
+Title: Gleason Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort
+- 
+  type: relations/location/residence
+  item: places/steubershire

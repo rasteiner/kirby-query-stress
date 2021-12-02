@@ -1,0 +1,64 @@
+Title: Ruth Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ransom-herman-sr
+- 
+  type: relations/parental/friend
+  item: people/javon-zieme
+- 
+  type: relations/parental/friend
+  item: people/bennie-kihn
+- 
+  type: relations/parental/brosis
+  item: people/wiley-langworth-iv
+- 
+  type: relations/money/creditor
+  item: people/dr-sedrick-hilll-iii
+- 
+  type: relations/parental/mom
+  item: people/bud-kuhlman
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

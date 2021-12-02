@@ -1,0 +1,64 @@
+Title: Isaiah Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-david-bruen-phd
+- 
+  type: relations/money/creditor
+  item: people/nikko-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/dr-isac-ruecker-phd
+- 
+  type: relations/parental/colleague
+  item: people/madge-schaefer-phd
+- 
+  type: relations/parental/colleague
+  item: people/nils-sauer
+- 
+  type: relations/parental/dad
+  item: people/micheal-homenick
+- 
+  type: relations/work/client
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/work/client
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

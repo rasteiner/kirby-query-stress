@@ -1,0 +1,64 @@
+Title: Cassandre Huel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/yadira-simonis
+- 
+  type: relations/parental/brosis
+  item: people/amalia-harber
+- 
+  type: relations/parental/mom
+  item: people/miss-carolyn-blanda-phd
+- 
+  type: relations/parental/brosis
+  item: people/mya-goyette
+- 
+  type: relations/parental/dad
+  item: people/dr-andy-pollich
+- 
+  type: relations/parental/friend
+  item: people/dr-johnathon-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/lindgren-rath
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

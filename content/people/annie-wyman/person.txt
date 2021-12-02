@@ -1,0 +1,64 @@
+Title: Annie Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/leann-abbott
+- 
+  type: relations/parental/mom
+  item: people/carolyn-friesen
+- 
+  type: relations/parental/brosis
+  item: people/benjamin-cormier
+- 
+  type: relations/parental/friend
+  item: people/isac-jacobson
+- 
+  type: relations/money/creditor
+  item: people/raymond-gleason
+- 
+  type: relations/money/creditor
+  item: people/fermin-renner
+- 
+  type: relations/work/employer
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-group
+- 
+  type: relations/work/client
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/client
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

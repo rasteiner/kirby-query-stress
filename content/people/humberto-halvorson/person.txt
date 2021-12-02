@@ -1,0 +1,64 @@
+Title: Humberto Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-ari-turner
+- 
+  type: relations/parental/dad
+  item: people/sarina-abbott
+- 
+  type: relations/parental/mom
+  item: people/sheldon-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/mrs-catalina-powlowski-jr
+- 
+  type: relations/parental/dad
+  item: people/mrs-genevieve-deckow-i
+- 
+  type: relations/parental/colleague
+  item: people/meghan-reynolds
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/creditor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

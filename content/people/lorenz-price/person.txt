@@ -1,0 +1,64 @@
+Title: Lorenz Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/nils-sauer
+- 
+  type: relations/money/creditor
+  item: people/micheal-homenick
+- 
+  type: relations/parental/dad
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/brosis
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/christine-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/guillermo-koss-iii
+- 
+  type: relations/work/client
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/client
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/work/employer
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

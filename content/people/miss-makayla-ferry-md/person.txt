@@ -1,0 +1,64 @@
+Title: Miss Makayla Ferry MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/charlotte-barton
+- 
+  type: relations/money/creditor
+  item: people/mrs-eugenia-koch-sr
+- 
+  type: relations/parental/dad
+  item: people/prof-seth-gutkowski
+- 
+  type: relations/parental/friend
+  item: people/dave-quigley-sr
+- 
+  type: relations/parental/dad
+  item: people/braxton-smith
+- 
+  type: relations/money/debtor
+  item: people/maud-labadie
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/employer
+  item: companies/becker-ltd
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/work/employer
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

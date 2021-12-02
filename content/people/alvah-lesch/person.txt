@@ -1,0 +1,64 @@
+Title: Alvah Lesch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/vivien-boyle
+- 
+  type: relations/parental/colleague
+  item: people/mercedes-legros
+- 
+  type: relations/parental/colleague
+  item: people/alycia-rice-phd
+- 
+  type: relations/parental/mom
+  item: people/vena-lakin
+- 
+  type: relations/parental/dad
+  item: people/chaz-schaefer
+- 
+  type: relations/parental/friend
+  item: people/miss-marie-rowe-iv
+- 
+  type: relations/work/employer
+  item: companies/boyer-llc
+- 
+  type: relations/work/client
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

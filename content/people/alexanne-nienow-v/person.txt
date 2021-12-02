@@ -1,0 +1,65 @@
+Title: Alexanne Nienow V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-cierra-herzog-dvm
+- 
+  type: relations/parental/colleague
+  item: people/murl-legros
+- 
+  type: relations/parental/dad
+  item: people/heaven-deckow
+- 
+  type: relations/parental/dad
+  item: people/prof-garfield-borer-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-aida-schaden-sr
+- 
+  type: relations/money/creditor
+  item: people/ilene-kulas
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/lemke-ltd
+- 
+  type: relations/work/employer
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

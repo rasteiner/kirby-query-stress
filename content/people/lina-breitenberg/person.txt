@@ -1,0 +1,64 @@
+Title: Lina Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/margarette-heidenreich
+- 
+  type: relations/parental/brosis
+  item: people/miss-elvera-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/lera-kassulke
+- 
+  type: relations/money/creditor
+  item: people/mr-abdullah-rippin-dvm
+- 
+  type: relations/parental/mom
+  item: people/hank-flatley
+- 
+  type: relations/money/creditor
+  item: people/zoe-torphy-phd
+- 
+  type: relations/work/client
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

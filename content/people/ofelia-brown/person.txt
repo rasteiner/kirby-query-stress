@@ -1,0 +1,64 @@
+Title: Ofelia Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gavin-tremblay
+- 
+  type: relations/money/creditor
+  item: people/curt-blanda
+- 
+  type: relations/parental/dad
+  item: people/miss-arlene-davis-dvm
+- 
+  type: relations/money/debtor
+  item: people/lamont-herman
+- 
+  type: relations/parental/mom
+  item: people/benjamin-schuster
+- 
+  type: relations/parental/brosis
+  item: people/estevan-bins
+- 
+  type: relations/work/client
+  item: companies/labadie-plc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/work/employer
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

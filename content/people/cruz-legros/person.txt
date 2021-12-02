@@ -1,0 +1,64 @@
+Title: Cruz Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lindsay-lindgren
+- 
+  type: relations/parental/mom
+  item: people/dulce-grimes-sr
+- 
+  type: relations/money/creditor
+  item: people/adah-dubuque
+- 
+  type: relations/parental/friend
+  item: people/reese-stamm
+- 
+  type: relations/money/creditor
+  item: people/dr-franz-labadie-jr
+- 
+  type: relations/parental/brosis
+  item: people/pamela-lakin
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Miss Meghan Lind V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/beaulah-kihn
+- 
+  type: relations/parental/brosis
+  item: people/noel-kunze
+- 
+  type: relations/money/creditor
+  item: people/athena-wehner
+- 
+  type: relations/parental/colleague
+  item: people/devante-yost-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-gabrielle-parker
+- 
+  type: relations/parental/brosis
+  item: people/lisa-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/employer
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/client
+  item: companies/lindgren-rath
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

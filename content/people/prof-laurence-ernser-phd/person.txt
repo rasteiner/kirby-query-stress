@@ -1,0 +1,64 @@
+Title: Prof. Laurence Ernser PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/margaret-schaefer
+- 
+  type: relations/money/debtor
+  item: people/dr-jonatan-luettgen-sr
+- 
+  type: relations/parental/friend
+  item: people/miss-antonette-grant
+- 
+  type: relations/money/debtor
+  item: people/idella-raynor
+- 
+  type: relations/money/debtor
+  item: people/dr-watson-pollich
+- 
+  type: relations/money/creditor
+  item: people/tia-zulauf
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

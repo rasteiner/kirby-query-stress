@@ -1,0 +1,64 @@
+Title: Grady Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/maddison-huels
+- 
+  type: relations/parental/friend
+  item: people/isaias-watsica
+- 
+  type: relations/parental/dad
+  item: people/dr-jasper-hudson-v
+- 
+  type: relations/parental/brosis
+  item: people/veronica-metz
+- 
+  type: relations/parental/dad
+  item: people/jeremie-wolff
+- 
+  type: relations/parental/brosis
+  item: people/pearlie-mann-jr
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/money/debtor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/client
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

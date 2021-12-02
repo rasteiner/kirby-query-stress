@@ -1,0 +1,64 @@
+Title: Eleanore Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-geovanny-schmitt
+- 
+  type: relations/parental/colleague
+  item: people/mrs-citlalli-koch-v
+- 
+  type: relations/parental/colleague
+  item: people/pierce-morissette-jr
+- 
+  type: relations/money/debtor
+  item: people/alysson-thompson
+- 
+  type: relations/parental/mom
+  item: people/cordie-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/dr-erik-kozey
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/employer
+  item: companies/russel-collier
+- 
+  type: relations/work/client
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

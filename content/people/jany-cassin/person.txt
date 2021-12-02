@@ -1,0 +1,65 @@
+Title: Jany Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/consuelo-o-connell
+- 
+  type: relations/money/creditor
+  item: people/dr-reba-dicki-jr
+- 
+  type: relations/parental/friend
+  item: people/hayley-stehr
+- 
+  type: relations/parental/dad
+  item: people/princess-romaguera
+- 
+  type: relations/parental/mom
+  item: people/gardner-king-iv
+- 
+  type: relations/parental/friend
+  item: people/elyse-reichert
+- 
+  type: relations/money/debtor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/employer
+  item: companies/goodwin-nader
+- 
+  type: relations/work/employer
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/employer
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Prof. Travon Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-kellie-thiel
+- 
+  type: relations/parental/mom
+  item: people/treva-rogahn
+- 
+  type: relations/parental/friend
+  item: people/filiberto-cummerata
+- 
+  type: relations/parental/dad
+  item: people/josianne-bernhard
+- 
+  type: relations/parental/mom
+  item: people/augustine-toy
+- 
+  type: relations/parental/mom
+  item: people/shea-witting
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/client
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

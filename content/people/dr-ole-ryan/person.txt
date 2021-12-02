@@ -1,0 +1,64 @@
+Title: Dr. Ole Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rylan-greenholt
+- 
+  type: relations/parental/dad
+  item: people/jared-green
+- 
+  type: relations/parental/mom
+  item: people/ms-mabel-adams-iii
+- 
+  type: relations/parental/friend
+  item: people/josh-johns-i
+- 
+  type: relations/parental/colleague
+  item: people/andre-ruecker
+- 
+  type: relations/money/debtor
+  item: people/mr-winfield-mayer-i
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/work/client
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

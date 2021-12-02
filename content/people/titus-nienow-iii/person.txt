@@ -1,0 +1,64 @@
+Title: Titus Nienow III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/trisha-little
+- 
+  type: relations/parental/brosis
+  item: people/keith-streich
+- 
+  type: relations/parental/brosis
+  item: people/camylle-jenkins
+- 
+  type: relations/money/creditor
+  item: people/kali-sipes
+- 
+  type: relations/parental/mom
+  item: people/mr-d-angelo-braun
+- 
+  type: relations/parental/brosis
+  item: people/ms-mozelle-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Dr. Bernice Purdy III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/yolanda-russel-i
+- 
+  type: relations/parental/dad
+  item: people/taya-schmitt
+- 
+  type: relations/parental/brosis
+  item: people/laurie-aufderhar
+- 
+  type: relations/parental/friend
+  item: people/dr-mercedes-berge-dds
+- 
+  type: relations/money/creditor
+  item: people/leopold-bradtke
+- 
+  type: relations/parental/dad
+  item: people/carson-mitchell-iii
+- 
+  type: relations/work/client
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/debtor
+  item: companies/welch-borer
+- 
+  type: relations/work/employer
+  item: companies/pollich-ltd
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

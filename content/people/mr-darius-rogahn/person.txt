@@ -1,0 +1,64 @@
+Title: Mr. Darius Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eudora-torphy
+- 
+  type: relations/money/debtor
+  item: people/helene-bauch
+- 
+  type: relations/parental/friend
+  item: people/watson-hand
+- 
+  type: relations/money/creditor
+  item: people/roxane-predovic
+- 
+  type: relations/parental/friend
+  item: people/miss-susie-rice-md
+- 
+  type: relations/parental/mom
+  item: people/iliana-reinger
+- 
+  type: relations/work/client
+  item: companies/labadie-plc
+- 
+  type: relations/work/client
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/mertz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

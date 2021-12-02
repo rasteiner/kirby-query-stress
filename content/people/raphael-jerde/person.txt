@@ -1,0 +1,64 @@
+Title: Raphael Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jerome-glover
+- 
+  type: relations/money/debtor
+  item: people/jedediah-gleichner
+- 
+  type: relations/parental/friend
+  item: people/clara-towne-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-mariane-spencer
+- 
+  type: relations/parental/dad
+  item: people/kurt-pagac
+- 
+  type: relations/money/creditor
+  item: people/katrina-bechtelar
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

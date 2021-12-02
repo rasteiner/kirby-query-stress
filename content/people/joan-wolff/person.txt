@@ -1,0 +1,64 @@
+Title: Joan Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/royal-mitchell
+- 
+  type: relations/money/debtor
+  item: people/korbin-morar
+- 
+  type: relations/money/creditor
+  item: people/marjorie-rodriguez
+- 
+  type: relations/parental/brosis
+  item: people/saul-langworth
+- 
+  type: relations/parental/brosis
+  item: people/juwan-shields
+- 
+  type: relations/money/creditor
+  item: people/ms-ciara-lehner-iv
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/money/creditor
+  item: companies/rice-inc
+- 
+  type: relations/money/creditor
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

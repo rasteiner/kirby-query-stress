@@ -1,0 +1,64 @@
+Title: Fabian Lowe V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-erica-quigley
+- 
+  type: relations/money/debtor
+  item: people/joanie-johnston
+- 
+  type: relations/parental/colleague
+  item: people/dr-junius-champlin-sr
+- 
+  type: relations/parental/brosis
+  item: people/adele-waters
+- 
+  type: relations/parental/mom
+  item: people/paige-dubuque
+- 
+  type: relations/money/debtor
+  item: people/deangelo-rempel
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Leo Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jamaal-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/celia-sawayn
+- 
+  type: relations/money/debtor
+  item: people/lawrence-o-kon
+- 
+  type: relations/parental/mom
+  item: people/joy-stracke
+- 
+  type: relations/parental/mom
+  item: people/prof-selina-funk
+- 
+  type: relations/parental/mom
+  item: people/mrs-delphine-rohan
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/employer
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

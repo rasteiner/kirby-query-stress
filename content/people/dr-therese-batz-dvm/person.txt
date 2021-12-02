@@ -1,0 +1,64 @@
+Title: Dr. Therese Batz DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-halle-bergstrom-dds
+- 
+  type: relations/parental/mom
+  item: people/alena-prohaska
+- 
+  type: relations/parental/friend
+  item: people/cortez-rodriguez
+- 
+  type: relations/parental/colleague
+  item: people/felicia-orn
+- 
+  type: relations/parental/friend
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/parental/friend
+  item: people/patricia-dare
+- 
+  type: relations/work/client
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/work/client
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/work/employer
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

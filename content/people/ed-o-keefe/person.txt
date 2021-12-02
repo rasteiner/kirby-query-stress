@@ -1,0 +1,64 @@
+Title: Ed O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elliott-goyette
+- 
+  type: relations/money/debtor
+  item: people/rosalyn-lehner
+- 
+  type: relations/parental/brosis
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/dad
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/money/debtor
+  item: people/shea-fisher-md
+- 
+  type: relations/parental/mom
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/work/client
+  item: companies/abernathy-inc
+- 
+  type: relations/work/employer
+  item: companies/miller-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,65 @@
+Title: Carissa Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/burnice-eichmann-iv
+- 
+  type: relations/parental/dad
+  item: people/ramon-strosin
+- 
+  type: relations/parental/brosis
+  item: people/prof-stuart-leannon
+- 
+  type: relations/parental/dad
+  item: people/lisette-veum
+- 
+  type: relations/parental/colleague
+  item: people/mrs-mazie-wiza-iv
+- 
+  type: relations/parental/friend
+  item: people/archibald-hills
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/employer
+  item: companies/gleason-group
+- 
+  type: relations/work/employer
+  item: companies/hamill-inc
+- 
+  type: relations/money/debtor
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

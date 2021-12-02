@@ -1,0 +1,64 @@
+Title: Mia Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-delbert-fisher
+- 
+  type: relations/parental/brosis
+  item: people/casey-carter
+- 
+  type: relations/parental/dad
+  item: people/gonzalo-bauch-v
+- 
+  type: relations/money/creditor
+  item: people/kelly-goodwin
+- 
+  type: relations/parental/colleague
+  item: people/kim-osinski
+- 
+  type: relations/parental/colleague
+  item: people/prof-yvette-heathcote
+- 
+  type: relations/work/employer
+  item: companies/lebsack-berge
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/work/employer
+  item: companies/volkman-group
+- 
+  type: relations/money/creditor
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

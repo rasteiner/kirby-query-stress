@@ -1,0 +1,64 @@
+Title: Dr. Raquel Blanda
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elmo-kulas-iii
+- 
+  type: relations/money/debtor
+  item: people/eladio-keebler
+- 
+  type: relations/parental/dad
+  item: people/camille-ullrich-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-randi-batz-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-darryl-mclaughlin-i
+- 
+  type: relations/parental/dad
+  item: people/allene-mueller-i
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/employer
+  item: companies/harvey-lang
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Mr. Miles Hand I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-johnny-beier
+- 
+  type: relations/money/debtor
+  item: people/marilou-christiansen-iii
+- 
+  type: relations/money/debtor
+  item: people/deonte-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/furman-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/enoch-gutmann
+- 
+  type: relations/parental/mom
+  item: people/ms-kellie-wisoky
+- 
+  type: relations/work/client
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/client
+  item: companies/hudson-group
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

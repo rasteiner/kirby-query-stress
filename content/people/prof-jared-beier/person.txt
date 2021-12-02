@@ -1,0 +1,64 @@
+Title: Prof. Jared Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-elroy-stehr
+- 
+  type: relations/parental/dad
+  item: people/deven-bogisich
+- 
+  type: relations/parental/friend
+  item: people/dr-cara-haley
+- 
+  type: relations/parental/mom
+  item: people/miss-donna-gutmann
+- 
+  type: relations/parental/mom
+  item: people/prof-elta-mills
+- 
+  type: relations/money/creditor
+  item: people/colten-keebler
+- 
+  type: relations/work/client
+  item: companies/koch-ltd
+- 
+  type: relations/work/client
+  item: companies/schoen-group
+- 
+  type: relations/work/client
+  item: companies/daniel-hills
+- 
+  type: relations/money/debtor
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

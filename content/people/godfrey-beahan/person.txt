@@ -1,0 +1,64 @@
+Title: Godfrey Beahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/art-mayert
+- 
+  type: relations/parental/mom
+  item: people/mr-davon-jenkins
+- 
+  type: relations/parental/friend
+  item: people/kianna-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/emile-fahey
+- 
+  type: relations/parental/dad
+  item: people/dixie-lesch
+- 
+  type: relations/parental/colleague
+  item: people/samir-botsford
+- 
+  type: relations/work/client
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/debtor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

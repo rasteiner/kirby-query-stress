@@ -1,0 +1,64 @@
+Title: Otis Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/gino-goldner
+- 
+  type: relations/parental/brosis
+  item: people/marcia-gislason-phd
+- 
+  type: relations/money/debtor
+  item: people/rodrigo-gibson
+- 
+  type: relations/parental/colleague
+  item: people/laurianne-hammes
+- 
+  type: relations/parental/dad
+  item: people/avery-rau-sr
+- 
+  type: relations/money/debtor
+  item: people/logan-roob
+- 
+  type: relations/work/employer
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/koelpin-group
+- 
+  type: relations/work/employer
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

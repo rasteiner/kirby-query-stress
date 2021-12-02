@@ -1,0 +1,64 @@
+Title: Elaina Williamson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rowland-konopelski
+- 
+  type: relations/parental/friend
+  item: people/tyra-franecki-md
+- 
+  type: relations/parental/friend
+  item: people/devante-weber-ii
+- 
+  type: relations/parental/friend
+  item: people/nikolas-kuvalis
+- 
+  type: relations/parental/dad
+  item: people/miss-electa-rohan-ii
+- 
+  type: relations/parental/brosis
+  item: people/leonardo-haag
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

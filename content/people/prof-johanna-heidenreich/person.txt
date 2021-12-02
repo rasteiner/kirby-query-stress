@@ -1,0 +1,64 @@
+Title: Prof. Johanna Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dudley-white
+- 
+  type: relations/parental/brosis
+  item: people/miss-sierra-champlin
+- 
+  type: relations/parental/dad
+  item: people/mr-austin-macejkovic
+- 
+  type: relations/parental/mom
+  item: people/jaylan-hudson
+- 
+  type: relations/money/debtor
+  item: people/earl-douglas-i
+- 
+  type: relations/parental/colleague
+  item: people/tamia-quitzon-iii
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

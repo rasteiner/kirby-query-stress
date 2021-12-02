@@ -1,0 +1,64 @@
+Title: Amir Marks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/adolphus-wisoky
+- 
+  type: relations/parental/dad
+  item: people/cordie-spencer
+- 
+  type: relations/parental/mom
+  item: people/columbus-huels-i
+- 
+  type: relations/parental/mom
+  item: people/franz-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/brycen-gibson
+- 
+  type: relations/money/creditor
+  item: people/ms-lucie-walsh-sr
+- 
+  type: relations/work/employer
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/client
+  item: companies/blanda-bartell
+- 
+  type: relations/work/employer
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

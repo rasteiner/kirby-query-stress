@@ -1,0 +1,64 @@
+Title: Prof. Juwan Block I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-emilia-cummerata
+- 
+  type: relations/parental/friend
+  item: people/ova-goodwin-sr
+- 
+  type: relations/parental/brosis
+  item: people/ulices-hand
+- 
+  type: relations/parental/brosis
+  item: people/daniella-skiles
+- 
+  type: relations/money/creditor
+  item: people/emelia-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/nyasia-batz
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

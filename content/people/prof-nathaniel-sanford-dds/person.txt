@@ -1,0 +1,64 @@
+Title: Prof. Nathaniel Sanford DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/regan-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/aurore-dickens
+- 
+  type: relations/money/debtor
+  item: people/leif-rippin
+- 
+  type: relations/money/debtor
+  item: people/prof-emerson-koch
+- 
+  type: relations/parental/dad
+  item: people/dr-ezequiel-zemlak
+- 
+  type: relations/parental/friend
+  item: people/alexandra-kulas
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/employer
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

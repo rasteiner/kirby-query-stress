@@ -1,0 +1,64 @@
+Title: Prof. Mabel Labadie III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-sonny-altenwerth-v
+- 
+  type: relations/parental/mom
+  item: people/mr-mose-heaney
+- 
+  type: relations/parental/brosis
+  item: people/prof-noe-wunsch-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-macie-gleichner-md
+- 
+  type: relations/parental/mom
+  item: people/garfield-boehm
+- 
+  type: relations/parental/colleague
+  item: people/victoria-ebert-iii
+- 
+  type: relations/money/creditor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/client
+  item: companies/schmidt-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

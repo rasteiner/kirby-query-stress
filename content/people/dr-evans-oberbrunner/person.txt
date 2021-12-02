@@ -1,0 +1,64 @@
+Title: Dr. Evans Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-tevin-kuhlman-ii
+- 
+  type: relations/parental/brosis
+  item: people/armand-sipes
+- 
+  type: relations/parental/friend
+  item: people/al-williamson
+- 
+  type: relations/parental/mom
+  item: people/charles-corwin
+- 
+  type: relations/parental/dad
+  item: people/ms-katelyn-kohler-i
+- 
+  type: relations/parental/colleague
+  item: people/chet-windler-ii
+- 
+  type: relations/work/employer
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/employer
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

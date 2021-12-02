@@ -1,0 +1,64 @@
+Title: Miss Idell Skiles I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-maia-dicki-jr
+- 
+  type: relations/parental/brosis
+  item: people/raymond-dach
+- 
+  type: relations/parental/brosis
+  item: people/hans-hermiston-v
+- 
+  type: relations/money/debtor
+  item: people/valentine-willms
+- 
+  type: relations/parental/friend
+  item: people/noah-lockman
+- 
+  type: relations/parental/mom
+  item: people/emmett-mayert
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/work/employer
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

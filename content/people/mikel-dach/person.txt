@@ -1,0 +1,64 @@
+Title: Mikel Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/colton-kozey
+- 
+  type: relations/parental/dad
+  item: people/jordy-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/lucas-rath
+- 
+  type: relations/parental/dad
+  item: people/mrs-anabelle-olson
+- 
+  type: relations/money/creditor
+  item: people/rowland-konopelski
+- 
+  type: relations/money/debtor
+  item: people/tyra-franecki-md
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/money/creditor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

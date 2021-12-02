@@ -1,0 +1,43 @@
+Title: Ferry-Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/abbott-llc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/money/debtor
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/kuhicport

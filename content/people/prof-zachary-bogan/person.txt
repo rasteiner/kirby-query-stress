@@ -1,0 +1,64 @@
+Title: Prof. Zachary Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/michele-smitham-iii
+- 
+  type: relations/parental/mom
+  item: people/tessie-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/elmo-kilback
+- 
+  type: relations/money/creditor
+  item: people/rocky-sipes
+- 
+  type: relations/money/debtor
+  item: people/gina-goodwin
+- 
+  type: relations/parental/dad
+  item: people/kallie-bernier-iv
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

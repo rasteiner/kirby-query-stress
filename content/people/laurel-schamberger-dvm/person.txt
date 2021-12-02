@@ -1,0 +1,64 @@
+Title: Laurel Schamberger DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/tania-feest
+- 
+  type: relations/parental/friend
+  item: people/autumn-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/miss-anahi-green-i
+- 
+  type: relations/parental/colleague
+  item: people/zoila-stark-md
+- 
+  type: relations/parental/friend
+  item: people/orrin-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/mrs-prudence-lynch-phd
+- 
+  type: relations/work/client
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/client
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/client
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

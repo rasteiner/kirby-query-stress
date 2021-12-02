@@ -1,0 +1,64 @@
+Title: Thora Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/adelia-witting
+- 
+  type: relations/parental/dad
+  item: people/skylar-mills
+- 
+  type: relations/parental/brosis
+  item: people/harvey-bartell-iv
+- 
+  type: relations/parental/brosis
+  item: people/berry-bins
+- 
+  type: relations/money/creditor
+  item: people/omari-hirthe
+- 
+  type: relations/parental/mom
+  item: people/kenny-bosco
+- 
+  type: relations/work/employer
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

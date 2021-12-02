@@ -1,0 +1,43 @@
+Title: O'Conner-Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/smith-tromp
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/money/debtor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/east-verona

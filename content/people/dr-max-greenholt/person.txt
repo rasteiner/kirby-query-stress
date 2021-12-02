@@ -1,0 +1,64 @@
+Title: Dr. Max Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/elissa-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/rod-kerluke
+- 
+  type: relations/parental/mom
+  item: people/velda-casper-ii
+- 
+  type: relations/parental/colleague
+  item: people/ms-shanelle-hamill-v
+- 
+  type: relations/parental/colleague
+  item: people/raheem-hettinger
+- 
+  type: relations/parental/friend
+  item: people/ryan-ullrich-ii
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/work/employer
+  item: companies/howell-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

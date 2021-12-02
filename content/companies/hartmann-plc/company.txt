@@ -1,0 +1,43 @@
+Title: Hartmann PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/haley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/durgan-baumbach
+- 
+  type: relations/location/residence
+  item: places/otiliachester
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/new-anahi

@@ -1,0 +1,64 @@
+Title: Prof. Elwin Macejkovic I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/raven-ratke
+- 
+  type: relations/parental/mom
+  item: people/prof-weston-stiedemann-dvm
+- 
+  type: relations/money/creditor
+  item: people/bulah-paucek-i
+- 
+  type: relations/parental/brosis
+  item: people/brandi-miller
+- 
+  type: relations/parental/dad
+  item: people/kristopher-gleichner
+- 
+  type: relations/money/creditor
+  item: people/prof-kayley-medhurst
+- 
+  type: relations/work/client
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

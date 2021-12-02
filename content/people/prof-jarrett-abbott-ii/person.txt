@@ -1,0 +1,64 @@
+Title: Prof. Jarrett Abbott II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-loren-zieme
+- 
+  type: relations/parental/friend
+  item: people/mervin-schulist
+- 
+  type: relations/parental/mom
+  item: people/russell-paucek
+- 
+  type: relations/parental/brosis
+  item: people/helga-emard
+- 
+  type: relations/money/creditor
+  item: people/lenna-orn
+- 
+  type: relations/parental/dad
+  item: people/valentine-sauer
+- 
+  type: relations/work/client
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/medhurst-group
+- 
+  type: relations/money/debtor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

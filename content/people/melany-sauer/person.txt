@@ -1,0 +1,65 @@
+Title: Melany Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kory-schmitt-ii
+- 
+  type: relations/parental/mom
+  item: people/gay-flatley-v
+- 
+  type: relations/money/debtor
+  item: people/jeffry-collier-sr
+- 
+  type: relations/parental/brosis
+  item: people/leonardo-cartwright-dvm
+- 
+  type: relations/parental/mom
+  item: people/milton-ruecker
+- 
+  type: relations/money/creditor
+  item: people/magnolia-bayer-sr
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

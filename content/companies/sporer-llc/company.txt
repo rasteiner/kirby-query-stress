@@ -1,0 +1,43 @@
+Title: Sporer LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview

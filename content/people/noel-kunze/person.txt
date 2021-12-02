@@ -1,0 +1,64 @@
+Title: Noel Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/colby-streich
+- 
+  type: relations/parental/friend
+  item: people/nikolas-smith
+- 
+  type: relations/money/debtor
+  item: people/prof-jordy-weissnat-md
+- 
+  type: relations/parental/mom
+  item: people/ed-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/damien-franecki
+- 
+  type: relations/parental/friend
+  item: people/georgiana-ernser
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/client
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

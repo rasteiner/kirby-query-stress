@@ -1,0 +1,64 @@
+Title: Ronny McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/flo-nitzsche
+- 
+  type: relations/parental/mom
+  item: people/catherine-berge
+- 
+  type: relations/parental/brosis
+  item: people/dr-serenity-upton
+- 
+  type: relations/parental/friend
+  item: people/mrs-jammie-schneider
+- 
+  type: relations/money/creditor
+  item: people/randall-streich-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-amelia-welch
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/client
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

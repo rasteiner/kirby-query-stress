@@ -1,0 +1,64 @@
+Title: Thora Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/fabiola-wuckert
+- 
+  type: relations/money/creditor
+  item: people/ashlee-rempel
+- 
+  type: relations/parental/dad
+  item: people/julia-johnson
+- 
+  type: relations/money/creditor
+  item: people/bridgette-grant
+- 
+  type: relations/parental/mom
+  item: people/miss-darby-collins
+- 
+  type: relations/parental/colleague
+  item: people/davon-huels
+- 
+  type: relations/money/creditor
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-group
+- 
+  type: relations/work/employer
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

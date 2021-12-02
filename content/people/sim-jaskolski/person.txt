@@ -1,0 +1,64 @@
+Title: Sim Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nola-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/mr-casimer-keebler-sr
+- 
+  type: relations/parental/mom
+  item: people/jaleel-sauer
+- 
+  type: relations/parental/brosis
+  item: people/tyler-gleichner-v
+- 
+  type: relations/parental/brosis
+  item: people/berta-ullrich
+- 
+  type: relations/parental/dad
+  item: people/audreanne-dicki
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/money/debtor
+  item: companies/smith-tromp
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

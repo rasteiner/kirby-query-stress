@@ -1,0 +1,64 @@
+Title: Buddy Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rubie-russel
+- 
+  type: relations/parental/brosis
+  item: people/dr-laurel-greenholt-md
+- 
+  type: relations/parental/brosis
+  item: people/henriette-howell
+- 
+  type: relations/parental/dad
+  item: people/aletha-hermann
+- 
+  type: relations/parental/mom
+  item: people/declan-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/gerardo-kutch
+- 
+  type: relations/work/client
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/client
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/client
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/employer
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

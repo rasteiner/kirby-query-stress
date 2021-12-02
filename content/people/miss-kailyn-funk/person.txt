@@ -1,0 +1,64 @@
+Title: Miss Kailyn Funk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cordelia-schaden-i
+- 
+  type: relations/money/creditor
+  item: people/destin-von
+- 
+  type: relations/parental/colleague
+  item: people/prof-ryan-swift
+- 
+  type: relations/parental/dad
+  item: people/clay-doyle
+- 
+  type: relations/money/debtor
+  item: people/lindsey-hagenes
+- 
+  type: relations/parental/mom
+  item: people/leonel-becker
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/work/client
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/creditor
+  item: companies/ratke-fay
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

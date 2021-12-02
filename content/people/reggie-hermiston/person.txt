@@ -1,0 +1,64 @@
+Title: Reggie Hermiston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ronny-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/rita-balistreri
+- 
+  type: relations/money/creditor
+  item: people/wilber-flatley
+- 
+  type: relations/money/creditor
+  item: people/adaline-corwin
+- 
+  type: relations/money/creditor
+  item: people/christina-zemlak-ii
+- 
+  type: relations/parental/colleague
+  item: people/kiley-o-kon
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Johanna Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/billie-kihn
+- 
+  type: relations/money/creditor
+  item: people/otha-fay-dvm
+- 
+  type: relations/money/creditor
+  item: people/geovanny-torp
+- 
+  type: relations/money/debtor
+  item: people/anthony-corwin
+- 
+  type: relations/parental/brosis
+  item: people/marisol-collier-md
+- 
+  type: relations/parental/colleague
+  item: people/german-reilly
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

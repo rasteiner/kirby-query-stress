@@ -1,0 +1,64 @@
+Title: Valerie Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-nyasia-parisian
+- 
+  type: relations/money/debtor
+  item: people/anna-batz
+- 
+  type: relations/parental/dad
+  item: people/makayla-kling
+- 
+  type: relations/parental/friend
+  item: people/jacynthe-lueilwitz
+- 
+  type: relations/parental/mom
+  item: people/dallin-terry
+- 
+  type: relations/parental/colleague
+  item: people/prof-benton-goldner
+- 
+  type: relations/work/employer
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/work/client
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

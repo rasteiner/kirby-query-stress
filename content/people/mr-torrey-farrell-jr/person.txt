@@ -1,0 +1,65 @@
+Title: Mr. Torrey Farrell Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jazmyne-marquardt
+- 
+  type: relations/money/debtor
+  item: people/macey-friesen
+- 
+  type: relations/parental/brosis
+  item: people/mrs-billie-smitham-v
+- 
+  type: relations/money/debtor
+  item: people/giovanny-connelly
+- 
+  type: relations/parental/friend
+  item: people/marjorie-kris-ii
+- 
+  type: relations/parental/colleague
+  item: people/dasia-toy
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/employer
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Mrs. Emie Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/johnny-stanton
+- 
+  type: relations/parental/dad
+  item: people/dr-wilber-padberg
+- 
+  type: relations/money/creditor
+  item: people/gerard-johns
+- 
+  type: relations/money/creditor
+  item: people/prof-maximo-fadel
+- 
+  type: relations/money/creditor
+  item: people/prof-elwin-macejkovic-i
+- 
+  type: relations/money/creditor
+  item: people/prof-charles-rowe-iii
+- 
+  type: relations/work/client
+  item: companies/tremblay-ankunding
+- 
+  type: relations/work/client
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/client
+  item: companies/harvey-lang
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

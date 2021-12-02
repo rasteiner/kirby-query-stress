@@ -1,0 +1,64 @@
+Title: Charity Kling PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/travis-carroll
+- 
+  type: relations/parental/dad
+  item: people/taylor-howell
+- 
+  type: relations/parental/friend
+  item: people/prof-clemens-auer
+- 
+  type: relations/parental/brosis
+  item: people/madisyn-fritsch
+- 
+  type: relations/parental/mom
+  item: people/ms-dora-hand-iv
+- 
+  type: relations/money/debtor
+  item: people/brigitte-crooks-md
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

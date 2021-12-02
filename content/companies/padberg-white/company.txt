@@ -1,0 +1,44 @@
+Title: Padberg-White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/heaney-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/odellborough

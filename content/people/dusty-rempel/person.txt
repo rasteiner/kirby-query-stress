@@ -1,0 +1,64 @@
+Title: Dusty Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-heath-mayer-phd
+- 
+  type: relations/parental/brosis
+  item: people/dolores-herzog
+- 
+  type: relations/parental/mom
+  item: people/lydia-schiller
+- 
+  type: relations/parental/brosis
+  item: people/mr-jamel-mann-iii
+- 
+  type: relations/parental/colleague
+  item: people/trey-huels
+- 
+  type: relations/parental/dad
+  item: people/sally-dickinson-dvm
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/client
+  item: companies/hauck-inc
+- 
+  type: relations/work/employer
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/creditor
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

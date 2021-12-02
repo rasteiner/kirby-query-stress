@@ -1,0 +1,64 @@
+Title: Karine Abernathy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/desiree-luettgen
+- 
+  type: relations/parental/dad
+  item: people/noe-reinger
+- 
+  type: relations/money/creditor
+  item: people/dr-tevin-kuhlman-ii
+- 
+  type: relations/money/creditor
+  item: people/armand-sipes
+- 
+  type: relations/money/debtor
+  item: people/al-williamson
+- 
+  type: relations/parental/mom
+  item: people/charles-corwin
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/employer
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

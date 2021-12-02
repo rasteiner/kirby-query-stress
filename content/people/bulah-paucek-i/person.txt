@@ -1,0 +1,64 @@
+Title: Bulah Paucek I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/amanda-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/cathrine-marquardt-ii
+- 
+  type: relations/parental/dad
+  item: people/mabelle-goyette
+- 
+  type: relations/parental/friend
+  item: people/delia-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/keely-hackett
+- 
+  type: relations/parental/dad
+  item: people/andres-ziemann
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/work/employer
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

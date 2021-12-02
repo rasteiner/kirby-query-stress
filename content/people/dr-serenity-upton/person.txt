@@ -1,0 +1,64 @@
+Title: Dr. Serenity Upton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cedrick-dickens
+- 
+  type: relations/money/debtor
+  item: people/larry-walter
+- 
+  type: relations/parental/dad
+  item: people/mr-cornell-bogan
+- 
+  type: relations/money/debtor
+  item: people/katheryn-bayer
+- 
+  type: relations/parental/friend
+  item: people/neil-hansen-jr
+- 
+  type: relations/parental/brosis
+  item: people/abigail-fadel
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/client
+  item: companies/kris-ltd
+- 
+  type: relations/work/employer
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

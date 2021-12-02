@@ -1,0 +1,64 @@
+Title: Elisa Kassulke II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rosendo-mertz
+- 
+  type: relations/parental/dad
+  item: people/rhiannon-schoen
+- 
+  type: relations/parental/dad
+  item: people/mrs-deja-marks-ii
+- 
+  type: relations/money/debtor
+  item: people/heber-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/kristian-rempel
+- 
+  type: relations/parental/mom
+  item: people/buck-smith
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/client
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

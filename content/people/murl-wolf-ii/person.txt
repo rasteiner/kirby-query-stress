@@ -1,0 +1,64 @@
+Title: Murl Wolf II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lindsay-hayes
+- 
+  type: relations/money/debtor
+  item: people/henriette-bechtelar
+- 
+  type: relations/parental/dad
+  item: people/elinore-kulas
+- 
+  type: relations/money/debtor
+  item: people/koby-rempel
+- 
+  type: relations/parental/colleague
+  item: people/haven-kiehn
+- 
+  type: relations/parental/mom
+  item: people/prof-marco-walker
+- 
+  type: relations/money/creditor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/employer
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

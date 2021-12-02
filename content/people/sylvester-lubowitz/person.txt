@@ -1,0 +1,64 @@
+Title: Sylvester Lubowitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kristina-vandervort
+- 
+  type: relations/parental/dad
+  item: people/durward-rutherford
+- 
+  type: relations/parental/colleague
+  item: people/abagail-crooks
+- 
+  type: relations/parental/brosis
+  item: people/ms-macy-bogisich-md
+- 
+  type: relations/money/creditor
+  item: people/leora-yundt
+- 
+  type: relations/money/debtor
+  item: people/delpha-ullrich
+- 
+  type: relations/work/employer
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

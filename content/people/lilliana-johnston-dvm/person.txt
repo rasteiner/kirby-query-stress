@@ -1,0 +1,64 @@
+Title: Lilliana Johnston DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-rae-gerlach
+- 
+  type: relations/parental/mom
+  item: people/emanuel-o-conner
+- 
+  type: relations/parental/friend
+  item: people/april-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/dr-luisa-schuppe
+- 
+  type: relations/parental/brosis
+  item: people/jevon-hintz-iii
+- 
+  type: relations/parental/dad
+  item: people/ivy-herzog-i
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

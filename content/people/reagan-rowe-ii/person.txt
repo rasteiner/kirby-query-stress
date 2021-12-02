@@ -1,0 +1,64 @@
+Title: Reagan Rowe II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/parental/friend
+  item: people/fern-gerlach
+- 
+  type: relations/parental/mom
+  item: people/coralie-bode
+- 
+  type: relations/parental/friend
+  item: people/claudine-lindgren
+- 
+  type: relations/parental/colleague
+  item: people/dr-therese-batz-dvm
+- 
+  type: relations/money/creditor
+  item: people/lela-gusikowski
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/client
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

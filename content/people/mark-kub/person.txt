@@ -1,0 +1,65 @@
+Title: Mark Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/leopold-bradtke
+- 
+  type: relations/money/creditor
+  item: people/carson-mitchell-iii
+- 
+  type: relations/parental/dad
+  item: people/miss-emely-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/maryjane-lind
+- 
+  type: relations/parental/friend
+  item: people/keenan-collier
+- 
+  type: relations/parental/dad
+  item: people/omari-ledner
+- 
+  type: relations/money/creditor
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/debtor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

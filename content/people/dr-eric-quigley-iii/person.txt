@@ -1,0 +1,64 @@
+Title: Dr. Eric Quigley III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-maybelle-christiansen-iii
+- 
+  type: relations/parental/mom
+  item: people/magnus-schiller
+- 
+  type: relations/money/debtor
+  item: people/greta-osinski
+- 
+  type: relations/parental/brosis
+  item: people/estella-runte
+- 
+  type: relations/parental/friend
+  item: people/berry-wiza
+- 
+  type: relations/parental/dad
+  item: people/kelley-powlowski
+- 
+  type: relations/work/client
+  item: companies/price-group
+- 
+  type: relations/work/client
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/client
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

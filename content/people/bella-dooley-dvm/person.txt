@@ -1,0 +1,64 @@
+Title: Bella Dooley DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elizabeth-rippin
+- 
+  type: relations/money/creditor
+  item: people/daphnee-conn
+- 
+  type: relations/parental/mom
+  item: people/macey-streich
+- 
+  type: relations/parental/friend
+  item: people/wilhelm-hoeger-phd
+- 
+  type: relations/money/debtor
+  item: people/cecile-hauck-v
+- 
+  type: relations/money/debtor
+  item: people/prof-candice-eichmann
+- 
+  type: relations/work/employer
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

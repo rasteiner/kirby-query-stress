@@ -1,0 +1,64 @@
+Title: Ms. Pat Goldner V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/roma-schultz
+- 
+  type: relations/parental/mom
+  item: people/jordon-goodwin-jr
+- 
+  type: relations/money/debtor
+  item: people/thurman-nicolas
+- 
+  type: relations/money/debtor
+  item: people/delta-wilderman
+- 
+  type: relations/money/creditor
+  item: people/dorothea-o-kon-iv
+- 
+  type: relations/money/creditor
+  item: people/adelbert-lubowitz-v
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

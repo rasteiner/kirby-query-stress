@@ -1,0 +1,43 @@
+Title: Gleason Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/debtor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt

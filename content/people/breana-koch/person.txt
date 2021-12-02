@@ -1,0 +1,64 @@
+Title: Breana Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/carmel-nolan
+- 
+  type: relations/parental/dad
+  item: people/robyn-steuber
+- 
+  type: relations/parental/friend
+  item: people/mara-kassulke
+- 
+  type: relations/money/creditor
+  item: people/mrs-lauretta-powlowski-iii
+- 
+  type: relations/money/debtor
+  item: people/mikayla-braun
+- 
+  type: relations/parental/colleague
+  item: people/jayde-douglas
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/debtor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/client
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

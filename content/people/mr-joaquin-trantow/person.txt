@@ -1,0 +1,64 @@
+Title: Mr. Joaquin Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ardith-ortiz
+- 
+  type: relations/parental/colleague
+  item: people/sandrine-schiller
+- 
+  type: relations/money/creditor
+  item: people/zola-cormier-md
+- 
+  type: relations/parental/dad
+  item: people/amie-olson
+- 
+  type: relations/parental/dad
+  item: people/dr-rocky-gerlach
+- 
+  type: relations/money/debtor
+  item: people/ms-keira-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

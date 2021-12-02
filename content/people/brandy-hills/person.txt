@@ -1,0 +1,64 @@
+Title: Brandy Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tina-cartwright
+- 
+  type: relations/money/debtor
+  item: people/augusta-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/miss-makayla-connelly-dds
+- 
+  type: relations/parental/brosis
+  item: people/camila-blanda-i
+- 
+  type: relations/parental/brosis
+  item: people/addie-gleichner
+- 
+  type: relations/parental/colleague
+  item: people/krystel-hamill-dvm
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,65 @@
+Title: Austyn Monahan PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/barney-schulist-iii
+- 
+  type: relations/parental/colleague
+  item: people/mara-effertz
+- 
+  type: relations/money/creditor
+  item: people/damien-bergnaum
+- 
+  type: relations/parental/colleague
+  item: people/shyann-von-v
+- 
+  type: relations/money/debtor
+  item: people/prof-bettye-ernser-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-monte-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

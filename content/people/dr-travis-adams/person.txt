@@ -1,0 +1,64 @@
+Title: Dr. Travis Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-lexie-leuschke-v
+- 
+  type: relations/money/debtor
+  item: people/joan-wolff
+- 
+  type: relations/parental/dad
+  item: people/dr-elmore-feil
+- 
+  type: relations/parental/dad
+  item: people/dr-julius-conroy
+- 
+  type: relations/parental/friend
+  item: people/ross-gleichner-iii
+- 
+  type: relations/parental/colleague
+  item: people/torey-mitchell
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

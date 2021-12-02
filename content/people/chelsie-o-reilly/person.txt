@@ -1,0 +1,64 @@
+Title: Chelsie O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/sherwood-prosacco-phd
+- 
+  type: relations/money/debtor
+  item: people/asa-lehner
+- 
+  type: relations/parental/friend
+  item: people/lemuel-sipes
+- 
+  type: relations/money/creditor
+  item: people/prof-anita-spinka-v
+- 
+  type: relations/money/debtor
+  item: people/tyshawn-jacobson
+- 
+  type: relations/parental/dad
+  item: people/prof-valerie-mcdermott
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

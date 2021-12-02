@@ -1,0 +1,64 @@
+Title: Christine Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-meaghan-cartwright-i
+- 
+  type: relations/parental/friend
+  item: people/grady-howe
+- 
+  type: relations/money/debtor
+  item: people/geoffrey-schaden
+- 
+  type: relations/money/creditor
+  item: people/ms-drew-prohaska-dvm
+- 
+  type: relations/parental/brosis
+  item: people/michele-smitham-iii
+- 
+  type: relations/parental/mom
+  item: people/tessie-kuhlman
+- 
+  type: relations/money/debtor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/work/employer
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/client
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

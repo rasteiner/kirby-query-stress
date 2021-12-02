@@ -1,0 +1,64 @@
+Title: Cruz Berge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/clinton-koss
+- 
+  type: relations/parental/mom
+  item: people/anika-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/omari-paucek
+- 
+  type: relations/money/debtor
+  item: people/jeromy-bosco
+- 
+  type: relations/money/debtor
+  item: people/dr-garry-lemke-v
+- 
+  type: relations/parental/dad
+  item: people/simeon-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/work/client
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

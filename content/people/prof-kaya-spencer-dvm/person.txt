@@ -1,0 +1,64 @@
+Title: Prof. Kaya Spencer DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kayla-block
+- 
+  type: relations/parental/brosis
+  item: people/dr-macey-daugherty
+- 
+  type: relations/money/debtor
+  item: people/ms-lina-vonrueden-v
+- 
+  type: relations/money/debtor
+  item: people/monique-kilback
+- 
+  type: relations/parental/friend
+  item: people/prof-oda-mills-dvm
+- 
+  type: relations/parental/friend
+  item: people/maribel-blanda
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/work/employer
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

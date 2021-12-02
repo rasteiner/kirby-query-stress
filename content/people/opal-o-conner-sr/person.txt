@@ -1,0 +1,64 @@
+Title: Opal O'Conner Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/tod-crist
+- 
+  type: relations/money/creditor
+  item: people/jess-dicki
+- 
+  type: relations/parental/brosis
+  item: people/jeffery-brekke-dds
+- 
+  type: relations/parental/colleague
+  item: people/mr-sigurd-skiles-jr
+- 
+  type: relations/parental/dad
+  item: people/alia-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/abigail-daniel
+- 
+  type: relations/work/client
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/client
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/client
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/employer
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

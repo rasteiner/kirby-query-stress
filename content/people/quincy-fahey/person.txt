@@ -1,0 +1,65 @@
+Title: Quincy Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/parker-ruecker
+- 
+  type: relations/parental/brosis
+  item: people/nicolas-orn
+- 
+  type: relations/parental/dad
+  item: people/weldon-walter
+- 
+  type: relations/parental/colleague
+  item: people/stone-satterfield-jr
+- 
+  type: relations/parental/friend
+  item: people/mattie-treutel-ii
+- 
+  type: relations/parental/mom
+  item: people/garrison-brakus
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/creditor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/client
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/employer
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

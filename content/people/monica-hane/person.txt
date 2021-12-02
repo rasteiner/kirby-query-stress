@@ -1,0 +1,64 @@
+Title: Monica Hane
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dolly-hickle
+- 
+  type: relations/parental/friend
+  item: people/dr-ivy-herman
+- 
+  type: relations/money/creditor
+  item: people/theresa-orn
+- 
+  type: relations/parental/friend
+  item: people/precious-cruickshank
+- 
+  type: relations/parental/mom
+  item: people/imelda-kihn
+- 
+  type: relations/parental/dad
+  item: people/dr-allen-hodkiewicz-ii
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/money/debtor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,65 @@
+Title: Clara Effertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/reilly-goyette-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kendra-corkery
+- 
+  type: relations/parental/dad
+  item: people/ludie-o-kon-phd
+- 
+  type: relations/parental/dad
+  item: people/jaydon-hilll-iv
+- 
+  type: relations/parental/dad
+  item: people/austyn-monahan-phd
+- 
+  type: relations/parental/dad
+  item: people/dr-rowan-goyette
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/debtor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/bogan-mertz
+- 
+  type: relations/work/client
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

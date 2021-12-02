@@ -1,0 +1,64 @@
+Title: Diamond Jerde DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/laverna-gleason
+- 
+  type: relations/money/debtor
+  item: people/ova-brekke
+- 
+  type: relations/parental/colleague
+  item: people/ryder-sipes
+- 
+  type: relations/parental/friend
+  item: people/josephine-howell
+- 
+  type: relations/parental/friend
+  item: people/reagan-murray
+- 
+  type: relations/parental/colleague
+  item: people/ms-shakira-pollich-iii
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/work/employer
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

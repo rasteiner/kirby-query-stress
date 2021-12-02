@@ -1,0 +1,64 @@
+Title: Dr. Ward Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/brenna-howell-v
+- 
+  type: relations/parental/dad
+  item: people/myriam-marquardt-md
+- 
+  type: relations/parental/friend
+  item: people/nathen-goldner
+- 
+  type: relations/money/creditor
+  item: people/mr-ibrahim-ledner
+- 
+  type: relations/parental/mom
+  item: people/sarai-schulist
+- 
+  type: relations/parental/brosis
+  item: people/ron-o-keefe-md
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/work/employer
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

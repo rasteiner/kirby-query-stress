@@ -1,0 +1,64 @@
+Title: Miss Zena Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/enid-mayert
+- 
+  type: relations/parental/mom
+  item: people/wilber-marvin
+- 
+  type: relations/parental/colleague
+  item: people/wiley-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/jack-kiehn
+- 
+  type: relations/money/creditor
+  item: people/miss-dorothy-veum
+- 
+  type: relations/parental/friend
+  item: people/mrs-meagan-feest
+- 
+  type: relations/money/creditor
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/employer
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

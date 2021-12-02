@@ -1,0 +1,64 @@
+Title: Freddy Zemlak II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jed-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/mitchel-kirlin
+- 
+  type: relations/parental/mom
+  item: people/margaretta-cassin
+- 
+  type: relations/parental/dad
+  item: people/alvina-kohler
+- 
+  type: relations/parental/brosis
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

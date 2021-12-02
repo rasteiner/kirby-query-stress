@@ -1,0 +1,65 @@
+Title: Rosalia Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/laron-sauer
+- 
+  type: relations/parental/mom
+  item: people/gunner-johnston
+- 
+  type: relations/parental/mom
+  item: people/shea-steuber
+- 
+  type: relations/money/debtor
+  item: people/burdette-kozey-dds
+- 
+  type: relations/parental/friend
+  item: people/jordi-marquardt
+- 
+  type: relations/money/debtor
+  item: people/andreane-wisozk
+- 
+  type: relations/work/employer
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

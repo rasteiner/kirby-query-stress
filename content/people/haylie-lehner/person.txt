@@ -1,0 +1,64 @@
+Title: Haylie Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mabelle-goyette
+- 
+  type: relations/parental/mom
+  item: people/delia-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/keely-hackett
+- 
+  type: relations/parental/colleague
+  item: people/andres-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/mabel-effertz
+- 
+  type: relations/money/debtor
+  item: people/ms-julie-koss-md
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/client
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

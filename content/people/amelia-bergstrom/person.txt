@@ -1,0 +1,64 @@
+Title: Amelia Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jermain-lind-ii
+- 
+  type: relations/money/creditor
+  item: people/prudence-krajcik-phd
+- 
+  type: relations/money/creditor
+  item: people/ms-vincenza-bosco-i
+- 
+  type: relations/parental/colleague
+  item: people/jocelyn-kohler
+- 
+  type: relations/parental/colleague
+  item: people/eda-kovacek
+- 
+  type: relations/money/debtor
+  item: people/clare-leuschke
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/client
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/employer
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Prof. Sabrina Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/parental/brosis
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/money/debtor
+  item: people/brendon-ryan-md
+- 
+  type: relations/parental/friend
+  item: people/derick-pollich
+- 
+  type: relations/parental/colleague
+  item: people/dr-reginald-hoppe-md
+- 
+  type: relations/parental/dad
+  item: people/mr-jamison-breitenberg-md
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-plc
+- 
+  type: relations/work/employer
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/work/employer
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

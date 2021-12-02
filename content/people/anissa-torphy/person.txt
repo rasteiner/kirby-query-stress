@@ -1,0 +1,64 @@
+Title: Anissa Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leanne-schiller
+- 
+  type: relations/parental/dad
+  item: people/cloyd-harvey-md
+- 
+  type: relations/parental/mom
+  item: people/mr-juwan-gorczany
+- 
+  type: relations/parental/dad
+  item: people/glenna-klocko
+- 
+  type: relations/parental/friend
+  item: people/prof-brenden-jacobson-jr
+- 
+  type: relations/parental/mom
+  item: people/dina-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/client
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/employer
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

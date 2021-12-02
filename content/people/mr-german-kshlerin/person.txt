@@ -1,0 +1,64 @@
+Title: Mr. German Kshlerin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/reymundo-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/joelle-feest
+- 
+  type: relations/parental/friend
+  item: people/earline-greenfelder-i
+- 
+  type: relations/parental/mom
+  item: people/xander-king
+- 
+  type: relations/money/creditor
+  item: people/tyrel-maggio
+- 
+  type: relations/parental/dad
+  item: people/chelsea-sanford
+- 
+  type: relations/work/employer
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/work/employer
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

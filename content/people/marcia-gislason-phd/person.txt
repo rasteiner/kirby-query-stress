@@ -1,0 +1,64 @@
+Title: Marcia Gislason PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-ryann-kuhic-md
+- 
+  type: relations/parental/brosis
+  item: people/ceasar-ferry
+- 
+  type: relations/parental/brosis
+  item: people/mrs-celestine-mills-md
+- 
+  type: relations/money/creditor
+  item: people/reggie-hermiston
+- 
+  type: relations/parental/friend
+  item: people/sandra-champlin-phd
+- 
+  type: relations/money/creditor
+  item: people/mr-joshuah-langosh-i
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/herzog-plc
+- 
+  type: relations/work/client
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/client
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

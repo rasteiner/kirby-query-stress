@@ -1,0 +1,64 @@
+Title: Lelia Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-edyth-brekke-i
+- 
+  type: relations/money/creditor
+  item: people/emmitt-barrows
+- 
+  type: relations/money/creditor
+  item: people/nadia-goodwin
+- 
+  type: relations/money/debtor
+  item: people/mr-rex-mante
+- 
+  type: relations/money/creditor
+  item: people/dr-heath-swaniawski-ii
+- 
+  type: relations/parental/friend
+  item: people/ms-pansy-rau
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

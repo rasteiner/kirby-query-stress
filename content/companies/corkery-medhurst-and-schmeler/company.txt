@@ -1,0 +1,44 @@
+Title: Corkery, Medhurst and Schmeler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/money/creditor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/east-jadafort

@@ -1,0 +1,64 @@
+Title: Eulah Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/justus-ratke
+- 
+  type: relations/money/creditor
+  item: people/harry-durgan
+- 
+  type: relations/parental/dad
+  item: people/kyra-willms
+- 
+  type: relations/money/creditor
+  item: people/josiane-okuneva
+- 
+  type: relations/parental/colleague
+  item: people/jovani-jast
+- 
+  type: relations/parental/colleague
+  item: people/mr-brown-mertz
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/client
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

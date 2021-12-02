@@ -1,0 +1,65 @@
+Title: Ollie Romaguera
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/santina-torp-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-kiley-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/prof-gennaro-lueilwitz-md
+- 
+  type: relations/parental/friend
+  item: people/melody-emard
+- 
+  type: relations/money/creditor
+  item: people/maximus-dubuque-jr
+- 
+  type: relations/parental/friend
+  item: people/ursula-fadel
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/client
+  item: companies/bogan-mertz
+- 
+  type: relations/work/employer
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

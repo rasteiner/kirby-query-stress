@@ -1,0 +1,65 @@
+Title: Brett Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/tania-hagenes
+- 
+  type: relations/money/creditor
+  item: people/ariel-thiel
+- 
+  type: relations/parental/brosis
+  item: people/euna-heathcote-dds
+- 
+  type: relations/parental/friend
+  item: people/dr-saul-schuster-jr
+- 
+  type: relations/parental/dad
+  item: people/reggie-pollich-ii
+- 
+  type: relations/parental/friend
+  item: people/mrs-ada-beier
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/client
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

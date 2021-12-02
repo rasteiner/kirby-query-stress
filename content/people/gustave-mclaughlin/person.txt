@@ -1,0 +1,64 @@
+Title: Gustave McLaughlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/samanta-kovacek
+- 
+  type: relations/parental/mom
+  item: people/prof-isaiah-weber
+- 
+  type: relations/parental/dad
+  item: people/dr-precious-macejkovic
+- 
+  type: relations/parental/dad
+  item: people/thurman-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/lloyd-schoen
+- 
+  type: relations/parental/colleague
+  item: people/hazle-jast
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

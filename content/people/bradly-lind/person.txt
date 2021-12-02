@@ -1,0 +1,64 @@
+Title: Bradly Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/clementine-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/rossie-bogan
+- 
+  type: relations/parental/colleague
+  item: people/gussie-klocko
+- 
+  type: relations/parental/friend
+  item: people/dr-austin-watsica-sr
+- 
+  type: relations/parental/mom
+  item: people/reuben-ryan-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-brooks-beier
+- 
+  type: relations/money/creditor
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

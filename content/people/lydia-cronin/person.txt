@@ -1,0 +1,64 @@
+Title: Lydia Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/felipe-harber
+- 
+  type: relations/parental/friend
+  item: people/sigrid-goyette-jr
+- 
+  type: relations/parental/colleague
+  item: people/margarete-bogan
+- 
+  type: relations/money/creditor
+  item: people/whitney-bosco
+- 
+  type: relations/parental/brosis
+  item: people/ms-eleanora-wiza
+- 
+  type: relations/parental/friend
+  item: people/isabell-boyer
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/client
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

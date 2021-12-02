@@ -1,0 +1,64 @@
+Title: Trinity Veum III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jasen-kerluke-i
+- 
+  type: relations/parental/dad
+  item: people/ms-daphnee-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/dr-malcolm-stamm-iii
+- 
+  type: relations/parental/mom
+  item: people/barrett-jacobi
+- 
+  type: relations/money/creditor
+  item: people/percival-smitham
+- 
+  type: relations/parental/brosis
+  item: people/gilda-zboncak-iv
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

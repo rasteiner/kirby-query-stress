@@ -1,0 +1,65 @@
+Title: Dr. Beulah Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-lucius-senger
+- 
+  type: relations/parental/dad
+  item: people/ivah-feeney
+- 
+  type: relations/parental/dad
+  item: people/micah-stokes
+- 
+  type: relations/parental/colleague
+  item: people/laurine-spinka
+- 
+  type: relations/parental/mom
+  item: people/annetta-swift
+- 
+  type: relations/parental/brosis
+  item: people/billy-king
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

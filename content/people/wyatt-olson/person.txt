@@ -1,0 +1,64 @@
+Title: Wyatt Olson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eddie-ziemann
+- 
+  type: relations/parental/colleague
+  item: people/treva-abernathy-dds
+- 
+  type: relations/money/debtor
+  item: people/justina-gulgowski
+- 
+  type: relations/parental/friend
+  item: people/ms-anastasia-rice-dds
+- 
+  type: relations/money/creditor
+  item: people/nicholaus-brakus
+- 
+  type: relations/parental/mom
+  item: people/jorge-funk
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/work/employer
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

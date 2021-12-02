@@ -1,0 +1,66 @@
+Title: Rory McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-florine-wilderman-phd
+- 
+  type: relations/parental/colleague
+  item: people/darron-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/jedediah-dickinson
+- 
+  type: relations/parental/friend
+  item: people/jadyn-walker
+- 
+  type: relations/parental/colleague
+  item: people/katlyn-green
+- 
+  type: relations/parental/dad
+  item: people/erica-kuhn
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

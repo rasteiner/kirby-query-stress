@@ -1,0 +1,64 @@
+Title: Kaylah Cartwright
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mariam-hayes
+- 
+  type: relations/money/debtor
+  item: people/kaylah-wisozk-dds
+- 
+  type: relations/parental/dad
+  item: people/zoe-hansen
+- 
+  type: relations/money/creditor
+  item: people/jason-ullrich
+- 
+  type: relations/money/creditor
+  item: people/prof-opal-hammes-iv
+- 
+  type: relations/parental/friend
+  item: people/jewel-schowalter
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/work/employer
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

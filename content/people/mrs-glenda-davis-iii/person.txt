@@ -1,0 +1,64 @@
+Title: Mrs. Glenda Davis III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ettie-rodriguez
+- 
+  type: relations/money/creditor
+  item: people/bridget-sauer
+- 
+  type: relations/parental/colleague
+  item: people/mrs-malinda-turcotte
+- 
+  type: relations/money/creditor
+  item: people/dr-shaylee-doyle-md
+- 
+  type: relations/parental/dad
+  item: people/angus-windler
+- 
+  type: relations/parental/friend
+  item: people/arvilla-heller
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

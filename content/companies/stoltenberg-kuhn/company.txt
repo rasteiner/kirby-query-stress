@@ -1,0 +1,43 @@
+Title: Stoltenberg-Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/creditor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/money/creditor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/location/visited
+  item: places/west-ottisland
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/gusbury

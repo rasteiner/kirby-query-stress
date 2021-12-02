@@ -1,0 +1,64 @@
+Title: Mr. Harvey Carroll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mabelle-mayert
+- 
+  type: relations/money/creditor
+  item: people/faye-daugherty
+- 
+  type: relations/money/creditor
+  item: people/damian-herman
+- 
+  type: relations/parental/friend
+  item: people/ms-kaelyn-kutch-dds
+- 
+  type: relations/parental/friend
+  item: people/rosendo-mertz
+- 
+  type: relations/parental/mom
+  item: people/rhiannon-schoen
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/client
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

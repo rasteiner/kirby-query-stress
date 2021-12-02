@@ -1,0 +1,64 @@
+Title: Ceasar Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-serenity-boyle
+- 
+  type: relations/parental/friend
+  item: people/brandy-white
+- 
+  type: relations/parental/brosis
+  item: people/mr-dejuan-erdman
+- 
+  type: relations/parental/mom
+  item: people/prof-camron-schmeler-iii
+- 
+  type: relations/parental/colleague
+  item: people/stefanie-will-v
+- 
+  type: relations/parental/colleague
+  item: people/garret-hills
+- 
+  type: relations/work/client
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/work/client
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

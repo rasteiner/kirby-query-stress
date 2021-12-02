@@ -1,0 +1,64 @@
+Title: Eriberto Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-pink-hills
+- 
+  type: relations/parental/dad
+  item: people/devante-smitham-md
+- 
+  type: relations/money/creditor
+  item: people/claud-steuber
+- 
+  type: relations/parental/brosis
+  item: people/lukas-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/rory-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/ceasar-sawayn-sr
+- 
+  type: relations/work/employer
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/client
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/creditor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

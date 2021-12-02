@@ -1,0 +1,64 @@
+Title: Mr. Vern Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marc-jerde
+- 
+  type: relations/money/debtor
+  item: people/hertha-christiansen-iv
+- 
+  type: relations/parental/dad
+  item: people/miss-malika-rutherford-jr
+- 
+  type: relations/money/creditor
+  item: people/morton-pfannerstill-jr
+- 
+  type: relations/parental/mom
+  item: people/michael-renner
+- 
+  type: relations/parental/mom
+  item: people/dr-lemuel-mayer
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/work/employer
+  item: companies/ebert-inc
+- 
+  type: relations/work/client
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

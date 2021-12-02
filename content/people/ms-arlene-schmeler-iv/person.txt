@@ -1,0 +1,65 @@
+Title: Ms. Arlene Schmeler IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rhianna-purdy-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-jarret-langworth
+- 
+  type: relations/money/creditor
+  item: people/granville-witting-sr
+- 
+  type: relations/parental/mom
+  item: people/prof-zachary-bogan
+- 
+  type: relations/parental/colleague
+  item: people/ms-america-schaefer-v
+- 
+  type: relations/parental/mom
+  item: people/preston-armstrong
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/work/employer
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

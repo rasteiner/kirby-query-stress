@@ -1,0 +1,64 @@
+Title: Rosalyn Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-milan-kuhlman-md
+- 
+  type: relations/parental/dad
+  item: people/kaci-lynch
+- 
+  type: relations/parental/colleague
+  item: people/douglas-veum
+- 
+  type: relations/parental/mom
+  item: people/prof-lisa-feeney
+- 
+  type: relations/money/debtor
+  item: people/monserrat-mosciski
+- 
+  type: relations/parental/dad
+  item: people/miss-twila-cormier-jr
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

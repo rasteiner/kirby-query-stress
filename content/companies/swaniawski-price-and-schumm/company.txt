@@ -1,0 +1,43 @@
+Title: Swaniawski, Price and Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/creditor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/south-lurastad

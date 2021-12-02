@@ -1,0 +1,64 @@
+Title: Dr. Sunny Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elroy-rogahn
+- 
+  type: relations/parental/friend
+  item: people/dr-gloria-hills-ii
+- 
+  type: relations/money/debtor
+  item: people/cheyanne-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/brayan-watsica-jr
+- 
+  type: relations/parental/brosis
+  item: people/ms-faye-reichert
+- 
+  type: relations/money/creditor
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/money/debtor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/client
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

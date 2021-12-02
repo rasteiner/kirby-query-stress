@@ -1,0 +1,64 @@
+Title: Prof. Mathew O'Reilly I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/zander-bashirian
+- 
+  type: relations/money/creditor
+  item: people/miss-chaya-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/selena-beahan
+- 
+  type: relations/money/debtor
+  item: people/madge-hessel
+- 
+  type: relations/money/debtor
+  item: people/ms-aurore-robel-jr
+- 
+  type: relations/parental/mom
+  item: people/lina-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

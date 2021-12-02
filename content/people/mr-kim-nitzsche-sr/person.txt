@@ -1,0 +1,64 @@
+Title: Mr. Kim Nitzsche Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-catalina-kuhic-sr
+- 
+  type: relations/parental/brosis
+  item: people/warren-mcdermott
+- 
+  type: relations/parental/colleague
+  item: people/lydia-cronin
+- 
+  type: relations/money/creditor
+  item: people/zelda-luettgen
+- 
+  type: relations/parental/dad
+  item: people/prof-doyle-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/mrs-carley-tromp
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/work/employer
+  item: companies/frami-group
+- 
+  type: relations/work/client
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

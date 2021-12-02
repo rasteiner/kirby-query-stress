@@ -1,0 +1,64 @@
+Title: Andreane Cummings II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/genesis-goodwin-dds
+- 
+  type: relations/parental/brosis
+  item: people/steve-kassulke
+- 
+  type: relations/money/debtor
+  item: people/gordon-ruecker
+- 
+  type: relations/parental/colleague
+  item: people/miss-lyda-bogan
+- 
+  type: relations/parental/dad
+  item: people/keshaun-schowalter-md
+- 
+  type: relations/money/creditor
+  item: people/dr-garry-vonrueden
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

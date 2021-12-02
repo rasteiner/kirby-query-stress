@@ -1,0 +1,64 @@
+Title: Dr. Roslyn Eichmann V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/vicky-wiza
+- 
+  type: relations/parental/mom
+  item: people/dr-evangeline-abernathy
+- 
+  type: relations/parental/mom
+  item: people/luciano-batz
+- 
+  type: relations/parental/friend
+  item: people/ubaldo-cremin
+- 
+  type: relations/money/creditor
+  item: people/buddy-fahey
+- 
+  type: relations/parental/mom
+  item: people/trever-wyman
+- 
+  type: relations/money/creditor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

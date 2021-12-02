@@ -1,0 +1,64 @@
+Title: Alexane Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-mauricio-turcotte-ii
+- 
+  type: relations/parental/brosis
+  item: people/mr-landen-reilly-jr
+- 
+  type: relations/parental/mom
+  item: people/ms-yasmeen-bartell-ii
+- 
+  type: relations/money/creditor
+  item: people/crawford-quigley
+- 
+  type: relations/parental/dad
+  item: people/prof-kirsten-waters
+- 
+  type: relations/money/creditor
+  item: people/giuseppe-stroman
+- 
+  type: relations/work/client
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/employer
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/client
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

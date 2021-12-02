@@ -1,0 +1,64 @@
+Title: Mrs. Scarlett Harvey PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-whitney-stehr-dds
+- 
+  type: relations/parental/mom
+  item: people/christophe-effertz-i
+- 
+  type: relations/money/debtor
+  item: people/miguel-wehner
+- 
+  type: relations/parental/mom
+  item: people/ettie-lemke
+- 
+  type: relations/parental/brosis
+  item: people/myrtis-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/guadalupe-west
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

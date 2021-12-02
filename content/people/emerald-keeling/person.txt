@@ -1,0 +1,64 @@
+Title: Emerald Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ellen-schinner-ii
+- 
+  type: relations/parental/colleague
+  item: people/dorian-haley-jr
+- 
+  type: relations/parental/brosis
+  item: people/ms-mariane-abbott
+- 
+  type: relations/money/creditor
+  item: people/lisandro-hirthe
+- 
+  type: relations/parental/brosis
+  item: people/mrs-britney-howell
+- 
+  type: relations/parental/colleague
+  item: people/lupe-bins
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

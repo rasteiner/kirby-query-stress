@@ -1,0 +1,64 @@
+Title: Barney Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-declan-mclaughlin-ii
+- 
+  type: relations/parental/brosis
+  item: people/rex-ward
+- 
+  type: relations/money/creditor
+  item: people/anastacio-mills
+- 
+  type: relations/parental/brosis
+  item: people/dasia-nolan
+- 
+  type: relations/parental/colleague
+  item: people/adam-klocko
+- 
+  type: relations/parental/brosis
+  item: people/pauline-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

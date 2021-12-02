@@ -1,0 +1,64 @@
+Title: Prof. Raul Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/parental/colleague
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/parental/friend
+  item: people/madaline-o-kon
+- 
+  type: relations/parental/dad
+  item: people/amira-hintz
+- 
+  type: relations/parental/mom
+  item: people/ellen-schinner-ii
+- 
+  type: relations/parental/dad
+  item: people/dorian-haley-jr
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/client
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

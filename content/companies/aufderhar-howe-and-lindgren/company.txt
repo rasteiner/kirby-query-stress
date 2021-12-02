@@ -1,0 +1,43 @@
+Title: Aufderhar, Howe and Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/reingertown

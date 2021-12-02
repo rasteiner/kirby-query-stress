@@ -1,0 +1,64 @@
+Title: Stephany Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elouise-sawayn
+- 
+  type: relations/parental/colleague
+  item: people/kiera-shields
+- 
+  type: relations/parental/mom
+  item: people/deion-hodkiewicz
+- 
+  type: relations/parental/colleague
+  item: people/dr-santa-turner
+- 
+  type: relations/parental/friend
+  item: people/willa-leffler
+- 
+  type: relations/money/debtor
+  item: people/enoch-hills-ii
+- 
+  type: relations/work/client
+  item: companies/okuneva-inc
+- 
+  type: relations/work/employer
+  item: companies/zboncak-group
+- 
+  type: relations/money/creditor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

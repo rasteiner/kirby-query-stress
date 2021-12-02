@@ -1,0 +1,65 @@
+Title: Mrs. Ettie Treutel PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mabel-effertz
+- 
+  type: relations/parental/brosis
+  item: people/ms-julie-koss-md
+- 
+  type: relations/money/debtor
+  item: people/forest-hoppe
+- 
+  type: relations/parental/colleague
+  item: people/maxie-rosenbaum
+- 
+  type: relations/parental/colleague
+  item: people/shannon-king
+- 
+  type: relations/money/creditor
+  item: people/zoey-okuneva
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

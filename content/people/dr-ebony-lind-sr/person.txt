@@ -1,0 +1,64 @@
+Title: Dr. Ebony Lind Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-alfreda-medhurst-md
+- 
+  type: relations/parental/mom
+  item: people/mazie-robel
+- 
+  type: relations/money/debtor
+  item: people/dr-omer-schroeder-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-enoch-bosco-ii
+- 
+  type: relations/money/creditor
+  item: people/lelah-ebert-v
+- 
+  type: relations/money/creditor
+  item: people/kailee-ullrich
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

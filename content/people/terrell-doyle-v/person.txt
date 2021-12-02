@@ -1,0 +1,64 @@
+Title: Terrell Doyle V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/alexane-hagenes
+- 
+  type: relations/parental/dad
+  item: people/wilbert-predovic
+- 
+  type: relations/parental/brosis
+  item: people/prof-elian-mccullough-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-dillon-gutkowski-iii
+- 
+  type: relations/money/creditor
+  item: people/micah-blick-i
+- 
+  type: relations/parental/brosis
+  item: people/brendan-wisozk
+- 
+  type: relations/work/employer
+  item: companies/lebsack-berge
+- 
+  type: relations/money/creditor
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/money/creditor
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

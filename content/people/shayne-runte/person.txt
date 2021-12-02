@@ -1,0 +1,64 @@
+Title: Shayne Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-zella-carroll-md
+- 
+  type: relations/parental/friend
+  item: people/eriberto-goyette
+- 
+  type: relations/parental/friend
+  item: people/pedro-cronin
+- 
+  type: relations/parental/friend
+  item: people/frida-ferry
+- 
+  type: relations/money/creditor
+  item: people/judson-osinski-jr
+- 
+  type: relations/money/creditor
+  item: people/leilani-hessel
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/creditor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

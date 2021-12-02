@@ -1,0 +1,64 @@
+Title: Lynn Harris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/alexandro-ward
+- 
+  type: relations/parental/brosis
+  item: people/mandy-kilback
+- 
+  type: relations/parental/brosis
+  item: people/mr-esteban-blanda
+- 
+  type: relations/money/creditor
+  item: people/miss-shyanne-boyer-sr
+- 
+  type: relations/parental/colleague
+  item: people/bertha-lockman
+- 
+  type: relations/parental/dad
+  item: people/rigoberto-yost
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/work/client
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/work/client
+  item: companies/bradtke-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

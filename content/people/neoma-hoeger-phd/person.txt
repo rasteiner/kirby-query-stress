@@ -1,0 +1,64 @@
+Title: Neoma Hoeger PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/josiah-stamm
+- 
+  type: relations/parental/friend
+  item: people/michaela-langosh
+- 
+  type: relations/parental/mom
+  item: people/petra-mayert
+- 
+  type: relations/money/debtor
+  item: people/mr-ike-doyle
+- 
+  type: relations/money/debtor
+  item: people/libbie-blanda
+- 
+  type: relations/money/debtor
+  item: people/prof-ocie-wuckert
+- 
+  type: relations/work/client
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/client
+  item: companies/boehm-group
+- 
+  type: relations/work/client
+  item: companies/ortiz-inc
+- 
+  type: relations/work/employer
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

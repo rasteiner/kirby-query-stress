@@ -1,0 +1,64 @@
+Title: Joanny Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-berneice-lind-md
+- 
+  type: relations/parental/brosis
+  item: people/tre-casper
+- 
+  type: relations/money/creditor
+  item: people/eino-fisher
+- 
+  type: relations/parental/colleague
+  item: people/werner-nader-phd
+- 
+  type: relations/parental/friend
+  item: people/claudie-bode
+- 
+  type: relations/money/creditor
+  item: people/dr-eliza-terry
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/client
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

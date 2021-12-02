@@ -1,0 +1,64 @@
+Title: Conrad Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/viva-welch
+- 
+  type: relations/parental/colleague
+  item: people/mrs-lizeth-marvin
+- 
+  type: relations/parental/brosis
+  item: people/lempi-bednar
+- 
+  type: relations/parental/mom
+  item: people/chester-gusikowski-jr
+- 
+  type: relations/parental/brosis
+  item: people/jesus-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/torrance-reynolds
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/bauch-plc
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

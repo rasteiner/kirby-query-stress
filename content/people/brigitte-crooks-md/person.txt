@@ -1,0 +1,64 @@
+Title: Brigitte Crooks MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/susana-keeling
+- 
+  type: relations/parental/brosis
+  item: people/rosario-walter-sr
+- 
+  type: relations/parental/dad
+  item: people/gilda-reichert
+- 
+  type: relations/parental/colleague
+  item: people/leanne-cole-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-karelle-kris-i
+- 
+  type: relations/money/creditor
+  item: people/eleanore-kiehn-phd
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/client
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/money/debtor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

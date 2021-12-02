@@ -1,0 +1,64 @@
+Title: Rossie Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elyse-schmidt-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-ruby-heathcote
+- 
+  type: relations/parental/friend
+  item: people/alisha-hammes
+- 
+  type: relations/money/creditor
+  item: people/myrl-hickle
+- 
+  type: relations/parental/dad
+  item: people/haylie-lehner
+- 
+  type: relations/money/debtor
+  item: people/mrs-antonina-funk-dds
+- 
+  type: relations/work/client
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/client
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Prof. Branson Feil PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/betsy-cormier
+- 
+  type: relations/parental/dad
+  item: people/mrs-gertrude-skiles
+- 
+  type: relations/parental/dad
+  item: people/jaeden-larkin-dds
+- 
+  type: relations/money/debtor
+  item: people/antwon-lemke
+- 
+  type: relations/parental/brosis
+  item: people/kody-prohaska-i
+- 
+  type: relations/money/creditor
+  item: people/jamar-d-amore-ii
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

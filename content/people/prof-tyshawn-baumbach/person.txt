@@ -1,0 +1,64 @@
+Title: Prof. Tyshawn Baumbach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/esta-hoppe
+- 
+  type: relations/parental/brosis
+  item: people/mrs-helga-abernathy
+- 
+  type: relations/parental/brosis
+  item: people/mrs-samantha-collins-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-amanda-adams-md
+- 
+  type: relations/money/debtor
+  item: people/andres-goyette
+- 
+  type: relations/parental/dad
+  item: people/prof-jared-beier
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

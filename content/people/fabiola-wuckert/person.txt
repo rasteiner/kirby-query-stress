@@ -1,0 +1,64 @@
+Title: Fabiola Wuckert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-joanny-bergnaum-sr
+- 
+  type: relations/parental/mom
+  item: people/wellington-rutherford-sr
+- 
+  type: relations/parental/dad
+  item: people/gregg-kozey
+- 
+  type: relations/money/creditor
+  item: people/jordi-roob
+- 
+  type: relations/parental/colleague
+  item: people/ocie-moore
+- 
+  type: relations/parental/colleague
+  item: people/pansy-ondricka
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

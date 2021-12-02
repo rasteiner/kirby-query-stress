@@ -1,0 +1,44 @@
+Title: Turcotte, Bauch and Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/runte-cremin
+- 
+  type: relations/money/debtor
+  item: companies/wiza-plc
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/lehner-considine
+- 
+  type: relations/money/creditor
+  item: companies/harvey-ltd
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton

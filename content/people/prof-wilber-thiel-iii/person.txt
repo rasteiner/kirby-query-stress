@@ -1,0 +1,64 @@
+Title: Prof. Wilber Thiel III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/roel-cole
+- 
+  type: relations/parental/mom
+  item: people/kayley-dach-md
+- 
+  type: relations/parental/colleague
+  item: people/wilbert-hammes
+- 
+  type: relations/money/creditor
+  item: people/kyle-ankunding
+- 
+  type: relations/parental/brosis
+  item: people/mr-camden-schulist
+- 
+  type: relations/parental/dad
+  item: people/dr-wilbert-sipes
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/work/client
+  item: companies/terry-ltd
+- 
+  type: relations/work/employer
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

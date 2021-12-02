@@ -1,0 +1,64 @@
+Title: Paris Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-stuart-leannon
+- 
+  type: relations/parental/dad
+  item: people/lisette-veum
+- 
+  type: relations/parental/brosis
+  item: people/mrs-mazie-wiza-iv
+- 
+  type: relations/money/debtor
+  item: people/archibald-hills
+- 
+  type: relations/money/creditor
+  item: people/carleton-greenfelder
+- 
+  type: relations/money/debtor
+  item: people/dr-lindsey-walter-jr
+- 
+  type: relations/work/client
+  item: companies/watsica-inc
+- 
+  type: relations/work/employer
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

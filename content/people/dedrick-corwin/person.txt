@@ -1,0 +1,64 @@
+Title: Dedrick Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jesus-herman
+- 
+  type: relations/parental/colleague
+  item: people/wilton-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/clarissa-schulist
+- 
+  type: relations/parental/mom
+  item: people/stevie-jast
+- 
+  type: relations/money/creditor
+  item: people/dr-kacey-sanford-i
+- 
+  type: relations/money/debtor
+  item: people/gideon-o-kon
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/work/client
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Dr. Melissa Funk II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/luciano-batz
+- 
+  type: relations/parental/mom
+  item: people/ubaldo-cremin
+- 
+  type: relations/parental/friend
+  item: people/buddy-fahey
+- 
+  type: relations/parental/brosis
+  item: people/trever-wyman
+- 
+  type: relations/money/debtor
+  item: people/marcelina-sawayn
+- 
+  type: relations/parental/dad
+  item: people/prof-earline-feest
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

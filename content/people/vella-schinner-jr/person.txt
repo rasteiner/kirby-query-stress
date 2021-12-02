@@ -1,0 +1,65 @@
+Title: Vella Schinner Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mary-kovacek
+- 
+  type: relations/money/creditor
+  item: people/vance-wilkinson
+- 
+  type: relations/parental/colleague
+  item: people/dr-laverne-bartell
+- 
+  type: relations/parental/dad
+  item: people/guadalupe-bradtke-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-jailyn-kuhn
+- 
+  type: relations/parental/brosis
+  item: people/leo-hessel
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/employer
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

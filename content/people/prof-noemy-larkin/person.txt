@@ -1,0 +1,64 @@
+Title: Prof. Noemy Larkin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-alvah-oberbrunner-iv
+- 
+  type: relations/money/debtor
+  item: people/darius-johnston
+- 
+  type: relations/parental/dad
+  item: people/glennie-zieme
+- 
+  type: relations/money/creditor
+  item: people/ibrahim-schamberger
+- 
+  type: relations/parental/dad
+  item: people/prof-leann-stehr
+- 
+  type: relations/money/debtor
+  item: people/dr-brisa-kerluke-dvm
+- 
+  type: relations/money/debtor
+  item: companies/mayert-group
+- 
+  type: relations/work/employer
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

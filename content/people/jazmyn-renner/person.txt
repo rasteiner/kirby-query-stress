@@ -1,0 +1,64 @@
+Title: Jazmyn Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/irving-walker-i
+- 
+  type: relations/parental/friend
+  item: people/mrs-bridget-klocko-iii
+- 
+  type: relations/money/debtor
+  item: people/mohamed-dietrich
+- 
+  type: relations/parental/colleague
+  item: people/mr-brandt-crooks-v
+- 
+  type: relations/parental/colleague
+  item: people/mr-lonny-greenholt
+- 
+  type: relations/parental/mom
+  item: people/elmer-bergstrom
+- 
+  type: relations/work/client
+  item: companies/sporer-plc
+- 
+  type: relations/work/employer
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/employer
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

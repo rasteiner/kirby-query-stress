@@ -1,0 +1,64 @@
+Title: Karelle Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lenny-o-connell
+- 
+  type: relations/parental/mom
+  item: people/berry-bauch
+- 
+  type: relations/parental/friend
+  item: people/dr-jairo-herman
+- 
+  type: relations/parental/friend
+  item: people/prof-rosamond-o-keefe
+- 
+  type: relations/money/creditor
+  item: people/chaya-mcglynn
+- 
+  type: relations/parental/colleague
+  item: people/dusty-huels-i
+- 
+  type: relations/work/client
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/work/employer
+  item: companies/legros-morar
+- 
+  type: relations/work/employer
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

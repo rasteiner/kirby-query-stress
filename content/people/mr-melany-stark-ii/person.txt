@@ -1,0 +1,64 @@
+Title: Mr. Melany Stark II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gilda-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/connie-lebsack
+- 
+  type: relations/parental/friend
+  item: people/otilia-dooley-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-dayana-konopelski-ii
+- 
+  type: relations/money/creditor
+  item: people/cooper-paucek
+- 
+  type: relations/parental/dad
+  item: people/elvie-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/hintz-fisher
+- 
+  type: relations/work/client
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Ibrahim Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/van-kunze
+- 
+  type: relations/parental/friend
+  item: people/theodore-dubuque
+- 
+  type: relations/parental/brosis
+  item: people/dora-thompson
+- 
+  type: relations/parental/mom
+  item: people/geoffrey-abernathy-dds
+- 
+  type: relations/money/debtor
+  item: people/oswaldo-hegmann
+- 
+  type: relations/parental/friend
+  item: people/mr-spencer-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/client
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

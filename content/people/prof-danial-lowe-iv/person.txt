@@ -1,0 +1,64 @@
+Title: Prof. Danial Lowe IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/freddie-hammes-md
+- 
+  type: relations/money/creditor
+  item: people/danielle-mayert
+- 
+  type: relations/parental/brosis
+  item: people/ms-dorothy-runolfsdottir
+- 
+  type: relations/parental/dad
+  item: people/dr-christ-cole
+- 
+  type: relations/money/creditor
+  item: people/prof-peyton-gaylord-jr
+- 
+  type: relations/parental/mom
+  item: people/miss-brandy-shields
+- 
+  type: relations/money/debtor
+  item: companies/becker-schuppe
+- 
+  type: relations/work/client
+  item: companies/mante-plc
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-llc
+- 
+  type: relations/money/debtor
+  item: companies/kunde-llc
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

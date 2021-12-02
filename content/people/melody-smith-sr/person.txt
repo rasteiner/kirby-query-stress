@@ -1,0 +1,64 @@
+Title: Melody Smith Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kelvin-feeney
+- 
+  type: relations/parental/mom
+  item: people/mr-quentin-kautzer-iii
+- 
+  type: relations/money/debtor
+  item: people/fabiola-wuckert
+- 
+  type: relations/money/debtor
+  item: people/ashlee-rempel
+- 
+  type: relations/parental/brosis
+  item: people/julia-johnson
+- 
+  type: relations/money/debtor
+  item: people/bridgette-grant
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

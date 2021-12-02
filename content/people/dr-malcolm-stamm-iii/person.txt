@@ -1,0 +1,64 @@
+Title: Dr. Malcolm Stamm III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anderson-thiel
+- 
+  type: relations/money/creditor
+  item: people/america-ankunding-iv
+- 
+  type: relations/parental/mom
+  item: people/vicky-rosenbaum
+- 
+  type: relations/parental/brosis
+  item: people/keara-osinski
+- 
+  type: relations/money/debtor
+  item: people/kolby-lind
+- 
+  type: relations/parental/mom
+  item: people/mortimer-wisozk
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/client
+  item: companies/zieme-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

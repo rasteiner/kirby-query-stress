@@ -1,0 +1,64 @@
+Title: Lucinda Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-ryann-kuhic-md
+- 
+  type: relations/parental/mom
+  item: people/ceasar-ferry
+- 
+  type: relations/parental/friend
+  item: people/mrs-celestine-mills-md
+- 
+  type: relations/parental/friend
+  item: people/reggie-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/sandra-champlin-phd
+- 
+  type: relations/money/creditor
+  item: people/mr-joshuah-langosh-i
+- 
+  type: relations/work/client
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/herzog-plc
+- 
+  type: relations/money/debtor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

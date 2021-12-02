@@ -1,0 +1,64 @@
+Title: Jerome Brown Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/thea-will
+- 
+  type: relations/money/debtor
+  item: people/ines-heller
+- 
+  type: relations/parental/colleague
+  item: people/jaycee-o-hara
+- 
+  type: relations/money/debtor
+  item: people/dr-reanna-bruen
+- 
+  type: relations/parental/dad
+  item: people/blake-miller
+- 
+  type: relations/money/creditor
+  item: people/holly-pollich
+- 
+  type: relations/money/debtor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

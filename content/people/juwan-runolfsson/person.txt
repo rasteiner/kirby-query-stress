@@ -1,0 +1,64 @@
+Title: Juwan Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-orie-mueller-i
+- 
+  type: relations/parental/mom
+  item: people/ms-alexa-ebert-dvm
+- 
+  type: relations/parental/friend
+  item: people/lesley-wisoky
+- 
+  type: relations/parental/dad
+  item: people/alvah-lesch
+- 
+  type: relations/parental/brosis
+  item: people/keith-grimes
+- 
+  type: relations/parental/brosis
+  item: people/prof-nikolas-walter
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

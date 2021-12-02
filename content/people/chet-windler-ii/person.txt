@@ -1,0 +1,64 @@
+Title: Chet Windler II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kaylee-conn-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-lisandro-stark
+- 
+  type: relations/parental/mom
+  item: people/eloise-cronin
+- 
+  type: relations/money/creditor
+  item: people/oceane-casper
+- 
+  type: relations/parental/brosis
+  item: people/valerie-labadie
+- 
+  type: relations/parental/mom
+  item: people/fermin-will
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

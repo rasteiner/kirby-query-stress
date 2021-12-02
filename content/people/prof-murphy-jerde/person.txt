@@ -1,0 +1,64 @@
+Title: Prof. Murphy Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-mathew-kozey-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-tyson-klocko
+- 
+  type: relations/parental/colleague
+  item: people/prince-hamill
+- 
+  type: relations/parental/dad
+  item: people/micheal-mohr
+- 
+  type: relations/money/creditor
+  item: people/ottilie-jakubowski
+- 
+  type: relations/parental/mom
+  item: people/jenifer-heaney
+- 
+  type: relations/work/employer
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/client
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/client
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

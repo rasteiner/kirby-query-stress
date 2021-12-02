@@ -1,0 +1,64 @@
+Title: Floyd Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/deon-king
+- 
+  type: relations/money/debtor
+  item: people/candida-huels
+- 
+  type: relations/parental/brosis
+  item: people/theresa-sauer
+- 
+  type: relations/money/debtor
+  item: people/adrain-mcclure
+- 
+  type: relations/parental/mom
+  item: people/mr-trevor-becker-dvm
+- 
+  type: relations/parental/friend
+  item: people/josephine-bernhard
+- 
+  type: relations/work/client
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/client
+  item: companies/johns-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

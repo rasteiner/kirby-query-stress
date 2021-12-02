@@ -1,0 +1,64 @@
+Title: Valerie Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/floyd-heaney
+- 
+  type: relations/parental/mom
+  item: people/freddie-zulauf-jr
+- 
+  type: relations/parental/dad
+  item: people/ewald-jones
+- 
+  type: relations/parental/colleague
+  item: people/major-hettinger
+- 
+  type: relations/parental/mom
+  item: people/antonia-stamm
+- 
+  type: relations/parental/dad
+  item: people/giuseppe-tromp
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/employer
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

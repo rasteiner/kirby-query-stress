@@ -1,0 +1,64 @@
+Title: Prof. Emilie Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/madilyn-d-amore
+- 
+  type: relations/money/creditor
+  item: people/miss-scarlett-rogahn
+- 
+  type: relations/money/debtor
+  item: people/makayla-pagac-sr
+- 
+  type: relations/parental/colleague
+  item: people/amber-conn
+- 
+  type: relations/parental/friend
+  item: people/mr-justyn-lemke
+- 
+  type: relations/money/creditor
+  item: people/tabitha-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,43 @@
+Title: Mraz-Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/new-marafurt

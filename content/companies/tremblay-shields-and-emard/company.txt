@@ -1,0 +1,43 @@
+Title: Tremblay, Shields and Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bogan-mertz
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/money/creditor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/creditor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough

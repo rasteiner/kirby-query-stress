@@ -1,0 +1,64 @@
+Title: Dr. Hector Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/katlyn-bins
+- 
+  type: relations/parental/colleague
+  item: people/kailee-dach
+- 
+  type: relations/money/creditor
+  item: people/dr-lesley-runte
+- 
+  type: relations/parental/dad
+  item: people/lamar-reichert
+- 
+  type: relations/parental/dad
+  item: people/mason-kshlerin
+- 
+  type: relations/money/debtor
+  item: people/emanuel-thompson
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/money/creditor
+  item: companies/kub-plc
+- 
+  type: relations/work/client
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

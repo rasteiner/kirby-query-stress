@@ -1,0 +1,64 @@
+Title: Vinnie Fisher Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prudence-moore-dvm
+- 
+  type: relations/parental/brosis
+  item: people/glenda-grant
+- 
+  type: relations/parental/brosis
+  item: people/marcelina-becker
+- 
+  type: relations/parental/dad
+  item: people/rosalee-quitzon
+- 
+  type: relations/parental/mom
+  item: people/enrico-leffler
+- 
+  type: relations/parental/brosis
+  item: people/enos-rutherford
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kris-ltd
+- 
+  type: relations/work/client
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

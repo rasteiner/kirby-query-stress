@@ -1,0 +1,64 @@
+Title: Ali Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jade-bruen
+- 
+  type: relations/parental/colleague
+  item: people/leone-walter
+- 
+  type: relations/money/creditor
+  item: people/baby-stracke
+- 
+  type: relations/parental/colleague
+  item: people/rosella-bruen
+- 
+  type: relations/parental/colleague
+  item: people/mrs-evangeline-klein-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-karolann-upton-ii
+- 
+  type: relations/work/employer
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

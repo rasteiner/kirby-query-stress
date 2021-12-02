@@ -1,0 +1,65 @@
+Title: Dasia Nolan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-maudie-abbott
+- 
+  type: relations/parental/colleague
+  item: people/federico-wintheiser
+- 
+  type: relations/money/creditor
+  item: people/cristian-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/ms-ollie-kunde-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-brooks-strosin-sr
+- 
+  type: relations/parental/colleague
+  item: people/concepcion-crist
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/work/client
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

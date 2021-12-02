@@ -1,0 +1,64 @@
+Title: Isobel West
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/colten-goodwin
+- 
+  type: relations/parental/friend
+  item: people/zoey-rath-v
+- 
+  type: relations/parental/mom
+  item: people/dr-kiera-koch-md
+- 
+  type: relations/parental/dad
+  item: people/aglae-maggio
+- 
+  type: relations/parental/brosis
+  item: people/camila-von
+- 
+  type: relations/parental/friend
+  item: people/wilhelmine-miller-v
+- 
+  type: relations/work/client
+  item: companies/littel-group
+- 
+  type: relations/work/client
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

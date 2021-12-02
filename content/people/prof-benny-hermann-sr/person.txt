@@ -1,0 +1,64 @@
+Title: Prof. Benny Hermann Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/sim-jaskolski
+- 
+  type: relations/parental/dad
+  item: people/linnea-flatley
+- 
+  type: relations/parental/mom
+  item: people/ms-ressie-mcdermott-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-levi-kris-dds
+- 
+  type: relations/parental/dad
+  item: people/norbert-nicolas
+- 
+  type: relations/parental/brosis
+  item: people/deion-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/sporer-llc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Mr. Laurel Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-mona-waelchi
+- 
+  type: relations/parental/friend
+  item: people/miss-laila-kohler-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-trystan-schowalter
+- 
+  type: relations/money/debtor
+  item: people/brenda-o-reilly
+- 
+  type: relations/parental/dad
+  item: people/louvenia-jakubowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/agustina-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/harber-group
+- 
+  type: relations/work/client
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Mattie Anderson III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/juliet-harvey
+- 
+  type: relations/parental/dad
+  item: people/prof-clovis-dach
+- 
+  type: relations/parental/dad
+  item: people/prof-dean-considine-md
+- 
+  type: relations/parental/dad
+  item: people/dr-electa-mccullough-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-aniyah-botsford-iv
+- 
+  type: relations/money/debtor
+  item: people/alta-tromp
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

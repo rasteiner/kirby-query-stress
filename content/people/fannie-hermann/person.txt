@@ -1,0 +1,64 @@
+Title: Fannie Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/willow-becker-sr
+- 
+  type: relations/parental/colleague
+  item: people/ms-hassie-schroeder-phd
+- 
+  type: relations/parental/brosis
+  item: people/daphney-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/lera-cartwright
+- 
+  type: relations/parental/mom
+  item: people/karina-lind-ii
+- 
+  type: relations/parental/dad
+  item: people/miss-bella-leuschke-md
+- 
+  type: relations/work/employer
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/daugherty-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,65 @@
+Title: Jan Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-joesph-hilll-md
+- 
+  type: relations/money/creditor
+  item: people/kali-botsford-dds
+- 
+  type: relations/parental/brosis
+  item: people/astrid-bechtelar
+- 
+  type: relations/money/creditor
+  item: people/prof-alena-cormier-i
+- 
+  type: relations/parental/dad
+  item: people/ms-isobel-west-v
+- 
+  type: relations/parental/mom
+  item: people/kristy-schroeder
+- 
+  type: relations/work/employer
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/employer
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/client
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

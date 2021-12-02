@@ -1,0 +1,64 @@
+Title: Modesta Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-mauricio-parisian
+- 
+  type: relations/money/creditor
+  item: people/odie-labadie
+- 
+  type: relations/parental/mom
+  item: people/mellie-volkman-iii
+- 
+  type: relations/money/debtor
+  item: people/mr-cloyd-kessler-i
+- 
+  type: relations/money/creditor
+  item: people/dr-ardella-labadie
+- 
+  type: relations/parental/mom
+  item: people/raheem-gutkowski
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/employer
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

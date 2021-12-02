@@ -1,0 +1,64 @@
+Title: Asia Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/bernardo-hegmann-iv
+- 
+  type: relations/parental/mom
+  item: people/kendall-kunze
+- 
+  type: relations/parental/colleague
+  item: people/zachariah-marvin
+- 
+  type: relations/parental/friend
+  item: people/markus-bauch
+- 
+  type: relations/parental/brosis
+  item: people/xzavier-smitham
+- 
+  type: relations/money/creditor
+  item: people/miss-wanda-prohaska
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/employer
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

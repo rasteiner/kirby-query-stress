@@ -1,0 +1,64 @@
+Title: Mrs. Ottilie Heathcote MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/louie-monahan
+- 
+  type: relations/parental/colleague
+  item: people/haylee-hermiston-iii
+- 
+  type: relations/money/creditor
+  item: people/linnie-pouros
+- 
+  type: relations/money/debtor
+  item: people/neoma-hoeger-phd
+- 
+  type: relations/parental/brosis
+  item: people/felix-mertz
+- 
+  type: relations/money/debtor
+  item: people/helena-cummings-iii
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/client
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/client
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

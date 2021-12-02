@@ -1,0 +1,64 @@
+Title: Madge Schaefer PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rahsaan-bahringer-ii
+- 
+  type: relations/parental/mom
+  item: people/rosina-nolan
+- 
+  type: relations/parental/brosis
+  item: people/clara-effertz
+- 
+  type: relations/parental/brosis
+  item: people/deonte-larkin-phd
+- 
+  type: relations/parental/dad
+  item: people/mac-pfannerstill
+- 
+  type: relations/money/creditor
+  item: people/ms-hollie-hoeger
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

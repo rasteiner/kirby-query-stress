@@ -1,0 +1,64 @@
+Title: Hilma Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-aisha-stokes-v
+- 
+  type: relations/money/debtor
+  item: people/millie-luettgen
+- 
+  type: relations/parental/brosis
+  item: people/rodger-johnson
+- 
+  type: relations/parental/dad
+  item: people/dedrick-lehner-dvm
+- 
+  type: relations/parental/mom
+  item: people/emmalee-schumm
+- 
+  type: relations/parental/mom
+  item: people/ashleigh-thompson
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/creditor
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Martin Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/josie-stehr-md
+- 
+  type: relations/money/creditor
+  item: people/carmen-connelly
+- 
+  type: relations/parental/brosis
+  item: people/dr-verona-ullrich
+- 
+  type: relations/parental/mom
+  item: people/hans-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/miller-metz
+- 
+  type: relations/parental/mom
+  item: people/ms-thelma-bernhard-iii
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/client
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/employer
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

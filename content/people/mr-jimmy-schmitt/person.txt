@@ -1,0 +1,64 @@
+Title: Mr. Jimmy Schmitt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eva-friesen
+- 
+  type: relations/parental/dad
+  item: people/amaya-smith
+- 
+  type: relations/money/creditor
+  item: people/lauretta-collier
+- 
+  type: relations/parental/brosis
+  item: people/miss-frida-o-keefe-v
+- 
+  type: relations/parental/friend
+  item: people/beau-altenwerth
+- 
+  type: relations/parental/mom
+  item: people/kaley-kuvalis-iii
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

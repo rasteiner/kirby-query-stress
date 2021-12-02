@@ -1,0 +1,64 @@
+Title: Prof. Tod Haley II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/karelle-cremin
+- 
+  type: relations/money/debtor
+  item: people/tremaine-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/kylie-krajcik
+- 
+  type: relations/money/creditor
+  item: people/mr-philip-rath-dvm
+- 
+  type: relations/parental/brosis
+  item: people/adela-wilkinson-dds
+- 
+  type: relations/parental/dad
+  item: people/mrs-lexie-batz-v
+- 
+  type: relations/work/employer
+  item: companies/kirlin-davis
+- 
+  type: relations/money/creditor
+  item: companies/howell-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

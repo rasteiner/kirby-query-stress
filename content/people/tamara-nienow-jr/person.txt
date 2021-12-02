@@ -1,0 +1,64 @@
+Title: Tamara Nienow Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/riley-miller
+- 
+  type: relations/parental/friend
+  item: people/dr-gudrun-powlowski
+- 
+  type: relations/parental/brosis
+  item: people/art-wolff
+- 
+  type: relations/money/debtor
+  item: people/daren-bernhard
+- 
+  type: relations/parental/mom
+  item: people/rodrick-hamill
+- 
+  type: relations/parental/colleague
+  item: people/lysanne-kuvalis
+- 
+  type: relations/money/creditor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

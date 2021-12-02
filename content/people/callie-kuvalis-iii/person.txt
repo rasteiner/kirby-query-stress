@@ -1,0 +1,64 @@
+Title: Callie Kuvalis III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lucile-lindgren
+- 
+  type: relations/money/creditor
+  item: people/westley-schneider
+- 
+  type: relations/parental/dad
+  item: people/joana-kertzmann
+- 
+  type: relations/money/debtor
+  item: people/nestor-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/kaylee-armstrong
+- 
+  type: relations/money/creditor
+  item: people/duncan-block
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

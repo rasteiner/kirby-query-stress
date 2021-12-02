@@ -1,0 +1,64 @@
+Title: Prof. Cyril Ullrich DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/scotty-dubuque-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-guadalupe-goldner-i
+- 
+  type: relations/parental/friend
+  item: people/virginie-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/quinten-ullrich
+- 
+  type: relations/parental/mom
+  item: people/jimmie-mante
+- 
+  type: relations/money/debtor
+  item: people/ruby-kuvalis-ii
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/money/debtor
+  item: companies/kris-and-sons
+- 
+  type: relations/work/client
+  item: companies/hintz-group
+- 
+  type: relations/money/creditor
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

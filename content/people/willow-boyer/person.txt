@@ -1,0 +1,64 @@
+Title: Willow Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/sim-davis
+- 
+  type: relations/money/debtor
+  item: people/leonie-sanford
+- 
+  type: relations/parental/brosis
+  item: people/leanna-johns
+- 
+  type: relations/money/debtor
+  item: people/destini-barton
+- 
+  type: relations/parental/colleague
+  item: people/reymundo-kertzmann
+- 
+  type: relations/parental/colleague
+  item: people/joelle-feest
+- 
+  type: relations/work/client
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/employer
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

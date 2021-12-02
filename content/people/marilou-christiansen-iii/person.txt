@@ -1,0 +1,64 @@
+Title: Marilou Christiansen III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-laurel-beatty
+- 
+  type: relations/parental/brosis
+  item: people/darius-rogahn
+- 
+  type: relations/money/debtor
+  item: people/prof-everett-mosciski-jr
+- 
+  type: relations/parental/mom
+  item: people/sandy-hills
+- 
+  type: relations/money/debtor
+  item: people/mrs-jena-rowe
+- 
+  type: relations/parental/brosis
+  item: people/karelle-bayer
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/client
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

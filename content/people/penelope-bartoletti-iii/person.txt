@@ -1,0 +1,64 @@
+Title: Penelope Bartoletti III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jamie-murazik
+- 
+  type: relations/parental/colleague
+  item: people/max-hintz
+- 
+  type: relations/parental/mom
+  item: people/lowell-skiles
+- 
+  type: relations/parental/colleague
+  item: people/roderick-legros-ii
+- 
+  type: relations/parental/brosis
+  item: people/leonel-mante
+- 
+  type: relations/parental/friend
+  item: people/sienna-considine
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/work/client
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

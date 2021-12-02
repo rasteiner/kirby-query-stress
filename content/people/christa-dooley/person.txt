@@ -1,0 +1,64 @@
+Title: Christa Dooley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-idell-lockman
+- 
+  type: relations/money/debtor
+  item: people/dr-marquise-balistreri
+- 
+  type: relations/money/creditor
+  item: people/devon-nicolas
+- 
+  type: relations/money/debtor
+  item: people/jason-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/dr-fred-schinner-md
+- 
+  type: relations/parental/friend
+  item: people/justice-o-connell-dvm
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

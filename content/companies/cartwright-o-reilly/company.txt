@@ -1,0 +1,43 @@
+Title: Cartwright-O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/rice-inc
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough

@@ -1,0 +1,64 @@
+Title: Mr. Norberto Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mitchell-abbott-jr
+- 
+  type: relations/parental/colleague
+  item: people/mr-marcus-kulas
+- 
+  type: relations/money/creditor
+  item: people/mr-evan-effertz-iii
+- 
+  type: relations/money/debtor
+  item: people/ms-shana-bradtke
+- 
+  type: relations/money/debtor
+  item: people/dr-beau-terry
+- 
+  type: relations/parental/dad
+  item: people/terrence-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

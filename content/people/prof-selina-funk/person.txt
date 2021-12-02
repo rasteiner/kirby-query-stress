@@ -1,0 +1,64 @@
+Title: Prof. Selina Funk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lina-davis
+- 
+  type: relations/parental/friend
+  item: people/mohamed-morar
+- 
+  type: relations/money/debtor
+  item: people/darrin-hegmann
+- 
+  type: relations/parental/friend
+  item: people/prof-royce-torphy-sr
+- 
+  type: relations/parental/mom
+  item: people/sheridan-boehm-dds
+- 
+  type: relations/parental/mom
+  item: people/clyde-zemlak
+- 
+  type: relations/work/client
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/client
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/employer
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/client
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Mr. Brandt Hoppe V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-vida-bins
+- 
+  type: relations/parental/brosis
+  item: people/ms-tatyana-rippin
+- 
+  type: relations/parental/brosis
+  item: people/roma-schultz
+- 
+  type: relations/parental/friend
+  item: people/jordon-goodwin-jr
+- 
+  type: relations/parental/friend
+  item: people/thurman-nicolas
+- 
+  type: relations/parental/mom
+  item: people/delta-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/client
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

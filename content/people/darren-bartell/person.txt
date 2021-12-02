@@ -1,0 +1,64 @@
+Title: Darren Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/laverne-goodwin
+- 
+  type: relations/money/debtor
+  item: people/marisa-gaylord
+- 
+  type: relations/parental/brosis
+  item: people/ted-powlowski-iii
+- 
+  type: relations/parental/mom
+  item: people/prof-myra-friesen-dvm
+- 
+  type: relations/parental/mom
+  item: people/jay-nader
+- 
+  type: relations/parental/mom
+  item: people/ms-cristal-gaylord-i
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/client
+  item: companies/lindgren-ltd
+- 
+  type: relations/work/employer
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

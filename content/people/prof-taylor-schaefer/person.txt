@@ -1,0 +1,65 @@
+Title: Prof. Taylor Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lavada-stoltenberg
+- 
+  type: relations/parental/dad
+  item: people/prof-nico-friesen
+- 
+  type: relations/money/creditor
+  item: people/kevon-paucek
+- 
+  type: relations/parental/mom
+  item: people/prof-janiya-spencer
+- 
+  type: relations/parental/dad
+  item: people/samson-vandervort
+- 
+  type: relations/parental/mom
+  item: people/mr-kenton-schaden-phd
+- 
+  type: relations/work/client
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/creditor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

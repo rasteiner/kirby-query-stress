@@ -1,0 +1,65 @@
+Title: Katelyn Carroll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-trevor-becker-dvm
+- 
+  type: relations/parental/colleague
+  item: people/josephine-bernhard
+- 
+  type: relations/money/debtor
+  item: people/cydney-abernathy
+- 
+  type: relations/parental/dad
+  item: people/odell-auer-iii
+- 
+  type: relations/parental/colleague
+  item: people/miracle-raynor
+- 
+  type: relations/parental/dad
+  item: people/mr-conrad-kuphal
+- 
+  type: relations/work/client
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/client
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

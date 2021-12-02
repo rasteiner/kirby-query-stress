@@ -1,0 +1,65 @@
+Title: Linwood Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/money/creditor
+  item: people/prof-shakira-champlin
+- 
+  type: relations/parental/colleague
+  item: people/christina-kautzer
+- 
+  type: relations/parental/friend
+  item: people/maximillia-boyer
+- 
+  type: relations/parental/friend
+  item: people/thea-waters-md
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/bogan-mertz
+- 
+  type: relations/work/client
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Mrs. Billie Smitham V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/onie-ritchie
+- 
+  type: relations/parental/friend
+  item: people/dr-bernadine-aufderhar
+- 
+  type: relations/parental/brosis
+  item: people/mr-dante-hoppe
+- 
+  type: relations/parental/brosis
+  item: people/frieda-cummerata
+- 
+  type: relations/money/creditor
+  item: people/burnice-eichmann-iv
+- 
+  type: relations/parental/colleague
+  item: people/ramon-strosin
+- 
+  type: relations/work/client
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/client
+  item: companies/kris-and-sons
+- 
+  type: relations/work/client
+  item: companies/hintz-group
+- 
+  type: relations/work/client
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,65 @@
+Title: Sheridan Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lavada-bogan
+- 
+  type: relations/parental/mom
+  item: people/mrs-kathryne-jacobs
+- 
+  type: relations/parental/colleague
+  item: people/katrina-sporer
+- 
+  type: relations/parental/brosis
+  item: people/dr-dedric-hilpert
+- 
+  type: relations/money/debtor
+  item: people/dr-cleora-hayes
+- 
+  type: relations/money/debtor
+  item: people/ms-maribel-bayer-dds
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/debtor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/client
+  item: companies/bogan-mertz
+- 
+  type: relations/money/creditor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

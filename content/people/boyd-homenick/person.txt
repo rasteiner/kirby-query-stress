@@ -1,0 +1,64 @@
+Title: Boyd Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-daryl-spinka
+- 
+  type: relations/money/creditor
+  item: people/cesar-boyle
+- 
+  type: relations/parental/friend
+  item: people/mrs-meagan-aufderhar-dvm
+- 
+  type: relations/parental/friend
+  item: people/landen-harber
+- 
+  type: relations/parental/friend
+  item: people/prof-waino-nitzsche-i
+- 
+  type: relations/money/debtor
+  item: people/brandt-borer
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/employer
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

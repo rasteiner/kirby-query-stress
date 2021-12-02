@@ -1,0 +1,64 @@
+Title: Rebecca Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/sarai-schulist
+- 
+  type: relations/parental/brosis
+  item: people/ron-o-keefe-md
+- 
+  type: relations/parental/mom
+  item: people/annabel-witting-phd
+- 
+  type: relations/money/creditor
+  item: people/americo-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/ladarius-hirthe
+- 
+  type: relations/parental/friend
+  item: people/thurman-dicki
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/debtor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

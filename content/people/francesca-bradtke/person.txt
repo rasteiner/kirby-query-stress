@@ -1,0 +1,65 @@
+Title: Francesca Bradtke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gerardo-yundt
+- 
+  type: relations/parental/friend
+  item: people/delfina-ward
+- 
+  type: relations/parental/dad
+  item: people/armand-kreiger-i
+- 
+  type: relations/money/debtor
+  item: people/mr-amos-leuschke-ii
+- 
+  type: relations/parental/friend
+  item: people/dr-frederick-mayert
+- 
+  type: relations/parental/mom
+  item: people/annalise-jenkins-phd
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

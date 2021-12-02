@@ -1,0 +1,64 @@
+Title: Dr. Judson Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-billy-ferry-md
+- 
+  type: relations/money/debtor
+  item: people/prof-stefanie-gulgowski-md
+- 
+  type: relations/parental/dad
+  item: people/chadrick-buckridge
+- 
+  type: relations/parental/friend
+  item: people/gus-braun
+- 
+  type: relations/money/creditor
+  item: people/mrs-gabriella-stanton
+- 
+  type: relations/parental/colleague
+  item: people/dortha-purdy
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/work/client
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

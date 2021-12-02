@@ -1,0 +1,64 @@
+Title: Antonia Ward
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nicole-stokes
+- 
+  type: relations/parental/dad
+  item: people/gaetano-fay
+- 
+  type: relations/parental/mom
+  item: people/glenda-champlin
+- 
+  type: relations/parental/mom
+  item: people/brendan-labadie
+- 
+  type: relations/money/creditor
+  item: people/deron-feil
+- 
+  type: relations/money/creditor
+  item: people/prof-remington-effertz-phd
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/client
+  item: companies/farrell-green
+- 
+  type: relations/work/client
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

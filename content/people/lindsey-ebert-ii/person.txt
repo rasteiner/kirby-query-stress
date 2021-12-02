@@ -1,0 +1,64 @@
+Title: Lindsey Ebert II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-terrance-becker-dvm
+- 
+  type: relations/parental/colleague
+  item: people/marcelo-haley
+- 
+  type: relations/money/debtor
+  item: people/mrs-kenna-koss
+- 
+  type: relations/money/creditor
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/parental/friend
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/employer
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

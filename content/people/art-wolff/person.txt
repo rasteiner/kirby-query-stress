@@ -1,0 +1,64 @@
+Title: Art Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/terence-thiel
+- 
+  type: relations/parental/mom
+  item: people/travis-parker
+- 
+  type: relations/parental/dad
+  item: people/alysson-conroy
+- 
+  type: relations/money/debtor
+  item: people/dr-barton-boehm
+- 
+  type: relations/parental/friend
+  item: people/nicolas-roberts
+- 
+  type: relations/parental/colleague
+  item: people/eleonore-bashirian
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/client
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

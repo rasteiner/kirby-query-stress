@@ -1,0 +1,64 @@
+Title: Velva Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/viva-goyette
+- 
+  type: relations/money/debtor
+  item: people/gwen-tillman
+- 
+  type: relations/money/debtor
+  item: people/retha-miller
+- 
+  type: relations/money/debtor
+  item: people/pedro-o-kon
+- 
+  type: relations/money/creditor
+  item: people/prof-eudora-rogahn-phd
+- 
+  type: relations/money/debtor
+  item: people/ned-hammes
+- 
+  type: relations/work/employer
+  item: companies/watsica-inc
+- 
+  type: relations/work/client
+  item: companies/casper-larson
+- 
+  type: relations/work/client
+  item: companies/anderson-muller
+- 
+  type: relations/work/client
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

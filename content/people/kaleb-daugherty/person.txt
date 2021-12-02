@@ -1,0 +1,64 @@
+Title: Kaleb Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rebeka-weimann
+- 
+  type: relations/money/creditor
+  item: people/odessa-kassulke
+- 
+  type: relations/parental/brosis
+  item: people/cleora-auer
+- 
+  type: relations/parental/brosis
+  item: people/stanford-white-sr
+- 
+  type: relations/money/debtor
+  item: people/harvey-gerlach
+- 
+  type: relations/money/debtor
+  item: people/mr-leonardo-schoen
+- 
+  type: relations/work/employer
+  item: companies/watsica-inc
+- 
+  type: relations/work/client
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,43 @@
+Title: Veum and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/debtor
+  item: companies/boyle-dickens
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/creditor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/location/visited
+  item: places/reingertown
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Miss Marielle Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jimmie-connelly
+- 
+  type: relations/money/creditor
+  item: people/haylee-thompson-dvm
+- 
+  type: relations/parental/dad
+  item: people/toy-bergnaum-jr
+- 
+  type: relations/parental/colleague
+  item: people/dorcas-collins
+- 
+  type: relations/parental/mom
+  item: people/wilhelmine-boyer
+- 
+  type: relations/money/debtor
+  item: people/hilton-herzog
+- 
+  type: relations/money/creditor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/work/client
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

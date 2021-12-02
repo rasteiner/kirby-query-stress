@@ -1,0 +1,64 @@
+Title: Jennie Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kay-sporer
+- 
+  type: relations/parental/colleague
+  item: people/americo-kilback
+- 
+  type: relations/money/creditor
+  item: people/grady-pfeffer
+- 
+  type: relations/money/debtor
+  item: people/bella-spinka-iv
+- 
+  type: relations/money/debtor
+  item: people/nigel-crooks
+- 
+  type: relations/parental/friend
+  item: people/fannie-lubowitz
+- 
+  type: relations/work/employer
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

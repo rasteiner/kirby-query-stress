@@ -1,0 +1,43 @@
+Title: Toy, Macejkovic and Haag
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/doyle-murphy
+- 
+  type: relations/money/creditor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/money/creditor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/port-ricky

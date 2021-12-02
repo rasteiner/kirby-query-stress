@@ -1,0 +1,64 @@
+Title: Adeline Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/curt-schimmel-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-eloise-smitham-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-helen-hayes
+- 
+  type: relations/parental/mom
+  item: people/mauricio-zieme
+- 
+  type: relations/money/creditor
+  item: people/dylan-mosciski
+- 
+  type: relations/parental/mom
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/money/creditor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/client
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/debtor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

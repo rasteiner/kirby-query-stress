@@ -1,0 +1,64 @@
+Title: Patricia Hackett
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/robyn-smitham
+- 
+  type: relations/parental/dad
+  item: people/flo-conroy
+- 
+  type: relations/parental/friend
+  item: people/edwina-cassin
+- 
+  type: relations/parental/mom
+  item: people/mr-casper-kuphal-md
+- 
+  type: relations/money/creditor
+  item: people/hester-abshire
+- 
+  type: relations/parental/colleague
+  item: people/pascale-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

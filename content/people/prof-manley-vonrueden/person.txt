@@ -1,0 +1,64 @@
+Title: Prof. Manley VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miles-nader-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-russ-lehner
+- 
+  type: relations/money/creditor
+  item: people/corine-herman-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-cristian-walter-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-berniece-cassin-phd
+- 
+  type: relations/money/debtor
+  item: people/jazmyn-renner
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

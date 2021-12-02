@@ -1,0 +1,64 @@
+Title: Riley Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/estelle-berge
+- 
+  type: relations/money/creditor
+  item: people/emory-collier-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-aron-ernser-ii
+- 
+  type: relations/parental/mom
+  item: people/emil-roob
+- 
+  type: relations/money/debtor
+  item: people/riley-miller
+- 
+  type: relations/parental/friend
+  item: people/dr-gudrun-powlowski
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/client
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

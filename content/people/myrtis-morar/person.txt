@@ -1,0 +1,64 @@
+Title: Myrtis Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/aurelie-huels
+- 
+  type: relations/parental/friend
+  item: people/cristina-jaskolski
+- 
+  type: relations/parental/dad
+  item: people/miss-maudie-abbott
+- 
+  type: relations/money/creditor
+  item: people/federico-wintheiser
+- 
+  type: relations/money/debtor
+  item: people/cristian-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/ms-ollie-kunde-dds
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/client
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

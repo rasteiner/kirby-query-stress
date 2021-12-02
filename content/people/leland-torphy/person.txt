@@ -1,0 +1,64 @@
+Title: Leland Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-augustus-cassin-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-gisselle-purdy-sr
+- 
+  type: relations/parental/colleague
+  item: people/cory-kuvalis
+- 
+  type: relations/money/debtor
+  item: people/mr-frankie-mann
+- 
+  type: relations/money/debtor
+  item: people/tianna-barton-phd
+- 
+  type: relations/money/creditor
+  item: people/trever-lockman
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/employer
+  item: companies/swaniawski-group
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

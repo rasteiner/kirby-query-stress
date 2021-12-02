@@ -1,0 +1,43 @@
+Title: Paucek, Corkery and Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/towne-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-hills
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/shaneton

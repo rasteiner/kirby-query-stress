@@ -1,0 +1,43 @@
+Title: Beier, Pouros and Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/creditor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-group
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/money/debtor
+  item: companies/towne-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/hageneston

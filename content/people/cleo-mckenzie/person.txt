@@ -1,0 +1,64 @@
+Title: Cleo McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-kyra-romaguera-sr
+- 
+  type: relations/parental/mom
+  item: people/ashlee-roberts
+- 
+  type: relations/parental/brosis
+  item: people/kelly-morissette
+- 
+  type: relations/money/creditor
+  item: people/linnea-price
+- 
+  type: relations/parental/friend
+  item: people/hillary-ratke
+- 
+  type: relations/parental/friend
+  item: people/stephan-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

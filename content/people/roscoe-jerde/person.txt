@@ -1,0 +1,64 @@
+Title: Roscoe Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-kamryn-jenkins
+- 
+  type: relations/money/debtor
+  item: people/shawna-parisian
+- 
+  type: relations/parental/mom
+  item: people/carmela-daniel
+- 
+  type: relations/parental/colleague
+  item: people/ressie-hayes
+- 
+  type: relations/money/debtor
+  item: people/einar-hessel-md
+- 
+  type: relations/money/creditor
+  item: people/mr-reyes-volkman-dvm
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/work/client
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/client
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/employer
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

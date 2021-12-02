@@ -1,0 +1,64 @@
+Title: Gladyce Morar V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-jamal-pagac
+- 
+  type: relations/parental/friend
+  item: people/maximillian-fadel
+- 
+  type: relations/parental/mom
+  item: people/cathrine-cummings
+- 
+  type: relations/parental/mom
+  item: people/damion-lindgren-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-arnaldo-brakus-ii
+- 
+  type: relations/parental/mom
+  item: people/lenora-ullrich-ii
+- 
+  type: relations/work/employer
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/work/client
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

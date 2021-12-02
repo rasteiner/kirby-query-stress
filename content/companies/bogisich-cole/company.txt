@@ -1,0 +1,43 @@
+Title: Bogisich-Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/osinski-lehner
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/port-alexa

@@ -1,0 +1,64 @@
+Title: Prof. Ebony Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-olen-bradtke
+- 
+  type: relations/money/creditor
+  item: people/mollie-swift-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kaylie-marvin
+- 
+  type: relations/parental/friend
+  item: people/alice-mcclure
+- 
+  type: relations/parental/dad
+  item: people/trevion-zemlak
+- 
+  type: relations/parental/dad
+  item: people/jed-smitham
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-group
+- 
+  type: relations/work/employer
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

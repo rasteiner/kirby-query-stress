@@ -1,0 +1,64 @@
+Title: Miss Rose Becker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-alejandrin-bernier
+- 
+  type: relations/money/creditor
+  item: people/dr-general-dickinson
+- 
+  type: relations/parental/friend
+  item: people/jewell-torp-iii
+- 
+  type: relations/money/creditor
+  item: people/dr-alexandrine-lakin-i
+- 
+  type: relations/money/creditor
+  item: people/dr-jeramy-denesik
+- 
+  type: relations/parental/brosis
+  item: people/fanny-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/becker-schuppe
+- 
+  type: relations/work/client
+  item: companies/mante-plc
+- 
+  type: relations/work/employer
+  item: companies/ruecker-llc
+- 
+  type: relations/work/employer
+  item: companies/kunde-llc
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

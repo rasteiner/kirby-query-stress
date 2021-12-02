@@ -1,0 +1,64 @@
+Title: Gerard Grady V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/leatha-watsica
+- 
+  type: relations/parental/mom
+  item: people/pascale-mertz
+- 
+  type: relations/parental/brosis
+  item: people/prof-jett-lakin-dvm
+- 
+  type: relations/money/debtor
+  item: people/chelsie-o-reilly
+- 
+  type: relations/money/creditor
+  item: people/vincenza-turner
+- 
+  type: relations/parental/dad
+  item: people/lilian-gerlach
+- 
+  type: relations/work/employer
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Kelley Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/tate-o-hara
+- 
+  type: relations/money/debtor
+  item: people/minnie-dubuque
+- 
+  type: relations/money/debtor
+  item: people/aliya-dickens-dvm
+- 
+  type: relations/parental/dad
+  item: people/ms-destinee-konopelski-iii
+- 
+  type: relations/parental/colleague
+  item: people/mrs-aleen-wolff-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-gunnar-herman
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/work/client
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

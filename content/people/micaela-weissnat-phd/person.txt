@@ -1,0 +1,64 @@
+Title: Micaela Weissnat PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/salvador-walsh
+- 
+  type: relations/parental/dad
+  item: people/cornelius-bode-v
+- 
+  type: relations/parental/mom
+  item: people/kaden-heidenreich-dvm
+- 
+  type: relations/parental/mom
+  item: people/chet-cassin
+- 
+  type: relations/money/debtor
+  item: people/alba-gaylord
+- 
+  type: relations/money/creditor
+  item: people/noemy-bode
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

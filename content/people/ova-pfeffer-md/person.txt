@@ -1,0 +1,64 @@
+Title: Ova Pfeffer MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mandy-rice
+- 
+  type: relations/parental/dad
+  item: people/prof-alberto-batz-iv
+- 
+  type: relations/money/debtor
+  item: people/geovanni-rowe
+- 
+  type: relations/money/debtor
+  item: people/prof-jeffery-parker-jr
+- 
+  type: relations/money/debtor
+  item: people/kianna-becker
+- 
+  type: relations/money/debtor
+  item: people/henderson-halvorson
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/work/employer
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Michael Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cecilia-braun
+- 
+  type: relations/parental/brosis
+  item: people/luis-cruickshank
+- 
+  type: relations/parental/dad
+  item: people/estelle-berge
+- 
+  type: relations/parental/mom
+  item: people/emory-collier-ii
+- 
+  type: relations/parental/mom
+  item: people/mr-aron-ernser-ii
+- 
+  type: relations/parental/mom
+  item: people/emil-roob
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/client
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Prof. Joy Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/howell-sawayn
+- 
+  type: relations/parental/dad
+  item: people/enid-blick
+- 
+  type: relations/parental/brosis
+  item: people/armani-beier
+- 
+  type: relations/parental/mom
+  item: people/kenneth-hammes
+- 
+  type: relations/parental/colleague
+  item: people/hilario-ullrich
+- 
+  type: relations/money/debtor
+  item: people/mr-kristian-greenfelder-dvm
+- 
+  type: relations/money/creditor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/client
+  item: companies/hauck-inc
+- 
+  type: relations/work/employer
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

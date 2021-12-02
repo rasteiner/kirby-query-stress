@@ -1,0 +1,64 @@
+Title: Zackary Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/diego-erdman
+- 
+  type: relations/parental/dad
+  item: people/dr-rubye-abshire-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-kayden-homenick-sr
+- 
+  type: relations/parental/colleague
+  item: people/laurine-crist
+- 
+  type: relations/parental/mom
+  item: people/dewayne-buckridge
+- 
+  type: relations/parental/mom
+  item: people/jane-jacobs
+- 
+  type: relations/work/employer
+  item: companies/lebsack-berge
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

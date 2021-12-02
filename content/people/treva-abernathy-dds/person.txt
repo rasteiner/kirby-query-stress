@@ -1,0 +1,64 @@
+Title: Treva Abernathy DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lucious-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/tracy-stokes-i
+- 
+  type: relations/parental/dad
+  item: people/erica-schulist
+- 
+  type: relations/parental/colleague
+  item: people/dr-miles-prosacco-v
+- 
+  type: relations/money/debtor
+  item: people/dr-alicia-dickens
+- 
+  type: relations/parental/dad
+  item: people/prof-oleta-lubowitz
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/work/client
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/client
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

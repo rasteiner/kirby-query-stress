@@ -1,0 +1,64 @@
+Title: Dr. Andrew Rau
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-christophe-aufderhar-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-lilyan-orn-dds
+- 
+  type: relations/parental/brosis
+  item: people/anderson-thiel
+- 
+  type: relations/money/debtor
+  item: people/america-ankunding-iv
+- 
+  type: relations/parental/dad
+  item: people/vicky-rosenbaum
+- 
+  type: relations/parental/colleague
+  item: people/keara-osinski
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/client
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

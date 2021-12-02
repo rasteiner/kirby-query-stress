@@ -1,0 +1,64 @@
+Title: Marjolaine Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/vito-swift
+- 
+  type: relations/parental/brosis
+  item: people/merritt-carter
+- 
+  type: relations/money/debtor
+  item: people/liana-friesen
+- 
+  type: relations/parental/dad
+  item: people/elza-langworth-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

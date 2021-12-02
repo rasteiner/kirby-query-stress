@@ -1,0 +1,43 @@
+Title: Bogisich, Barrows and Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sanford-lehner
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/ryan-little
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire

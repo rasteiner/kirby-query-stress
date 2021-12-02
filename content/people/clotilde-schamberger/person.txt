@@ -1,0 +1,64 @@
+Title: Clotilde Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-jerod-stark
+- 
+  type: relations/parental/colleague
+  item: people/audra-roberts
+- 
+  type: relations/parental/brosis
+  item: people/sherwood-ruecker
+- 
+  type: relations/parental/colleague
+  item: people/francesca-kohler
+- 
+  type: relations/parental/brosis
+  item: people/jaden-bergnaum
+- 
+  type: relations/parental/dad
+  item: people/zoila-dach-ii
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/creditor
+  item: companies/becker-ltd
+- 
+  type: relations/work/employer
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Mrs. Amely Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lawson-cormier
+- 
+  type: relations/parental/mom
+  item: people/dr-heather-casper
+- 
+  type: relations/parental/friend
+  item: people/gus-spencer
+- 
+  type: relations/parental/friend
+  item: people/kelsi-cartwright
+- 
+  type: relations/money/debtor
+  item: people/kay-barrows
+- 
+  type: relations/parental/mom
+  item: people/korey-shanahan
+- 
+  type: relations/money/debtor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/money/creditor
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,43 @@
+Title: Walter-Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mante-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/money/creditor
+  item: companies/vandervort-llc
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/south-emerson
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

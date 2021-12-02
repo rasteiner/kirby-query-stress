@@ -1,0 +1,43 @@
+Title: Schuster-Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/money/debtor
+  item: companies/rice-inc
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire

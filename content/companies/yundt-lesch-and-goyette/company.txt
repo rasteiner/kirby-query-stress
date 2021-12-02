@@ -1,0 +1,43 @@
+Title: Yundt, Lesch and Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/money/debtor
+  item: companies/flatley-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/north-horace

@@ -1,0 +1,64 @@
+Title: Mrs. Retha Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/drake-zboncak
+- 
+  type: relations/parental/mom
+  item: people/leola-vonrueden
+- 
+  type: relations/money/creditor
+  item: people/ms-erica-quigley
+- 
+  type: relations/money/creditor
+  item: people/joanie-johnston
+- 
+  type: relations/parental/mom
+  item: people/dr-junius-champlin-sr
+- 
+  type: relations/parental/brosis
+  item: people/adele-waters
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

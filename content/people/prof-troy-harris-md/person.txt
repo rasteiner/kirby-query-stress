@@ -1,0 +1,64 @@
+Title: Prof. Troy Harris MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-dustin-bruen
+- 
+  type: relations/parental/colleague
+  item: people/ward-boyer
+- 
+  type: relations/parental/dad
+  item: people/bradford-hansen
+- 
+  type: relations/money/creditor
+  item: people/delia-hirthe
+- 
+  type: relations/parental/friend
+  item: people/german-mosciski
+- 
+  type: relations/parental/dad
+  item: people/evelyn-brekke
+- 
+  type: relations/work/client
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

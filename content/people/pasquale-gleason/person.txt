@@ -1,0 +1,64 @@
+Title: Pasquale Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/burdette-ernser-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-shayne-bruen
+- 
+  type: relations/money/creditor
+  item: people/oscar-o-connell
+- 
+  type: relations/parental/brosis
+  item: people/terrill-upton
+- 
+  type: relations/parental/brosis
+  item: people/miss-kiana-ernser-iii
+- 
+  type: relations/money/creditor
+  item: people/rhianna-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

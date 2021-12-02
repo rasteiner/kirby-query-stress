@@ -1,0 +1,65 @@
+Title: Amanda Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/boyd-padberg
+- 
+  type: relations/parental/friend
+  item: people/jocelyn-hamill
+- 
+  type: relations/parental/mom
+  item: people/shania-schmitt
+- 
+  type: relations/money/creditor
+  item: people/carlie-cremin
+- 
+  type: relations/parental/dad
+  item: people/dr-shakira-murazik
+- 
+  type: relations/parental/dad
+  item: people/miss-zora-blick-i
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/debtor
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

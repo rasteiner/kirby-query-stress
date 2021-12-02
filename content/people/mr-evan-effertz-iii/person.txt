@@ -1,0 +1,64 @@
+Title: Mr. Evan Effertz III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/money/debtor
+  item: people/patricia-dare
+- 
+  type: relations/parental/mom
+  item: people/david-lowe
+- 
+  type: relations/parental/friend
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/parental/mom
+  item: people/anne-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/work/employer
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/money/creditor
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

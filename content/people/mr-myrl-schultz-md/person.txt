@@ -1,0 +1,64 @@
+Title: Mr. Myrl Schultz MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/valentina-mckenzie
+- 
+  type: relations/parental/friend
+  item: people/jeanette-tillman-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-ona-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/kurtis-marquardt-sr
+- 
+  type: relations/parental/colleague
+  item: people/haven-ondricka-jr
+- 
+  type: relations/parental/colleague
+  item: people/rossie-bechtelar-dvm
+- 
+  type: relations/work/client
+  item: companies/hand-schuster
+- 
+  type: relations/money/debtor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/work/employer
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

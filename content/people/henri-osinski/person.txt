@@ -1,0 +1,64 @@
+Title: Henri Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-alize-shanahan
+- 
+  type: relations/parental/mom
+  item: people/dr-osvaldo-shields
+- 
+  type: relations/money/debtor
+  item: people/delphia-walker
+- 
+  type: relations/parental/mom
+  item: people/edythe-lesch
+- 
+  type: relations/parental/brosis
+  item: people/miss-shaina-moore-iv
+- 
+  type: relations/money/creditor
+  item: people/mr-pierre-fahey-i
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-inc
+- 
+  type: relations/work/employer
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

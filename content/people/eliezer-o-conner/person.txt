@@ -1,0 +1,65 @@
+Title: Eliezer O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/caitlyn-wintheiser
+- 
+  type: relations/parental/colleague
+  item: people/vicky-frami-iv
+- 
+  type: relations/money/creditor
+  item: people/mortimer-weimann
+- 
+  type: relations/money/creditor
+  item: people/prof-louvenia-cartwright-i
+- 
+  type: relations/parental/friend
+  item: people/mrs-ofelia-tremblay-ii
+- 
+  type: relations/parental/dad
+  item: people/sammie-walsh
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/schiller-collier
+- 
+  type: relations/money/debtor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/debtor
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

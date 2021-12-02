@@ -1,0 +1,43 @@
+Title: Koelpin Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/crookstown
+- 
+  type: relations/location/visited
+  item: places/north-trestad

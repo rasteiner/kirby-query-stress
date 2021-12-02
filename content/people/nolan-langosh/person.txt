@@ -1,0 +1,64 @@
+Title: Nolan Langosh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alva-medhurst
+- 
+  type: relations/parental/colleague
+  item: people/mr-dane-fadel
+- 
+  type: relations/parental/dad
+  item: people/dr-wilma-upton
+- 
+  type: relations/money/debtor
+  item: people/jerry-flatley
+- 
+  type: relations/parental/dad
+  item: people/major-padberg
+- 
+  type: relations/parental/mom
+  item: people/dr-dario-satterfield-dvm
+- 
+  type: relations/work/client
+  item: companies/kirlin-davis
+- 
+  type: relations/work/client
+  item: companies/howell-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

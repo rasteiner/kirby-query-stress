@@ -1,0 +1,64 @@
+Title: Moses Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/meghan-adams
+- 
+  type: relations/parental/colleague
+  item: people/natalia-marquardt
+- 
+  type: relations/parental/friend
+  item: people/prof-raymundo-jacobson-v
+- 
+  type: relations/parental/mom
+  item: people/ubaldo-simonis
+- 
+  type: relations/parental/dad
+  item: people/beau-sanford
+- 
+  type: relations/parental/mom
+  item: people/houston-tillman
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/debtor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

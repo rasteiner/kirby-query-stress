@@ -1,0 +1,64 @@
+Title: German Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/oma-howell
+- 
+  type: relations/parental/mom
+  item: people/jamie-dicki
+- 
+  type: relations/parental/mom
+  item: people/emie-hermiston
+- 
+  type: relations/parental/friend
+  item: people/summer-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/peggie-pollich
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/work/employer
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

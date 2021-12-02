@@ -1,0 +1,64 @@
+Title: Amara Fahey DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/margaret-schaefer
+- 
+  type: relations/parental/brosis
+  item: people/dr-jonatan-luettgen-sr
+- 
+  type: relations/parental/dad
+  item: people/miss-antonette-grant
+- 
+  type: relations/parental/mom
+  item: people/idella-raynor
+- 
+  type: relations/money/creditor
+  item: people/dr-watson-pollich
+- 
+  type: relations/parental/dad
+  item: people/tia-zulauf
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

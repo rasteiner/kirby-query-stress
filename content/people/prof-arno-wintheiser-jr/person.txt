@@ -1,0 +1,64 @@
+Title: Prof. Arno Wintheiser Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/electa-russel
+- 
+  type: relations/parental/colleague
+  item: people/omer-roberts
+- 
+  type: relations/parental/mom
+  item: people/kay-sporer
+- 
+  type: relations/parental/colleague
+  item: people/americo-kilback
+- 
+  type: relations/parental/brosis
+  item: people/grady-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/bella-spinka-iv
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/work/employer
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

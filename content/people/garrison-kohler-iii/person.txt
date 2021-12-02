@@ -1,0 +1,64 @@
+Title: Garrison Kohler III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kenton-doyle
+- 
+  type: relations/parental/brosis
+  item: people/dr-kellen-fay-iii
+- 
+  type: relations/money/debtor
+  item: people/tate-leffler
+- 
+  type: relations/parental/brosis
+  item: people/prof-adolfo-little
+- 
+  type: relations/parental/colleague
+  item: people/ashly-price
+- 
+  type: relations/parental/friend
+  item: people/mrs-donna-kessler-dds
+- 
+  type: relations/work/employer
+  item: companies/doyle-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/employer
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

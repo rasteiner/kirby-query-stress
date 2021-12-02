@@ -1,0 +1,43 @@
+Title: Braun, Barrows and Bosco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/money/debtor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-llc
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg

@@ -1,0 +1,64 @@
+Title: Jaclyn Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-durward-treutel-i
+- 
+  type: relations/parental/brosis
+  item: people/mathilde-boyle
+- 
+  type: relations/parental/mom
+  item: people/jorge-stracke-phd
+- 
+  type: relations/parental/mom
+  item: people/mr-mason-swaniawski-jr
+- 
+  type: relations/parental/mom
+  item: people/keven-skiles
+- 
+  type: relations/parental/brosis
+  item: people/shania-schaefer-dvm
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

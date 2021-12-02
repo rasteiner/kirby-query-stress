@@ -1,0 +1,64 @@
+Title: Dr. Macey Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/hester-abshire
+- 
+  type: relations/parental/mom
+  item: people/pascale-greenfelder
+- 
+  type: relations/money/creditor
+  item: people/gilda-hyatt
+- 
+  type: relations/parental/friend
+  item: people/connie-lebsack
+- 
+  type: relations/parental/mom
+  item: people/otilia-dooley-dds
+- 
+  type: relations/parental/colleague
+  item: people/prof-dayana-konopelski-ii
+- 
+  type: relations/work/employer
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/employer
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

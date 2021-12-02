@@ -1,0 +1,64 @@
+Title: Lia Hettinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ryder-sipes
+- 
+  type: relations/parental/mom
+  item: people/josephine-howell
+- 
+  type: relations/parental/mom
+  item: people/reagan-murray
+- 
+  type: relations/money/creditor
+  item: people/ms-shakira-pollich-iii
+- 
+  type: relations/parental/mom
+  item: people/vernie-rolfson
+- 
+  type: relations/parental/brosis
+  item: people/rey-torphy-i
+- 
+  type: relations/money/debtor
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/client
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

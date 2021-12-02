@@ -1,0 +1,64 @@
+Title: Mr. Tobin Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marlene-harvey
+- 
+  type: relations/parental/dad
+  item: people/santiago-bradtke
+- 
+  type: relations/money/creditor
+  item: people/franz-koelpin
+- 
+  type: relations/parental/brosis
+  item: people/gillian-russel
+- 
+  type: relations/money/debtor
+  item: people/mr-everardo-turcotte-phd
+- 
+  type: relations/money/debtor
+  item: people/mrs-jayne-mayer-jr
+- 
+  type: relations/money/creditor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/weber-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-bode
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

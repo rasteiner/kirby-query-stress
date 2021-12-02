@@ -1,0 +1,43 @@
+Title: Wyman, Kutch and Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/consueloberg

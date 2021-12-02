@@ -1,0 +1,64 @@
+Title: Chaim Denesik II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-bernita-gusikowski
+- 
+  type: relations/parental/friend
+  item: people/prof-merl-sipes
+- 
+  type: relations/parental/dad
+  item: people/clint-west
+- 
+  type: relations/parental/friend
+  item: people/ramon-marquardt
+- 
+  type: relations/parental/dad
+  item: people/cali-runte
+- 
+  type: relations/parental/brosis
+  item: people/raquel-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/debtor
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/employer
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Mrs. Viva Bruen DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alanna-leuschke
+- 
+  type: relations/parental/dad
+  item: people/mr-austin-stark-phd
+- 
+  type: relations/money/debtor
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/mom
+  item: people/nikko-king
+- 
+  type: relations/parental/brosis
+  item: people/amanda-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/cathrine-marquardt-ii
+- 
+  type: relations/money/creditor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-group
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Mr. Brando Daniel V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-aurelio-stoltenberg-md
+- 
+  type: relations/parental/friend
+  item: people/adela-cormier
+- 
+  type: relations/parental/mom
+  item: people/kristopher-zieme
+- 
+  type: relations/money/creditor
+  item: people/opal-hartmann
+- 
+  type: relations/parental/friend
+  item: people/cleora-homenick
+- 
+  type: relations/money/creditor
+  item: people/tyrese-windler-sr
+- 
+  type: relations/money/debtor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

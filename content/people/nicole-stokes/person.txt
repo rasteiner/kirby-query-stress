@@ -1,0 +1,64 @@
+Title: Nicole Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/blanche-hartmann
+- 
+  type: relations/parental/mom
+  item: people/dr-pete-wehner-iii
+- 
+  type: relations/money/debtor
+  item: people/stevie-spencer
+- 
+  type: relations/parental/colleague
+  item: people/rodolfo-harvey
+- 
+  type: relations/money/creditor
+  item: people/enid-mayert
+- 
+  type: relations/parental/friend
+  item: people/wilber-marvin
+- 
+  type: relations/work/client
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/creditor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/client
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Prof. Friedrich Ondricka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-zoie-pagac-iv
+- 
+  type: relations/parental/friend
+  item: people/maybelle-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/katharina-grimes
+- 
+  type: relations/parental/brosis
+  item: people/brown-roob-iii
+- 
+  type: relations/money/debtor
+  item: people/brant-kunze
+- 
+  type: relations/parental/mom
+  item: people/torrance-anderson
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/employer
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/client
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

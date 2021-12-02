@@ -1,0 +1,64 @@
+Title: Micaela Haley III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/emmalee-abshire
+- 
+  type: relations/parental/mom
+  item: people/marquis-schmidt
+- 
+  type: relations/money/debtor
+  item: people/irwin-davis
+- 
+  type: relations/parental/dad
+  item: people/derick-adams
+- 
+  type: relations/parental/brosis
+  item: people/valentin-gislason
+- 
+  type: relations/parental/friend
+  item: people/rachel-towne
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,65 @@
+Title: August Schultz Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/macey-streich
+- 
+  type: relations/parental/friend
+  item: people/wilhelm-hoeger-phd
+- 
+  type: relations/parental/brosis
+  item: people/cecile-hauck-v
+- 
+  type: relations/parental/brosis
+  item: people/prof-candice-eichmann
+- 
+  type: relations/money/debtor
+  item: people/ms-hollie-dach-i
+- 
+  type: relations/money/creditor
+  item: people/prof-ramona-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

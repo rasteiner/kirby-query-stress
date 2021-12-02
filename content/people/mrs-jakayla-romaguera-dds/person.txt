@@ -1,0 +1,64 @@
+Title: Mrs. Jakayla Romaguera DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-naomie-cartwright
+- 
+  type: relations/money/debtor
+  item: people/prof-jermaine-wolff
+- 
+  type: relations/parental/friend
+  item: people/daniella-abshire
+- 
+  type: relations/parental/dad
+  item: people/prof-holden-schroeder
+- 
+  type: relations/parental/mom
+  item: people/micaela-weissnat-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-laurel-daniel-md
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/client
+  item: companies/nicolas-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

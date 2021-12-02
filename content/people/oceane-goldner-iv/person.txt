@@ -1,0 +1,64 @@
+Title: Oceane Goldner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/faustino-mccullough
+- 
+  type: relations/parental/colleague
+  item: people/vilma-o-connell-phd
+- 
+  type: relations/money/creditor
+  item: people/else-lesch-i
+- 
+  type: relations/money/debtor
+  item: people/peter-thompson-iv
+- 
+  type: relations/money/debtor
+  item: people/rosamond-konopelski
+- 
+  type: relations/money/creditor
+  item: people/prof-laurel-rice-dds
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/employer
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/employer
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

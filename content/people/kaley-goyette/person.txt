@@ -1,0 +1,64 @@
+Title: Kaley Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/wilfrid-wiegand-dds
+- 
+  type: relations/parental/brosis
+  item: people/miss-trisha-hand-ii
+- 
+  type: relations/money/debtor
+  item: people/miss-verlie-spencer-dvm
+- 
+  type: relations/parental/mom
+  item: people/mrs-kelly-hettinger-dds
+- 
+  type: relations/parental/friend
+  item: people/santos-hilpert-sr
+- 
+  type: relations/money/debtor
+  item: people/darron-morar
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

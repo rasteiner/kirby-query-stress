@@ -1,0 +1,66 @@
+Title: Prof. Stephania Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-leonor-kertzmann-phd
+- 
+  type: relations/parental/friend
+  item: people/kiera-hilll
+- 
+  type: relations/parental/friend
+  item: people/idella-trantow
+- 
+  type: relations/parental/mom
+  item: people/julianne-robel
+- 
+  type: relations/parental/colleague
+  item: people/ceasar-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/cassie-dickens-dvm
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/employer
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

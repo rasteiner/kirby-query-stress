@@ -1,0 +1,64 @@
+Title: Denis Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/philip-o-kon
+- 
+  type: relations/parental/friend
+  item: people/shea-goodwin
+- 
+  type: relations/parental/mom
+  item: people/luella-kulas
+- 
+  type: relations/parental/friend
+  item: people/ms-melissa-rolfson-jr
+- 
+  type: relations/parental/dad
+  item: people/bertha-vandervort-iv
+- 
+  type: relations/parental/friend
+  item: people/danyka-bosco-sr
+- 
+  type: relations/work/client
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/client
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Mr. Jillian Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lauriane-zulauf
+- 
+  type: relations/money/creditor
+  item: people/myah-murray
+- 
+  type: relations/money/debtor
+  item: people/marcus-schinner-ii
+- 
+  type: relations/parental/friend
+  item: people/ms-pasquale-stiedemann-i
+- 
+  type: relations/parental/friend
+  item: people/prof-norene-prohaska-md
+- 
+  type: relations/money/debtor
+  item: people/heidi-kuhn
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/creditor
+  item: companies/hackett-inc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

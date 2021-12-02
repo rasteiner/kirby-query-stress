@@ -1,0 +1,64 @@
+Title: Sandrine Schiller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-rozella-mckenzie-iv
+- 
+  type: relations/parental/brosis
+  item: people/prof-jon-kessler
+- 
+  type: relations/parental/dad
+  item: people/dr-abe-powlowski
+- 
+  type: relations/parental/brosis
+  item: people/elton-murray
+- 
+  type: relations/parental/colleague
+  item: people/rylan-wuckert
+- 
+  type: relations/parental/mom
+  item: people/enrico-heaney
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-harber
+- 
+  type: relations/work/client
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

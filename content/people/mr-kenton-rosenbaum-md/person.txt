@@ -1,0 +1,64 @@
+Title: Mr. Kenton Rosenbaum MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-vada-rice
+- 
+  type: relations/parental/dad
+  item: people/dr-beulah-hartmann
+- 
+  type: relations/parental/mom
+  item: people/kenya-gerlach-i
+- 
+  type: relations/money/creditor
+  item: people/prof-amiya-fadel
+- 
+  type: relations/parental/friend
+  item: people/reanna-cummerata-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ezekiel-hansen
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/work/client
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

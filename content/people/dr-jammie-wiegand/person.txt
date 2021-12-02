@@ -1,0 +1,65 @@
+Title: Dr. Jammie Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/unique-rempel-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-rasheed-o-hara-iii
+- 
+  type: relations/parental/colleague
+  item: people/colby-corwin
+- 
+  type: relations/parental/brosis
+  item: people/henri-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/vivienne-hackett
+- 
+  type: relations/money/debtor
+  item: people/maribel-legros
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/employer
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

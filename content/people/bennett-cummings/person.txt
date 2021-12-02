@@ -1,0 +1,64 @@
+Title: Bennett Cummings
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-ward-bins
+- 
+  type: relations/money/creditor
+  item: people/prof-ursula-cronin
+- 
+  type: relations/money/debtor
+  item: people/arvel-rosenbaum
+- 
+  type: relations/money/debtor
+  item: people/anjali-lind
+- 
+  type: relations/parental/dad
+  item: people/ms-krystina-gibson-dds
+- 
+  type: relations/parental/colleague
+  item: people/adolf-cassin
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

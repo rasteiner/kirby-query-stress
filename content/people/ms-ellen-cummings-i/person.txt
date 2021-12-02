@@ -1,0 +1,64 @@
+Title: Ms. Ellen Cummings I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/hellen-homenick
+- 
+  type: relations/parental/friend
+  item: people/freeda-lockman
+- 
+  type: relations/parental/mom
+  item: people/tamara-ledner-dds
+- 
+  type: relations/parental/colleague
+  item: people/freeda-cormier-dds
+- 
+  type: relations/money/debtor
+  item: people/zander-schuppe
+- 
+  type: relations/money/debtor
+  item: people/tess-bednar-phd
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/client
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/employer
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

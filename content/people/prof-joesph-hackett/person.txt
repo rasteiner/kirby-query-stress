@@ -1,0 +1,64 @@
+Title: Prof. Joesph Hackett
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/coty-mitchell-dvm
+- 
+  type: relations/parental/dad
+  item: people/gust-bartell
+- 
+  type: relations/parental/dad
+  item: people/derick-d-amore
+- 
+  type: relations/parental/dad
+  item: people/dr-freeman-romaguera
+- 
+  type: relations/parental/dad
+  item: people/lambert-legros
+- 
+  type: relations/money/creditor
+  item: people/bridie-trantow-phd
+- 
+  type: relations/work/client
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/client
+  item: companies/beer-ltd
+- 
+  type: relations/work/employer
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

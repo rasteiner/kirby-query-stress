@@ -1,0 +1,64 @@
+Title: Blaise Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ben-stiedemann-i
+- 
+  type: relations/parental/friend
+  item: people/gust-hickle
+- 
+  type: relations/parental/friend
+  item: people/karley-hyatt
+- 
+  type: relations/money/debtor
+  item: people/kasey-zulauf
+- 
+  type: relations/money/creditor
+  item: people/nikki-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/ms-lindsay-von
+- 
+  type: relations/money/creditor
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/work/client
+  item: companies/kunze-ltd
+- 
+  type: relations/money/creditor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/work/client
+  item: companies/heaney-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

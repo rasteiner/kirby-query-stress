@@ -1,0 +1,64 @@
+Title: Ressie Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/okey-paucek-sr
+- 
+  type: relations/money/debtor
+  item: people/ms-alejandra-spinka-sr
+- 
+  type: relations/parental/colleague
+  item: people/santa-kiehn-dvm
+- 
+  type: relations/parental/friend
+  item: people/bret-bode
+- 
+  type: relations/parental/mom
+  item: people/lawson-cormier
+- 
+  type: relations/parental/mom
+  item: people/dr-heather-casper
+- 
+  type: relations/money/debtor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/client
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/work/employer
+  item: companies/wuckert-little
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

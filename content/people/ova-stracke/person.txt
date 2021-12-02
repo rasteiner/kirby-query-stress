@@ -1,0 +1,64 @@
+Title: Ova Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sarina-johnson
+- 
+  type: relations/parental/dad
+  item: people/chadrick-reichert
+- 
+  type: relations/parental/colleague
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/money/creditor
+  item: people/oma-howell
+- 
+  type: relations/parental/mom
+  item: people/jamie-dicki
+- 
+  type: relations/money/creditor
+  item: people/emie-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/employer
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

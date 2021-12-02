@@ -1,0 +1,65 @@
+Title: Vallie Littel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/charles-dach
+- 
+  type: relations/parental/dad
+  item: people/mr-rex-von-jr
+- 
+  type: relations/parental/colleague
+  item: people/stella-rosenbaum-phd
+- 
+  type: relations/parental/dad
+  item: people/prof-alivia-parisian
+- 
+  type: relations/parental/brosis
+  item: people/dr-ayla-spinka-i
+- 
+  type: relations/parental/colleague
+  item: people/gretchen-lemke
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/work/client
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/client
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,43 @@
+Title: Hayes, Roberts and Rowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/kunze-ltd
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-inc
+- 
+  type: relations/money/debtor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/new-clemensview

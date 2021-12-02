@@ -1,0 +1,64 @@
+Title: Mr. Elroy Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/margret-maggio-sr
+- 
+  type: relations/parental/colleague
+  item: people/estevan-ratke
+- 
+  type: relations/money/debtor
+  item: people/dr-peyton-gerhold
+- 
+  type: relations/money/creditor
+  item: people/fermin-witting-i
+- 
+  type: relations/parental/colleague
+  item: people/tyrel-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/buster-doyle
+- 
+  type: relations/work/client
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/work/employer
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

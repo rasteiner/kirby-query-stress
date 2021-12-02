@@ -1,0 +1,64 @@
+Title: Alvina Kohler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/helga-skiles
+- 
+  type: relations/parental/mom
+  item: people/otilia-harris
+- 
+  type: relations/parental/friend
+  item: people/koby-kohler
+- 
+  type: relations/parental/friend
+  item: people/leonie-rodriguez
+- 
+  type: relations/parental/dad
+  item: people/prof-prince-friesen
+- 
+  type: relations/parental/friend
+  item: people/abbigail-bernier
+- 
+  type: relations/work/employer
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

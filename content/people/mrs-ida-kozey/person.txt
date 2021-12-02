@@ -1,0 +1,64 @@
+Title: Mrs. Ida Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/deontae-beier
+- 
+  type: relations/parental/friend
+  item: people/jonathon-leffler
+- 
+  type: relations/parental/dad
+  item: people/jennie-turcotte
+- 
+  type: relations/parental/mom
+  item: people/mia-mosciski
+- 
+  type: relations/parental/dad
+  item: people/brooklyn-bogan
+- 
+  type: relations/parental/friend
+  item: people/myrl-runte-dds
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/employer
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

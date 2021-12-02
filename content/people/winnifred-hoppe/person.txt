@@ -1,0 +1,64 @@
+Title: Winnifred Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kane-monahan
+- 
+  type: relations/parental/mom
+  item: people/dr-waino-wiza
+- 
+  type: relations/money/creditor
+  item: people/mr-frank-jenkins
+- 
+  type: relations/money/creditor
+  item: people/dr-anibal-ledner
+- 
+  type: relations/parental/friend
+  item: people/sheridan-hahn
+- 
+  type: relations/parental/brosis
+  item: people/jevon-littel
+- 
+  type: relations/work/client
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/weber-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-bode
+- 
+  type: relations/work/client
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

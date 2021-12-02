@@ -1,0 +1,65 @@
+Title: Desiree Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marie-murazik
+- 
+  type: relations/money/debtor
+  item: people/miss-aditya-reichert
+- 
+  type: relations/parental/brosis
+  item: people/elinore-conroy
+- 
+  type: relations/parental/friend
+  item: people/mrs-jada-adams-dds
+- 
+  type: relations/parental/colleague
+  item: people/lottie-heathcote
+- 
+  type: relations/money/creditor
+  item: people/jake-harris-md
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/employer
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/employer
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

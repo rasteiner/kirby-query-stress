@@ -1,0 +1,64 @@
+Title: Jevon Botsford V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/tianna-ortiz
+- 
+  type: relations/parental/friend
+  item: people/brady-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/meghan-adams
+- 
+  type: relations/money/debtor
+  item: people/natalia-marquardt
+- 
+  type: relations/money/debtor
+  item: people/prof-raymundo-jacobson-v
+- 
+  type: relations/money/debtor
+  item: people/ubaldo-simonis
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/work/employer
+  item: companies/abernathy-inc
+- 
+  type: relations/work/client
+  item: companies/miller-plc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

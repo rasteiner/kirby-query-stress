@@ -1,0 +1,64 @@
+Title: Bo Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cordell-cronin
+- 
+  type: relations/parental/colleague
+  item: people/travis-abbott-ii
+- 
+  type: relations/parental/colleague
+  item: people/callie-ritchie
+- 
+  type: relations/parental/brosis
+  item: people/annalise-baumbach
+- 
+  type: relations/money/debtor
+  item: people/marilie-braun
+- 
+  type: relations/money/creditor
+  item: people/prof-friedrich-ondricka
+- 
+  type: relations/work/client
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/creditor
+  item: companies/kunze-ltd
+- 
+  type: relations/work/client
+  item: companies/wilkinson-beahan
+- 
+  type: relations/money/creditor
+  item: companies/heaney-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

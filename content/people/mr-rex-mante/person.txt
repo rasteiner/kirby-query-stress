@@ -1,0 +1,64 @@
+Title: Mr. Rex Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cortney-hoeger
+- 
+  type: relations/money/creditor
+  item: people/tyree-mante
+- 
+  type: relations/parental/friend
+  item: people/alene-ortiz
+- 
+  type: relations/parental/colleague
+  item: people/carmel-schinner
+- 
+  type: relations/parental/dad
+  item: people/ismael-wyman-jr
+- 
+  type: relations/parental/friend
+  item: people/ms-amie-rolfson-jr
+- 
+  type: relations/work/client
+  item: companies/reynolds-strosin
+- 
+  type: relations/work/client
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/work/client
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/employer
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

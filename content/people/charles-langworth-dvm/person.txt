@@ -1,0 +1,64 @@
+Title: Charles Langworth DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/junior-keeling-sr
+- 
+  type: relations/money/debtor
+  item: people/dejuan-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/dr-brycen-anderson
+- 
+  type: relations/parental/friend
+  item: people/ignatius-mertz
+- 
+  type: relations/parental/friend
+  item: people/dorian-hegmann
+- 
+  type: relations/parental/colleague
+  item: people/charles-langworth-dvm
+- 
+  type: relations/money/creditor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/employer
+  item: companies/davis-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

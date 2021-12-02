@@ -1,0 +1,64 @@
+Title: Earnest Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-trenton-langworth-i
+- 
+  type: relations/parental/friend
+  item: people/colleen-gislason
+- 
+  type: relations/money/debtor
+  item: people/ward-thompson
+- 
+  type: relations/parental/colleague
+  item: people/colt-brekke
+- 
+  type: relations/money/creditor
+  item: people/dr-alex-paucek-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-cielo-kris
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

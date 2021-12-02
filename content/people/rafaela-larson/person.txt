@@ -1,0 +1,64 @@
+Title: Rafaela Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-chesley-borer-v
+- 
+  type: relations/parental/brosis
+  item: people/maymie-johns
+- 
+  type: relations/parental/friend
+  item: people/vivien-kohler
+- 
+  type: relations/money/creditor
+  item: people/prof-jaycee-bashirian-v
+- 
+  type: relations/parental/mom
+  item: people/taryn-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/prof-claud-kris
+- 
+  type: relations/work/client
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/work/client
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/employer
+  item: companies/rath-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

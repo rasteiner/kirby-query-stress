@@ -1,0 +1,43 @@
+Title: Dooley Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/corwin-zieme
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/new-markhaven
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort

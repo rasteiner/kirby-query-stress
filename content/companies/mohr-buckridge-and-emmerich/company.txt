@@ -1,0 +1,43 @@
+Title: Mohr, Buckridge and Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/haley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/durgan-baumbach
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/south-taniachester

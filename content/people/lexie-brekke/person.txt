@@ -1,0 +1,64 @@
+Title: Lexie Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-christa-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/sophia-satterfield
+- 
+  type: relations/parental/dad
+  item: people/dr-chesley-borer-v
+- 
+  type: relations/parental/mom
+  item: people/maymie-johns
+- 
+  type: relations/money/debtor
+  item: people/vivien-kohler
+- 
+  type: relations/parental/dad
+  item: people/prof-jaycee-bashirian-v
+- 
+  type: relations/money/debtor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/work/client
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

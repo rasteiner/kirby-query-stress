@@ -1,0 +1,64 @@
+Title: Ms. Macy Bogisich MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/martine-grant
+- 
+  type: relations/parental/mom
+  item: people/adriana-osinski
+- 
+  type: relations/parental/friend
+  item: people/estel-yost
+- 
+  type: relations/parental/colleague
+  item: people/edmund-jakubowski
+- 
+  type: relations/money/debtor
+  item: people/miss-jada-sauer
+- 
+  type: relations/parental/mom
+  item: people/delores-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/work/employer
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/debtor
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

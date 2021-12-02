@@ -1,0 +1,64 @@
+Title: Ellis Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-wilbert-hackett-iv
+- 
+  type: relations/parental/dad
+  item: people/marc-lowe
+- 
+  type: relations/parental/friend
+  item: people/eulalia-skiles
+- 
+  type: relations/parental/colleague
+  item: people/hayley-friesen
+- 
+  type: relations/money/debtor
+  item: people/dr-rubye-nolan-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-lea-wiegand
+- 
+  type: relations/work/employer
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

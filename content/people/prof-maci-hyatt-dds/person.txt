@@ -1,0 +1,64 @@
+Title: Prof. Maci Hyatt DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/amparo-krajcik-jr
+- 
+  type: relations/parental/brosis
+  item: people/katelynn-rau-iv
+- 
+  type: relations/money/creditor
+  item: people/mason-gusikowski
+- 
+  type: relations/parental/brosis
+  item: people/fatima-herzog
+- 
+  type: relations/money/creditor
+  item: people/humberto-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/lilian-nienow-i
+- 
+  type: relations/work/client
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/client
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Prof. Aric Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ava-crona-ii
+- 
+  type: relations/parental/brosis
+  item: people/shemar-beahan
+- 
+  type: relations/parental/friend
+  item: people/savannah-larson
+- 
+  type: relations/money/creditor
+  item: people/rudy-leuschke-phd
+- 
+  type: relations/money/creditor
+  item: people/keshawn-legros
+- 
+  type: relations/parental/brosis
+  item: people/brandy-stiedemann
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/orn-ltd
+- 
+  type: relations/work/client
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,65 @@
+Title: Wilson Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ceasar-jenkins
+- 
+  type: relations/money/creditor
+  item: people/cassie-dickens-dvm
+- 
+  type: relations/money/creditor
+  item: people/susana-keeling
+- 
+  type: relations/parental/mom
+  item: people/rosario-walter-sr
+- 
+  type: relations/parental/mom
+  item: people/gilda-reichert
+- 
+  type: relations/parental/dad
+  item: people/leanne-cole-jr
+- 
+  type: relations/work/client
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/creditor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/creditor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/employer
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Robyn Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/domenic-kemmer-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-tyrell-murray
+- 
+  type: relations/money/debtor
+  item: people/miss-carlee-tremblay-iii
+- 
+  type: relations/parental/brosis
+  item: people/emelie-rodriguez
+- 
+  type: relations/parental/dad
+  item: people/prof-fritz-kuhic-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-annalise-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/client
+  item: companies/welch-borer
+- 
+  type: relations/money/creditor
+  item: companies/pollich-ltd
+- 
+  type: relations/work/employer
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

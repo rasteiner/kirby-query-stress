@@ -1,0 +1,64 @@
+Title: Lamont Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-gabriella-stanton
+- 
+  type: relations/parental/dad
+  item: people/dortha-purdy
+- 
+  type: relations/parental/friend
+  item: people/ms-lizeth-senger-dvm
+- 
+  type: relations/parental/friend
+  item: people/german-baumbach-ii
+- 
+  type: relations/money/creditor
+  item: people/cruz-marks-iv
+- 
+  type: relations/parental/friend
+  item: people/beatrice-lockman
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/employer
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

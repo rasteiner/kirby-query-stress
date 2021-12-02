@@ -1,0 +1,64 @@
+Title: Mrs. Dahlia Feeney II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-rafaela-mosciski-v
+- 
+  type: relations/money/debtor
+  item: people/muhammad-kautzer
+- 
+  type: relations/parental/mom
+  item: people/kendall-schoen
+- 
+  type: relations/parental/mom
+  item: people/ottis-lynch-v
+- 
+  type: relations/money/creditor
+  item: people/arthur-hermann
+- 
+  type: relations/parental/dad
+  item: people/patsy-conn-phd
+- 
+  type: relations/work/client
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/creditor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/employer
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

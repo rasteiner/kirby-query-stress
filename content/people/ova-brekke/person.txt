@@ -1,0 +1,64 @@
+Title: Ova Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-sunny-kuvalis
+- 
+  type: relations/parental/dad
+  item: people/alexanne-hirthe
+- 
+  type: relations/parental/brosis
+  item: people/sage-leannon
+- 
+  type: relations/money/debtor
+  item: people/josefina-kiehn
+- 
+  type: relations/parental/friend
+  item: people/rudolph-toy
+- 
+  type: relations/parental/mom
+  item: people/chaim-denesik-ii
+- 
+  type: relations/money/creditor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/employer
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

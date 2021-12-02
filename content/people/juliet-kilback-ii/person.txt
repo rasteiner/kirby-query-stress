@@ -1,0 +1,64 @@
+Title: Juliet Kilback II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-baylee-purdy-v
+- 
+  type: relations/money/debtor
+  item: people/mrs-norene-heathcote
+- 
+  type: relations/parental/brosis
+  item: people/gilberto-hoppe-dds
+- 
+  type: relations/parental/dad
+  item: people/laurence-miller
+- 
+  type: relations/parental/dad
+  item: people/america-braun
+- 
+  type: relations/parental/colleague
+  item: people/thomas-bailey
+- 
+  type: relations/work/client
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/client
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

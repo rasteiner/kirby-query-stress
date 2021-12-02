@@ -1,0 +1,64 @@
+Title: Tillman O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-brook-herzog-v
+- 
+  type: relations/money/creditor
+  item: people/dr-clementine-feeney
+- 
+  type: relations/parental/dad
+  item: people/mr-kelton-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/irving-langosh
+- 
+  type: relations/money/creditor
+  item: people/prof-meaghan-cartwright-i
+- 
+  type: relations/parental/mom
+  item: people/grady-howe
+- 
+  type: relations/money/creditor
+  item: companies/koch-ltd
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/work/client
+  item: companies/daniel-hills
+- 
+  type: relations/work/employer
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

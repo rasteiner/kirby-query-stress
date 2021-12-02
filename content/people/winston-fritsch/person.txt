@@ -1,0 +1,64 @@
+Title: Winston Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/marianna-barrows
+- 
+  type: relations/parental/colleague
+  item: people/lela-bernier-iv
+- 
+  type: relations/parental/dad
+  item: people/miss-adele-bogan-iv
+- 
+  type: relations/money/creditor
+  item: people/noble-douglas
+- 
+  type: relations/money/creditor
+  item: people/luis-casper
+- 
+  type: relations/parental/colleague
+  item: people/heath-wolff
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/work/employer
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

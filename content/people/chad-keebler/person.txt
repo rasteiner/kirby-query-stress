@@ -1,0 +1,64 @@
+Title: Chad Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kacie-pagac-md
+- 
+  type: relations/parental/mom
+  item: people/dr-caitlyn-robel-md
+- 
+  type: relations/parental/brosis
+  item: people/kristina-vandervort
+- 
+  type: relations/parental/dad
+  item: people/durward-rutherford
+- 
+  type: relations/parental/friend
+  item: people/abagail-crooks
+- 
+  type: relations/money/creditor
+  item: people/ms-macy-bogisich-md
+- 
+  type: relations/work/client
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/work/employer
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/client
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/employer
+  item: companies/walsh-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

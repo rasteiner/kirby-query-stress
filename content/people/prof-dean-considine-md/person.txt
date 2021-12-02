@@ -1,0 +1,64 @@
+Title: Prof. Dean Considine MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/francesca-ryan
+- 
+  type: relations/money/debtor
+  item: people/dr-muhammad-lowe
+- 
+  type: relations/parental/colleague
+  item: people/dr-gaylord-o-kon-jr
+- 
+  type: relations/money/debtor
+  item: people/marina-lowe
+- 
+  type: relations/money/creditor
+  item: people/brandt-crona
+- 
+  type: relations/parental/friend
+  item: people/trey-ullrich-sr
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/employer
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

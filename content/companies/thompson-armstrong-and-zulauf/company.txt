@@ -1,0 +1,43 @@
+Title: Thompson, Armstrong and Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/creditor
+  item: companies/skiles-johns
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/money/debtor
+  item: companies/roob-heathcote
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

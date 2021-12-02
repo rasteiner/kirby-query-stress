@@ -1,0 +1,64 @@
+Title: Sydney Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/else-lesch-i
+- 
+  type: relations/parental/dad
+  item: people/peter-thompson-iv
+- 
+  type: relations/parental/friend
+  item: people/rosamond-konopelski
+- 
+  type: relations/parental/colleague
+  item: people/prof-laurel-rice-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-morris-mills-ii
+- 
+  type: relations/money/debtor
+  item: people/mrs-sydnie-howell
+- 
+  type: relations/money/debtor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/ferry-inc
+- 
+  type: relations/work/client
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

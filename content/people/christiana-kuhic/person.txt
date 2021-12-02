@@ -1,0 +1,64 @@
+Title: Christiana Kuhic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-clint-ondricka-phd
+- 
+  type: relations/parental/dad
+  item: people/ona-mitchell
+- 
+  type: relations/parental/friend
+  item: people/prof-margie-bartoletti
+- 
+  type: relations/parental/brosis
+  item: people/candido-johns
+- 
+  type: relations/parental/dad
+  item: people/nichole-wilderman
+- 
+  type: relations/money/debtor
+  item: people/kayley-kreiger
+- 
+  type: relations/work/client
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/debtor
+  item: companies/ratke-fay
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

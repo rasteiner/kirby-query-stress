@@ -1,0 +1,65 @@
+Title: Sienna DuBuque
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kaia-marks
+- 
+  type: relations/parental/mom
+  item: people/emmalee-kessler
+- 
+  type: relations/parental/brosis
+  item: people/anne-friesen-sr
+- 
+  type: relations/parental/mom
+  item: people/ladarius-trantow
+- 
+  type: relations/parental/mom
+  item: people/miss-viola-graham
+- 
+  type: relations/parental/mom
+  item: people/lia-bode
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/client
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

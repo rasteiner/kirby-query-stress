@@ -1,0 +1,64 @@
+Title: Prof. Laurel Rice DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/declan-kuhic-v
+- 
+  type: relations/money/debtor
+  item: people/miss-kirstin-nolan
+- 
+  type: relations/money/debtor
+  item: people/dr-orlo-lemke-md
+- 
+  type: relations/parental/dad
+  item: people/cleora-schultz-sr
+- 
+  type: relations/parental/colleague
+  item: people/dr-gerson-thiel
+- 
+  type: relations/parental/mom
+  item: people/frieda-breitenberg-i
+- 
+  type: relations/work/client
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/employer
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/work/client
+  item: companies/leannon-adams
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Dr. Nova Toy DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/garfield-dickens
+- 
+  type: relations/money/creditor
+  item: people/miguel-brekke
+- 
+  type: relations/parental/friend
+  item: people/jacquelyn-ziemann-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dedrick-corwin
+- 
+  type: relations/money/creditor
+  item: people/rashad-kling
+- 
+  type: relations/money/creditor
+  item: people/isidro-strosin
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

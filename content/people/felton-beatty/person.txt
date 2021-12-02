@@ -1,0 +1,64 @@
+Title: Felton Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/malvina-hodkiewicz-md
+- 
+  type: relations/parental/colleague
+  item: people/karson-goodwin
+- 
+  type: relations/money/creditor
+  item: people/chet-mayer
+- 
+  type: relations/money/debtor
+  item: people/virginia-klein
+- 
+  type: relations/money/creditor
+  item: people/genevieve-cruickshank-v
+- 
+  type: relations/parental/dad
+  item: people/jonathon-stokes
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

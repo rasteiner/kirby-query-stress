@@ -1,0 +1,65 @@
+Title: Dr. Jamal Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-alicia-dickens
+- 
+  type: relations/parental/dad
+  item: people/prof-oleta-lubowitz
+- 
+  type: relations/parental/brosis
+  item: people/ronny-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/rita-balistreri
+- 
+  type: relations/parental/mom
+  item: people/wilber-flatley
+- 
+  type: relations/parental/brosis
+  item: people/adaline-corwin
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/work/client
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Rocky Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-benny-hermann-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-haskell-o-connell-iv
+- 
+  type: relations/parental/friend
+  item: people/miss-kattie-cummings-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-bernice-purdy-iii
+- 
+  type: relations/parental/colleague
+  item: people/kim-lindgren
+- 
+  type: relations/parental/friend
+  item: people/jensen-kilback-md
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/work/employer
+  item: companies/effertz-llc
+- 
+  type: relations/work/employer
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/employer
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

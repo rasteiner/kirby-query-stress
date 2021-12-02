@@ -1,0 +1,64 @@
+Title: Wilhelmine Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bill-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/dr-eric-quigley-iii
+- 
+  type: relations/parental/colleague
+  item: people/ethyl-miller
+- 
+  type: relations/parental/friend
+  item: people/mose-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/parental/dad
+  item: people/noah-gerlach
+- 
+  type: relations/work/employer
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

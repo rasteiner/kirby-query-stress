@@ -1,0 +1,64 @@
+Title: Trey Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gilda-erdman-i
+- 
+  type: relations/money/creditor
+  item: people/brennan-wilderman
+- 
+  type: relations/parental/colleague
+  item: people/zoila-jakubowski-v
+- 
+  type: relations/money/debtor
+  item: people/kasey-herman
+- 
+  type: relations/money/creditor
+  item: people/jarod-schulist-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-lilliana-smith
+- 
+  type: relations/work/client
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

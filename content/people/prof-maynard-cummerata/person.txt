@@ -1,0 +1,64 @@
+Title: Prof. Maynard Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/money/creditor
+  item: people/ms-river-wolff
+- 
+  type: relations/parental/colleague
+  item: people/ola-dibbert
+- 
+  type: relations/parental/dad
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/parental/friend
+  item: people/loyal-rowe
+- 
+  type: relations/money/debtor
+  item: people/mr-jaydon-kuhic
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/employer
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/client
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/client
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

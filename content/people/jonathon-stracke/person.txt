@@ -1,0 +1,64 @@
+Title: Jonathon Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-trisha-haag
+- 
+  type: relations/parental/friend
+  item: people/kennith-feeney
+- 
+  type: relations/parental/colleague
+  item: people/mr-werner-batz
+- 
+  type: relations/parental/colleague
+  item: people/prof-arnaldo-pfeffer-ii
+- 
+  type: relations/money/debtor
+  item: people/dr-marisol-williamson-ii
+- 
+  type: relations/money/debtor
+  item: people/nelda-adams-sr
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/employer
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Dr. Tre Gerhold PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/brandi-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/liana-gusikowski
+- 
+  type: relations/money/creditor
+  item: people/ms-violette-lehner-jr
+- 
+  type: relations/parental/dad
+  item: people/nedra-marvin
+- 
+  type: relations/parental/mom
+  item: people/prof-morgan-heaney-i
+- 
+  type: relations/parental/brosis
+  item: people/fanny-rice
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/client
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/client
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

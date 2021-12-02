@@ -1,0 +1,64 @@
+Title: Joe Greenfelder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elenora-donnelly-dvm
+- 
+  type: relations/parental/brosis
+  item: people/ms-aurore-gerlach
+- 
+  type: relations/parental/brosis
+  item: people/jordyn-pagac
+- 
+  type: relations/parental/dad
+  item: people/marielle-kerluke
+- 
+  type: relations/parental/mom
+  item: people/prof-deangelo-vonrueden-md
+- 
+  type: relations/money/debtor
+  item: people/emmet-west-iv
+- 
+  type: relations/work/employer
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

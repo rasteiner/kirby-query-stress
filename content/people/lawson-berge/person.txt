@@ -1,0 +1,64 @@
+Title: Lawson Berge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/moses-botsford
+- 
+  type: relations/parental/dad
+  item: people/dr-johnathan-flatley
+- 
+  type: relations/money/debtor
+  item: people/xander-conn
+- 
+  type: relations/money/creditor
+  item: people/erna-hermann
+- 
+  type: relations/parental/colleague
+  item: people/mr-jerrold-barton
+- 
+  type: relations/money/debtor
+  item: people/junior-dietrich
+- 
+  type: relations/work/client
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/hudson-group
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

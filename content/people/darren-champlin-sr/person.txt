@@ -1,0 +1,64 @@
+Title: Darren Champlin Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/garfield-boehm
+- 
+  type: relations/money/creditor
+  item: people/victoria-ebert-iii
+- 
+  type: relations/parental/friend
+  item: people/ms-vada-von-sr
+- 
+  type: relations/money/debtor
+  item: people/carli-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/jamarcus-streich
+- 
+  type: relations/parental/brosis
+  item: people/prof-ettie-jacobs-iii
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/client
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/employer
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

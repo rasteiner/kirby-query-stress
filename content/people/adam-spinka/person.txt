@@ -1,0 +1,64 @@
+Title: Adam Spinka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/golden-powlowski
+- 
+  type: relations/parental/friend
+  item: people/jayden-greenfelder
+- 
+  type: relations/parental/colleague
+  item: people/parker-ruecker
+- 
+  type: relations/parental/colleague
+  item: people/nicolas-orn
+- 
+  type: relations/parental/mom
+  item: people/weldon-walter
+- 
+  type: relations/parental/brosis
+  item: people/stone-satterfield-jr
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/creditor
+  item: companies/effertz-llc
+- 
+  type: relations/money/creditor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/creditor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

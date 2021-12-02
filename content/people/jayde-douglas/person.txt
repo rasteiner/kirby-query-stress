@@ -1,0 +1,65 @@
+Title: Jayde Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gloria-lebsack-ii
+- 
+  type: relations/money/debtor
+  item: people/marcelle-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/margaret-becker
+- 
+  type: relations/parental/mom
+  item: people/prof-cooper-ernser-iii
+- 
+  type: relations/parental/colleague
+  item: people/antonio-green
+- 
+  type: relations/parental/friend
+  item: people/ms-taryn-greenholt
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/client
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

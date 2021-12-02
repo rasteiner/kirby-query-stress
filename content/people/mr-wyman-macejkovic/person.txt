@@ -1,0 +1,64 @@
+Title: Mr. Wyman Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/buddy-fahey
+- 
+  type: relations/parental/colleague
+  item: people/trever-wyman
+- 
+  type: relations/money/debtor
+  item: people/marcelina-sawayn
+- 
+  type: relations/parental/colleague
+  item: people/prof-earline-feest
+- 
+  type: relations/parental/brosis
+  item: people/estella-runte-sr
+- 
+  type: relations/parental/dad
+  item: people/prof-gladys-strosin
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/employer
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/client
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

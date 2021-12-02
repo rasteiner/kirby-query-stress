@@ -1,0 +1,64 @@
+Title: Dr. Maximilian Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-eleanora-wiza
+- 
+  type: relations/parental/dad
+  item: people/isabell-boyer
+- 
+  type: relations/money/creditor
+  item: people/dameon-brown-iv
+- 
+  type: relations/parental/friend
+  item: people/miss-viva-kassulke-phd
+- 
+  type: relations/parental/mom
+  item: people/kathleen-gleichner
+- 
+  type: relations/parental/colleague
+  item: people/trisha-daniel
+- 
+  type: relations/work/client
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

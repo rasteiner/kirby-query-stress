@@ -1,0 +1,64 @@
+Title: Werner Nader PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-aurore-robel-jr
+- 
+  type: relations/parental/dad
+  item: people/lina-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/mrs-delphia-satterfield
+- 
+  type: relations/parental/mom
+  item: people/sibyl-hahn
+- 
+  type: relations/parental/friend
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/parental/brosis
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

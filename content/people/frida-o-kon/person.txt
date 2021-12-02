@@ -1,0 +1,64 @@
+Title: Frida O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lucious-dubuque
+- 
+  type: relations/parental/friend
+  item: people/ms-pat-goldner-v
+- 
+  type: relations/parental/mom
+  item: people/casey-considine
+- 
+  type: relations/parental/friend
+  item: people/nathen-white
+- 
+  type: relations/parental/brosis
+  item: people/velda-strosin
+- 
+  type: relations/parental/brosis
+  item: people/danika-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/client
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Ms. Dora Hand IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/nedra-greenholt
+- 
+  type: relations/money/creditor
+  item: people/shea-gaylord
+- 
+  type: relations/parental/colleague
+  item: people/carrie-klein
+- 
+  type: relations/parental/friend
+  item: people/craig-gaylord
+- 
+  type: relations/money/creditor
+  item: people/prof-noemy-larkin
+- 
+  type: relations/parental/mom
+  item: people/miss-malvina-homenick
+- 
+  type: relations/work/employer
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Demarcus Gulgowski Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/montana-zieme
+- 
+  type: relations/money/debtor
+  item: people/hank-satterfield
+- 
+  type: relations/parental/friend
+  item: people/prof-alfonzo-kreiger-v
+- 
+  type: relations/parental/dad
+  item: people/prof-ivah-nolan-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-lulu-o-connell
+- 
+  type: relations/money/debtor
+  item: people/maida-little
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/debtor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/employer
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

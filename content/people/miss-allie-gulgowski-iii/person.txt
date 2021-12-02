@@ -1,0 +1,64 @@
+Title: Miss Allie Gulgowski III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lonnie-hills
+- 
+  type: relations/parental/friend
+  item: people/maiya-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/jovan-denesik-iii
+- 
+  type: relations/parental/dad
+  item: people/cielo-lebsack-iv
+- 
+  type: relations/parental/dad
+  item: people/freddie-ryan
+- 
+  type: relations/money/creditor
+  item: people/patience-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/sporer-plc
+- 
+  type: relations/work/client
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

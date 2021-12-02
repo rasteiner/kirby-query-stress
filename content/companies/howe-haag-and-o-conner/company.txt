@@ -1,0 +1,43 @@
+Title: Howe, Haag and O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/corwin-zieme
+- 
+  type: relations/money/creditor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/creditor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside

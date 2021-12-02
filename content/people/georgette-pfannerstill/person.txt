@@ -1,0 +1,64 @@
+Title: Georgette Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/casimer-stracke
+- 
+  type: relations/parental/brosis
+  item: people/shany-boehm-dvm
+- 
+  type: relations/money/debtor
+  item: people/ignatius-kreiger
+- 
+  type: relations/parental/friend
+  item: people/dr-benton-fay
+- 
+  type: relations/parental/colleague
+  item: people/prof-terrell-borer-ii
+- 
+  type: relations/money/creditor
+  item: people/mrs-lurline-volkman-i
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/employer
+  item: companies/jenkins-veum
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

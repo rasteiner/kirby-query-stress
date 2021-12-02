@@ -1,0 +1,64 @@
+Title: Randall Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/sidney-lynch-iv
+- 
+  type: relations/parental/mom
+  item: people/ezra-hilpert
+- 
+  type: relations/parental/mom
+  item: people/carmine-hirthe
+- 
+  type: relations/money/debtor
+  item: people/antonina-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/erika-swift-ii
+- 
+  type: relations/money/debtor
+  item: people/garry-heller-sr
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

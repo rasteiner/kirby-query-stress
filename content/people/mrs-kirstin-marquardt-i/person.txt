@@ -1,0 +1,64 @@
+Title: Mrs. Kirstin Marquardt I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/neva-rutherford
+- 
+  type: relations/parental/mom
+  item: people/stevie-kuhic
+- 
+  type: relations/money/debtor
+  item: people/bill-gibson-dds
+- 
+  type: relations/money/debtor
+  item: people/adrienne-renner
+- 
+  type: relations/money/debtor
+  item: people/miss-mikayla-bayer-iv
+- 
+  type: relations/parental/brosis
+  item: people/serenity-prohaska
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

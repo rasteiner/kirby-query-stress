@@ -1,0 +1,43 @@
+Title: Conn Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/huels-walter
+- 
+  type: relations/money/creditor
+  item: companies/koss-adams
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/blanda-inc
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

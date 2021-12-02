@@ -1,0 +1,64 @@
+Title: Lysanne Aufderhar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/isaiah-bode
+- 
+  type: relations/parental/mom
+  item: people/dr-austen-pouros-md
+- 
+  type: relations/parental/brosis
+  item: people/linwood-beer
+- 
+  type: relations/parental/brosis
+  item: people/magnus-mohr
+- 
+  type: relations/parental/dad
+  item: people/jedidiah-flatley
+- 
+  type: relations/money/debtor
+  item: people/dr-steve-boyle-iv
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-strosin
+- 
+  type: relations/work/client
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

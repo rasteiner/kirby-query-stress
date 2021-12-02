@@ -1,0 +1,64 @@
+Title: Kasandra Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/destiney-bernhard
+- 
+  type: relations/money/creditor
+  item: people/thora-hermiston-i
+- 
+  type: relations/money/creditor
+  item: people/arturo-stark
+- 
+  type: relations/parental/mom
+  item: people/ms-letitia-breitenberg
+- 
+  type: relations/parental/colleague
+  item: people/loy-simonis
+- 
+  type: relations/parental/brosis
+  item: people/robb-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

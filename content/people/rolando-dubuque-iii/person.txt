@@ -1,0 +1,64 @@
+Title: Rolando DuBuque III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/natasha-schimmel-jr
+- 
+  type: relations/parental/friend
+  item: people/ambrose-cruickshank
+- 
+  type: relations/money/debtor
+  item: people/miss-cheyenne-leannon
+- 
+  type: relations/money/debtor
+  item: people/bernadine-sauer
+- 
+  type: relations/parental/brosis
+  item: people/ms-alisha-kilback
+- 
+  type: relations/parental/dad
+  item: people/brandon-braun
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/debtor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

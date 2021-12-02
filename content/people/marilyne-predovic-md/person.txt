@@ -1,0 +1,64 @@
+Title: Marilyne Predovic MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lempi-bednar
+- 
+  type: relations/parental/brosis
+  item: people/chester-gusikowski-jr
+- 
+  type: relations/parental/dad
+  item: people/jesus-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/torrance-reynolds
+- 
+  type: relations/parental/friend
+  item: people/prof-branson-feil-phd
+- 
+  type: relations/parental/dad
+  item: people/miss-allie-gulgowski-iii
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/work/employer
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

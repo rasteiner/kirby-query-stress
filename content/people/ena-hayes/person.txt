@@ -1,0 +1,64 @@
+Title: Ena Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jerome-miller-dds
+- 
+  type: relations/parental/friend
+  item: people/jaida-trantow
+- 
+  type: relations/parental/brosis
+  item: people/savanah-anderson
+- 
+  type: relations/money/debtor
+  item: people/frida-o-kon
+- 
+  type: relations/money/creditor
+  item: people/ibrahim-carroll
+- 
+  type: relations/parental/dad
+  item: people/prof-don-dietrich-dvm
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/work/employer
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

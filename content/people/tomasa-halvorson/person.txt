@@ -1,0 +1,64 @@
+Title: Tomasa Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ethyl-miller
+- 
+  type: relations/parental/friend
+  item: people/mose-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/money/creditor
+  item: people/noah-gerlach
+- 
+  type: relations/parental/brosis
+  item: people/easton-bednar
+- 
+  type: relations/money/creditor
+  item: people/gillian-simonis
+- 
+  type: relations/work/client
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/client
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/client
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

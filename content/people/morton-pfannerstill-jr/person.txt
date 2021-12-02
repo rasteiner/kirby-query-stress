@@ -1,0 +1,65 @@
+Title: Morton Pfannerstill Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/annetta-shanahan
+- 
+  type: relations/money/debtor
+  item: people/sincere-lesch
+- 
+  type: relations/money/creditor
+  item: people/branson-pfannerstill
+- 
+  type: relations/parental/dad
+  item: people/emerald-douglas
+- 
+  type: relations/money/debtor
+  item: people/dr-trent-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/emmy-stiedemann
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

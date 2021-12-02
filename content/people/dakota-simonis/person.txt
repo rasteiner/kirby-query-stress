@@ -1,0 +1,64 @@
+Title: Dakota Simonis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sadie-gerlach-dvm
+- 
+  type: relations/parental/brosis
+  item: people/lacey-schmidt-phd
+- 
+  type: relations/parental/friend
+  item: people/imani-mraz
+- 
+  type: relations/parental/dad
+  item: people/clotilde-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/jonathan-harris
+- 
+  type: relations/parental/friend
+  item: people/jessica-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

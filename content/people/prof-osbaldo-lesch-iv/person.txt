@@ -1,0 +1,65 @@
+Title: Prof. Osbaldo Lesch IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-cierra-herzog-dvm
+- 
+  type: relations/money/creditor
+  item: people/murl-legros
+- 
+  type: relations/money/debtor
+  item: people/heaven-deckow
+- 
+  type: relations/parental/colleague
+  item: people/prof-garfield-borer-i
+- 
+  type: relations/parental/friend
+  item: people/prof-aida-schaden-sr
+- 
+  type: relations/money/creditor
+  item: people/ilene-kulas
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

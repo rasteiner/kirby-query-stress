@@ -1,0 +1,65 @@
+Title: Rafael Kuvalis PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/oswaldo-hegmann
+- 
+  type: relations/parental/dad
+  item: people/mr-spencer-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/dr-jasen-daugherty-ii
+- 
+  type: relations/parental/friend
+  item: people/brionna-schumm
+- 
+  type: relations/parental/brosis
+  item: people/rickey-jakubowski-sr
+- 
+  type: relations/money/debtor
+  item: people/caterina-nikolaus
+- 
+  type: relations/money/creditor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

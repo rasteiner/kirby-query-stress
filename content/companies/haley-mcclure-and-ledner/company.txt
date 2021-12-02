@@ -1,0 +1,43 @@
+Title: Haley, McClure and Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/towne-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-hills
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt

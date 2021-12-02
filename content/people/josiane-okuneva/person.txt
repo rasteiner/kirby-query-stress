@@ -1,0 +1,64 @@
+Title: Josiane Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-angelo-dach-iv
+- 
+  type: relations/money/debtor
+  item: people/robb-weissnat
+- 
+  type: relations/money/debtor
+  item: people/miss-alessia-blanda
+- 
+  type: relations/parental/colleague
+  item: people/reuben-grady
+- 
+  type: relations/money/creditor
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/parental/friend
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/client
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

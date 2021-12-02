@@ -1,0 +1,64 @@
+Title: Jorge Luettgen III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-berniece-cassin-phd
+- 
+  type: relations/money/creditor
+  item: people/jazmyn-renner
+- 
+  type: relations/parental/mom
+  item: people/fabian-lowe-v
+- 
+  type: relations/money/creditor
+  item: people/virginie-tromp-i
+- 
+  type: relations/money/creditor
+  item: people/dr-dustin-bruen
+- 
+  type: relations/parental/dad
+  item: people/ward-boyer
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/client
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

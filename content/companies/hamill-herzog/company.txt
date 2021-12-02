@@ -1,0 +1,43 @@
+Title: Hamill-Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/money/debtor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/spencer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/lake-abbie

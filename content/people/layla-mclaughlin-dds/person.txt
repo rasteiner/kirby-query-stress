@@ -1,0 +1,64 @@
+Title: Layla McLaughlin DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-elenora-gorczany
+- 
+  type: relations/parental/mom
+  item: people/frank-zboncak-iv
+- 
+  type: relations/parental/mom
+  item: people/libby-schamberger
+- 
+  type: relations/money/creditor
+  item: people/koby-rippin
+- 
+  type: relations/parental/brosis
+  item: people/ophelia-schmitt
+- 
+  type: relations/parental/brosis
+  item: people/marley-schinner
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/work/employer
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/client
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

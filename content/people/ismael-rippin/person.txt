@@ -1,0 +1,64 @@
+Title: Ismael Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-lafayette-mitchell
+- 
+  type: relations/parental/friend
+  item: people/domenica-stanton
+- 
+  type: relations/parental/dad
+  item: people/kaley-goyette
+- 
+  type: relations/money/creditor
+  item: people/meagan-stark
+- 
+  type: relations/money/creditor
+  item: people/ms-alessia-donnelly
+- 
+  type: relations/parental/colleague
+  item: people/deangelo-torphy
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/money/creditor
+  item: companies/kling-ltd
+- 
+  type: relations/work/employer
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

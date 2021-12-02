@@ -1,0 +1,64 @@
+Title: Dr. Trevion Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-noel-luettgen
+- 
+  type: relations/parental/friend
+  item: people/mr-tremaine-hegmann
+- 
+  type: relations/money/creditor
+  item: people/aliyah-kilback
+- 
+  type: relations/parental/friend
+  item: people/ines-goldner
+- 
+  type: relations/money/debtor
+  item: people/garnett-boehm
+- 
+  type: relations/parental/colleague
+  item: people/giuseppe-spencer
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/client
+  item: companies/crist-inc
+- 
+  type: relations/work/employer
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

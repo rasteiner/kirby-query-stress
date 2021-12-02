@@ -1,0 +1,64 @@
+Title: Alvina Bernier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-aniyah-botsford-iv
+- 
+  type: relations/parental/dad
+  item: people/alta-tromp
+- 
+  type: relations/money/debtor
+  item: people/hailee-ullrich
+- 
+  type: relations/money/creditor
+  item: people/alberta-pagac-md
+- 
+  type: relations/money/debtor
+  item: people/jamaal-zboncak
+- 
+  type: relations/parental/dad
+  item: people/celia-sawayn
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

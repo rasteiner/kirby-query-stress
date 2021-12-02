@@ -1,0 +1,64 @@
+Title: Rigoberto Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kaylie-marvin
+- 
+  type: relations/parental/dad
+  item: people/alice-mcclure
+- 
+  type: relations/parental/colleague
+  item: people/trevion-zemlak
+- 
+  type: relations/parental/brosis
+  item: people/jed-smitham
+- 
+  type: relations/money/debtor
+  item: people/kaley-marquardt-iv
+- 
+  type: relations/parental/brosis
+  item: people/rebekah-predovic
+- 
+  type: relations/money/debtor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/money/debtor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/client
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

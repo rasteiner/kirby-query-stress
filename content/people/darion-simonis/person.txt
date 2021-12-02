@@ -1,0 +1,64 @@
+Title: Darion Simonis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/soledad-johnston
+- 
+  type: relations/parental/dad
+  item: people/lyla-grimes
+- 
+  type: relations/parental/colleague
+  item: people/dr-eliza-stehr
+- 
+  type: relations/parental/mom
+  item: people/julio-kling
+- 
+  type: relations/parental/mom
+  item: people/dr-ian-swaniawski
+- 
+  type: relations/parental/mom
+  item: people/sydnee-buckridge-jr
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/debtor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/client
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

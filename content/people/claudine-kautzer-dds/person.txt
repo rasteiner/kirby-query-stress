@@ -1,0 +1,64 @@
+Title: Claudine Kautzer DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sherwood-prosacco-phd
+- 
+  type: relations/money/debtor
+  item: people/asa-lehner
+- 
+  type: relations/parental/friend
+  item: people/lemuel-sipes
+- 
+  type: relations/parental/brosis
+  item: people/prof-anita-spinka-v
+- 
+  type: relations/parental/friend
+  item: people/tyshawn-jacobson
+- 
+  type: relations/parental/mom
+  item: people/prof-valerie-mcdermott
+- 
+  type: relations/work/employer
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

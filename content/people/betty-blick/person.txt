@@ -1,0 +1,64 @@
+Title: Betty Blick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/barney-bauch
+- 
+  type: relations/money/debtor
+  item: people/constantin-hagenes
+- 
+  type: relations/money/debtor
+  item: people/elliott-goyette
+- 
+  type: relations/parental/colleague
+  item: people/rosalyn-lehner
+- 
+  type: relations/parental/friend
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/dad
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/work/client
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

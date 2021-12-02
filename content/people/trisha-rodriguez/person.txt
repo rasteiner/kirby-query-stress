@@ -1,0 +1,64 @@
+Title: Trisha Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ansel-prosacco
+- 
+  type: relations/parental/brosis
+  item: people/will-casper-md
+- 
+  type: relations/parental/friend
+  item: people/jordyn-brakus
+- 
+  type: relations/parental/brosis
+  item: people/alysson-fadel
+- 
+  type: relations/parental/friend
+  item: people/fabian-wehner
+- 
+  type: relations/parental/mom
+  item: people/howell-casper
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

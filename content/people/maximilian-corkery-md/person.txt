@@ -1,0 +1,64 @@
+Title: Maximilian Corkery MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/marilie-franecki
+- 
+  type: relations/money/debtor
+  item: people/lane-lubowitz
+- 
+  type: relations/money/debtor
+  item: people/katelin-zulauf
+- 
+  type: relations/money/debtor
+  item: people/mr-bo-gusikowski-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-marvin-murazik-phd
+- 
+  type: relations/parental/brosis
+  item: people/janiya-fisher
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/employer
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

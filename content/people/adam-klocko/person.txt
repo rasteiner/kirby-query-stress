@@ -1,0 +1,64 @@
+Title: Adam Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/faye-wunsch-sr
+- 
+  type: relations/parental/friend
+  item: people/matilde-o-keefe-i
+- 
+  type: relations/parental/friend
+  item: people/dr-nash-baumbach-sr
+- 
+  type: relations/parental/dad
+  item: people/gertrude-abshire
+- 
+  type: relations/money/debtor
+  item: people/mathew-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/prof-rashad-wilderman-iii
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/client
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

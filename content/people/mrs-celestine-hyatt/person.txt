@@ -1,0 +1,65 @@
+Title: Mrs. Celestine Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/trevion-zemlak
+- 
+  type: relations/parental/brosis
+  item: people/jed-smitham
+- 
+  type: relations/money/debtor
+  item: people/kaley-marquardt-iv
+- 
+  type: relations/parental/dad
+  item: people/rebekah-predovic
+- 
+  type: relations/parental/brosis
+  item: people/deja-huel
+- 
+  type: relations/parental/dad
+  item: people/hailey-mohr
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/work/client
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

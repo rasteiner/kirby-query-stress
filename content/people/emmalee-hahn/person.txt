@@ -1,0 +1,64 @@
+Title: Emmalee Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-everardo-turcotte-phd
+- 
+  type: relations/parental/mom
+  item: people/mrs-jayne-mayer-jr
+- 
+  type: relations/parental/mom
+  item: people/carlo-buckridge-jr
+- 
+  type: relations/parental/brosis
+  item: people/mr-amani-feil
+- 
+  type: relations/parental/brosis
+  item: people/jaime-leffler
+- 
+  type: relations/parental/dad
+  item: people/adeline-borer
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/client
+  item: companies/terry-spinka
+- 
+  type: relations/money/creditor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

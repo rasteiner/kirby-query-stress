@@ -1,0 +1,64 @@
+Title: Ms. Nicolette Nicolas IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-wendell-okuneva
+- 
+  type: relations/parental/colleague
+  item: people/mrs-mariam-vonrueden-i
+- 
+  type: relations/parental/mom
+  item: people/deangelo-stroman
+- 
+  type: relations/money/debtor
+  item: people/prof-dewayne-yundt-dvm
+- 
+  type: relations/money/creditor
+  item: people/dr-velda-cruickshank
+- 
+  type: relations/parental/colleague
+  item: people/mr-mekhi-waters-dds
+- 
+  type: relations/work/employer
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/client
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

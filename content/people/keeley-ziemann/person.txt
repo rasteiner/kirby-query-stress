@@ -1,0 +1,64 @@
+Title: Keeley Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/estel-yost
+- 
+  type: relations/parental/brosis
+  item: people/edmund-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/miss-jada-sauer
+- 
+  type: relations/money/creditor
+  item: people/delores-gerhold
+- 
+  type: relations/money/debtor
+  item: people/aron-lesch
+- 
+  type: relations/parental/colleague
+  item: people/mason-herman
+- 
+  type: relations/work/client
+  item: companies/emard-inc
+- 
+  type: relations/money/debtor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/work/client
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

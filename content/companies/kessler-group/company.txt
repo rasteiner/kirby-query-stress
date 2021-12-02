@@ -1,0 +1,43 @@
+Title: Kessler Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-llc
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort

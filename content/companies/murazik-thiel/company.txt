@@ -1,0 +1,43 @@
+Title: Murazik-Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/cristfurt
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester

@@ -1,0 +1,64 @@
+Title: Trudie Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/albin-hilll
+- 
+  type: relations/parental/dad
+  item: people/cory-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/parental/dad
+  item: people/raheem-leffler
+- 
+  type: relations/parental/friend
+  item: people/reva-kohler
+- 
+  type: relations/parental/colleague
+  item: people/madeline-leuschke
+- 
+  type: relations/work/client
+  item: companies/powlowski-inc
+- 
+  type: relations/money/debtor
+  item: companies/sauer-ltd
+- 
+  type: relations/work/employer
+  item: companies/roob-heathcote
+- 
+  type: relations/work/employer
+  item: companies/haley-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

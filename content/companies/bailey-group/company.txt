@@ -1,0 +1,43 @@
+Title: Bailey Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/heller-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/money/creditor
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/debtor
+  item: companies/russel-collier
+- 
+  type: relations/money/debtor
+  item: companies/hayes-llc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/laronview

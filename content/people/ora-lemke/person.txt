@@ -1,0 +1,64 @@
+Title: Ora Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/katherine-carter
+- 
+  type: relations/parental/colleague
+  item: people/dayna-mccullough-iii
+- 
+  type: relations/parental/mom
+  item: people/prof-joey-bradtke-dvm
+- 
+  type: relations/parental/brosis
+  item: people/shanie-reynolds
+- 
+  type: relations/money/debtor
+  item: people/maximillian-willms
+- 
+  type: relations/money/debtor
+  item: people/eldred-yundt
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/money/debtor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

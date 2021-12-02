@@ -1,0 +1,64 @@
+Title: Anjali Greenfelder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-antonette-grant
+- 
+  type: relations/parental/mom
+  item: people/idella-raynor
+- 
+  type: relations/parental/friend
+  item: people/dr-watson-pollich
+- 
+  type: relations/money/creditor
+  item: people/tia-zulauf
+- 
+  type: relations/parental/mom
+  item: people/dr-benton-rutherford-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-mafalda-gibson-iv
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/work/client
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

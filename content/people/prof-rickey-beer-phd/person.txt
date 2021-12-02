@@ -1,0 +1,64 @@
+Title: Prof. Rickey Beer PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sandra-champlin-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-joshuah-langosh-i
+- 
+  type: relations/parental/colleague
+  item: people/jade-herman
+- 
+  type: relations/money/creditor
+  item: people/cristobal-mayert
+- 
+  type: relations/parental/colleague
+  item: people/barry-schaefer
+- 
+  type: relations/parental/brosis
+  item: people/dr-selina-mckenzie
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

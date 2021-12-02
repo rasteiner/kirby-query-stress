@@ -1,0 +1,64 @@
+Title: Mr. Laurel Stark I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vinnie-lemke
+- 
+  type: relations/parental/brosis
+  item: people/kenyon-kilback-dvm
+- 
+  type: relations/parental/mom
+  item: people/muhammad-dare
+- 
+  type: relations/parental/mom
+  item: people/glenda-bruen-sr
+- 
+  type: relations/money/creditor
+  item: people/ines-beatty
+- 
+  type: relations/parental/mom
+  item: people/scotty-mcclure-iii
+- 
+  type: relations/work/client
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/employer
+  item: companies/welch-borer
+- 
+  type: relations/work/employer
+  item: companies/pollich-ltd
+- 
+  type: relations/work/client
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Dr. Rebeca Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-nickolas-hand-ii
+- 
+  type: relations/parental/friend
+  item: people/telly-pouros
+- 
+  type: relations/parental/mom
+  item: people/clarabelle-dickinson
+- 
+  type: relations/parental/mom
+  item: people/ralph-feest
+- 
+  type: relations/parental/colleague
+  item: people/tre-watsica
+- 
+  type: relations/parental/dad
+  item: people/mrs-domenica-doyle-sr
+- 
+  type: relations/work/employer
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kris-ltd
+- 
+  type: relations/work/client
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

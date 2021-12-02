@@ -1,0 +1,64 @@
+Title: Prof. Zola Ruecker PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-elton-witting-i
+- 
+  type: relations/parental/dad
+  item: people/salvatore-goyette
+- 
+  type: relations/parental/colleague
+  item: people/andy-fisher-v
+- 
+  type: relations/parental/mom
+  item: people/murphy-gulgowski
+- 
+  type: relations/parental/colleague
+  item: people/wellington-hessel
+- 
+  type: relations/parental/dad
+  item: people/krista-ferry
+- 
+  type: relations/work/employer
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/herzog-plc
+- 
+  type: relations/work/employer
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

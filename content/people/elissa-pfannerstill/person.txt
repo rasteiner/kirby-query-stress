@@ -1,0 +1,64 @@
+Title: Elissa Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/isom-roberts-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-skylar-legros-jr
+- 
+  type: relations/parental/mom
+  item: people/rashad-luettgen
+- 
+  type: relations/money/creditor
+  item: people/macey-steuber
+- 
+  type: relations/parental/dad
+  item: people/aron-kovacek
+- 
+  type: relations/parental/dad
+  item: people/daisy-nader
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

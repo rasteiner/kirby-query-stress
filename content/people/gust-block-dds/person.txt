@@ -1,0 +1,64 @@
+Title: Gust Block DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-kane-bernier-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-columbus-casper
+- 
+  type: relations/money/debtor
+  item: people/bettye-lang
+- 
+  type: relations/parental/colleague
+  item: people/mr-angel-ullrich-dvm
+- 
+  type: relations/parental/brosis
+  item: people/clifford-lind
+- 
+  type: relations/money/debtor
+  item: people/dr-cordie-bernhard
+- 
+  type: relations/work/client
+  item: companies/homenick-plc
+- 
+  type: relations/work/employer
+  item: companies/lehner-howe
+- 
+  type: relations/work/client
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

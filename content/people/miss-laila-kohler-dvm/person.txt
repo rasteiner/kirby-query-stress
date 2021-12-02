@@ -1,0 +1,64 @@
+Title: Miss Laila Kohler DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-clemens-auer
+- 
+  type: relations/parental/colleague
+  item: people/madisyn-fritsch
+- 
+  type: relations/money/debtor
+  item: people/ms-dora-hand-iv
+- 
+  type: relations/parental/mom
+  item: people/brigitte-crooks-md
+- 
+  type: relations/parental/mom
+  item: people/brock-graham
+- 
+  type: relations/parental/friend
+  item: people/kathryne-denesik
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/work/client
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

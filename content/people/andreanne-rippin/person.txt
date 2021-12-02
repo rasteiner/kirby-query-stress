@@ -1,0 +1,64 @@
+Title: Andreanne Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/adolphus-wisoky
+- 
+  type: relations/money/debtor
+  item: people/cordie-spencer
+- 
+  type: relations/money/creditor
+  item: people/columbus-huels-i
+- 
+  type: relations/parental/dad
+  item: people/franz-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/brycen-gibson
+- 
+  type: relations/parental/dad
+  item: people/ms-lucie-walsh-sr
+- 
+  type: relations/money/creditor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/work/employer
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Dr. Roman Legros III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/earl-hartmann
+- 
+  type: relations/parental/colleague
+  item: people/celestino-jones
+- 
+  type: relations/parental/brosis
+  item: people/betsy-cormier
+- 
+  type: relations/parental/colleague
+  item: people/mrs-gertrude-skiles
+- 
+  type: relations/parental/dad
+  item: people/jaeden-larkin-dds
+- 
+  type: relations/money/debtor
+  item: people/antwon-lemke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/hudson-group
+- 
+  type: relations/work/client
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

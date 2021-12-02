@@ -1,0 +1,64 @@
+Title: Joe Considine DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/angela-wuckert-dvm
+- 
+  type: relations/parental/friend
+  item: people/dulce-hackett
+- 
+  type: relations/parental/friend
+  item: people/fausto-schultz
+- 
+  type: relations/parental/colleague
+  item: people/camden-bailey-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-gonzalo-mcglynn-i
+- 
+  type: relations/parental/colleague
+  item: people/ottilie-nienow
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/work/client
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

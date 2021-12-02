@@ -1,0 +1,64 @@
+Title: Dianna Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mauricio-murazik
+- 
+  type: relations/parental/friend
+  item: people/dr-delores-armstrong
+- 
+  type: relations/parental/mom
+  item: people/reanna-baumbach-dds
+- 
+  type: relations/parental/dad
+  item: people/hannah-stamm
+- 
+  type: relations/parental/mom
+  item: people/prof-daryl-spinka
+- 
+  type: relations/parental/brosis
+  item: people/cesar-boyle
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/work/employer
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

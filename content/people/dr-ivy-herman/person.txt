@@ -1,0 +1,64 @@
+Title: Dr. Ivy Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-shanna-nikolaus
+- 
+  type: relations/money/debtor
+  item: people/loma-bogan
+- 
+  type: relations/parental/friend
+  item: people/henderson-lehner-v
+- 
+  type: relations/parental/friend
+  item: people/leslie-ritchie
+- 
+  type: relations/parental/friend
+  item: people/francisco-dare
+- 
+  type: relations/parental/dad
+  item: people/rupert-ferry-dds
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/client
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

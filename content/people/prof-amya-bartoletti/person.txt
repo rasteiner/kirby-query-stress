@@ -1,0 +1,64 @@
+Title: Prof. Amya Bartoletti
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nichole-wilderman
+- 
+  type: relations/money/creditor
+  item: people/kayley-kreiger
+- 
+  type: relations/parental/brosis
+  item: people/kaylie-johns-dds
+- 
+  type: relations/money/debtor
+  item: people/herminio-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/magali-marvin
+- 
+  type: relations/parental/friend
+  item: people/mrs-amely-ebert
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/work/client
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

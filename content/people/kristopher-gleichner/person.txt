@@ -1,0 +1,64 @@
+Title: Kristopher Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-d-angelo-braun
+- 
+  type: relations/money/creditor
+  item: people/ms-mozelle-sawayn
+- 
+  type: relations/parental/friend
+  item: people/isabelle-miller-ii
+- 
+  type: relations/parental/mom
+  item: people/evie-stehr
+- 
+  type: relations/money/creditor
+  item: people/noelia-schowalter
+- 
+  type: relations/money/creditor
+  item: people/loren-veum-dds
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

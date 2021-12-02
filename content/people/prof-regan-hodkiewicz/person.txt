@@ -1,0 +1,64 @@
+Title: Prof. Regan Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marge-pacocha
+- 
+  type: relations/money/debtor
+  item: people/matteo-walker
+- 
+  type: relations/money/debtor
+  item: people/judson-bauch
+- 
+  type: relations/parental/colleague
+  item: people/eudora-conroy
+- 
+  type: relations/parental/mom
+  item: people/lucile-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/westley-schneider
+- 
+  type: relations/work/client
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Nicolas Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jeffry-jaskolski-md
+- 
+  type: relations/parental/mom
+  item: people/miss-verla-becker
+- 
+  type: relations/parental/brosis
+  item: people/clifton-cremin-sr
+- 
+  type: relations/money/creditor
+  item: people/kurtis-glover-dvm
+- 
+  type: relations/money/debtor
+  item: people/pearlie-hills-md
+- 
+  type: relations/parental/dad
+  item: people/eldridge-klocko
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Prof. Lowell Ruecker IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-korbin-barton-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-annie-treutel
+- 
+  type: relations/money/debtor
+  item: people/bria-zieme
+- 
+  type: relations/parental/dad
+  item: people/flavio-collins
+- 
+  type: relations/money/debtor
+  item: people/gianni-skiles
+- 
+  type: relations/parental/dad
+  item: people/mrs-mable-orn-iii
+- 
+  type: relations/work/client
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

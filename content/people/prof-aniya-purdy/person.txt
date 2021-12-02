@@ -1,0 +1,64 @@
+Title: Prof. Aniya Purdy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/troy-sipes
+- 
+  type: relations/money/debtor
+  item: people/gustave-gusikowski
+- 
+  type: relations/parental/brosis
+  item: people/cassandre-murazik
+- 
+  type: relations/parental/colleague
+  item: people/prof-bobbie-schoen-i
+- 
+  type: relations/parental/dad
+  item: people/jackson-bode
+- 
+  type: relations/money/creditor
+  item: people/dr-keyshawn-schuppe
+- 
+  type: relations/work/client
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

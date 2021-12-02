@@ -1,0 +1,43 @@
+Title: Oberbrunner, Bernhard and Nienow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/fisher-adams
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/gaylordchester

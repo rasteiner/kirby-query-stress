@@ -1,0 +1,43 @@
+Title: Schmidt-Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/bahringerport
+- 
+  type: relations/location/visited
+  item: places/eduardofort

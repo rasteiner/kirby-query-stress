@@ -1,0 +1,64 @@
+Title: Mr. Felton Considine DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maximillia-quigley
+- 
+  type: relations/parental/brosis
+  item: people/prof-jessyca-wolff-dvm
+- 
+  type: relations/money/creditor
+  item: people/trisha-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/mrs-dianna-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/mikel-thompson
+- 
+  type: relations/parental/mom
+  item: people/lorine-schimmel
+- 
+  type: relations/work/employer
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/work/employer
+  item: companies/gorczany-funk
+- 
+  type: relations/work/client
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

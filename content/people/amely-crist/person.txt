@@ -1,0 +1,64 @@
+Title: Amely Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/omari-hirthe
+- 
+  type: relations/parental/mom
+  item: people/kenny-bosco
+- 
+  type: relations/parental/colleague
+  item: people/isaac-simonis-phd
+- 
+  type: relations/parental/friend
+  item: people/haylie-hayes
+- 
+  type: relations/parental/mom
+  item: people/carol-krajcik
+- 
+  type: relations/parental/mom
+  item: people/pattie-abbott
+- 
+  type: relations/work/employer
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/work/employer
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

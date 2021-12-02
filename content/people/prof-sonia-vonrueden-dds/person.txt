@@ -1,0 +1,64 @@
+Title: Prof. Sonia VonRueden DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jason-ward
+- 
+  type: relations/money/creditor
+  item: people/maryse-schulist-ii
+- 
+  type: relations/parental/colleague
+  item: people/gertrude-kohler
+- 
+  type: relations/parental/mom
+  item: people/vallie-littel
+- 
+  type: relations/parental/dad
+  item: people/avery-hayes
+- 
+  type: relations/parental/brosis
+  item: people/sydni-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

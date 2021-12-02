@@ -1,0 +1,64 @@
+Title: Agustina Mraz Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alejandrin-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/ms-maida-feil
+- 
+  type: relations/parental/mom
+  item: people/mr-mathew-kozey-iv
+- 
+  type: relations/parental/friend
+  item: people/dr-tyson-klocko
+- 
+  type: relations/parental/dad
+  item: people/prince-hamill
+- 
+  type: relations/parental/mom
+  item: people/micheal-mohr
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/client
+  item: companies/wyman-legros
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

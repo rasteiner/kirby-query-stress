@@ -1,0 +1,64 @@
+Title: Baby Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kaia-wehner-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-bradly-stehr-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-favian-runolfsdottir-dvm
+- 
+  type: relations/parental/mom
+  item: people/lynn-mills-md
+- 
+  type: relations/parental/colleague
+  item: people/fritz-denesik
+- 
+  type: relations/parental/colleague
+  item: people/gregoria-carroll
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/employer
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/debtor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

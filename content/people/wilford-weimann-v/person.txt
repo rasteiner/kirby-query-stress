@@ -1,0 +1,65 @@
+Title: Wilford Weimann V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lynn-harris
+- 
+  type: relations/parental/friend
+  item: people/else-jerde
+- 
+  type: relations/parental/brosis
+  item: people/dr-aric-greenholt
+- 
+  type: relations/parental/mom
+  item: people/jammie-homenick-iii
+- 
+  type: relations/parental/colleague
+  item: people/abigale-kovacek
+- 
+  type: relations/parental/friend
+  item: people/raymundo-haley
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/gleason-group
+- 
+  type: relations/money/debtor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

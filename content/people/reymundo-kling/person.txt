@@ -1,0 +1,64 @@
+Title: Reymundo Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-maurice-gaylord-iv
+- 
+  type: relations/money/creditor
+  item: people/elisa-kassulke-ii
+- 
+  type: relations/parental/colleague
+  item: people/giuseppe-halvorson
+- 
+  type: relations/parental/dad
+  item: people/brennon-bogan
+- 
+  type: relations/parental/friend
+  item: people/margaret-schaefer
+- 
+  type: relations/parental/brosis
+  item: people/dr-jonatan-luettgen-sr
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/client
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/debtor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/employer
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Sarai Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alysha-hilpert
+- 
+  type: relations/money/creditor
+  item: people/lucienne-sawayn
+- 
+  type: relations/parental/colleague
+  item: people/kaylah-cartwright
+- 
+  type: relations/parental/colleague
+  item: people/miss-meghan-lind-v
+- 
+  type: relations/money/debtor
+  item: people/braulio-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/dr-esmeralda-frami
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/work/employer
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Shany Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/amber-glover
+- 
+  type: relations/parental/mom
+  item: people/alexys-armstrong
+- 
+  type: relations/money/debtor
+  item: people/mrs-amina-jones-dds
+- 
+  type: relations/parental/brosis
+  item: people/miss-erika-hilpert-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-caden-herzog
+- 
+  type: relations/money/creditor
+  item: people/torrey-feeney
+- 
+  type: relations/money/creditor
+  item: companies/doyle-murphy
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/work/client
+  item: companies/koss-adams
+- 
+  type: relations/work/employer
+  item: companies/corwin-zieme
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

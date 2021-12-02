@@ -1,0 +1,64 @@
+Title: Kirstin Dooley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/mom
+  item: people/nikko-king
+- 
+  type: relations/parental/mom
+  item: people/amanda-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/cathrine-marquardt-ii
+- 
+  type: relations/parental/mom
+  item: people/mabelle-goyette
+- 
+  type: relations/parental/brosis
+  item: people/delia-rodriguez
+- 
+  type: relations/money/creditor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/work/client
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/work/client
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

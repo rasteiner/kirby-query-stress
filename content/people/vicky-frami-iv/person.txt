@@ -1,0 +1,64 @@
+Title: Vicky Frami IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-keely-dicki
+- 
+  type: relations/money/creditor
+  item: people/andy-lang
+- 
+  type: relations/parental/dad
+  item: people/shaina-lockman
+- 
+  type: relations/parental/colleague
+  item: people/claudine-kautzer-dds
+- 
+  type: relations/parental/mom
+  item: people/enos-veum
+- 
+  type: relations/money/creditor
+  item: people/miss-karen-bode-dvm
+- 
+  type: relations/work/client
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/debtor
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

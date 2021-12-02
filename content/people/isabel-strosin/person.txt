@@ -1,0 +1,64 @@
+Title: Isabel Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-marco-metz-iii
+- 
+  type: relations/money/creditor
+  item: people/jackie-dach
+- 
+  type: relations/parental/brosis
+  item: people/carolyn-herzog-dvm
+- 
+  type: relations/parental/colleague
+  item: people/eleanore-bruen
+- 
+  type: relations/parental/brosis
+  item: people/dr-josh-lesch
+- 
+  type: relations/parental/dad
+  item: people/alvera-rippin
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/work/client
+  item: companies/medhurst-group
+- 
+  type: relations/money/creditor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

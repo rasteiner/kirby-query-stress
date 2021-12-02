@@ -1,0 +1,64 @@
+Title: Rey Torphy I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carissa-deckow
+- 
+  type: relations/parental/colleague
+  item: people/franco-skiles-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-ellie-feil
+- 
+  type: relations/parental/brosis
+  item: people/hyman-willms
+- 
+  type: relations/money/debtor
+  item: people/leonor-wehner
+- 
+  type: relations/parental/mom
+  item: people/ed-kemmer
+- 
+  type: relations/work/client
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/employer
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/creditor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

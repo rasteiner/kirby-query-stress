@@ -1,0 +1,64 @@
+Title: Anna Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elliott-farrell
+- 
+  type: relations/parental/mom
+  item: people/mr-hilton-hilpert
+- 
+  type: relations/parental/mom
+  item: people/willa-brown
+- 
+  type: relations/parental/mom
+  item: people/janessa-douglas
+- 
+  type: relations/parental/dad
+  item: people/brando-schowalter
+- 
+  type: relations/parental/dad
+  item: people/miss-ava-klocko
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/client
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

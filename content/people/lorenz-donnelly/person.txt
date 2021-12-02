@@ -1,0 +1,65 @@
+Title: Lorenz Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/hortense-mitchell
+- 
+  type: relations/parental/dad
+  item: people/verdie-crooks
+- 
+  type: relations/parental/colleague
+  item: people/mr-terrance-becker-dvm
+- 
+  type: relations/money/debtor
+  item: people/marcelo-haley
+- 
+  type: relations/money/debtor
+  item: people/mrs-kenna-koss
+- 
+  type: relations/parental/friend
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

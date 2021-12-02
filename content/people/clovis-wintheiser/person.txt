@@ -1,0 +1,64 @@
+Title: Clovis Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/arvilla-green
+- 
+  type: relations/parental/mom
+  item: people/audra-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/mae-schimmel
+- 
+  type: relations/parental/dad
+  item: people/dr-sigurd-block-md
+- 
+  type: relations/parental/colleague
+  item: people/mrs-maybelle-christiansen-iii
+- 
+  type: relations/parental/mom
+  item: people/magnus-schiller
+- 
+  type: relations/money/debtor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/work/client
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-group
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

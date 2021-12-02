@@ -1,0 +1,64 @@
+Title: Heath Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/glenna-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/alda-mertz
+- 
+  type: relations/money/creditor
+  item: people/art-hyatt
+- 
+  type: relations/money/debtor
+  item: people/ernesto-quitzon
+- 
+  type: relations/parental/friend
+  item: people/gladyce-waters
+- 
+  type: relations/parental/brosis
+  item: people/neva-harvey
+- 
+  type: relations/work/employer
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/creditor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

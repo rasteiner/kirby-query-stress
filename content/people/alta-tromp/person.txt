@@ -1,0 +1,65 @@
+Title: Alta Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ellis-beier
+- 
+  type: relations/money/debtor
+  item: people/rolando-dubuque-iii
+- 
+  type: relations/parental/dad
+  item: people/rylan-greenholt
+- 
+  type: relations/money/creditor
+  item: people/jared-green
+- 
+  type: relations/money/creditor
+  item: people/ms-mabel-adams-iii
+- 
+  type: relations/parental/brosis
+  item: people/josh-johns-i
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

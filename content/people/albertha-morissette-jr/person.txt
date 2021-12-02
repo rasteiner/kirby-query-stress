@@ -1,0 +1,64 @@
+Title: Albertha Morissette Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-hector-quigley
+- 
+  type: relations/parental/friend
+  item: people/mrs-octavia-prosacco
+- 
+  type: relations/parental/dad
+  item: people/claud-gottlieb
+- 
+  type: relations/parental/colleague
+  item: people/raul-bayer-jr
+- 
+  type: relations/parental/friend
+  item: people/emily-roberts
+- 
+  type: relations/money/creditor
+  item: people/trenton-swaniawski
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/work/employer
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/debtor
+  item: companies/davis-kemmer
+- 
+  type: relations/work/employer
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Prof. Roderick Schaden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/maia-kilback-sr
+- 
+  type: relations/parental/dad
+  item: people/jeff-abernathy
+- 
+  type: relations/parental/colleague
+  item: people/precious-murray
+- 
+  type: relations/parental/mom
+  item: people/prof-emilie-deckow
+- 
+  type: relations/parental/mom
+  item: people/karolann-leffler
+- 
+  type: relations/parental/dad
+  item: people/callie-wolff
+- 
+  type: relations/money/creditor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/client
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/client
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

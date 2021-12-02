@@ -1,0 +1,64 @@
+Title: Lucienne Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/rory-quigley
+- 
+  type: relations/parental/colleague
+  item: people/prof-alejandra-sawayn
+- 
+  type: relations/parental/colleague
+  item: people/chet-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/lina-mosciski
+- 
+  type: relations/parental/friend
+  item: people/kole-goyette
+- 
+  type: relations/parental/friend
+  item: people/mikayla-little
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-group
+- 
+  type: relations/money/creditor
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

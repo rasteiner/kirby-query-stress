@@ -1,0 +1,64 @@
+Title: Mrs. Kenna Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/donato-brown
+- 
+  type: relations/parental/brosis
+  item: people/dr-jammie-wiegand
+- 
+  type: relations/parental/friend
+  item: people/kailee-hermann
+- 
+  type: relations/parental/friend
+  item: people/jaycee-schroeder
+- 
+  type: relations/parental/colleague
+  item: people/josue-berge-iii
+- 
+  type: relations/parental/dad
+  item: people/rosalia-braun
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/client
+  item: companies/moore-llc
+- 
+  type: relations/work/employer
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/client
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

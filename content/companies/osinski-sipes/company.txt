@@ -1,0 +1,43 @@
+Title: Osinski-Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/debtor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/nienowmouth

@@ -1,0 +1,64 @@
+Title: Lolita Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/emiliano-homenick
+- 
+  type: relations/money/debtor
+  item: people/vivien-boyle
+- 
+  type: relations/parental/friend
+  item: people/mercedes-legros
+- 
+  type: relations/parental/friend
+  item: people/alycia-rice-phd
+- 
+  type: relations/parental/brosis
+  item: people/vena-lakin
+- 
+  type: relations/work/client
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/work/employer
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

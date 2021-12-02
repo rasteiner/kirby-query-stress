@@ -1,0 +1,64 @@
+Title: Melody Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bella-heaney
+- 
+  type: relations/parental/brosis
+  item: people/jake-bernhard-sr
+- 
+  type: relations/money/creditor
+  item: people/krista-lehner
+- 
+  type: relations/money/creditor
+  item: people/myriam-dickens
+- 
+  type: relations/money/debtor
+  item: people/hazel-marvin
+- 
+  type: relations/money/debtor
+  item: people/randy-russel
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/money/debtor
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/work/employer
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

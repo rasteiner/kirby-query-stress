@@ -1,0 +1,64 @@
+Title: Asia Pouros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jorge-stracke-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-mason-swaniawski-jr
+- 
+  type: relations/parental/dad
+  item: people/keven-skiles
+- 
+  type: relations/parental/dad
+  item: people/shania-schaefer-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kory-schmitt-ii
+- 
+  type: relations/parental/brosis
+  item: people/gay-flatley-v
+- 
+  type: relations/work/employer
+  item: companies/carter-daniel
+- 
+  type: relations/work/employer
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

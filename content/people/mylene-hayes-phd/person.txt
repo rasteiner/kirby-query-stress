@@ -1,0 +1,64 @@
+Title: Mylene Hayes PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/belle-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/nicholas-parisian
+- 
+  type: relations/parental/colleague
+  item: people/lexi-gaylord
+- 
+  type: relations/parental/mom
+  item: people/franco-pfeffer
+- 
+  type: relations/parental/friend
+  item: people/prof-adam-stanton
+- 
+  type: relations/parental/mom
+  item: people/margarita-cronin-phd
+- 
+  type: relations/work/client
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/employer
+  item: companies/hoppe-llc
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

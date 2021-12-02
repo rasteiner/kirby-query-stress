@@ -1,0 +1,64 @@
+Title: Ward Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ofelia-steuber
+- 
+  type: relations/parental/friend
+  item: people/loyal-walsh
+- 
+  type: relations/money/creditor
+  item: people/mr-joaquin-trantow
+- 
+  type: relations/parental/friend
+  item: people/nick-murazik
+- 
+  type: relations/parental/friend
+  item: people/prof-maurice-gaylord-iv
+- 
+  type: relations/money/debtor
+  item: people/elisa-kassulke-ii
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

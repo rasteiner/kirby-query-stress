@@ -1,0 +1,64 @@
+Title: Prof. Willa Sanford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-retha-kub
+- 
+  type: relations/parental/brosis
+  item: people/lucy-o-conner
+- 
+  type: relations/money/creditor
+  item: people/colton-kozey
+- 
+  type: relations/parental/mom
+  item: people/jordy-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/lucas-rath
+- 
+  type: relations/parental/brosis
+  item: people/mrs-anabelle-olson
+- 
+  type: relations/work/client
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/work/employer
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

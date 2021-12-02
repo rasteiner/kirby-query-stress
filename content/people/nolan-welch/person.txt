@@ -1,0 +1,64 @@
+Title: Nolan Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-catherine-kuhic
+- 
+  type: relations/money/creditor
+  item: people/annabelle-leffler
+- 
+  type: relations/parental/brosis
+  item: people/dr-riley-bechtelar
+- 
+  type: relations/money/debtor
+  item: people/rahul-ferry-i
+- 
+  type: relations/money/creditor
+  item: people/lessie-bruen-iii
+- 
+  type: relations/money/debtor
+  item: people/mrs-sadye-robel
+- 
+  type: relations/money/debtor
+  item: companies/thompson-flatley
+- 
+  type: relations/money/debtor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/money/debtor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

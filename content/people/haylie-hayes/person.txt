@@ -1,0 +1,65 @@
+Title: Haylie Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/isabel-friesen
+- 
+  type: relations/parental/brosis
+  item: people/graham-effertz
+- 
+  type: relations/parental/colleague
+  item: people/maci-lang
+- 
+  type: relations/money/creditor
+  item: people/mr-myrl-schultz-md
+- 
+  type: relations/parental/dad
+  item: people/adrian-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/garth-powlowski-ii
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/work/employer
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

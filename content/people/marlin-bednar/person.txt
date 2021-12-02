@@ -1,0 +1,64 @@
+Title: Marlin Bednar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/everett-king
+- 
+  type: relations/parental/colleague
+  item: people/scot-howell-ii
+- 
+  type: relations/parental/colleague
+  item: people/gaylord-rau
+- 
+  type: relations/parental/brosis
+  item: people/dr-melissa-funk-ii
+- 
+  type: relations/parental/brosis
+  item: people/erich-lang-v
+- 
+  type: relations/money/debtor
+  item: people/mario-denesik
+- 
+  type: relations/work/client
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/client
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/employer
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

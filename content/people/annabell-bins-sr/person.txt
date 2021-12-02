@@ -1,0 +1,64 @@
+Title: Annabell Bins Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-gonzalo-mcglynn-i
+- 
+  type: relations/parental/brosis
+  item: people/ottilie-nienow
+- 
+  type: relations/money/debtor
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/parental/colleague
+  item: people/mara-johnson-dds
+- 
+  type: relations/money/creditor
+  item: people/mrs-breanne-frami-iv
+- 
+  type: relations/money/creditor
+  item: people/carolina-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/work/employer
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/client
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

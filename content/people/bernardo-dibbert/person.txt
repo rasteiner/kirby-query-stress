@@ -1,0 +1,64 @@
+Title: Bernardo Dibbert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-ray-schmidt
+- 
+  type: relations/parental/mom
+  item: people/dr-ellsworth-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/miss-zoie-pagac-iv
+- 
+  type: relations/parental/friend
+  item: people/maybelle-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/katharina-grimes
+- 
+  type: relations/parental/brosis
+  item: people/brown-roob-iii
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/employer
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/creditor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

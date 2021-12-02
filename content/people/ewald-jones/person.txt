@@ -1,0 +1,64 @@
+Title: Ewald Jones
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/misty-fay
+- 
+  type: relations/parental/mom
+  item: people/freddy-zemlak-ii
+- 
+  type: relations/parental/dad
+  item: people/prof-francis-grant-phd
+- 
+  type: relations/parental/mom
+  item: people/gerson-ullrich-i
+- 
+  type: relations/parental/mom
+  item: people/ms-lea-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/dr-lazaro-huels-dds
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/client
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

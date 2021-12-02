@@ -1,0 +1,64 @@
+Title: Mabelle Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/clifford-lind
+- 
+  type: relations/parental/brosis
+  item: people/dr-cordie-bernhard
+- 
+  type: relations/parental/mom
+  item: people/mrs-eliza-moen
+- 
+  type: relations/money/debtor
+  item: people/lawson-rolfson
+- 
+  type: relations/parental/friend
+  item: people/norval-sporer-sr
+- 
+  type: relations/parental/colleague
+  item: people/muhammad-renner
+- 
+  type: relations/money/creditor
+  item: companies/huels-walter
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

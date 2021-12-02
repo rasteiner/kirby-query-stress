@@ -1,0 +1,64 @@
+Title: Dr. Dudley Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-maxie-donnelly-i
+- 
+  type: relations/money/debtor
+  item: people/mr-fernando-collins
+- 
+  type: relations/parental/colleague
+  item: people/prof-destini-buckridge-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-oda-bruen-i
+- 
+  type: relations/parental/colleague
+  item: people/brandi-jenkins
+- 
+  type: relations/parental/dad
+  item: people/liana-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/murphy-inc
+- 
+  type: relations/money/debtor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

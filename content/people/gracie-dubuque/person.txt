@@ -1,0 +1,64 @@
+Title: Gracie DuBuque
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/whitney-jakubowski
+- 
+  type: relations/parental/friend
+  item: people/prof-ariel-wiegand
+- 
+  type: relations/parental/brosis
+  item: people/bella-spencer
+- 
+  type: relations/parental/dad
+  item: people/christian-swaniawski
+- 
+  type: relations/money/creditor
+  item: people/darren-bartell
+- 
+  type: relations/parental/colleague
+  item: people/jeramy-bergstrom-ii
+- 
+  type: relations/work/employer
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

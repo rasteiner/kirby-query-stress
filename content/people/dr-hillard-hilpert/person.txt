@@ -1,0 +1,64 @@
+Title: Dr. Hillard Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lloyd-howe
+- 
+  type: relations/parental/dad
+  item: people/dawn-lakin-i
+- 
+  type: relations/money/debtor
+  item: people/johnathan-luettgen
+- 
+  type: relations/money/debtor
+  item: people/dr-santos-moen-phd
+- 
+  type: relations/parental/dad
+  item: people/odessa-thompson
+- 
+  type: relations/money/debtor
+  item: people/mrs-bernice-kuphal
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/work/employer
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

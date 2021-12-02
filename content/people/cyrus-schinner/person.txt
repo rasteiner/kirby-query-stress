@@ -1,0 +1,64 @@
+Title: Cyrus Schinner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/parental/friend
+  item: people/emiliano-homenick
+- 
+  type: relations/parental/dad
+  item: people/vivien-boyle
+- 
+  type: relations/parental/colleague
+  item: people/mercedes-legros
+- 
+  type: relations/parental/mom
+  item: people/alycia-rice-phd
+- 
+  type: relations/parental/mom
+  item: people/vena-lakin
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/work/client
+  item: companies/emard-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Reyes Leannon V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jonathan-harris
+- 
+  type: relations/parental/colleague
+  item: people/jessica-mitchell
+- 
+  type: relations/parental/mom
+  item: people/rory-wisoky-iii
+- 
+  type: relations/parental/mom
+  item: people/antonina-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/adrain-leuschke
+- 
+  type: relations/parental/colleague
+  item: people/dr-adam-muller-i
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-group
+- 
+  type: relations/money/debtor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/employer
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/client
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

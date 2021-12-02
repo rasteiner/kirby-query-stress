@@ -1,0 +1,43 @@
+Title: Skiles-Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/nolan-inc
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/lednermouth

@@ -1,0 +1,64 @@
+Title: Dr. Colby Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-nyah-shields
+- 
+  type: relations/parental/friend
+  item: people/ulices-kohler
+- 
+  type: relations/parental/brosis
+  item: people/karl-kuhic
+- 
+  type: relations/parental/dad
+  item: people/dr-wade-larkin
+- 
+  type: relations/parental/brosis
+  item: people/flavie-schaden
+- 
+  type: relations/parental/brosis
+  item: people/hertha-effertz
+- 
+  type: relations/work/employer
+  item: companies/kirlin-davis
+- 
+  type: relations/money/creditor
+  item: companies/howell-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

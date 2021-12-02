@@ -1,0 +1,64 @@
+Title: Enrico Murray
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cassidy-mann
+- 
+  type: relations/parental/colleague
+  item: people/domingo-waelchi-jr
+- 
+  type: relations/money/debtor
+  item: people/gilda-stiedemann
+- 
+  type: relations/parental/colleague
+  item: people/dr-green-jaskolski-dds
+- 
+  type: relations/parental/mom
+  item: people/miss-abigayle-zieme-v
+- 
+  type: relations/parental/dad
+  item: people/nona-bahringer
+- 
+  type: relations/money/debtor
+  item: companies/mayert-group
+- 
+  type: relations/work/client
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

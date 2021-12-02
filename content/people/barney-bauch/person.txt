@@ -1,0 +1,64 @@
+Title: Barney Bauch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dan-greenholt
+- 
+  type: relations/parental/mom
+  item: people/dr-trevion-bins
+- 
+  type: relations/parental/colleague
+  item: people/trisha-ryan
+- 
+  type: relations/parental/friend
+  item: people/mae-wyman-v
+- 
+  type: relations/parental/colleague
+  item: people/miss-hulda-hodkiewicz-iv
+- 
+  type: relations/parental/brosis
+  item: people/rafaela-larson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/employer
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

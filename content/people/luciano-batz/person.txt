@@ -1,0 +1,64 @@
+Title: Luciano Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/zola-mraz
+- 
+  type: relations/money/creditor
+  item: people/moshe-leuschke
+- 
+  type: relations/parental/colleague
+  item: people/kenton-doyle
+- 
+  type: relations/parental/dad
+  item: people/dr-kellen-fay-iii
+- 
+  type: relations/parental/friend
+  item: people/tate-leffler
+- 
+  type: relations/parental/mom
+  item: people/prof-adolfo-little
+- 
+  type: relations/work/client
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/client
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

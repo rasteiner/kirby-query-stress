@@ -1,0 +1,64 @@
+Title: Aron Lesch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kurt-dickinson
+- 
+  type: relations/parental/friend
+  item: people/llewellyn-lemke
+- 
+  type: relations/parental/brosis
+  item: people/liana-gutmann
+- 
+  type: relations/parental/friend
+  item: people/kenton-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/beaulah-kihn
+- 
+  type: relations/parental/mom
+  item: people/noel-kunze
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/client
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/debtor
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

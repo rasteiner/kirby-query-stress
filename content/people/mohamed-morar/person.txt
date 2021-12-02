@@ -1,0 +1,64 @@
+Title: Mohamed Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-nyah-shields
+- 
+  type: relations/parental/dad
+  item: people/ulices-kohler
+- 
+  type: relations/money/debtor
+  item: people/karl-kuhic
+- 
+  type: relations/parental/mom
+  item: people/dr-wade-larkin
+- 
+  type: relations/parental/colleague
+  item: people/flavie-schaden
+- 
+  type: relations/parental/colleague
+  item: people/hertha-effertz
+- 
+  type: relations/work/client
+  item: companies/kirlin-davis
+- 
+  type: relations/money/debtor
+  item: companies/howell-and-sons
+- 
+  type: relations/work/client
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

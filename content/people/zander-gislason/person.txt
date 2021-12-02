@@ -1,0 +1,64 @@
+Title: Zander Gislason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/shany-wolf-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-elisha-christiansen
+- 
+  type: relations/parental/colleague
+  item: people/charles-kihn
+- 
+  type: relations/parental/dad
+  item: people/jamey-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/louie-effertz
+- 
+  type: relations/parental/brosis
+  item: people/aryanna-bruen
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

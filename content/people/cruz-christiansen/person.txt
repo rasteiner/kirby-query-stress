@@ -1,0 +1,64 @@
+Title: Cruz Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/thurman-nicolas
+- 
+  type: relations/money/debtor
+  item: people/delta-wilderman
+- 
+  type: relations/parental/dad
+  item: people/dorothea-o-kon-iv
+- 
+  type: relations/money/creditor
+  item: people/adelbert-lubowitz-v
+- 
+  type: relations/parental/dad
+  item: people/mr-titus-mosciski-sr
+- 
+  type: relations/parental/colleague
+  item: people/raleigh-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/johns-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

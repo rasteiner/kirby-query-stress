@@ -1,0 +1,66 @@
+Title: Dr. Austen Jenkins MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miguel-wehner
+- 
+  type: relations/parental/colleague
+  item: people/ettie-lemke
+- 
+  type: relations/parental/friend
+  item: people/myrtis-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/guadalupe-west
+- 
+  type: relations/parental/friend
+  item: people/dr-alexys-russel
+- 
+  type: relations/money/creditor
+  item: people/coby-ferry
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

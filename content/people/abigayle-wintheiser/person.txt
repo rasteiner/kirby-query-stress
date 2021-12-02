@@ -1,0 +1,64 @@
+Title: Abigayle Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elnora-mraz
+- 
+  type: relations/parental/mom
+  item: people/sincere-tremblay-dds
+- 
+  type: relations/money/debtor
+  item: people/gennaro-king
+- 
+  type: relations/money/debtor
+  item: people/dr-sylvester-douglas-jr
+- 
+  type: relations/parental/colleague
+  item: people/eloisa-lowe
+- 
+  type: relations/parental/brosis
+  item: people/melyssa-effertz
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/client
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/creditor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Emmet Wisozk V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-theodora-hilpert-md
+- 
+  type: relations/parental/friend
+  item: people/prof-arnoldo-lehner-md
+- 
+  type: relations/parental/friend
+  item: people/ben-stiedemann-i
+- 
+  type: relations/parental/mom
+  item: people/gust-hickle
+- 
+  type: relations/parental/dad
+  item: people/karley-hyatt
+- 
+  type: relations/parental/mom
+  item: people/kasey-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Chelsey Watsica IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/murray-koss
+- 
+  type: relations/parental/mom
+  item: people/martin-gerlach
+- 
+  type: relations/parental/brosis
+  item: people/eldon-reichert-dvm
+- 
+  type: relations/parental/dad
+  item: people/karl-mclaughlin
+- 
+  type: relations/parental/colleague
+  item: people/ansley-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/amiya-ankunding
+- 
+  type: relations/work/client
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/work/client
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

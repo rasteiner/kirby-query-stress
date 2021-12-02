@@ -1,0 +1,64 @@
+Title: Violet Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/colleague
+  item: people/hilma-smith
+- 
+  type: relations/parental/mom
+  item: people/prof-edison-bartell-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-carmella-crona
+- 
+  type: relations/parental/colleague
+  item: people/maia-kilback-sr
+- 
+  type: relations/parental/dad
+  item: people/jeff-abernathy
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/client
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

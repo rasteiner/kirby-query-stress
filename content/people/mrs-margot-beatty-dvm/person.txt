@@ -1,0 +1,64 @@
+Title: Mrs. Margot Beatty DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-adah-johns-phd
+- 
+  type: relations/parental/mom
+  item: people/cale-hansen
+- 
+  type: relations/parental/brosis
+  item: people/mr-kennith-wolff-dds
+- 
+  type: relations/money/debtor
+  item: people/gabe-sauer
+- 
+  type: relations/parental/mom
+  item: people/prof-julie-sipes-dvm
+- 
+  type: relations/parental/mom
+  item: people/estevan-robel
+- 
+  type: relations/money/debtor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/money/creditor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

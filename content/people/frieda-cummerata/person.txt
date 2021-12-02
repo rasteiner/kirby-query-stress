@@ -1,0 +1,64 @@
+Title: Frieda Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/domingo-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/brendon-kassulke-iv
+- 
+  type: relations/parental/brosis
+  item: people/neil-jones
+- 
+  type: relations/parental/brosis
+  item: people/wilburn-weber
+- 
+  type: relations/money/debtor
+  item: people/lavina-reilly
+- 
+  type: relations/parental/brosis
+  item: people/cristian-erdman
+- 
+  type: relations/work/client
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/employer
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

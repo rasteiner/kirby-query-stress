@@ -1,0 +1,64 @@
+Title: Gay Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-meagan-aufderhar-dvm
+- 
+  type: relations/parental/friend
+  item: people/landen-harber
+- 
+  type: relations/parental/friend
+  item: people/prof-waino-nitzsche-i
+- 
+  type: relations/money/debtor
+  item: people/brandt-borer
+- 
+  type: relations/parental/friend
+  item: people/modesta-windler
+- 
+  type: relations/parental/colleague
+  item: people/mr-darrin-stamm
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

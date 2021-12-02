@@ -1,0 +1,64 @@
+Title: Emery O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/raphael-nader-sr
+- 
+  type: relations/parental/dad
+  item: people/omer-rohan-md
+- 
+  type: relations/parental/mom
+  item: people/avis-cassin
+- 
+  type: relations/parental/mom
+  item: people/markus-kuhn
+- 
+  type: relations/parental/dad
+  item: people/ms-paige-barrows
+- 
+  type: relations/parental/friend
+  item: people/prof-cyrus-powlowski
+- 
+  type: relations/money/creditor
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

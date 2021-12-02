@@ -1,0 +1,64 @@
+Title: Clement Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/devante-farrell
+- 
+  type: relations/parental/dad
+  item: people/mae-brown
+- 
+  type: relations/parental/friend
+  item: people/ismael-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/delphia-gerlach
+- 
+  type: relations/money/creditor
+  item: people/kaylie-schimmel
+- 
+  type: relations/parental/colleague
+  item: people/dr-antonetta-blick
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Sebastian Mills V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/roosevelt-feil
+- 
+  type: relations/parental/dad
+  item: people/prof-arnoldo-moore
+- 
+  type: relations/money/debtor
+  item: people/frances-lueilwitz
+- 
+  type: relations/parental/dad
+  item: people/ismael-rippin
+- 
+  type: relations/parental/mom
+  item: people/jonas-nikolaus
+- 
+  type: relations/parental/brosis
+  item: people/roman-ritchie
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/client
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

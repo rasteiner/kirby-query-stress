@@ -1,0 +1,65 @@
+Title: Jude Beahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-hulda-hodkiewicz-iv
+- 
+  type: relations/parental/colleague
+  item: people/rafaela-larson
+- 
+  type: relations/money/creditor
+  item: people/petra-senger
+- 
+  type: relations/parental/dad
+  item: people/eleanore-aufderhar-iii
+- 
+  type: relations/money/debtor
+  item: people/carey-kirlin-iv
+- 
+  type: relations/parental/mom
+  item: people/sammy-schinner
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/client
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

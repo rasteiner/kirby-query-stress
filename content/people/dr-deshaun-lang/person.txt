@@ -1,0 +1,64 @@
+Title: Dr. Deshaun Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-everett-mosciski-jr
+- 
+  type: relations/parental/mom
+  item: people/sandy-hills
+- 
+  type: relations/parental/colleague
+  item: people/mrs-jena-rowe
+- 
+  type: relations/parental/dad
+  item: people/karelle-bayer
+- 
+  type: relations/parental/colleague
+  item: people/ms-aisha-nader
+- 
+  type: relations/parental/brosis
+  item: people/danika-veum
+- 
+  type: relations/work/client
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/goldner-beier
+- 
+  type: relations/money/creditor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

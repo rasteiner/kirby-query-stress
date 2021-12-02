@@ -1,0 +1,64 @@
+Title: Noah Lockman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/corene-thompson
+- 
+  type: relations/parental/dad
+  item: people/golda-sauer-iii
+- 
+  type: relations/parental/brosis
+  item: people/mariam-hayes
+- 
+  type: relations/money/debtor
+  item: people/kaylah-wisozk-dds
+- 
+  type: relations/parental/mom
+  item: people/zoe-hansen
+- 
+  type: relations/parental/mom
+  item: people/jason-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/carter-daniel
+- 
+  type: relations/work/employer
+  item: companies/ernser-inc
+- 
+  type: relations/work/employer
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Reese Kunze DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/clifton-cremin-sr
+- 
+  type: relations/parental/friend
+  item: people/kurtis-glover-dvm
+- 
+  type: relations/parental/friend
+  item: people/pearlie-hills-md
+- 
+  type: relations/parental/brosis
+  item: people/eldridge-klocko
+- 
+  type: relations/parental/mom
+  item: people/amanda-harris
+- 
+  type: relations/parental/brosis
+  item: people/lura-lesch
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/employer
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

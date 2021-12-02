@@ -1,0 +1,64 @@
+Title: Miller Metz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kianna-becker
+- 
+  type: relations/money/debtor
+  item: people/henderson-halvorson
+- 
+  type: relations/money/debtor
+  item: people/dwight-torphy-dds
+- 
+  type: relations/parental/mom
+  item: people/ciara-haag
+- 
+  type: relations/parental/dad
+  item: people/loyal-bednar
+- 
+  type: relations/parental/friend
+  item: people/prof-shaylee-strosin
+- 
+  type: relations/work/employer
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/client
+  item: companies/crist-inc
+- 
+  type: relations/work/client
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

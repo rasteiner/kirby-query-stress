@@ -1,0 +1,64 @@
+Title: Ms. Clementina Terry III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/selena-beahan
+- 
+  type: relations/parental/mom
+  item: people/madge-hessel
+- 
+  type: relations/parental/mom
+  item: people/ms-aurore-robel-jr
+- 
+  type: relations/parental/dad
+  item: people/lina-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/mrs-delphia-satterfield
+- 
+  type: relations/parental/friend
+  item: people/sibyl-hahn
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

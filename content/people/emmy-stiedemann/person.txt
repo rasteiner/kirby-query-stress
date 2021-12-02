@@ -1,0 +1,64 @@
+Title: Emmy Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kyleigh-stokes
+- 
+  type: relations/money/debtor
+  item: people/martine-stamm-iv
+- 
+  type: relations/parental/dad
+  item: people/mrs-tina-harvey-iii
+- 
+  type: relations/money/creditor
+  item: people/mr-turner-langworth-dds
+- 
+  type: relations/money/debtor
+  item: people/manuel-walker
+- 
+  type: relations/parental/friend
+  item: people/florian-wiegand
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

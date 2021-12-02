@@ -1,0 +1,64 @@
+Title: Bennett Schuster
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/allen-trantow
+- 
+  type: relations/parental/mom
+  item: people/jerod-schmidt
+- 
+  type: relations/money/debtor
+  item: people/jerome-glover
+- 
+  type: relations/parental/brosis
+  item: people/jedediah-gleichner
+- 
+  type: relations/parental/brosis
+  item: people/clara-towne-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-mariane-spencer
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bailey-group
+- 
+  type: relations/work/employer
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

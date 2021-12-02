@@ -1,0 +1,64 @@
+Title: Sadye Stiedemann I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elmo-cremin
+- 
+  type: relations/parental/dad
+  item: people/daphnee-toy
+- 
+  type: relations/parental/brosis
+  item: people/mr-shane-strosin
+- 
+  type: relations/parental/colleague
+  item: people/okey-schuppe
+- 
+  type: relations/parental/friend
+  item: people/kavon-king
+- 
+  type: relations/parental/brosis
+  item: people/prof-tod-haley-ii
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/debtor
+  item: companies/hane-group
+- 
+  type: relations/work/employer
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

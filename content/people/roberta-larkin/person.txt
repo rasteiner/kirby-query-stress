@@ -1,0 +1,64 @@
+Title: Roberta Larkin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-morris-mills-ii
+- 
+  type: relations/parental/friend
+  item: people/mrs-sydnie-howell
+- 
+  type: relations/money/creditor
+  item: people/prof-nathaniel-sanford-dds
+- 
+  type: relations/parental/brosis
+  item: people/milo-rice
+- 
+  type: relations/parental/mom
+  item: people/hilma-swaniawski
+- 
+  type: relations/money/debtor
+  item: people/nolan-langosh
+- 
+  type: relations/work/employer
+  item: companies/kirlin-davis
+- 
+  type: relations/money/debtor
+  item: companies/howell-and-sons
+- 
+  type: relations/work/client
+  item: companies/emmerich-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

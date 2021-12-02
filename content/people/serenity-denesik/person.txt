@@ -1,0 +1,64 @@
+Title: Serenity Denesik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: null
+- 
+  type: relations/money/creditor
+  item: people/turner-casper
+- 
+  type: relations/money/creditor
+  item: people/elnora-schulist-iv
+- 
+  type: relations/parental/brosis
+  item: people/dasia-jenkins
+- 
+  type: relations/parental/mom
+  item: people/blake-walsh
+- 
+  type: relations/money/debtor
+  item: people/maynard-koelpin
+- 
+  type: relations/money/debtor
+  item: null
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/employer
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: null
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

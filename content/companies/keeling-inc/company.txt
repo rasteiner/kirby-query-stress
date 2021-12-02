@@ -1,0 +1,43 @@
+Title: Keeling Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/money/creditor
+  item: companies/weber-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/stromanstad

@@ -1,0 +1,64 @@
+Title: Omari Paucek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gayle-heaney
+- 
+  type: relations/money/creditor
+  item: people/mr-guido-lind-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-justus-powlowski-iv
+- 
+  type: relations/parental/mom
+  item: people/thurman-schuppe
+- 
+  type: relations/parental/mom
+  item: people/bud-ziemann
+- 
+  type: relations/parental/colleague
+  item: people/ms-hellen-rempel
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/work/client
+  item: companies/kozey-group
+- 
+  type: relations/money/creditor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

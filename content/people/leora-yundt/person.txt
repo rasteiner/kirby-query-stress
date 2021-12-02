@@ -1,0 +1,64 @@
+Title: Leora Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-leo-beer
+- 
+  type: relations/parental/colleague
+  item: people/talia-mccullough
+- 
+  type: relations/parental/dad
+  item: people/oral-reichel
+- 
+  type: relations/parental/brosis
+  item: people/rene-donnelly
+- 
+  type: relations/parental/brosis
+  item: people/lexie-schimmel
+- 
+  type: relations/money/debtor
+  item: people/mr-cooper-stiedemann
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/work/client
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

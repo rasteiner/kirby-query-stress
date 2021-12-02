@@ -1,0 +1,64 @@
+Title: Carmen Connelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-jalon-corkery
+- 
+  type: relations/parental/friend
+  item: people/cecilia-larson-phd
+- 
+  type: relations/money/creditor
+  item: people/mr-murl-nikolaus-v
+- 
+  type: relations/parental/mom
+  item: people/bridie-harris
+- 
+  type: relations/parental/mom
+  item: people/estrella-wiza
+- 
+  type: relations/parental/friend
+  item: people/henriette-johnson
+- 
+  type: relations/work/client
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/client
+  item: companies/cremin-durgan
+- 
+  type: relations/money/debtor
+  item: companies/west-barrows
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Dr. Ezequiel Zemlak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dock-ledner
+- 
+  type: relations/parental/brosis
+  item: people/erwin-kuhn
+- 
+  type: relations/parental/friend
+  item: people/willow-boyer
+- 
+  type: relations/parental/friend
+  item: people/prof-frieda-mayert-md
+- 
+  type: relations/parental/dad
+  item: people/abdullah-batz
+- 
+  type: relations/money/debtor
+  item: people/prof-lavinia-miller
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/employer
+  item: companies/legros-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Kristina Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cordelia-schaden-i
+- 
+  type: relations/money/debtor
+  item: people/destin-von
+- 
+  type: relations/parental/brosis
+  item: people/prof-ryan-swift
+- 
+  type: relations/parental/colleague
+  item: people/clay-doyle
+- 
+  type: relations/parental/dad
+  item: people/lindsey-hagenes
+- 
+  type: relations/money/creditor
+  item: people/leonel-becker
+- 
+  type: relations/work/employer
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/employer
+  item: companies/ratke-fay
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

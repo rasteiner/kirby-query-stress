@@ -1,0 +1,64 @@
+Title: Jamil Von
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/stacey-adams
+- 
+  type: relations/money/debtor
+  item: people/katarina-grimes
+- 
+  type: relations/parental/brosis
+  item: people/mr-ryann-green-sr
+- 
+  type: relations/money/debtor
+  item: people/elfrieda-bruen
+- 
+  type: relations/parental/friend
+  item: people/carolanne-grady
+- 
+  type: relations/parental/colleague
+  item: people/leora-o-hara
+- 
+  type: relations/work/employer
+  item: companies/thompson-flatley
+- 
+  type: relations/work/client
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/employer
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

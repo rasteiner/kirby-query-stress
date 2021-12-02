@@ -1,0 +1,64 @@
+Title: Prof. Baylee Hauck MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-esteban-blanda
+- 
+  type: relations/money/creditor
+  item: people/miss-shyanne-boyer-sr
+- 
+  type: relations/parental/brosis
+  item: people/bertha-lockman
+- 
+  type: relations/money/debtor
+  item: people/rigoberto-yost
+- 
+  type: relations/parental/colleague
+  item: people/oma-brown
+- 
+  type: relations/parental/friend
+  item: people/lela-hand
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/money/debtor
+  item: companies/raynor-rippin
+- 
+  type: relations/work/employer
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/employer
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

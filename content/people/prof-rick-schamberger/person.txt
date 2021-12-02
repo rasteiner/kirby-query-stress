@@ -1,0 +1,64 @@
+Title: Prof. Rick Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaitlin-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/prof-rod-hudson
+- 
+  type: relations/money/debtor
+  item: people/randi-volkman
+- 
+  type: relations/money/creditor
+  item: people/adolphus-wilkinson
+- 
+  type: relations/money/creditor
+  item: people/miss-elza-cruickshank-sr
+- 
+  type: relations/money/debtor
+  item: people/antonette-kuvalis
+- 
+  type: relations/money/debtor
+  item: companies/towne-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/work/client
+  item: companies/keebler-treutel
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

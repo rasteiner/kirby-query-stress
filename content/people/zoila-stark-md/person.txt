@@ -1,0 +1,64 @@
+Title: Zoila Stark MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-chesley-borer-v
+- 
+  type: relations/parental/mom
+  item: people/maymie-johns
+- 
+  type: relations/parental/friend
+  item: people/vivien-kohler
+- 
+  type: relations/parental/brosis
+  item: people/prof-jaycee-bashirian-v
+- 
+  type: relations/parental/friend
+  item: people/taryn-buckridge
+- 
+  type: relations/parental/dad
+  item: people/prof-claud-kris
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/work/client
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/employer
+  item: companies/rath-schuppe
+- 
+  type: relations/work/client
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

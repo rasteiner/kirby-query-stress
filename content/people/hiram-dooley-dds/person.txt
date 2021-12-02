@@ -1,0 +1,64 @@
+Title: Hiram Dooley DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bulah-paucek-i
+- 
+  type: relations/parental/dad
+  item: people/brandi-miller
+- 
+  type: relations/money/debtor
+  item: people/kristopher-gleichner
+- 
+  type: relations/parental/colleague
+  item: people/prof-kayley-medhurst
+- 
+  type: relations/money/creditor
+  item: people/roman-steuber-jr
+- 
+  type: relations/parental/mom
+  item: people/tressie-mante
+- 
+  type: relations/work/employer
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

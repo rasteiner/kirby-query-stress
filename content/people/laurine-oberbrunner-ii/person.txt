@@ -1,0 +1,64 @@
+Title: Laurine Oberbrunner II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-alda-walker
+- 
+  type: relations/money/debtor
+  item: people/dora-smith
+- 
+  type: relations/parental/mom
+  item: people/betty-blick
+- 
+  type: relations/money/debtor
+  item: people/lora-mann-md
+- 
+  type: relations/parental/friend
+  item: people/dr-declan-mclaughlin-ii
+- 
+  type: relations/money/debtor
+  item: people/rex-ward
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

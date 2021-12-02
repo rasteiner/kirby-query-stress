@@ -1,0 +1,64 @@
+Title: Mr. Zackery Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/collin-kuphal
+- 
+  type: relations/parental/friend
+  item: people/dovie-nitzsche
+- 
+  type: relations/money/creditor
+  item: people/nora-thompson
+- 
+  type: relations/money/debtor
+  item: people/marty-welch
+- 
+  type: relations/money/creditor
+  item: people/linnea-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/jon-kutch-v
+- 
+  type: relations/work/employer
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/employer
+  item: companies/hauck-inc
+- 
+  type: relations/work/employer
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

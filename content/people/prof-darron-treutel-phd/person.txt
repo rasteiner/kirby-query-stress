@@ -1,0 +1,64 @@
+Title: Prof. Darron Treutel PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ethyl-miller
+- 
+  type: relations/money/debtor
+  item: people/mose-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/parental/brosis
+  item: people/noah-gerlach
+- 
+  type: relations/parental/mom
+  item: people/easton-bednar
+- 
+  type: relations/money/debtor
+  item: people/gillian-simonis
+- 
+  type: relations/money/creditor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

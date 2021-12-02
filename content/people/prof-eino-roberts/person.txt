@@ -1,0 +1,64 @@
+Title: Prof. Eino Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ahmed-watsica-iv
+- 
+  type: relations/parental/dad
+  item: people/alan-rippin-dvm
+- 
+  type: relations/money/creditor
+  item: people/cecilia-braun
+- 
+  type: relations/money/creditor
+  item: people/luis-cruickshank
+- 
+  type: relations/parental/friend
+  item: people/estelle-berge
+- 
+  type: relations/money/creditor
+  item: people/emory-collier-ii
+- 
+  type: relations/work/employer
+  item: companies/towne-llc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-inc
+- 
+  type: relations/work/employer
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

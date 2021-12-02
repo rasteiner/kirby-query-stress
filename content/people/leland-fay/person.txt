@@ -1,0 +1,64 @@
+Title: Leland Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-krystina-gibson-dds
+- 
+  type: relations/money/debtor
+  item: people/adolf-cassin
+- 
+  type: relations/parental/colleague
+  item: people/miss-pink-hills
+- 
+  type: relations/money/creditor
+  item: people/devante-smitham-md
+- 
+  type: relations/parental/colleague
+  item: people/claud-steuber
+- 
+  type: relations/parental/colleague
+  item: people/lukas-quitzon
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/employer
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

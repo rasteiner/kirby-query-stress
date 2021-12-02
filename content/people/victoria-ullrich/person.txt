@@ -1,0 +1,65 @@
+Title: Victoria Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/henri-osinski
+- 
+  type: relations/money/debtor
+  item: people/emmet-mayert
+- 
+  type: relations/money/creditor
+  item: people/rusty-walsh-dvm
+- 
+  type: relations/parental/mom
+  item: people/dorothea-bernier-dvm
+- 
+  type: relations/parental/dad
+  item: people/freida-bode
+- 
+  type: relations/parental/mom
+  item: people/rene-yost
+- 
+  type: relations/work/client
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/client
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

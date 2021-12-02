@@ -1,0 +1,64 @@
+Title: Noble Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-evert-cremin
+- 
+  type: relations/parental/brosis
+  item: people/giles-veum
+- 
+  type: relations/parental/mom
+  item: people/donald-harvey
+- 
+  type: relations/parental/brosis
+  item: people/dr-jaylon-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/leopold-jast
+- 
+  type: relations/parental/mom
+  item: people/eudora-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/work/employer
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/client
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

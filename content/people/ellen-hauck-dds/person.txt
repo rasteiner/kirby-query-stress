@@ -1,0 +1,64 @@
+Title: Ellen Hauck DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/melvin-doyle
+- 
+  type: relations/parental/brosis
+  item: people/annabell-bernhard-iv
+- 
+  type: relations/money/creditor
+  item: people/mr-aurelio-stoltenberg-md
+- 
+  type: relations/parental/mom
+  item: people/adela-cormier
+- 
+  type: relations/money/creditor
+  item: people/kristopher-zieme
+- 
+  type: relations/money/debtor
+  item: people/opal-hartmann
+- 
+  type: relations/money/debtor
+  item: companies/casper-inc
+- 
+  type: relations/work/client
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

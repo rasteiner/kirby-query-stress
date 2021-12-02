@@ -1,0 +1,64 @@
+Title: Hector Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/deion-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/dr-santa-turner
+- 
+  type: relations/parental/brosis
+  item: people/willa-leffler
+- 
+  type: relations/parental/friend
+  item: people/enoch-hills-ii
+- 
+  type: relations/money/creditor
+  item: people/miss-maximillia-rippin
+- 
+  type: relations/parental/colleague
+  item: people/nicholaus-gleason
+- 
+  type: relations/work/client
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

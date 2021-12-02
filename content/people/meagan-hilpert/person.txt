@@ -1,0 +1,64 @@
+Title: Meagan Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/terrance-schuster
+- 
+  type: relations/money/creditor
+  item: people/prof-kamron-boyer-dds
+- 
+  type: relations/money/debtor
+  item: people/hassie-white
+- 
+  type: relations/parental/friend
+  item: people/danika-stroman
+- 
+  type: relations/money/debtor
+  item: people/khalil-schmitt
+- 
+  type: relations/money/debtor
+  item: people/dr-virgil-turcotte
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

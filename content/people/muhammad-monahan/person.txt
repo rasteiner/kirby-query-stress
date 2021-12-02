@@ -1,0 +1,64 @@
+Title: Muhammad Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/herbert-weber-iii
+- 
+  type: relations/parental/dad
+  item: people/deanna-reilly
+- 
+  type: relations/parental/colleague
+  item: people/jaquan-heathcote
+- 
+  type: relations/parental/friend
+  item: people/lily-reinger
+- 
+  type: relations/money/creditor
+  item: people/yoshiko-haley
+- 
+  type: relations/parental/dad
+  item: people/ms-ashlee-carter
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

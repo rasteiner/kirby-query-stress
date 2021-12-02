@@ -1,0 +1,43 @@
+Title: Bergnaum-Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/debtor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh

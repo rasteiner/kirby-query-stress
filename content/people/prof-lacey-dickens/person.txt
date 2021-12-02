@@ -1,0 +1,64 @@
+Title: Prof. Lacey Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ophelia-schmitt
+- 
+  type: relations/parental/brosis
+  item: people/marley-schinner
+- 
+  type: relations/parental/mom
+  item: people/alverta-heathcote-iii
+- 
+  type: relations/parental/friend
+  item: people/ali-monahan
+- 
+  type: relations/money/debtor
+  item: people/simone-glover
+- 
+  type: relations/parental/friend
+  item: people/dr-richmond-kutch
+- 
+  type: relations/work/employer
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/work/employer
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

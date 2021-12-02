@@ -1,0 +1,64 @@
+Title: Dr. Micheal Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/denis-gulgowski
+- 
+  type: relations/parental/friend
+  item: people/prof-ubaldo-terry-i
+- 
+  type: relations/parental/mom
+  item: people/lenora-walsh
+- 
+  type: relations/parental/friend
+  item: people/anne-johnson
+- 
+  type: relations/parental/brosis
+  item: people/sallie-hickle-dds
+- 
+  type: relations/money/debtor
+  item: people/audie-berge-jr
+- 
+  type: relations/work/client
+  item: companies/bashirian-veum
+- 
+  type: relations/work/client
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

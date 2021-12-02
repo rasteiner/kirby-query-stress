@@ -1,0 +1,64 @@
+Title: Prof. Stefanie Gulgowski MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elliott-goyette
+- 
+  type: relations/money/creditor
+  item: people/rosalyn-lehner
+- 
+  type: relations/parental/dad
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/mom
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/parental/brosis
+  item: people/shea-fisher-md
+- 
+  type: relations/parental/friend
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/work/client
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

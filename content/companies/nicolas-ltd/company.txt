@@ -1,0 +1,43 @@
+Title: Nicolas Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/gerholdshire

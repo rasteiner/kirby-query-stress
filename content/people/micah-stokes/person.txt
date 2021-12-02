@@ -1,0 +1,64 @@
+Title: Micah Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/joana-kertzmann
+- 
+  type: relations/money/debtor
+  item: people/nestor-wisozk
+- 
+  type: relations/parental/dad
+  item: people/kaylee-armstrong
+- 
+  type: relations/money/creditor
+  item: people/duncan-block
+- 
+  type: relations/parental/brosis
+  item: people/mr-keyshawn-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/nathan-mertz
+- 
+  type: relations/money/creditor
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/employer
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

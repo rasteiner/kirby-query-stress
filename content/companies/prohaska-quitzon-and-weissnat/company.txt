@@ -1,0 +1,43 @@
+Title: Prohaska, Quitzon and Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/malindastad
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh

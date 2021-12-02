@@ -1,0 +1,64 @@
+Title: Asa Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-adam-stanton
+- 
+  type: relations/parental/friend
+  item: people/margarita-cronin-phd
+- 
+  type: relations/money/creditor
+  item: people/terence-thiel
+- 
+  type: relations/parental/mom
+  item: people/travis-parker
+- 
+  type: relations/money/debtor
+  item: people/alysson-conroy
+- 
+  type: relations/parental/brosis
+  item: people/dr-barton-boehm
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/client
+  item: companies/nader-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

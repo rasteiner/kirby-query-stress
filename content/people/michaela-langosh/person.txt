@@ -1,0 +1,64 @@
+Title: Michaela Langosh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-keanu-tromp
+- 
+  type: relations/parental/mom
+  item: people/keara-treutel
+- 
+  type: relations/parental/mom
+  item: people/prof-lowell-ruecker-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-leonie-crist
+- 
+  type: relations/money/debtor
+  item: people/keon-lind
+- 
+  type: relations/parental/brosis
+  item: people/jamey-nienow
+- 
+  type: relations/work/client
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,44 @@
+Title: King PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/new-donnie
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt

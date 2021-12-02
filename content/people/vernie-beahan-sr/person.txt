@@ -1,0 +1,64 @@
+Title: Vernie Beahan Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lafayette-stehr
+- 
+  type: relations/parental/mom
+  item: people/maegan-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/dr-leonardo-thiel
+- 
+  type: relations/parental/friend
+  item: people/pink-runte
+- 
+  type: relations/parental/colleague
+  item: people/rosendo-wisozk
+- 
+  type: relations/parental/mom
+  item: people/kariane-spinka
+- 
+  type: relations/money/creditor
+  item: companies/howe-group
+- 
+  type: relations/work/employer
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

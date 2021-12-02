@@ -1,0 +1,64 @@
+Title: Abigale Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/louie-doyle
+- 
+  type: relations/parental/mom
+  item: people/dr-claude-pagac
+- 
+  type: relations/parental/brosis
+  item: people/zetta-walker-i
+- 
+  type: relations/parental/friend
+  item: people/jadyn-halvorson
+- 
+  type: relations/parental/friend
+  item: people/ulises-hegmann-iii
+- 
+  type: relations/parental/dad
+  item: people/esperanza-waters
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/debtor
+  item: companies/cremin-durgan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Brett Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-etha-tromp-phd
+- 
+  type: relations/money/creditor
+  item: people/jayson-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/miss-catherine-kuhic
+- 
+  type: relations/parental/friend
+  item: people/annabelle-leffler
+- 
+  type: relations/parental/colleague
+  item: people/dr-riley-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/rahul-ferry-i
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/creditor
+  item: companies/welch-borer
+- 
+  type: relations/work/client
+  item: companies/pollich-ltd
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

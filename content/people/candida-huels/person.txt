@@ -1,0 +1,65 @@
+Title: Candida Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/francesca-feeney-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-dereck-emard
+- 
+  type: relations/parental/brosis
+  item: people/mr-barton-erdman-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-saige-weimann
+- 
+  type: relations/parental/colleague
+  item: people/piper-ward
+- 
+  type: relations/parental/brosis
+  item: people/dr-judson-gleason
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

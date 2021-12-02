@@ -1,0 +1,64 @@
+Title: Dr. Rudolph Beer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carissa-deckow
+- 
+  type: relations/parental/colleague
+  item: people/franco-skiles-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-ellie-feil
+- 
+  type: relations/money/creditor
+  item: people/hyman-willms
+- 
+  type: relations/money/debtor
+  item: people/leonor-wehner
+- 
+  type: relations/money/debtor
+  item: people/ed-kemmer
+- 
+  type: relations/work/client
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/client
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

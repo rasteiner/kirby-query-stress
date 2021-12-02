@@ -1,0 +1,64 @@
+Title: Dr. Louisa Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/terence-hyatt-sr
+- 
+  type: relations/parental/dad
+  item: people/joseph-yost
+- 
+  type: relations/money/creditor
+  item: people/lia-gusikowski-v
+- 
+  type: relations/money/creditor
+  item: people/aletha-mills
+- 
+  type: relations/money/creditor
+  item: people/marilie-beahan-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-zackery-legros
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/work/client
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Jeramy Bergstrom II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dillan-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/salma-ortiz-jr
+- 
+  type: relations/parental/friend
+  item: people/leanne-schiller
+- 
+  type: relations/parental/brosis
+  item: people/cloyd-harvey-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-juwan-gorczany
+- 
+  type: relations/money/creditor
+  item: people/glenna-klocko
+- 
+  type: relations/work/employer
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

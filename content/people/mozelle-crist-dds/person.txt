@@ -1,0 +1,64 @@
+Title: Mozelle Crist DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-zoie-pagac-iv
+- 
+  type: relations/money/debtor
+  item: people/maybelle-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/katharina-grimes
+- 
+  type: relations/parental/dad
+  item: people/brown-roob-iii
+- 
+  type: relations/parental/dad
+  item: people/brant-kunze
+- 
+  type: relations/parental/colleague
+  item: people/torrance-anderson
+- 
+  type: relations/work/employer
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/employer
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

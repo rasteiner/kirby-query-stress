@@ -1,0 +1,44 @@
+Title: Dickens, Hettinger and Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/creditor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/east-dexter

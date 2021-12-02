@@ -1,0 +1,64 @@
+Title: Alford Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-kennedi-goodwin
+- 
+  type: relations/parental/friend
+  item: people/dee-o-kon
+- 
+  type: relations/money/creditor
+  item: people/melyssa-graham-iv
+- 
+  type: relations/parental/mom
+  item: people/tillman-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/velda-emard
+- 
+  type: relations/money/creditor
+  item: people/frida-purdy
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

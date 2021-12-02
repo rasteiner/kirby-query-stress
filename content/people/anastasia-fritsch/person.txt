@@ -1,0 +1,66 @@
+Title: Anastasia Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adrienne-funk-dds
+- 
+  type: relations/money/debtor
+  item: people/myrtice-strosin
+- 
+  type: relations/money/debtor
+  item: people/ben-ernser-dvm
+- 
+  type: relations/parental/friend
+  item: people/miss-bridie-bradtke-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-edwardo-kohler
+- 
+  type: relations/money/debtor
+  item: people/ryan-beier-dds
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/work/client
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

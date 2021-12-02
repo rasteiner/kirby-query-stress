@@ -1,0 +1,64 @@
+Title: Dr. Saul Schuster Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-giovanna-gleichner
+- 
+  type: relations/money/debtor
+  item: people/henderson-hermiston
+- 
+  type: relations/money/debtor
+  item: people/sasha-rutherford-v
+- 
+  type: relations/money/creditor
+  item: people/neoma-kunze
+- 
+  type: relations/money/debtor
+  item: people/stephon-hudson
+- 
+  type: relations/parental/dad
+  item: people/rick-erdman
+- 
+  type: relations/work/client
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/client
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/client
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

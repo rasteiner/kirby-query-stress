@@ -1,0 +1,64 @@
+Title: Miss Madalyn Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mariano-kunde-i
+- 
+  type: relations/parental/brosis
+  item: people/laurine-oberbrunner-ii
+- 
+  type: relations/parental/dad
+  item: people/elfrieda-schaden
+- 
+  type: relations/parental/brosis
+  item: people/ruthie-powlowski
+- 
+  type: relations/parental/mom
+  item: people/mr-jamaal-champlin
+- 
+  type: relations/money/creditor
+  item: people/blaise-howell
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/client
+  item: companies/hackett-inc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/client
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

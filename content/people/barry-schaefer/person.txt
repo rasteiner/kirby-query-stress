@@ -1,0 +1,64 @@
+Title: Barry Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/roger-huels
+- 
+  type: relations/parental/friend
+  item: people/onie-lindgren
+- 
+  type: relations/parental/friend
+  item: people/ian-reynolds
+- 
+  type: relations/money/debtor
+  item: people/prof-gregory-howell
+- 
+  type: relations/parental/friend
+  item: people/prof-kaya-spencer-dvm
+- 
+  type: relations/parental/mom
+  item: people/florencio-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/work/client
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

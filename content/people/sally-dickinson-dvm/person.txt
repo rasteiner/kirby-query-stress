@@ -1,0 +1,64 @@
+Title: Sally Dickinson DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jordyn-pagac
+- 
+  type: relations/parental/friend
+  item: people/marielle-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/prof-deangelo-vonrueden-md
+- 
+  type: relations/parental/friend
+  item: people/emmet-west-iv
+- 
+  type: relations/money/debtor
+  item: people/miss-retha-ledner
+- 
+  type: relations/money/creditor
+  item: people/stephan-welch
+- 
+  type: relations/work/employer
+  item: companies/hand-schuster
+- 
+  type: relations/money/debtor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

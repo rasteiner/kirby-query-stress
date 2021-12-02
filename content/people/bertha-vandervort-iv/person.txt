@@ -1,0 +1,64 @@
+Title: Bertha Vandervort IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elza-langworth-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/money/creditor
+  item: people/garfield-leannon
+- 
+  type: relations/parental/mom
+  item: people/sally-hickle-ii
+- 
+  type: relations/parental/friend
+  item: people/ava-crona-ii
+- 
+  type: relations/parental/dad
+  item: people/shemar-beahan
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/money/debtor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

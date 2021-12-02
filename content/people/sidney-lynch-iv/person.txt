@@ -1,0 +1,64 @@
+Title: Sidney Lynch IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cleta-harber
+- 
+  type: relations/parental/friend
+  item: people/giles-moore-iv
+- 
+  type: relations/parental/mom
+  item: people/giovanny-rohan
+- 
+  type: relations/parental/brosis
+  item: people/ms-alessandra-beier
+- 
+  type: relations/parental/brosis
+  item: people/antonio-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/marianne-windler-dds
+- 
+  type: relations/work/client
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

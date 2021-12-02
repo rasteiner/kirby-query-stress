@@ -1,0 +1,64 @@
+Title: Demetrius Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/clyde-gislason
+- 
+  type: relations/parental/colleague
+  item: people/mike-torphy
+- 
+  type: relations/parental/dad
+  item: people/dr-bo-ritchie-jr
+- 
+  type: relations/money/debtor
+  item: people/mr-micheal-o-connell-phd
+- 
+  type: relations/money/debtor
+  item: people/chauncey-littel
+- 
+  type: relations/parental/brosis
+  item: people/yoshiko-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/client
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

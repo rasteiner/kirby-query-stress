@@ -1,0 +1,64 @@
+Title: Nolan Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ollie-kunze
+- 
+  type: relations/parental/friend
+  item: people/palma-dubuque
+- 
+  type: relations/parental/mom
+  item: people/charity-mante
+- 
+  type: relations/parental/brosis
+  item: people/prof-yolanda-kutch-dds
+- 
+  type: relations/parental/friend
+  item: people/kaitlyn-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/miss-alvena-franecki
+- 
+  type: relations/work/client
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,43 @@
+Title: Wolff-Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt

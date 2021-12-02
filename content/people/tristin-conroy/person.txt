@@ -1,0 +1,64 @@
+Title: Tristin Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/sedrick-d-amore-md
+- 
+  type: relations/money/debtor
+  item: people/dr-enid-hodkiewicz-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-darrin-kling
+- 
+  type: relations/parental/colleague
+  item: people/chanelle-wolff-md
+- 
+  type: relations/parental/friend
+  item: people/micaela-haley-iii
+- 
+  type: relations/parental/colleague
+  item: people/paolo-wehner-md
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

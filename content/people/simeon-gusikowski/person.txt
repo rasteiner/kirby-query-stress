@@ -1,0 +1,64 @@
+Title: Simeon Gusikowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-heath-mayer-phd
+- 
+  type: relations/parental/dad
+  item: people/dolores-herzog
+- 
+  type: relations/money/creditor
+  item: people/lydia-schiller
+- 
+  type: relations/parental/mom
+  item: people/mr-jamel-mann-iii
+- 
+  type: relations/parental/friend
+  item: people/trey-huels
+- 
+  type: relations/parental/dad
+  item: people/sally-dickinson-dvm
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/creditor
+  item: companies/hauck-inc
+- 
+  type: relations/work/employer
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/creditor
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

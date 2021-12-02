@@ -1,0 +1,64 @@
+Title: Leatha Russel II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/money/creditor
+  item: people/noah-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/easton-bednar
+- 
+  type: relations/parental/dad
+  item: people/gillian-simonis
+- 
+  type: relations/parental/mom
+  item: people/augustus-kris-jr
+- 
+  type: relations/money/creditor
+  item: people/mr-diamond-ward
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/work/employer
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

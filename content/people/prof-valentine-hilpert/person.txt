@@ -1,0 +1,64 @@
+Title: Prof. Valentine Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/everardo-beer
+- 
+  type: relations/parental/colleague
+  item: people/prof-taya-christiansen-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-griffin-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/elmo-watsica
+- 
+  type: relations/money/debtor
+  item: people/mr-monserrat-block
+- 
+  type: relations/parental/colleague
+  item: people/mozell-schaefer
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

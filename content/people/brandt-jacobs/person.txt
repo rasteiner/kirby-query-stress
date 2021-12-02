@@ -1,0 +1,64 @@
+Title: Brandt Jacobs
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/molly-von
+- 
+  type: relations/parental/dad
+  item: people/reymundo-kling
+- 
+  type: relations/parental/mom
+  item: people/mrs-princess-nikolaus
+- 
+  type: relations/parental/mom
+  item: people/dr-wyatt-green-ii
+- 
+  type: relations/money/debtor
+  item: people/ariel-keebler
+- 
+  type: relations/parental/mom
+  item: people/mallie-breitenberg-iv
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Dr. Vallie Reichel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alessia-tillman
+- 
+  type: relations/parental/mom
+  item: people/mr-amani-witting
+- 
+  type: relations/parental/friend
+  item: people/shanon-howell
+- 
+  type: relations/parental/dad
+  item: people/prof-izaiah-kuphal
+- 
+  type: relations/money/debtor
+  item: people/fiona-morar-dvm
+- 
+  type: relations/money/debtor
+  item: people/teresa-witting
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/creditor
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

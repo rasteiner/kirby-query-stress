@@ -1,0 +1,64 @@
+Title: Cordelia Walter I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-garnet-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/ferne-nicolas
+- 
+  type: relations/parental/colleague
+  item: people/dr-keely-ondricka-dds
+- 
+  type: relations/parental/dad
+  item: people/jacquelyn-bahringer
+- 
+  type: relations/parental/brosis
+  item: people/kane-lind
+- 
+  type: relations/money/creditor
+  item: people/hope-langworth-sr
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

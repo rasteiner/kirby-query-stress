@@ -1,0 +1,64 @@
+Title: Johnnie Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/adolfo-baumbach-md
+- 
+  type: relations/money/creditor
+  item: people/mr-lazaro-lockman-phd
+- 
+  type: relations/parental/brosis
+  item: people/prof-regan-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: people/tom-strosin
+- 
+  type: relations/money/debtor
+  item: people/darion-simonis
+- 
+  type: relations/parental/brosis
+  item: people/ted-cole
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/client
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

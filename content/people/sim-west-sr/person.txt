@@ -1,0 +1,64 @@
+Title: Sim West Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/carmelo-collier
+- 
+  type: relations/parental/colleague
+  item: people/miss-roxane-ortiz
+- 
+  type: relations/parental/brosis
+  item: people/dr-mario-hermann
+- 
+  type: relations/money/debtor
+  item: people/hayden-mcglynn
+- 
+  type: relations/parental/friend
+  item: people/willow-ritchie
+- 
+  type: relations/money/creditor
+  item: people/thad-crist
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/work/client
+  item: companies/keebler-inc
+- 
+  type: relations/work/client
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

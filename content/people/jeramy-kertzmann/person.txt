@@ -1,0 +1,64 @@
+Title: Jeramy Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rickey-jakubowski-sr
+- 
+  type: relations/money/creditor
+  item: people/caterina-nikolaus
+- 
+  type: relations/parental/brosis
+  item: people/mittie-baumbach-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-abigale-schiller
+- 
+  type: relations/parental/friend
+  item: people/dr-tyson-o-conner-md
+- 
+  type: relations/parental/brosis
+  item: people/zetta-heathcote
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

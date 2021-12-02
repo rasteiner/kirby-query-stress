@@ -1,0 +1,64 @@
+Title: Quinten Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/stewart-senger
+- 
+  type: relations/parental/mom
+  item: people/dr-stephanie-oberbrunner-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-ethel-hoppe
+- 
+  type: relations/money/creditor
+  item: people/bud-wilderman
+- 
+  type: relations/money/creditor
+  item: people/prof-casimir-schimmel-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-tremaine-walsh
+- 
+  type: relations/work/client
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/client
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

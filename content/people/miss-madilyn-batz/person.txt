@@ -1,0 +1,64 @@
+Title: Miss Madilyn Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-dana-larson
+- 
+  type: relations/money/debtor
+  item: people/oswald-konopelski
+- 
+  type: relations/parental/friend
+  item: people/maddison-zemlak-ii
+- 
+  type: relations/money/creditor
+  item: people/mr-dedric-shields
+- 
+  type: relations/parental/friend
+  item: people/mr-efrain-kunze-sr
+- 
+  type: relations/parental/friend
+  item: people/leatha-russel-ii
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/client
+  item: companies/tremblay-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-plc
+- 
+  type: relations/money/debtor
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

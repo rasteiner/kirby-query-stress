@@ -1,0 +1,65 @@
+Title: Sigmund Wehner II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gloria-lebsack-ii
+- 
+  type: relations/parental/colleague
+  item: people/marcelle-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/margaret-becker
+- 
+  type: relations/parental/friend
+  item: people/prof-cooper-ernser-iii
+- 
+  type: relations/money/debtor
+  item: people/antonio-green
+- 
+  type: relations/parental/colleague
+  item: people/ms-taryn-greenholt
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/lemke-ltd
+- 
+  type: relations/work/client
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Jerald Larkin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jaquan-abbott
+- 
+  type: relations/parental/colleague
+  item: people/sheldon-gutkowski
+- 
+  type: relations/parental/dad
+  item: people/cassandre-treutel
+- 
+  type: relations/money/debtor
+  item: people/mrs-anjali-jerde-jr
+- 
+  type: relations/money/debtor
+  item: people/mohamed-blanda
+- 
+  type: relations/money/creditor
+  item: people/kara-herzog
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/client
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

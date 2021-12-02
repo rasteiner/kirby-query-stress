@@ -1,0 +1,64 @@
+Title: Mary Kuhn DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/johnson-brekke
+- 
+  type: relations/money/debtor
+  item: people/miss-leda-gerhold
+- 
+  type: relations/parental/dad
+  item: people/dr-josefina-frami
+- 
+  type: relations/money/debtor
+  item: people/leif-friesen-phd
+- 
+  type: relations/parental/brosis
+  item: people/dr-felix-keeling
+- 
+  type: relations/money/debtor
+  item: people/lafayette-treutel
+- 
+  type: relations/work/client
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/employer
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

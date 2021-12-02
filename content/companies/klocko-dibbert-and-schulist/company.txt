@@ -1,0 +1,44 @@
+Title: Klocko, Dibbert and Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/sauer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/douglas-and-sons
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury

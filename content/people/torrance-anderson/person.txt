@@ -1,0 +1,64 @@
+Title: Torrance Anderson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/linnie-moore
+- 
+  type: relations/parental/mom
+  item: people/pat-abernathy
+- 
+  type: relations/parental/mom
+  item: people/linda-waelchi
+- 
+  type: relations/money/debtor
+  item: people/prof-emmet-hermann
+- 
+  type: relations/parental/mom
+  item: people/marvin-williamson
+- 
+  type: relations/money/creditor
+  item: people/earl-halvorson
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/employer
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

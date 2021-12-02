@@ -1,0 +1,65 @@
+Title: Mr. Bo Gusikowski III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-helen-hayes
+- 
+  type: relations/parental/colleague
+  item: people/mauricio-zieme
+- 
+  type: relations/money/debtor
+  item: people/dylan-mosciski
+- 
+  type: relations/money/creditor
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/money/debtor
+  item: people/ressie-douglas
+- 
+  type: relations/parental/friend
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/client
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Eudora Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nolan-welch
+- 
+  type: relations/parental/brosis
+  item: people/mr-santino-schowalter
+- 
+  type: relations/parental/friend
+  item: people/mr-laurel-stark-i
+- 
+  type: relations/parental/dad
+  item: people/marietta-mante
+- 
+  type: relations/money/creditor
+  item: people/rahsaan-bahringer-ii
+- 
+  type: relations/parental/brosis
+  item: people/rosina-nolan
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

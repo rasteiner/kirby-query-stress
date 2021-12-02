@@ -1,0 +1,65 @@
+Title: Emily Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-jazmyne-veum-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-peter-fahey
+- 
+  type: relations/parental/brosis
+  item: people/jose-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/alessandra-towne
+- 
+  type: relations/money/creditor
+  item: people/syble-dietrich-v
+- 
+  type: relations/parental/friend
+  item: people/prof-sarai-crooks-dvm
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,43 @@
+Title: Koch, Jacobson and Schiller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/west-darianaport

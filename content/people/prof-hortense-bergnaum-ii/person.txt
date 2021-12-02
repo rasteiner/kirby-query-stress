@@ -1,0 +1,64 @@
+Title: Prof. Hortense Bergnaum II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kole-goyette
+- 
+  type: relations/parental/colleague
+  item: people/mikayla-little
+- 
+  type: relations/parental/colleague
+  item: people/liam-corwin
+- 
+  type: relations/parental/dad
+  item: people/mrs-antonina-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/gabrielle-ferry-i
+- 
+  type: relations/money/debtor
+  item: people/lamar-kerluke-phd
+- 
+  type: relations/money/creditor
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/employer
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/client
+  item: companies/walsh-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

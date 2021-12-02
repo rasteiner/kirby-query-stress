@@ -1,0 +1,64 @@
+Title: Amparo Kutch I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-chelsey-wolf
+- 
+  type: relations/money/debtor
+  item: people/dr-vivien-crist
+- 
+  type: relations/parental/friend
+  item: people/dr-evans-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/mr-miles-hand-i
+- 
+  type: relations/parental/dad
+  item: people/edna-stracke
+- 
+  type: relations/parental/dad
+  item: people/garfield-wintheiser
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/employer
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

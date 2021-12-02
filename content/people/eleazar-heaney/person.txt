@@ -1,0 +1,64 @@
+Title: Eleazar Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-roberta-stiedemann
+- 
+  type: relations/parental/friend
+  item: people/lily-parker
+- 
+  type: relations/money/creditor
+  item: people/makayla-hartmann
+- 
+  type: relations/parental/colleague
+  item: people/delfina-weissnat
+- 
+  type: relations/parental/dad
+  item: people/mary-kovacek
+- 
+  type: relations/money/debtor
+  item: people/vance-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

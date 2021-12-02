@@ -1,0 +1,64 @@
+Title: Eloise Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-chloe-berge-dds
+- 
+  type: relations/parental/friend
+  item: people/chadd-johnston
+- 
+  type: relations/parental/colleague
+  item: people/devante-farrell
+- 
+  type: relations/parental/colleague
+  item: people/mae-brown
+- 
+  type: relations/parental/dad
+  item: people/ismael-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/delphia-gerlach
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

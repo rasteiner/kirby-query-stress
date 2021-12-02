@@ -1,0 +1,64 @@
+Title: Nico Kilback IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lisa-smith
+- 
+  type: relations/parental/mom
+  item: people/vernice-hegmann
+- 
+  type: relations/money/creditor
+  item: people/pamela-hilll
+- 
+  type: relations/parental/mom
+  item: people/roel-lang
+- 
+  type: relations/parental/mom
+  item: people/green-corkery
+- 
+  type: relations/parental/friend
+  item: people/arlie-anderson
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/work/client
+  item: companies/effertz-llc
+- 
+  type: relations/work/client
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/employer
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

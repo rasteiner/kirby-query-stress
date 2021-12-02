@@ -1,0 +1,64 @@
+Title: Loyal Rowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/allan-marvin
+- 
+  type: relations/parental/friend
+  item: people/ephraim-schneider-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-allan-ullrich-ii
+- 
+  type: relations/parental/brosis
+  item: people/deshawn-schaden
+- 
+  type: relations/parental/dad
+  item: people/rodolfo-leffler-iii
+- 
+  type: relations/parental/friend
+  item: people/korey-kilback-dds
+- 
+  type: relations/work/client
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/client
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

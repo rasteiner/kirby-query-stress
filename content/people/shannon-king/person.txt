@@ -1,0 +1,64 @@
+Title: Shannon King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/maxie-mraz
+- 
+  type: relations/parental/colleague
+  item: people/zelma-christiansen-iv
+- 
+  type: relations/parental/friend
+  item: people/ms-brenna-pouros
+- 
+  type: relations/parental/colleague
+  item: people/kyler-murphy-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-olaf-kessler-iii
+- 
+  type: relations/parental/dad
+  item: people/kasandra-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/work/client
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Miss Ava Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-juliana-lang-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-otis-bosco-v
+- 
+  type: relations/parental/dad
+  item: people/giovanna-ondricka
+- 
+  type: relations/parental/brosis
+  item: people/joanne-green-dvm
+- 
+  type: relations/parental/colleague
+  item: people/shyanne-feeney
+- 
+  type: relations/money/debtor
+  item: people/shany-torphy
+- 
+  type: relations/money/debtor
+  item: companies/thiel-howe
+- 
+  type: relations/work/client
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/client
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

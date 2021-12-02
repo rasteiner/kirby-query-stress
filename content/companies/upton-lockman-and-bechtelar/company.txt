@@ -1,0 +1,43 @@
+Title: Upton, Lockman and Bechtelar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-watsica
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/goyette-wiza
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/abdielmouth

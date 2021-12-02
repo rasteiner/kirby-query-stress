@@ -1,0 +1,64 @@
+Title: Milton Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/theresa-sauer
+- 
+  type: relations/money/creditor
+  item: people/adrain-mcclure
+- 
+  type: relations/parental/mom
+  item: people/mr-trevor-becker-dvm
+- 
+  type: relations/parental/dad
+  item: people/josephine-bernhard
+- 
+  type: relations/money/creditor
+  item: people/cydney-abernathy
+- 
+  type: relations/parental/brosis
+  item: people/odell-auer-iii
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/work/client
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

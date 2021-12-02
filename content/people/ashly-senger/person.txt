@@ -1,0 +1,64 @@
+Title: Ashly Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-roderick-schaden
+- 
+  type: relations/parental/colleague
+  item: people/ms-cheyanne-gleichner-iv
+- 
+  type: relations/parental/friend
+  item: people/lonnie-hills
+- 
+  type: relations/money/creditor
+  item: people/maiya-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/jovan-denesik-iii
+- 
+  type: relations/parental/mom
+  item: people/cielo-lebsack-iv
+- 
+  type: relations/work/client
+  item: companies/tremblay-ankunding
+- 
+  type: relations/work/employer
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/debtor
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

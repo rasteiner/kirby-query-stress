@@ -1,0 +1,64 @@
+Title: Shad O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/henderson-lehner-v
+- 
+  type: relations/parental/mom
+  item: people/leslie-ritchie
+- 
+  type: relations/money/debtor
+  item: people/francisco-dare
+- 
+  type: relations/parental/friend
+  item: people/rupert-ferry-dds
+- 
+  type: relations/parental/colleague
+  item: people/marjolaine-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/dr-spencer-heidenreich
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Sarina Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elizabeth-cremin
+- 
+  type: relations/parental/brosis
+  item: people/garrett-wisoky
+- 
+  type: relations/money/creditor
+  item: people/macie-koch-iv
+- 
+  type: relations/parental/dad
+  item: people/ms-monique-treutel
+- 
+  type: relations/parental/dad
+  item: people/prof-bethany-terry
+- 
+  type: relations/parental/brosis
+  item: people/rosalyn-wiza
+- 
+  type: relations/money/debtor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/client
+  item: companies/tremblay-group
+- 
+  type: relations/work/client
+  item: companies/windler-plc
+- 
+  type: relations/work/client
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

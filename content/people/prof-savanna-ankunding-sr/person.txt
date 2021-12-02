@@ -1,0 +1,64 @@
+Title: Prof. Savanna Ankunding Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-sydnie-douglas
+- 
+  type: relations/parental/brosis
+  item: people/narciso-dicki
+- 
+  type: relations/parental/brosis
+  item: people/mr-geovanny-schmitt
+- 
+  type: relations/parental/friend
+  item: people/mrs-citlalli-koch-v
+- 
+  type: relations/money/debtor
+  item: people/pierce-morissette-jr
+- 
+  type: relations/parental/friend
+  item: people/alysson-thompson
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/employer
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

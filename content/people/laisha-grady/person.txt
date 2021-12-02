@@ -1,0 +1,64 @@
+Title: Laisha Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/amely-crist
+- 
+  type: relations/parental/colleague
+  item: people/lorena-gulgowski
+- 
+  type: relations/money/creditor
+  item: people/prof-mable-krajcik
+- 
+  type: relations/money/creditor
+  item: people/dr-roscoe-abernathy-dvm
+- 
+  type: relations/parental/friend
+  item: people/elinor-johns
+- 
+  type: relations/money/debtor
+  item: people/ms-wilhelmine-keebler
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-group
+- 
+  type: relations/work/client
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/employer
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Dr. Darby Bins IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-nadia-dubuque-phd
+- 
+  type: relations/money/creditor
+  item: people/dennis-wiza
+- 
+  type: relations/parental/friend
+  item: people/lolita-kuphal
+- 
+  type: relations/parental/dad
+  item: people/graham-ruecker
+- 
+  type: relations/parental/dad
+  item: people/angela-wuckert-dvm
+- 
+  type: relations/money/debtor
+  item: people/dulce-hackett
+- 
+  type: relations/work/client
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

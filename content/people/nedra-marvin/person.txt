@@ -1,0 +1,64 @@
+Title: Nedra Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/bill-grady
+- 
+  type: relations/parental/brosis
+  item: people/lorena-kiehn
+- 
+  type: relations/money/debtor
+  item: people/montana-denesik
+- 
+  type: relations/money/debtor
+  item: people/marilou-parisian
+- 
+  type: relations/parental/colleague
+  item: people/graciela-stracke
+- 
+  type: relations/money/creditor
+  item: people/dr-davon-cummerata
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/work/employer
+  item: companies/funk-inc
+- 
+  type: relations/money/debtor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

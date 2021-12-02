@@ -1,0 +1,65 @@
+Title: Maye Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eloy-schmidt
+- 
+  type: relations/parental/brosis
+  item: people/jessyca-farrell
+- 
+  type: relations/parental/colleague
+  item: people/jany-cassin
+- 
+  type: relations/parental/mom
+  item: people/ms-ursula-schaefer-dds
+- 
+  type: relations/money/debtor
+  item: people/breanna-bartell
+- 
+  type: relations/parental/colleague
+  item: people/ms-lera-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/client
+  item: companies/yost-llc
+- 
+  type: relations/work/employer
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/employer
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

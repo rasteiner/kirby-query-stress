@@ -1,0 +1,64 @@
+Title: Joanne Green DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/caroline-halvorson
+- 
+  type: relations/parental/colleague
+  item: people/mr-kenton-rosenbaum-md
+- 
+  type: relations/parental/dad
+  item: people/angela-tremblay-ii
+- 
+  type: relations/parental/friend
+  item: people/alanna-franecki
+- 
+  type: relations/parental/mom
+  item: people/ms-jodie-blanda-dds
+- 
+  type: relations/money/debtor
+  item: people/mr-jennings-o-conner
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

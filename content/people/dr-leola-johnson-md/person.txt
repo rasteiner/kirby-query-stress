@@ -1,0 +1,64 @@
+Title: Dr. Leola Johnson MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/felton-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/haylee-powlowski
+- 
+  type: relations/money/debtor
+  item: people/jairo-schoen
+- 
+  type: relations/parental/mom
+  item: people/clark-barton
+- 
+  type: relations/parental/brosis
+  item: people/cory-denesik-sr
+- 
+  type: relations/parental/brosis
+  item: people/llewellyn-kulas
+- 
+  type: relations/money/creditor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/creditor
+  item: companies/beer-treutel
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

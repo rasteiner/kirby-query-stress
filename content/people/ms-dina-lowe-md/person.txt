@@ -1,0 +1,64 @@
+Title: Ms. Dina Lowe MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/aliza-lebsack
+- 
+  type: relations/money/debtor
+  item: people/wallace-trantow-sr
+- 
+  type: relations/parental/dad
+  item: people/walton-white
+- 
+  type: relations/parental/dad
+  item: people/hoyt-price
+- 
+  type: relations/parental/mom
+  item: people/dolly-thiel
+- 
+  type: relations/parental/brosis
+  item: people/pearl-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/employer
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/employer
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

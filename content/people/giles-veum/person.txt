@@ -1,0 +1,64 @@
+Title: Giles Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/allen-trantow
+- 
+  type: relations/parental/mom
+  item: people/jerod-schmidt
+- 
+  type: relations/parental/brosis
+  item: people/jerome-glover
+- 
+  type: relations/parental/mom
+  item: people/jedediah-gleichner
+- 
+  type: relations/parental/friend
+  item: people/clara-towne-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-mariane-spencer
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/work/client
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,65 @@
+Title: Naomi Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/keshaun-schowalter-md
+- 
+  type: relations/parental/dad
+  item: people/dr-garry-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/mr-melany-stark-ii
+- 
+  type: relations/money/debtor
+  item: people/ashton-huels
+- 
+  type: relations/parental/brosis
+  item: people/andreane-kling-sr
+- 
+  type: relations/parental/friend
+  item: people/caleigh-lueilwitz-v
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/employer
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

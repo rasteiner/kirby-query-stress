@@ -1,0 +1,64 @@
+Title: Clara Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-jasen-swift
+- 
+  type: relations/parental/colleague
+  item: people/vicente-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/stanton-jacobi
+- 
+  type: relations/money/debtor
+  item: people/ms-felicia-davis-v
+- 
+  type: relations/money/debtor
+  item: people/daphney-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/sister-hammes
+- 
+  type: relations/money/creditor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

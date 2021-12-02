@@ -1,0 +1,64 @@
+Title: Prof. Kennith Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bella-spencer
+- 
+  type: relations/money/creditor
+  item: people/christian-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/darren-bartell
+- 
+  type: relations/money/debtor
+  item: people/jeramy-bergstrom-ii
+- 
+  type: relations/parental/friend
+  item: people/celine-walker
+- 
+  type: relations/parental/mom
+  item: people/jeanne-schiller
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/work/employer
+  item: companies/howell-and-sons
+- 
+  type: relations/work/client
+  item: companies/emmerich-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

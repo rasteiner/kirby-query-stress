@@ -1,0 +1,64 @@
+Title: Cicero Williamson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/danial-parisian-iii
+- 
+  type: relations/money/debtor
+  item: people/tremaine-daniel
+- 
+  type: relations/parental/friend
+  item: people/prof-korbin-barton-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-annie-treutel
+- 
+  type: relations/parental/colleague
+  item: people/bria-zieme
+- 
+  type: relations/parental/brosis
+  item: people/flavio-collins
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/debtor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Gilberto Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sadie-gerlach-dvm
+- 
+  type: relations/parental/dad
+  item: people/lacey-schmidt-phd
+- 
+  type: relations/parental/mom
+  item: people/imani-mraz
+- 
+  type: relations/parental/friend
+  item: people/clotilde-armstrong
+- 
+  type: relations/parental/mom
+  item: people/jonathan-harris
+- 
+  type: relations/parental/mom
+  item: people/jessica-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/client
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

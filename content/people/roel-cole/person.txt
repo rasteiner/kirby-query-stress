@@ -1,0 +1,64 @@
+Title: Roel Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/herta-predovic
+- 
+  type: relations/money/creditor
+  item: people/jakayla-schneider
+- 
+  type: relations/money/creditor
+  item: people/miss-maude-hegmann
+- 
+  type: relations/parental/dad
+  item: people/dayana-green
+- 
+  type: relations/parental/dad
+  item: people/kallie-okuneva
+- 
+  type: relations/parental/brosis
+  item: people/sadie-schmeler
+- 
+  type: relations/work/client
+  item: companies/powlowski-inc
+- 
+  type: relations/money/creditor
+  item: companies/sauer-ltd
+- 
+  type: relations/work/employer
+  item: companies/roob-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/haley-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

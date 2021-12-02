@@ -1,0 +1,64 @@
+Title: Garrett Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jaydon-lesch
+- 
+  type: relations/parental/friend
+  item: people/bettie-hackett
+- 
+  type: relations/parental/colleague
+  item: people/anne-botsford
+- 
+  type: relations/parental/dad
+  item: people/vincenzo-wunsch-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-ezequiel-cremin
+- 
+  type: relations/parental/mom
+  item: people/garnett-rohan
+- 
+  type: relations/work/client
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/client
+  item: companies/crist-inc
+- 
+  type: relations/work/client
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

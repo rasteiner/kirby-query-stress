@@ -1,0 +1,64 @@
+Title: Flavio Collins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jovani-jast
+- 
+  type: relations/money/creditor
+  item: people/mr-brown-mertz
+- 
+  type: relations/parental/dad
+  item: people/dr-nolan-boyer
+- 
+  type: relations/parental/mom
+  item: people/coy-kerluke
+- 
+  type: relations/parental/mom
+  item: people/josefa-murphy
+- 
+  type: relations/parental/colleague
+  item: people/prof-guido-gislason
+- 
+  type: relations/work/client
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/employer
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

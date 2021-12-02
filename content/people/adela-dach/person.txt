@@ -1,0 +1,64 @@
+Title: Adela Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mortimer-weimann
+- 
+  type: relations/parental/colleague
+  item: people/prof-louvenia-cartwright-i
+- 
+  type: relations/parental/brosis
+  item: people/mrs-ofelia-tremblay-ii
+- 
+  type: relations/parental/colleague
+  item: people/sammie-walsh
+- 
+  type: relations/parental/mom
+  item: people/domingo-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/brendon-kassulke-iv
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

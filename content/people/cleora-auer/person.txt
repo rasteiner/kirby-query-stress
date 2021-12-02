@@ -1,0 +1,64 @@
+Title: Cleora Auer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/justyn-beer
+- 
+  type: relations/parental/colleague
+  item: people/dr-alexie-jerde
+- 
+  type: relations/money/creditor
+  item: people/jo-schmitt
+- 
+  type: relations/money/debtor
+  item: people/miss-lottie-wehner
+- 
+  type: relations/parental/mom
+  item: people/alia-hintz
+- 
+  type: relations/parental/mom
+  item: people/dr-danny-bechtelar-i
+- 
+  type: relations/work/employer
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

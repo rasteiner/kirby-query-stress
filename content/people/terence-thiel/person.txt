@@ -1,0 +1,64 @@
+Title: Terence Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/leonel-runolfsdottir-v
+- 
+  type: relations/parental/brosis
+  item: people/joannie-stiedemann
+- 
+  type: relations/parental/dad
+  item: people/kyla-emmerich
+- 
+  type: relations/parental/mom
+  item: people/mariana-west
+- 
+  type: relations/money/debtor
+  item: people/miss-jammie-orn-ii
+- 
+  type: relations/parental/colleague
+  item: people/kevin-hintz
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/work/client
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

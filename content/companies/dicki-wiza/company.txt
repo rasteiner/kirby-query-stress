@@ -1,0 +1,43 @@
+Title: Dicki-Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schroeder-group
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/new-hannah

@@ -1,0 +1,64 @@
+Title: Dr. Enid Hodkiewicz Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/carmel-nolan
+- 
+  type: relations/money/creditor
+  item: people/robyn-steuber
+- 
+  type: relations/money/creditor
+  item: people/mara-kassulke
+- 
+  type: relations/parental/dad
+  item: people/mrs-lauretta-powlowski-iii
+- 
+  type: relations/money/debtor
+  item: people/mikayla-braun
+- 
+  type: relations/money/debtor
+  item: people/jayde-douglas
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/employer
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

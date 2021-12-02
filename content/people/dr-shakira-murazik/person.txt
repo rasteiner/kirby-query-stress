@@ -1,0 +1,64 @@
+Title: Dr. Shakira Murazik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/odie-champlin
+- 
+  type: relations/parental/dad
+  item: people/ms-clementina-terry-iii
+- 
+  type: relations/parental/brosis
+  item: people/gail-hermiston
+- 
+  type: relations/parental/friend
+  item: people/dr-guillermo-wolff
+- 
+  type: relations/parental/dad
+  item: people/dessie-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/ella-langworth-v
+- 
+  type: relations/money/creditor
+  item: companies/doyle-murphy
+- 
+  type: relations/work/employer
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/work/employer
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

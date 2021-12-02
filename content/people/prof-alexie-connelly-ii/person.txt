@@ -1,0 +1,64 @@
+Title: Prof. Alexie Connelly II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/santiago-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/richie-koch
+- 
+  type: relations/money/creditor
+  item: people/adolphus-wisoky
+- 
+  type: relations/parental/mom
+  item: people/cordie-spencer
+- 
+  type: relations/money/debtor
+  item: people/columbus-huels-i
+- 
+  type: relations/parental/mom
+  item: people/franz-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/work/employer
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

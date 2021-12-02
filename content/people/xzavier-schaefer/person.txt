@@ -1,0 +1,64 @@
+Title: Xzavier Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/savanah-anderson
+- 
+  type: relations/parental/colleague
+  item: people/frida-o-kon
+- 
+  type: relations/money/creditor
+  item: people/ibrahim-carroll
+- 
+  type: relations/parental/friend
+  item: people/prof-don-dietrich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/casimer-stracke
+- 
+  type: relations/parental/dad
+  item: people/shany-boehm-dvm
+- 
+  type: relations/work/employer
+  item: companies/emard-inc
+- 
+  type: relations/work/client
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/client
+  item: companies/goldner-beier
+- 
+  type: relations/work/client
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Mrs. Enola Hansen Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-quinten-abbott-dvm
+- 
+  type: relations/parental/brosis
+  item: people/beth-weber-i
+- 
+  type: relations/parental/dad
+  item: people/prof-milan-kuhlman-md
+- 
+  type: relations/parental/colleague
+  item: people/kaci-lynch
+- 
+  type: relations/parental/colleague
+  item: people/douglas-veum
+- 
+  type: relations/parental/dad
+  item: people/prof-lisa-feeney
+- 
+  type: relations/money/debtor
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

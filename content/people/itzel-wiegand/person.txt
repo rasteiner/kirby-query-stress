@@ -1,0 +1,65 @@
+Title: Itzel Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/floyd-runte
+- 
+  type: relations/parental/friend
+  item: people/ms-julia-kunde-iii
+- 
+  type: relations/parental/dad
+  item: people/walker-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/prof-carlee-hintz-phd
+- 
+  type: relations/money/debtor
+  item: people/jocelyn-towne-v
+- 
+  type: relations/parental/friend
+  item: people/archibald-auer
+- 
+  type: relations/money/debtor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/money/debtor
+  item: companies/muller-lockman
+- 
+  type: relations/work/employer
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

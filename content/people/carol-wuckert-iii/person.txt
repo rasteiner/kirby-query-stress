@@ -1,0 +1,64 @@
+Title: Carol Wuckert III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-agustin-sporer
+- 
+  type: relations/money/creditor
+  item: people/germaine-nienow
+- 
+  type: relations/parental/colleague
+  item: people/zola-kihn
+- 
+  type: relations/parental/friend
+  item: people/imelda-abshire
+- 
+  type: relations/parental/colleague
+  item: people/dr-ward-bins
+- 
+  type: relations/parental/friend
+  item: people/prof-ursula-cronin
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-group
+- 
+  type: relations/work/employer
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Sibyl Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jonas-nikolaus
+- 
+  type: relations/parental/brosis
+  item: people/roman-ritchie
+- 
+  type: relations/money/debtor
+  item: people/prof-lina-bahringer-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-raymundo-schmidt
+- 
+  type: relations/parental/friend
+  item: people/nya-swaniawski
+- 
+  type: relations/parental/colleague
+  item: people/flavio-keeling
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/client
+  item: companies/farrell-green
+- 
+  type: relations/work/employer
+  item: companies/predovic-plc
+- 
+  type: relations/money/creditor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

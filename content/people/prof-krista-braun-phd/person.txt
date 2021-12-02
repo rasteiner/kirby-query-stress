@@ -1,0 +1,64 @@
+Title: Prof. Krista Braun PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-dorian-heller
+- 
+  type: relations/parental/friend
+  item: people/kadin-ferry-dds
+- 
+  type: relations/money/creditor
+  item: people/ralph-sipes
+- 
+  type: relations/parental/friend
+  item: people/dr-sven-wiza
+- 
+  type: relations/parental/friend
+  item: people/amely-crist
+- 
+  type: relations/money/creditor
+  item: people/lorena-gulgowski
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

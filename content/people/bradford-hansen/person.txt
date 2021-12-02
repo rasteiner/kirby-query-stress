@@ -1,0 +1,64 @@
+Title: Bradford Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/flavie-schaden
+- 
+  type: relations/parental/brosis
+  item: people/hertha-effertz
+- 
+  type: relations/parental/colleague
+  item: people/allan-marvin
+- 
+  type: relations/money/debtor
+  item: people/ephraim-schneider-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-allan-ullrich-ii
+- 
+  type: relations/parental/mom
+  item: people/deshawn-schaden
+- 
+  type: relations/work/client
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/debtor
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

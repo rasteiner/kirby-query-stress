@@ -1,0 +1,64 @@
+Title: Laurie Aufderhar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/emelie-bernhard
+- 
+  type: relations/money/debtor
+  item: people/ottilie-wolf
+- 
+  type: relations/parental/friend
+  item: people/murl-wolf-ii
+- 
+  type: relations/parental/friend
+  item: people/zackary-bode-dds
+- 
+  type: relations/money/creditor
+  item: people/mrs-thea-nader
+- 
+  type: relations/parental/friend
+  item: people/reese-kunze-dds
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

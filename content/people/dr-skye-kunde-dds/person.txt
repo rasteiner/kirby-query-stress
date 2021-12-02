@@ -1,0 +1,64 @@
+Title: Dr. Skye Kunde DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/money/debtor
+  item: people/fern-gerlach
+- 
+  type: relations/money/debtor
+  item: people/coralie-bode
+- 
+  type: relations/parental/dad
+  item: people/claudine-lindgren
+- 
+  type: relations/parental/mom
+  item: people/dr-therese-batz-dvm
+- 
+  type: relations/parental/friend
+  item: people/lela-gusikowski
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/client
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

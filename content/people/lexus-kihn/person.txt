@@ -1,0 +1,64 @@
+Title: Lexus Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/soledad-johnston
+- 
+  type: relations/parental/dad
+  item: people/lyla-grimes
+- 
+  type: relations/parental/friend
+  item: people/dr-eliza-stehr
+- 
+  type: relations/parental/friend
+  item: people/julio-kling
+- 
+  type: relations/money/debtor
+  item: people/dr-ian-swaniawski
+- 
+  type: relations/parental/colleague
+  item: people/sydnee-buckridge-jr
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/work/employer
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/employer
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Dedrick Lehner DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-freddy-zieme
+- 
+  type: relations/parental/friend
+  item: people/orin-turner
+- 
+  type: relations/parental/colleague
+  item: people/prof-benedict-raynor-iii
+- 
+  type: relations/parental/brosis
+  item: people/dr-dina-bartoletti-iv
+- 
+  type: relations/parental/friend
+  item: people/darron-legros
+- 
+  type: relations/parental/brosis
+  item: people/dewitt-runte
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Kattie Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-rosalinda-boyer-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-sim-baumbach-dvm
+- 
+  type: relations/money/creditor
+  item: people/ms-amira-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/anjali-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/amara-fahey-dvm
+- 
+  type: relations/money/debtor
+  item: people/aida-heaney
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

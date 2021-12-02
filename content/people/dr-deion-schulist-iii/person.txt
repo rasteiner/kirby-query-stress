@@ -1,0 +1,64 @@
+Title: Dr. Deion Schulist III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bryce-cummings-md
+- 
+  type: relations/money/debtor
+  item: people/winfield-crooks
+- 
+  type: relations/money/debtor
+  item: people/yadira-simonis
+- 
+  type: relations/money/creditor
+  item: people/amalia-harber
+- 
+  type: relations/parental/brosis
+  item: people/miss-carolyn-blanda-phd
+- 
+  type: relations/parental/colleague
+  item: people/mya-goyette
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

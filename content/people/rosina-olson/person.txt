@@ -1,0 +1,64 @@
+Title: Rosina Olson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mohamed-blanda
+- 
+  type: relations/parental/friend
+  item: people/kara-herzog
+- 
+  type: relations/money/debtor
+  item: people/mr-keanu-sauer
+- 
+  type: relations/money/creditor
+  item: people/spencer-reynolds-sr
+- 
+  type: relations/parental/colleague
+  item: people/liza-muller
+- 
+  type: relations/parental/mom
+  item: people/aurelie-fay
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/money/debtor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

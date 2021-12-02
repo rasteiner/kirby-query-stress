@@ -1,0 +1,66 @@
+Title: Fritz Denesik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kristopher-zieme
+- 
+  type: relations/parental/colleague
+  item: people/opal-hartmann
+- 
+  type: relations/parental/friend
+  item: people/cleora-homenick
+- 
+  type: relations/parental/colleague
+  item: people/tyrese-windler-sr
+- 
+  type: relations/parental/friend
+  item: people/lou-johnson
+- 
+  type: relations/parental/mom
+  item: people/schuyler-rogahn-md
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Buck Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adriana-lemke
+- 
+  type: relations/money/debtor
+  item: people/prof-leda-maggio-jr
+- 
+  type: relations/parental/colleague
+  item: people/winnifred-hoppe
+- 
+  type: relations/parental/colleague
+  item: people/carlie-ward
+- 
+  type: relations/parental/friend
+  item: people/bonnie-hammes
+- 
+  type: relations/money/debtor
+  item: people/maddison-jast-dvm
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Miss Lyda Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/money/creditor
+  item: people/myrtis-morar
+- 
+  type: relations/parental/colleague
+  item: people/vernon-jacobi
+- 
+  type: relations/parental/dad
+  item: people/max-volkman
+- 
+  type: relations/parental/mom
+  item: people/ms-meredith-baumbach
+- 
+  type: relations/parental/dad
+  item: people/lonnie-runolfsson
+- 
+  type: relations/money/creditor
+  item: companies/waters-and-sons
+- 
+  type: relations/work/client
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

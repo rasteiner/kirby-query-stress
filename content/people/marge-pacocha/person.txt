@@ -1,0 +1,64 @@
+Title: Marge Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-uriah-balistreri-dvm
+- 
+  type: relations/parental/mom
+  item: people/nolan-effertz
+- 
+  type: relations/money/debtor
+  item: people/vivien-stiedemann-iv
+- 
+  type: relations/parental/colleague
+  item: people/precious-upton
+- 
+  type: relations/parental/brosis
+  item: people/carley-rohan
+- 
+  type: relations/parental/friend
+  item: people/mikel-dach
+- 
+  type: relations/work/employer
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/client
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/employer
+  item: companies/hamill-tillman
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

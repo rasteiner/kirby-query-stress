@@ -1,0 +1,64 @@
+Title: Hellen Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-brian-white
+- 
+  type: relations/parental/brosis
+  item: people/hazle-brown
+- 
+  type: relations/money/debtor
+  item: people/john-cremin
+- 
+  type: relations/money/debtor
+  item: people/mr-boris-herman
+- 
+  type: relations/parental/colleague
+  item: people/cydney-huels
+- 
+  type: relations/parental/colleague
+  item: people/haleigh-osinski-iii
+- 
+  type: relations/work/client
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/client
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

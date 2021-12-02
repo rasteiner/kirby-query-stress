@@ -1,0 +1,43 @@
+Title: Reichert, Mante and Hilll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/osinski-lehner
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview

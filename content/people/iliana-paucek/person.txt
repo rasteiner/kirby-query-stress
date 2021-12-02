@@ -1,0 +1,64 @@
+Title: Iliana Paucek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/immanuel-gaylord
+- 
+  type: relations/money/creditor
+  item: people/ryleigh-nader-dds
+- 
+  type: relations/parental/colleague
+  item: people/ila-monahan
+- 
+  type: relations/parental/colleague
+  item: people/maida-feeney-jr
+- 
+  type: relations/parental/colleague
+  item: people/mrs-naomie-cartwright
+- 
+  type: relations/parental/colleague
+  item: people/prof-jermaine-wolff
+- 
+  type: relations/work/client
+  item: companies/weber-lockman
+- 
+  type: relations/work/employer
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/work/client
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

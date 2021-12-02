@@ -1,0 +1,64 @@
+Title: Korbin Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-lowell-medhurst
+- 
+  type: relations/parental/brosis
+  item: people/kirsten-bauch
+- 
+  type: relations/parental/brosis
+  item: people/opal-o-conner-sr
+- 
+  type: relations/parental/dad
+  item: people/wava-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/guiseppe-larkin
+- 
+  type: relations/money/debtor
+  item: people/walter-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/debtor
+  item: companies/leffler-inc
+- 
+  type: relations/money/creditor
+  item: companies/schroeder-group
+- 
+  type: relations/money/creditor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

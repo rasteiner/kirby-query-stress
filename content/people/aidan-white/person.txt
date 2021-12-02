@@ -1,0 +1,64 @@
+Title: Aidan White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nils-sauer
+- 
+  type: relations/parental/brosis
+  item: people/micheal-homenick
+- 
+  type: relations/money/creditor
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/friend
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/christine-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/guillermo-koss-iii
+- 
+  type: relations/work/client
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/debtor
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

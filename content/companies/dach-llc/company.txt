@@ -1,0 +1,43 @@
+Title: Dach LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kunze-ltd
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-inc
+- 
+  type: relations/money/debtor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt

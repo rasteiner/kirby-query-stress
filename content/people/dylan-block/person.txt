@@ -1,0 +1,64 @@
+Title: Dylan Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/trever-kulas-ii
+- 
+  type: relations/parental/brosis
+  item: people/eulah-champlin
+- 
+  type: relations/money/debtor
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/vito-swift
+- 
+  type: relations/parental/friend
+  item: people/merritt-carter
+- 
+  type: relations/parental/dad
+  item: people/liana-friesen
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/work/employer
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,65 @@
+Title: Madilyn D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/delores-lowe
+- 
+  type: relations/money/creditor
+  item: people/amelia-skiles
+- 
+  type: relations/parental/dad
+  item: people/margret-maggio-sr
+- 
+  type: relations/parental/dad
+  item: people/estevan-ratke
+- 
+  type: relations/parental/dad
+  item: people/dr-peyton-gerhold
+- 
+  type: relations/money/creditor
+  item: people/fermin-witting-i
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/employer
+  item: companies/legros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

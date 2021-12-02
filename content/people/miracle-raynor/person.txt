@@ -1,0 +1,64 @@
+Title: Miracle Raynor
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/johnson-kirlin-dds
+- 
+  type: relations/parental/dad
+  item: people/addie-wiza-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-kelley-lockman-dds
+- 
+  type: relations/parental/brosis
+  item: people/frankie-price
+- 
+  type: relations/parental/mom
+  item: people/nathanael-fahey
+- 
+  type: relations/money/creditor
+  item: people/prof-trenton-dickinson-iv
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

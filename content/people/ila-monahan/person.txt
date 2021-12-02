@@ -1,0 +1,64 @@
+Title: Ila Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kyra-sanford-jr
+- 
+  type: relations/parental/dad
+  item: people/mr-dave-mohr-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-laurel-beatty
+- 
+  type: relations/parental/colleague
+  item: people/darius-rogahn
+- 
+  type: relations/money/debtor
+  item: people/prof-everett-mosciski-jr
+- 
+  type: relations/money/debtor
+  item: people/sandy-hills
+- 
+  type: relations/work/client
+  item: companies/bode-reinger
+- 
+  type: relations/work/client
+  item: companies/frami-group
+- 
+  type: relations/work/employer
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

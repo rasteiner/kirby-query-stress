@@ -1,0 +1,64 @@
+Title: Ms. Lilliana Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rosendo-wisozk
+- 
+  type: relations/money/debtor
+  item: people/kariane-spinka
+- 
+  type: relations/parental/colleague
+  item: people/donato-pagac
+- 
+  type: relations/parental/colleague
+  item: people/miss-noemy-wunsch-iii
+- 
+  type: relations/parental/mom
+  item: people/oda-legros
+- 
+  type: relations/parental/mom
+  item: people/trinity-buckridge-jr
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/money/creditor
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

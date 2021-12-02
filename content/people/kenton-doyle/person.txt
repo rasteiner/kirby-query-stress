@@ -1,0 +1,64 @@
+Title: Kenton Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eulalia-skiles
+- 
+  type: relations/parental/brosis
+  item: people/hayley-friesen
+- 
+  type: relations/money/creditor
+  item: people/dr-rubye-nolan-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-lea-wiegand
+- 
+  type: relations/parental/dad
+  item: people/jaida-klocko
+- 
+  type: relations/parental/mom
+  item: people/prof-finn-bode-jr
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/sporer-llc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

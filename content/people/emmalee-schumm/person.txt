@@ -1,0 +1,64 @@
+Title: Emmalee Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/victoria-ullrich
+- 
+  type: relations/money/creditor
+  item: people/prof-trudie-franecki-dds
+- 
+  type: relations/parental/brosis
+  item: people/christiana-hyatt
+- 
+  type: relations/money/creditor
+  item: people/mr-brian-sawayn-ii
+- 
+  type: relations/parental/brosis
+  item: people/ms-everette-mcclure-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-issac-dach
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/work/employer
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

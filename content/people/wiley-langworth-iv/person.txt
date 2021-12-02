@@ -1,0 +1,64 @@
+Title: Wiley Langworth IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kenneth-kemmer
+- 
+  type: relations/money/debtor
+  item: people/miss-christina-wilkinson-dvm
+- 
+  type: relations/parental/dad
+  item: people/jessica-hagenes
+- 
+  type: relations/parental/mom
+  item: people/valentina-hyatt
+- 
+  type: relations/parental/colleague
+  item: people/jacquelyn-ryan
+- 
+  type: relations/parental/friend
+  item: people/cesar-erdman
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/money/creditor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

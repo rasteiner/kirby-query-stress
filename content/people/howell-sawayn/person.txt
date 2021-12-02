@@ -1,0 +1,64 @@
+Title: Howell Sawayn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/natalie-mueller
+- 
+  type: relations/parental/mom
+  item: people/ms-mafalda-hackett-v
+- 
+  type: relations/parental/mom
+  item: people/myrtie-schultz-phd
+- 
+  type: relations/parental/dad
+  item: people/joaquin-wolf
+- 
+  type: relations/money/creditor
+  item: people/demetrius-rosenbaum
+- 
+  type: relations/money/debtor
+  item: people/johanna-upton
+- 
+  type: relations/work/client
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/client
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

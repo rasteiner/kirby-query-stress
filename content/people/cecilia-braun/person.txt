@@ -1,0 +1,65 @@
+Title: Cecilia Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cary-robel
+- 
+  type: relations/parental/mom
+  item: people/dr-mozell-terry
+- 
+  type: relations/parental/mom
+  item: people/mrs-juliana-lang-phd
+- 
+  type: relations/parental/dad
+  item: people/dr-otis-bosco-v
+- 
+  type: relations/parental/colleague
+  item: people/giovanna-ondricka
+- 
+  type: relations/parental/mom
+  item: people/joanne-green-dvm
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/money/debtor
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

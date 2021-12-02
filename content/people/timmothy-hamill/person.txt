@@ -1,0 +1,64 @@
+Title: Timmothy Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/parental/mom
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/money/debtor
+  item: people/cleveland-gleichner
+- 
+  type: relations/parental/friend
+  item: people/mrs-enola-hansen-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-baylee-purdy-v
+- 
+  type: relations/parental/mom
+  item: people/mrs-norene-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,65 @@
+Title: Rigoberto Marquardt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/montana-denesik
+- 
+  type: relations/parental/friend
+  item: people/marilou-parisian
+- 
+  type: relations/parental/dad
+  item: people/graciela-stracke
+- 
+  type: relations/parental/mom
+  item: people/dr-davon-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/lonnie-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/magali-lebsack
+- 
+  type: relations/work/employer
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/debtor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

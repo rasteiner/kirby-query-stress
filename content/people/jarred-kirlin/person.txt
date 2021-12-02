@@ -1,0 +1,65 @@
+Title: Jarred Kirlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/karlee-volkman
+- 
+  type: relations/parental/friend
+  item: people/lon-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/enrico-walker
+- 
+  type: relations/money/debtor
+  item: people/reyna-brown
+- 
+  type: relations/parental/dad
+  item: people/glenna-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/alda-mertz
+- 
+  type: relations/work/employer
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/debtor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

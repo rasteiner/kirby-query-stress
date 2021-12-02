@@ -1,0 +1,64 @@
+Title: Hilda Haag III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lucile-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/westley-schneider
+- 
+  type: relations/parental/mom
+  item: people/joana-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/nestor-wisozk
+- 
+  type: relations/parental/mom
+  item: people/kaylee-armstrong
+- 
+  type: relations/parental/friend
+  item: people/duncan-block
+- 
+  type: relations/money/creditor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

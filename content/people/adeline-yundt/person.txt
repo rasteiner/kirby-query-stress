@@ -1,0 +1,64 @@
+Title: Adeline Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/claud-gottlieb
+- 
+  type: relations/parental/brosis
+  item: people/raul-bayer-jr
+- 
+  type: relations/parental/brosis
+  item: people/emily-roberts
+- 
+  type: relations/money/creditor
+  item: people/trenton-swaniawski
+- 
+  type: relations/parental/friend
+  item: people/lacy-schaden
+- 
+  type: relations/parental/dad
+  item: people/nicolette-gibson-sr
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

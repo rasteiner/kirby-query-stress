@@ -1,0 +1,64 @@
+Title: Elliott Farrell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jaime-maggio
+- 
+  type: relations/money/creditor
+  item: people/ms-myah-torp
+- 
+  type: relations/parental/brosis
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/parental/brosis
+  item: people/paris-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/prof-freddy-zieme
+- 
+  type: relations/money/debtor
+  item: people/orin-turner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/mills-wyman
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

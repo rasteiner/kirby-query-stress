@@ -1,0 +1,64 @@
+Title: Jo Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-jimmy-gutkowski-dds
+- 
+  type: relations/parental/friend
+  item: people/judah-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/maximillia-steuber-md
+- 
+  type: relations/money/creditor
+  item: people/dr-retha-nitzsche
+- 
+  type: relations/money/debtor
+  item: people/johnson-brekke
+- 
+  type: relations/money/debtor
+  item: people/miss-leda-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/money/debtor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

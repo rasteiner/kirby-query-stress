@@ -1,0 +1,64 @@
+Title: Albin Hilll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ashleigh-prosacco
+- 
+  type: relations/parental/colleague
+  item: people/winnifred-reilly-dvm
+- 
+  type: relations/parental/mom
+  item: people/franz-conn
+- 
+  type: relations/parental/brosis
+  item: people/gay-lynch
+- 
+  type: relations/parental/mom
+  item: people/prof-keshaun-labadie-v
+- 
+  type: relations/money/debtor
+  item: people/odell-gottlieb-v
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/medhurst-group
+- 
+  type: relations/money/debtor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

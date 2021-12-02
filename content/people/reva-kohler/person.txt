@@ -1,0 +1,66 @@
+Title: Reva Kohler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/myrtice-casper
+- 
+  type: relations/parental/dad
+  item: people/prof-juliana-beahan
+- 
+  type: relations/parental/mom
+  item: people/immanuel-gaylord
+- 
+  type: relations/parental/dad
+  item: people/ryleigh-nader-dds
+- 
+  type: relations/parental/dad
+  item: people/ila-monahan
+- 
+  type: relations/parental/dad
+  item: people/maida-feeney-jr
+- 
+  type: relations/money/debtor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/wolff-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

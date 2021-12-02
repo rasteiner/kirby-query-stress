@@ -1,0 +1,64 @@
+Title: Dawson Langosh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cordia-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/dr-joey-hackett
+- 
+  type: relations/parental/friend
+  item: people/prof-garnet-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/mckayla-bode
+- 
+  type: relations/parental/colleague
+  item: people/mr-vern-lueilwitz
+- 
+  type: relations/parental/brosis
+  item: people/marcella-marks
+- 
+  type: relations/work/employer
+  item: companies/doyle-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/client
+  item: companies/metz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

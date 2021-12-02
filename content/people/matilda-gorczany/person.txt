@@ -1,0 +1,65 @@
+Title: Matilda Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-birdie-wunsch-dvm
+- 
+  type: relations/money/debtor
+  item: people/darrel-towne-dvm
+- 
+  type: relations/parental/brosis
+  item: people/timmy-kuphal
+- 
+  type: relations/money/debtor
+  item: people/prof-alaina-quigley-iii
+- 
+  type: relations/parental/dad
+  item: people/devan-barrows
+- 
+  type: relations/parental/colleague
+  item: people/garrick-bruen
+- 
+  type: relations/work/employer
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/creditor
+  item: companies/yost-llc
+- 
+  type: relations/money/debtor
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/employer
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

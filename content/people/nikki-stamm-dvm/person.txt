@@ -1,0 +1,64 @@
+Title: Nikki Stamm DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/noelia-schowalter
+- 
+  type: relations/parental/dad
+  item: people/loren-veum-dds
+- 
+  type: relations/parental/brosis
+  item: people/guido-hartmann
+- 
+  type: relations/parental/dad
+  item: people/mr-jaylan-haag-v
+- 
+  type: relations/parental/dad
+  item: people/mr-leonel-jacobson-iii
+- 
+  type: relations/parental/colleague
+  item: people/ruth-o-conner
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/money/debtor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

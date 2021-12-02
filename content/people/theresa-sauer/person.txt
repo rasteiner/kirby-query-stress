@@ -1,0 +1,64 @@
+Title: Theresa Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mellie-volkman-iii
+- 
+  type: relations/parental/dad
+  item: people/mr-cloyd-kessler-i
+- 
+  type: relations/parental/colleague
+  item: people/dr-ardella-labadie
+- 
+  type: relations/parental/colleague
+  item: people/raheem-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/kathlyn-nolan
+- 
+  type: relations/money/debtor
+  item: people/mrs-haylie-streich-sr
+- 
+  type: relations/money/creditor
+  item: companies/jones-llc
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

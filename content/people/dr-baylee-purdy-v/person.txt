@@ -1,0 +1,64 @@
+Title: Dr. Baylee Purdy V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kendall-schoen
+- 
+  type: relations/money/debtor
+  item: people/ottis-lynch-v
+- 
+  type: relations/parental/dad
+  item: people/arthur-hermann
+- 
+  type: relations/parental/brosis
+  item: people/patsy-conn-phd
+- 
+  type: relations/parental/colleague
+  item: people/zackary-mertz
+- 
+  type: relations/parental/brosis
+  item: people/mr-wilton-conn-iii
+- 
+  type: relations/money/creditor
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

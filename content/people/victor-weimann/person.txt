@@ -1,0 +1,64 @@
+Title: Victor Weimann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bennie-kihn
+- 
+  type: relations/parental/colleague
+  item: people/wiley-langworth-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-sedrick-hilll-iii
+- 
+  type: relations/parental/friend
+  item: people/bud-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/prof-aric-hegmann
+- 
+  type: relations/money/debtor
+  item: people/miss-autumn-cruickshank-sr
+- 
+  type: relations/money/debtor
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/client
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

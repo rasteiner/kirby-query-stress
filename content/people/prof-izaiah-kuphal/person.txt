@@ -1,0 +1,64 @@
+Title: Prof. Izaiah Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jan-runolfsson
+- 
+  type: relations/parental/brosis
+  item: people/maxie-price
+- 
+  type: relations/parental/brosis
+  item: people/dr-keyon-herman-sr
+- 
+  type: relations/parental/colleague
+  item: people/claudie-rohan
+- 
+  type: relations/parental/brosis
+  item: people/willow-king
+- 
+  type: relations/parental/mom
+  item: people/jarrett-walter
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

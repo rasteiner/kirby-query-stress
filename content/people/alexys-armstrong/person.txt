@@ -1,0 +1,64 @@
+Title: Alexys Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-talia-corwin
+- 
+  type: relations/parental/brosis
+  item: people/violette-cummerata
+- 
+  type: relations/parental/mom
+  item: people/alec-marks
+- 
+  type: relations/parental/brosis
+  item: people/eula-cassin-i
+- 
+  type: relations/parental/mom
+  item: people/micaela-haley
+- 
+  type: relations/parental/dad
+  item: people/joshua-yost
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/creditor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/employer
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

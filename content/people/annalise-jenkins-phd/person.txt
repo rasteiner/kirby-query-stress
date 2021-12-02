@@ -1,0 +1,64 @@
+Title: Annalise Jenkins PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-anahi-green-i
+- 
+  type: relations/parental/colleague
+  item: people/zoila-stark-md
+- 
+  type: relations/money/creditor
+  item: people/orrin-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/mrs-prudence-lynch-phd
+- 
+  type: relations/parental/dad
+  item: people/leatha-friesen-iii
+- 
+  type: relations/parental/dad
+  item: people/ivory-bradtke
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Mafalda VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/clifton-cremin-sr
+- 
+  type: relations/money/creditor
+  item: people/kurtis-glover-dvm
+- 
+  type: relations/parental/brosis
+  item: people/pearlie-hills-md
+- 
+  type: relations/parental/dad
+  item: people/eldridge-klocko
+- 
+  type: relations/money/creditor
+  item: people/amanda-harris
+- 
+  type: relations/parental/friend
+  item: people/lura-lesch
+- 
+  type: relations/work/client
+  item: companies/gleason-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

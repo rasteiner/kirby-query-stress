@@ -1,0 +1,64 @@
+Title: Sadie Haag Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/sibyl-eichmann
+- 
+  type: relations/money/debtor
+  item: people/andreane-cummings-ii
+- 
+  type: relations/money/debtor
+  item: people/kaia-wehner-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-bradly-stehr-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-favian-runolfsdottir-dvm
+- 
+  type: relations/money/creditor
+  item: people/lynn-mills-md
+- 
+  type: relations/work/client
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

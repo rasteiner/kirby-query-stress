@@ -1,0 +1,64 @@
+Title: Mrs. Meagan Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rozella-morar
+- 
+  type: relations/money/creditor
+  item: people/rosalyn-hagenes
+- 
+  type: relations/money/creditor
+  item: people/riley-hodkiewicz
+- 
+  type: relations/parental/brosis
+  item: people/larry-stanton
+- 
+  type: relations/parental/dad
+  item: people/prof-ross-romaguera-dvm
+- 
+  type: relations/parental/colleague
+  item: people/raquel-mosciski
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-ltd
+- 
+  type: relations/work/employer
+  item: companies/collier-plc
+- 
+  type: relations/work/client
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Greg Dicki MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-mia-wuckert
+- 
+  type: relations/money/creditor
+  item: people/princess-abernathy
+- 
+  type: relations/parental/friend
+  item: people/ayden-bogisich-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-lauretta-beatty
+- 
+  type: relations/money/debtor
+  item: people/priscilla-pfeffer-v
+- 
+  type: relations/parental/dad
+  item: people/dr-ted-durgan-phd
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

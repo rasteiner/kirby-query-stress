@@ -1,0 +1,64 @@
+Title: Prof. Amanda Adams MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-ramon-lind
+- 
+  type: relations/parental/dad
+  item: people/pink-olson
+- 
+  type: relations/money/debtor
+  item: people/clovis-wintheiser
+- 
+  type: relations/money/creditor
+  item: people/vance-braun
+- 
+  type: relations/parental/brosis
+  item: people/miss-ona-wilkinson
+- 
+  type: relations/money/debtor
+  item: people/aimee-donnelly
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/employer
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

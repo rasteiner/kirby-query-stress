@@ -1,0 +1,64 @@
+Title: Carlos Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-antone-pacocha-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-janis-brown
+- 
+  type: relations/parental/friend
+  item: people/diamond-reilly
+- 
+  type: relations/parental/mom
+  item: people/samara-walter
+- 
+  type: relations/parental/dad
+  item: people/rigoberto-hintz
+- 
+  type: relations/money/creditor
+  item: people/mr-jessy-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/client
+  item: companies/hintz-fisher
+- 
+  type: relations/money/debtor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

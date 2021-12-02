@@ -1,0 +1,64 @@
+Title: Heber Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ashtyn-carroll
+- 
+  type: relations/money/creditor
+  item: people/telly-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/lon-schuster-jr
+- 
+  type: relations/parental/mom
+  item: people/mrs-mabelle-parisian
+- 
+  type: relations/money/debtor
+  item: people/abel-schneider
+- 
+  type: relations/parental/mom
+  item: people/penelope-bartoletti-iii
+- 
+  type: relations/money/creditor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/client
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

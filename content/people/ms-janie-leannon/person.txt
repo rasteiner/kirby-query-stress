@@ -1,0 +1,64 @@
+Title: Ms. Janie Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-kennith-wolff-dds
+- 
+  type: relations/parental/mom
+  item: people/gabe-sauer
+- 
+  type: relations/money/debtor
+  item: people/prof-julie-sipes-dvm
+- 
+  type: relations/parental/brosis
+  item: people/estevan-robel
+- 
+  type: relations/money/creditor
+  item: people/lelia-hansen
+- 
+  type: relations/parental/colleague
+  item: people/alessandra-haley
+- 
+  type: relations/money/creditor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/work/employer
+  item: companies/ferry-carter
+- 
+  type: relations/work/employer
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/employer
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

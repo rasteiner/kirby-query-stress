@@ -1,0 +1,64 @@
+Title: Miss Viva Kassulke PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/unique-dibbert
+- 
+  type: relations/money/creditor
+  item: people/prof-rocky-towne
+- 
+  type: relations/money/debtor
+  item: people/bo-gleason
+- 
+  type: relations/parental/colleague
+  item: people/ara-okuneva
+- 
+  type: relations/money/creditor
+  item: people/eloy-schmidt
+- 
+  type: relations/parental/mom
+  item: people/jessyca-farrell
+- 
+  type: relations/work/employer
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/employer
+  item: companies/schinner-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

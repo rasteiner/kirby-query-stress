@@ -1,0 +1,64 @@
+Title: Lucie Schaden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/selmer-osinski
+- 
+  type: relations/parental/mom
+  item: people/narciso-daugherty-ii
+- 
+  type: relations/parental/brosis
+  item: people/enos-wiegand-ii
+- 
+  type: relations/money/debtor
+  item: people/lois-konopelski-i
+- 
+  type: relations/parental/dad
+  item: people/freddie-hammes-md
+- 
+  type: relations/parental/brosis
+  item: people/danielle-mayert
+- 
+  type: relations/money/creditor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/client
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

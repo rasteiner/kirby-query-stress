@@ -1,0 +1,64 @@
+Title: Lempi Bednar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/flossie-beatty
+- 
+  type: relations/money/creditor
+  item: people/prof-valentine-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/dr-jasmin-willms
+- 
+  type: relations/money/creditor
+  item: people/dr-eloy-shanahan
+- 
+  type: relations/parental/friend
+  item: people/prof-ella-nitzsche
+- 
+  type: relations/money/debtor
+  item: people/dr-korbin-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/work/employer
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

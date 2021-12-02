@@ -1,0 +1,64 @@
+Title: Aidan Powlowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/friend
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/money/debtor
+  item: people/shea-fisher-md
+- 
+  type: relations/parental/friend
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/parental/colleague
+  item: people/lura-sipes
+- 
+  type: relations/money/debtor
+  item: people/dr-lela-senger-i
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

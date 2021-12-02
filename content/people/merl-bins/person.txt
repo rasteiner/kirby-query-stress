@@ -1,0 +1,64 @@
+Title: Merl Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ashlynn-herzog
+- 
+  type: relations/money/creditor
+  item: people/pattie-cassin
+- 
+  type: relations/money/creditor
+  item: people/milo-hessel
+- 
+  type: relations/parental/dad
+  item: people/joanny-smitham
+- 
+  type: relations/parental/mom
+  item: people/ms-ashlynn-heidenreich-dvm
+- 
+  type: relations/parental/brosis
+  item: people/tessie-frami
+- 
+  type: relations/money/debtor
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

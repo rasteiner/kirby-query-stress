@@ -1,0 +1,64 @@
+Title: Prof. Russel Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jaleel-corwin-dds
+- 
+  type: relations/parental/friend
+  item: people/reanna-orn
+- 
+  type: relations/parental/mom
+  item: people/kaylee-conn-iii
+- 
+  type: relations/money/debtor
+  item: people/prof-lisandro-stark
+- 
+  type: relations/parental/mom
+  item: people/eloise-cronin
+- 
+  type: relations/parental/dad
+  item: people/oceane-casper
+- 
+  type: relations/work/client
+  item: companies/okuneva-inc
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/work/employer
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/client
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

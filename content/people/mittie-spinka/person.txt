@@ -1,0 +1,64 @@
+Title: Mittie Spinka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/erin-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/miss-trycia-cartwright-sr
+- 
+  type: relations/parental/friend
+  item: people/alessia-tillman
+- 
+  type: relations/money/debtor
+  item: people/mr-amani-witting
+- 
+  type: relations/parental/mom
+  item: people/shanon-howell
+- 
+  type: relations/parental/friend
+  item: people/prof-izaiah-kuphal
+- 
+  type: relations/work/employer
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/client
+  item: companies/rempel-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

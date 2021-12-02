@@ -1,0 +1,64 @@
+Title: Toy Bergnaum Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jude-beahan
+- 
+  type: relations/parental/brosis
+  item: people/rosie-gleichner-iii
+- 
+  type: relations/parental/mom
+  item: people/ali-hermiston
+- 
+  type: relations/parental/dad
+  item: people/mrs-vita-spencer-ii
+- 
+  type: relations/parental/colleague
+  item: people/joe-considine-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-roberto-weber
+- 
+  type: relations/work/client
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/employer
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

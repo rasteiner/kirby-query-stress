@@ -1,0 +1,64 @@
+Title: Dr. Abigale Schiller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gregg-kozey
+- 
+  type: relations/parental/mom
+  item: people/jordi-roob
+- 
+  type: relations/parental/brosis
+  item: people/ocie-moore
+- 
+  type: relations/parental/mom
+  item: people/pansy-ondricka
+- 
+  type: relations/parental/dad
+  item: people/beatrice-ferry
+- 
+  type: relations/parental/brosis
+  item: people/asia-torphy
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-veum
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/debtor
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

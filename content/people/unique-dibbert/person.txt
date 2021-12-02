@@ -1,0 +1,64 @@
+Title: Unique Dibbert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/carmine-hirthe
+- 
+  type: relations/money/creditor
+  item: people/antonina-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/erika-swift-ii
+- 
+  type: relations/parental/brosis
+  item: people/garry-heller-sr
+- 
+  type: relations/parental/mom
+  item: people/gerry-nienow-iv
+- 
+  type: relations/parental/dad
+  item: people/marjory-tillman
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/work/client
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/client
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

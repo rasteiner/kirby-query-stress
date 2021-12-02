@@ -1,0 +1,64 @@
+Title: Mikayla Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/katrine-nikolaus-ii
+- 
+  type: relations/money/creditor
+  item: people/alisa-conroy
+- 
+  type: relations/parental/mom
+  item: people/jarrett-ernser
+- 
+  type: relations/parental/dad
+  item: people/miss-breana-bergnaum-i
+- 
+  type: relations/parental/dad
+  item: people/retha-adams
+- 
+  type: relations/money/creditor
+  item: people/hobart-dickens
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/work/employer
+  item: companies/raynor-rippin
+- 
+  type: relations/money/debtor
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/client
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

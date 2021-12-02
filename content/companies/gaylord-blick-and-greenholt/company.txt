@@ -1,0 +1,43 @@
+Title: Gaylord, Blick and Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: companies/russel-skiles
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/money/creditor
+  item: companies/kessler-group
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/location/residence
+  item: places/reingertown
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/carmineshire

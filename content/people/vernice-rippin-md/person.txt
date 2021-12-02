@@ -1,0 +1,64 @@
+Title: Vernice Rippin MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/darwin-herman-jr
+- 
+  type: relations/parental/dad
+  item: people/michelle-hintz
+- 
+  type: relations/money/creditor
+  item: people/dr-lonny-marquardt-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-arnoldo-dubuque-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-jessy-durgan-dds
+- 
+  type: relations/parental/colleague
+  item: people/tania-kuvalis
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

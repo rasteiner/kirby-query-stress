@@ -1,0 +1,64 @@
+Title: Ms. Ophelia Rippin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-kellen-heaney-iv
+- 
+  type: relations/parental/mom
+  item: people/mrs-zelda-rempel
+- 
+  type: relations/parental/dad
+  item: people/ollie-durgan
+- 
+  type: relations/parental/brosis
+  item: people/barrett-schmeler
+- 
+  type: relations/money/creditor
+  item: people/myrtle-hermann
+- 
+  type: relations/parental/mom
+  item: people/mr-harold-zieme
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/money/creditor
+  item: companies/orn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

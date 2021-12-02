@@ -1,0 +1,64 @@
+Title: Anne Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kristina-vandervort
+- 
+  type: relations/money/creditor
+  item: people/durward-rutherford
+- 
+  type: relations/parental/friend
+  item: people/abagail-crooks
+- 
+  type: relations/parental/colleague
+  item: people/ms-macy-bogisich-md
+- 
+  type: relations/parental/dad
+  item: people/leora-yundt
+- 
+  type: relations/parental/friend
+  item: people/delpha-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

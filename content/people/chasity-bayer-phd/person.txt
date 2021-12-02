@@ -1,0 +1,64 @@
+Title: Chasity Bayer PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/summer-fritsch
+- 
+  type: relations/money/debtor
+  item: people/peggie-pollich
+- 
+  type: relations/parental/brosis
+  item: people/macy-gislason
+- 
+  type: relations/money/creditor
+  item: people/mr-koby-miller-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-colten-champlin-i
+- 
+  type: relations/money/debtor
+  item: people/charity-mueller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

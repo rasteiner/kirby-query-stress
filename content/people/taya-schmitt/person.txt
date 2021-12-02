@@ -1,0 +1,64 @@
+Title: Taya Schmitt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-everette-mcclure-phd
+- 
+  type: relations/money/debtor
+  item: people/mr-issac-dach
+- 
+  type: relations/money/creditor
+  item: people/pasquale-flatley
+- 
+  type: relations/money/creditor
+  item: people/miss-elyssa-williamson
+- 
+  type: relations/parental/mom
+  item: people/isac-sporer
+- 
+  type: relations/parental/colleague
+  item: people/rowland-gibson-md
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

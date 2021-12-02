@@ -1,0 +1,64 @@
+Title: Lina Davis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/joe-nader
+- 
+  type: relations/money/debtor
+  item: people/mr-arjun-nolan
+- 
+  type: relations/money/creditor
+  item: people/charles-dach
+- 
+  type: relations/parental/dad
+  item: people/mr-rex-von-jr
+- 
+  type: relations/parental/colleague
+  item: people/stella-rosenbaum-phd
+- 
+  type: relations/parental/dad
+  item: people/prof-alivia-parisian
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/client
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

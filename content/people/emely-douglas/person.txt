@@ -1,0 +1,64 @@
+Title: Emely Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-dudley-feil
+- 
+  type: relations/parental/brosis
+  item: people/lois-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/brock-windler
+- 
+  type: relations/parental/dad
+  item: people/raleigh-douglas
+- 
+  type: relations/money/creditor
+  item: people/lonny-kovacek
+- 
+  type: relations/parental/friend
+  item: people/mr-felton-wuckert-iii
+- 
+  type: relations/work/client
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/work/client
+  item: companies/dickens-group
+- 
+  type: relations/work/client
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

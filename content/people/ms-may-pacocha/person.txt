@@ -1,0 +1,64 @@
+Title: Ms. May Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/evie-fritsch
+- 
+  type: relations/parental/friend
+  item: people/jammie-sawayn-ii
+- 
+  type: relations/money/debtor
+  item: people/laisha-mccullough
+- 
+  type: relations/parental/dad
+  item: people/dr-zita-volkman
+- 
+  type: relations/parental/friend
+  item: people/emmet-wisozk-v
+- 
+  type: relations/money/debtor
+  item: people/sofia-rohan
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/work/employer
+  item: companies/predovic-plc
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

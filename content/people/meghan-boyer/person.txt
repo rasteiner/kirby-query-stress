@@ -1,0 +1,64 @@
+Title: Meghan Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/merritt-carter
+- 
+  type: relations/parental/dad
+  item: people/liana-friesen
+- 
+  type: relations/parental/colleague
+  item: people/elza-langworth-iii
+- 
+  type: relations/parental/colleague
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/money/debtor
+  item: people/garfield-leannon
+- 
+  type: relations/parental/dad
+  item: people/sally-hickle-ii
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/client
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/debtor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

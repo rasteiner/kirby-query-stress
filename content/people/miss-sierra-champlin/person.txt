@@ -1,0 +1,64 @@
+Title: Miss Sierra Champlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-jalen-blanda
+- 
+  type: relations/money/debtor
+  item: people/pearl-robel
+- 
+  type: relations/money/creditor
+  item: people/keon-runte
+- 
+  type: relations/parental/friend
+  item: people/rosalind-wyman-phd
+- 
+  type: relations/parental/colleague
+  item: people/aubrey-lemke
+- 
+  type: relations/parental/dad
+  item: people/luella-hoeger
+- 
+  type: relations/work/employer
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/employer
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/work/client
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

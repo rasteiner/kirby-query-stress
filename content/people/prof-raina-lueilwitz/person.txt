@@ -1,0 +1,64 @@
+Title: Prof. Raina Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/coralie-feil
+- 
+  type: relations/parental/friend
+  item: people/anais-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/leslie-hilpert
+- 
+  type: relations/parental/dad
+  item: people/theron-heller
+- 
+  type: relations/parental/dad
+  item: people/freeman-kohler-v
+- 
+  type: relations/money/debtor
+  item: people/letha-fay
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

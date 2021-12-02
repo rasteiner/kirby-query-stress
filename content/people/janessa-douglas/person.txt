@@ -1,0 +1,64 @@
+Title: Janessa Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/boris-bashirian
+- 
+  type: relations/parental/dad
+  item: people/meghan-boyer
+- 
+  type: relations/parental/dad
+  item: people/eveline-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/dr-unique-walker-md
+- 
+  type: relations/parental/brosis
+  item: people/dr-lucius-cronin-dds
+- 
+  type: relations/parental/dad
+  item: people/thurman-mckenzie
+- 
+  type: relations/work/employer
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/work/client
+  item: companies/schimmel-inc
+- 
+  type: relations/work/employer
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/money/debtor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

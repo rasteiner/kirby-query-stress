@@ -1,0 +1,64 @@
+Title: Lauretta O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gaylord-rau
+- 
+  type: relations/money/creditor
+  item: people/dr-melissa-funk-ii
+- 
+  type: relations/money/creditor
+  item: people/erich-lang-v
+- 
+  type: relations/parental/colleague
+  item: people/mario-denesik
+- 
+  type: relations/parental/friend
+  item: people/shakira-robel
+- 
+  type: relations/parental/colleague
+  item: people/stacey-dach-iii
+- 
+  type: relations/work/employer
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/debtor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

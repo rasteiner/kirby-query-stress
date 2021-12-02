@@ -1,0 +1,64 @@
+Title: Dr. Griffin Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-giovanna-gleichner
+- 
+  type: relations/parental/friend
+  item: people/henderson-hermiston
+- 
+  type: relations/parental/mom
+  item: people/sasha-rutherford-v
+- 
+  type: relations/parental/mom
+  item: people/neoma-kunze
+- 
+  type: relations/parental/friend
+  item: people/stephon-hudson
+- 
+  type: relations/parental/mom
+  item: people/rick-erdman
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

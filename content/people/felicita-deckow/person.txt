@@ -1,0 +1,64 @@
+Title: Felicita Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/adelia-witting
+- 
+  type: relations/parental/friend
+  item: people/skylar-mills
+- 
+  type: relations/parental/friend
+  item: people/harvey-bartell-iv
+- 
+  type: relations/parental/friend
+  item: people/berry-bins
+- 
+  type: relations/parental/friend
+  item: people/omari-hirthe
+- 
+  type: relations/money/creditor
+  item: people/kenny-bosco
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

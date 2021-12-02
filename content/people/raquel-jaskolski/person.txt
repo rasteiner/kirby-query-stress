@@ -1,0 +1,64 @@
+Title: Raquel Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/odell-schroeder
+- 
+  type: relations/parental/mom
+  item: people/prof-cordie-gibson-jr
+- 
+  type: relations/money/debtor
+  item: people/athena-hilpert
+- 
+  type: relations/money/creditor
+  item: people/gudrun-frami
+- 
+  type: relations/parental/mom
+  item: people/prof-andre-tillman
+- 
+  type: relations/money/debtor
+  item: people/verdie-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/client
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Mr. Soledad Aufderhar MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ila-monahan
+- 
+  type: relations/money/debtor
+  item: people/maida-feeney-jr
+- 
+  type: relations/parental/mom
+  item: people/mrs-naomie-cartwright
+- 
+  type: relations/parental/brosis
+  item: people/prof-jermaine-wolff
+- 
+  type: relations/parental/mom
+  item: people/daniella-abshire
+- 
+  type: relations/money/debtor
+  item: people/prof-holden-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ferry-bayer
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

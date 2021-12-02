@@ -1,0 +1,64 @@
+Title: Tressa O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ena-satterfield-v
+- 
+  type: relations/money/debtor
+  item: people/roger-hahn
+- 
+  type: relations/parental/mom
+  item: people/solon-littel-dds
+- 
+  type: relations/parental/mom
+  item: people/mrs-flo-anderson
+- 
+  type: relations/money/creditor
+  item: people/jan-veum
+- 
+  type: relations/parental/friend
+  item: people/muriel-medhurst-phd
+- 
+  type: relations/work/client
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/employer
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

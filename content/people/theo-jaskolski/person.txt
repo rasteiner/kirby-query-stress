@@ -1,0 +1,64 @@
+Title: Theo Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/addison-auer
+- 
+  type: relations/parental/brosis
+  item: people/dr-marian-towne
+- 
+  type: relations/parental/colleague
+  item: people/lenny-o-connell
+- 
+  type: relations/money/debtor
+  item: people/berry-bauch
+- 
+  type: relations/parental/mom
+  item: people/dr-jairo-herman
+- 
+  type: relations/parental/mom
+  item: people/prof-rosamond-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/client
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

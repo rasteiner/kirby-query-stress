@@ -1,0 +1,64 @@
+Title: Randall Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rosamond-blick-iii
+- 
+  type: relations/parental/colleague
+  item: people/cesar-ledner
+- 
+  type: relations/money/creditor
+  item: people/dorothea-lang-ii
+- 
+  type: relations/parental/friend
+  item: people/mable-mayert
+- 
+  type: relations/parental/friend
+  item: people/gino-goldner
+- 
+  type: relations/money/debtor
+  item: people/marcia-gislason-phd
+- 
+  type: relations/money/debtor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

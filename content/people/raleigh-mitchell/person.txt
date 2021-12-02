@@ -1,0 +1,64 @@
+Title: Raleigh Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/christelle-keeling
+- 
+  type: relations/parental/colleague
+  item: people/sunny-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/alexa-beahan-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mrs-rosetta-mraz-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-bridget-tromp
+- 
+  type: relations/money/debtor
+  item: people/francis-borer
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/work/employer
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/employer
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

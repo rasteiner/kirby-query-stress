@@ -1,0 +1,64 @@
+Title: Moses Huel MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-xzavier-crooks-md
+- 
+  type: relations/parental/mom
+  item: people/ollie-romaguera
+- 
+  type: relations/parental/brosis
+  item: people/prof-layne-ratke-v
+- 
+  type: relations/parental/brosis
+  item: people/andre-murphy
+- 
+  type: relations/money/creditor
+  item: people/prof-maci-hyatt-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-alfred-krajcik-sr
+- 
+  type: relations/money/debtor
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/employer
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Erica Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lillian-bailey
+- 
+  type: relations/parental/dad
+  item: people/queenie-klocko
+- 
+  type: relations/money/creditor
+  item: people/jeff-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/romaine-rath
+- 
+  type: relations/parental/colleague
+  item: people/geovany-adams
+- 
+  type: relations/parental/friend
+  item: people/leland-torphy
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

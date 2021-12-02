@@ -1,0 +1,64 @@
+Title: Precious Upton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/maryam-brown
+- 
+  type: relations/parental/brosis
+  item: people/mr-soledad-aufderhar-md
+- 
+  type: relations/parental/colleague
+  item: people/brett-labadie
+- 
+  type: relations/parental/mom
+  item: people/adrianna-schuppe
+- 
+  type: relations/parental/friend
+  item: people/prof-rogelio-hills
+- 
+  type: relations/money/creditor
+  item: people/mabel-balistreri-sr
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/work/client
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

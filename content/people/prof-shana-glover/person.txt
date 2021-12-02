@@ -1,0 +1,64 @@
+Title: Prof. Shana Glover
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/shaina-lockman
+- 
+  type: relations/parental/brosis
+  item: people/claudine-kautzer-dds
+- 
+  type: relations/parental/mom
+  item: people/enos-veum
+- 
+  type: relations/parental/friend
+  item: people/miss-karen-bode-dvm
+- 
+  type: relations/parental/dad
+  item: people/prof-blanche-heller-phd
+- 
+  type: relations/parental/brosis
+  item: people/terrill-carter
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/employer
+  item: companies/moore-llc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/creditor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

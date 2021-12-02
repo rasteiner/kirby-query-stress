@@ -1,0 +1,64 @@
+Title: Garfield Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keenan-abbott
+- 
+  type: relations/money/debtor
+  item: people/miss-yasmine-fisher-md
+- 
+  type: relations/money/debtor
+  item: people/miss-serenity-boyle
+- 
+  type: relations/parental/friend
+  item: people/brandy-white
+- 
+  type: relations/parental/friend
+  item: people/mr-dejuan-erdman
+- 
+  type: relations/parental/brosis
+  item: people/prof-camron-schmeler-iii
+- 
+  type: relations/money/debtor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/work/employer
+  item: companies/russel-skiles
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

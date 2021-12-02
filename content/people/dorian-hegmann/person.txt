@@ -1,0 +1,64 @@
+Title: Dorian Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/frances-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/ismael-rippin
+- 
+  type: relations/parental/friend
+  item: people/jonas-nikolaus
+- 
+  type: relations/parental/colleague
+  item: people/roman-ritchie
+- 
+  type: relations/parental/friend
+  item: people/prof-lina-bahringer-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-raymundo-schmidt
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/work/employer
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Kale Hoppe PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jared-mosciski-jr
+- 
+  type: relations/parental/friend
+  item: people/mr-sydney-marks
+- 
+  type: relations/parental/dad
+  item: people/name-roberts
+- 
+  type: relations/parental/friend
+  item: people/adrienne-hills
+- 
+  type: relations/parental/colleague
+  item: people/ezequiel-ondricka-i
+- 
+  type: relations/parental/mom
+  item: people/jeanie-ritchie
+- 
+  type: relations/work/employer
+  item: companies/rowe-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

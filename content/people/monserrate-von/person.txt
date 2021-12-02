@@ -1,0 +1,64 @@
+Title: Monserrate Von
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-mina-gerhold-iv
+- 
+  type: relations/parental/colleague
+  item: people/carey-fahey
+- 
+  type: relations/parental/friend
+  item: people/evangeline-funk
+- 
+  type: relations/parental/dad
+  item: people/mrs-verna-paucek
+- 
+  type: relations/parental/brosis
+  item: people/jamir-adams
+- 
+  type: relations/parental/friend
+  item: people/ms-hope-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/harvey-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

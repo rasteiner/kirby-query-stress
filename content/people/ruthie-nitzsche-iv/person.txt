@@ -1,0 +1,64 @@
+Title: Ruthie Nitzsche IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-ian-sauer
+- 
+  type: relations/parental/mom
+  item: people/pablo-rogahn
+- 
+  type: relations/parental/friend
+  item: people/noelia-schinner-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-raheem-shields-dvm
+- 
+  type: relations/parental/dad
+  item: people/molly-von
+- 
+  type: relations/parental/colleague
+  item: people/reymundo-kling
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

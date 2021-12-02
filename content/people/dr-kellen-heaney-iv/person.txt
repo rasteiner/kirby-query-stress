@@ -1,0 +1,64 @@
+Title: Dr. Kellen Heaney IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/marie-littel-dvm
+- 
+  type: relations/money/debtor
+  item: people/miss-sarah-reilly
+- 
+  type: relations/parental/friend
+  item: people/miss-albina-rolfson-iv
+- 
+  type: relations/parental/dad
+  item: people/amanda-friesen
+- 
+  type: relations/parental/mom
+  item: people/lempi-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/moses-huel-md
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

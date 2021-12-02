@@ -1,0 +1,64 @@
+Title: Orie Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-antonia-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/miss-aryanna-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/watson-schuster-sr
+- 
+  type: relations/parental/friend
+  item: people/lavinia-hand
+- 
+  type: relations/money/debtor
+  item: people/mr-brayan-beier
+- 
+  type: relations/parental/mom
+  item: people/dr-chester-cronin
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/client
+  item: companies/johnson-windler
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

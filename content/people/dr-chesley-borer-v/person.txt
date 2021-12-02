@@ -1,0 +1,64 @@
+Title: Dr. Chesley Borer V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-russel-erdman
+- 
+  type: relations/parental/mom
+  item: people/mr-joshua-stracke
+- 
+  type: relations/parental/friend
+  item: people/allen-trantow
+- 
+  type: relations/parental/friend
+  item: people/jerod-schmidt
+- 
+  type: relations/parental/mom
+  item: people/jerome-glover
+- 
+  type: relations/parental/mom
+  item: people/jedediah-gleichner
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

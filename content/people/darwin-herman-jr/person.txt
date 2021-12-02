@@ -1,0 +1,64 @@
+Title: Darwin Herman Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/earlene-leffler
+- 
+  type: relations/money/debtor
+  item: people/miss-shana-boyle-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-johnathon-bergnaum
+- 
+  type: relations/money/creditor
+  item: people/mrs-kaylah-stamm-i
+- 
+  type: relations/parental/mom
+  item: people/monica-hane
+- 
+  type: relations/parental/colleague
+  item: people/claudie-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/creditor
+  item: companies/kunze-ltd
+- 
+  type: relations/work/client
+  item: companies/wilkinson-beahan
+- 
+  type: relations/money/creditor
+  item: companies/heaney-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

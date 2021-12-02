@@ -1,0 +1,65 @@
+Title: Rozella Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-nicolette-nicolas-iv
+- 
+  type: relations/parental/dad
+  item: people/reba-weissnat
+- 
+  type: relations/parental/mom
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/parental/colleague
+  item: people/robb-parisian
+- 
+  type: relations/money/debtor
+  item: people/kennith-lebsack
+- 
+  type: relations/money/debtor
+  item: people/leda-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/client
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

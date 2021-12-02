@@ -1,0 +1,64 @@
+Title: Deonte Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/berniece-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/prof-mathew-o-reilly-i
+- 
+  type: relations/parental/brosis
+  item: people/lavon-bayer
+- 
+  type: relations/money/creditor
+  item: people/mafalda-o-connell-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-sabrina-thiel
+- 
+  type: relations/parental/dad
+  item: people/abdullah-mckenzie
+- 
+  type: relations/work/client
+  item: companies/powlowski-inc
+- 
+  type: relations/work/client
+  item: companies/sauer-ltd
+- 
+  type: relations/work/client
+  item: companies/roob-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/haley-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

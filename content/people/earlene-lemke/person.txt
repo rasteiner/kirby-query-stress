@@ -1,0 +1,64 @@
+Title: Earlene Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-frederick-mayert
+- 
+  type: relations/parental/dad
+  item: people/annalise-jenkins-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-albert-cassin
+- 
+  type: relations/parental/colleague
+  item: people/haley-langworth
+- 
+  type: relations/money/debtor
+  item: people/juliana-hane
+- 
+  type: relations/parental/mom
+  item: people/brett-lehner
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/work/client
+  item: companies/stamm-hahn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Deonte Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/koby-kohler
+- 
+  type: relations/parental/colleague
+  item: people/leonie-rodriguez
+- 
+  type: relations/parental/colleague
+  item: people/prof-prince-friesen
+- 
+  type: relations/parental/brosis
+  item: people/abbigail-bernier
+- 
+  type: relations/parental/colleague
+  item: people/dr-clare-beer
+- 
+  type: relations/money/creditor
+  item: people/laurianne-beier
+- 
+  type: relations/money/creditor
+  item: companies/nolan-inc
+- 
+  type: relations/work/client
+  item: companies/sanford-lehner
+- 
+  type: relations/work/client
+  item: companies/kuhlman-plc
+- 
+  type: relations/money/creditor
+  item: companies/flatley-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

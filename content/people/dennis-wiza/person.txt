@@ -1,0 +1,64 @@
+Title: Dennis Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/floyd-heaney
+- 
+  type: relations/money/debtor
+  item: people/freddie-zulauf-jr
+- 
+  type: relations/parental/friend
+  item: people/ewald-jones
+- 
+  type: relations/parental/mom
+  item: people/major-hettinger
+- 
+  type: relations/parental/mom
+  item: people/antonia-stamm
+- 
+  type: relations/parental/mom
+  item: people/giuseppe-tromp
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

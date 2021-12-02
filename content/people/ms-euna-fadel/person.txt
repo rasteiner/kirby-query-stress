@@ -1,0 +1,64 @@
+Title: Ms. Euna Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-caden-herzog
+- 
+  type: relations/parental/dad
+  item: people/torrey-feeney
+- 
+  type: relations/parental/dad
+  item: people/harold-bogan
+- 
+  type: relations/money/creditor
+  item: people/elton-marvin
+- 
+  type: relations/parental/dad
+  item: people/prof-troy-harris-md
+- 
+  type: relations/parental/brosis
+  item: people/janice-witting-iii
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/mann-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

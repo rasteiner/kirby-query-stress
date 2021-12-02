@@ -1,0 +1,64 @@
+Title: Caleigh Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alvis-casper
+- 
+  type: relations/money/debtor
+  item: people/ima-jakubowski
+- 
+  type: relations/parental/friend
+  item: people/edwina-crooks
+- 
+  type: relations/money/debtor
+  item: people/elody-tillman
+- 
+  type: relations/money/debtor
+  item: people/itzel-wiegand
+- 
+  type: relations/parental/dad
+  item: people/tiana-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/employer
+  item: companies/welch-borer
+- 
+  type: relations/work/client
+  item: companies/pollich-ltd
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,65 @@
+Title: Javon Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-maudie-abbott
+- 
+  type: relations/money/debtor
+  item: people/federico-wintheiser
+- 
+  type: relations/money/debtor
+  item: people/cristian-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/ms-ollie-kunde-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-brooks-strosin-sr
+- 
+  type: relations/parental/friend
+  item: people/concepcion-crist
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/client
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/money/debtor
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

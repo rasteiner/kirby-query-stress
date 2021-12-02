@@ -1,0 +1,43 @@
+Title: Mueller, Hayes and Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/money/creditor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/money/creditor
+  item: companies/schmeler-conn
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/south-isabel

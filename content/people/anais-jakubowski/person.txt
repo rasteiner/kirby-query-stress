@@ -1,0 +1,64 @@
+Title: Anais Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/shanny-hudson
+- 
+  type: relations/money/creditor
+  item: people/prof-garret-konopelski-md
+- 
+  type: relations/money/debtor
+  item: people/jason-ward
+- 
+  type: relations/parental/brosis
+  item: people/maryse-schulist-ii
+- 
+  type: relations/parental/colleague
+  item: people/gertrude-kohler
+- 
+  type: relations/parental/friend
+  item: people/vallie-littel
+- 
+  type: relations/money/creditor
+  item: companies/labadie-plc
+- 
+  type: relations/work/employer
+  item: companies/fisher-adams
+- 
+  type: relations/work/client
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

@@ -1,0 +1,64 @@
+Title: Wilhelm Hoeger PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cora-parker
+- 
+  type: relations/money/creditor
+  item: people/garry-sanford
+- 
+  type: relations/parental/mom
+  item: people/linnie-orn-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-madelynn-koepp-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-franz-rohan
+- 
+  type: relations/parental/friend
+  item: people/prof-baylee-hauck-md
+- 
+  type: relations/work/client
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/creditor
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Marie Murazik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/beatrice-daugherty
+- 
+  type: relations/money/creditor
+  item: people/pasquale-lowe
+- 
+  type: relations/parental/colleague
+  item: people/mona-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/quincy-fahey
+- 
+  type: relations/parental/brosis
+  item: people/eudora-torphy
+- 
+  type: relations/parental/dad
+  item: people/helene-bauch
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/creditor
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

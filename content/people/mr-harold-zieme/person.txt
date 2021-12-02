@@ -1,0 +1,64 @@
+Title: Mr. Harold Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-makayla-connelly-dds
+- 
+  type: relations/parental/colleague
+  item: people/camila-blanda-i
+- 
+  type: relations/parental/mom
+  item: people/addie-gleichner
+- 
+  type: relations/parental/colleague
+  item: people/krystel-hamill-dvm
+- 
+  type: relations/parental/mom
+  item: people/maximilian-corkery-md
+- 
+  type: relations/money/debtor
+  item: people/mr-newton-boehm-md
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/work/employer
+  item: companies/abernathy-inc
+- 
+  type: relations/money/creditor
+  item: companies/miller-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

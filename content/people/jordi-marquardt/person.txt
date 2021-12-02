@@ -1,0 +1,64 @@
+Title: Jordi Marquardt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-lillie-schultz-ii
+- 
+  type: relations/parental/colleague
+  item: people/birdie-hudson
+- 
+  type: relations/parental/brosis
+  item: people/melody-lebsack
+- 
+  type: relations/parental/friend
+  item: people/mohammed-pfannerstill
+- 
+  type: relations/parental/colleague
+  item: people/orie-koch
+- 
+  type: relations/parental/dad
+  item: people/amara-haley
+- 
+  type: relations/money/creditor
+  item: companies/thompson-flatley
+- 
+  type: relations/money/creditor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/employer
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

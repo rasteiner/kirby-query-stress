@@ -1,0 +1,65 @@
+Title: Dr. Coty Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-tyrese-bashirian-dvm
+- 
+  type: relations/money/creditor
+  item: people/tate-schulist
+- 
+  type: relations/parental/brosis
+  item: people/gerhard-reilly
+- 
+  type: relations/parental/mom
+  item: people/dr-magali-fisher
+- 
+  type: relations/money/debtor
+  item: people/abagail-dubuque-phd
+- 
+  type: relations/parental/friend
+  item: people/ethan-wintheiser
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/money/debtor
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

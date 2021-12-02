@@ -1,0 +1,64 @@
+Title: Prof. Eudora Rogahn PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-milan-hickle
+- 
+  type: relations/money/creditor
+  item: people/haylie-muller
+- 
+  type: relations/parental/mom
+  item: people/miss-victoria-aufderhar
+- 
+  type: relations/parental/mom
+  item: people/jamie-johnson
+- 
+  type: relations/parental/mom
+  item: people/prof-antonia-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/miss-aryanna-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yost
+- 
+  type: relations/money/creditor
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Craig Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-chanelle-thompson-v
+- 
+  type: relations/money/debtor
+  item: people/dr-nova-toy-dds
+- 
+  type: relations/parental/dad
+  item: people/rodrigo-lockman-iv
+- 
+  type: relations/parental/brosis
+  item: people/obie-o-keefe
+- 
+  type: relations/parental/mom
+  item: people/emmitt-orn
+- 
+  type: relations/parental/dad
+  item: people/ms-catalina-ryan
+- 
+  type: relations/work/employer
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

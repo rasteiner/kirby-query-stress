@@ -1,0 +1,64 @@
+Title: Prof. Rod Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-raymundo-jacobson-v
+- 
+  type: relations/parental/friend
+  item: people/ubaldo-simonis
+- 
+  type: relations/money/creditor
+  item: people/beau-sanford
+- 
+  type: relations/parental/friend
+  item: people/houston-tillman
+- 
+  type: relations/parental/colleague
+  item: people/elmo-cremin
+- 
+  type: relations/parental/colleague
+  item: people/daphnee-toy
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

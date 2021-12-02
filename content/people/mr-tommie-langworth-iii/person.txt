@@ -1,0 +1,64 @@
+Title: Mr. Tommie Langworth III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/claudie-bode
+- 
+  type: relations/parental/brosis
+  item: people/dr-eliza-terry
+- 
+  type: relations/parental/dad
+  item: people/verdie-farrell
+- 
+  type: relations/money/creditor
+  item: people/prof-hazel-flatley-dvm
+- 
+  type: relations/money/creditor
+  item: people/otis-marvin
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lucinda-hoeger
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/work/client
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

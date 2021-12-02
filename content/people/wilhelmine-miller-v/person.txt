@@ -1,0 +1,64 @@
+Title: Wilhelmine Miller V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/patricia-hackett
+- 
+  type: relations/parental/friend
+  item: people/emmanuelle-lehner-iv
+- 
+  type: relations/parental/friend
+  item: people/mattie-rolfson-iii
+- 
+  type: relations/parental/dad
+  item: people/gregoria-rohan
+- 
+  type: relations/parental/friend
+  item: people/janae-dietrich
+- 
+  type: relations/parental/colleague
+  item: people/randal-schowalter
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

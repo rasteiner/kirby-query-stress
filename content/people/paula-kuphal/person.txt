@@ -1,0 +1,64 @@
+Title: Paula Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alanis-mante-sr
+- 
+  type: relations/parental/colleague
+  item: people/adolf-collins
+- 
+  type: relations/parental/dad
+  item: people/carolyne-mitchell-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-jess-dickens-i
+- 
+  type: relations/parental/colleague
+  item: people/billie-kihn
+- 
+  type: relations/parental/mom
+  item: people/otha-fay-dvm
+- 
+  type: relations/money/creditor
+  item: companies/sporer-plc
+- 
+  type: relations/work/client
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/debtor
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

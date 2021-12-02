@@ -1,0 +1,64 @@
+Title: Justen Schoen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/verla-boyer
+- 
+  type: relations/parental/brosis
+  item: people/solon-mante
+- 
+  type: relations/parental/mom
+  item: people/kane-monahan
+- 
+  type: relations/money/debtor
+  item: people/dr-waino-wiza
+- 
+  type: relations/parental/dad
+  item: people/mr-frank-jenkins
+- 
+  type: relations/parental/friend
+  item: people/dr-anibal-ledner
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/client
+  item: companies/schoen-reinger
+- 
+  type: relations/work/client
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

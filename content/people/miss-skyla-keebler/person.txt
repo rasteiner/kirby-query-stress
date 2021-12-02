@@ -1,0 +1,64 @@
+Title: Miss Skyla Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-elmore-feil
+- 
+  type: relations/parental/dad
+  item: people/dr-julius-conroy
+- 
+  type: relations/parental/dad
+  item: people/ross-gleichner-iii
+- 
+  type: relations/parental/mom
+  item: people/torey-mitchell
+- 
+  type: relations/parental/mom
+  item: people/mrs-ottilie-heathcote-md
+- 
+  type: relations/money/debtor
+  item: people/sarina-bartell
+- 
+  type: relations/work/employer
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/work/client
+  item: companies/wiza-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Kiera Konopelski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/judy-borer
+- 
+  type: relations/parental/dad
+  item: people/issac-graham
+- 
+  type: relations/money/creditor
+  item: people/prof-lynn-fritsch-sr
+- 
+  type: relations/parental/brosis
+  item: people/gennaro-moen
+- 
+  type: relations/parental/friend
+  item: people/hyman-haley
+- 
+  type: relations/parental/mom
+  item: people/clifford-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/hudson-group
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

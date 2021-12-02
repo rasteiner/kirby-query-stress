@@ -1,0 +1,64 @@
+Title: Kenya Keeling III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/sidney-lynch-iv
+- 
+  type: relations/parental/brosis
+  item: people/ezra-hilpert
+- 
+  type: relations/parental/dad
+  item: people/carmine-hirthe
+- 
+  type: relations/money/debtor
+  item: people/antonina-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/erika-swift-ii
+- 
+  type: relations/money/debtor
+  item: people/garry-heller-sr
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

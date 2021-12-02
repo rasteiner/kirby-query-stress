@@ -1,0 +1,64 @@
+Title: Hallie Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cleta-murazik
+- 
+  type: relations/parental/mom
+  item: people/prof-sabina-blanda-v
+- 
+  type: relations/money/debtor
+  item: people/chloe-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/prof-americo-lind-jr
+- 
+  type: relations/parental/colleague
+  item: people/alberto-stamm
+- 
+  type: relations/parental/colleague
+  item: people/christine-frami
+- 
+  type: relations/money/creditor
+  item: companies/blanda-ltd
+- 
+  type: relations/work/employer
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

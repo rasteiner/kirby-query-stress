@@ -1,0 +1,64 @@
+Title: Myrtie Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-hayley-wisoky
+- 
+  type: relations/parental/friend
+  item: people/caleigh-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/cleta-murazik
+- 
+  type: relations/parental/colleague
+  item: people/prof-sabina-blanda-v
+- 
+  type: relations/parental/mom
+  item: people/chloe-daugherty
+- 
+  type: relations/parental/dad
+  item: people/prof-americo-lind-jr
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/money/creditor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

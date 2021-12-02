@@ -1,0 +1,64 @@
+Title: Dr. Cullen Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/clarissa-batz
+- 
+  type: relations/parental/friend
+  item: people/mrs-shaylee-kunde
+- 
+  type: relations/parental/colleague
+  item: people/zackary-bayer
+- 
+  type: relations/parental/colleague
+  item: people/tyshawn-turcotte
+- 
+  type: relations/money/debtor
+  item: people/jerrell-hane
+- 
+  type: relations/money/debtor
+  item: people/kenny-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/client
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

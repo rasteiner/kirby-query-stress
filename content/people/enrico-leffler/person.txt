@@ -1,0 +1,64 @@
+Title: Enrico Leffler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eduardo-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/prof-deion-torp
+- 
+  type: relations/money/creditor
+  item: people/lue-metz
+- 
+  type: relations/parental/friend
+  item: people/maiya-leannon
+- 
+  type: relations/parental/brosis
+  item: people/noelia-wehner-sr
+- 
+  type: relations/money/debtor
+  item: people/louisa-homenick
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

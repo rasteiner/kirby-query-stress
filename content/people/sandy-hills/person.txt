@@ -1,0 +1,64 @@
+Title: Sandy Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/linda-waelchi
+- 
+  type: relations/money/creditor
+  item: people/prof-emmet-hermann
+- 
+  type: relations/money/debtor
+  item: people/marvin-williamson
+- 
+  type: relations/money/creditor
+  item: people/earl-halvorson
+- 
+  type: relations/parental/friend
+  item: people/viva-welch
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lizeth-marvin
+- 
+  type: relations/work/employer
+  item: companies/doyle-ltd
+- 
+  type: relations/work/client
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

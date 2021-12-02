@@ -1,0 +1,64 @@
+Title: Sienna Considine
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/brosis
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/parental/friend
+  item: people/christine-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/guillermo-koss-iii
+- 
+  type: relations/parental/dad
+  item: people/marilie-lakin
+- 
+  type: relations/parental/dad
+  item: people/olen-armstrong
+- 
+  type: relations/work/employer
+  item: companies/kuhn-renner
+- 
+  type: relations/money/creditor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/work/client
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

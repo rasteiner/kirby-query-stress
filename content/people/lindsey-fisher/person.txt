@@ -1,0 +1,64 @@
+Title: Lindsey Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-rosemary-kling
+- 
+  type: relations/parental/friend
+  item: people/miss-nelle-olson-dvm
+- 
+  type: relations/parental/colleague
+  item: people/miss-minerva-hammes-iv
+- 
+  type: relations/parental/colleague
+  item: people/rhoda-bins
+- 
+  type: relations/parental/brosis
+  item: people/ora-lemke
+- 
+  type: relations/parental/dad
+  item: people/mr-camron-schumm-dvm
+- 
+  type: relations/work/employer
+  item: companies/mertz-ltd
+- 
+  type: relations/work/client
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/money/creditor
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

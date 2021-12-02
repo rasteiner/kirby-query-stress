@@ -1,0 +1,64 @@
+Title: Carmella Stracke MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-jalen-blanda
+- 
+  type: relations/parental/dad
+  item: people/pearl-robel
+- 
+  type: relations/parental/dad
+  item: people/keon-runte
+- 
+  type: relations/parental/brosis
+  item: people/rosalind-wyman-phd
+- 
+  type: relations/parental/mom
+  item: people/aubrey-lemke
+- 
+  type: relations/parental/mom
+  item: people/luella-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/client
+  item: companies/kovacek-llc
+- 
+  type: relations/work/client
+  item: companies/bayer-group
+- 
+  type: relations/money/creditor
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

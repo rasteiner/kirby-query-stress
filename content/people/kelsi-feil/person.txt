@@ -1,0 +1,64 @@
+Title: Kelsi Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/andres-goyette
+- 
+  type: relations/parental/mom
+  item: people/prof-jared-beier
+- 
+  type: relations/parental/brosis
+  item: people/keeley-schimmel
+- 
+  type: relations/parental/colleague
+  item: people/cornelius-watsica-sr
+- 
+  type: relations/money/creditor
+  item: people/kristina-pagac
+- 
+  type: relations/money/debtor
+  item: people/ken-d-amore
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/client
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

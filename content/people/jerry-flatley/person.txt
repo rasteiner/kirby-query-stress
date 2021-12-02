@@ -1,0 +1,64 @@
+Title: Jerry Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-darby-collins
+- 
+  type: relations/parental/mom
+  item: people/davon-huels
+- 
+  type: relations/parental/colleague
+  item: people/darlene-blick
+- 
+  type: relations/parental/colleague
+  item: people/deborah-crooks
+- 
+  type: relations/parental/mom
+  item: people/dr-jamison-okuneva
+- 
+  type: relations/parental/dad
+  item: people/antonietta-koss
+- 
+  type: relations/work/client
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

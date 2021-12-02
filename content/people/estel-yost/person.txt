@@ -1,0 +1,64 @@
+Title: Estel Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/florence-conn
+- 
+  type: relations/parental/brosis
+  item: people/dr-kassandra-block-md
+- 
+  type: relations/money/creditor
+  item: people/carissa-barton-dvm
+- 
+  type: relations/parental/mom
+  item: people/mathias-beier
+- 
+  type: relations/money/creditor
+  item: people/mona-durgan
+- 
+  type: relations/money/creditor
+  item: people/prof-juwan-jenkins
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/money/creditor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/work/client
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

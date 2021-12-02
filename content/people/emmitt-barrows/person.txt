@@ -1,0 +1,64 @@
+Title: Emmitt Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/augustus-kris-jr
+- 
+  type: relations/parental/friend
+  item: people/mr-diamond-ward
+- 
+  type: relations/parental/mom
+  item: people/chaya-haley
+- 
+  type: relations/parental/dad
+  item: people/mr-carey-goodwin
+- 
+  type: relations/parental/brosis
+  item: people/bernhard-doyle
+- 
+  type: relations/parental/mom
+  item: people/kara-schimmel
+- 
+  type: relations/work/client
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

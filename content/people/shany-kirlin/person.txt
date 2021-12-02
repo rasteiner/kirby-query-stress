@@ -1,0 +1,64 @@
+Title: Shany Kirlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/makayla-hartmann
+- 
+  type: relations/money/debtor
+  item: people/delfina-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/mary-kovacek
+- 
+  type: relations/money/creditor
+  item: people/vance-wilkinson
+- 
+  type: relations/money/debtor
+  item: people/dr-laverne-bartell
+- 
+  type: relations/parental/mom
+  item: people/guadalupe-bradtke-i
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

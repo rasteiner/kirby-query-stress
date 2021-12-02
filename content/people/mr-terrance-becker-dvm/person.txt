@@ -1,0 +1,64 @@
+Title: Mr. Terrance Becker DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/glennie-zieme
+- 
+  type: relations/money/creditor
+  item: people/ibrahim-schamberger
+- 
+  type: relations/money/creditor
+  item: people/prof-leann-stehr
+- 
+  type: relations/parental/friend
+  item: people/dr-brisa-kerluke-dvm
+- 
+  type: relations/parental/colleague
+  item: people/connor-franecki
+- 
+  type: relations/parental/mom
+  item: people/brando-brakus
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

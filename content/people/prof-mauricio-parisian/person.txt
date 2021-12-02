@@ -1,0 +1,64 @@
+Title: Prof. Mauricio Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eudora-rutherford
+- 
+  type: relations/parental/colleague
+  item: people/ottis-murray
+- 
+  type: relations/parental/friend
+  item: people/linnie-moore
+- 
+  type: relations/parental/colleague
+  item: people/pat-abernathy
+- 
+  type: relations/parental/mom
+  item: people/linda-waelchi
+- 
+  type: relations/parental/friend
+  item: people/prof-emmet-hermann
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/employer
+  item: companies/moore-llc
+- 
+  type: relations/work/employer
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/creditor
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

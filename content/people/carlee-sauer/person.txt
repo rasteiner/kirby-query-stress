@@ -1,0 +1,64 @@
+Title: Carlee Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/veronica-johnson
+- 
+  type: relations/parental/dad
+  item: people/justine-hahn-jr
+- 
+  type: relations/parental/friend
+  item: people/braxton-runolfsson-iv
+- 
+  type: relations/parental/dad
+  item: people/benedict-hamill
+- 
+  type: relations/parental/colleague
+  item: people/verona-mayert
+- 
+  type: relations/money/debtor
+  item: people/kaleb-daugherty
+- 
+  type: relations/work/employer
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/client
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/employer
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

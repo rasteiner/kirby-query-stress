@@ -1,0 +1,64 @@
+Title: Thurman Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/parental/brosis
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/parental/mom
+  item: people/joesph-adams
+- 
+  type: relations/parental/dad
+  item: people/emmie-mann
+- 
+  type: relations/parental/brosis
+  item: people/mr-jakob-wunsch
+- 
+  type: relations/money/debtor
+  item: people/katarina-rempel
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/employer
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

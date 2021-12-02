@@ -1,0 +1,43 @@
+Title: Greenholt-Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview

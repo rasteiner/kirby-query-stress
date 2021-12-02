@@ -1,0 +1,64 @@
+Title: Matilda Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-ashlynn-heidenreich-dvm
+- 
+  type: relations/parental/brosis
+  item: people/tessie-frami
+- 
+  type: relations/parental/brosis
+  item: people/dr-connie-becker-phd
+- 
+  type: relations/parental/brosis
+  item: people/ms-hellen-bogisich-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-maria-metz-jr
+- 
+  type: relations/parental/dad
+  item: people/meagan-hilpert
+- 
+  type: relations/work/employer
+  item: companies/huels-walter
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

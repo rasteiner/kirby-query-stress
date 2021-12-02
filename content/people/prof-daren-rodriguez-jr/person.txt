@@ -1,0 +1,65 @@
+Title: Prof. Daren Rodriguez Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-juliana-leffler-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-guido-okuneva
+- 
+  type: relations/money/debtor
+  item: people/florence-rath
+- 
+  type: relations/money/debtor
+  item: people/barney-kunde
+- 
+  type: relations/parental/brosis
+  item: people/emelia-raynor
+- 
+  type: relations/money/creditor
+  item: people/anne-price
+- 
+  type: relations/money/debtor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/money/creditor
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

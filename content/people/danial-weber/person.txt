@@ -1,0 +1,64 @@
+Title: Danial Weber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/martine-pouros-i
+- 
+  type: relations/parental/colleague
+  item: people/hilda-auer-jr
+- 
+  type: relations/parental/friend
+  item: people/ella-wolff
+- 
+  type: relations/money/debtor
+  item: people/ms-cierra-lindgren
+- 
+  type: relations/parental/mom
+  item: people/dr-mario-mosciski-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-gonzalo-parker-v
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/employer
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

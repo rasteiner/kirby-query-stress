@@ -1,0 +1,64 @@
+Title: Eileen Terry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shakira-robel
+- 
+  type: relations/money/creditor
+  item: people/stacey-dach-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-katherine-kerluke
+- 
+  type: relations/money/debtor
+  item: people/margret-schoen
+- 
+  type: relations/parental/colleague
+  item: people/miss-cassie-tillman-dvm
+- 
+  type: relations/parental/brosis
+  item: people/guido-graham
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/work/employer
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

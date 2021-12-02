@@ -1,0 +1,64 @@
+Title: Isaias Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-gerson-thiel
+- 
+  type: relations/parental/colleague
+  item: people/frieda-breitenberg-i
+- 
+  type: relations/parental/brosis
+  item: people/adah-weber-jr
+- 
+  type: relations/parental/brosis
+  item: people/floyd-grady
+- 
+  type: relations/parental/colleague
+  item: people/rubie-russel
+- 
+  type: relations/money/debtor
+  item: people/dr-laurel-greenholt-md
+- 
+  type: relations/work/employer
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/work/client
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

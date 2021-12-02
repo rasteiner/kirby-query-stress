@@ -1,0 +1,43 @@
+Title: Rath, Franecki and Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/money/creditor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/johnson-windler
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-group
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough

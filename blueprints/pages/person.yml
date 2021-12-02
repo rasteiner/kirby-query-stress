@@ -1,0 +1,15 @@
+title: Person
+fields:
+  relations:
+    type: structure
+    fields:
+      type:
+        type: select
+        options: query
+        query: >
+          site.find('relations').children.filterBy('allows_from', 'person', ',').children
+      item:
+        type: select
+        options: query
+        query: >
+          site.children.template('entity').filterBy('allows_from', 'person', ',').children

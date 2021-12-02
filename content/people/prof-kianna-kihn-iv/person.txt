@@ -1,0 +1,64 @@
+Title: Prof. Kianna Kihn IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anahi-roberts
+- 
+  type: relations/parental/dad
+  item: people/wyatt-olson
+- 
+  type: relations/parental/colleague
+  item: people/johnson-kub
+- 
+  type: relations/parental/brosis
+  item: people/lou-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/forrest-friesen
+- 
+  type: relations/parental/brosis
+  item: people/ephraim-langworth
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/lehner-sipes
+- 
+  type: relations/work/client
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/client
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

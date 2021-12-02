@@ -1,0 +1,64 @@
+Title: Dasia McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elaina-williamson
+- 
+  type: relations/money/creditor
+  item: people/cruz-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/rozella-morar
+- 
+  type: relations/parental/dad
+  item: people/rosalyn-hagenes
+- 
+  type: relations/parental/friend
+  item: people/riley-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/larry-stanton
+- 
+  type: relations/work/employer
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/client
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/client
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

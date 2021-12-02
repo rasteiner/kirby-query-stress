@@ -1,0 +1,64 @@
+Title: Everette Pfeffer V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/maggie-thiel-iii
+- 
+  type: relations/money/creditor
+  item: people/ms-katarina-toy
+- 
+  type: relations/parental/mom
+  item: people/lindsey-fisher
+- 
+  type: relations/parental/brosis
+  item: people/okey-corwin
+- 
+  type: relations/money/creditor
+  item: people/maegan-mayer
+- 
+  type: relations/parental/colleague
+  item: people/sadie-little
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/work/client
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/client
+  item: companies/cremin-durgan
+- 
+  type: relations/money/debtor
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

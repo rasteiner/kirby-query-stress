@@ -1,0 +1,64 @@
+Title: Pauline Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-ernestine-schaden
+- 
+  type: relations/money/debtor
+  item: people/gabrielle-reichert
+- 
+  type: relations/parental/friend
+  item: people/sheridan-lesch
+- 
+  type: relations/money/debtor
+  item: people/clinton-lehner
+- 
+  type: relations/parental/mom
+  item: people/howell-sawayn
+- 
+  type: relations/parental/colleague
+  item: people/enid-blick
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/money/creditor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Catherine Berge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carolyne-hilll
+- 
+  type: relations/parental/brosis
+  item: people/emile-streich
+- 
+  type: relations/parental/mom
+  item: people/prof-magali-kassulke-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-lilyan-roberts
+- 
+  type: relations/parental/friend
+  item: people/ryann-o-reilly
+- 
+  type: relations/parental/colleague
+  item: people/ms-estelle-lebsack-iii
+- 
+  type: relations/work/employer
+  item: companies/beier-kub
+- 
+  type: relations/money/creditor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

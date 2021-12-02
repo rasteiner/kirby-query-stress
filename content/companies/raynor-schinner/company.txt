@@ -1,0 +1,43 @@
+Title: Raynor-Schinner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-fay
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/grady-group
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/hettingermouth

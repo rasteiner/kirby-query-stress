@@ -1,0 +1,64 @@
+Title: Dr. Heath Swaniawski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-rosalinda-bergstrom-dvm
+- 
+  type: relations/parental/brosis
+  item: people/mrs-amara-langosh-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-heaven-moore-iv
+- 
+  type: relations/money/debtor
+  item: people/mrs-marielle-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/conrad-herzog
+- 
+  type: relations/money/creditor
+  item: people/miss-madilyn-batz
+- 
+  type: relations/work/client
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/work/employer
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

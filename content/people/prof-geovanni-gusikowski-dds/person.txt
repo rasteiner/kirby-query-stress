@@ -1,0 +1,64 @@
+Title: Prof. Geovanni Gusikowski DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/madaline-o-kon
+- 
+  type: relations/parental/mom
+  item: people/amira-hintz
+- 
+  type: relations/money/creditor
+  item: people/ellen-schinner-ii
+- 
+  type: relations/money/debtor
+  item: people/dorian-haley-jr
+- 
+  type: relations/parental/mom
+  item: people/ms-mariane-abbott
+- 
+  type: relations/parental/brosis
+  item: people/lisandro-hirthe
+- 
+  type: relations/work/employer
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/creditor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/creditor
+  item: companies/ratke-fay
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

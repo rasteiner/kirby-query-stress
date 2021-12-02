@@ -1,0 +1,64 @@
+Title: Nicholaus Kuvalis DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bill-gibson-dds
+- 
+  type: relations/parental/mom
+  item: people/adrienne-renner
+- 
+  type: relations/parental/friend
+  item: people/miss-mikayla-bayer-iv
+- 
+  type: relations/parental/mom
+  item: people/serenity-prohaska
+- 
+  type: relations/parental/dad
+  item: people/carissa-cummings
+- 
+  type: relations/parental/friend
+  item: people/paris-hills
+- 
+  type: relations/work/employer
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/work/client
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/client
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

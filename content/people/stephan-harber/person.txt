@@ -1,0 +1,65 @@
+Title: Stephan Harber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ayden-bogisich-md
+- 
+  type: relations/money/debtor
+  item: people/dr-lauretta-beatty
+- 
+  type: relations/parental/brosis
+  item: people/priscilla-pfeffer-v
+- 
+  type: relations/parental/dad
+  item: people/dr-ted-durgan-phd
+- 
+  type: relations/parental/mom
+  item: people/jaida-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/deonte-hermiston-iii
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

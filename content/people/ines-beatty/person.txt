@@ -1,0 +1,65 @@
+Title: Ines Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-carrie-rogahn
+- 
+  type: relations/parental/dad
+  item: people/josefa-sawayn
+- 
+  type: relations/money/debtor
+  item: people/mattie-ledner
+- 
+  type: relations/parental/brosis
+  item: people/lauretta-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/johanna-mayert
+- 
+  type: relations/money/debtor
+  item: people/deontae-macejkovic
+- 
+  type: relations/work/employer
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/client
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/client
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

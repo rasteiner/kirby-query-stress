@@ -1,0 +1,43 @@
+Title: Daugherty-Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-veum
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/kaylastad

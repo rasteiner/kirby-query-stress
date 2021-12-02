@@ -1,0 +1,65 @@
+Title: Shanny Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-fidel-walsh-i
+- 
+  type: relations/parental/mom
+  item: people/prof-cecilia-jast-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-sarah-vandervort
+- 
+  type: relations/parental/dad
+  item: people/baron-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/ms-ardella-osinski-sr
+- 
+  type: relations/money/creditor
+  item: people/leonor-ortiz
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/employer
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

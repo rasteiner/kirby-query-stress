@@ -1,0 +1,64 @@
+Title: Winfield Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kari-bruen
+- 
+  type: relations/parental/brosis
+  item: people/kyla-boyle
+- 
+  type: relations/parental/mom
+  item: people/sean-kovacek
+- 
+  type: relations/parental/mom
+  item: people/chris-tromp
+- 
+  type: relations/parental/mom
+  item: people/raven-ratke
+- 
+  type: relations/money/creditor
+  item: people/prof-weston-stiedemann-dvm
+- 
+  type: relations/work/client
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/debtor
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

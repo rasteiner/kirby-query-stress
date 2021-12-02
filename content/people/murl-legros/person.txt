@@ -1,0 +1,64 @@
+Title: Murl Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-quinton-hand
+- 
+  type: relations/parental/friend
+  item: people/cary-huel-i
+- 
+  type: relations/parental/colleague
+  item: people/lauren-zboncak-sr
+- 
+  type: relations/money/debtor
+  item: people/mr-drake-schumm
+- 
+  type: relations/parental/dad
+  item: people/america-cummerata
+- 
+  type: relations/parental/mom
+  item: people/jaycee-lang-phd
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/money/creditor
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

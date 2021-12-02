@@ -1,0 +1,64 @@
+Title: Xander King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/martine-pouros
+- 
+  type: relations/parental/colleague
+  item: people/prof-arno-wintheiser-jr
+- 
+  type: relations/parental/brosis
+  item: people/kristoffer-jast-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-nedra-lind-ii
+- 
+  type: relations/parental/friend
+  item: people/lenna-franecki
+- 
+  type: relations/parental/colleague
+  item: people/mrs-pattie-mills-dvm
+- 
+  type: relations/work/client
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/debtor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Travis Abbott II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/unique-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/prof-rocky-towne
+- 
+  type: relations/parental/brosis
+  item: people/bo-gleason
+- 
+  type: relations/parental/brosis
+  item: people/ara-okuneva
+- 
+  type: relations/money/debtor
+  item: people/eloy-schmidt
+- 
+  type: relations/parental/brosis
+  item: people/jessyca-farrell
+- 
+  type: relations/work/employer
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/debtor
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

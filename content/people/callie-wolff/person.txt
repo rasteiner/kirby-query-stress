@@ -1,0 +1,66 @@
+Title: Callie Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/raymundo-will
+- 
+  type: relations/parental/colleague
+  item: people/bartholome-torphy
+- 
+  type: relations/money/creditor
+  item: people/kenna-mitchell
+- 
+  type: relations/parental/mom
+  item: people/tiffany-pacocha
+- 
+  type: relations/parental/brosis
+  item: people/dr-lindsay-abshire
+- 
+  type: relations/parental/colleague
+  item: people/eric-abshire
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

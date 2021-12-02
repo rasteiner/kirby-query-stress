@@ -1,0 +1,65 @@
+Title: Nora Marks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dessie-streich-i
+- 
+  type: relations/parental/dad
+  item: people/jayson-corkery
+- 
+  type: relations/parental/dad
+  item: people/hailee-zieme
+- 
+  type: relations/parental/brosis
+  item: people/nina-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/claire-jacobs
+- 
+  type: relations/money/creditor
+  item: people/allie-parisian
+- 
+  type: relations/work/employer
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/employer
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

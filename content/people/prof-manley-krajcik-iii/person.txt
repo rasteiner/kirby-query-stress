@@ -1,0 +1,66 @@
+Title: Prof. Manley Krajcik III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/buster-hartmann-i
+- 
+  type: relations/parental/mom
+  item: people/dr-frances-o-connell
+- 
+  type: relations/parental/dad
+  item: people/jeffery-welch-iv
+- 
+  type: relations/parental/dad
+  item: people/viviane-macejkovic
+- 
+  type: relations/parental/colleague
+  item: people/consuelo-o-connell
+- 
+  type: relations/parental/brosis
+  item: people/dr-reba-dicki-jr
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

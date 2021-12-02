@@ -1,0 +1,64 @@
+Title: Marilou Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/talia-koch-iii
+- 
+  type: relations/money/creditor
+  item: people/macy-dooley
+- 
+  type: relations/parental/friend
+  item: people/jerrell-hackett
+- 
+  type: relations/money/creditor
+  item: people/adolph-goyette
+- 
+  type: relations/parental/brosis
+  item: people/dr-marcus-gerlach-i
+- 
+  type: relations/parental/colleague
+  item: people/michel-sanford-ii
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/client
+  item: companies/beahan-sauer
+- 
+  type: relations/work/client
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

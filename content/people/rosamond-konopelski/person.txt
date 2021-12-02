@@ -1,0 +1,65 @@
+Title: Rosamond Konopelski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jacinthe-maggio
+- 
+  type: relations/parental/colleague
+  item: people/prof-jace-bashirian-sr
+- 
+  type: relations/parental/colleague
+  item: people/ron-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/melody-cummerata-dvm
+- 
+  type: relations/parental/colleague
+  item: people/imelda-bernhard
+- 
+  type: relations/parental/friend
+  item: people/erik-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

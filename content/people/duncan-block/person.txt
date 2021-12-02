@@ -1,0 +1,64 @@
+Title: Duncan Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-blanche-heller-phd
+- 
+  type: relations/parental/colleague
+  item: people/terrill-carter
+- 
+  type: relations/money/debtor
+  item: people/shanie-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/prof-bennie-bogan
+- 
+  type: relations/money/creditor
+  item: people/ronaldo-bradtke
+- 
+  type: relations/money/debtor
+  item: people/maximus-jones
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

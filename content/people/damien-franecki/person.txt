@@ -1,0 +1,66 @@
+Title: Damien Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/chaya-haley
+- 
+  type: relations/parental/dad
+  item: people/mr-carey-goodwin
+- 
+  type: relations/parental/friend
+  item: people/bernhard-doyle
+- 
+  type: relations/parental/friend
+  item: people/kara-schimmel
+- 
+  type: relations/parental/brosis
+  item: people/mr-jonas-harvey-iv
+- 
+  type: relations/parental/friend
+  item: people/dr-max-greenholt
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

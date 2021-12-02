@@ -1,0 +1,43 @@
+Title: Schneider-Durgan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/abdielmouth

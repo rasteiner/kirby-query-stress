@@ -1,0 +1,43 @@
+Title: Romaguera Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-grimes
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/east-dexter

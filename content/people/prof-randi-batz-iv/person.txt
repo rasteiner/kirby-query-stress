@@ -1,0 +1,64 @@
+Title: Prof. Randi Batz IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/donato-brown
+- 
+  type: relations/parental/brosis
+  item: people/dr-jammie-wiegand
+- 
+  type: relations/money/creditor
+  item: people/kailee-hermann
+- 
+  type: relations/money/creditor
+  item: people/jaycee-schroeder
+- 
+  type: relations/parental/mom
+  item: people/josue-berge-iii
+- 
+  type: relations/parental/colleague
+  item: people/rosalia-braun
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/client
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/client
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

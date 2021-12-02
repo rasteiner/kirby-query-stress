@@ -1,0 +1,64 @@
+Title: Miss Alayna Kiehn IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ted-powlowski-iii
+- 
+  type: relations/parental/dad
+  item: people/prof-myra-friesen-dvm
+- 
+  type: relations/parental/dad
+  item: people/jay-nader
+- 
+  type: relations/parental/colleague
+  item: people/ms-cristal-gaylord-i
+- 
+  type: relations/parental/mom
+  item: people/miss-sarina-schiller
+- 
+  type: relations/money/debtor
+  item: people/melba-goldner
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

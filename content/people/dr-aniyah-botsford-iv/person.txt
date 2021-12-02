@@ -1,0 +1,64 @@
+Title: Dr. Aniyah Botsford IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sherwood-ruecker
+- 
+  type: relations/parental/dad
+  item: people/francesca-kohler
+- 
+  type: relations/parental/colleague
+  item: people/jaden-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/zoila-dach-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-mia-wuckert
+- 
+  type: relations/parental/friend
+  item: people/princess-abernathy
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/employer
+  item: companies/swaniawski-group
+- 
+  type: relations/work/employer
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

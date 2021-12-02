@@ -1,0 +1,43 @@
+Title: Bashirian, Weissnat and Langworth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/money/debtor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort

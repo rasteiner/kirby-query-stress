@@ -1,0 +1,43 @@
+Title: Brown, Pfeffer and Kirlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/reecemouth

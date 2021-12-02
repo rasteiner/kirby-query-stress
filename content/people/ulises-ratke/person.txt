@@ -1,0 +1,64 @@
+Title: Ulises Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-leora-abernathy-dds
+- 
+  type: relations/parental/friend
+  item: people/madelyn-cruickshank-v
+- 
+  type: relations/parental/brosis
+  item: people/earlene-leffler
+- 
+  type: relations/money/debtor
+  item: people/miss-shana-boyle-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-johnathon-bergnaum
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kaylah-stamm-i
+- 
+  type: relations/money/debtor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/work/client
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/employer
+  item: companies/cremin-durgan
+- 
+  type: relations/work/employer
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

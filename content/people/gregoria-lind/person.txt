@@ -1,0 +1,64 @@
+Title: Gregoria Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/guadalupe-yost-iv
+- 
+  type: relations/money/debtor
+  item: people/tania-wunsch-iii
+- 
+  type: relations/parental/brosis
+  item: people/yasmin-cremin-ii
+- 
+  type: relations/parental/mom
+  item: people/moshe-hoppe
+- 
+  type: relations/parental/mom
+  item: people/joe-beahan
+- 
+  type: relations/money/debtor
+  item: people/jerad-schroeder
+- 
+  type: relations/work/employer
+  item: companies/sporer-will
+- 
+  type: relations/work/employer
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

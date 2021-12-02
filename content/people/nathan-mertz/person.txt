@@ -1,0 +1,64 @@
+Title: Nathan Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mireille-schumm
+- 
+  type: relations/money/creditor
+  item: people/miss-carole-zboncak-v
+- 
+  type: relations/parental/friend
+  item: people/mr-kyler-macejkovic-dvm
+- 
+  type: relations/parental/brosis
+  item: people/earlene-lemke
+- 
+  type: relations/money/debtor
+  item: people/ashly-cummings
+- 
+  type: relations/parental/friend
+  item: people/heloise-kulas
+- 
+  type: relations/work/client
+  item: companies/strosin-ltd
+- 
+  type: relations/work/client
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/employer
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

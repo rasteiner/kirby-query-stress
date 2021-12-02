@@ -1,0 +1,64 @@
+Title: Coy Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clint-dubuque
+- 
+  type: relations/money/debtor
+  item: people/nora-marks
+- 
+  type: relations/parental/brosis
+  item: people/keaton-lang
+- 
+  type: relations/parental/mom
+  item: people/ms-lia-armstrong-phd
+- 
+  type: relations/parental/friend
+  item: people/mrs-tyra-reinger-sr
+- 
+  type: relations/parental/brosis
+  item: people/ali-morar
+- 
+  type: relations/work/client
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

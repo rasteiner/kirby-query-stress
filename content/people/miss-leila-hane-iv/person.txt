@@ -1,0 +1,64 @@
+Title: Miss Leila Hane IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-gabrielle-weber-ii
+- 
+  type: relations/parental/friend
+  item: people/rose-bednar
+- 
+  type: relations/parental/brosis
+  item: people/prof-eileen-dibbert
+- 
+  type: relations/parental/dad
+  item: people/rudolph-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/dr-nadia-dubuque-phd
+- 
+  type: relations/money/debtor
+  item: people/dennis-wiza
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/client
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

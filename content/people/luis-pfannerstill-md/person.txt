@@ -1,0 +1,64 @@
+Title: Luis Pfannerstill MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/esmeralda-graham
+- 
+  type: relations/parental/brosis
+  item: people/john-kautzer
+- 
+  type: relations/parental/friend
+  item: people/mr-ole-durgan-iii
+- 
+  type: relations/parental/mom
+  item: people/freida-corkery-phd
+- 
+  type: relations/money/debtor
+  item: people/karina-shields
+- 
+  type: relations/money/debtor
+  item: people/walker-wiza
+- 
+  type: relations/work/client
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/client
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

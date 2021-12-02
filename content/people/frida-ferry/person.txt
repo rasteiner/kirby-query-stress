@@ -1,0 +1,64 @@
+Title: Frida Ferry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-samantha-collins-jr
+- 
+  type: relations/parental/friend
+  item: people/prof-amanda-adams-md
+- 
+  type: relations/parental/friend
+  item: people/andres-goyette
+- 
+  type: relations/parental/friend
+  item: people/prof-jared-beier
+- 
+  type: relations/parental/dad
+  item: people/keeley-schimmel
+- 
+  type: relations/parental/mom
+  item: people/cornelius-watsica-sr
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

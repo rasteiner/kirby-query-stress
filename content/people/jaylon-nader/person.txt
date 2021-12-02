@@ -1,0 +1,64 @@
+Title: Jaylon Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/justyn-schumm
+- 
+  type: relations/money/creditor
+  item: people/santina-rogahn
+- 
+  type: relations/parental/mom
+  item: people/madilyn-dare-jr
+- 
+  type: relations/parental/colleague
+  item: people/sydnee-stehr
+- 
+  type: relations/money/creditor
+  item: people/ruby-berge
+- 
+  type: relations/parental/brosis
+  item: people/elenor-gleichner
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/work/client
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,43 @@
+Title: Ullrich, Funk and O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/nolan-inc
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/new-freddy

@@ -1,0 +1,64 @@
+Title: Lydia Lehner MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ova-stracke
+- 
+  type: relations/parental/dad
+  item: people/barton-grant-jr
+- 
+  type: relations/parental/friend
+  item: people/anastacio-eichmann
+- 
+  type: relations/parental/friend
+  item: people/vita-runolfsson
+- 
+  type: relations/parental/friend
+  item: people/mr-tod-hane
+- 
+  type: relations/parental/brosis
+  item: people/benedict-kerluke
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-group
+- 
+  type: relations/work/employer
+  item: companies/windler-plc
+- 
+  type: relations/work/employer
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,44 @@
+Title: Kuhic PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/koch-ltd
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/south-michaleport

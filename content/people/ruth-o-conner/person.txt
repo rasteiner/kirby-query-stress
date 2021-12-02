@@ -1,0 +1,64 @@
+Title: Ruth O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/andres-fay
+- 
+  type: relations/parental/brosis
+  item: people/imogene-feest
+- 
+  type: relations/parental/mom
+  item: people/cathrine-morar
+- 
+  type: relations/parental/friend
+  item: people/golden-hirthe
+- 
+  type: relations/parental/mom
+  item: people/prof-genevieve-braun
+- 
+  type: relations/parental/colleague
+  item: people/luna-o-conner-ii
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/employer
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/debtor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

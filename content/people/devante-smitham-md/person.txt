@@ -1,0 +1,64 @@
+Title: Devante Smitham MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-maynard-cummerata
+- 
+  type: relations/parental/friend
+  item: people/natalie-bailey
+- 
+  type: relations/parental/mom
+  item: people/isabel-strosin
+- 
+  type: relations/money/debtor
+  item: people/frieda-o-connell-dvm
+- 
+  type: relations/money/debtor
+  item: people/jazmyne-davis
+- 
+  type: relations/parental/dad
+  item: people/sydnie-wolff
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/collins-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/nader-and-sons
+- 
+  type: relations/work/client
+  item: companies/zulauf-group
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,65 @@
+Title: Marjorie Kris II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-hope-larson-iii
+- 
+  type: relations/parental/colleague
+  item: people/pearlie-sauer
+- 
+  type: relations/money/creditor
+  item: people/danika-lowe-jr
+- 
+  type: relations/money/creditor
+  item: people/erica-yundt
+- 
+  type: relations/parental/colleague
+  item: people/ms-celine-lueilwitz-dds
+- 
+  type: relations/parental/friend
+  item: people/cali-daniel
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/employer
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

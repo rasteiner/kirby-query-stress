@@ -1,0 +1,44 @@
+Title: Simonis Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jast
+- 
+  type: relations/money/creditor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/skiles-lang
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/lake-odellland

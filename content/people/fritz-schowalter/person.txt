@@ -1,0 +1,64 @@
+Title: Fritz Schowalter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/antonio-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/marianne-windler-dds
+- 
+  type: relations/parental/friend
+  item: people/dr-reyna-willms
+- 
+  type: relations/money/creditor
+  item: people/alexane-armstrong
+- 
+  type: relations/parental/dad
+  item: people/mrs-anais-hodkiewicz-iv
+- 
+  type: relations/parental/brosis
+  item: people/queen-franecki
+- 
+  type: relations/money/creditor
+  item: companies/huels-walter
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

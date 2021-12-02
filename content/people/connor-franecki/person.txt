@@ -1,0 +1,64 @@
+Title: Connor Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kelsi-dietrich
+- 
+  type: relations/parental/friend
+  item: people/dr-arnaldo-balistreri-dds
+- 
+  type: relations/money/creditor
+  item: people/miss-madalyn-doyle
+- 
+  type: relations/money/creditor
+  item: people/jewel-bartoletti
+- 
+  type: relations/parental/colleague
+  item: people/miss-euna-renner
+- 
+  type: relations/parental/colleague
+  item: people/fidel-kunze
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/work/client
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

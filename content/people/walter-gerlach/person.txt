@@ -1,0 +1,65 @@
+Title: Walter Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bennett-schuster
+- 
+  type: relations/parental/friend
+  item: people/vinnie-fisher-sr
+- 
+  type: relations/parental/colleague
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/dad
+  item: people/bailey-raynor
+- 
+  type: relations/money/creditor
+  item: people/dr-dillon-herzog
+- 
+  type: relations/parental/mom
+  item: people/dr-rupert-mayer-md
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/gleason-group
+- 
+  type: relations/work/employer
+  item: companies/hamill-inc
+- 
+  type: relations/money/creditor
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

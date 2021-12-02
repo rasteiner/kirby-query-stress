@@ -1,0 +1,64 @@
+Title: Mr. Louie Rath I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-princess-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/dr-wyatt-green-ii
+- 
+  type: relations/parental/dad
+  item: people/ariel-keebler
+- 
+  type: relations/parental/friend
+  item: people/mallie-breitenberg-iv
+- 
+  type: relations/parental/brosis
+  item: people/mr-lavon-yundt
+- 
+  type: relations/money/creditor
+  item: people/miss-diana-cummerata-phd
+- 
+  type: relations/work/employer
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/employer
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

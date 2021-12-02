@@ -1,0 +1,64 @@
+Title: Thaddeus Smith MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-autumn-hermann-sr
+- 
+  type: relations/money/creditor
+  item: people/kellen-simonis
+- 
+  type: relations/parental/dad
+  item: people/daniella-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/prof-broderick-effertz
+- 
+  type: relations/parental/mom
+  item: people/toy-harvey-md
+- 
+  type: relations/parental/friend
+  item: people/dwight-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

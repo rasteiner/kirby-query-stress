@@ -1,0 +1,65 @@
+Title: Dr. Carlee Padberg Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mollie-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/mr-caden-herzog-sr
+- 
+  type: relations/money/debtor
+  item: people/humberto-halvorson
+- 
+  type: relations/money/creditor
+  item: people/billie-davis
+- 
+  type: relations/parental/brosis
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/money/creditor
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/employer
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/debtor
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

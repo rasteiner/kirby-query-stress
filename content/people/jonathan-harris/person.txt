@@ -1,0 +1,64 @@
+Title: Jonathan Harris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elinore-conroy
+- 
+  type: relations/money/debtor
+  item: people/mrs-jada-adams-dds
+- 
+  type: relations/money/debtor
+  item: people/lottie-heathcote
+- 
+  type: relations/parental/friend
+  item: people/jake-harris-md
+- 
+  type: relations/parental/colleague
+  item: people/cordelia-schaden-i
+- 
+  type: relations/parental/brosis
+  item: people/destin-von
+- 
+  type: relations/work/client
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

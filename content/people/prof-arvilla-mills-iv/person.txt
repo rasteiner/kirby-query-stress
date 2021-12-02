@@ -1,0 +1,64 @@
+Title: Prof. Arvilla Mills IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lorenza-larson
+- 
+  type: relations/parental/friend
+  item: people/della-rogahn-jr
+- 
+  type: relations/parental/brosis
+  item: people/terrance-prohaska-iv
+- 
+  type: relations/money/creditor
+  item: people/ms-leola-ferry-phd
+- 
+  type: relations/parental/friend
+  item: people/natasha-schimmel-jr
+- 
+  type: relations/parental/mom
+  item: people/ambrose-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/employer
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,65 @@
+Title: Cydney Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-josiane-wuckert-sr
+- 
+  type: relations/parental/friend
+  item: people/darien-mueller
+- 
+  type: relations/money/creditor
+  item: people/hermann-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/jean-bogisich
+- 
+  type: relations/parental/dad
+  item: people/elaina-mohr
+- 
+  type: relations/parental/friend
+  item: people/beth-brown
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

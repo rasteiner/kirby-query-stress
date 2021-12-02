@@ -1,0 +1,64 @@
+Title: Barney Schulist III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-jairo-welch
+- 
+  type: relations/money/creditor
+  item: people/eulah-abbott
+- 
+  type: relations/parental/mom
+  item: people/ofelia-steuber
+- 
+  type: relations/money/creditor
+  item: people/loyal-walsh
+- 
+  type: relations/parental/colleague
+  item: people/mr-joaquin-trantow
+- 
+  type: relations/parental/friend
+  item: people/nick-murazik
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

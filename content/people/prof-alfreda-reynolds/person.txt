@@ -1,0 +1,64 @@
+Title: Prof. Alfreda Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lue-metz
+- 
+  type: relations/money/creditor
+  item: people/maiya-leannon
+- 
+  type: relations/money/creditor
+  item: people/noelia-wehner-sr
+- 
+  type: relations/parental/dad
+  item: people/louisa-homenick
+- 
+  type: relations/parental/dad
+  item: people/tianna-ortiz
+- 
+  type: relations/parental/friend
+  item: people/brady-o-reilly
+- 
+  type: relations/work/client
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/crist-inc
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

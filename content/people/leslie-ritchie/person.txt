@@ -1,0 +1,64 @@
+Title: Leslie Ritchie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hildegard-larkin
+- 
+  type: relations/parental/mom
+  item: people/nikita-treutel-sr
+- 
+  type: relations/money/creditor
+  item: people/diamond-jerde-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/parental/dad
+  item: people/lorna-walker
+- 
+  type: relations/parental/mom
+  item: people/miss-kathleen-kohler-sr
+- 
+  type: relations/work/employer
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/abernathy-inc
+- 
+  type: relations/work/client
+  item: companies/miller-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

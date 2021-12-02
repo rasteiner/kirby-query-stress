@@ -1,0 +1,64 @@
+Title: Loma Stoltenberg MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/angelo-strosin
+- 
+  type: relations/parental/friend
+  item: people/arno-fisher
+- 
+  type: relations/parental/mom
+  item: people/miss-cortney-schultz
+- 
+  type: relations/parental/dad
+  item: people/cristal-hackett
+- 
+  type: relations/money/debtor
+  item: people/myrna-mayer
+- 
+  type: relations/money/debtor
+  item: people/dr-angie-stroman
+- 
+  type: relations/work/client
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/work/client
+  item: companies/blanda-inc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

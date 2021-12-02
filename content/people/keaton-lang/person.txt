@@ -1,0 +1,64 @@
+Title: Keaton Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/colin-huels-jr
+- 
+  type: relations/parental/brosis
+  item: people/theodore-collins
+- 
+  type: relations/money/debtor
+  item: people/keara-walker
+- 
+  type: relations/parental/mom
+  item: people/cristina-cummerata-iii
+- 
+  type: relations/parental/brosis
+  item: people/letha-stokes
+- 
+  type: relations/parental/friend
+  item: people/vicky-heller
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/money/creditor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

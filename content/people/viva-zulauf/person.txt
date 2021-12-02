@@ -1,0 +1,66 @@
+Title: Viva Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-precious-macejkovic
+- 
+  type: relations/money/creditor
+  item: people/thurman-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/lloyd-schoen
+- 
+  type: relations/parental/friend
+  item: people/hazle-jast
+- 
+  type: relations/money/creditor
+  item: people/prof-alexie-connelly-ii
+- 
+  type: relations/parental/dad
+  item: people/mazie-keeling
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/work/client
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

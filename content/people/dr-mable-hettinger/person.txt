@@ -1,0 +1,65 @@
+Title: Dr. Mable Hettinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-ebony-hagenes
+- 
+  type: relations/parental/friend
+  item: people/leila-nader
+- 
+  type: relations/money/debtor
+  item: people/jaclyn-swift
+- 
+  type: relations/parental/friend
+  item: people/ms-antonia-emard-phd
+- 
+  type: relations/money/creditor
+  item: people/joesph-abshire
+- 
+  type: relations/money/creditor
+  item: people/dusty-lehner
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

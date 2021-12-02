@@ -1,0 +1,64 @@
+Title: Clare Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-hilda-goyette-phd
+- 
+  type: relations/money/debtor
+  item: people/alfonzo-leffler
+- 
+  type: relations/parental/brosis
+  item: people/edward-monahan
+- 
+  type: relations/parental/brosis
+  item: people/ms-anabelle-kub
+- 
+  type: relations/parental/friend
+  item: people/electa-russel
+- 
+  type: relations/parental/brosis
+  item: people/omer-roberts
+- 
+  type: relations/money/debtor
+  item: companies/yost-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/debtor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

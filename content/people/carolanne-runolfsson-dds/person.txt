@@ -1,0 +1,64 @@
+Title: Carolanne Runolfsson DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-madalyn-doyle
+- 
+  type: relations/parental/friend
+  item: people/jewel-bartoletti
+- 
+  type: relations/parental/dad
+  item: people/miss-euna-renner
+- 
+  type: relations/parental/brosis
+  item: people/fidel-kunze
+- 
+  type: relations/parental/brosis
+  item: people/dr-rosie-barton-phd
+- 
+  type: relations/parental/brosis
+  item: people/brady-kulas-sr
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

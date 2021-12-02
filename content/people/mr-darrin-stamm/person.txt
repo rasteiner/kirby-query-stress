@@ -1,0 +1,64 @@
+Title: Mr. Darrin Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-bobby-leuschke-dvm
+- 
+  type: relations/parental/mom
+  item: people/tomas-kuhic-sr
+- 
+  type: relations/parental/mom
+  item: people/eugenia-wiegand
+- 
+  type: relations/money/creditor
+  item: people/prof-coby-reynolds-ii
+- 
+  type: relations/parental/mom
+  item: people/dr-haleigh-lehner
+- 
+  type: relations/parental/friend
+  item: people/mr-blaze-heidenreich-i
+- 
+  type: relations/work/employer
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

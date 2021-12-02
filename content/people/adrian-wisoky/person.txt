@@ -1,0 +1,64 @@
+Title: Adrian Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carmela-zboncak
+- 
+  type: relations/money/debtor
+  item: people/prof-alexie-schneider
+- 
+  type: relations/parental/brosis
+  item: people/raoul-dickinson-dds
+- 
+  type: relations/parental/friend
+  item: people/amara-robel
+- 
+  type: relations/parental/brosis
+  item: people/jammie-fahey
+- 
+  type: relations/parental/dad
+  item: people/florine-carter-dds
+- 
+  type: relations/money/creditor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/work/employer
+  item: companies/buckridge-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

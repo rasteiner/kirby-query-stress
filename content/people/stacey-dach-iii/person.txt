@@ -1,0 +1,64 @@
+Title: Stacey Dach III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-frieda-macejkovic-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-gennaro-gibson
+- 
+  type: relations/parental/brosis
+  item: people/dr-noel-luettgen
+- 
+  type: relations/parental/friend
+  item: people/mr-tremaine-hegmann
+- 
+  type: relations/money/debtor
+  item: people/aliyah-kilback
+- 
+  type: relations/parental/mom
+  item: people/ines-goldner
+- 
+  type: relations/work/client
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/client
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Dr. Mateo King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-davon-shanahan-iv
+- 
+  type: relations/parental/brosis
+  item: people/prof-edd-hartmann-v
+- 
+  type: relations/parental/brosis
+  item: people/joseph-zieme
+- 
+  type: relations/parental/brosis
+  item: people/stanley-mccullough
+- 
+  type: relations/money/debtor
+  item: people/caroline-halvorson
+- 
+  type: relations/money/debtor
+  item: people/mr-kenton-rosenbaum-md
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/money/debtor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

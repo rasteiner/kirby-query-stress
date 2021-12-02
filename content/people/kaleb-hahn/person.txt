@@ -1,0 +1,64 @@
+Title: Kaleb Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cecile-hauck-v
+- 
+  type: relations/money/debtor
+  item: people/prof-candice-eichmann
+- 
+  type: relations/parental/colleague
+  item: people/ms-hollie-dach-i
+- 
+  type: relations/parental/dad
+  item: people/prof-ramona-bogisich
+- 
+  type: relations/parental/friend
+  item: people/kayli-effertz
+- 
+  type: relations/money/debtor
+  item: people/lamont-ryan
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

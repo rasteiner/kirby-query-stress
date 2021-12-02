@@ -1,0 +1,64 @@
+Title: Darrel Towne DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/parental/friend
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/money/creditor
+  item: people/joesph-adams
+- 
+  type: relations/money/debtor
+  item: people/emmie-mann
+- 
+  type: relations/parental/friend
+  item: people/mr-jakob-wunsch
+- 
+  type: relations/money/debtor
+  item: people/katarina-rempel
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-plc
+- 
+  type: relations/work/employer
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/client
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

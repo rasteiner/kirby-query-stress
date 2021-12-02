@@ -1,0 +1,65 @@
+Title: Everett Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-betty-doyle-iii
+- 
+  type: relations/parental/mom
+  item: people/tatum-brekke-jr
+- 
+  type: relations/parental/mom
+  item: people/quentin-bogisich
+- 
+  type: relations/parental/colleague
+  item: people/prof-kianna-kessler
+- 
+  type: relations/parental/brosis
+  item: people/monserrate-buckridge
+- 
+  type: relations/parental/mom
+  item: people/prof-domingo-jaskolski
+- 
+  type: relations/work/client
+  item: companies/ratke-inc
+- 
+  type: relations/work/client
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/client
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/client
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

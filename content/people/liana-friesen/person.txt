@@ -1,0 +1,64 @@
+Title: Liana Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hazle-blick
+- 
+  type: relations/parental/dad
+  item: people/esta-mcglynn-jr
+- 
+  type: relations/parental/brosis
+  item: people/nettie-rippin
+- 
+  type: relations/parental/friend
+  item: people/macey-sauer
+- 
+  type: relations/money/creditor
+  item: people/philip-o-kon
+- 
+  type: relations/money/creditor
+  item: people/shea-goodwin
+- 
+  type: relations/money/creditor
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/client
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/work/client
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

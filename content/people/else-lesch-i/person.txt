@@ -1,0 +1,64 @@
+Title: Else Lesch I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ignatius-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/bernadine-gorczany-sr
+- 
+  type: relations/parental/colleague
+  item: people/brown-rempel
+- 
+  type: relations/parental/brosis
+  item: people/prof-justen-batz
+- 
+  type: relations/parental/dad
+  item: people/dr-franz-roberts-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-hubert-padberg-i
+- 
+  type: relations/work/employer
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/employer
+  item: companies/beer-ltd
+- 
+  type: relations/work/employer
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

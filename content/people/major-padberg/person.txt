@@ -1,0 +1,64 @@
+Title: Major Padberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-ashlynn-heidenreich-dvm
+- 
+  type: relations/money/creditor
+  item: people/tessie-frami
+- 
+  type: relations/parental/colleague
+  item: people/dr-connie-becker-phd
+- 
+  type: relations/parental/brosis
+  item: people/ms-hellen-bogisich-i
+- 
+  type: relations/parental/mom
+  item: people/prof-maria-metz-jr
+- 
+  type: relations/parental/brosis
+  item: people/meagan-hilpert
+- 
+  type: relations/work/client
+  item: companies/huels-walter
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

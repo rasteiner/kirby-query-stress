@@ -1,0 +1,64 @@
+Title: Pedro O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-annie-rice-dvm
+- 
+  type: relations/money/creditor
+  item: people/ross-weissnat
+- 
+  type: relations/parental/mom
+  item: people/dr-elenora-gorczany
+- 
+  type: relations/parental/friend
+  item: people/frank-zboncak-iv
+- 
+  type: relations/money/creditor
+  item: people/libby-schamberger
+- 
+  type: relations/parental/dad
+  item: people/koby-rippin
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/work/client
+  item: companies/conn-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-leannon
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

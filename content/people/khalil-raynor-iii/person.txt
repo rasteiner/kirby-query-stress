@@ -1,0 +1,64 @@
+Title: Khalil Raynor III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/christine-stark
+- 
+  type: relations/parental/brosis
+  item: people/elmer-smith-iii
+- 
+  type: relations/parental/mom
+  item: people/prof-wilber-thiel-iii
+- 
+  type: relations/parental/dad
+  item: people/edwin-dach
+- 
+  type: relations/money/debtor
+  item: people/everett-king
+- 
+  type: relations/money/creditor
+  item: people/scot-howell-ii
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

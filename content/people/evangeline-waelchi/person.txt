@@ -1,0 +1,64 @@
+Title: Evangeline Waelchi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/garland-rolfson
+- 
+  type: relations/parental/colleague
+  item: people/stephanie-sanford
+- 
+  type: relations/money/creditor
+  item: people/gregory-schneider
+- 
+  type: relations/parental/colleague
+  item: people/agustina-mraz-sr
+- 
+  type: relations/parental/dad
+  item: people/saige-o-reilly
+- 
+  type: relations/parental/dad
+  item: people/mrs-elmira-leffler
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/employer
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Prof. Janiya Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-karley-nader-jr
+- 
+  type: relations/parental/brosis
+  item: people/tianna-bahringer-i
+- 
+  type: relations/parental/brosis
+  item: people/kacie-pagac-md
+- 
+  type: relations/parental/dad
+  item: people/dr-caitlyn-robel-md
+- 
+  type: relations/parental/friend
+  item: people/kristina-vandervort
+- 
+  type: relations/parental/mom
+  item: people/durward-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/sporer-llc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Alena Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shea-steuber
+- 
+  type: relations/parental/friend
+  item: people/burdette-kozey-dds
+- 
+  type: relations/parental/mom
+  item: people/jordi-marquardt
+- 
+  type: relations/money/creditor
+  item: people/andreane-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/mr-kirk-pacocha-iv
+- 
+  type: relations/parental/friend
+  item: people/kody-borer-dvm
+- 
+  type: relations/work/employer
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/client
+  item: companies/crona-and-sons
+- 
+  type: relations/work/employer
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

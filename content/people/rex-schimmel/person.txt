@@ -1,0 +1,64 @@
+Title: Rex Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-donna-upton
+- 
+  type: relations/money/debtor
+  item: people/prof-adan-ziemann-i
+- 
+  type: relations/parental/dad
+  item: people/rashawn-ernser
+- 
+  type: relations/money/debtor
+  item: people/mrs-gia-connelly-i
+- 
+  type: relations/parental/brosis
+  item: people/wilbert-krajcik
+- 
+  type: relations/money/creditor
+  item: people/alvera-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

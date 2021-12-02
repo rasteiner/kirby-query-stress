@@ -1,0 +1,64 @@
+Title: Wiley Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/weldon-walter
+- 
+  type: relations/parental/brosis
+  item: people/stone-satterfield-jr
+- 
+  type: relations/parental/colleague
+  item: people/mattie-treutel-ii
+- 
+  type: relations/parental/colleague
+  item: people/garrison-brakus
+- 
+  type: relations/parental/dad
+  item: people/dr-felicia-schuster-iv
+- 
+  type: relations/money/creditor
+  item: people/fanny-pfeffer
+- 
+  type: relations/work/client
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/work/employer
+  item: companies/schamberger-goldner
+- 
+  type: relations/work/employer
+  item: companies/buckridge-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

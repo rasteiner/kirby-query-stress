@@ -1,0 +1,64 @@
+Title: Prof. Anais Jones
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lilyan-schoen-iii
+- 
+  type: relations/money/creditor
+  item: people/prof-tad-schmidt-iii
+- 
+  type: relations/money/debtor
+  item: people/mrs-retha-kub
+- 
+  type: relations/parental/dad
+  item: people/lucy-o-conner
+- 
+  type: relations/parental/mom
+  item: people/colton-kozey
+- 
+  type: relations/parental/brosis
+  item: people/jordy-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

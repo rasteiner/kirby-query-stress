@@ -1,0 +1,64 @@
+Title: Florencio Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/aryanna-kulas
+- 
+  type: relations/parental/dad
+  item: people/zachariah-d-amore
+- 
+  type: relations/parental/dad
+  item: people/maurine-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/aurelio-pfeffer
+- 
+  type: relations/parental/friend
+  item: people/prof-lacey-dickens
+- 
+  type: relations/parental/friend
+  item: people/katelynn-schowalter
+- 
+  type: relations/work/employer
+  item: companies/boyer-llc
+- 
+  type: relations/work/employer
+  item: companies/medhurst-group
+- 
+  type: relations/money/creditor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Ms. Lizeth Senger DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lelah-ebert-v
+- 
+  type: relations/money/debtor
+  item: people/kailee-ullrich
+- 
+  type: relations/money/debtor
+  item: people/madilyn-funk
+- 
+  type: relations/parental/dad
+  item: people/sylvan-murazik
+- 
+  type: relations/parental/dad
+  item: people/theo-jaskolski
+- 
+  type: relations/parental/dad
+  item: people/savanna-kshlerin
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/work/employer
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

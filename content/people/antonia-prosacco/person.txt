@@ -1,0 +1,64 @@
+Title: Antonia Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/esta-turcotte
+- 
+  type: relations/money/debtor
+  item: people/mrs-euna-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/manley-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/mrs-cierra-lakin-dds
+- 
+  type: relations/money/creditor
+  item: people/mr-isaias-baumbach
+- 
+  type: relations/parental/mom
+  item: people/mckenzie-lehner
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/creditor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

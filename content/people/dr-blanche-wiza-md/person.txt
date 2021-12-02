@@ -1,0 +1,64 @@
+Title: Dr. Blanche Wiza MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/vito-swift
+- 
+  type: relations/parental/mom
+  item: people/merritt-carter
+- 
+  type: relations/money/creditor
+  item: people/liana-friesen
+- 
+  type: relations/parental/dad
+  item: people/elza-langworth-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/work/employer
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

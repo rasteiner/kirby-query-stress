@@ -1,0 +1,64 @@
+Title: Deja Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/gayle-mayert
+- 
+  type: relations/parental/mom
+  item: people/ms-alyson-herzog
+- 
+  type: relations/parental/mom
+  item: people/prof-rosemary-kling
+- 
+  type: relations/money/creditor
+  item: people/miss-nelle-olson-dvm
+- 
+  type: relations/parental/mom
+  item: people/miss-minerva-hammes-iv
+- 
+  type: relations/parental/colleague
+  item: people/rhoda-bins
+- 
+  type: relations/work/client
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/work/employer
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

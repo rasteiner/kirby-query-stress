@@ -1,0 +1,64 @@
+Title: Chad Wisoky DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-emely-swaniawski
+- 
+  type: relations/parental/friend
+  item: people/maryjane-lind
+- 
+  type: relations/money/debtor
+  item: people/keenan-collier
+- 
+  type: relations/money/creditor
+  item: people/omari-ledner
+- 
+  type: relations/parental/mom
+  item: people/prof-darwin-wisozk
+- 
+  type: relations/parental/dad
+  item: people/mrs-joana-olson-sr
+- 
+  type: relations/work/employer
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/client
+  item: companies/beahan-sauer
+- 
+  type: relations/work/client
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

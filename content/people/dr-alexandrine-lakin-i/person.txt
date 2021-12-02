@@ -1,0 +1,64 @@
+Title: Dr. Alexandrine Lakin I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/adaline-daniel
+- 
+  type: relations/parental/brosis
+  item: people/mrs-emmalee-rogahn-dds
+- 
+  type: relations/money/creditor
+  item: people/jed-kautzer
+- 
+  type: relations/money/debtor
+  item: people/mitchel-kirlin
+- 
+  type: relations/parental/brosis
+  item: people/margaretta-cassin
+- 
+  type: relations/money/creditor
+  item: people/alvina-kohler
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/employer
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

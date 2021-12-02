@@ -1,0 +1,64 @@
+Title: Miss Nikita Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-tyra-reinger-sr
+- 
+  type: relations/money/debtor
+  item: people/ali-morar
+- 
+  type: relations/parental/colleague
+  item: people/marilie-franecki
+- 
+  type: relations/money/creditor
+  item: people/lane-lubowitz
+- 
+  type: relations/parental/colleague
+  item: people/katelin-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/mr-bo-gusikowski-iii
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/work/client
+  item: companies/collins-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Adolph Lockman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/victor-west
+- 
+  type: relations/parental/colleague
+  item: people/gisselle-kassulke-dvm
+- 
+  type: relations/money/creditor
+  item: people/isaiah-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/vickie-lemke
+- 
+  type: relations/money/debtor
+  item: people/martine-pouros-i
+- 
+  type: relations/parental/brosis
+  item: people/hilda-auer-jr
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/debtor
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

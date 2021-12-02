@@ -1,0 +1,64 @@
+Title: Catherine Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/shyanne-franecki
+- 
+  type: relations/money/creditor
+  item: people/mrs-elena-kris-i
+- 
+  type: relations/parental/colleague
+  item: people/amber-glover
+- 
+  type: relations/parental/brosis
+  item: people/alexys-armstrong
+- 
+  type: relations/parental/friend
+  item: people/mrs-amina-jones-dds
+- 
+  type: relations/parental/dad
+  item: people/miss-erika-hilpert-iv
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,65 @@
+Title: Mr. Clark O'Conner DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/charles-dach
+- 
+  type: relations/parental/brosis
+  item: people/mr-rex-von-jr
+- 
+  type: relations/parental/friend
+  item: people/stella-rosenbaum-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-alivia-parisian
+- 
+  type: relations/money/creditor
+  item: people/dr-ayla-spinka-i
+- 
+  type: relations/parental/friend
+  item: people/gretchen-lemke
+- 
+  type: relations/work/employer
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

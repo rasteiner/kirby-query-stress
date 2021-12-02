@@ -1,0 +1,64 @@
+Title: Mrs. Delphia Satterfield
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-orville-bernhard-phd
+- 
+  type: relations/parental/mom
+  item: people/madisen-christiansen
+- 
+  type: relations/parental/brosis
+  item: people/dortha-collins
+- 
+  type: relations/money/debtor
+  item: people/isobel-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/maya-mertz
+- 
+  type: relations/parental/mom
+  item: people/jarrett-fahey
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/work/client
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Reagan Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-eldon-romaguera
+- 
+  type: relations/parental/friend
+  item: people/rudy-crist-iii
+- 
+  type: relations/parental/dad
+  item: people/belle-hagenes
+- 
+  type: relations/parental/colleague
+  item: people/nicholas-parisian
+- 
+  type: relations/parental/dad
+  item: people/lexi-gaylord
+- 
+  type: relations/parental/colleague
+  item: people/franco-pfeffer
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/client
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

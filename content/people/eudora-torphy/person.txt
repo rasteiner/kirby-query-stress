@@ -1,0 +1,64 @@
+Title: Eudora Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mattie-treutel-ii
+- 
+  type: relations/parental/mom
+  item: people/garrison-brakus
+- 
+  type: relations/parental/colleague
+  item: people/dr-felicia-schuster-iv
+- 
+  type: relations/parental/dad
+  item: people/fanny-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/andres-watsica
+- 
+  type: relations/parental/brosis
+  item: people/granville-batz
+- 
+  type: relations/work/client
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kozey-group
+- 
+  type: relations/money/creditor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

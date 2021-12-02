@@ -1,0 +1,64 @@
+Title: Noelia Wehner Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/berta-cole
+- 
+  type: relations/money/debtor
+  item: people/claudie-zieme
+- 
+  type: relations/parental/colleague
+  item: people/rahsaan-fay
+- 
+  type: relations/parental/colleague
+  item: people/chasity-bayer-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-geovany-bode
+- 
+  type: relations/parental/colleague
+  item: people/lavinia-padberg
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

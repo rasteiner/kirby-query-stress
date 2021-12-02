@@ -1,0 +1,64 @@
+Title: Ms. Vallie Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-drew-heidenreich
+- 
+  type: relations/parental/dad
+  item: people/jordan-bernier
+- 
+  type: relations/parental/dad
+  item: people/ms-kianna-mckenzie-iv
+- 
+  type: relations/parental/dad
+  item: people/amir-marks
+- 
+  type: relations/money/creditor
+  item: people/harry-cremin
+- 
+  type: relations/money/creditor
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

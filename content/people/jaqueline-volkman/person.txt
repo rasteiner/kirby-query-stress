@@ -1,0 +1,64 @@
+Title: Jaqueline Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bertha-lockman
+- 
+  type: relations/money/creditor
+  item: people/rigoberto-yost
+- 
+  type: relations/money/debtor
+  item: people/oma-brown
+- 
+  type: relations/parental/colleague
+  item: people/lela-hand
+- 
+  type: relations/parental/friend
+  item: people/dr-catharine-ullrich-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-laura-parisian-ii
+- 
+  type: relations/money/creditor
+  item: companies/koch-ltd
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/work/employer
+  item: companies/daniel-hills
+- 
+  type: relations/work/employer
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

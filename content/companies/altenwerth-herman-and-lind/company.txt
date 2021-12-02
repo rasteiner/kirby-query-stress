@@ -1,0 +1,43 @@
+Title: Altenwerth, Herman and Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/money/debtor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/johnson-windler
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-group
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland

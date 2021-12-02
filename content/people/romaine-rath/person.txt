@@ -1,0 +1,64 @@
+Title: Romaine Rath
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/noelia-wehner-sr
+- 
+  type: relations/money/creditor
+  item: people/louisa-homenick
+- 
+  type: relations/parental/friend
+  item: people/tianna-ortiz
+- 
+  type: relations/parental/colleague
+  item: people/brady-o-reilly
+- 
+  type: relations/parental/dad
+  item: people/meghan-adams
+- 
+  type: relations/parental/mom
+  item: people/natalia-marquardt
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/work/employer
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

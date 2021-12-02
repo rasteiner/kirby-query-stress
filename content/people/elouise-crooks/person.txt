@@ -1,0 +1,64 @@
+Title: Elouise Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jermey-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/adeline-yundt
+- 
+  type: relations/parental/friend
+  item: people/columbus-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/madisen-tremblay
+- 
+  type: relations/money/debtor
+  item: people/alva-will-phd
+- 
+  type: relations/money/creditor
+  item: people/miss-roxanne-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/mertz-ltd
+- 
+  type: relations/work/client
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/work/employer
+  item: companies/russel-skiles
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

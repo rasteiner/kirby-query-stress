@@ -1,0 +1,65 @@
+Title: Kris Dibbert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/linnie-leffler-dvm
+- 
+  type: relations/parental/mom
+  item: people/mr-wyman-macejkovic
+- 
+  type: relations/parental/brosis
+  item: people/elizabeth-cremin
+- 
+  type: relations/money/debtor
+  item: people/garrett-wisoky
+- 
+  type: relations/parental/dad
+  item: people/macie-koch-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-monique-treutel
+- 
+  type: relations/money/debtor
+  item: companies/runte-cremin
+- 
+  type: relations/work/employer
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/employer
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

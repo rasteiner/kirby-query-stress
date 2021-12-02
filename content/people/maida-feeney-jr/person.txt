@@ -1,0 +1,65 @@
+Title: Maida Feeney Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nigel-crooks
+- 
+  type: relations/money/debtor
+  item: people/fannie-lubowitz
+- 
+  type: relations/parental/brosis
+  item: people/morgan-welch-phd
+- 
+  type: relations/parental/mom
+  item: people/ms-valentina-sanford
+- 
+  type: relations/money/creditor
+  item: people/miss-elyssa-gulgowski-v
+- 
+  type: relations/parental/friend
+  item: people/alysha-borer-iii
+- 
+  type: relations/work/employer
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

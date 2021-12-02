@@ -1,0 +1,43 @@
+Title: Wolff Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/new-cooper

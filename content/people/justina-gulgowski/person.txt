@@ -1,0 +1,64 @@
+Title: Justina Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lonnie-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/magali-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/dasia-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/prof-darwin-kuhlman-i
+- 
+  type: relations/money/creditor
+  item: people/prof-tyshawn-baumbach
+- 
+  type: relations/money/creditor
+  item: people/samanta-wolf
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

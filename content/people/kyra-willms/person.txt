@@ -1,0 +1,64 @@
+Title: Kyra Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-tracy-harvey-md
+- 
+  type: relations/parental/mom
+  item: people/santina-bergstrom-sr
+- 
+  type: relations/parental/brosis
+  item: people/moses-botsford
+- 
+  type: relations/parental/dad
+  item: people/dr-johnathan-flatley
+- 
+  type: relations/parental/dad
+  item: people/xander-conn
+- 
+  type: relations/money/debtor
+  item: people/erna-hermann
+- 
+  type: relations/work/employer
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/work/employer
+  item: companies/ferry-carter
+- 
+  type: relations/work/employer
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Miss Noemy Wunsch III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-marc-kunze-v
+- 
+  type: relations/parental/dad
+  item: people/karine-abernathy
+- 
+  type: relations/parental/mom
+  item: people/prof-stefan-tromp
+- 
+  type: relations/parental/friend
+  item: people/carlee-sauer
+- 
+  type: relations/parental/dad
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/money/creditor
+  item: people/ms-river-wolff
+- 
+  type: relations/work/client
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/client
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

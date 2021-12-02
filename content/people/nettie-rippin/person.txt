@@ -1,0 +1,64 @@
+Title: Nettie Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/nicholaus-brakus
+- 
+  type: relations/parental/brosis
+  item: people/jorge-funk
+- 
+  type: relations/money/debtor
+  item: people/earlene-watsica
+- 
+  type: relations/parental/brosis
+  item: people/ms-lexie-sawayn-dds
+- 
+  type: relations/parental/friend
+  item: people/yazmin-rempel
+- 
+  type: relations/parental/brosis
+  item: people/erna-gibson
+- 
+  type: relations/work/employer
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/client
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

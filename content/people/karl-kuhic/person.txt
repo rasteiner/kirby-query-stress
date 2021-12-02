@@ -1,0 +1,65 @@
+Title: Karl Kuhic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/douglas-veum
+- 
+  type: relations/money/creditor
+  item: people/prof-lisa-feeney
+- 
+  type: relations/parental/colleague
+  item: people/monserrat-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/miss-twila-cormier-jr
+- 
+  type: relations/money/debtor
+  item: people/ms-rafaela-mosciski-v
+- 
+  type: relations/parental/dad
+  item: people/muhammad-kautzer
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/client
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/employer
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

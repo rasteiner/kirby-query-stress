@@ -1,0 +1,64 @@
+Title: Ms. Mariana Braun DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/leonor-wehner
+- 
+  type: relations/money/debtor
+  item: people/ed-kemmer
+- 
+  type: relations/money/debtor
+  item: people/nichole-paucek
+- 
+  type: relations/parental/mom
+  item: people/katlyn-schaefer
+- 
+  type: relations/parental/brosis
+  item: people/marco-luettgen
+- 
+  type: relations/parental/friend
+  item: people/brent-hane-dvm
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/work/client
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/client
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

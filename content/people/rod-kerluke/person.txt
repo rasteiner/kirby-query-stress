@@ -1,0 +1,64 @@
+Title: Rod Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/sage-leannon
+- 
+  type: relations/parental/dad
+  item: people/josefina-kiehn
+- 
+  type: relations/parental/dad
+  item: people/rudolph-toy
+- 
+  type: relations/parental/colleague
+  item: people/chaim-denesik-ii
+- 
+  type: relations/parental/friend
+  item: people/thurman-collier-sr
+- 
+  type: relations/parental/dad
+  item: people/melody-smith-sr
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/employer
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

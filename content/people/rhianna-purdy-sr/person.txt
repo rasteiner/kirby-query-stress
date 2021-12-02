@@ -1,0 +1,64 @@
+Title: Rhianna Purdy Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/aubrey-lemke
+- 
+  type: relations/parental/mom
+  item: people/luella-hoeger
+- 
+  type: relations/parental/brosis
+  item: people/edna-borer
+- 
+  type: relations/parental/dad
+  item: people/elissa-marvin
+- 
+  type: relations/parental/colleague
+  item: people/ms-idella-rippin-iii
+- 
+  type: relations/parental/colleague
+  item: people/gerhard-hauck
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

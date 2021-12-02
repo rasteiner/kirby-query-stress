@@ -1,0 +1,64 @@
+Title: Mrs. Delpha Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jasen-kerluke-i
+- 
+  type: relations/money/debtor
+  item: people/ms-daphnee-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/dr-malcolm-stamm-iii
+- 
+  type: relations/money/debtor
+  item: people/barrett-jacobi
+- 
+  type: relations/parental/brosis
+  item: people/percival-smitham
+- 
+  type: relations/parental/colleague
+  item: people/gilda-zboncak-iv
+- 
+  type: relations/work/client
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

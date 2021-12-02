@@ -1,0 +1,64 @@
+Title: Mr. Francesco Stroman Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mason-kshlerin
+- 
+  type: relations/parental/brosis
+  item: people/emanuel-thompson
+- 
+  type: relations/parental/brosis
+  item: people/prof-moshe-weissnat
+- 
+  type: relations/parental/brosis
+  item: people/estevan-oberbrunner
+- 
+  type: relations/parental/dad
+  item: people/tania-hagenes
+- 
+  type: relations/money/debtor
+  item: people/ariel-thiel
+- 
+  type: relations/money/debtor
+  item: companies/murray-o-hara
+- 
+  type: relations/work/employer
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/money/creditor
+  item: companies/wisoky-watsica
+- 
+  type: relations/money/creditor
+  item: companies/price-toy-and-roob
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

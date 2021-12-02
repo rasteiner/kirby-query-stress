@@ -1,0 +1,64 @@
+Title: Isabel Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ella-wolff
+- 
+  type: relations/parental/dad
+  item: people/ms-cierra-lindgren
+- 
+  type: relations/parental/dad
+  item: people/dr-mario-mosciski-ii
+- 
+  type: relations/money/creditor
+  item: people/dr-gonzalo-parker-v
+- 
+  type: relations/parental/dad
+  item: people/prof-caterina-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/rebeka-mosciski-iii
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/koelpin-group
+- 
+  type: relations/money/debtor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

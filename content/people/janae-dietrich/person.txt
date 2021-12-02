@@ -1,0 +1,64 @@
+Title: Janae Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mohamed-blanda
+- 
+  type: relations/parental/dad
+  item: people/kara-herzog
+- 
+  type: relations/money/creditor
+  item: people/mr-keanu-sauer
+- 
+  type: relations/parental/brosis
+  item: people/spencer-reynolds-sr
+- 
+  type: relations/parental/friend
+  item: people/liza-muller
+- 
+  type: relations/parental/mom
+  item: people/aurelie-fay
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/work/client
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

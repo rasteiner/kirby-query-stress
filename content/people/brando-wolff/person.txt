@@ -1,0 +1,64 @@
+Title: Brando Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-angelita-gutmann-iii
+- 
+  type: relations/parental/dad
+  item: people/matteo-hessel
+- 
+  type: relations/money/creditor
+  item: people/adelbert-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/easter-jacobi
+- 
+  type: relations/parental/mom
+  item: people/maud-hessel
+- 
+  type: relations/money/debtor
+  item: people/reyes-leannon-v
+- 
+  type: relations/work/employer
+  item: companies/ryan-little
+- 
+  type: relations/work/employer
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/employer
+  item: companies/davis-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

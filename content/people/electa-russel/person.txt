@@ -1,0 +1,65 @@
+Title: Electa Russel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-jonas-harvey-iv
+- 
+  type: relations/parental/dad
+  item: people/dr-max-greenholt
+- 
+  type: relations/money/creditor
+  item: people/winfield-treutel
+- 
+  type: relations/money/creditor
+  item: people/julien-beatty
+- 
+  type: relations/parental/mom
+  item: people/broderick-little
+- 
+  type: relations/parental/friend
+  item: people/miguel-harvey
+- 
+  type: relations/money/debtor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/client
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/creditor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

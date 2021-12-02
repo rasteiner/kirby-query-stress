@@ -1,0 +1,64 @@
+Title: Trey Ullrich Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alysson-conroy
+- 
+  type: relations/parental/dad
+  item: people/dr-barton-boehm
+- 
+  type: relations/money/creditor
+  item: people/nicolas-roberts
+- 
+  type: relations/parental/colleague
+  item: people/eleonore-bashirian
+- 
+  type: relations/money/debtor
+  item: people/webster-wyman
+- 
+  type: relations/money/debtor
+  item: people/eleazar-adams
+- 
+  type: relations/work/client
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

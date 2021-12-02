@@ -1,0 +1,65 @@
+Title: Walton White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/einar-hessel-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-reyes-volkman-dvm
+- 
+  type: relations/money/creditor
+  item: people/emmalee-runte
+- 
+  type: relations/parental/dad
+  item: people/miss-anne-nader
+- 
+  type: relations/parental/brosis
+  item: people/mrs-yolanda-trantow-v
+- 
+  type: relations/money/debtor
+  item: people/paula-kuphal
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

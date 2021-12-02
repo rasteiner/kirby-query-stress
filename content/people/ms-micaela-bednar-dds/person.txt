@@ -1,0 +1,64 @@
+Title: Ms. Micaela Bednar DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/anastacio-mills
+- 
+  type: relations/parental/colleague
+  item: people/dasia-nolan
+- 
+  type: relations/parental/dad
+  item: people/adam-klocko
+- 
+  type: relations/parental/friend
+  item: people/pauline-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/dr-kadin-lesch-sr
+- 
+  type: relations/parental/brosis
+  item: people/bryon-langworth
+- 
+  type: relations/work/client
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/client
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Addison Olson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/louie-doyle
+- 
+  type: relations/parental/brosis
+  item: people/dr-claude-pagac
+- 
+  type: relations/parental/mom
+  item: people/zetta-walker-i
+- 
+  type: relations/parental/mom
+  item: people/jadyn-halvorson
+- 
+  type: relations/parental/mom
+  item: people/ulises-hegmann-iii
+- 
+  type: relations/parental/brosis
+  item: people/esperanza-waters
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/work/employer
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/debtor
+  item: companies/cremin-durgan
+- 
+  type: relations/work/employer
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

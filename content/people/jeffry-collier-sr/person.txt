@@ -1,0 +1,64 @@
+Title: Jeffry Collier Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clarissa-batz
+- 
+  type: relations/parental/brosis
+  item: people/mrs-shaylee-kunde
+- 
+  type: relations/money/debtor
+  item: people/zackary-bayer
+- 
+  type: relations/parental/friend
+  item: people/tyshawn-turcotte
+- 
+  type: relations/parental/brosis
+  item: people/jerrell-hane
+- 
+  type: relations/money/creditor
+  item: people/kenny-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/work/client
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

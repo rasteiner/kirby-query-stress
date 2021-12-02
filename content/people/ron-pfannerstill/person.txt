@@ -1,0 +1,64 @@
+Title: Ron Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-elta-goldner
+- 
+  type: relations/parental/colleague
+  item: people/mrs-elfrieda-erdman-jr
+- 
+  type: relations/money/debtor
+  item: people/miss-alayna-kiehn-iv
+- 
+  type: relations/parental/brosis
+  item: people/lottie-wolff
+- 
+  type: relations/money/debtor
+  item: people/janick-bins-dvm
+- 
+  type: relations/money/debtor
+  item: people/alia-rice-dds
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/employer
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

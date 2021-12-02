@@ -1,0 +1,65 @@
+Title: Torey Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-aurore-schroeder-jr
+- 
+  type: relations/money/creditor
+  item: people/ms-cheyanne-baumbach-iii
+- 
+  type: relations/parental/dad
+  item: people/isaias-denesik
+- 
+  type: relations/parental/brosis
+  item: people/miss-gretchen-gulgowski
+- 
+  type: relations/parental/mom
+  item: people/dr-skye-kunde-dds
+- 
+  type: relations/parental/mom
+  item: people/mr-deshaun-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/client
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/creditor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

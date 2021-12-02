@@ -1,0 +1,64 @@
+Title: Miss Rachel Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/imogene-christiansen
+- 
+  type: relations/parental/dad
+  item: people/dortha-johns
+- 
+  type: relations/parental/dad
+  item: people/juliana-torp
+- 
+  type: relations/parental/colleague
+  item: people/leta-dibbert
+- 
+  type: relations/money/creditor
+  item: people/ova-pfeffer-md
+- 
+  type: relations/money/creditor
+  item: people/dr-jesse-metz-phd
+- 
+  type: relations/work/client
+  item: companies/huels-walter
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

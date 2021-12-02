@@ -1,0 +1,65 @@
+Title: Miguel Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cary-robel
+- 
+  type: relations/parental/mom
+  item: people/dr-mozell-terry
+- 
+  type: relations/money/creditor
+  item: people/mrs-juliana-lang-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-otis-bosco-v
+- 
+  type: relations/parental/brosis
+  item: people/giovanna-ondricka
+- 
+  type: relations/money/debtor
+  item: people/joanne-green-dvm
+- 
+  type: relations/work/employer
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/schiller-collier
+- 
+  type: relations/work/client
+  item: companies/nienow-watsica
+- 
+  type: relations/work/employer
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Benedict Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/avery-hayes
+- 
+  type: relations/money/creditor
+  item: people/sydni-balistreri
+- 
+  type: relations/parental/mom
+  item: people/mr-zion-schumm
+- 
+  type: relations/money/creditor
+  item: people/brandyn-walsh-ii
+- 
+  type: relations/money/creditor
+  item: people/cameron-o-conner-iii
+- 
+  type: relations/parental/mom
+  item: people/elmore-bednar
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/employer
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Prof. Ryan Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sallie-hickle-dds
+- 
+  type: relations/money/debtor
+  item: people/audie-berge-jr
+- 
+  type: relations/parental/brosis
+  item: people/isabel-friesen
+- 
+  type: relations/parental/friend
+  item: people/graham-effertz
+- 
+  type: relations/parental/colleague
+  item: people/maci-lang
+- 
+  type: relations/money/creditor
+  item: people/mr-myrl-schultz-md
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/client
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Dr. Berniece Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/libbie-blanda
+- 
+  type: relations/parental/mom
+  item: people/prof-ocie-wuckert
+- 
+  type: relations/parental/friend
+  item: people/alexane-rippin
+- 
+  type: relations/parental/mom
+  item: people/libbie-feest
+- 
+  type: relations/parental/dad
+  item: people/armani-lockman
+- 
+  type: relations/parental/colleague
+  item: people/jimmie-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

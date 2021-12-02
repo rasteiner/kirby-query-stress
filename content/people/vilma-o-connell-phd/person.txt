@@ -1,0 +1,64 @@
+Title: Vilma O'Connell PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-malika-rutherford-jr
+- 
+  type: relations/money/debtor
+  item: people/morton-pfannerstill-jr
+- 
+  type: relations/parental/colleague
+  item: people/michael-renner
+- 
+  type: relations/money/debtor
+  item: people/dr-lemuel-mayer
+- 
+  type: relations/parental/brosis
+  item: people/miss-idell-lockman
+- 
+  type: relations/money/creditor
+  item: people/dr-marquise-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/client
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/client
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

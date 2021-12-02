@@ -1,0 +1,64 @@
+Title: Gwen Weimann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/zola-mraz
+- 
+  type: relations/money/creditor
+  item: people/moshe-leuschke
+- 
+  type: relations/parental/dad
+  item: people/kenton-doyle
+- 
+  type: relations/money/debtor
+  item: people/dr-kellen-fay-iii
+- 
+  type: relations/parental/brosis
+  item: people/tate-leffler
+- 
+  type: relations/money/creditor
+  item: people/prof-adolfo-little
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/client
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

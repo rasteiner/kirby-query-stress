@@ -1,0 +1,64 @@
+Title: Ida Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/veronica-johnson
+- 
+  type: relations/parental/friend
+  item: people/justine-hahn-jr
+- 
+  type: relations/money/creditor
+  item: people/braxton-runolfsson-iv
+- 
+  type: relations/parental/colleague
+  item: people/benedict-hamill
+- 
+  type: relations/parental/brosis
+  item: people/verona-mayert
+- 
+  type: relations/money/debtor
+  item: people/kaleb-daugherty
+- 
+  type: relations/work/employer
+  item: companies/o-hara-hettinger
+- 
+  type: relations/work/client
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/employer
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/client
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

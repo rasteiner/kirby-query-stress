@@ -1,0 +1,64 @@
+Title: Alba Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ena-satterfield-v
+- 
+  type: relations/money/debtor
+  item: people/roger-hahn
+- 
+  type: relations/money/creditor
+  item: people/solon-littel-dds
+- 
+  type: relations/money/debtor
+  item: people/mrs-flo-anderson
+- 
+  type: relations/parental/dad
+  item: people/jan-veum
+- 
+  type: relations/money/creditor
+  item: people/muriel-medhurst-phd
+- 
+  type: relations/work/client
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/client
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/client
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

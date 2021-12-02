@@ -1,0 +1,64 @@
+Title: Dr. Jasmin Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/astrid-tromp
+- 
+  type: relations/money/debtor
+  item: people/mr-josue-friesen
+- 
+  type: relations/parental/mom
+  item: people/chauncey-marquardt
+- 
+  type: relations/parental/brosis
+  item: people/keith-dickinson-ii
+- 
+  type: relations/parental/dad
+  item: people/jamaal-franecki
+- 
+  type: relations/parental/friend
+  item: people/trisha-schaden-iii
+- 
+  type: relations/money/debtor
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/client
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/money/debtor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

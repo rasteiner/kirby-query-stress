@@ -1,0 +1,64 @@
+Title: Elenor West DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/vivien-stiedemann-iv
+- 
+  type: relations/parental/dad
+  item: people/precious-upton
+- 
+  type: relations/parental/dad
+  item: people/carley-rohan
+- 
+  type: relations/parental/dad
+  item: people/mikel-dach
+- 
+  type: relations/parental/colleague
+  item: people/blaze-beer
+- 
+  type: relations/money/creditor
+  item: people/regan-vonrueden
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/money/debtor
+  item: companies/kris-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hintz-group
+- 
+  type: relations/work/client
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

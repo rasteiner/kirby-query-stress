@@ -1,0 +1,64 @@
+Title: Prof. Florence Gulgowski DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jany-cassin
+- 
+  type: relations/parental/colleague
+  item: people/ms-ursula-schaefer-dds
+- 
+  type: relations/parental/dad
+  item: people/breanna-bartell
+- 
+  type: relations/money/creditor
+  item: people/ms-lera-ullrich
+- 
+  type: relations/money/creditor
+  item: people/sanford-glover
+- 
+  type: relations/parental/friend
+  item: people/miss-edna-kerluke-i
+- 
+  type: relations/money/debtor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/money/creditor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/work/client
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/leannon-adams
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

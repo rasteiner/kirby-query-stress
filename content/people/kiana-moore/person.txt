@@ -1,0 +1,64 @@
+Title: Kiana Moore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/connor-franecki
+- 
+  type: relations/money/debtor
+  item: people/brando-brakus
+- 
+  type: relations/money/creditor
+  item: people/devonte-miller
+- 
+  type: relations/parental/mom
+  item: people/prof-rick-schamberger
+- 
+  type: relations/parental/friend
+  item: people/lisa-smith
+- 
+  type: relations/money/creditor
+  item: people/vernice-hegmann
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

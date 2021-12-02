@@ -1,0 +1,64 @@
+Title: Prof. Rosamond O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-mabel-adams-iii
+- 
+  type: relations/parental/mom
+  item: people/josh-johns-i
+- 
+  type: relations/money/creditor
+  item: people/andre-ruecker
+- 
+  type: relations/parental/mom
+  item: people/mr-winfield-mayer-i
+- 
+  type: relations/parental/dad
+  item: people/pasquale-bergnaum
+- 
+  type: relations/money/debtor
+  item: people/gabrielle-kassulke
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,65 @@
+Title: Retha Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/wilford-weimann-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-gerald-stiedemann
+- 
+  type: relations/money/creditor
+  item: people/elinore-hackett
+- 
+  type: relations/parental/mom
+  item: people/prof-clara-cremin-iii
+- 
+  type: relations/money/debtor
+  item: people/prof-moises-streich
+- 
+  type: relations/parental/mom
+  item: people/prof-enrico-stroman-ii
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/client
+  item: companies/legros-and-sons
+- 
+  type: relations/work/client
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/client
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

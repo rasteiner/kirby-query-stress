@@ -1,0 +1,64 @@
+Title: Ms. Kaia Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-cyril-ullrich-dvm
+- 
+  type: relations/parental/brosis
+  item: people/calista-lynch
+- 
+  type: relations/parental/dad
+  item: people/ms-cassidy-graham-sr
+- 
+  type: relations/parental/friend
+  item: people/chloe-wolf
+- 
+  type: relations/parental/brosis
+  item: people/kenya-keeling-iii
+- 
+  type: relations/parental/friend
+  item: people/zander-gislason
+- 
+  type: relations/work/employer
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/work/client
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

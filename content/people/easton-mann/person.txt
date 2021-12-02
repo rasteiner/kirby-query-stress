@@ -1,0 +1,64 @@
+Title: Easton Mann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/blanche-hartmann
+- 
+  type: relations/money/creditor
+  item: people/dr-pete-wehner-iii
+- 
+  type: relations/parental/brosis
+  item: people/stevie-spencer
+- 
+  type: relations/parental/dad
+  item: people/rodolfo-harvey
+- 
+  type: relations/parental/mom
+  item: people/enid-mayert
+- 
+  type: relations/money/creditor
+  item: people/wilber-marvin
+- 
+  type: relations/work/employer
+  item: companies/williamson-willms
+- 
+  type: relations/money/creditor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/work/client
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

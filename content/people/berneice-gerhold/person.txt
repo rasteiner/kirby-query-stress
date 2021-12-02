@@ -1,0 +1,64 @@
+Title: Berneice Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-delpha-ebert-i
+- 
+  type: relations/money/creditor
+  item: people/rosalee-streich
+- 
+  type: relations/parental/dad
+  item: people/patience-cremin-iv
+- 
+  type: relations/parental/friend
+  item: people/antone-rath
+- 
+  type: relations/money/debtor
+  item: people/destini-crist-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-waylon-pacocha-i
+- 
+  type: relations/work/client
+  item: companies/grimes-inc
+- 
+  type: relations/work/client
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/work/employer
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

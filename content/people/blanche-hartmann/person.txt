@@ -1,0 +1,64 @@
+Title: Blanche Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-anais-hodkiewicz-iv
+- 
+  type: relations/money/debtor
+  item: people/queen-franecki
+- 
+  type: relations/parental/brosis
+  item: people/adele-shanahan
+- 
+  type: relations/parental/friend
+  item: people/prof-kristian-stiedemann-ii
+- 
+  type: relations/parental/colleague
+  item: people/rigoberto-sporer
+- 
+  type: relations/parental/colleague
+  item: people/enid-armstrong
+- 
+  type: relations/work/client
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

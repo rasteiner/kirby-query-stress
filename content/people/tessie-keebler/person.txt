@@ -1,0 +1,64 @@
+Title: Tessie Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-alan-ankunding
+- 
+  type: relations/parental/brosis
+  item: people/miss-vivian-von-iv
+- 
+  type: relations/money/creditor
+  item: people/shaylee-funk
+- 
+  type: relations/money/debtor
+  item: people/will-fay
+- 
+  type: relations/parental/dad
+  item: people/bert-rodriguez-md
+- 
+  type: relations/parental/colleague
+  item: people/megane-collier
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/employer
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

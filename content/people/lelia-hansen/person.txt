@@ -1,0 +1,64 @@
+Title: Lelia Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/trisha-ryan
+- 
+  type: relations/parental/colleague
+  item: people/mae-wyman-v
+- 
+  type: relations/parental/colleague
+  item: people/miss-hulda-hodkiewicz-iv
+- 
+  type: relations/parental/dad
+  item: people/rafaela-larson
+- 
+  type: relations/parental/mom
+  item: people/petra-senger
+- 
+  type: relations/parental/colleague
+  item: people/eleanore-aufderhar-iii
+- 
+  type: relations/work/client
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/client
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/work/client
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

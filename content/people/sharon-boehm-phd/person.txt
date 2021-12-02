@@ -1,0 +1,64 @@
+Title: Sharon Boehm PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/emil-kozey
+- 
+  type: relations/parental/colleague
+  item: people/marcos-brekke
+- 
+  type: relations/money/debtor
+  item: people/lindsay-hayes
+- 
+  type: relations/parental/friend
+  item: people/henriette-bechtelar
+- 
+  type: relations/parental/dad
+  item: people/elinore-kulas
+- 
+  type: relations/parental/brosis
+  item: people/koby-rempel
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

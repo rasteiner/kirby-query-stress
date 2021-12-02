@@ -1,0 +1,64 @@
+Title: Vernice Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rick-hyatt
+- 
+  type: relations/parental/colleague
+  item: people/lia-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/elmira-funk
+- 
+  type: relations/parental/friend
+  item: people/haylee-howell
+- 
+  type: relations/parental/friend
+  item: people/isaac-beer
+- 
+  type: relations/parental/brosis
+  item: people/eladio-prohaska
+- 
+  type: relations/work/client
+  item: companies/huels-walter
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

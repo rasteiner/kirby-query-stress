@@ -1,0 +1,64 @@
+Title: Greg Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/nedra-greenholt
+- 
+  type: relations/parental/dad
+  item: people/shea-gaylord
+- 
+  type: relations/money/debtor
+  item: people/carrie-klein
+- 
+  type: relations/parental/dad
+  item: people/craig-gaylord
+- 
+  type: relations/money/creditor
+  item: people/prof-noemy-larkin
+- 
+  type: relations/parental/mom
+  item: people/miss-malvina-homenick
+- 
+  type: relations/work/client
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/client
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

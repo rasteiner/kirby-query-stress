@@ -1,0 +1,64 @@
+Title: Alanna Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-morgan-heaney-i
+- 
+  type: relations/money/debtor
+  item: people/fanny-rice
+- 
+  type: relations/parental/colleague
+  item: people/dudley-white
+- 
+  type: relations/parental/colleague
+  item: people/miss-sierra-champlin
+- 
+  type: relations/parental/colleague
+  item: people/mr-austin-macejkovic
+- 
+  type: relations/money/creditor
+  item: people/jaylan-hudson
+- 
+  type: relations/work/client
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

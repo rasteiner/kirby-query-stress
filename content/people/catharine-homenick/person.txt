@@ -1,0 +1,64 @@
+Title: Catharine Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elnora-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/aniyah-mante
+- 
+  type: relations/parental/dad
+  item: people/mr-lon-crooks
+- 
+  type: relations/money/creditor
+  item: people/winifred-thiel
+- 
+  type: relations/parental/brosis
+  item: people/retta-nitzsche-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-brayan-anderson-jr
+- 
+  type: relations/work/employer
+  item: companies/mayer-llc
+- 
+  type: relations/money/creditor
+  item: companies/hickle-plc
+- 
+  type: relations/work/client
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Mr. Austyn Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/damien-franecki
+- 
+  type: relations/parental/dad
+  item: people/georgiana-ernser
+- 
+  type: relations/parental/colleague
+  item: people/robbie-bernier-ii
+- 
+  type: relations/parental/friend
+  item: people/spencer-stanton
+- 
+  type: relations/money/creditor
+  item: people/danial-parisian-iii
+- 
+  type: relations/parental/colleague
+  item: people/tremaine-daniel
+- 
+  type: relations/work/client
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

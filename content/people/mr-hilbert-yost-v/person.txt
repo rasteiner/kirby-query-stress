@@ -1,0 +1,65 @@
+Title: Mr. Hilbert Yost V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/fay-dickinson
+- 
+  type: relations/parental/dad
+  item: people/constance-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/keanu-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/emiliano-donnelly
+- 
+  type: relations/parental/mom
+  item: people/rocio-mann-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-jaeden-mraz
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

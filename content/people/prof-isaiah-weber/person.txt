@@ -1,0 +1,64 @@
+Title: Prof. Isaiah Weber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-beth-nitzsche-v
+- 
+  type: relations/parental/friend
+  item: people/ms-taya-hintz
+- 
+  type: relations/parental/colleague
+  item: people/isac-russel
+- 
+  type: relations/parental/mom
+  item: people/gussie-kemmer-jr
+- 
+  type: relations/parental/mom
+  item: people/miss-sydnie-douglas
+- 
+  type: relations/parental/friend
+  item: people/narciso-dicki
+- 
+  type: relations/money/creditor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/employer
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/client
+  item: companies/beahan-sauer
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

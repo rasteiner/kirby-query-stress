@@ -1,0 +1,43 @@
+Title: Yundt, Jerde and Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/money/creditor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/reingertown
+- 
+  type: relations/location/visited
+  item: places/new-aylastad

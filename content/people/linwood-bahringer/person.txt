@@ -1,0 +1,64 @@
+Title: Linwood Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-sadye-keebler-i
+- 
+  type: relations/parental/dad
+  item: people/miss-rachel-lemke
+- 
+  type: relations/parental/brosis
+  item: people/gayle-heaney
+- 
+  type: relations/parental/mom
+  item: people/mr-guido-lind-dvm
+- 
+  type: relations/money/creditor
+  item: people/prof-justus-powlowski-iv
+- 
+  type: relations/parental/mom
+  item: people/thurman-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

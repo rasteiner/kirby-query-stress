@@ -1,0 +1,64 @@
+Title: Addie Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/chet-mayer
+- 
+  type: relations/parental/colleague
+  item: people/virginia-klein
+- 
+  type: relations/money/creditor
+  item: people/genevieve-cruickshank-v
+- 
+  type: relations/parental/friend
+  item: people/jonathon-stokes
+- 
+  type: relations/parental/friend
+  item: people/marge-pacocha
+- 
+  type: relations/money/creditor
+  item: people/matteo-walker
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/client
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/employer
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/client
+  item: companies/nicolas-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

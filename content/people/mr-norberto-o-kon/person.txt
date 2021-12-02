@@ -1,0 +1,64 @@
+Title: Mr. Norberto O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/maryse-koelpin
+- 
+  type: relations/parental/mom
+  item: people/raoul-robel
+- 
+  type: relations/money/creditor
+  item: people/mr-louisa-conroy
+- 
+  type: relations/parental/dad
+  item: people/mr-jamison-schimmel
+- 
+  type: relations/parental/mom
+  item: people/darrell-abshire
+- 
+  type: relations/money/debtor
+  item: people/emelia-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/koch-ltd
+- 
+  type: relations/work/employer
+  item: companies/schoen-group
+- 
+  type: relations/work/employer
+  item: companies/daniel-hills
+- 
+  type: relations/money/creditor
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

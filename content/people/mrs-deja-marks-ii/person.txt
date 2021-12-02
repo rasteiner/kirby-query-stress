@@ -1,0 +1,64 @@
+Title: Mrs. Deja Marks II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tyshawn-jacobson
+- 
+  type: relations/parental/dad
+  item: people/prof-valerie-mcdermott
+- 
+  type: relations/parental/mom
+  item: people/ignatius-zboncak
+- 
+  type: relations/money/creditor
+  item: people/bernadine-gorczany-sr
+- 
+  type: relations/parental/brosis
+  item: people/brown-rempel
+- 
+  type: relations/parental/friend
+  item: people/prof-justen-batz
+- 
+  type: relations/work/employer
+  item: companies/labadie-plc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/mertz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

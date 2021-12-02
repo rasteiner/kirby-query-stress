@@ -1,0 +1,64 @@
+Title: Mr. Broderick Kshlerin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/shyanne-muller-i
+- 
+  type: relations/money/debtor
+  item: people/may-feeney
+- 
+  type: relations/parental/dad
+  item: people/ben-lakin
+- 
+  type: relations/money/debtor
+  item: people/gonzalo-schmeler
+- 
+  type: relations/parental/mom
+  item: people/carmella-stracke-md
+- 
+  type: relations/money/debtor
+  item: people/faustino-deckow
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-inc
+- 
+  type: relations/work/client
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/work/employer
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

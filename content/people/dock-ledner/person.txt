@@ -1,0 +1,64 @@
+Title: Dock Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dwight-torphy-dds
+- 
+  type: relations/money/creditor
+  item: people/ciara-haag
+- 
+  type: relations/parental/dad
+  item: people/loyal-bednar
+- 
+  type: relations/parental/friend
+  item: people/prof-shaylee-strosin
+- 
+  type: relations/parental/mom
+  item: people/montana-zieme
+- 
+  type: relations/parental/friend
+  item: people/hank-satterfield
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/client
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

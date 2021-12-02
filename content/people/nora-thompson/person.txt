@@ -1,0 +1,64 @@
+Title: Nora Thompson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sean-kovacek
+- 
+  type: relations/money/debtor
+  item: people/chris-tromp
+- 
+  type: relations/parental/colleague
+  item: people/raven-ratke
+- 
+  type: relations/parental/friend
+  item: people/prof-weston-stiedemann-dvm
+- 
+  type: relations/parental/colleague
+  item: people/bulah-paucek-i
+- 
+  type: relations/parental/dad
+  item: people/brandi-miller
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/client
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/client
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

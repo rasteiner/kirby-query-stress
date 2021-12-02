@@ -1,0 +1,64 @@
+Title: Esteban Green Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/isabelle-miller-ii
+- 
+  type: relations/parental/brosis
+  item: people/evie-stehr
+- 
+  type: relations/money/debtor
+  item: people/noelia-schowalter
+- 
+  type: relations/money/creditor
+  item: people/loren-veum-dds
+- 
+  type: relations/money/creditor
+  item: people/guido-hartmann
+- 
+  type: relations/parental/dad
+  item: people/mr-jaylan-haag-v
+- 
+  type: relations/work/client
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/debtor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/debtor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

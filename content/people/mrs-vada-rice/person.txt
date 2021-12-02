@@ -1,0 +1,64 @@
+Title: Mrs. Vada Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/payton-toy
+- 
+  type: relations/parental/colleague
+  item: people/arnaldo-bernier
+- 
+  type: relations/parental/friend
+  item: people/murray-koss
+- 
+  type: relations/money/debtor
+  item: people/martin-gerlach
+- 
+  type: relations/money/creditor
+  item: people/eldon-reichert-dvm
+- 
+  type: relations/parental/dad
+  item: people/karl-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

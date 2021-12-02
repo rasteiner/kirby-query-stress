@@ -1,0 +1,64 @@
+Title: Maya Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kallie-okuneva
+- 
+  type: relations/parental/dad
+  item: people/sadie-schmeler
+- 
+  type: relations/parental/dad
+  item: people/myrtie-thompson
+- 
+  type: relations/parental/mom
+  item: people/junior-reynolds
+- 
+  type: relations/money/debtor
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/work/employer
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/work/client
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

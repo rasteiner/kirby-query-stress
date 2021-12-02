@@ -1,0 +1,64 @@
+Title: Tania Effertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-shaina-gusikowski-v
+- 
+  type: relations/money/creditor
+  item: people/ahmad-lang-dds
+- 
+  type: relations/parental/friend
+  item: people/libby-berge
+- 
+  type: relations/parental/brosis
+  item: people/marjorie-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/jayne-stehr
+- 
+  type: relations/parental/mom
+  item: people/crystal-larson
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

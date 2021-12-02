@@ -1,0 +1,64 @@
+Title: Prof. Laura Parisian II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/riley-wiza
+- 
+  type: relations/parental/mom
+  item: people/jerome-o-connell
+- 
+  type: relations/parental/colleague
+  item: people/unique-schiller
+- 
+  type: relations/parental/brosis
+  item: people/thora-bednar-iii
+- 
+  type: relations/money/creditor
+  item: people/mrs-giovanna-deckow-v
+- 
+  type: relations/parental/dad
+  item: people/rowena-paucek-jr
+- 
+  type: relations/work/client
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/employer
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/employer
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

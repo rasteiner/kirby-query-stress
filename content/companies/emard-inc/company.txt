@@ -1,0 +1,43 @@
+Title: Emard Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury

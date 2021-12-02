@@ -1,0 +1,64 @@
+Title: Haven Ondricka Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cory-kuvalis
+- 
+  type: relations/money/debtor
+  item: people/mr-frankie-mann
+- 
+  type: relations/money/creditor
+  item: people/tianna-barton-phd
+- 
+  type: relations/parental/colleague
+  item: people/trever-lockman
+- 
+  type: relations/money/debtor
+  item: people/prof-hannah-friesen-jr
+- 
+  type: relations/parental/colleague
+  item: people/anastasia-williamson-md
+- 
+  type: relations/work/client
+  item: companies/gleason-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

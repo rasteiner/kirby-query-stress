@@ -1,0 +1,44 @@
+Title: McGlynn-O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim

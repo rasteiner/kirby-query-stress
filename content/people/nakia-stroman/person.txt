@@ -1,0 +1,64 @@
+Title: Nakia Stroman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/emelia-stiedemann
+- 
+  type: relations/parental/friend
+  item: people/nyasia-batz
+- 
+  type: relations/money/creditor
+  item: people/kay-ebert-dvm
+- 
+  type: relations/parental/mom
+  item: people/ramona-harris-ii
+- 
+  type: relations/parental/dad
+  item: people/michael-parisian
+- 
+  type: relations/parental/dad
+  item: people/gracie-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/client
+  item: companies/crona-and-sons
+- 
+  type: relations/work/client
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

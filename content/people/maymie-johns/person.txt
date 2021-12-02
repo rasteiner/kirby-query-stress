@@ -1,0 +1,64 @@
+Title: Maymie Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bianka-kunde
+- 
+  type: relations/money/debtor
+  item: people/dr-scottie-rippin
+- 
+  type: relations/parental/dad
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/parental/dad
+  item: people/fern-gerlach
+- 
+  type: relations/money/creditor
+  item: people/coralie-bode
+- 
+  type: relations/parental/dad
+  item: people/claudine-lindgren
+- 
+  type: relations/work/employer
+  item: companies/padberg-white
+- 
+  type: relations/work/employer
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/client
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

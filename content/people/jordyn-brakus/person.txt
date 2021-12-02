@@ -1,0 +1,64 @@
+Title: Jordyn Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jay-kautzer
+- 
+  type: relations/money/creditor
+  item: people/mrs-hermina-yundt-ii
+- 
+  type: relations/parental/mom
+  item: people/jake-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/jaylen-brown
+- 
+  type: relations/parental/mom
+  item: people/cleo-mckenzie
+- 
+  type: relations/parental/dad
+  item: people/mr-sedrick-emard
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

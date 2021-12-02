@@ -1,0 +1,64 @@
+Title: Florence Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/emmalee-runte
+- 
+  type: relations/parental/dad
+  item: people/miss-anne-nader
+- 
+  type: relations/parental/dad
+  item: people/mrs-yolanda-trantow-v
+- 
+  type: relations/parental/dad
+  item: people/paula-kuphal
+- 
+  type: relations/money/debtor
+  item: people/mohammad-ryan
+- 
+  type: relations/parental/brosis
+  item: people/prof-carlie-predovic
+- 
+  type: relations/work/client
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/work/employer
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

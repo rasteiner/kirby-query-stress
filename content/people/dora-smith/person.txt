@@ -1,0 +1,64 @@
+Title: Dora Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/quentin-bogisich
+- 
+  type: relations/parental/friend
+  item: people/prof-kianna-kessler
+- 
+  type: relations/parental/dad
+  item: people/monserrate-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/prof-domingo-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/mrs-maiya-harber
+- 
+  type: relations/parental/dad
+  item: people/brock-mckenzie
+- 
+  type: relations/work/employer
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/employer
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

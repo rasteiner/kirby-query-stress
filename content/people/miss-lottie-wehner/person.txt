@@ -1,0 +1,65 @@
+Title: Miss Lottie Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-arnaldo-brakus-ii
+- 
+  type: relations/parental/dad
+  item: people/lenora-ullrich-ii
+- 
+  type: relations/parental/mom
+  item: people/ms-kaitlin-koss
+- 
+  type: relations/parental/dad
+  item: people/faye-larson
+- 
+  type: relations/money/debtor
+  item: people/johnson-kirlin-dds
+- 
+  type: relations/parental/brosis
+  item: people/addie-wiza-dvm
+- 
+  type: relations/work/employer
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/employer
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

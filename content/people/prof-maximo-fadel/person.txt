@@ -1,0 +1,64 @@
+Title: Prof. Maximo Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rey-ebert
+- 
+  type: relations/money/debtor
+  item: people/myrtice-schiller
+- 
+  type: relations/parental/dad
+  item: people/mr-deonte-hayes-ii
+- 
+  type: relations/parental/dad
+  item: people/cecil-beer
+- 
+  type: relations/parental/friend
+  item: people/maggie-thiel-iii
+- 
+  type: relations/parental/dad
+  item: people/ms-katarina-toy
+- 
+  type: relations/money/creditor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/work/employer
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/work/employer
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

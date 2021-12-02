@@ -1,0 +1,65 @@
+Title: Deshaun Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mikayla-braun
+- 
+  type: relations/parental/dad
+  item: people/jayde-douglas
+- 
+  type: relations/parental/mom
+  item: people/dr-darian-runolfsson-iv
+- 
+  type: relations/money/creditor
+  item: people/madelynn-hyatt
+- 
+  type: relations/parental/dad
+  item: people/selmer-osinski
+- 
+  type: relations/parental/brosis
+  item: people/narciso-daugherty-ii
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

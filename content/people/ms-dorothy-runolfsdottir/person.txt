@@ -1,0 +1,64 @@
+Title: Ms. Dorothy Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/flossie-boehm
+- 
+  type: relations/parental/dad
+  item: people/citlalli-ernser-dvm
+- 
+  type: relations/parental/brosis
+  item: people/reva-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/leola-kihn
+- 
+  type: relations/parental/brosis
+  item: people/rhianna-purdy-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-jarret-langworth
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

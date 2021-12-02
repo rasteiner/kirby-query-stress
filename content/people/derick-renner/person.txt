@@ -1,0 +1,64 @@
+Title: Derick Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/brosis
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/parental/mom
+  item: people/shea-fisher-md
+- 
+  type: relations/money/debtor
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/parental/dad
+  item: people/lura-sipes
+- 
+  type: relations/parental/mom
+  item: people/dr-lela-senger-i
+- 
+  type: relations/work/employer
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

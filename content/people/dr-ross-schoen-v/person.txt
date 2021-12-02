@@ -1,0 +1,65 @@
+Title: Dr. Ross Schoen V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/judah-kemmer-sr
+- 
+  type: relations/money/creditor
+  item: people/mark-kub
+- 
+  type: relations/parental/friend
+  item: people/ewald-crooks
+- 
+  type: relations/parental/mom
+  item: people/anderson-swift
+- 
+  type: relations/parental/mom
+  item: people/beatrice-daugherty
+- 
+  type: relations/parental/mom
+  item: people/pasquale-lowe
+- 
+  type: relations/money/debtor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/lemke-ltd
+- 
+  type: relations/work/employer
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

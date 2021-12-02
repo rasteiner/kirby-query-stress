@@ -1,0 +1,64 @@
+Title: Mr. Franz Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/minerva-lakin-jr
+- 
+  type: relations/parental/brosis
+  item: people/elmer-rempel
+- 
+  type: relations/parental/friend
+  item: people/imelda-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/amani-dare
+- 
+  type: relations/parental/mom
+  item: people/lelah-reilly
+- 
+  type: relations/parental/dad
+  item: people/roosevelt-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bashirian
+- 
+  type: relations/work/client
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/employer
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

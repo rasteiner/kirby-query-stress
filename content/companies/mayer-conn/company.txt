@@ -1,0 +1,43 @@
+Title: Mayer-Conn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/robertstown
+- 
+  type: relations/location/residence
+  item: places/hillardburgh

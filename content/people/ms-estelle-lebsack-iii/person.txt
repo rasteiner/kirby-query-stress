@@ -1,0 +1,65 @@
+Title: Ms. Estelle Lebsack III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/carlos-armstrong
+- 
+  type: relations/parental/dad
+  item: people/prof-hailey-friesen
+- 
+  type: relations/parental/mom
+  item: people/mrs-krystina-kreiger
+- 
+  type: relations/parental/brosis
+  item: people/seth-collier-i
+- 
+  type: relations/parental/dad
+  item: people/lexi-stehr
+- 
+  type: relations/parental/mom
+  item: people/dr-leatha-kerluke
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

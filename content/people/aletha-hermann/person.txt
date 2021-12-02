@@ -1,0 +1,64 @@
+Title: Aletha Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-raul-torphy
+- 
+  type: relations/parental/friend
+  item: people/kianna-prohaska
+- 
+  type: relations/money/creditor
+  item: people/nona-schmeler-i
+- 
+  type: relations/parental/dad
+  item: people/andre-larson
+- 
+  type: relations/parental/colleague
+  item: people/cleta-harber
+- 
+  type: relations/money/debtor
+  item: people/giles-moore-iv
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

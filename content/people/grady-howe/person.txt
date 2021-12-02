@@ -1,0 +1,64 @@
+Title: Grady Howe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eldon-reichert-dvm
+- 
+  type: relations/money/debtor
+  item: people/karl-mclaughlin
+- 
+  type: relations/parental/mom
+  item: people/ansley-bernhard
+- 
+  type: relations/money/creditor
+  item: people/amiya-ankunding
+- 
+  type: relations/parental/dad
+  item: people/dr-brook-herzog-v
+- 
+  type: relations/parental/dad
+  item: people/dr-clementine-feeney
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/work/employer
+  item: companies/morissette-jerde
+- 
+  type: relations/work/client
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

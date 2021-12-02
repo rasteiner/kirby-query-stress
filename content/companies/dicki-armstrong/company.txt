@@ -1,0 +1,43 @@
+Title: Dicki-Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/reichel-llc
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/south-sadie

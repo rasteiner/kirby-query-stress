@@ -1,0 +1,64 @@
+Title: Shyanne Muller I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/america-cummerata
+- 
+  type: relations/parental/mom
+  item: people/jaycee-lang-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-magdalena-rogahn-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-anais-jones
+- 
+  type: relations/money/debtor
+  item: people/chester-purdy
+- 
+  type: relations/money/creditor
+  item: people/mitchell-legros-iii
+- 
+  type: relations/work/client
+  item: companies/abbott-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/employer
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,65 @@
+Title: Ms. Shakira Bradtke I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-rozella-mckenzie
+- 
+  type: relations/parental/dad
+  item: people/destiny-o-hara
+- 
+  type: relations/parental/friend
+  item: people/dr-bennie-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/nyasia-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/thea-will
+- 
+  type: relations/money/debtor
+  item: people/ines-heller
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/debtor
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Maribel Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/emily-roberts
+- 
+  type: relations/parental/colleague
+  item: people/trenton-swaniawski
+- 
+  type: relations/parental/brosis
+  item: people/lacy-schaden
+- 
+  type: relations/money/creditor
+  item: people/nicolette-gibson-sr
+- 
+  type: relations/money/creditor
+  item: people/elnora-schuppe
+- 
+  type: relations/parental/mom
+  item: people/dr-austen-jenkins-md
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/employer
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/employer
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

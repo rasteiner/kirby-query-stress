@@ -1,0 +1,64 @@
+Title: Prof. Lamont Renner II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/edison-hoppe-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-lew-beier-v
+- 
+  type: relations/parental/mom
+  item: people/brady-stamm-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-janae-herzog
+- 
+  type: relations/parental/dad
+  item: people/izabella-bayer
+- 
+  type: relations/money/creditor
+  item: people/stephany-nicolas
+- 
+  type: relations/work/employer
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

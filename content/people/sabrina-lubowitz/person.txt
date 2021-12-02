@@ -1,0 +1,64 @@
+Title: Sabrina Lubowitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/armani-beier
+- 
+  type: relations/money/debtor
+  item: people/kenneth-hammes
+- 
+  type: relations/money/creditor
+  item: people/hilario-ullrich
+- 
+  type: relations/parental/brosis
+  item: people/mr-kristian-greenfelder-dvm
+- 
+  type: relations/parental/mom
+  item: people/francesca-feeney-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-dereck-emard
+- 
+  type: relations/money/creditor
+  item: companies/stroman-ltd
+- 
+  type: relations/work/employer
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/client
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

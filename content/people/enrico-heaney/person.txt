@@ -1,0 +1,64 @@
+Title: Enrico Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/caesar-schmeler
+- 
+  type: relations/parental/dad
+  item: people/mr-charlie-predovic
+- 
+  type: relations/parental/friend
+  item: people/bryana-torphy-iii
+- 
+  type: relations/parental/dad
+  item: people/miss-zena-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/diamond-ondricka
+- 
+  type: relations/parental/brosis
+  item: people/kelly-nitzsche
+- 
+  type: relations/work/client
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

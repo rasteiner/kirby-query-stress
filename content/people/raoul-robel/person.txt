@@ -1,0 +1,64 @@
+Title: Raoul Robel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nicholaus-brakus
+- 
+  type: relations/parental/mom
+  item: people/jorge-funk
+- 
+  type: relations/parental/dad
+  item: people/earlene-watsica
+- 
+  type: relations/parental/brosis
+  item: people/ms-lexie-sawayn-dds
+- 
+  type: relations/parental/friend
+  item: people/yazmin-rempel
+- 
+  type: relations/parental/brosis
+  item: people/erna-gibson
+- 
+  type: relations/money/creditor
+  item: companies/thiel-howe
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

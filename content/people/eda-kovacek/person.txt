@@ -1,0 +1,64 @@
+Title: Eda Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/easton-bednar
+- 
+  type: relations/parental/colleague
+  item: people/gillian-simonis
+- 
+  type: relations/parental/mom
+  item: people/augustus-kris-jr
+- 
+  type: relations/parental/dad
+  item: people/mr-diamond-ward
+- 
+  type: relations/parental/brosis
+  item: people/chaya-haley
+- 
+  type: relations/parental/colleague
+  item: people/mr-carey-goodwin
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/debtor
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

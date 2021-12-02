@@ -1,0 +1,64 @@
+Title: Hobart Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tianna-barton-phd
+- 
+  type: relations/money/creditor
+  item: people/trever-lockman
+- 
+  type: relations/parental/dad
+  item: people/prof-hannah-friesen-jr
+- 
+  type: relations/parental/friend
+  item: people/anastasia-williamson-md
+- 
+  type: relations/parental/dad
+  item: people/zita-hoppe
+- 
+  type: relations/money/debtor
+  item: people/dr-tyler-nienow
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/work/client
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

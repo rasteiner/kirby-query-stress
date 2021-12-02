@@ -1,0 +1,64 @@
+Title: Ofelia Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-aditya-ondricka-i
+- 
+  type: relations/parental/brosis
+  item: people/bernie-schoen-iii
+- 
+  type: relations/parental/dad
+  item: people/mertie-prosacco
+- 
+  type: relations/parental/dad
+  item: people/anabel-heathcote
+- 
+  type: relations/parental/dad
+  item: people/dr-nathan-skiles
+- 
+  type: relations/money/debtor
+  item: people/edna-schimmel
+- 
+  type: relations/work/employer
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/employer
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

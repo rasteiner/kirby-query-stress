@@ -1,0 +1,64 @@
+Title: Leila Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-nolan-boyer
+- 
+  type: relations/parental/dad
+  item: people/coy-kerluke
+- 
+  type: relations/money/debtor
+  item: people/josefa-murphy
+- 
+  type: relations/parental/dad
+  item: people/prof-guido-gislason
+- 
+  type: relations/parental/brosis
+  item: people/prof-laron-gerlach
+- 
+  type: relations/money/debtor
+  item: people/berry-bartell
+- 
+  type: relations/work/client
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

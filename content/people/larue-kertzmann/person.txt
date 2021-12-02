@@ -1,0 +1,64 @@
+Title: Larue Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/shany-kirlin
+- 
+  type: relations/parental/dad
+  item: people/elissa-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/thalia-kovacek-md
+- 
+  type: relations/parental/mom
+  item: people/dr-ebony-lind-sr
+- 
+  type: relations/parental/dad
+  item: people/octavia-bechtelar
+- 
+  type: relations/parental/brosis
+  item: people/parker-barrows
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/employer
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

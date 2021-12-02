@@ -1,0 +1,64 @@
+Title: Okey Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/guido-hand
+- 
+  type: relations/parental/colleague
+  item: people/aidan-white
+- 
+  type: relations/parental/friend
+  item: people/ms-arlene-schmeler-iv
+- 
+  type: relations/parental/colleague
+  item: people/emily-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/prof-stephania-ruecker
+- 
+  type: relations/parental/mom
+  item: people/gladys-lind
+- 
+  type: relations/work/employer
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/work/client
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

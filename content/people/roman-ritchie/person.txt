@@ -1,0 +1,65 @@
+Title: Roman Ritchie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ottilie-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/jenifer-heaney
+- 
+  type: relations/parental/colleague
+  item: people/naomi-ritchie
+- 
+  type: relations/parental/mom
+  item: people/dr-ariel-leannon-iii
+- 
+  type: relations/parental/brosis
+  item: people/kenneth-kemmer
+- 
+  type: relations/parental/mom
+  item: people/miss-christina-wilkinson-dvm
+- 
+  type: relations/work/client
+  item: companies/runte-cremin
+- 
+  type: relations/work/employer
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

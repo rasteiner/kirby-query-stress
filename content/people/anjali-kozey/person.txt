@@ -1,0 +1,65 @@
+Title: Anjali Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lou-johnson
+- 
+  type: relations/parental/brosis
+  item: people/schuyler-rogahn-md
+- 
+  type: relations/parental/dad
+  item: people/gianni-lind
+- 
+  type: relations/parental/colleague
+  item: people/destiny-wolff
+- 
+  type: relations/parental/colleague
+  item: people/dr-tracy-harvey-md
+- 
+  type: relations/money/creditor
+  item: people/santina-bergstrom-sr
+- 
+  type: relations/work/client
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/employer
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/debtor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

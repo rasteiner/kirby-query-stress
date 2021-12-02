@@ -1,0 +1,64 @@
+Title: Zetta Walker I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/graciela-stracke
+- 
+  type: relations/parental/brosis
+  item: people/dr-davon-cummerata
+- 
+  type: relations/money/debtor
+  item: people/lonnie-lebsack
+- 
+  type: relations/parental/dad
+  item: people/magali-lebsack
+- 
+  type: relations/parental/mom
+  item: people/dasia-pfeffer
+- 
+  type: relations/money/creditor
+  item: people/prof-darwin-kuhlman-i
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

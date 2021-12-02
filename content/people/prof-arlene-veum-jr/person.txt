@@ -1,0 +1,65 @@
+Title: Prof. Arlene Veum Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lauryn-schiller
+- 
+  type: relations/parental/brosis
+  item: people/mr-dwight-mclaughlin
+- 
+  type: relations/parental/mom
+  item: people/mr-darryl-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/mellie-leuschke
+- 
+  type: relations/parental/dad
+  item: people/nat-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/celia-grant
+- 
+  type: relations/work/employer
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/employer
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

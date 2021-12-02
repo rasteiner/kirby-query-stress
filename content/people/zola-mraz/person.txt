@@ -1,0 +1,64 @@
+Title: Zola Mraz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mabelle-mayert
+- 
+  type: relations/parental/dad
+  item: people/faye-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/damian-herman
+- 
+  type: relations/parental/friend
+  item: people/ms-kaelyn-kutch-dds
+- 
+  type: relations/money/debtor
+  item: people/rosendo-mertz
+- 
+  type: relations/parental/friend
+  item: people/rhiannon-schoen
+- 
+  type: relations/money/creditor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

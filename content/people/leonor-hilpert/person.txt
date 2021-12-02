@@ -1,0 +1,64 @@
+Title: Leonor Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cassandre-murazik
+- 
+  type: relations/money/creditor
+  item: people/prof-bobbie-schoen-i
+- 
+  type: relations/parental/mom
+  item: people/jackson-bode
+- 
+  type: relations/parental/colleague
+  item: people/dr-keyshawn-schuppe
+- 
+  type: relations/money/creditor
+  item: people/mr-brandt-hoppe-v
+- 
+  type: relations/money/debtor
+  item: people/dr-darby-bins-iv
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,44 @@
+Title: Kreiger, Flatley and Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/money/creditor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-inc
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/odellborough

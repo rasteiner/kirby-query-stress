@@ -1,0 +1,64 @@
+Title: Dr. Claudie Hagenes MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-lavon-senger
+- 
+  type: relations/parental/brosis
+  item: people/marlin-bednar
+- 
+  type: relations/parental/friend
+  item: people/prof-joaquin-raynor
+- 
+  type: relations/parental/brosis
+  item: people/miss-mozelle-turcotte
+- 
+  type: relations/money/creditor
+  item: people/prof-garett-schulist
+- 
+  type: relations/parental/friend
+  item: people/cedrick-torp
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-leannon
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

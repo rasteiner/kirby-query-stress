@@ -1,0 +1,64 @@
+Title: Enid Sporer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alverta-heathcote-iii
+- 
+  type: relations/parental/brosis
+  item: people/ali-monahan
+- 
+  type: relations/parental/friend
+  item: people/simone-glover
+- 
+  type: relations/money/debtor
+  item: people/dr-richmond-kutch
+- 
+  type: relations/parental/mom
+  item: people/maximillia-beier
+- 
+  type: relations/parental/brosis
+  item: people/murphy-medhurst-phd
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

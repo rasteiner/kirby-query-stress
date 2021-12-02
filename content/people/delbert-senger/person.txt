@@ -1,0 +1,65 @@
+Title: Delbert Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/josefa-murphy
+- 
+  type: relations/money/debtor
+  item: people/prof-guido-gislason
+- 
+  type: relations/parental/colleague
+  item: people/prof-laron-gerlach
+- 
+  type: relations/money/creditor
+  item: people/berry-bartell
+- 
+  type: relations/parental/colleague
+  item: people/addison-grant
+- 
+  type: relations/money/creditor
+  item: people/gertrude-rogahn
+- 
+  type: relations/work/employer
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/work/client
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/money/creditor
+  item: companies/muller-lockman
+- 
+  type: relations/work/employer
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

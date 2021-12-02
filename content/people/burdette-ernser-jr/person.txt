@@ -1,0 +1,65 @@
+Title: Burdette Ernser Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-kenyatta-roberts-i
+- 
+  type: relations/parental/mom
+  item: people/mackenzie-dickens
+- 
+  type: relations/parental/dad
+  item: people/aliza-jakubowski
+- 
+  type: relations/parental/friend
+  item: people/mr-jeramie-collier-md
+- 
+  type: relations/money/debtor
+  item: people/prof-samanta-volkman-ii
+- 
+  type: relations/parental/brosis
+  item: people/candelario-towne
+- 
+  type: relations/work/client
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/client
+  item: companies/legros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/employer
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

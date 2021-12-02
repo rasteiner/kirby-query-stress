@@ -1,0 +1,64 @@
+Title: Melany Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nicklaus-will
+- 
+  type: relations/parental/brosis
+  item: people/dr-laila-maggio
+- 
+  type: relations/parental/colleague
+  item: people/dan-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/dr-trevion-bins
+- 
+  type: relations/parental/brosis
+  item: people/trisha-ryan
+- 
+  type: relations/money/debtor
+  item: people/mae-wyman-v
+- 
+  type: relations/work/client
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

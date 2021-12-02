@@ -1,0 +1,64 @@
+Title: Camren Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ericka-corwin
+- 
+  type: relations/money/creditor
+  item: people/miss-idell-skiles-i
+- 
+  type: relations/parental/mom
+  item: people/alysha-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/lucienne-sawayn
+- 
+  type: relations/parental/brosis
+  item: people/kaylah-cartwright
+- 
+  type: relations/parental/friend
+  item: people/miss-meghan-lind-v
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,65 @@
+Title: Ozella Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kaya-renner-md
+- 
+  type: relations/parental/dad
+  item: people/meaghan-armstrong
+- 
+  type: relations/parental/mom
+  item: people/laurel-ullrich
+- 
+  type: relations/money/debtor
+  item: people/ms-ophelia-rippin-iv
+- 
+  type: relations/parental/friend
+  item: people/alejandrin-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/ms-maida-feil
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/work/client
+  item: companies/larson-denesik
+- 
+  type: relations/money/debtor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/employer
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

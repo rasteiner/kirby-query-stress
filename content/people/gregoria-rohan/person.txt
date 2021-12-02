@@ -1,0 +1,64 @@
+Title: Gregoria Rohan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elbert-schulist
+- 
+  type: relations/parental/friend
+  item: people/prof-terence-gleason
+- 
+  type: relations/parental/colleague
+  item: people/mr-ariel-fisher
+- 
+  type: relations/parental/dad
+  item: people/prof-darron-treutel-phd
+- 
+  type: relations/parental/dad
+  item: people/mckenzie-sauer-dds
+- 
+  type: relations/parental/colleague
+  item: people/theodora-christiansen
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/employer
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

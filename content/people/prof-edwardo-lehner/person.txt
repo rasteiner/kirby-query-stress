@@ -1,0 +1,64 @@
+Title: Prof. Edwardo Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-skylar-shields
+- 
+  type: relations/parental/dad
+  item: people/dr-laron-hilll
+- 
+  type: relations/parental/friend
+  item: people/una-bauch
+- 
+  type: relations/money/creditor
+  item: people/brando-sipes
+- 
+  type: relations/parental/colleague
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/parental/brosis
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/employer
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

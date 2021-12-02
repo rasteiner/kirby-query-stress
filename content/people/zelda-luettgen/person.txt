@@ -1,0 +1,64 @@
+Title: Zelda Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/neal-kertzmann-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-tracey-langosh-dds
+- 
+  type: relations/parental/friend
+  item: people/kris-jast-phd
+- 
+  type: relations/parental/brosis
+  item: people/ulises-ratke
+- 
+  type: relations/money/creditor
+  item: people/salvador-walsh
+- 
+  type: relations/parental/mom
+  item: people/cornelius-bode-v
+- 
+  type: relations/work/employer
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Dr. Chauncey Romaguera IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-llewellyn-heller
+- 
+  type: relations/parental/brosis
+  item: people/aidan-powlowski
+- 
+  type: relations/parental/friend
+  item: people/prof-jerod-stark
+- 
+  type: relations/parental/brosis
+  item: people/audra-roberts
+- 
+  type: relations/parental/colleague
+  item: people/sherwood-ruecker
+- 
+  type: relations/parental/brosis
+  item: people/francesca-kohler
+- 
+  type: relations/money/debtor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-group
+- 
+  type: relations/work/client
+  item: companies/wuckert-little
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

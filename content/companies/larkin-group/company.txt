@@ -1,0 +1,43 @@
+Title: Larkin Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/nolan-inc
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/crookstown
+- 
+  type: relations/location/visited
+  item: places/north-trestad

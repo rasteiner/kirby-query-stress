@@ -1,0 +1,64 @@
+Title: Prof. Trenton Dickinson IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/bradly-lind
+- 
+  type: relations/parental/dad
+  item: people/sydnie-feil
+- 
+  type: relations/parental/dad
+  item: people/prof-marion-smitham-phd
+- 
+  type: relations/parental/colleague
+  item: people/colleen-kilback-jr
+- 
+  type: relations/money/creditor
+  item: people/maddison-blanda-iii
+- 
+  type: relations/parental/colleague
+  item: people/palma-runolfsson
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

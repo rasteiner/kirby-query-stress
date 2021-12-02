@@ -1,0 +1,64 @@
+Title: Brent Hane DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/karley-hyatt
+- 
+  type: relations/parental/friend
+  item: people/kasey-zulauf
+- 
+  type: relations/money/creditor
+  item: people/nikki-bechtelar
+- 
+  type: relations/money/creditor
+  item: people/ms-lindsay-von
+- 
+  type: relations/parental/dad
+  item: people/mireille-schumm
+- 
+  type: relations/money/creditor
+  item: people/miss-carole-zboncak-v
+- 
+  type: relations/money/creditor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/lehner-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

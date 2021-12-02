@@ -1,0 +1,64 @@
+Title: Lila Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ben-lakin
+- 
+  type: relations/parental/dad
+  item: people/gonzalo-schmeler
+- 
+  type: relations/parental/dad
+  item: people/carmella-stracke-md
+- 
+  type: relations/parental/colleague
+  item: people/faustino-deckow
+- 
+  type: relations/parental/friend
+  item: people/prof-raina-lueilwitz
+- 
+  type: relations/parental/brosis
+  item: people/jayme-bayer
+- 
+  type: relations/money/debtor
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

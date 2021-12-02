@@ -1,0 +1,64 @@
+Title: Lilly Beatty Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/francisco-dare
+- 
+  type: relations/parental/brosis
+  item: people/rupert-ferry-dds
+- 
+  type: relations/money/creditor
+  item: people/marjolaine-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/dr-spencer-heidenreich
+- 
+  type: relations/parental/brosis
+  item: people/emanuel-ebert
+- 
+  type: relations/parental/dad
+  item: people/kylie-bernier
+- 
+  type: relations/work/client
+  item: companies/gorczany-group
+- 
+  type: relations/money/debtor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/employer
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

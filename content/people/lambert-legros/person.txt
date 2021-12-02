@@ -1,0 +1,64 @@
+Title: Lambert Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eva-kuhic-ii
+- 
+  type: relations/money/creditor
+  item: people/assunta-lind
+- 
+  type: relations/money/debtor
+  item: people/dock-ledner
+- 
+  type: relations/parental/colleague
+  item: people/erwin-kuhn
+- 
+  type: relations/money/debtor
+  item: people/willow-boyer
+- 
+  type: relations/parental/friend
+  item: people/prof-frieda-mayert-md
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/client
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

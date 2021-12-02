@@ -1,0 +1,43 @@
+Title: Schowalter, Gutmann and Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/money/debtor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/vernieview

@@ -1,0 +1,64 @@
+Title: Pamela Hilll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kylee-koss
+- 
+  type: relations/parental/brosis
+  item: people/prof-carmine-cassin
+- 
+  type: relations/parental/brosis
+  item: people/general-hills
+- 
+  type: relations/parental/brosis
+  item: people/braeden-ledner
+- 
+  type: relations/parental/friend
+  item: people/onie-ritchie
+- 
+  type: relations/money/creditor
+  item: people/dr-bernadine-aufderhar
+- 
+  type: relations/work/client
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

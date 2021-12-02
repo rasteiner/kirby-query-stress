@@ -1,0 +1,64 @@
+Title: Dr. Marlene Purdy Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-vada-von-sr
+- 
+  type: relations/parental/colleague
+  item: people/carli-kuvalis
+- 
+  type: relations/parental/dad
+  item: people/jamarcus-streich
+- 
+  type: relations/parental/dad
+  item: people/prof-ettie-jacobs-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-alejandrin-bernier
+- 
+  type: relations/parental/colleague
+  item: people/dr-general-dickinson
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

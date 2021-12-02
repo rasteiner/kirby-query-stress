@@ -1,0 +1,64 @@
+Title: Kiara Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-brook-koepp-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-danial-lowe-iv
+- 
+  type: relations/parental/mom
+  item: people/mitchell-abbott-jr
+- 
+  type: relations/parental/brosis
+  item: people/mr-marcus-kulas
+- 
+  type: relations/parental/brosis
+  item: people/mr-evan-effertz-iii
+- 
+  type: relations/money/debtor
+  item: people/ms-shana-bradtke
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

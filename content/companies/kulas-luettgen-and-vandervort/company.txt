@@ -1,0 +1,44 @@
+Title: Kulas, Luettgen and Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/labadie-plc
+- 
+  type: relations/money/debtor
+  item: companies/block-inc
+- 
+  type: relations/money/creditor
+  item: companies/thompson-flatley
+- 
+  type: relations/money/creditor
+  item: companies/effertz-llc
+- 
+  type: relations/money/debtor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/money/creditor
+  item: companies/spinka-plc
+- 
+  type: relations/money/creditor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/kaleland

@@ -1,0 +1,64 @@
+Title: Elta Stoltenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-alexane-mitchell-md
+- 
+  type: relations/parental/mom
+  item: people/timmothy-hamill
+- 
+  type: relations/parental/dad
+  item: people/myles-osinski
+- 
+  type: relations/money/creditor
+  item: people/parker-cummings
+- 
+  type: relations/money/creditor
+  item: people/floy-senger-dds
+- 
+  type: relations/parental/colleague
+  item: people/shania-larson
+- 
+  type: relations/money/debtor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

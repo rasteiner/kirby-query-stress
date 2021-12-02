@@ -1,0 +1,43 @@
+Title: Hoeger Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-watsica
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/goyette-wiza
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh

@@ -1,0 +1,64 @@
+Title: America Ankunding IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-favian-runolfsdottir-dvm
+- 
+  type: relations/money/debtor
+  item: people/lynn-mills-md
+- 
+  type: relations/parental/friend
+  item: people/fritz-denesik
+- 
+  type: relations/parental/mom
+  item: people/gregoria-carroll
+- 
+  type: relations/parental/mom
+  item: people/genoveva-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/terrell-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

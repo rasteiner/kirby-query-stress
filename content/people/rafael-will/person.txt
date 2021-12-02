@@ -1,0 +1,64 @@
+Title: Rafael Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alexandrea-nikolaus
+- 
+  type: relations/parental/friend
+  item: people/greg-dicki-md
+- 
+  type: relations/parental/mom
+  item: people/dr-geraldine-o-keefe
+- 
+  type: relations/money/creditor
+  item: people/lacey-zboncak
+- 
+  type: relations/parental/dad
+  item: people/markus-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/kaleb-hahn
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/employer
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/client
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

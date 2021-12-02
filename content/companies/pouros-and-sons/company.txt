@@ -1,0 +1,43 @@
+Title: Pouros and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ward-dickens
+- 
+  type: relations/money/debtor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/hageneston

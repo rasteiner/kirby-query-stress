@@ -1,0 +1,64 @@
+Title: Myrtie Schultz PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alessia-tillman
+- 
+  type: relations/parental/mom
+  item: people/mr-amani-witting
+- 
+  type: relations/parental/brosis
+  item: people/shanon-howell
+- 
+  type: relations/parental/friend
+  item: people/prof-izaiah-kuphal
+- 
+  type: relations/parental/friend
+  item: people/fiona-morar-dvm
+- 
+  type: relations/parental/mom
+  item: people/teresa-witting
+- 
+  type: relations/work/client
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/creditor
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

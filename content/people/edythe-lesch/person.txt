@@ -1,0 +1,64 @@
+Title: Edythe Lesch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jermaine-gusikowski-dvm
+- 
+  type: relations/parental/mom
+  item: people/mr-jeffery-lemke-sr
+- 
+  type: relations/parental/brosis
+  item: people/eva-friesen
+- 
+  type: relations/parental/friend
+  item: people/amaya-smith
+- 
+  type: relations/parental/mom
+  item: people/lauretta-collier
+- 
+  type: relations/money/debtor
+  item: people/miss-frida-o-keefe-v
+- 
+  type: relations/work/employer
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/employer
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

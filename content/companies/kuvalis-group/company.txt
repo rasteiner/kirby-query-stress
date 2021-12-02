@@ -1,0 +1,43 @@
+Title: Kuvalis Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-llc
+- 
+  type: relations/money/creditor
+  item: companies/windler-plc
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/debtor
+  item: companies/davis-kemmer
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh

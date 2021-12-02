@@ -1,0 +1,64 @@
+Title: Al Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jordy-kemmer
+- 
+  type: relations/money/debtor
+  item: people/mr-coy-fadel
+- 
+  type: relations/parental/dad
+  item: people/valentina-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/jeanette-tillman-jr
+- 
+  type: relations/money/debtor
+  item: people/dr-ona-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/kurtis-marquardt-sr
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Ines Heller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-emil-rau-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-robin-gaylord-sr
+- 
+  type: relations/parental/colleague
+  item: people/fritz-murazik
+- 
+  type: relations/money/creditor
+  item: people/dudley-morissette
+- 
+  type: relations/parental/colleague
+  item: people/prof-dana-larson
+- 
+  type: relations/parental/brosis
+  item: people/oswald-konopelski
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

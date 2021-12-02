@@ -1,0 +1,64 @@
+Title: Maggie Thiel III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brad-breitenberg
+- 
+  type: relations/parental/colleague
+  item: people/mr-sterling-stoltenberg-iv
+- 
+  type: relations/parental/friend
+  item: people/ms-trinity-d-amore-jr
+- 
+  type: relations/parental/colleague
+  item: people/curt-balistreri
+- 
+  type: relations/money/creditor
+  item: people/mae-jenkins
+- 
+  type: relations/parental/friend
+  item: people/della-kohler-phd
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/client
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

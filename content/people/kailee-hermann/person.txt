@@ -1,0 +1,64 @@
+Title: Kailee Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/roma-schultz
+- 
+  type: relations/parental/brosis
+  item: people/jordon-goodwin-jr
+- 
+  type: relations/parental/dad
+  item: people/thurman-nicolas
+- 
+  type: relations/parental/mom
+  item: people/delta-wilderman
+- 
+  type: relations/parental/brosis
+  item: people/dorothea-o-kon-iv
+- 
+  type: relations/parental/brosis
+  item: people/adelbert-lubowitz-v
+- 
+  type: relations/work/employer
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/client
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

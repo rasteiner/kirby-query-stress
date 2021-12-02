@@ -1,0 +1,64 @@
+Title: Eileen Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-jamaal-barrows-phd
+- 
+  type: relations/money/debtor
+  item: people/chester-deckow
+- 
+  type: relations/parental/brosis
+  item: people/jaime-maggio
+- 
+  type: relations/parental/mom
+  item: people/ms-myah-torp
+- 
+  type: relations/money/creditor
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/money/creditor
+  item: people/paris-hagenes
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/work/client
+  item: companies/little-sipes
+- 
+  type: relations/work/client
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/client
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Arvilla Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/catharine-upton
+- 
+  type: relations/parental/mom
+  item: people/valerie-shanahan
+- 
+  type: relations/money/creditor
+  item: people/mr-pedro-hills-iv
+- 
+  type: relations/parental/friend
+  item: people/marquise-greenfelder-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-caleigh-bayer-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-fredy-stamm
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/work/client
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Prof. Rogelio Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-arlene-veum-jr
+- 
+  type: relations/parental/dad
+  item: people/maud-mertz
+- 
+  type: relations/parental/colleague
+  item: people/prof-johanna-heidenreich
+- 
+  type: relations/parental/colleague
+  item: people/vincent-gleason
+- 
+  type: relations/parental/dad
+  item: people/alessia-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/santos-reynolds
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

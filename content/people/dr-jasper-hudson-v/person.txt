@@ -1,0 +1,64 @@
+Title: Dr. Jasper Hudson V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-mable-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/dr-roscoe-abernathy-dvm
+- 
+  type: relations/parental/dad
+  item: people/elinor-johns
+- 
+  type: relations/money/debtor
+  item: people/ms-wilhelmine-keebler
+- 
+  type: relations/parental/mom
+  item: people/shyanne-muller-i
+- 
+  type: relations/parental/dad
+  item: people/may-feeney
+- 
+  type: relations/work/employer
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/weber-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-bode
+- 
+  type: relations/money/debtor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

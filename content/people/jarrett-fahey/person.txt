@@ -1,0 +1,64 @@
+Title: Jarrett Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/theresa-orn
+- 
+  type: relations/parental/friend
+  item: people/precious-cruickshank
+- 
+  type: relations/parental/friend
+  item: people/imelda-kihn
+- 
+  type: relations/money/debtor
+  item: people/dr-allen-hodkiewicz-ii
+- 
+  type: relations/parental/brosis
+  item: people/felipe-harber
+- 
+  type: relations/parental/friend
+  item: people/sigrid-goyette-jr
+- 
+  type: relations/money/debtor
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

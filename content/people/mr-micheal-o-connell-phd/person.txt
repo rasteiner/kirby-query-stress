@@ -1,0 +1,64 @@
+Title: Mr. Micheal O'Connell PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bradly-dickinson
+- 
+  type: relations/money/debtor
+  item: people/golden-raynor
+- 
+  type: relations/money/creditor
+  item: people/halle-blanda
+- 
+  type: relations/parental/brosis
+  item: people/aiden-krajcik-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-leola-johnson-md
+- 
+  type: relations/parental/colleague
+  item: people/crawford-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Cristian Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/joyce-wolff
+- 
+  type: relations/money/debtor
+  item: people/mrs-bette-frami-i
+- 
+  type: relations/money/creditor
+  item: people/emiliano-sauer-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-jackeline-murazik-md
+- 
+  type: relations/parental/mom
+  item: people/laverne-goodwin
+- 
+  type: relations/money/creditor
+  item: people/marisa-gaylord
+- 
+  type: relations/work/employer
+  item: companies/carter-inc
+- 
+  type: relations/work/client
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

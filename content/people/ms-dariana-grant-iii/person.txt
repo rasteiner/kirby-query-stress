@@ -1,0 +1,64 @@
+Title: Ms. Dariana Grant III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/deonte-borer-md
+- 
+  type: relations/parental/friend
+  item: people/dr-dereck-padberg
+- 
+  type: relations/parental/dad
+  item: people/nannie-moore
+- 
+  type: relations/parental/mom
+  item: people/prof-travon-hegmann
+- 
+  type: relations/parental/brosis
+  item: people/jeanne-klocko-v
+- 
+  type: relations/parental/mom
+  item: people/cassie-morissette-iii
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

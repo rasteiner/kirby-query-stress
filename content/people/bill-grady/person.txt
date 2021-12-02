@@ -1,0 +1,64 @@
+Title: Bill Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/murray-koss
+- 
+  type: relations/money/creditor
+  item: people/martin-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/eldon-reichert-dvm
+- 
+  type: relations/parental/colleague
+  item: people/karl-mclaughlin
+- 
+  type: relations/parental/mom
+  item: people/ansley-bernhard
+- 
+  type: relations/parental/dad
+  item: people/amiya-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/work/employer
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

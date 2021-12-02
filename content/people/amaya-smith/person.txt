@@ -1,0 +1,64 @@
+Title: Amaya Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/joyce-kunze
+- 
+  type: relations/parental/colleague
+  item: people/liliana-block
+- 
+  type: relations/parental/brosis
+  item: people/carmine-botsford
+- 
+  type: relations/parental/colleague
+  item: people/prof-jarod-johnston-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-arnold-heller
+- 
+  type: relations/parental/mom
+  item: people/saige-gutmann
+- 
+  type: relations/work/client
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/employer
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

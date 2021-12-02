@@ -1,0 +1,64 @@
+Title: Dr. Amos Mohr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-augustus-cassin-iv
+- 
+  type: relations/parental/dad
+  item: people/dr-gisselle-purdy-sr
+- 
+  type: relations/money/creditor
+  item: people/cory-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/mr-frankie-mann
+- 
+  type: relations/parental/colleague
+  item: people/tianna-barton-phd
+- 
+  type: relations/parental/friend
+  item: people/trever-lockman
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/money/creditor
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Miss Shana Boyle Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/parental/brosis
+  item: people/robb-parisian
+- 
+  type: relations/parental/mom
+  item: people/kennith-lebsack
+- 
+  type: relations/money/debtor
+  item: people/leda-mitchell
+- 
+  type: relations/money/creditor
+  item: people/maverick-schiller
+- 
+  type: relations/parental/mom
+  item: people/prof-laurence-ernser-phd
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

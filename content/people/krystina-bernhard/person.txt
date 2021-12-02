@@ -1,0 +1,64 @@
+Title: Krystina Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ismael-wyman-jr
+- 
+  type: relations/parental/friend
+  item: people/ms-amie-rolfson-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-telly-harvey
+- 
+  type: relations/parental/colleague
+  item: people/prof-brando-price
+- 
+  type: relations/money/creditor
+  item: people/rey-ebert
+- 
+  type: relations/money/debtor
+  item: people/myrtice-schiller
+- 
+  type: relations/work/employer
+  item: companies/dickinson-plc
+- 
+  type: relations/work/employer
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/client
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

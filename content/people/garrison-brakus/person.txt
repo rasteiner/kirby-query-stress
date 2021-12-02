@@ -1,0 +1,64 @@
+Title: Garrison Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/clovis-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/nathen-o-hara
+- 
+  type: relations/money/creditor
+  item: people/hermina-kris
+- 
+  type: relations/parental/friend
+  item: people/alessandro-doyle
+- 
+  type: relations/money/creditor
+  item: people/prof-clair-bernhard
+- 
+  type: relations/parental/friend
+  item: people/dr-dovie-willms
+- 
+  type: relations/work/client
+  item: companies/hayes-yost
+- 
+  type: relations/work/client
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

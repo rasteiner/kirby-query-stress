@@ -1,0 +1,64 @@
+Title: Roma Wisozk IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/chester-purdy
+- 
+  type: relations/money/debtor
+  item: people/mitchell-legros-iii
+- 
+  type: relations/parental/mom
+  item: people/prof-roderick-schaden
+- 
+  type: relations/money/creditor
+  item: people/ms-cheyanne-gleichner-iv
+- 
+  type: relations/parental/friend
+  item: people/lonnie-hills
+- 
+  type: relations/parental/dad
+  item: people/maiya-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

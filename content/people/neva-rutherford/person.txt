@@ -1,0 +1,64 @@
+Title: Neva Rutherford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dave-hahn
+- 
+  type: relations/parental/mom
+  item: people/gloria-rippin
+- 
+  type: relations/parental/colleague
+  item: people/prof-maia-dicki-jr
+- 
+  type: relations/parental/colleague
+  item: people/raymond-dach
+- 
+  type: relations/money/creditor
+  item: people/hans-hermiston-v
+- 
+  type: relations/parental/mom
+  item: people/valentine-willms
+- 
+  type: relations/work/client
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/client
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Prof. Emilio Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sandrine-pagac
+- 
+  type: relations/money/debtor
+  item: people/melvina-murazik
+- 
+  type: relations/money/debtor
+  item: people/johnny-stanton
+- 
+  type: relations/money/debtor
+  item: people/dr-wilber-padberg
+- 
+  type: relations/money/creditor
+  item: people/gerard-johns
+- 
+  type: relations/parental/friend
+  item: people/prof-maximo-fadel
+- 
+  type: relations/work/employer
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/client
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

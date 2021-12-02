@@ -1,0 +1,64 @@
+Title: Mrs. Jayne Mayer Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-delphia-satterfield
+- 
+  type: relations/money/debtor
+  item: people/sibyl-hahn
+- 
+  type: relations/money/creditor
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/parental/colleague
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/parental/mom
+  item: people/cleveland-gleichner
+- 
+  type: relations/parental/mom
+  item: people/mrs-enola-hansen-jr
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

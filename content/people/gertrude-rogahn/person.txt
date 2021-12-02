@@ -1,0 +1,64 @@
+Title: Gertrude Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lenora-walsh
+- 
+  type: relations/parental/colleague
+  item: people/anne-johnson
+- 
+  type: relations/money/debtor
+  item: people/sallie-hickle-dds
+- 
+  type: relations/money/debtor
+  item: people/audie-berge-jr
+- 
+  type: relations/money/creditor
+  item: people/isabel-friesen
+- 
+  type: relations/parental/colleague
+  item: people/graham-effertz
+- 
+  type: relations/work/employer
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,65 @@
+Title: Prof. Helen Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/angelo-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/assunta-kihn
+- 
+  type: relations/money/creditor
+  item: people/dr-kristofer-crist
+- 
+  type: relations/money/creditor
+  item: people/brooks-zieme-md
+- 
+  type: relations/money/creditor
+  item: people/ms-lillian-ullrich
+- 
+  type: relations/parental/brosis
+  item: people/vida-bode
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

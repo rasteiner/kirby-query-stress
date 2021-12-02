@@ -1,0 +1,64 @@
+Title: Price Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ila-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: people/mr-enoch-denesik-jr
+- 
+  type: relations/parental/dad
+  item: people/lilliana-pfeffer
+- 
+  type: relations/parental/dad
+  item: people/kristian-corkery
+- 
+  type: relations/parental/colleague
+  item: people/jeanie-greenholt
+- 
+  type: relations/money/debtor
+  item: people/brittany-harber-sr
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/client
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

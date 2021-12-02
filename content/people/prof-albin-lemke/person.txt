@@ -1,0 +1,64 @@
+Title: Prof. Albin Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lottie-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/jake-harris-md
+- 
+  type: relations/parental/colleague
+  item: people/cordelia-schaden-i
+- 
+  type: relations/money/creditor
+  item: people/destin-von
+- 
+  type: relations/money/debtor
+  item: people/prof-ryan-swift
+- 
+  type: relations/parental/colleague
+  item: people/clay-doyle
+- 
+  type: relations/work/employer
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/money/debtor
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

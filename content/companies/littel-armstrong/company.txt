@@ -1,0 +1,43 @@
+Title: Littel-Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/south-isabel

@@ -1,0 +1,64 @@
+Title: Noemy Collier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/bo-gleason
+- 
+  type: relations/money/creditor
+  item: people/ara-okuneva
+- 
+  type: relations/parental/dad
+  item: people/eloy-schmidt
+- 
+  type: relations/parental/friend
+  item: people/jessyca-farrell
+- 
+  type: relations/parental/brosis
+  item: people/jany-cassin
+- 
+  type: relations/parental/friend
+  item: people/ms-ursula-schaefer-dds
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

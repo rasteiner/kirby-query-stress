@@ -1,0 +1,64 @@
+Title: Lucious DuBuque
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/sean-mueller
+- 
+  type: relations/parental/colleague
+  item: people/emmalee-nienow-i
+- 
+  type: relations/money/creditor
+  item: people/mr-deon-beer-v
+- 
+  type: relations/parental/colleague
+  item: people/sidney-abbott
+- 
+  type: relations/parental/colleague
+  item: people/rigoberto-watsica-iv
+- 
+  type: relations/parental/dad
+  item: people/lucienne-hermann
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/employer
+  item: companies/kris-inc
+- 
+  type: relations/money/debtor
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

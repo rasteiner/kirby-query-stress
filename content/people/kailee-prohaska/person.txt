@@ -1,0 +1,64 @@
+Title: Kailee Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-milton-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/ricky-abernathy
+- 
+  type: relations/parental/dad
+  item: people/dr-bryce-mante
+- 
+  type: relations/parental/brosis
+  item: people/prof-euna-powlowski-ii
+- 
+  type: relations/parental/brosis
+  item: people/prof-wilfrid-watsica
+- 
+  type: relations/parental/colleague
+  item: people/miss-georgiana-beatty
+- 
+  type: relations/work/client
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/work/employer
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

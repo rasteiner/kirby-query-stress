@@ -1,0 +1,43 @@
+Title: Sporer-Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/blick-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/gaylordchester

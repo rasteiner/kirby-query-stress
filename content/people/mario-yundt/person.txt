@@ -1,0 +1,64 @@
+Title: Mario Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/noelia-schinner-phd
+- 
+  type: relations/parental/dad
+  item: people/dr-raheem-shields-dvm
+- 
+  type: relations/money/creditor
+  item: people/molly-von
+- 
+  type: relations/parental/colleague
+  item: people/reymundo-kling
+- 
+  type: relations/money/debtor
+  item: people/mrs-princess-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/dr-wyatt-green-ii
+- 
+  type: relations/money/creditor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Cesar Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elroy-rogahn
+- 
+  type: relations/parental/dad
+  item: people/dr-gloria-hills-ii
+- 
+  type: relations/parental/colleague
+  item: people/cheyanne-bergnaum
+- 
+  type: relations/money/debtor
+  item: people/brayan-watsica-jr
+- 
+  type: relations/parental/friend
+  item: people/ms-faye-reichert
+- 
+  type: relations/parental/brosis
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,44 @@
+Title: Terry Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/mooreland

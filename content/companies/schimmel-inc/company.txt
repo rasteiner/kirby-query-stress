@@ -1,0 +1,44 @@
+Title: Schimmel Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-inc
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/odellborough

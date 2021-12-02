@@ -1,0 +1,64 @@
+Title: Prof. Sarai Crooks DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-joaquin-raynor
+- 
+  type: relations/money/creditor
+  item: people/miss-mozelle-turcotte
+- 
+  type: relations/parental/friend
+  item: people/prof-garett-schulist
+- 
+  type: relations/parental/friend
+  item: people/cedrick-torp
+- 
+  type: relations/parental/friend
+  item: people/denis-ebert-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-ward-will-iv
+- 
+  type: relations/work/employer
+  item: companies/reynolds-strosin
+- 
+  type: relations/work/client
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/employer
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

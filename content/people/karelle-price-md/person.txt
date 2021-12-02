@@ -1,0 +1,64 @@
+Title: Karelle Price MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/money/debtor
+  item: people/raheem-leffler
+- 
+  type: relations/money/creditor
+  item: people/reva-kohler
+- 
+  type: relations/parental/mom
+  item: people/madeline-leuschke
+- 
+  type: relations/parental/friend
+  item: people/prof-dawson-pfannerstill
+- 
+  type: relations/money/debtor
+  item: people/ofelia-vonrueden
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/rippin-bode
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

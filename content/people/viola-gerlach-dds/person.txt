@@ -1,0 +1,64 @@
+Title: Viola Gerlach DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/louvenia-jakubowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/agustina-ullrich
+- 
+  type: relations/parental/friend
+  item: people/horacio-wunsch
+- 
+  type: relations/parental/colleague
+  item: people/kiana-wuckert
+- 
+  type: relations/parental/colleague
+  item: people/horacio-hessel
+- 
+  type: relations/parental/dad
+  item: people/connor-wehner
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

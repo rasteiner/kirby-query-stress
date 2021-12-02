@@ -1,0 +1,65 @@
+Title: Jakayla Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ewald-jones
+- 
+  type: relations/parental/brosis
+  item: people/major-hettinger
+- 
+  type: relations/money/debtor
+  item: people/antonia-stamm
+- 
+  type: relations/parental/brosis
+  item: people/giuseppe-tromp
+- 
+  type: relations/parental/brosis
+  item: people/sean-mueller
+- 
+  type: relations/money/debtor
+  item: people/emmalee-nienow-i
+- 
+  type: relations/work/client
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/client
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

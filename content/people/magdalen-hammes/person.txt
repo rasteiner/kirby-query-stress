@@ -1,0 +1,64 @@
+Title: Magdalen Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nyasia-harris
+- 
+  type: relations/parental/friend
+  item: people/margarett-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/hildegard-larkin
+- 
+  type: relations/parental/friend
+  item: people/nikita-treutel-sr
+- 
+  type: relations/money/debtor
+  item: people/diamond-jerde-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/work/client
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/client
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

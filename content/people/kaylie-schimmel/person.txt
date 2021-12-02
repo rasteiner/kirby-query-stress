@@ -1,0 +1,64 @@
+Title: Kaylie Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nona-schmeler-i
+- 
+  type: relations/parental/colleague
+  item: people/andre-larson
+- 
+  type: relations/money/creditor
+  item: people/cleta-harber
+- 
+  type: relations/parental/mom
+  item: people/giles-moore-iv
+- 
+  type: relations/parental/friend
+  item: people/giovanny-rohan
+- 
+  type: relations/money/creditor
+  item: people/ms-alessandra-beier
+- 
+  type: relations/work/employer
+  item: companies/o-conner-plc
+- 
+  type: relations/work/client
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/client
+  item: companies/littel-armstrong
+- 
+  type: relations/work/employer
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

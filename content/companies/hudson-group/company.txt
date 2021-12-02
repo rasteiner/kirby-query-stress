@@ -1,0 +1,43 @@
+Title: Hudson Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-llc
+- 
+  type: relations/money/debtor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/kaylastad

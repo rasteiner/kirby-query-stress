@@ -1,0 +1,43 @@
+Title: Ratke-Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/money/debtor
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/money/debtor
+  item: companies/collier-plc
+- 
+  type: relations/money/debtor
+  item: companies/von-plc
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-ltd
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/new-donnie
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire

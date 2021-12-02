@@ -1,0 +1,64 @@
+Title: Dr. Lonnie Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/reva-kohler
+- 
+  type: relations/money/debtor
+  item: people/madeline-leuschke
+- 
+  type: relations/money/creditor
+  item: people/prof-dawson-pfannerstill
+- 
+  type: relations/money/creditor
+  item: people/ofelia-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/mr-broderick-kshlerin
+- 
+  type: relations/money/debtor
+  item: people/prof-rasheed-mraz-i
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/employer
+  item: companies/boehm-group
+- 
+  type: relations/work/employer
+  item: companies/ortiz-inc
+- 
+  type: relations/money/debtor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

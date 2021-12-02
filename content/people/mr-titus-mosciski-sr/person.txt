@@ -1,0 +1,64 @@
+Title: Mr. Titus Mosciski Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-sonia-vonrueden-dds
+- 
+  type: relations/parental/mom
+  item: people/chanel-stiedemann
+- 
+  type: relations/parental/dad
+  item: people/frederik-leannon
+- 
+  type: relations/money/debtor
+  item: people/constantin-renner
+- 
+  type: relations/money/creditor
+  item: people/clementina-zboncak
+- 
+  type: relations/money/creditor
+  item: people/anissa-kuhic
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/client
+  item: companies/cremin-durgan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Markus Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lucie-schaden
+- 
+  type: relations/money/debtor
+  item: people/jazmin-klein
+- 
+  type: relations/parental/colleague
+  item: people/natalie-mueller
+- 
+  type: relations/money/creditor
+  item: people/ms-mafalda-hackett-v
+- 
+  type: relations/parental/dad
+  item: people/myrtie-schultz-phd
+- 
+  type: relations/parental/colleague
+  item: people/joaquin-wolf
+- 
+  type: relations/money/debtor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/employer
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/client
+  item: companies/kessler-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

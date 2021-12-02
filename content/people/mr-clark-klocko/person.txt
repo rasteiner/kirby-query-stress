@@ -1,0 +1,65 @@
+Title: Mr. Clark Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/coralie-bode
+- 
+  type: relations/money/creditor
+  item: people/claudine-lindgren
+- 
+  type: relations/parental/friend
+  item: people/dr-therese-batz-dvm
+- 
+  type: relations/money/creditor
+  item: people/lela-gusikowski
+- 
+  type: relations/parental/mom
+  item: people/dr-trisha-haag
+- 
+  type: relations/money/creditor
+  item: people/kennith-feeney
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Lazaro Johnston MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rodolfo-leffler-iii
+- 
+  type: relations/parental/friend
+  item: people/korey-kilback-dds
+- 
+  type: relations/parental/colleague
+  item: people/isom-roberts-iv
+- 
+  type: relations/parental/mom
+  item: people/mr-skylar-legros-jr
+- 
+  type: relations/parental/mom
+  item: people/rashad-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/macey-steuber
+- 
+  type: relations/work/client
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/employer
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

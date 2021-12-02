@@ -1,0 +1,64 @@
+Title: Mr. Remington Satterfield MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/annabel-witting-phd
+- 
+  type: relations/parental/mom
+  item: people/americo-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/ladarius-hirthe
+- 
+  type: relations/parental/mom
+  item: people/thurman-dicki
+- 
+  type: relations/parental/dad
+  item: people/ms-kattie-reichert
+- 
+  type: relations/money/creditor
+  item: people/dr-antonetta-o-hara-dds
+- 
+  type: relations/work/employer
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/money/debtor
+  item: companies/brown-group
+- 
+  type: relations/work/employer
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

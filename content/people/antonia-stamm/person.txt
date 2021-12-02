@@ -1,0 +1,64 @@
+Title: Antonia Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/letha-stokes
+- 
+  type: relations/parental/dad
+  item: people/vicky-heller
+- 
+  type: relations/parental/mom
+  item: people/kaylee-morar
+- 
+  type: relations/parental/colleague
+  item: people/connie-carroll
+- 
+  type: relations/parental/mom
+  item: people/boris-bashirian
+- 
+  type: relations/parental/colleague
+  item: people/meghan-boyer
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

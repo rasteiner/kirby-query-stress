@@ -1,0 +1,64 @@
+Title: Prof. Jermaine Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gabrielle-windler-sr
+- 
+  type: relations/parental/mom
+  item: people/dandre-raynor-i
+- 
+  type: relations/parental/mom
+  item: people/carolyne-hilll
+- 
+  type: relations/parental/mom
+  item: people/emile-streich
+- 
+  type: relations/money/creditor
+  item: people/prof-magali-kassulke-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-lilyan-roberts
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Dr. Ezequiel Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dalton-bahringer
+- 
+  type: relations/money/debtor
+  item: people/wilburn-hermann-v
+- 
+  type: relations/parental/colleague
+  item: people/myrl-weber
+- 
+  type: relations/parental/mom
+  item: people/chad-wisoky-dds
+- 
+  type: relations/parental/colleague
+  item: people/mr-glen-hoppe-dvm
+- 
+  type: relations/money/debtor
+  item: people/ms-glenna-raynor-dds
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

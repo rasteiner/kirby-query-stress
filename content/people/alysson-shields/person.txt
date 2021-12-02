@@ -1,0 +1,64 @@
+Title: Alysson Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jacky-hagenes
+- 
+  type: relations/parental/mom
+  item: people/ignatius-hoeger
+- 
+  type: relations/parental/colleague
+  item: people/cassidy-mann
+- 
+  type: relations/parental/friend
+  item: people/domingo-waelchi-jr
+- 
+  type: relations/parental/friend
+  item: people/gilda-stiedemann
+- 
+  type: relations/parental/dad
+  item: people/dr-green-jaskolski-dds
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

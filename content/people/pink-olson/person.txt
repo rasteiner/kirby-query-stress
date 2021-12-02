@@ -1,0 +1,64 @@
+Title: Pink Olson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alivia-okuneva
+- 
+  type: relations/money/creditor
+  item: people/dustin-spinka
+- 
+  type: relations/parental/mom
+  item: people/damaris-hamill
+- 
+  type: relations/parental/mom
+  item: people/rosanna-bergnaum
+- 
+  type: relations/money/creditor
+  item: people/regan-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/aurore-dickens
+- 
+  type: relations/work/client
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

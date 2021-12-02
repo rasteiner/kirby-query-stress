@@ -1,0 +1,43 @@
+Title: Wintheiser, Price and Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-group
+- 
+  type: relations/money/creditor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/creditor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/darleneshire

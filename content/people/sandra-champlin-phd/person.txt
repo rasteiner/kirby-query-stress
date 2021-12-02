@@ -1,0 +1,64 @@
+Title: Sandra Champlin PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/zachariah-marvin
+- 
+  type: relations/parental/friend
+  item: people/markus-bauch
+- 
+  type: relations/parental/colleague
+  item: people/xzavier-smitham
+- 
+  type: relations/money/creditor
+  item: people/miss-wanda-prohaska
+- 
+  type: relations/parental/friend
+  item: people/berniece-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/prof-mathew-o-reilly-i
+- 
+  type: relations/work/employer
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/employer
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/work/client
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

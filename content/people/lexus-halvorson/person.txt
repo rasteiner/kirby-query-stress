@@ -1,0 +1,64 @@
+Title: Lexus Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/keon-lind
+- 
+  type: relations/parental/dad
+  item: people/jamey-nienow
+- 
+  type: relations/parental/mom
+  item: people/angelo-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/assunta-kihn
+- 
+  type: relations/parental/brosis
+  item: people/dr-kristofer-crist
+- 
+  type: relations/money/debtor
+  item: people/brooks-zieme-md
+- 
+  type: relations/money/creditor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-gaylord
+- 
+  type: relations/work/client
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

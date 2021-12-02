@@ -1,0 +1,64 @@
+Title: Claude Wilkinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-darrin-kling
+- 
+  type: relations/parental/colleague
+  item: people/chanelle-wolff-md
+- 
+  type: relations/money/debtor
+  item: people/micaela-haley-iii
+- 
+  type: relations/parental/colleague
+  item: people/paolo-wehner-md
+- 
+  type: relations/parental/dad
+  item: people/prof-jermey-lebsack
+- 
+  type: relations/money/debtor
+  item: people/mr-dejon-moore-iv
+- 
+  type: relations/work/employer
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Dr. Leonardo Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mohammad-ryan
+- 
+  type: relations/parental/brosis
+  item: people/prof-carlie-predovic
+- 
+  type: relations/parental/colleague
+  item: people/ellen-kozey
+- 
+  type: relations/parental/friend
+  item: people/garfield-keebler-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-burley-koch-iii
+- 
+  type: relations/parental/colleague
+  item: people/shaun-bahringer-dvm
+- 
+  type: relations/work/client
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/money/debtor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

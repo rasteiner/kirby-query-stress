@@ -1,0 +1,64 @@
+Title: Edwina Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-emmy-hilpert
+- 
+  type: relations/parental/mom
+  item: people/jaqueline-hintz
+- 
+  type: relations/parental/friend
+  item: people/jaylon-nader
+- 
+  type: relations/parental/mom
+  item: people/braulio-willms-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-patricia-white-ii
+- 
+  type: relations/money/debtor
+  item: people/jolie-gleichner-ii
+- 
+  type: relations/money/debtor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/work/employer
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/employer
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

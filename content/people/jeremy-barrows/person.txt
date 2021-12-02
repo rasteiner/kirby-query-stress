@@ -1,0 +1,64 @@
+Title: Jeremy Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-aurore-robel-jr
+- 
+  type: relations/parental/colleague
+  item: people/lina-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/mrs-delphia-satterfield
+- 
+  type: relations/money/debtor
+  item: people/sibyl-hahn
+- 
+  type: relations/money/creditor
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/parental/colleague
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

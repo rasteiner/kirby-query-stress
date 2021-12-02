@@ -1,0 +1,64 @@
+Title: Wilton Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/edgardo-daugherty
+- 
+  type: relations/parental/friend
+  item: people/orrin-hills
+- 
+  type: relations/parental/mom
+  item: people/wilson-schulist
+- 
+  type: relations/parental/colleague
+  item: people/bridgette-d-amore
+- 
+  type: relations/parental/friend
+  item: people/lavada-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/prof-nico-friesen
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/debtor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

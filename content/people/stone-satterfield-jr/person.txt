@@ -1,0 +1,65 @@
+Title: Stone Satterfield Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/danial-weber
+- 
+  type: relations/parental/colleague
+  item: people/miss-carmen-adams-iii
+- 
+  type: relations/money/creditor
+  item: people/jazlyn-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/ms-hildegard-green
+- 
+  type: relations/parental/dad
+  item: people/prof-antone-bechtelar-jr
+- 
+  type: relations/money/creditor
+  item: people/mario-yundt
+- 
+  type: relations/work/client
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/work/employer
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

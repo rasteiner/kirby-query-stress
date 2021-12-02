@@ -1,0 +1,64 @@
+Title: Vivienne Hackett
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/raul-waters
+- 
+  type: relations/parental/dad
+  item: people/ignacio-effertz
+- 
+  type: relations/parental/colleague
+  item: people/estrella-ebert-i
+- 
+  type: relations/parental/mom
+  item: people/ashtyn-hills
+- 
+  type: relations/parental/friend
+  item: people/mr-owen-satterfield-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-clement-schinner-dvm
+- 
+  type: relations/money/creditor
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

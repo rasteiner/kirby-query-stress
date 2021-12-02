@@ -1,0 +1,44 @@
+Title: Mills-Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/sauer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/ariannahaven

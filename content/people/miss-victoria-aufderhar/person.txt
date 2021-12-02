@@ -1,0 +1,64 @@
+Title: Miss Victoria Aufderhar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cecil-mcclure
+- 
+  type: relations/money/debtor
+  item: people/cassandra-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/miss-natasha-konopelski
+- 
+  type: relations/money/creditor
+  item: people/dr-rupert-rolfson
+- 
+  type: relations/parental/friend
+  item: people/prof-maynard-cummerata
+- 
+  type: relations/money/debtor
+  item: people/natalie-bailey
+- 
+  type: relations/money/creditor
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-llc
+- 
+  type: relations/work/employer
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Dr. Annie Rice DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kathleen-gleichner
+- 
+  type: relations/money/creditor
+  item: people/trisha-daniel
+- 
+  type: relations/money/creditor
+  item: people/eduardo-bashirian
+- 
+  type: relations/parental/mom
+  item: people/prof-deion-torp
+- 
+  type: relations/money/creditor
+  item: people/lue-metz
+- 
+  type: relations/parental/dad
+  item: people/maiya-leannon
+- 
+  type: relations/work/client
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/work/client
+  item: companies/ebert-inc
+- 
+  type: relations/work/client
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/employer
+  item: companies/mosciski-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

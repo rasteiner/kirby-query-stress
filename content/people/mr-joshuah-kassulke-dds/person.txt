@@ -1,0 +1,64 @@
+Title: Mr. Joshuah Kassulke DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rashawn-ernser
+- 
+  type: relations/parental/friend
+  item: people/mrs-gia-connelly-i
+- 
+  type: relations/parental/brosis
+  item: people/wilbert-krajcik
+- 
+  type: relations/money/debtor
+  item: people/alvera-quitzon
+- 
+  type: relations/parental/friend
+  item: people/ms-lily-maggio
+- 
+  type: relations/money/debtor
+  item: people/tracey-ebert-sr
+- 
+  type: relations/money/creditor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

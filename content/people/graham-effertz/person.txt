@@ -1,0 +1,64 @@
+Title: Graham Effertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-norene-prohaska-md
+- 
+  type: relations/parental/mom
+  item: people/heidi-kuhn
+- 
+  type: relations/money/creditor
+  item: people/dr-gonzalo-heathcote-ii
+- 
+  type: relations/parental/friend
+  item: people/dr-blanche-wiza-md
+- 
+  type: relations/money/debtor
+  item: people/dr-urban-champlin
+- 
+  type: relations/money/creditor
+  item: people/cheyanne-kreiger
+- 
+  type: relations/work/client
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/keebler-inc
+- 
+  type: relations/work/client
+  item: companies/dicki-ltd
+- 
+  type: relations/work/client
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

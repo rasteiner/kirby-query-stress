@@ -1,0 +1,64 @@
+Title: Nya Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/clementina-zboncak
+- 
+  type: relations/money/debtor
+  item: people/anissa-kuhic
+- 
+  type: relations/parental/dad
+  item: people/wava-treutel
+- 
+  type: relations/parental/friend
+  item: people/dr-zack-will
+- 
+  type: relations/parental/mom
+  item: people/martine-pouros
+- 
+  type: relations/parental/brosis
+  item: people/prof-arno-wintheiser-jr
+- 
+  type: relations/work/employer
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/lehner-sipes
+- 
+  type: relations/money/creditor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

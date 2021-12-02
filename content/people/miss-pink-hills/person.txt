@@ -1,0 +1,64 @@
+Title: Miss Pink Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rodger-johnson
+- 
+  type: relations/money/debtor
+  item: people/dedrick-lehner-dvm
+- 
+  type: relations/money/creditor
+  item: people/emmalee-schumm
+- 
+  type: relations/parental/dad
+  item: people/ashleigh-thompson
+- 
+  type: relations/parental/brosis
+  item: people/joshua-legros
+- 
+  type: relations/money/creditor
+  item: people/esteban-green-sr
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

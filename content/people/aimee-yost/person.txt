@@ -1,0 +1,65 @@
+Title: Aimee Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/josefa-murphy
+- 
+  type: relations/parental/colleague
+  item: people/prof-guido-gislason
+- 
+  type: relations/parental/dad
+  item: people/prof-laron-gerlach
+- 
+  type: relations/parental/friend
+  item: people/berry-bartell
+- 
+  type: relations/parental/dad
+  item: people/addison-grant
+- 
+  type: relations/money/creditor
+  item: people/gertrude-rogahn
+- 
+  type: relations/work/employer
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/work/client
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

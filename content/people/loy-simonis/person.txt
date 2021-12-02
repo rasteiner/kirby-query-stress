@@ -1,0 +1,64 @@
+Title: Loy Simonis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/johathan-kunde
+- 
+  type: relations/parental/mom
+  item: people/sven-ortiz
+- 
+  type: relations/parental/colleague
+  item: people/hattie-hilpert
+- 
+  type: relations/money/creditor
+  item: people/prof-clarabelle-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/mrs-chyna-tillman-jr
+- 
+  type: relations/parental/colleague
+  item: people/talia-bahringer
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/work/client
+  item: companies/keebler-inc
+- 
+  type: relations/money/debtor
+  item: companies/dicki-ltd
+- 
+  type: relations/work/client
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Dr. Rosetta Boehm PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ian-reynolds
+- 
+  type: relations/parental/dad
+  item: people/prof-gregory-howell
+- 
+  type: relations/parental/dad
+  item: people/prof-kaya-spencer-dvm
+- 
+  type: relations/parental/dad
+  item: people/florencio-rosenbaum
+- 
+  type: relations/money/debtor
+  item: people/keanu-koss
+- 
+  type: relations/parental/dad
+  item: people/brooklyn-legros-jr
+- 
+  type: relations/work/employer
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/employer
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/client
+  item: companies/hamill-tillman
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

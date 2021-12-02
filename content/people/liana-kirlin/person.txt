@@ -1,0 +1,64 @@
+Title: Liana Kirlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/blaise-friesen
+- 
+  type: relations/parental/colleague
+  item: people/corrine-lakin-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-selmer-homenick-i
+- 
+  type: relations/money/debtor
+  item: people/aniya-schumm
+- 
+  type: relations/parental/colleague
+  item: people/anita-gutmann
+- 
+  type: relations/money/creditor
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/work/employer
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

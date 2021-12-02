@@ -1,0 +1,44 @@
+Title: Dickinson-Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/creditor
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/bauch-plc
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-jamal
+- 
+  type: relations/location/residence
+  item: places/west-alize

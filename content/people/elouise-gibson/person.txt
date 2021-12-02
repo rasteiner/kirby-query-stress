@@ -1,0 +1,64 @@
+Title: Elouise Gibson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-angus-schumm-sr
+- 
+  type: relations/parental/brosis
+  item: people/krystina-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/prof-gonzalo-runte
+- 
+  type: relations/parental/mom
+  item: people/nayeli-frami
+- 
+  type: relations/parental/colleague
+  item: people/leann-abbott
+- 
+  type: relations/parental/friend
+  item: people/carolyn-friesen
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-inc
+- 
+  type: relations/work/client
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Kurtis Marquardt Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/caleigh-hessel
+- 
+  type: relations/parental/dad
+  item: people/kaelyn-abshire
+- 
+  type: relations/parental/brosis
+  item: people/elinor-bogisich-v
+- 
+  type: relations/parental/mom
+  item: people/yesenia-gleason-jr
+- 
+  type: relations/parental/friend
+  item: people/adolf-lind
+- 
+  type: relations/parental/dad
+  item: people/herminia-jacobs
+- 
+  type: relations/work/employer
+  item: companies/padberg-white
+- 
+  type: relations/work/employer
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,43 @@
+Title: Gerlach, Terry and Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/hilll-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/money/creditor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/south-sadie

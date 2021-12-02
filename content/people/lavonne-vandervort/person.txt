@@ -1,0 +1,64 @@
+Title: Lavonne Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jaycee-o-hara
+- 
+  type: relations/parental/brosis
+  item: people/dr-reanna-bruen
+- 
+  type: relations/parental/dad
+  item: people/blake-miller
+- 
+  type: relations/money/creditor
+  item: people/holly-pollich
+- 
+  type: relations/parental/friend
+  item: people/blanche-collier-phd
+- 
+  type: relations/parental/colleague
+  item: people/daren-wolf
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

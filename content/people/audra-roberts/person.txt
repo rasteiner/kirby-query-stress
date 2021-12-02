@@ -1,0 +1,64 @@
+Title: Audra Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mariane-lind
+- 
+  type: relations/parental/dad
+  item: people/clementina-ferry
+- 
+  type: relations/parental/mom
+  item: people/marianna-barrows
+- 
+  type: relations/parental/colleague
+  item: people/lela-bernier-iv
+- 
+  type: relations/parental/brosis
+  item: people/miss-adele-bogan-iv
+- 
+  type: relations/parental/colleague
+  item: people/noble-douglas
+- 
+  type: relations/work/employer
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/client
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/employer
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

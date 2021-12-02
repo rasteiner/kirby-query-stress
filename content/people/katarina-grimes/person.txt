@@ -1,0 +1,64 @@
+Title: Katarina Grimes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/christiana-hyatt
+- 
+  type: relations/money/debtor
+  item: people/mr-brian-sawayn-ii
+- 
+  type: relations/money/debtor
+  item: people/ms-everette-mcclure-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-issac-dach
+- 
+  type: relations/money/debtor
+  item: people/pasquale-flatley
+- 
+  type: relations/parental/mom
+  item: people/miss-elyssa-williamson
+- 
+  type: relations/work/client
+  item: companies/kirlin-davis
+- 
+  type: relations/work/employer
+  item: companies/howell-and-sons
+- 
+  type: relations/work/client
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

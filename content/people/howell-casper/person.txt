@@ -1,0 +1,65 @@
+Title: Howell Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-camille-rippin-phd
+- 
+  type: relations/parental/colleague
+  item: people/lennie-will
+- 
+  type: relations/parental/colleague
+  item: people/chasity-prosacco
+- 
+  type: relations/money/creditor
+  item: people/everett-pfannerstill
+- 
+  type: relations/money/debtor
+  item: people/clementina-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/general-ryan
+- 
+  type: relations/work/employer
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/client
+  item: companies/yost-llc
+- 
+  type: relations/money/debtor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Christa Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/abigale-schiller-md
+- 
+  type: relations/parental/mom
+  item: people/rocky-crist
+- 
+  type: relations/money/creditor
+  item: people/dr-earnest-tillman
+- 
+  type: relations/parental/dad
+  item: people/amina-cronin
+- 
+  type: relations/parental/mom
+  item: people/trevion-windler
+- 
+  type: relations/parental/brosis
+  item: people/estefania-moore
+- 
+  type: relations/work/client
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/work/employer
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

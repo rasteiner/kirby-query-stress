@@ -1,0 +1,64 @@
+Title: Gwendolyn Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-lonny-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/elmer-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/shad-o-keefe
+- 
+  type: relations/parental/colleague
+  item: people/madonna-balistreri
+- 
+  type: relations/parental/mom
+  item: people/mr-harvey-carroll
+- 
+  type: relations/parental/dad
+  item: people/taurean-mckenzie-jr
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/employer
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

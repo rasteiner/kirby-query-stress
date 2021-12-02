@@ -1,0 +1,64 @@
+Title: Declan Kuhic V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-serenity-davis
+- 
+  type: relations/parental/friend
+  item: people/dr-nat-schaefer-md
+- 
+  type: relations/parental/dad
+  item: people/josiah-stamm
+- 
+  type: relations/money/creditor
+  item: people/michaela-langosh
+- 
+  type: relations/parental/friend
+  item: people/petra-mayert
+- 
+  type: relations/parental/friend
+  item: people/mr-ike-doyle
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

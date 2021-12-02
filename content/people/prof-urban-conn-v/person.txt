@@ -1,0 +1,64 @@
+Title: Prof. Urban Conn V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/beatrice-donnelly
+- 
+  type: relations/parental/dad
+  item: people/reuben-veum
+- 
+  type: relations/money/debtor
+  item: people/santina-torp-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-kiley-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/prof-gennaro-lueilwitz-md
+- 
+  type: relations/parental/friend
+  item: people/melody-emard
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

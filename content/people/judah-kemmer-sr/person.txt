@@ -1,0 +1,64 @@
+Title: Judah Kemmer Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jany-kuhic
+- 
+  type: relations/parental/colleague
+  item: people/myrtie-cassin
+- 
+  type: relations/money/debtor
+  item: people/isaiah-bode
+- 
+  type: relations/parental/colleague
+  item: people/dr-austen-pouros-md
+- 
+  type: relations/parental/dad
+  item: people/linwood-beer
+- 
+  type: relations/money/debtor
+  item: people/magnus-mohr
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yost
+- 
+  type: relations/money/creditor
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

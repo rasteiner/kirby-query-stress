@@ -1,0 +1,64 @@
+Title: Ms. Karolann Metz MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rodolfo-leffler-iii
+- 
+  type: relations/parental/friend
+  item: people/korey-kilback-dds
+- 
+  type: relations/parental/brosis
+  item: people/isom-roberts-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-skylar-legros-jr
+- 
+  type: relations/parental/colleague
+  item: people/rashad-luettgen
+- 
+  type: relations/parental/friend
+  item: people/macey-steuber
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/client
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

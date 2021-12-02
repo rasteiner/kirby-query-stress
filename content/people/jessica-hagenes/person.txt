@@ -1,0 +1,64 @@
+Title: Jessica Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-mazie-wiza-iv
+- 
+  type: relations/parental/mom
+  item: people/archibald-hills
+- 
+  type: relations/parental/brosis
+  item: people/carleton-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/dr-lindsey-walter-jr
+- 
+  type: relations/money/creditor
+  item: people/breanne-mckenzie
+- 
+  type: relations/parental/mom
+  item: people/aileen-luettgen
+- 
+  type: relations/work/client
+  item: companies/walker-howe
+- 
+  type: relations/money/creditor
+  item: companies/orn-inc
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-mertz
+- 
+  type: relations/work/client
+  item: companies/mayer-conn
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

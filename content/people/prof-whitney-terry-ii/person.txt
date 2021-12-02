@@ -1,0 +1,64 @@
+Title: Prof. Whitney Terry II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kenneth-kemmer
+- 
+  type: relations/money/creditor
+  item: people/miss-christina-wilkinson-dvm
+- 
+  type: relations/parental/dad
+  item: people/jessica-hagenes
+- 
+  type: relations/parental/dad
+  item: people/valentina-hyatt
+- 
+  type: relations/money/debtor
+  item: people/jacquelyn-ryan
+- 
+  type: relations/parental/friend
+  item: people/cesar-erdman
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/client
+  item: companies/leannon-rohan
+- 
+  type: relations/work/client
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

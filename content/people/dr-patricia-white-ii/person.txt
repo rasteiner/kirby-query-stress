@@ -1,0 +1,64 @@
+Title: Dr. Patricia White II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/leone-conn-phd
+- 
+  type: relations/parental/friend
+  item: people/destiney-schamberger
+- 
+  type: relations/money/creditor
+  item: people/loyal-block
+- 
+  type: relations/parental/friend
+  item: people/adolph-lockman
+- 
+  type: relations/parental/friend
+  item: people/mariano-kunde-i
+- 
+  type: relations/money/debtor
+  item: people/laurine-oberbrunner-ii
+- 
+  type: relations/work/client
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/murphy-batz
+- 
+  type: relations/work/employer
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

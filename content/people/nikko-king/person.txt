@@ -1,0 +1,64 @@
+Title: Nikko King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-luisa-grady-jr
+- 
+  type: relations/money/debtor
+  item: people/dr-hector-jakubowski
+- 
+  type: relations/parental/mom
+  item: people/shayne-runte
+- 
+  type: relations/parental/brosis
+  item: people/enoch-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/ofelia-homenick-jr
+- 
+  type: relations/parental/dad
+  item: people/rasheed-borer
+- 
+  type: relations/work/client
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/work/client
+  item: companies/gorczany-funk
+- 
+  type: relations/money/creditor
+  item: companies/beer-treutel
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

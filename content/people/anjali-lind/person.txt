@@ -1,0 +1,64 @@
+Title: Anjali Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-micaela-bednar-dds
+- 
+  type: relations/parental/brosis
+  item: people/ms-pasquale-hirthe-v
+- 
+  type: relations/money/debtor
+  item: people/ms-nyasia-parisian
+- 
+  type: relations/parental/colleague
+  item: people/anna-batz
+- 
+  type: relations/parental/friend
+  item: people/makayla-kling
+- 
+  type: relations/money/debtor
+  item: people/jacynthe-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/creditor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/client
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

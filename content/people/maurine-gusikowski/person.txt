@@ -1,0 +1,64 @@
+Title: Maurine Gusikowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rebeka-weimann
+- 
+  type: relations/parental/mom
+  item: people/odessa-kassulke
+- 
+  type: relations/parental/colleague
+  item: people/cleora-auer
+- 
+  type: relations/parental/brosis
+  item: people/stanford-white-sr
+- 
+  type: relations/parental/friend
+  item: people/harvey-gerlach
+- 
+  type: relations/parental/brosis
+  item: people/mr-leonardo-schoen
+- 
+  type: relations/money/debtor
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

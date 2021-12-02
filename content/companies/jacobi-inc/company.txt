@@ -1,0 +1,45 @@
+Title: Jacobi Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yost
+- 
+  type: relations/location/visited
+  item: places/north-jamal
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/cristfurt

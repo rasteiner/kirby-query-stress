@@ -1,0 +1,64 @@
+Title: Maudie Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-savanah-zieme-i
+- 
+  type: relations/parental/friend
+  item: people/mr-tobin-ebert
+- 
+  type: relations/parental/dad
+  item: people/kurtis-tromp-md
+- 
+  type: relations/money/debtor
+  item: people/mireille-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/chandler-fisher
+- 
+  type: relations/parental/dad
+  item: people/nelle-gorczany
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/employer
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

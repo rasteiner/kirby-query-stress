@@ -1,0 +1,64 @@
+Title: Fannie Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/willa-brown
+- 
+  type: relations/parental/dad
+  item: people/janessa-douglas
+- 
+  type: relations/parental/brosis
+  item: people/brando-schowalter
+- 
+  type: relations/parental/dad
+  item: people/miss-ava-klocko
+- 
+  type: relations/parental/colleague
+  item: people/august-nienow-i
+- 
+  type: relations/parental/dad
+  item: people/stacy-schiller
+- 
+  type: relations/work/client
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Gerry Nienow IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lela-reichert
+- 
+  type: relations/parental/brosis
+  item: people/dr-stefan-rath
+- 
+  type: relations/parental/mom
+  item: people/ruthie-nitzsche-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-clair-bartell-jr
+- 
+  type: relations/parental/colleague
+  item: people/zena-moen-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-watson-langworth
+- 
+  type: relations/work/client
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

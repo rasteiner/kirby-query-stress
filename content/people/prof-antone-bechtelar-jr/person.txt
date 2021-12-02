@@ -1,0 +1,64 @@
+Title: Prof. Antone Bechtelar Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-francesco-stroman-jr
+- 
+  type: relations/parental/brosis
+  item: people/avis-morar
+- 
+  type: relations/money/creditor
+  item: people/judson-homenick
+- 
+  type: relations/parental/colleague
+  item: people/paul-welch
+- 
+  type: relations/parental/mom
+  item: people/kelvin-feeney
+- 
+  type: relations/parental/colleague
+  item: people/mr-quentin-kautzer-iii
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/client
+  item: companies/mills-wyman
+- 
+  type: relations/work/employer
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

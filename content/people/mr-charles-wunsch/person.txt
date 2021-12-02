@@ -1,0 +1,64 @@
+Title: Mr. Charles Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gilda-stiedemann
+- 
+  type: relations/parental/friend
+  item: people/dr-green-jaskolski-dds
+- 
+  type: relations/parental/colleague
+  item: people/miss-abigayle-zieme-v
+- 
+  type: relations/money/debtor
+  item: people/nona-bahringer
+- 
+  type: relations/parental/brosis
+  item: people/lillian-bailey
+- 
+  type: relations/parental/friend
+  item: people/queenie-klocko
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/debtor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,65 @@
+Title: Tom Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/patsy-pacocha
+- 
+  type: relations/parental/colleague
+  item: people/nella-langosh
+- 
+  type: relations/money/debtor
+  item: people/dr-ewald-wisoky-dds
+- 
+  type: relations/parental/friend
+  item: people/dr-angie-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/evangeline-waelchi
+- 
+  type: relations/money/debtor
+  item: people/demond-howell
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/employer
+  item: companies/legros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Jewell Crist III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elenor-west-dvm
+- 
+  type: relations/parental/mom
+  item: people/jeremy-moore
+- 
+  type: relations/parental/mom
+  item: people/electa-welch
+- 
+  type: relations/money/debtor
+  item: people/mr-will-wolff
+- 
+  type: relations/parental/friend
+  item: people/stephany-nolan
+- 
+  type: relations/money/debtor
+  item: people/mireya-funk
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

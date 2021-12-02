@@ -1,0 +1,64 @@
+Title: Mazie Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/america-cummerata
+- 
+  type: relations/parental/dad
+  item: people/jaycee-lang-phd
+- 
+  type: relations/parental/mom
+  item: people/prof-magdalena-rogahn-phd
+- 
+  type: relations/parental/mom
+  item: people/prof-anais-jones
+- 
+  type: relations/parental/friend
+  item: people/chester-purdy
+- 
+  type: relations/parental/mom
+  item: people/mitchell-legros-iii
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/work/client
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/employer
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

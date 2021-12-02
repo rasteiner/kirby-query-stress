@@ -1,0 +1,64 @@
+Title: Dr. Laila Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-bryce-mante
+- 
+  type: relations/money/debtor
+  item: people/prof-euna-powlowski-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-wilfrid-watsica
+- 
+  type: relations/parental/mom
+  item: people/miss-georgiana-beatty
+- 
+  type: relations/parental/brosis
+  item: people/dr-elroy-stehr
+- 
+  type: relations/money/debtor
+  item: people/deven-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/work/employer
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

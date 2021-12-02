@@ -1,0 +1,64 @@
+Title: Devon Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rosina-olson
+- 
+  type: relations/parental/mom
+  item: people/yoshiko-schamberger
+- 
+  type: relations/money/debtor
+  item: people/christelle-barton
+- 
+  type: relations/money/debtor
+  item: people/alysa-schneider
+- 
+  type: relations/parental/brosis
+  item: people/bella-heaney
+- 
+  type: relations/parental/colleague
+  item: people/jake-bernhard-sr
+- 
+  type: relations/work/employer
+  item: companies/weimann-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/hagenes-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

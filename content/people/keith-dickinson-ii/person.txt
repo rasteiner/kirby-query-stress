@@ -1,0 +1,64 @@
+Title: Keith Dickinson II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/parental/dad
+  item: people/myrtis-morar
+- 
+  type: relations/parental/dad
+  item: people/vernon-jacobi
+- 
+  type: relations/parental/colleague
+  item: people/max-volkman
+- 
+  type: relations/parental/dad
+  item: people/ms-meredith-baumbach
+- 
+  type: relations/parental/brosis
+  item: people/lonnie-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/work/client
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Imogene Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ali-hermiston
+- 
+  type: relations/parental/mom
+  item: people/mrs-vita-spencer-ii
+- 
+  type: relations/parental/colleague
+  item: people/joe-considine-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-roberto-weber
+- 
+  type: relations/parental/brosis
+  item: people/anastacio-walsh
+- 
+  type: relations/parental/friend
+  item: people/mia-quigley
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/work/employer
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/debtor
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

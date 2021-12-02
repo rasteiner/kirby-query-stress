@@ -1,0 +1,64 @@
+Title: Prof. Francis Grant PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-berneice-lind-md
+- 
+  type: relations/parental/friend
+  item: people/tre-casper
+- 
+  type: relations/money/creditor
+  item: people/eino-fisher
+- 
+  type: relations/parental/mom
+  item: people/werner-nader-phd
+- 
+  type: relations/money/debtor
+  item: people/claudie-bode
+- 
+  type: relations/money/debtor
+  item: people/dr-eliza-terry
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/client
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/work/client
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/debtor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

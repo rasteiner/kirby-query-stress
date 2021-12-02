@@ -1,0 +1,64 @@
+Title: Dr. Abe Reichel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-sonny-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/arlo-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/olin-ernser-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-angeline-brakus
+- 
+  type: relations/parental/friend
+  item: people/prof-cyril-ullrich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/calista-lynch
+- 
+  type: relations/work/client
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-plc
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

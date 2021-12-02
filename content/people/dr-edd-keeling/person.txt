@@ -1,0 +1,64 @@
+Title: Dr. Edd Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-euna-renner
+- 
+  type: relations/parental/friend
+  item: people/fidel-kunze
+- 
+  type: relations/parental/mom
+  item: people/dr-rosie-barton-phd
+- 
+  type: relations/parental/colleague
+  item: people/brady-kulas-sr
+- 
+  type: relations/parental/mom
+  item: people/eudora-rutherford
+- 
+  type: relations/parental/colleague
+  item: people/ottis-murray
+- 
+  type: relations/work/client
+  item: companies/nolan-inc
+- 
+  type: relations/work/client
+  item: companies/sanford-lehner
+- 
+  type: relations/work/client
+  item: companies/kuhlman-plc
+- 
+  type: relations/money/creditor
+  item: companies/flatley-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

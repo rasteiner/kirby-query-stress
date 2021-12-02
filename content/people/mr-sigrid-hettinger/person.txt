@@ -1,0 +1,64 @@
+Title: Mr. Sigrid Hettinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/america-braun
+- 
+  type: relations/parental/friend
+  item: people/thomas-bailey
+- 
+  type: relations/parental/mom
+  item: people/dr-sunny-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/alexanne-hirthe
+- 
+  type: relations/parental/dad
+  item: people/sage-leannon
+- 
+  type: relations/parental/dad
+  item: people/josefina-kiehn
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/work/employer
+  item: companies/hickle-plc
+- 
+  type: relations/money/creditor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

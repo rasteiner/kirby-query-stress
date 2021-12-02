@@ -1,0 +1,64 @@
+Title: Prof. Julie Sipes DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/clint-renner
+- 
+  type: relations/parental/brosis
+  item: people/callie-kuvalis-iii
+- 
+  type: relations/parental/mom
+  item: people/mrs-viva-bruen-dvm
+- 
+  type: relations/money/debtor
+  item: people/nola-labadie-dvm
+- 
+  type: relations/money/creditor
+  item: people/leatha-watsica
+- 
+  type: relations/money/creditor
+  item: people/pascale-mertz
+- 
+  type: relations/work/client
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/debtor
+  item: companies/cremin-durgan
+- 
+  type: relations/money/debtor
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Clementine O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mylene-howell
+- 
+  type: relations/parental/friend
+  item: people/francesca-dach
+- 
+  type: relations/parental/dad
+  item: people/lexie-brekke
+- 
+  type: relations/parental/dad
+  item: people/eudora-zemlak-dvm
+- 
+  type: relations/money/debtor
+  item: people/whitney-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/prof-ariel-wiegand
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/employer
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/client
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

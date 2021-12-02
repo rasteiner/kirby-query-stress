@@ -1,0 +1,64 @@
+Title: Louie Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/salvador-champlin-ii
+- 
+  type: relations/parental/friend
+  item: people/miss-melody-zboncak-iii
+- 
+  type: relations/parental/dad
+  item: people/kristopher-pfannerstill
+- 
+  type: relations/parental/colleague
+  item: people/dr-marcelino-rolfson
+- 
+  type: relations/money/creditor
+  item: people/mr-orville-bernhard-phd
+- 
+  type: relations/parental/dad
+  item: people/madisen-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-strosin
+- 
+  type: relations/work/client
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,65 @@
+Title: Prof. Waino Nitzsche I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/deshaun-harris
+- 
+  type: relations/parental/friend
+  item: people/prof-milan-rau
+- 
+  type: relations/money/creditor
+  item: people/edna-sawayn-iii
+- 
+  type: relations/parental/dad
+  item: people/ludwig-bailey
+- 
+  type: relations/parental/friend
+  item: people/dr-toby-lebsack
+- 
+  type: relations/parental/mom
+  item: people/prof-imogene-blanda
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/work/client
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

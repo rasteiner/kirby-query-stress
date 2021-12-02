@@ -1,0 +1,64 @@
+Title: Jaycee O'Hara
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-pedro-hills-iv
+- 
+  type: relations/money/debtor
+  item: people/marquise-greenfelder-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-caleigh-bayer-iv
+- 
+  type: relations/parental/dad
+  item: people/mr-fredy-stamm
+- 
+  type: relations/parental/mom
+  item: people/esmeralda-graham
+- 
+  type: relations/money/debtor
+  item: people/john-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/work/employer
+  item: companies/terry-ltd
+- 
+  type: relations/work/employer
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

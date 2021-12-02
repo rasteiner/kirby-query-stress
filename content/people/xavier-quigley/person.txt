@@ -1,0 +1,64 @@
+Title: Xavier Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-minerva-hammes-iv
+- 
+  type: relations/parental/colleague
+  item: people/rhoda-bins
+- 
+  type: relations/parental/mom
+  item: people/ora-lemke
+- 
+  type: relations/parental/brosis
+  item: people/mr-camron-schumm-dvm
+- 
+  type: relations/parental/friend
+  item: people/zella-hudson
+- 
+  type: relations/parental/brosis
+  item: people/prof-hermann-hintz-dvm
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Dr. Dina Bartoletti IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tatum-crooks-ii
+- 
+  type: relations/parental/brosis
+  item: people/dr-imani-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/gregory-gleichner
+- 
+  type: relations/money/debtor
+  item: people/felicita-thompson
+- 
+  type: relations/parental/mom
+  item: people/charlie-hagenes-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-jillian-shanahan
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

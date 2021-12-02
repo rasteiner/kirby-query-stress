@@ -1,0 +1,64 @@
+Title: Lukas Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/casey-considine
+- 
+  type: relations/parental/friend
+  item: people/nathen-white
+- 
+  type: relations/parental/friend
+  item: people/velda-strosin
+- 
+  type: relations/parental/colleague
+  item: people/danika-jacobi
+- 
+  type: relations/parental/dad
+  item: people/mara-hahn
+- 
+  type: relations/money/creditor
+  item: people/prof-finn-zulauf
+- 
+  type: relations/work/client
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/client
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

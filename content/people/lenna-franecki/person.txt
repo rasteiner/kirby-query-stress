@@ -1,0 +1,64 @@
+Title: Lenna Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-leonardo-thiel
+- 
+  type: relations/parental/dad
+  item: people/pink-runte
+- 
+  type: relations/money/creditor
+  item: people/rosendo-wisozk
+- 
+  type: relations/money/debtor
+  item: people/kariane-spinka
+- 
+  type: relations/parental/mom
+  item: people/donato-pagac
+- 
+  type: relations/parental/friend
+  item: people/miss-noemy-wunsch-iii
+- 
+  type: relations/work/client
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

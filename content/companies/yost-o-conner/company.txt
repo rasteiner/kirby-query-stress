@@ -1,0 +1,43 @@
+Title: Yost-O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/new-taurean

@@ -1,0 +1,64 @@
+Title: Gus Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/isaac-simonis-phd
+- 
+  type: relations/money/creditor
+  item: people/haylie-hayes
+- 
+  type: relations/money/creditor
+  item: people/carol-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/pattie-abbott
+- 
+  type: relations/parental/brosis
+  item: people/esta-rice-ii
+- 
+  type: relations/money/debtor
+  item: people/simone-feest-iv
+- 
+  type: relations/work/employer
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/work/client
+  item: companies/effertz-llc
+- 
+  type: relations/money/creditor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/creditor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

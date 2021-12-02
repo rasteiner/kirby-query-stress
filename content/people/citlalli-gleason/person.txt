@@ -1,0 +1,64 @@
+Title: Citlalli Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alford-kuphal-dvm
+- 
+  type: relations/parental/mom
+  item: people/mrs-meta-pagac-sr
+- 
+  type: relations/parental/mom
+  item: people/marianne-rempel
+- 
+  type: relations/parental/brosis
+  item: people/miss-sadie-mertz-ii
+- 
+  type: relations/money/debtor
+  item: people/eleazar-heaney
+- 
+  type: relations/money/debtor
+  item: people/eriberto-stark
+- 
+  type: relations/work/employer
+  item: companies/bashirian-veum
+- 
+  type: relations/work/employer
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

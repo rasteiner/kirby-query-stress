@@ -1,0 +1,65 @@
+Title: Jackie Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/madilyn-funk
+- 
+  type: relations/parental/friend
+  item: people/sylvan-murazik
+- 
+  type: relations/parental/dad
+  item: people/theo-jaskolski
+- 
+  type: relations/parental/brosis
+  item: people/savanna-kshlerin
+- 
+  type: relations/parental/friend
+  item: people/lemuel-hahn
+- 
+  type: relations/money/creditor
+  item: people/pascale-collins
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/client
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

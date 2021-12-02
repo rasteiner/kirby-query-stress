@@ -1,0 +1,64 @@
+Title: Mireille Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/devante-weber-ii
+- 
+  type: relations/parental/colleague
+  item: people/nikolas-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/miss-electa-rohan-ii
+- 
+  type: relations/money/creditor
+  item: people/leonardo-haag
+- 
+  type: relations/parental/brosis
+  item: people/dr-macey-reichert-sr
+- 
+  type: relations/money/debtor
+  item: people/miss-hermina-hauck-v
+- 
+  type: relations/work/employer
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/client
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

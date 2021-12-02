@@ -1,0 +1,65 @@
+Title: Prof. Vinnie Parisian Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-manley-vonrueden
+- 
+  type: relations/parental/friend
+  item: people/rudy-kiehn
+- 
+  type: relations/parental/friend
+  item: people/mrs-amelie-purdy-dvm
+- 
+  type: relations/money/debtor
+  item: people/maybell-beer
+- 
+  type: relations/parental/mom
+  item: people/mrs-mona-koss-v
+- 
+  type: relations/parental/friend
+  item: people/deondre-hayes
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/creditor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/client
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,43 @@
+Title: Runolfsdottir-McLaughlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt

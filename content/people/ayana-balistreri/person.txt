@@ -1,0 +1,64 @@
+Title: Ayana Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/clint-dubuque
+- 
+  type: relations/money/creditor
+  item: people/nora-marks
+- 
+  type: relations/parental/mom
+  item: people/keaton-lang
+- 
+  type: relations/parental/mom
+  item: people/ms-lia-armstrong-phd
+- 
+  type: relations/parental/dad
+  item: people/mrs-tyra-reinger-sr
+- 
+  type: relations/parental/dad
+  item: people/ali-morar
+- 
+  type: relations/money/creditor
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/client
+  item: companies/hoppe-llc
+- 
+  type: relations/work/client
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

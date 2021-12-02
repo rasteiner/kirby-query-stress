@@ -1,0 +1,64 @@
+Title: Ms. Tiana Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/gerald-rippin-md
+- 
+  type: relations/money/creditor
+  item: people/dr-reagan-buckridge-i
+- 
+  type: relations/parental/colleague
+  item: people/dr-katheryn-legros
+- 
+  type: relations/parental/brosis
+  item: people/prof-ernestine-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/jamil-kreiger
+- 
+  type: relations/parental/brosis
+  item: people/karlie-stiedemann
+- 
+  type: relations/work/employer
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/weber-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-bode
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

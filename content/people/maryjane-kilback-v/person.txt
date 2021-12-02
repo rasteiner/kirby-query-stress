@@ -1,0 +1,64 @@
+Title: Maryjane Kilback V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-francis-lebsack-i
+- 
+  type: relations/parental/dad
+  item: people/prof-devonte-feest
+- 
+  type: relations/parental/friend
+  item: people/dr-sylvester-schulist
+- 
+  type: relations/parental/brosis
+  item: people/ruthe-murphy
+- 
+  type: relations/parental/dad
+  item: people/lilly-beatty-sr
+- 
+  type: relations/parental/friend
+  item: people/otilia-ryan
+- 
+  type: relations/work/employer
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/employer
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

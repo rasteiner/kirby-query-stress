@@ -1,0 +1,64 @@
+Title: River Schumm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marc-jerde
+- 
+  type: relations/parental/friend
+  item: people/hertha-christiansen-iv
+- 
+  type: relations/parental/dad
+  item: people/miss-malika-rutherford-jr
+- 
+  type: relations/parental/dad
+  item: people/morton-pfannerstill-jr
+- 
+  type: relations/parental/colleague
+  item: people/michael-renner
+- 
+  type: relations/parental/colleague
+  item: people/dr-lemuel-mayer
+- 
+  type: relations/work/client
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/work/employer
+  item: companies/ebert-inc
+- 
+  type: relations/work/employer
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

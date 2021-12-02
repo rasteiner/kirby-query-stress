@@ -1,0 +1,64 @@
+Title: Adalberto Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/nayeli-schamberger
+- 
+  type: relations/money/creditor
+  item: people/prof-raegan-schmitt-v
+- 
+  type: relations/parental/mom
+  item: people/darrell-blanda
+- 
+  type: relations/parental/dad
+  item: people/lucious-mante-iv
+- 
+  type: relations/parental/brosis
+  item: people/isobel-lynch
+- 
+  type: relations/money/debtor
+  item: people/dr-keyon-price-v
+- 
+  type: relations/money/creditor
+  item: companies/sporer-plc
+- 
+  type: relations/work/employer
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/client
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/schuster-yost
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

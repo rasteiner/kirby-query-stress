@@ -1,0 +1,64 @@
+Title: Kasandra Paucek V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hermina-kris
+- 
+  type: relations/parental/brosis
+  item: people/alessandro-doyle
+- 
+  type: relations/parental/friend
+  item: people/prof-clair-bernhard
+- 
+  type: relations/parental/dad
+  item: people/dr-dovie-willms
+- 
+  type: relations/parental/dad
+  item: people/mitchell-greenholt
+- 
+  type: relations/parental/mom
+  item: people/herta-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/debtor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/employer
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

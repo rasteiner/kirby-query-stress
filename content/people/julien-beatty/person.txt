@@ -1,0 +1,64 @@
+Title: Julien Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/judd-parisian
+- 
+  type: relations/parental/colleague
+  item: people/prof-russell-graham-sr
+- 
+  type: relations/money/creditor
+  item: people/hermina-feil
+- 
+  type: relations/money/creditor
+  item: people/kylee-rice-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-lisandro-romaguera
+- 
+  type: relations/parental/friend
+  item: people/meda-fay
+- 
+  type: relations/work/client
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/client
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

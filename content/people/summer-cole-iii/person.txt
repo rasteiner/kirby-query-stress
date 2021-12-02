@@ -1,0 +1,64 @@
+Title: Summer Cole III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/shanon-howell
+- 
+  type: relations/parental/brosis
+  item: people/prof-izaiah-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/fiona-morar-dvm
+- 
+  type: relations/parental/colleague
+  item: people/teresa-witting
+- 
+  type: relations/parental/brosis
+  item: people/dr-maxie-donnelly-i
+- 
+  type: relations/money/debtor
+  item: people/mr-fernando-collins
+- 
+  type: relations/work/employer
+  item: companies/strosin-ltd
+- 
+  type: relations/work/client
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/employer
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal
