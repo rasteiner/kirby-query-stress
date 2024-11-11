@@ -28,23 +28,23 @@ class Interpreter extends Visitor {
 		public array $context = []
 	) {}
 
-    public function visitArgumentList(ArgumentList $node): mixed {
+	public function visitArgumentList(ArgumentList $node): mixed {
 		return array_map(fn($argument) => $argument->accept($this), $node->arguments);
 	}
 
-    public function visitArrayList(ArrayList $node): mixed {
+	public function visitArrayList(ArrayList $node): mixed {
 		return array_map(fn($element) => $element->accept($this), $node->elements);
 	}
 
-    public function visitCoalesce(Coalesce $node): mixed {
+	public function visitCoalesce(Coalesce $node): mixed {
 		return $node->left->accept($this) ?? $node->right->accept($this);
 	}
 
-    public function visitLiteral(Literal $node): mixed {
+	public function visitLiteral(Literal $node): mixed {
 		return $node->value;
 	}
 
-    public function visitMemberAccess(MemberAccess $node): mixed {
+	public function visitMemberAccess(MemberAccess $node): mixed {
 		if($node->arguments !== null) {
 			$left = $node->object->accept($this);
 			if($node->nullSafe) {
@@ -56,7 +56,7 @@ class Interpreter extends Visitor {
 		return Runtime::access($node->object->accept($this), $node->member, $node->nullSafe);
 	}
 
-    public function visitTernary(Ternary $node): mixed {
+	public function visitTernary(Ternary $node): mixed {
 		if($node->trueBranchIsDefault) {
 			return $node->condition->accept($this) ?: $node->trueBranch->accept($this);
 		} else {
@@ -64,11 +64,11 @@ class Interpreter extends Visitor {
 		}
 	}
 
-    public function visitVariable(Variable $node): mixed {
+	public function visitVariable(Variable $node): mixed {
 		return $this->context[$node->name] ?? null;
 	}
 
-    public function visitGlobalFunction(GlobalFunction $node): mixed {
+	public function visitGlobalFunction(GlobalFunction $node): mixed {
 		if(!isset($this->validGlobalFunctions[$node->name])) {
 			throw new Exception("Invalid global function $node->name");
 		}

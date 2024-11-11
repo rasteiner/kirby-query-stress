@@ -8,13 +8,13 @@ use Kirby\Toolkit\Query\Runner;
 use Kirby\Toolkit\Query\Tokenizer;
 
 class Interpreted extends Runner {
-    private static array $cache = [];
+	private static array $cache = [];
 
 	protected function getResolver(string $query): Closure {
 		// load closure from process cache
-        if(isset(self::$cache[$query])) {
-            return self::$cache[$query];
-        }
+		if(isset(self::$cache[$query])) {
+			return self::$cache[$query];
+		}
 
 		// on cache miss, parse query and generate closure
 		$t = new Tokenizer($query);

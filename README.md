@@ -1,36 +1,41 @@
-<img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
-**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
-The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
+# Query compilation experiment
 
-You can learn more about Kirby at [getkirby.com](https://getkirby.com).
+This install provides two new alternative query "runners". You can enable them in your `site/config/config.php`:
 
-### Try Kirby for free
+```
+return [
+    // uncomment one of the following lines
+    // 'query.runner' => 'transpiled',
+    // 'query.runner' => 'interpreted',
+    // 'query.runner' => 'legacy', // default
+];
+```
 
-You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
+Interpreted queries make use of an abstract syntax tree (AST) to evaluate the query.
+Transpiled queries transpile the AST into PHP code that is then executed. 
 
-### Get going
+The legacy runner is the original query runner that directly executes the query string.
 
-Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
+There is a test dataset in content. Log into the panel and click on a "Person" page to run a slow query.
+Compare the performance of the different runners. The two new runners should be around ~30% faster than the legacy runner.
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
-If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
+## Affected files
 
-    git clone https://github.com/getkirby/plainkit.git
+There is a new `Kirby\Toolkit\Query` namespace which contains all logic for the new query runners.
+The general process is as follows:
+  1. The query string is split into a flat sequence of tokens (see [`Kirby\Toolkit\Query\Tokenizer`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Tokenizer.php)).
+  2. The tokens are parsed into a recursive abstract syntax tree (see [`Kirby\Toolkit\Query\Parser`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Parser.php)).
+  3. The AST is then [visited](https://en.wikipedia.org/wiki/Visitor_pattern) by
+     - an interpreter ([`Kirby\Toolkit\Query\Runners\Visitors\Interpreter`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Runners/Visitors/Interpreter.php)) that evaluates the query, or
+     - a code generator ([`Kirby\Toolkit\Query\Runners\Visitors\CodeGen`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Runners/Visitors/CodeGen.php)) that transpiles it into PHP code.
 
-## What's Kirby?
+The whole process and the caching is handled by the two "runner" classes:
+  - [`Kirby\Toolkit\Query\Runners\Interpreted`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Runners/Interpreted.php)
+  - [`Kirby\Toolkit\Query\Runners\Transpiled`](https://github.com/rasteiner/kirby-query-stress/blob/main/kirby/src/Toolkit/Query/Runners/Transpiled.php)
+  
+Separating the parsing and execution steps allows for more flexibility and better performance, since it allows us to cache the AST.
 
--   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
--   **[Try it](https://getkirby.com/try)** – Take a test ride with our online demo. Or download one of our kits to get started.
--   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
--   **[Issues](https://github.com/getkirby/kirby/issues)** – Report bugs and other problems.
--   **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
--   **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
--   **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
--   **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
--   **[Instagram](https://www.instagram.com/getkirby/)** – Share your creations: #madewithkirby.
+The original `Kirby\Query\Query` class remains in place and chooses which runner to use based on the `query.runner` option.
 
----
-
-© 2009 Bastian Allgeier
-[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
+The `Kirby\Query\Query::intercept()` method has been marked as deprecated as it couldn't support runners based on an AST.
