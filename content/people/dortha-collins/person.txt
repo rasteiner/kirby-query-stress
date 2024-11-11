@@ -1,0 +1,64 @@
+Title: Dortha Collins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-greta-flatley
+- 
+  type: relations/parental/friend
+  item: people/ida-koepp
+- 
+  type: relations/money/debtor
+  item: people/samson-batz
+- 
+  type: relations/money/debtor
+  item: people/xzavier-lynch-iv
+- 
+  type: relations/money/debtor
+  item: people/avery-graham
+- 
+  type: relations/parental/mom
+  item: people/prof-florence-gulgowski-dvm
+- 
+  type: relations/work/employer
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

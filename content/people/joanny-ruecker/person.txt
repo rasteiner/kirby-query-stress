@@ -1,0 +1,64 @@
+Title: Joanny Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/adah-mccullough
+- 
+  type: relations/parental/friend
+  item: people/lucius-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/dr-devyn-hirthe
+- 
+  type: relations/money/debtor
+  item: people/jennifer-schuppe
+- 
+  type: relations/parental/dad
+  item: people/odell-schroeder
+- 
+  type: relations/parental/colleague
+  item: people/prof-cordie-gibson-jr
+- 
+  type: relations/work/employer
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/work/employer
+  item: companies/ferry-carter
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/client
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

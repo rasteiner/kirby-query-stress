@@ -1,0 +1,64 @@
+Title: Dr. Mercedes Berge DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-judd-johnston
+- 
+  type: relations/money/debtor
+  item: people/prof-cicero-rutherford-md
+- 
+  type: relations/parental/mom
+  item: people/clare-abshire
+- 
+  type: relations/parental/mom
+  item: people/mrs-megane-reichel-v
+- 
+  type: relations/parental/mom
+  item: people/layne-walter
+- 
+  type: relations/parental/mom
+  item: people/mertie-hackett
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

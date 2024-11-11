@@ -1,0 +1,64 @@
+Title: Mckayla Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-francis-grant-phd
+- 
+  type: relations/parental/colleague
+  item: people/gerson-ullrich-i
+- 
+  type: relations/money/debtor
+  item: people/ms-lea-buckridge
+- 
+  type: relations/money/debtor
+  item: people/dr-lazaro-huels-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-george-ledner
+- 
+  type: relations/parental/brosis
+  item: people/dr-iva-johnston
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/employer
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/debtor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

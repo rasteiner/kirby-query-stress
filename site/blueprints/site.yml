@@ -1,0 +1,5 @@
+title: Site
+
+sections:
+  pages:
+    parent: site.find("people")

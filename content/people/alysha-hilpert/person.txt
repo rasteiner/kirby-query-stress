@@ -1,0 +1,64 @@
+Title: Alysha Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kraig-runolfsson
+- 
+  type: relations/money/creditor
+  item: people/elody-kozey
+- 
+  type: relations/parental/mom
+  item: people/kiley-schowalter
+- 
+  type: relations/money/debtor
+  item: people/jewell-effertz
+- 
+  type: relations/money/debtor
+  item: people/dr-berniece-klein
+- 
+  type: relations/money/creditor
+  item: people/mozelle-crist-dds
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/client
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

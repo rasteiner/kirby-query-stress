@@ -1,0 +1,64 @@
+Title: Kaya Moen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-keely-dicki
+- 
+  type: relations/parental/mom
+  item: people/andy-lang
+- 
+  type: relations/parental/dad
+  item: people/shaina-lockman
+- 
+  type: relations/parental/brosis
+  item: people/claudine-kautzer-dds
+- 
+  type: relations/parental/mom
+  item: people/enos-veum
+- 
+  type: relations/money/debtor
+  item: people/miss-karen-bode-dvm
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/creditor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/employer
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

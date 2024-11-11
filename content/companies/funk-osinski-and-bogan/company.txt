@@ -1,0 +1,43 @@
+Title: Funk, Osinski and Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/nyahport

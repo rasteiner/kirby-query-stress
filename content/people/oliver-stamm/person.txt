@@ -1,0 +1,64 @@
+Title: Oliver Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/caleigh-brakus
+- 
+  type: relations/money/creditor
+  item: people/loraine-stracke-md
+- 
+  type: relations/parental/colleague
+  item: people/golden-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/jayden-greenfelder
+- 
+  type: relations/money/debtor
+  item: people/parker-ruecker
+- 
+  type: relations/money/creditor
+  item: people/nicolas-orn
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/work/client
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/client
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

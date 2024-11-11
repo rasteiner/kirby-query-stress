@@ -1,0 +1,64 @@
+Title: Carrie Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/diamond-ondricka
+- 
+  type: relations/parental/colleague
+  item: people/kelly-nitzsche
+- 
+  type: relations/money/debtor
+  item: people/johann-corwin
+- 
+  type: relations/parental/brosis
+  item: people/terrence-orn
+- 
+  type: relations/parental/friend
+  item: people/berenice-fadel-ii
+- 
+  type: relations/parental/friend
+  item: people/miss-kyra-howe
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/work/client
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

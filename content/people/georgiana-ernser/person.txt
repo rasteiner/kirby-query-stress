@@ -1,0 +1,64 @@
+Title: Georgiana Ernser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/billie-kihn
+- 
+  type: relations/parental/colleague
+  item: people/otha-fay-dvm
+- 
+  type: relations/parental/brosis
+  item: people/geovanny-torp
+- 
+  type: relations/parental/friend
+  item: people/anthony-corwin
+- 
+  type: relations/parental/colleague
+  item: people/marisol-collier-md
+- 
+  type: relations/money/creditor
+  item: people/german-reilly
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/client
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/client
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

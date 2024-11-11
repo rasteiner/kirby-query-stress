@@ -1,0 +1,64 @@
+Title: Brennan Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-jermey-lebsack
+- 
+  type: relations/parental/friend
+  item: people/mr-dejon-moore-iv
+- 
+  type: relations/money/creditor
+  item: people/jude-grant
+- 
+  type: relations/money/debtor
+  item: people/paul-gorczany
+- 
+  type: relations/parental/mom
+  item: people/jamar-wiza
+- 
+  type: relations/parental/mom
+  item: people/javonte-kuhic
+- 
+  type: relations/work/client
+  item: companies/quigley-luettgen
+- 
+  type: relations/work/client
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/creditor
+  item: companies/collier-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Jon Kutch V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ashly-kassulke
+- 
+  type: relations/money/debtor
+  item: people/carolyne-schmitt
+- 
+  type: relations/money/creditor
+  item: people/iliana-mills-ii
+- 
+  type: relations/money/debtor
+  item: people/matilda-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/nichole-mccullough
+- 
+  type: relations/money/creditor
+  item: people/jade-volkman
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/client
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

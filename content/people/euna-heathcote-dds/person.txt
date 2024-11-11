@@ -1,0 +1,65 @@
+Title: Euna Heathcote DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/malika-boyer
+- 
+  type: relations/parental/mom
+  item: people/prof-camden-dach-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-lavon-senger
+- 
+  type: relations/money/creditor
+  item: people/marlin-bednar
+- 
+  type: relations/money/creditor
+  item: people/prof-joaquin-raynor
+- 
+  type: relations/parental/colleague
+  item: people/miss-mozelle-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morar-connelly
+- 
+  type: relations/money/creditor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/client
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

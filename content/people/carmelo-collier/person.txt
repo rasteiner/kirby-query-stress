@@ -1,0 +1,64 @@
+Title: Carmelo Collier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tania-borer
+- 
+  type: relations/parental/colleague
+  item: people/francisco-smith
+- 
+  type: relations/parental/brosis
+  item: people/sincere-stiedemann
+- 
+  type: relations/parental/mom
+  item: people/prof-arjun-watsica-i
+- 
+  type: relations/money/creditor
+  item: people/tamara-jones-i
+- 
+  type: relations/parental/friend
+  item: people/mr-madisen-stehr
+- 
+  type: relations/money/creditor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

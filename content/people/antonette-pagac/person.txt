@@ -1,0 +1,64 @@
+Title: Antonette Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/stephen-kovacek
+- 
+  type: relations/parental/friend
+  item: people/urban-mayer
+- 
+  type: relations/money/debtor
+  item: people/mrs-nyah-shields
+- 
+  type: relations/money/debtor
+  item: people/ulices-kohler
+- 
+  type: relations/money/creditor
+  item: people/karl-kuhic
+- 
+  type: relations/money/debtor
+  item: people/dr-wade-larkin
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/work/employer
+  item: companies/klein-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

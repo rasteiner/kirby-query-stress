@@ -1,0 +1,64 @@
+Title: Mac Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/valerie-labadie
+- 
+  type: relations/parental/dad
+  item: people/fermin-will
+- 
+  type: relations/parental/mom
+  item: people/glennie-rowe
+- 
+  type: relations/parental/friend
+  item: people/vallie-franecki
+- 
+  type: relations/parental/colleague
+  item: people/alyson-cummings-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-sharon-hammes
+- 
+  type: relations/work/employer
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/client
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

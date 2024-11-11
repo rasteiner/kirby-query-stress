@@ -1,0 +1,64 @@
+Title: Shawn Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ernest-gottlieb
+- 
+  type: relations/money/creditor
+  item: people/dr-andrew-rau
+- 
+  type: relations/parental/brosis
+  item: people/abelardo-goldner
+- 
+  type: relations/parental/brosis
+  item: people/gerry-jenkins
+- 
+  type: relations/money/debtor
+  item: people/dr-roselyn-feil-i
+- 
+  type: relations/parental/brosis
+  item: people/lambert-kuvalis
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

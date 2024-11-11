@@ -1,0 +1,64 @@
+Title: Prof. Gladys Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/annabell-bins-sr
+- 
+  type: relations/parental/friend
+  item: people/agustina-kohler
+- 
+  type: relations/parental/colleague
+  item: people/tate-pagac
+- 
+  type: relations/money/debtor
+  item: people/prof-savanna-ankunding-sr
+- 
+  type: relations/parental/mom
+  item: people/carole-dare
+- 
+  type: relations/parental/colleague
+  item: people/mr-ricky-robel-v
+- 
+  type: relations/money/debtor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/employer
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

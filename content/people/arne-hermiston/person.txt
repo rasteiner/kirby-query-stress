@@ -1,0 +1,64 @@
+Title: Arne Hermiston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-halle-bergstrom-dds
+- 
+  type: relations/parental/friend
+  item: people/alena-prohaska
+- 
+  type: relations/parental/mom
+  item: people/cortez-rodriguez
+- 
+  type: relations/money/creditor
+  item: people/felicia-orn
+- 
+  type: relations/parental/dad
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/money/debtor
+  item: people/patricia-dare
+- 
+  type: relations/work/client
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/wiza-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

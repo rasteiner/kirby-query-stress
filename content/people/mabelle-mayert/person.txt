@@ -1,0 +1,64 @@
+Title: Mabelle Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ralph-sipes
+- 
+  type: relations/parental/colleague
+  item: people/dr-sven-wiza
+- 
+  type: relations/parental/dad
+  item: people/amely-crist
+- 
+  type: relations/parental/dad
+  item: people/lorena-gulgowski
+- 
+  type: relations/parental/dad
+  item: people/prof-mable-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/dr-roscoe-abernathy-dvm
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/employer
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

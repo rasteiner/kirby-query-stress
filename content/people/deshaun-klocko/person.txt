@@ -1,0 +1,65 @@
+Title: Deshaun Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gwen-hodkiewicz-md
+- 
+  type: relations/parental/mom
+  item: people/ms-dina-lowe-md
+- 
+  type: relations/parental/colleague
+  item: people/mylene-hayes-phd
+- 
+  type: relations/parental/brosis
+  item: people/lillie-boyle
+- 
+  type: relations/parental/friend
+  item: people/dr-florida-denesik-jr
+- 
+  type: relations/parental/mom
+  item: people/mr-joshuah-kassulke-dds
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

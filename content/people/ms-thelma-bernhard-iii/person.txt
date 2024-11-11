@@ -1,0 +1,64 @@
+Title: Ms. Thelma Bernhard III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-katlynn-gusikowski-phd
+- 
+  type: relations/money/creditor
+  item: people/godfrey-beahan
+- 
+  type: relations/parental/mom
+  item: people/vern-feeney
+- 
+  type: relations/money/debtor
+  item: people/mrs-margot-beatty-dvm
+- 
+  type: relations/parental/colleague
+  item: people/kaya-renner-md
+- 
+  type: relations/money/debtor
+  item: people/meaghan-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/debtor
+  item: companies/welch-borer
+- 
+  type: relations/work/employer
+  item: companies/pollich-ltd
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

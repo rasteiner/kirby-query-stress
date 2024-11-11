@@ -1,0 +1,64 @@
+Title: Tatyana Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/izabella-bayer
+- 
+  type: relations/money/creditor
+  item: people/stephany-nicolas
+- 
+  type: relations/parental/dad
+  item: people/elvera-fadel
+- 
+  type: relations/parental/colleague
+  item: people/avis-glover
+- 
+  type: relations/money/debtor
+  item: people/miss-frida-effertz-iii
+- 
+  type: relations/money/debtor
+  item: people/lucas-johnson
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/work/employer
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

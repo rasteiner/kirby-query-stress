@@ -1,0 +1,64 @@
+Title: Trenton Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-macey-reichert-sr
+- 
+  type: relations/parental/dad
+  item: people/miss-hermina-hauck-v
+- 
+  type: relations/parental/brosis
+  item: people/monserrat-gorczany
+- 
+  type: relations/parental/mom
+  item: people/prof-jeromy-upton
+- 
+  type: relations/parental/colleague
+  item: people/dortha-terry
+- 
+  type: relations/parental/colleague
+  item: people/winfield-stehr
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

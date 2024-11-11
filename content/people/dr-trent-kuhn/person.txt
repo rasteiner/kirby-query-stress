@@ -1,0 +1,64 @@
+Title: Dr. Trent Kuhn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kim-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/jensen-kilback-md
+- 
+  type: relations/parental/dad
+  item: people/gayle-mayert
+- 
+  type: relations/parental/mom
+  item: people/ms-alyson-herzog
+- 
+  type: relations/parental/colleague
+  item: people/prof-rosemary-kling
+- 
+  type: relations/parental/brosis
+  item: people/miss-nelle-olson-dvm
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

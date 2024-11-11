@@ -1,0 +1,64 @@
+Title: Rachelle Schamberger MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lelah-reilly
+- 
+  type: relations/money/debtor
+  item: people/roosevelt-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/bianka-kunde
+- 
+  type: relations/parental/friend
+  item: people/dr-scottie-rippin
+- 
+  type: relations/parental/friend
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/fern-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/work/client
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

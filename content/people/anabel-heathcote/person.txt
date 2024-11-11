@@ -1,0 +1,64 @@
+Title: Anabel Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/idell-hoppe
+- 
+  type: relations/parental/dad
+  item: people/elise-stanton
+- 
+  type: relations/money/creditor
+  item: people/calista-fahey
+- 
+  type: relations/money/debtor
+  item: people/prof-lavon-huel-ii
+- 
+  type: relations/money/creditor
+  item: people/angelina-schultz
+- 
+  type: relations/parental/mom
+  item: people/filiberto-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

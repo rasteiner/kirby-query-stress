@@ -1,0 +1,64 @@
+Title: Prof. Karelle Blanda III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lenna-orn
+- 
+  type: relations/money/debtor
+  item: people/valentine-sauer
+- 
+  type: relations/parental/friend
+  item: people/dylan-block
+- 
+  type: relations/parental/brosis
+  item: people/mr-cordelia-morar-sr
+- 
+  type: relations/parental/friend
+  item: people/brandi-nolan
+- 
+  type: relations/parental/colleague
+  item: people/shakira-west
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

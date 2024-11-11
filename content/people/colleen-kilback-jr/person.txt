@@ -1,0 +1,64 @@
+Title: Colleen Kilback Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/harold-reichel
+- 
+  type: relations/parental/dad
+  item: people/adalberto-runte
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lilla-volkman-dvm
+- 
+  type: relations/parental/brosis
+  item: people/jevon-botsford-v
+- 
+  type: relations/parental/mom
+  item: people/rebeka-weimann
+- 
+  type: relations/parental/mom
+  item: people/odessa-kassulke
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

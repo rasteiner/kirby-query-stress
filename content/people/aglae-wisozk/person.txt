@@ -1,0 +1,64 @@
+Title: Aglae Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/liana-gutmann
+- 
+  type: relations/parental/brosis
+  item: people/kenton-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/beaulah-kihn
+- 
+  type: relations/parental/mom
+  item: people/noel-kunze
+- 
+  type: relations/parental/dad
+  item: people/athena-wehner
+- 
+  type: relations/parental/friend
+  item: people/devante-yost-i
+- 
+  type: relations/work/client
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/moore-llc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/creditor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

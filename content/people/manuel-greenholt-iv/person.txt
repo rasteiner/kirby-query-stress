@@ -1,0 +1,64 @@
+Title: Manuel Greenholt IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/estel-yost
+- 
+  type: relations/parental/colleague
+  item: people/edmund-jakubowski
+- 
+  type: relations/parental/mom
+  item: people/miss-jada-sauer
+- 
+  type: relations/parental/friend
+  item: people/delores-gerhold
+- 
+  type: relations/money/creditor
+  item: people/aron-lesch
+- 
+  type: relations/parental/mom
+  item: people/mason-herman
+- 
+  type: relations/money/creditor
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/money/creditor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

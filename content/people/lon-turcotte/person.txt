@@ -1,0 +1,64 @@
+Title: Lon Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cruz-berge
+- 
+  type: relations/money/creditor
+  item: people/eloise-braun
+- 
+  type: relations/parental/dad
+  item: people/tina-cartwright
+- 
+  type: relations/parental/colleague
+  item: people/augusta-daugherty
+- 
+  type: relations/money/debtor
+  item: people/miss-makayla-connelly-dds
+- 
+  type: relations/parental/colleague
+  item: people/camila-blanda-i
+- 
+  type: relations/work/client
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

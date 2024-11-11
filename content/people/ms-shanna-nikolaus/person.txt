@@ -1,0 +1,64 @@
+Title: Ms. Shanna Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lelia-swaniawski
+- 
+  type: relations/parental/brosis
+  item: people/rachelle-schamberger-md
+- 
+  type: relations/parental/dad
+  item: people/rahul-heathcote-iii
+- 
+  type: relations/parental/friend
+  item: people/britney-gusikowski-i
+- 
+  type: relations/money/creditor
+  item: people/fleta-reynolds
+- 
+  type: relations/money/creditor
+  item: people/jaylan-farrell
+- 
+  type: relations/money/debtor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/employer
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

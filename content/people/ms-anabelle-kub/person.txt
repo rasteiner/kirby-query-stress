@@ -1,0 +1,64 @@
+Title: Ms. Anabelle Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/chester-purdy
+- 
+  type: relations/parental/dad
+  item: people/mitchell-legros-iii
+- 
+  type: relations/money/debtor
+  item: people/prof-roderick-schaden
+- 
+  type: relations/parental/dad
+  item: people/ms-cheyanne-gleichner-iv
+- 
+  type: relations/money/creditor
+  item: people/lonnie-hills
+- 
+  type: relations/parental/friend
+  item: people/maiya-breitenberg
+- 
+  type: relations/work/client
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/employer
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

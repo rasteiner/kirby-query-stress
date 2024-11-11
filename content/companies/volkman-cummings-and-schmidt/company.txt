@@ -1,0 +1,43 @@
+Title: Volkman, Cummings and Schmidt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/debtor
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/abshire-group
+- 
+  type: relations/money/debtor
+  item: companies/frami-group
+- 
+  type: relations/money/creditor
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/money/debtor
+  item: companies/schneider-leannon
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/carmineshire
+- 
+  type: relations/location/residence
+  item: places/jerrytown

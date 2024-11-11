@@ -1,0 +1,64 @@
+Title: Mrs. Krystina Kreiger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/pearlie-hills-md
+- 
+  type: relations/parental/friend
+  item: people/eldridge-klocko
+- 
+  type: relations/parental/mom
+  item: people/amanda-harris
+- 
+  type: relations/parental/dad
+  item: people/lura-lesch
+- 
+  type: relations/money/creditor
+  item: people/dortha-wintheiser-sr
+- 
+  type: relations/money/debtor
+  item: people/miss-queen-smith
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

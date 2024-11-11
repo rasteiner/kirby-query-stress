@@ -1,0 +1,64 @@
+Title: Dudley Morissette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/diamond-jerde-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/parental/mom
+  item: people/lorna-walker
+- 
+  type: relations/parental/friend
+  item: people/miss-kathleen-kohler-sr
+- 
+  type: relations/parental/mom
+  item: people/josue-swift
+- 
+  type: relations/money/debtor
+  item: people/ramiro-kling
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/employer
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

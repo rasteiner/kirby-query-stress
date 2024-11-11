@@ -1,0 +1,64 @@
+Title: Selina Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/claud-steuber
+- 
+  type: relations/parental/mom
+  item: people/lukas-quitzon
+- 
+  type: relations/parental/friend
+  item: people/rory-runolfsson
+- 
+  type: relations/parental/brosis
+  item: people/ceasar-sawayn-sr
+- 
+  type: relations/parental/mom
+  item: people/felicita-kris-phd
+- 
+  type: relations/parental/brosis
+  item: people/alexie-grimes
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

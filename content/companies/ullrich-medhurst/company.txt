@@ -1,0 +1,44 @@
+Title: Ullrich-Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

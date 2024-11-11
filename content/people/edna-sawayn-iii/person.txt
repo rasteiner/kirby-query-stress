@@ -1,0 +1,64 @@
+Title: Edna Sawayn III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/eladio-kutch
+- 
+  type: relations/parental/friend
+  item: people/maurine-trantow
+- 
+  type: relations/money/creditor
+  item: people/miss-serenity-davis
+- 
+  type: relations/parental/friend
+  item: people/dr-nat-schaefer-md
+- 
+  type: relations/money/debtor
+  item: people/josiah-stamm
+- 
+  type: relations/parental/colleague
+  item: people/michaela-langosh
+- 
+  type: relations/work/client
+  item: companies/powlowski-inc
+- 
+  type: relations/money/creditor
+  item: companies/sauer-ltd
+- 
+  type: relations/work/employer
+  item: companies/roob-heathcote
+- 
+  type: relations/work/client
+  item: companies/haley-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

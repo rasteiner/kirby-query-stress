@@ -1,0 +1,44 @@
+Title: Murray, Schuster and Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-inc
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/east-therese

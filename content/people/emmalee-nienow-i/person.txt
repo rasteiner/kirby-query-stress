@@ -1,0 +1,64 @@
+Title: Emmalee Nienow I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/quentin-bogisich
+- 
+  type: relations/parental/dad
+  item: people/prof-kianna-kessler
+- 
+  type: relations/parental/mom
+  item: people/monserrate-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/prof-domingo-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/mrs-maiya-harber
+- 
+  type: relations/parental/dad
+  item: people/brock-mckenzie
+- 
+  type: relations/work/client
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/client
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

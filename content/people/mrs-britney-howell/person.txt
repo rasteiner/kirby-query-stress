@@ -1,0 +1,64 @@
+Title: Mrs. Britney Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-cortney-schultz
+- 
+  type: relations/parental/friend
+  item: people/cristal-hackett
+- 
+  type: relations/money/creditor
+  item: people/myrna-mayer
+- 
+  type: relations/parental/mom
+  item: people/dr-angie-stroman
+- 
+  type: relations/parental/friend
+  item: people/veronica-johnson
+- 
+  type: relations/parental/mom
+  item: people/justine-hahn-jr
+- 
+  type: relations/money/creditor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

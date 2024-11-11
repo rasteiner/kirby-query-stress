@@ -1,0 +1,64 @@
+Title: Theodore Collins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/berry-osinski
+- 
+  type: relations/parental/brosis
+  item: people/franco-mcdermott
+- 
+  type: relations/parental/brosis
+  item: people/casandra-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/melany-feeney-ii
+- 
+  type: relations/parental/brosis
+  item: people/andy-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/prof-robyn-kuphal
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-plc
+- 
+  type: relations/work/employer
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

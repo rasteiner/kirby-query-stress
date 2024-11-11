@@ -1,0 +1,43 @@
+Title: Marquardt-Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/debtor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/money/creditor
+  item: companies/murphy-inc
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-group
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton

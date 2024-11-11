@@ -1,0 +1,65 @@
+Title: Hulda Bauch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/baby-stracke
+- 
+  type: relations/parental/brosis
+  item: people/rosella-bruen
+- 
+  type: relations/parental/brosis
+  item: people/mrs-evangeline-klein-dvm
+- 
+  type: relations/money/creditor
+  item: people/dr-karolann-upton-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-tierra-nicolas-v
+- 
+  type: relations/money/creditor
+  item: people/prof-josianne-gutmann
+- 
+  type: relations/work/employer
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/client
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Mrs. Madge Heaney Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/damaris-hamill
+- 
+  type: relations/parental/mom
+  item: people/rosanna-bergnaum
+- 
+  type: relations/parental/mom
+  item: people/regan-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/aurore-dickens
+- 
+  type: relations/parental/dad
+  item: people/leif-rippin
+- 
+  type: relations/parental/mom
+  item: people/prof-emerson-koch
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

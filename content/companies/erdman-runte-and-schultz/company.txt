@@ -1,0 +1,43 @@
+Title: Erdman, Runte and Schultz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-walter
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/creditor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/new-jettie

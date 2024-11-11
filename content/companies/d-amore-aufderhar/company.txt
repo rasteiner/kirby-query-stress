@@ -1,0 +1,43 @@
+Title: D'Amore-Aufderhar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/kaleland

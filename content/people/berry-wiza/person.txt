@@ -1,0 +1,65 @@
+Title: Berry Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/karlee-volkman
+- 
+  type: relations/parental/mom
+  item: people/lon-gerhold
+- 
+  type: relations/parental/friend
+  item: people/enrico-walker
+- 
+  type: relations/parental/colleague
+  item: people/reyna-brown
+- 
+  type: relations/parental/friend
+  item: people/glenna-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/alda-mertz
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morar-connelly
+- 
+  type: relations/work/client
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/employer
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

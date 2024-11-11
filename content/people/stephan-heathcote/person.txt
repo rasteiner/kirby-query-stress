@@ -1,0 +1,64 @@
+Title: Stephan Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/gregory-gleichner
+- 
+  type: relations/money/creditor
+  item: people/felicita-thompson
+- 
+  type: relations/parental/brosis
+  item: people/charlie-hagenes-iii
+- 
+  type: relations/parental/dad
+  item: people/mr-jillian-shanahan
+- 
+  type: relations/parental/dad
+  item: people/prof-amelie-turner-jr
+- 
+  type: relations/money/creditor
+  item: people/miss-tina-nader
+- 
+  type: relations/work/employer
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-group
+- 
+  type: relations/work/client
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Demond Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/beau-sanford
+- 
+  type: relations/parental/mom
+  item: people/houston-tillman
+- 
+  type: relations/parental/mom
+  item: people/elmo-cremin
+- 
+  type: relations/parental/colleague
+  item: people/daphnee-toy
+- 
+  type: relations/parental/dad
+  item: people/mr-shane-strosin
+- 
+  type: relations/parental/colleague
+  item: people/okey-schuppe
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

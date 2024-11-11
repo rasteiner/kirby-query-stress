@@ -1,0 +1,64 @@
+Title: Efren Marks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marge-berge-i
+- 
+  type: relations/money/debtor
+  item: people/dr-janie-windler
+- 
+  type: relations/money/debtor
+  item: people/krystel-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/kenyon-krajcik
+- 
+  type: relations/parental/mom
+  item: people/dr-hope-larson-iii
+- 
+  type: relations/money/creditor
+  item: people/pearlie-sauer
+- 
+  type: relations/work/employer
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

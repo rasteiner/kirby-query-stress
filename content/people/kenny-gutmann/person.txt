@@ -1,0 +1,64 @@
+Title: Kenny Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/berry-osinski
+- 
+  type: relations/parental/brosis
+  item: people/franco-mcdermott
+- 
+  type: relations/parental/friend
+  item: people/casandra-jaskolski
+- 
+  type: relations/parental/brosis
+  item: people/melany-feeney-ii
+- 
+  type: relations/parental/colleague
+  item: people/andy-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/prof-robyn-kuphal
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/employer
+  item: companies/tremblay-group
+- 
+  type: relations/work/employer
+  item: companies/windler-plc
+- 
+  type: relations/work/employer
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

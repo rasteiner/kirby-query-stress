@@ -1,0 +1,64 @@
+Title: Tom Hilpert Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/elliott-farrell
+- 
+  type: relations/parental/friend
+  item: people/mr-hilton-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/willa-brown
+- 
+  type: relations/parental/friend
+  item: people/janessa-douglas
+- 
+  type: relations/parental/colleague
+  item: people/brando-schowalter
+- 
+  type: relations/parental/colleague
+  item: people/miss-ava-klocko
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/client
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

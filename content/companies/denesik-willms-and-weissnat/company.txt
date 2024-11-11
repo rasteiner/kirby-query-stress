@@ -1,0 +1,43 @@
+Title: Denesik, Willms and Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-walter
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/blanda-inc
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/gerlachberg

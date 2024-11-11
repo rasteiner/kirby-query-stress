@@ -1,0 +1,64 @@
+Title: Miss Carlee Tremblay III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/haven-ondricka-jr
+- 
+  type: relations/parental/brosis
+  item: people/rossie-bechtelar-dvm
+- 
+  type: relations/parental/colleague
+  item: people/roel-dicki-jr
+- 
+  type: relations/parental/dad
+  item: people/destinee-kutch
+- 
+  type: relations/money/creditor
+  item: people/prof-joy-cronin
+- 
+  type: relations/parental/dad
+  item: people/shawn-goyette
+- 
+  type: relations/money/creditor
+  item: companies/howe-group
+- 
+  type: relations/money/debtor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Dr. Keyon Price V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jairo-schoen
+- 
+  type: relations/parental/dad
+  item: people/clark-barton
+- 
+  type: relations/money/debtor
+  item: people/cory-denesik-sr
+- 
+  type: relations/parental/mom
+  item: people/llewellyn-kulas
+- 
+  type: relations/money/creditor
+  item: people/suzanne-koch-md
+- 
+  type: relations/money/debtor
+  item: people/lazaro-johnston-md
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/ferry-bayer
+- 
+  type: relations/work/employer
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

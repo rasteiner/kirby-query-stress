@@ -1,0 +1,44 @@
+Title: Sporer-Sanford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/gerholdshire

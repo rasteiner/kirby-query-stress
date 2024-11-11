@@ -1,0 +1,64 @@
+Title: Shanny Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jaylon-nader
+- 
+  type: relations/parental/brosis
+  item: people/braulio-willms-sr
+- 
+  type: relations/parental/colleague
+  item: people/dr-patricia-white-ii
+- 
+  type: relations/money/creditor
+  item: people/jolie-gleichner-ii
+- 
+  type: relations/money/creditor
+  item: people/mrs-yvonne-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/katelyn-carroll
+- 
+  type: relations/work/client
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/work/client
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

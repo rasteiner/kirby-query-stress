@@ -1,0 +1,43 @@
+Title: Kuvalis Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/money/debtor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/lake-abbie

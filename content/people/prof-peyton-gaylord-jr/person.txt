@@ -1,0 +1,64 @@
+Title: Prof. Peyton Gaylord Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kylee-runte
+- 
+  type: relations/parental/dad
+  item: people/hanna-wiza
+- 
+  type: relations/money/debtor
+  item: people/velma-collier-dvm
+- 
+  type: relations/money/creditor
+  item: people/nathen-ortiz-iv
+- 
+  type: relations/parental/dad
+  item: people/orie-breitenberg
+- 
+  type: relations/money/debtor
+  item: people/brando-wolff
+- 
+  type: relations/work/client
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/client
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/employer
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

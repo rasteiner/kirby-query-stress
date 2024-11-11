@@ -1,0 +1,64 @@
+Title: Steve Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kristian-rempel
+- 
+  type: relations/parental/mom
+  item: people/buck-smith
+- 
+  type: relations/parental/brosis
+  item: people/roscoe-nolan-dvm
+- 
+  type: relations/parental/brosis
+  item: people/maureen-kerluke
+- 
+  type: relations/parental/mom
+  item: people/trey-heaney-md
+- 
+  type: relations/parental/mom
+  item: people/valentina-reichel
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/work/employer
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

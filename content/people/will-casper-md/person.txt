@@ -1,0 +1,64 @@
+Title: Will Casper MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/clara-towne-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-mariane-spencer
+- 
+  type: relations/money/debtor
+  item: people/kurt-pagac
+- 
+  type: relations/parental/brosis
+  item: people/katrina-bechtelar
+- 
+  type: relations/money/debtor
+  item: people/eda-koch
+- 
+  type: relations/parental/dad
+  item: people/christa-wisoky
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Elyssa Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-zola-ruecker-phd
+- 
+  type: relations/parental/friend
+  item: people/blaze-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/vella-schinner-jr
+- 
+  type: relations/money/debtor
+  item: people/dr-unique-abshire-dds
+- 
+  type: relations/parental/mom
+  item: people/jorge-luettgen-iii
+- 
+  type: relations/parental/friend
+  item: people/sylvester-lubowitz
+- 
+  type: relations/work/employer
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

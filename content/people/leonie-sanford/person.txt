@@ -1,0 +1,64 @@
+Title: Leonie Sanford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/greg-gleason
+- 
+  type: relations/parental/brosis
+  item: people/delaney-kulas
+- 
+  type: relations/parental/colleague
+  item: people/riley-wiza
+- 
+  type: relations/parental/mom
+  item: people/jerome-o-connell
+- 
+  type: relations/parental/colleague
+  item: people/unique-schiller
+- 
+  type: relations/parental/brosis
+  item: people/thora-bednar-iii
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/client
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

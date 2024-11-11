@@ -1,0 +1,64 @@
+Title: Dillon Lynch V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-ole-durgan-iii
+- 
+  type: relations/parental/colleague
+  item: people/freida-corkery-phd
+- 
+  type: relations/parental/dad
+  item: people/karina-shields
+- 
+  type: relations/parental/mom
+  item: people/walker-wiza
+- 
+  type: relations/parental/dad
+  item: people/bradly-murphy
+- 
+  type: relations/parental/mom
+  item: people/lucinda-hermann
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/work/client
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

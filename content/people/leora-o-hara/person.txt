@@ -1,0 +1,64 @@
+Title: Leora O'Hara
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/deontae-cruickshank-dds
+- 
+  type: relations/parental/brosis
+  item: people/jeremy-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/rocky-reichel-i
+- 
+  type: relations/parental/dad
+  item: people/betty-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/cristal-wunsch
+- 
+  type: relations/parental/dad
+  item: people/breanna-satterfield
+- 
+  type: relations/money/creditor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

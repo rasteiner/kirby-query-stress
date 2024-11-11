@@ -1,0 +1,68 @@
+Title: Abdiel Durgan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rigoberto-watsica-iv
+- 
+  type: relations/parental/colleague
+  item: people/lucienne-hermann
+- 
+  type: relations/parental/brosis
+  item: people/dr-garnet-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/ferne-nicolas
+- 
+  type: relations/parental/mom
+  item: people/dr-keely-ondricka-dds
+- 
+  type: relations/parental/friend
+  item: people/jacquelyn-bahringer
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/work/client
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt
+
+----
+
+Uuid: gpgslrtdbh2kaq9r

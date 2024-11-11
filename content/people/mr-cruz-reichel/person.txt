@@ -1,0 +1,64 @@
+Title: Mr. Cruz Reichel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cali-runte
+- 
+  type: relations/parental/dad
+  item: people/raquel-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/prof-geovanni-gusikowski-dds
+- 
+  type: relations/parental/mom
+  item: people/percy-jenkins
+- 
+  type: relations/money/creditor
+  item: people/kraig-corkery-ii
+- 
+  type: relations/parental/mom
+  item: people/trystan-towne
+- 
+  type: relations/work/client
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/employer
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bogan-llc
+- 
+  type: relations/money/creditor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

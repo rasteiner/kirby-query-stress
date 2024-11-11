@@ -1,0 +1,64 @@
+Title: Eda Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-alphonso-raynor
+- 
+  type: relations/parental/brosis
+  item: people/dejon-lemke
+- 
+  type: relations/parental/colleague
+  item: people/jordy-kemmer
+- 
+  type: relations/parental/friend
+  item: people/mr-coy-fadel
+- 
+  type: relations/parental/brosis
+  item: people/valentina-mckenzie
+- 
+  type: relations/parental/brosis
+  item: people/jeanette-tillman-jr
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

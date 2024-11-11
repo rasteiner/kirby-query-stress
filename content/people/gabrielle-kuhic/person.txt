@@ -1,0 +1,64 @@
+Title: Gabrielle Kuhic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/harvey-cremin
+- 
+  type: relations/parental/friend
+  item: people/simeon-marquardt
+- 
+  type: relations/parental/colleague
+  item: people/everardo-marvin
+- 
+  type: relations/parental/mom
+  item: people/louvenia-boyle
+- 
+  type: relations/money/debtor
+  item: people/prof-rosalinda-boyer-dvm
+- 
+  type: relations/parental/dad
+  item: people/prof-sim-baumbach-dvm
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/work/employer
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

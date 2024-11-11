@@ -1,0 +1,65 @@
+Title: Mr. Kenton Schaden PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mattie-rolfson-iii
+- 
+  type: relations/parental/friend
+  item: people/gregoria-rohan
+- 
+  type: relations/money/debtor
+  item: people/janae-dietrich
+- 
+  type: relations/parental/brosis
+  item: people/randal-schowalter
+- 
+  type: relations/money/debtor
+  item: people/jeramy-conn
+- 
+  type: relations/money/debtor
+  item: people/emelia-huel-phd
+- 
+  type: relations/work/client
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/client
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/client
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

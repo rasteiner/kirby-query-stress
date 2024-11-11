@@ -1,0 +1,64 @@
+Title: Raven Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kaylah-cartwright
+- 
+  type: relations/parental/dad
+  item: people/miss-meghan-lind-v
+- 
+  type: relations/money/debtor
+  item: people/braulio-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/dr-esmeralda-frami
+- 
+  type: relations/parental/mom
+  item: people/dr-anthony-gutkowski-phd
+- 
+  type: relations/parental/mom
+  item: people/beverly-abshire
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/client
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Santina Bergstrom Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-dakota-waters
+- 
+  type: relations/parental/brosis
+  item: people/rogers-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/miss-kellie-thiel
+- 
+  type: relations/parental/colleague
+  item: people/treva-rogahn
+- 
+  type: relations/parental/colleague
+  item: people/filiberto-cummerata
+- 
+  type: relations/parental/brosis
+  item: people/josianne-bernhard
+- 
+  type: relations/work/client
+  item: companies/ryan-little
+- 
+  type: relations/work/client
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/employer
+  item: companies/davis-kemmer
+- 
+  type: relations/work/employer
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

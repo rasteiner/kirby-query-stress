@@ -1,0 +1,64 @@
+Title: Ulices Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/micah-blick-i
+- 
+  type: relations/money/debtor
+  item: people/brendan-wisozk
+- 
+  type: relations/parental/mom
+  item: people/minerva-lakin-jr
+- 
+  type: relations/parental/mom
+  item: people/elmer-rempel
+- 
+  type: relations/money/creditor
+  item: people/imelda-mosciski
+- 
+  type: relations/parental/friend
+  item: people/amani-dare
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/client
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/client
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

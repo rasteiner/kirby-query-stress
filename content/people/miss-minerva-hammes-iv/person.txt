@@ -1,0 +1,65 @@
+Title: Miss Minerva Hammes IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/barrett-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/prof-amya-bartoletti
+- 
+  type: relations/parental/brosis
+  item: people/anderson-toy
+- 
+  type: relations/parental/mom
+  item: people/mckayla-gleason
+- 
+  type: relations/parental/dad
+  item: people/britney-murazik
+- 
+  type: relations/money/creditor
+  item: people/hobart-swaniawski
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/client
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/money/creditor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

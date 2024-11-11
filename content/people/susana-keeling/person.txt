@@ -1,0 +1,64 @@
+Title: Susana Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anastacio-walsh
+- 
+  type: relations/parental/brosis
+  item: people/mia-quigley
+- 
+  type: relations/parental/brosis
+  item: people/emmalee-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/deja-cole
+- 
+  type: relations/parental/brosis
+  item: people/miss-reina-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/lillie-davis
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

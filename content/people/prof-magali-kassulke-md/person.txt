@@ -1,0 +1,64 @@
+Title: Prof. Magali Kassulke MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gerson-yost
+- 
+  type: relations/money/debtor
+  item: people/omer-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/mr-arlo-turner
+- 
+  type: relations/parental/mom
+  item: people/ms-sincere-kirlin-iv
+- 
+  type: relations/money/debtor
+  item: people/scotty-dubuque-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-guadalupe-goldner-i
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

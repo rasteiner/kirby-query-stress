@@ -1,0 +1,64 @@
+Title: Wyman Zulauf II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-winifred-moore
+- 
+  type: relations/parental/mom
+  item: people/chance-mclaughlin-i
+- 
+  type: relations/parental/mom
+  item: people/prof-jazmyne-nienow-iv
+- 
+  type: relations/parental/brosis
+  item: people/mr-deon-heidenreich-dvm
+- 
+  type: relations/parental/dad
+  item: people/garret-harber-dvm
+- 
+  type: relations/parental/mom
+  item: people/prof-edd-leffler-ii
+- 
+  type: relations/work/client
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

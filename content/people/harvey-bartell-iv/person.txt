@@ -1,0 +1,64 @@
+Title: Harvey Bartell IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/david-lowe
+- 
+  type: relations/parental/brosis
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/parental/mom
+  item: people/anne-kuhn
+- 
+  type: relations/parental/dad
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/parental/friend
+  item: people/prof-augustus-rath
+- 
+  type: relations/money/creditor
+  item: people/dr-roman-legros-iii
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Miss Serenity Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/madilyn-d-amore
+- 
+  type: relations/parental/brosis
+  item: people/miss-scarlett-rogahn
+- 
+  type: relations/parental/colleague
+  item: people/makayla-pagac-sr
+- 
+  type: relations/money/debtor
+  item: people/amber-conn
+- 
+  type: relations/parental/brosis
+  item: people/mr-justyn-lemke
+- 
+  type: relations/money/debtor
+  item: people/tabitha-schmitt
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/money/creditor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Trudie Greenholt Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/toy-harvey-md
+- 
+  type: relations/parental/brosis
+  item: people/dwight-bogisich
+- 
+  type: relations/money/debtor
+  item: people/dr-porter-hand-md
+- 
+  type: relations/money/debtor
+  item: people/lenora-monahan
+- 
+  type: relations/parental/mom
+  item: people/aurelio-conn
+- 
+  type: relations/parental/dad
+  item: people/prof-gudrun-nienow
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/work/client
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

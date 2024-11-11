@@ -1,0 +1,64 @@
+Title: Lonnie Mann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lexie-schimmel
+- 
+  type: relations/parental/dad
+  item: people/mr-cooper-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/mr-sigrid-hettinger
+- 
+  type: relations/parental/colleague
+  item: people/efren-marks
+- 
+  type: relations/money/creditor
+  item: people/francesco-jast
+- 
+  type: relations/parental/friend
+  item: people/bernadette-walter
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

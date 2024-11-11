@@ -1,0 +1,64 @@
+Title: Pamela Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kaitlyn-zboncak
+- 
+  type: relations/parental/mom
+  item: people/miss-alvena-franecki
+- 
+  type: relations/money/debtor
+  item: people/madilyn-d-amore
+- 
+  type: relations/parental/dad
+  item: people/miss-scarlett-rogahn
+- 
+  type: relations/parental/friend
+  item: people/makayla-pagac-sr
+- 
+  type: relations/parental/friend
+  item: people/amber-conn
+- 
+  type: relations/work/employer
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Jeremie Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kallie-okuneva
+- 
+  type: relations/parental/friend
+  item: people/sadie-schmeler
+- 
+  type: relations/parental/mom
+  item: people/myrtie-thompson
+- 
+  type: relations/money/creditor
+  item: people/junior-reynolds
+- 
+  type: relations/money/debtor
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

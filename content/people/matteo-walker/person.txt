@@ -1,0 +1,64 @@
+Title: Matteo Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/burdette-ernser-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-shayne-bruen
+- 
+  type: relations/parental/mom
+  item: people/oscar-o-connell
+- 
+  type: relations/parental/friend
+  item: people/terrill-upton
+- 
+  type: relations/money/creditor
+  item: people/miss-kiana-ernser-iii
+- 
+  type: relations/parental/friend
+  item: people/rhianna-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Berta Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leann-abbott
+- 
+  type: relations/money/creditor
+  item: people/carolyn-friesen
+- 
+  type: relations/parental/mom
+  item: people/benjamin-cormier
+- 
+  type: relations/money/debtor
+  item: people/isac-jacobson
+- 
+  type: relations/parental/mom
+  item: people/raymond-gleason
+- 
+  type: relations/parental/dad
+  item: people/fermin-renner
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

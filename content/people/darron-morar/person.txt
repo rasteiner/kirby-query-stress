@@ -1,0 +1,64 @@
+Title: Darron Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nash-smith
+- 
+  type: relations/parental/friend
+  item: people/wilton-powlowski
+- 
+  type: relations/parental/dad
+  item: people/wava-kuhic
+- 
+  type: relations/parental/dad
+  item: people/lavina-johnson
+- 
+  type: relations/parental/colleague
+  item: people/neha-predovic
+- 
+  type: relations/parental/colleague
+  item: people/katelyn-johnston
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/creditor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

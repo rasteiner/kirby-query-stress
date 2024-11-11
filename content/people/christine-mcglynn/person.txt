@@ -1,0 +1,64 @@
+Title: Christine McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cassandra-kertzmann-iv
+- 
+  type: relations/money/debtor
+  item: people/hulda-bauch
+- 
+  type: relations/parental/friend
+  item: people/miss-sabina-beier-dvm
+- 
+  type: relations/parental/friend
+  item: people/joanne-koch
+- 
+  type: relations/parental/colleague
+  item: people/mr-torrey-farrell-jr
+- 
+  type: relations/parental/mom
+  item: people/eleazar-goyette
+- 
+  type: relations/money/debtor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-llc
+- 
+  type: relations/work/employer
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

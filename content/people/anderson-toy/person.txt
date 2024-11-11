@@ -1,0 +1,64 @@
+Title: Anderson Toy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/myrtis-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/guadalupe-west
+- 
+  type: relations/money/debtor
+  item: people/dr-alexys-russel
+- 
+  type: relations/parental/dad
+  item: people/coby-ferry
+- 
+  type: relations/money/creditor
+  item: people/dr-adah-johns-phd
+- 
+  type: relations/parental/mom
+  item: people/cale-hansen
+- 
+  type: relations/money/debtor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/work/client
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

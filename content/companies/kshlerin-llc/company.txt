@@ -1,0 +1,44 @@
+Title: Kshlerin LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/cassin-group
+- 
+  type: relations/money/debtor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/sporer-sanford
+- 
+  type: relations/money/debtor
+  item: companies/donnelly-dietrich
+- 
+  type: relations/money/debtor
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Gilberto Hoppe DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/arne-hermiston
+- 
+  type: relations/parental/friend
+  item: people/ms-vernie-franecki-dds
+- 
+  type: relations/parental/friend
+  item: people/bernardo-hegmann-iv
+- 
+  type: relations/parental/dad
+  item: people/kendall-kunze
+- 
+  type: relations/money/creditor
+  item: people/zachariah-marvin
+- 
+  type: relations/parental/colleague
+  item: people/markus-bauch
+- 
+  type: relations/money/creditor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/work/employer
+  item: companies/schmidt-llc
+- 
+  type: relations/work/client
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

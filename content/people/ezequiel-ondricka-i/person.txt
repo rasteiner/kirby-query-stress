@@ -1,0 +1,64 @@
+Title: Ezequiel Ondricka I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/abagail-crooks
+- 
+  type: relations/money/debtor
+  item: people/ms-macy-bogisich-md
+- 
+  type: relations/parental/brosis
+  item: people/leora-yundt
+- 
+  type: relations/parental/mom
+  item: people/delpha-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/hillary-mccullough
+- 
+  type: relations/parental/mom
+  item: people/johnnie-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/employer
+  item: companies/welch-borer
+- 
+  type: relations/work/client
+  item: companies/pollich-ltd
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

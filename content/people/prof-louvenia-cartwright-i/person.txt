@@ -1,0 +1,64 @@
+Title: Prof. Louvenia Cartwright I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jamie-dicki
+- 
+  type: relations/parental/friend
+  item: people/emie-hermiston
+- 
+  type: relations/parental/friend
+  item: people/summer-fritsch
+- 
+  type: relations/parental/brosis
+  item: people/peggie-pollich
+- 
+  type: relations/money/creditor
+  item: people/macy-gislason
+- 
+  type: relations/parental/mom
+  item: people/mr-koby-miller-sr
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/work/client
+  item: companies/miller-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

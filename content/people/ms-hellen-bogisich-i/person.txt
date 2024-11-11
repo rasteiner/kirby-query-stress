@@ -1,0 +1,64 @@
+Title: Ms. Hellen Bogisich I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-westley-lebsack-dvm
+- 
+  type: relations/money/debtor
+  item: people/dr-anahi-cormier
+- 
+  type: relations/money/creditor
+  item: people/dr-orie-mueller-i
+- 
+  type: relations/parental/colleague
+  item: people/ms-alexa-ebert-dvm
+- 
+  type: relations/money/debtor
+  item: people/lesley-wisoky
+- 
+  type: relations/parental/mom
+  item: people/alvah-lesch
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

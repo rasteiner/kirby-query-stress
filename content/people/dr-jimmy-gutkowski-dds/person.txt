@@ -1,0 +1,64 @@
+Title: Dr. Jimmy Gutkowski DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/santos-hilpert-sr
+- 
+  type: relations/parental/brosis
+  item: people/darron-morar
+- 
+  type: relations/parental/dad
+  item: people/fay-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/constance-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/keanu-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/emiliano-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

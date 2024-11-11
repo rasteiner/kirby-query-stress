@@ -1,0 +1,64 @@
+Title: Mrs. Antonina Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ernesto-daniel
+- 
+  type: relations/parental/mom
+  item: people/prof-raymond-robel-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-bud-nienow
+- 
+  type: relations/money/creditor
+  item: people/mr-alejandrin-hilpert-sr
+- 
+  type: relations/parental/friend
+  item: people/thad-bartell
+- 
+  type: relations/parental/colleague
+  item: people/aniya-legros
+- 
+  type: relations/money/debtor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/work/client
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

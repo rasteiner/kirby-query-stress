@@ -1,0 +1,64 @@
+Title: Elmo Kulas III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/trey-heaney-md
+- 
+  type: relations/parental/friend
+  item: people/valentina-reichel
+- 
+  type: relations/money/debtor
+  item: people/dr-edd-keeling
+- 
+  type: relations/parental/brosis
+  item: people/alexander-hoeger
+- 
+  type: relations/money/creditor
+  item: people/katelyn-kozey
+- 
+  type: relations/parental/colleague
+  item: people/mr-rey-beier-i
+- 
+  type: relations/money/debtor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/employer
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

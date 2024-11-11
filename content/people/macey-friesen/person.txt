@@ -1,0 +1,64 @@
+Title: Macey Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/verner-kautzer
+- 
+  type: relations/parental/friend
+  item: people/oceane-goldner-iv
+- 
+  type: relations/parental/brosis
+  item: people/mallory-larson
+- 
+  type: relations/money/debtor
+  item: people/muriel-bednar
+- 
+  type: relations/parental/dad
+  item: people/pascale-welch
+- 
+  type: relations/parental/colleague
+  item: people/kobe-schoen-md
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/work/employer
+  item: companies/kub-plc
+- 
+  type: relations/work/client
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/employer
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

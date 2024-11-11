@@ -1,0 +1,64 @@
+Title: Prof. Lillie Schultz II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/selina-runolfsson
+- 
+  type: relations/money/creditor
+  item: people/odell-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/dr-alan-ankunding
+- 
+  type: relations/parental/dad
+  item: people/miss-vivian-von-iv
+- 
+  type: relations/money/debtor
+  item: people/shaylee-funk
+- 
+  type: relations/parental/mom
+  item: people/will-fay
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/work/client
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

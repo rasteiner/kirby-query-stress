@@ -1,0 +1,64 @@
+Title: Dr. Myrl Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/tre-fahey
+- 
+  type: relations/parental/brosis
+  item: people/isabell-schmeler
+- 
+  type: relations/parental/brosis
+  item: people/katelynn-little
+- 
+  type: relations/parental/brosis
+  item: people/roscoe-jerde
+- 
+  type: relations/parental/colleague
+  item: people/hyman-koelpin
+- 
+  type: relations/parental/colleague
+  item: people/prof-hortense-bergnaum-ii
+- 
+  type: relations/money/creditor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/employer
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/client
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/client
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

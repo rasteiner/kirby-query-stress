@@ -1,0 +1,64 @@
+Title: Maribel Blanda
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-kyler-macejkovic-dvm
+- 
+  type: relations/money/debtor
+  item: people/earlene-lemke
+- 
+  type: relations/parental/colleague
+  item: people/ashly-cummings
+- 
+  type: relations/parental/colleague
+  item: people/heloise-kulas
+- 
+  type: relations/parental/brosis
+  item: people/elnora-mraz
+- 
+  type: relations/parental/colleague
+  item: people/sincere-tremblay-dds
+- 
+  type: relations/work/employer
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/work/client
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

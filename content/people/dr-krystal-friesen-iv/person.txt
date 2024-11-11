@@ -1,0 +1,64 @@
+Title: Dr. Krystal Friesen IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tre-watsica
+- 
+  type: relations/parental/colleague
+  item: people/mrs-domenica-doyle-sr
+- 
+  type: relations/parental/colleague
+  item: people/wilford-weimann-v
+- 
+  type: relations/parental/dad
+  item: people/prof-gerald-stiedemann
+- 
+  type: relations/parental/dad
+  item: people/elinore-hackett
+- 
+  type: relations/money/debtor
+  item: people/prof-clara-cremin-iii
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Mr. Barton Erdman III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ola-dibbert
+- 
+  type: relations/parental/dad
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/parental/colleague
+  item: people/loyal-rowe
+- 
+  type: relations/parental/colleague
+  item: people/mr-jaydon-kuhic
+- 
+  type: relations/money/debtor
+  item: people/alanna-kulas
+- 
+  type: relations/parental/mom
+  item: people/dagmar-gislason-md
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/frami-group
+- 
+  type: relations/work/client
+  item: companies/jenkins-group
+- 
+  type: relations/work/employer
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

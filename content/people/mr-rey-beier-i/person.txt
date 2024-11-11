@@ -1,0 +1,65 @@
+Title: Mr. Rey Beier I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/katlyn-green
+- 
+  type: relations/parental/friend
+  item: people/erica-kuhn
+- 
+  type: relations/parental/mom
+  item: people/kareem-glover
+- 
+  type: relations/parental/dad
+  item: people/abigayle-koch
+- 
+  type: relations/parental/friend
+  item: people/lexus-kihn
+- 
+  type: relations/money/creditor
+  item: people/jany-hammes
+- 
+  type: relations/work/client
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/debtor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/creditor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

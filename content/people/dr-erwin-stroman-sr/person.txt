@@ -1,0 +1,64 @@
+Title: Dr. Erwin Stroman Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-brian-white
+- 
+  type: relations/parental/friend
+  item: people/hazle-brown
+- 
+  type: relations/money/creditor
+  item: people/john-cremin
+- 
+  type: relations/money/creditor
+  item: people/mr-boris-herman
+- 
+  type: relations/money/creditor
+  item: people/cydney-huels
+- 
+  type: relations/money/creditor
+  item: people/haleigh-osinski-iii
+- 
+  type: relations/work/client
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Madison Mraz Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/al-eichmann
+- 
+  type: relations/money/creditor
+  item: people/gabrielle-gislason
+- 
+  type: relations/parental/colleague
+  item: people/alanna-leuschke
+- 
+  type: relations/parental/mom
+  item: people/mr-austin-stark-phd
+- 
+  type: relations/parental/mom
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/mom
+  item: people/nikko-king
+- 
+  type: relations/work/employer
+  item: companies/doyle-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

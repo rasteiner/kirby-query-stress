@@ -1,0 +1,64 @@
+Title: Santina Torp Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/herbert-weber-iii
+- 
+  type: relations/parental/mom
+  item: people/deanna-reilly
+- 
+  type: relations/parental/brosis
+  item: people/jaquan-heathcote
+- 
+  type: relations/parental/mom
+  item: people/lily-reinger
+- 
+  type: relations/parental/dad
+  item: people/yoshiko-haley
+- 
+  type: relations/money/debtor
+  item: people/ms-ashlee-carter
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/goyette-wiza
+- 
+  type: relations/work/client
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

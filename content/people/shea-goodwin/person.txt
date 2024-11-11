@@ -1,0 +1,64 @@
+Title: Shea Goodwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/reanna-baumbach-dds
+- 
+  type: relations/money/creditor
+  item: people/hannah-stamm
+- 
+  type: relations/parental/friend
+  item: people/prof-daryl-spinka
+- 
+  type: relations/parental/brosis
+  item: people/cesar-boyle
+- 
+  type: relations/money/creditor
+  item: people/mrs-meagan-aufderhar-dvm
+- 
+  type: relations/money/creditor
+  item: people/landen-harber
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/employer
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/client
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Earl Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/liana-padberg
+- 
+  type: relations/parental/dad
+  item: people/isom-ritchie
+- 
+  type: relations/parental/brosis
+  item: people/addie-schroeder
+- 
+  type: relations/parental/friend
+  item: people/josephine-heaney
+- 
+  type: relations/parental/friend
+  item: people/dr-mable-hettinger
+- 
+  type: relations/parental/brosis
+  item: people/prof-magnus-hermiston-v
+- 
+  type: relations/work/employer
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/client
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

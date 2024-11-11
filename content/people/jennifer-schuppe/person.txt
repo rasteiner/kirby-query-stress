@@ -1,0 +1,64 @@
+Title: Jennifer Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ferne-miller-v
+- 
+  type: relations/parental/mom
+  item: people/jude-dooley
+- 
+  type: relations/parental/friend
+  item: people/jeffry-jaskolski-md
+- 
+  type: relations/parental/colleague
+  item: people/miss-verla-becker
+- 
+  type: relations/money/debtor
+  item: people/clifton-cremin-sr
+- 
+  type: relations/parental/dad
+  item: people/kurtis-glover-dvm
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/creditor
+  item: companies/becker-ltd
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/work/employer
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

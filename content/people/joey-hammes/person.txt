@@ -1,0 +1,64 @@
+Title: Joey Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/libby-berge
+- 
+  type: relations/parental/brosis
+  item: people/marjorie-kiehn
+- 
+  type: relations/parental/colleague
+  item: people/jayne-stehr
+- 
+  type: relations/parental/dad
+  item: people/crystal-larson
+- 
+  type: relations/parental/brosis
+  item: people/clark-doyle
+- 
+  type: relations/parental/dad
+  item: people/prof-robbie-carroll-iv
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/client
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,65 @@
+Title: Lenna Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/delores-lowe
+- 
+  type: relations/parental/dad
+  item: people/amelia-skiles
+- 
+  type: relations/parental/dad
+  item: people/margret-maggio-sr
+- 
+  type: relations/money/creditor
+  item: people/estevan-ratke
+- 
+  type: relations/parental/brosis
+  item: people/dr-peyton-gerhold
+- 
+  type: relations/parental/colleague
+  item: people/fermin-witting-i
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/client
+  item: companies/legros-and-sons
+- 
+  type: relations/work/client
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

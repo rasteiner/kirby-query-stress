@@ -1,0 +1,64 @@
+Title: Muhammad Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/amelia-stamm-phd
+- 
+  type: relations/money/creditor
+  item: people/zita-blick
+- 
+  type: relations/parental/dad
+  item: people/cali-quigley
+- 
+  type: relations/parental/colleague
+  item: people/mr-zakary-prosacco
+- 
+  type: relations/parental/brosis
+  item: people/fannie-hoppe
+- 
+  type: relations/money/debtor
+  item: people/matilda-friesen
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

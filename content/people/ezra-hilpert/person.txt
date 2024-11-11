@@ -1,0 +1,64 @@
+Title: Ezra Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/daphney-zboncak
+- 
+  type: relations/parental/mom
+  item: people/sister-hammes
+- 
+  type: relations/parental/friend
+  item: people/ms-kenyatta-roberts-i
+- 
+  type: relations/parental/brosis
+  item: people/mackenzie-dickens
+- 
+  type: relations/parental/dad
+  item: people/aliza-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/mr-jeramie-collier-md
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/client
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

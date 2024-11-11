@@ -1,0 +1,64 @@
+Title: Deangelo Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anderson-toy
+- 
+  type: relations/parental/dad
+  item: people/mckayla-gleason
+- 
+  type: relations/money/debtor
+  item: people/britney-murazik
+- 
+  type: relations/parental/dad
+  item: people/hobart-swaniawski
+- 
+  type: relations/parental/brosis
+  item: people/art-bernhard
+- 
+  type: relations/parental/friend
+  item: people/bonnie-stroman
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

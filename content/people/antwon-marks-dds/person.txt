@@ -1,0 +1,64 @@
+Title: Antwon Marks DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tyreek-buckridge-md
+- 
+  type: relations/money/debtor
+  item: people/nella-hartmann-ii
+- 
+  type: relations/parental/colleague
+  item: people/shaun-turner-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-orin-roberts-dds
+- 
+  type: relations/parental/brosis
+  item: people/verla-boyer
+- 
+  type: relations/money/debtor
+  item: people/solon-mante
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/client
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/client
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

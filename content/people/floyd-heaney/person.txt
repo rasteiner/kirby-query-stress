@@ -1,0 +1,65 @@
+Title: Floyd Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jedediah-stokes
+- 
+  type: relations/parental/friend
+  item: people/prof-rupert-mohr-md
+- 
+  type: relations/parental/mom
+  item: people/dr-cullen-abbott
+- 
+  type: relations/parental/dad
+  item: people/ezequiel-kozey
+- 
+  type: relations/parental/dad
+  item: people/mrs-jada-tremblay-jr
+- 
+  type: relations/parental/friend
+  item: people/shea-beahan-phd
+- 
+  type: relations/work/client
+  item: companies/kilback-kub
+- 
+  type: relations/work/employer
+  item: companies/larson-denesik
+- 
+  type: relations/work/employer
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

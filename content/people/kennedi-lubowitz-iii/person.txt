@@ -1,0 +1,64 @@
+Title: Kennedi Lubowitz III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/frances-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/ismael-rippin
+- 
+  type: relations/money/debtor
+  item: people/jonas-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/roman-ritchie
+- 
+  type: relations/parental/friend
+  item: people/prof-lina-bahringer-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-raymundo-schmidt
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/work/employer
+  item: companies/ernser-inc
+- 
+  type: relations/work/employer
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

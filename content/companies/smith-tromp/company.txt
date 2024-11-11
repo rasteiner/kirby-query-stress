@@ -1,0 +1,43 @@
+Title: Smith-Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/creditor
+  item: companies/walsh-plc
+- 
+  type: relations/money/debtor
+  item: companies/dach-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/money/debtor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/money/debtor
+  item: companies/mayer-group
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/port-tanner

@@ -1,0 +1,64 @@
+Title: Trenton Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/halle-blanda
+- 
+  type: relations/parental/dad
+  item: people/aiden-krajcik-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-leola-johnson-md
+- 
+  type: relations/parental/mom
+  item: people/crawford-bergnaum
+- 
+  type: relations/parental/mom
+  item: people/icie-mraz
+- 
+  type: relations/money/debtor
+  item: people/ms-emmanuelle-nitzsche
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/work/employer
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

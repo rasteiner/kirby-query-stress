@@ -1,0 +1,64 @@
+Title: Lucinda Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-skye-kunde-dds
+- 
+  type: relations/parental/colleague
+  item: people/mr-deshaun-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/earl-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/celestino-jones
+- 
+  type: relations/parental/mom
+  item: people/betsy-cormier
+- 
+  type: relations/money/debtor
+  item: people/mrs-gertrude-skiles
+- 
+  type: relations/work/client
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/work/client
+  item: companies/ferry-carter
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

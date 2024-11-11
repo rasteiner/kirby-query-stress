@@ -1,0 +1,64 @@
+Title: Mr. Mckenzie Crona Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cali-quigley
+- 
+  type: relations/parental/colleague
+  item: people/mr-zakary-prosacco
+- 
+  type: relations/money/debtor
+  item: people/fannie-hoppe
+- 
+  type: relations/parental/colleague
+  item: people/matilda-friesen
+- 
+  type: relations/parental/colleague
+  item: people/miss-loren-zieme
+- 
+  type: relations/parental/dad
+  item: people/mervin-schulist
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

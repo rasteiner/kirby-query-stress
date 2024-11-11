@@ -1,0 +1,64 @@
+Title: Oda Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/johathan-kunde
+- 
+  type: relations/parental/mom
+  item: people/sven-ortiz
+- 
+  type: relations/money/creditor
+  item: people/hattie-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/prof-clarabelle-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/mrs-chyna-tillman-jr
+- 
+  type: relations/parental/colleague
+  item: people/talia-bahringer
+- 
+  type: relations/work/employer
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/work/employer
+  item: companies/keebler-inc
+- 
+  type: relations/work/client
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

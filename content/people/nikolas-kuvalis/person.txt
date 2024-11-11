@@ -1,0 +1,64 @@
+Title: Nikolas Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/samanta-kovacek
+- 
+  type: relations/parental/dad
+  item: people/prof-isaiah-weber
+- 
+  type: relations/parental/colleague
+  item: people/dr-precious-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/thurman-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/lloyd-schoen
+- 
+  type: relations/parental/brosis
+  item: people/hazle-jast
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/employer
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

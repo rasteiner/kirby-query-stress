@@ -1,0 +1,64 @@
+Title: Amalia Harber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/everardo-beer
+- 
+  type: relations/money/creditor
+  item: people/prof-taya-christiansen-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-griffin-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/elmo-watsica
+- 
+  type: relations/parental/friend
+  item: people/mr-monserrat-block
+- 
+  type: relations/parental/colleague
+  item: people/mozell-schaefer
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/work/employer
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

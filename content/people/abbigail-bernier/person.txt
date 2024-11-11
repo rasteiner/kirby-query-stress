@@ -1,0 +1,68 @@
+Title: Abbigail Bernier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-benedict-raynor-iii
+- 
+  type: relations/parental/brosis
+  item: people/dr-dina-bartoletti-iv
+- 
+  type: relations/parental/brosis
+  item: people/darron-legros
+- 
+  type: relations/parental/colleague
+  item: people/dewitt-runte
+- 
+  type: relations/parental/dad
+  item: people/holden-lockman
+- 
+  type: relations/parental/mom
+  item: people/braxton-schmeler
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/money/debtor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/work/employer
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg
+
+----
+
+Uuid: oybuv2frf10sajdr

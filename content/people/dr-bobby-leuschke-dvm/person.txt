@@ -1,0 +1,64 @@
+Title: Dr. Bobby Leuschke DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-hilda-goyette-phd
+- 
+  type: relations/money/creditor
+  item: people/alfonzo-leffler
+- 
+  type: relations/parental/brosis
+  item: people/edward-monahan
+- 
+  type: relations/parental/colleague
+  item: people/ms-anabelle-kub
+- 
+  type: relations/money/creditor
+  item: people/electa-russel
+- 
+  type: relations/money/creditor
+  item: people/omer-roberts
+- 
+  type: relations/work/client
+  item: companies/yost-o-conner
+- 
+  type: relations/work/client
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/client
+  item: companies/schiller-strosin
+- 
+  type: relations/money/debtor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Dylan Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/julian-lind-iv
+- 
+  type: relations/parental/mom
+  item: people/miss-makayla-ferry-md
+- 
+  type: relations/money/creditor
+  item: people/colten-goodwin
+- 
+  type: relations/parental/friend
+  item: people/zoey-rath-v
+- 
+  type: relations/money/creditor
+  item: people/dr-kiera-koch-md
+- 
+  type: relations/parental/friend
+  item: people/aglae-maggio
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/work/employer
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

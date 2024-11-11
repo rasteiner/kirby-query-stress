@@ -1,0 +1,64 @@
+Title: Prudence Krajcik PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-scarlett-harvey-phd
+- 
+  type: relations/parental/colleague
+  item: people/grant-cummings
+- 
+  type: relations/parental/dad
+  item: people/ollie-kunze
+- 
+  type: relations/parental/mom
+  item: people/palma-dubuque
+- 
+  type: relations/parental/dad
+  item: people/charity-mante
+- 
+  type: relations/money/debtor
+  item: people/prof-yolanda-kutch-dds
+- 
+  type: relations/work/client
+  item: companies/towne-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-herman
+- 
+  type: relations/work/employer
+  item: companies/keebler-treutel
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

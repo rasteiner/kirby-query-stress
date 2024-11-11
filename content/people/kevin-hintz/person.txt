@@ -1,0 +1,64 @@
+Title: Kevin Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-carolyn-blanda-phd
+- 
+  type: relations/parental/friend
+  item: people/mya-goyette
+- 
+  type: relations/parental/mom
+  item: people/dr-andy-pollich
+- 
+  type: relations/money/debtor
+  item: people/dr-johnathon-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/ferne-miller-v
+- 
+  type: relations/money/debtor
+  item: people/jude-dooley
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

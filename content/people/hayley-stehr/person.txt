@@ -1,0 +1,64 @@
+Title: Hayley Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-baylee-purdy-v
+- 
+  type: relations/parental/colleague
+  item: people/mrs-norene-heathcote
+- 
+  type: relations/parental/friend
+  item: people/gilberto-hoppe-dds
+- 
+  type: relations/parental/mom
+  item: people/laurence-miller
+- 
+  type: relations/parental/brosis
+  item: people/america-braun
+- 
+  type: relations/money/debtor
+  item: people/thomas-bailey
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

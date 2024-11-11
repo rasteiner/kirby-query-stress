@@ -1,0 +1,43 @@
+Title: Emmerich-Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/east-maye

@@ -1,0 +1,64 @@
+Title: Emmitt White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jazmin-beatty
+- 
+  type: relations/parental/colleague
+  item: people/gino-keebler-dvm
+- 
+  type: relations/parental/mom
+  item: people/viola-osinski
+- 
+  type: relations/parental/mom
+  item: people/mabel-kilback
+- 
+  type: relations/parental/dad
+  item: people/franco-prosacco
+- 
+  type: relations/parental/brosis
+  item: people/blair-marvin
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

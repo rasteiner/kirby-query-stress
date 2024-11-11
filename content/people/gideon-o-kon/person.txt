@@ -1,0 +1,64 @@
+Title: Gideon O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-dean-considine-md
+- 
+  type: relations/parental/mom
+  item: people/dr-electa-mccullough-md
+- 
+  type: relations/money/creditor
+  item: people/dr-aniyah-botsford-iv
+- 
+  type: relations/parental/brosis
+  item: people/alta-tromp
+- 
+  type: relations/parental/brosis
+  item: people/hailee-ullrich
+- 
+  type: relations/money/debtor
+  item: people/alberta-pagac-md
+- 
+  type: relations/work/employer
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/client
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/employer
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

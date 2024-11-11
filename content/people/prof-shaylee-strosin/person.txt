@@ -1,0 +1,64 @@
+Title: Prof. Shaylee Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/tomas-bashirian-iii
+- 
+  type: relations/parental/dad
+  item: people/lily-hyatt
+- 
+  type: relations/parental/colleague
+  item: people/helmer-aufderhar
+- 
+  type: relations/parental/colleague
+  item: people/rupert-schneider
+- 
+  type: relations/money/creditor
+  item: people/breana-kiehn
+- 
+  type: relations/parental/colleague
+  item: people/lizeth-satterfield
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/creditor
+  item: companies/johnson-windler
+- 
+  type: relations/work/client
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

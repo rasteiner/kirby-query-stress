@@ -1,0 +1,64 @@
+Title: Jacquelyn Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-maximo-wolf
+- 
+  type: relations/parental/colleague
+  item: people/edmond-roberts
+- 
+  type: relations/parental/dad
+  item: people/keenan-abbott
+- 
+  type: relations/parental/friend
+  item: people/miss-yasmine-fisher-md
+- 
+  type: relations/parental/colleague
+  item: people/miss-serenity-boyle
+- 
+  type: relations/parental/brosis
+  item: people/brandy-white
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/work/client
+  item: companies/kozey-group
+- 
+  type: relations/work/employer
+  item: companies/huels-hoppe
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

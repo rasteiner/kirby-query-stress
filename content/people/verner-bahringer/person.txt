@@ -1,0 +1,64 @@
+Title: Verner Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/amara-fahey-dvm
+- 
+  type: relations/money/debtor
+  item: people/aida-heaney
+- 
+  type: relations/parental/friend
+  item: people/cecil-mcclure
+- 
+  type: relations/parental/brosis
+  item: people/cassandra-runolfsdottir
+- 
+  type: relations/parental/mom
+  item: people/miss-natasha-konopelski
+- 
+  type: relations/parental/brosis
+  item: people/dr-rupert-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/employer
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Adelbert Lubowitz V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elizabeth-rippin
+- 
+  type: relations/parental/brosis
+  item: people/daphnee-conn
+- 
+  type: relations/money/debtor
+  item: people/macey-streich
+- 
+  type: relations/money/debtor
+  item: people/wilhelm-hoeger-phd
+- 
+  type: relations/parental/dad
+  item: people/cecile-hauck-v
+- 
+  type: relations/money/creditor
+  item: people/prof-candice-eichmann
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/work/employer
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

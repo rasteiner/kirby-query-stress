@@ -1,0 +1,64 @@
+Title: Valentina Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/aglae-adams
+- 
+  type: relations/parental/colleague
+  item: people/adela-dach
+- 
+  type: relations/money/creditor
+  item: people/ms-theresia-rice
+- 
+  type: relations/parental/brosis
+  item: people/zoey-bernhard
+- 
+  type: relations/parental/dad
+  item: people/amalia-beier
+- 
+  type: relations/parental/dad
+  item: people/jody-rogahn
+- 
+  type: relations/work/employer
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

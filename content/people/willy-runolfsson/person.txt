@@ -1,0 +1,64 @@
+Title: Willy Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/deshaun-klocko
+- 
+  type: relations/money/creditor
+  item: people/cheyenne-harris
+- 
+  type: relations/parental/dad
+  item: people/wellington-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/yadira-mayer-iv
+- 
+  type: relations/parental/mom
+  item: people/aglae-adams
+- 
+  type: relations/money/creditor
+  item: people/adela-dach
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

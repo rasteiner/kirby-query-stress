@@ -1,0 +1,64 @@
+Title: Emmie Mann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-rose-becker
+- 
+  type: relations/money/creditor
+  item: people/prof-frieda-rempel-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kali-waelchi
+- 
+  type: relations/parental/mom
+  item: people/roberta-kunde
+- 
+  type: relations/money/creditor
+  item: people/christine-stark
+- 
+  type: relations/parental/colleague
+  item: people/elmer-smith-iii
+- 
+  type: relations/work/employer
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

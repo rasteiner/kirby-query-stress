@@ -1,0 +1,64 @@
+Title: Rodrick Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/art-mayert
+- 
+  type: relations/parental/dad
+  item: people/mr-davon-jenkins
+- 
+  type: relations/parental/mom
+  item: people/kianna-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/emile-fahey
+- 
+  type: relations/parental/friend
+  item: people/dixie-lesch
+- 
+  type: relations/parental/dad
+  item: people/samir-botsford
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/work/client
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

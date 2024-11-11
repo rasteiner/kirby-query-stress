@@ -1,0 +1,64 @@
+Title: Terrill Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/emelia-stiedemann
+- 
+  type: relations/parental/brosis
+  item: people/nyasia-batz
+- 
+  type: relations/parental/colleague
+  item: people/kay-ebert-dvm
+- 
+  type: relations/money/debtor
+  item: people/ramona-harris-ii
+- 
+  type: relations/money/debtor
+  item: people/michael-parisian
+- 
+  type: relations/parental/colleague
+  item: people/gracie-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/employer
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

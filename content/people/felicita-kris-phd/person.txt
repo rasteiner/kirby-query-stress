@@ -1,0 +1,64 @@
+Title: Felicita Kris PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/benjamin-jacobson
+- 
+  type: relations/money/creditor
+  item: people/dr-laverne-beahan
+- 
+  type: relations/parental/colleague
+  item: people/jamel-ernser
+- 
+  type: relations/parental/colleague
+  item: people/devonte-skiles
+- 
+  type: relations/parental/mom
+  item: people/martina-armstrong
+- 
+  type: relations/parental/brosis
+  item: people/prof-wendy-gleason-iii
+- 
+  type: relations/money/creditor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/client
+  item: companies/sporer-llc
+- 
+  type: relations/work/client
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/client
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

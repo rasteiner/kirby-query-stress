@@ -1,0 +1,64 @@
+Title: Mr. Hilton Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ali-hermiston
+- 
+  type: relations/parental/dad
+  item: people/mrs-vita-spencer-ii
+- 
+  type: relations/parental/friend
+  item: people/joe-considine-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-roberto-weber
+- 
+  type: relations/parental/brosis
+  item: people/anastacio-walsh
+- 
+  type: relations/money/debtor
+  item: people/mia-quigley
+- 
+  type: relations/work/employer
+  item: companies/sporer-plc
+- 
+  type: relations/work/client
+  item: companies/tillman-hirthe
+- 
+  type: relations/work/employer
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/work/client
+  item: companies/schuster-yost
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

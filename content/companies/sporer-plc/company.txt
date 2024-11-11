@@ -1,0 +1,43 @@
+Title: Sporer PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/creditor
+  item: companies/schneider-llc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/money/debtor
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/new-donnie

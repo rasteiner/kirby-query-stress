@@ -1,0 +1,64 @@
+Title: Shany Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/euna-heathcote-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-saul-schuster-jr
+- 
+  type: relations/parental/friend
+  item: people/reggie-pollich-ii
+- 
+  type: relations/money/debtor
+  item: people/mrs-ada-beier
+- 
+  type: relations/parental/dad
+  item: people/shanny-douglas
+- 
+  type: relations/parental/friend
+  item: people/berta-carter
+- 
+  type: relations/work/employer
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/debtor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

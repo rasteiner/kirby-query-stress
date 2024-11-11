@@ -1,0 +1,64 @@
+Title: Dr. Kevin Lesch MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/francesca-ryan
+- 
+  type: relations/parental/dad
+  item: people/dr-muhammad-lowe
+- 
+  type: relations/parental/dad
+  item: people/dr-gaylord-o-kon-jr
+- 
+  type: relations/money/debtor
+  item: people/marina-lowe
+- 
+  type: relations/parental/colleague
+  item: people/brandt-crona
+- 
+  type: relations/parental/brosis
+  item: people/trey-ullrich-sr
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/work/client
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

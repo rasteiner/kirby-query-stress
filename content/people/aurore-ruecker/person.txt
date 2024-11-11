@@ -1,0 +1,64 @@
+Title: Aurore Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/brisa-ullrich-md
+- 
+  type: relations/parental/mom
+  item: people/aurore-jast
+- 
+  type: relations/parental/friend
+  item: people/kristin-hansen
+- 
+  type: relations/money/creditor
+  item: people/prof-lexie-littel-dvm
+- 
+  type: relations/money/creditor
+  item: people/kayla-block
+- 
+  type: relations/money/debtor
+  item: people/dr-macey-daugherty
+- 
+  type: relations/work/client
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/effertz-llc
+- 
+  type: relations/work/client
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/creditor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

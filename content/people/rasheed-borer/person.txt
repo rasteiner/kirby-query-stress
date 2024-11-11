@@ -1,0 +1,64 @@
+Title: Rasheed Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nikki-fritsch
+- 
+  type: relations/parental/dad
+  item: people/gene-yost-iv
+- 
+  type: relations/parental/dad
+  item: people/faustino-mccullough
+- 
+  type: relations/parental/colleague
+  item: people/vilma-o-connell-phd
+- 
+  type: relations/parental/colleague
+  item: people/else-lesch-i
+- 
+  type: relations/parental/friend
+  item: people/peter-thompson-iv
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

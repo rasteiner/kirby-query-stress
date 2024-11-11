@@ -1,0 +1,64 @@
+Title: Prof. Candelario Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/velda-casper-ii
+- 
+  type: relations/money/creditor
+  item: people/ms-shanelle-hamill-v
+- 
+  type: relations/money/creditor
+  item: people/raheem-hettinger
+- 
+  type: relations/parental/brosis
+  item: people/ryan-ullrich-ii
+- 
+  type: relations/parental/colleague
+  item: people/laila-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/tomasa-mills
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/employer
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/employer
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Trevion Zemlak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kristoffer-jast-iii
+- 
+  type: relations/parental/colleague
+  item: people/dr-nedra-lind-ii
+- 
+  type: relations/parental/colleague
+  item: people/lenna-franecki
+- 
+  type: relations/parental/friend
+  item: people/mrs-pattie-mills-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-margarete-sauer
+- 
+  type: relations/parental/colleague
+  item: people/francis-mcdermott
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/employer
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/work/client
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

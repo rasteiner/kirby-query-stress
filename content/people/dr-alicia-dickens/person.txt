@@ -1,0 +1,64 @@
+Title: Dr. Alicia Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jeanne-klocko-v
+- 
+  type: relations/parental/colleague
+  item: people/cassie-morissette-iii
+- 
+  type: relations/parental/colleague
+  item: people/kattie-prohaska
+- 
+  type: relations/parental/brosis
+  item: people/mrs-kavon-pagac-md
+- 
+  type: relations/parental/mom
+  item: people/esta-towne
+- 
+  type: relations/parental/friend
+  item: people/dr-ignatius-bradtke
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/debtor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/employer
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

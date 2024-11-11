@@ -1,0 +1,64 @@
+Title: Tate Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dorothea-o-kon-iv
+- 
+  type: relations/parental/friend
+  item: people/adelbert-lubowitz-v
+- 
+  type: relations/parental/colleague
+  item: people/mr-titus-mosciski-sr
+- 
+  type: relations/parental/friend
+  item: people/raleigh-mitchell
+- 
+  type: relations/money/creditor
+  item: people/blake-emmerich
+- 
+  type: relations/parental/brosis
+  item: people/eddie-bradtke-jr
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

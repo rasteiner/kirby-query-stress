@@ -1,0 +1,64 @@
+Title: Dewayne Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-name-bernhard-iv
+- 
+  type: relations/parental/friend
+  item: people/mozell-feest
+- 
+  type: relations/parental/brosis
+  item: people/isai-heidenreich-i
+- 
+  type: relations/parental/friend
+  item: people/prof-mabel-labadie-iii
+- 
+  type: relations/money/debtor
+  item: people/frankie-balistreri
+- 
+  type: relations/parental/mom
+  item: people/savanah-o-kon
+- 
+  type: relations/money/debtor
+  item: companies/okuneva-inc
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/work/client
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

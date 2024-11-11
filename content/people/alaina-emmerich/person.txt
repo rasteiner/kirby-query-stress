@@ -1,0 +1,64 @@
+Title: Alaina Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-kayleigh-adams
+- 
+  type: relations/parental/mom
+  item: people/prof-larue-dicki
+- 
+  type: relations/parental/brosis
+  item: people/cara-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/jacquelyn-heathcote
+- 
+  type: relations/money/creditor
+  item: people/troy-sipes
+- 
+  type: relations/parental/dad
+  item: people/gustave-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/money/debtor
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

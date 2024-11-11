@@ -1,0 +1,64 @@
+Title: Samson Vandervort
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cassandre-treutel
+- 
+  type: relations/parental/colleague
+  item: people/mrs-anjali-jerde-jr
+- 
+  type: relations/parental/brosis
+  item: people/mohamed-blanda
+- 
+  type: relations/parental/friend
+  item: people/kara-herzog
+- 
+  type: relations/money/debtor
+  item: people/mr-keanu-sauer
+- 
+  type: relations/parental/friend
+  item: people/spencer-reynolds-sr
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

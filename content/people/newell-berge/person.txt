@@ -1,0 +1,65 @@
+Title: Newell Berge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-ryann-green-sr
+- 
+  type: relations/parental/colleague
+  item: people/elfrieda-bruen
+- 
+  type: relations/parental/brosis
+  item: people/carolanne-grady
+- 
+  type: relations/parental/mom
+  item: people/leora-o-hara
+- 
+  type: relations/parental/friend
+  item: people/ms-providenci-littel
+- 
+  type: relations/parental/mom
+  item: people/monserrate-bogan
+- 
+  type: relations/money/creditor
+  item: companies/kilback-kub
+- 
+  type: relations/work/employer
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/employer
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

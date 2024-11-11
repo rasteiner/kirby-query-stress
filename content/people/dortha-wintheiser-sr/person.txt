@@ -1,0 +1,64 @@
+Title: Dortha Wintheiser Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/garrison-stroman-phd
+- 
+  type: relations/money/creditor
+  item: people/carmen-bogisich
+- 
+  type: relations/parental/brosis
+  item: people/mrs-jermaine-kirlin-dds
+- 
+  type: relations/parental/friend
+  item: people/catharine-homenick
+- 
+  type: relations/parental/colleague
+  item: people/ora-satterfield
+- 
+  type: relations/money/creditor
+  item: people/tressa-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

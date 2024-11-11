@@ -1,0 +1,64 @@
+Title: Dr. Berniece Cassin PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maxie-mraz
+- 
+  type: relations/money/creditor
+  item: people/zelma-christiansen-iv
+- 
+  type: relations/money/debtor
+  item: people/ms-brenna-pouros
+- 
+  type: relations/parental/dad
+  item: people/kyler-murphy-iv
+- 
+  type: relations/parental/dad
+  item: people/dr-olaf-kessler-iii
+- 
+  type: relations/parental/friend
+  item: people/kasandra-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/work/employer
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Mr. Dennis Macejkovic III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lazaro-nader
+- 
+  type: relations/parental/colleague
+  item: people/tatyana-krajcik
+- 
+  type: relations/parental/dad
+  item: people/roosevelt-feil
+- 
+  type: relations/money/creditor
+  item: people/prof-arnoldo-moore
+- 
+  type: relations/parental/dad
+  item: people/frances-lueilwitz
+- 
+  type: relations/money/debtor
+  item: people/ismael-rippin
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/work/client
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

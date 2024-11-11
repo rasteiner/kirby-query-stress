@@ -1,0 +1,64 @@
+Title: Mr. Deon Beer V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/madison-kerluke
+- 
+  type: relations/parental/dad
+  item: people/terrell-ortiz
+- 
+  type: relations/money/debtor
+  item: people/otho-fritsch
+- 
+  type: relations/parental/dad
+  item: people/nya-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/mr-zander-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/emiliano-homenick
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/employer
+  item: companies/orn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

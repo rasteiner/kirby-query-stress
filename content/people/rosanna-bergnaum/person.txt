@@ -1,0 +1,64 @@
+Title: Rosanna Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/reagan-murray
+- 
+  type: relations/money/creditor
+  item: people/ms-shakira-pollich-iii
+- 
+  type: relations/parental/mom
+  item: people/vernie-rolfson
+- 
+  type: relations/money/creditor
+  item: people/rey-torphy-i
+- 
+  type: relations/parental/brosis
+  item: people/barrett-klocko
+- 
+  type: relations/parental/friend
+  item: people/mr-oswaldo-herzog-v
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/work/client
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

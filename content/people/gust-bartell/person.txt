@@ -1,0 +1,64 @@
+Title: Gust Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vern-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/mrs-breanne-frami-jr
+- 
+  type: relations/parental/brosis
+  item: people/maryam-brown
+- 
+  type: relations/parental/colleague
+  item: people/mr-soledad-aufderhar-md
+- 
+  type: relations/money/creditor
+  item: people/brett-labadie
+- 
+  type: relations/parental/brosis
+  item: people/adrianna-schuppe
+- 
+  type: relations/work/client
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/money/debtor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

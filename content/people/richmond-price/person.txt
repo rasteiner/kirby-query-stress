@@ -1,0 +1,64 @@
+Title: Richmond Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ashly-senger
+- 
+  type: relations/parental/friend
+  item: people/mafalda-vonrueden
+- 
+  type: relations/money/creditor
+  item: people/eliezer-o-conner
+- 
+  type: relations/parental/brosis
+  item: people/kendra-roberts
+- 
+  type: relations/parental/dad
+  item: people/jude-beahan
+- 
+  type: relations/parental/brosis
+  item: people/rosie-gleichner-iii
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/work/client
+  item: companies/turcotte-and-sons
+- 
+  type: relations/work/client
+  item: companies/haag-hoeger
+- 
+  type: relations/work/client
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

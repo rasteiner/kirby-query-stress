@@ -1,0 +1,64 @@
+Title: Raquel Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/salvador-bashirian
+- 
+  type: relations/parental/dad
+  item: people/craig-barrows-v
+- 
+  type: relations/parental/mom
+  item: people/clifton-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/candelario-oberbrunner
+- 
+  type: relations/parental/dad
+  item: people/dr-erwin-stroman-sr
+- 
+  type: relations/parental/mom
+  item: people/margret-kozey
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Prof. Sharon Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/madilyn-dare-jr
+- 
+  type: relations/parental/mom
+  item: people/sydnee-stehr
+- 
+  type: relations/parental/dad
+  item: people/ruby-berge
+- 
+  type: relations/parental/colleague
+  item: people/elenor-gleichner
+- 
+  type: relations/parental/friend
+  item: people/hershel-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/vincent-cassin-dvm
+- 
+  type: relations/work/client
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

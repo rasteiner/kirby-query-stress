@@ -1,0 +1,65 @@
+Title: Prof. Tad Schmidt III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marley-turner-phd
+- 
+  type: relations/parental/dad
+  item: people/prof-murphy-jerde
+- 
+  type: relations/money/debtor
+  item: people/miss-jeanette-heller-sr
+- 
+  type: relations/money/creditor
+  item: people/tania-effertz
+- 
+  type: relations/money/creditor
+  item: people/abdiel-welch
+- 
+  type: relations/parental/colleague
+  item: people/emmanuelle-runolfsdottir-dds
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/employer
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

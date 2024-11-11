@@ -1,0 +1,64 @@
+Title: Beatrice Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/payton-toy
+- 
+  type: relations/parental/mom
+  item: people/arnaldo-bernier
+- 
+  type: relations/parental/dad
+  item: people/murray-koss
+- 
+  type: relations/money/debtor
+  item: people/martin-gerlach
+- 
+  type: relations/parental/dad
+  item: people/eldon-reichert-dvm
+- 
+  type: relations/money/debtor
+  item: people/karl-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

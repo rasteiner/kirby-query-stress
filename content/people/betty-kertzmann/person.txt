@@ -1,0 +1,64 @@
+Title: Betty Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/abdullah-casper
+- 
+  type: relations/money/debtor
+  item: people/wilton-gleason
+- 
+  type: relations/money/debtor
+  item: people/roel-cole
+- 
+  type: relations/money/debtor
+  item: people/kayley-dach-md
+- 
+  type: relations/parental/friend
+  item: people/wilbert-hammes
+- 
+  type: relations/parental/dad
+  item: people/kyle-ankunding
+- 
+  type: relations/work/client
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/work/employer
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

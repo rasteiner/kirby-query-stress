@@ -1,0 +1,65 @@
+Title: Dr. Jasen Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elda-shanahan
+- 
+  type: relations/money/creditor
+  item: people/ronaldo-zboncak
+- 
+  type: relations/parental/mom
+  item: people/jaquelin-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/arch-abernathy
+- 
+  type: relations/money/creditor
+  item: people/zora-jones-ii
+- 
+  type: relations/parental/colleague
+  item: people/gianni-klein-i
+- 
+  type: relations/work/client
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/creditor
+  item: companies/yost-llc
+- 
+  type: relations/work/employer
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/employer
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

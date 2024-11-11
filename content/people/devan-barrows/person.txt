@@ -1,0 +1,64 @@
+Title: Devan Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/evan-harris
+- 
+  type: relations/money/creditor
+  item: people/lulu-krajcik
+- 
+  type: relations/money/creditor
+  item: people/dr-leora-abernathy-dds
+- 
+  type: relations/parental/friend
+  item: people/madelyn-cruickshank-v
+- 
+  type: relations/parental/mom
+  item: people/earlene-leffler
+- 
+  type: relations/parental/friend
+  item: people/miss-shana-boyle-jr
+- 
+  type: relations/work/employer
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/employer
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/employer
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

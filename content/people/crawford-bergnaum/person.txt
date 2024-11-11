@@ -1,0 +1,64 @@
+Title: Crawford Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/katherine-carter
+- 
+  type: relations/money/debtor
+  item: people/dayna-mccullough-iii
+- 
+  type: relations/parental/dad
+  item: people/prof-joey-bradtke-dvm
+- 
+  type: relations/money/creditor
+  item: people/shanie-reynolds
+- 
+  type: relations/parental/mom
+  item: people/maximillian-willms
+- 
+  type: relations/parental/colleague
+  item: people/eldred-yundt
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/work/employer
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

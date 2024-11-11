@@ -1,0 +1,64 @@
+Title: Shaylee Funk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ephraim-paucek-dds
+- 
+  type: relations/money/debtor
+  item: people/prof-willa-sanford
+- 
+  type: relations/money/creditor
+  item: people/jermaine-gusikowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/mr-jeffery-lemke-sr
+- 
+  type: relations/parental/brosis
+  item: people/eva-friesen
+- 
+  type: relations/parental/colleague
+  item: people/amaya-smith
+- 
+  type: relations/work/employer
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/client
+  item: companies/beer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

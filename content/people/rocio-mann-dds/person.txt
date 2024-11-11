@@ -1,0 +1,64 @@
+Title: Rocio Mann DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-madalyn-doyle
+- 
+  type: relations/parental/brosis
+  item: people/jewel-bartoletti
+- 
+  type: relations/parental/colleague
+  item: people/miss-euna-renner
+- 
+  type: relations/money/debtor
+  item: people/fidel-kunze
+- 
+  type: relations/money/creditor
+  item: people/dr-rosie-barton-phd
+- 
+  type: relations/parental/dad
+  item: people/brady-kulas-sr
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/employer
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

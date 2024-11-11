@@ -1,0 +1,64 @@
+Title: Prof. Mikayla Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/josue-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/prof-ole-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/dr-ruthe-jacobson-dvm
+- 
+  type: relations/money/creditor
+  item: people/georgiana-hilpert
+- 
+  type: relations/parental/mom
+  item: people/prof-alexandria-schmidt-i
+- 
+  type: relations/parental/mom
+  item: people/elena-rice
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

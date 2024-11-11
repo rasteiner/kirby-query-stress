@@ -1,0 +1,64 @@
+Title: Mr. Oda Bruen I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nicolette-bahringer
+- 
+  type: relations/parental/friend
+  item: people/dr-ashley-mclaughlin
+- 
+  type: relations/parental/colleague
+  item: people/dorothy-gerlach
+- 
+  type: relations/parental/dad
+  item: people/dalton-marquardt
+- 
+  type: relations/parental/brosis
+  item: people/dr-edmund-heaney
+- 
+  type: relations/money/creditor
+  item: people/jonas-lesch
+- 
+  type: relations/money/creditor
+  item: companies/cassin-llc
+- 
+  type: relations/work/employer
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

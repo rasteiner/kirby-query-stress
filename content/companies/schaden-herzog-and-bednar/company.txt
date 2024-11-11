@@ -1,0 +1,43 @@
+Title: Schaden, Herzog and Bednar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sanford-lehner
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wolf-steuber
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/vernieview

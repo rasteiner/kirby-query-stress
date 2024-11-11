@@ -1,0 +1,64 @@
+Title: Connor Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/johanna-mayert
+- 
+  type: relations/parental/mom
+  item: people/deontae-macejkovic
+- 
+  type: relations/parental/brosis
+  item: people/chanelle-hilpert
+- 
+  type: relations/parental/mom
+  item: people/jacey-lowe
+- 
+  type: relations/parental/brosis
+  item: people/jerry-christiansen
+- 
+  type: relations/parental/mom
+  item: people/nikki-stamm-dvm
+- 
+  type: relations/work/employer
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/money/debtor
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

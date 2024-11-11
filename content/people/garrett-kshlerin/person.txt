@@ -1,0 +1,64 @@
+Title: Garrett Kshlerin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/vella-schinner-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-unique-abshire-dds
+- 
+  type: relations/parental/mom
+  item: people/jorge-luettgen-iii
+- 
+  type: relations/parental/mom
+  item: people/sylvester-lubowitz
+- 
+  type: relations/parental/friend
+  item: people/dr-kayleigh-adams
+- 
+  type: relations/parental/colleague
+  item: people/prof-larue-dicki
+- 
+  type: relations/work/employer
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/herzog-plc
+- 
+  type: relations/money/debtor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

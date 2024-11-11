@@ -1,0 +1,64 @@
+Title: Prof. Arnoldo Moore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/clara-towne-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-mariane-spencer
+- 
+  type: relations/parental/colleague
+  item: people/kurt-pagac
+- 
+  type: relations/parental/colleague
+  item: people/katrina-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/eda-koch
+- 
+  type: relations/money/creditor
+  item: people/christa-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/money/debtor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

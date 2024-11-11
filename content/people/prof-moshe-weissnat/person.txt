@@ -1,0 +1,64 @@
+Title: Prof. Moshe Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/brandi-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/liana-gusikowski
+- 
+  type: relations/money/debtor
+  item: people/ms-violette-lehner-jr
+- 
+  type: relations/parental/mom
+  item: people/nedra-marvin
+- 
+  type: relations/parental/brosis
+  item: people/prof-morgan-heaney-i
+- 
+  type: relations/parental/colleague
+  item: people/fanny-rice
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

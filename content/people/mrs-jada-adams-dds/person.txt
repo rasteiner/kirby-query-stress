@@ -1,0 +1,64 @@
+Title: Mrs. Jada Adams DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/betty-blick
+- 
+  type: relations/parental/colleague
+  item: people/lora-mann-md
+- 
+  type: relations/parental/friend
+  item: people/dr-declan-mclaughlin-ii
+- 
+  type: relations/parental/mom
+  item: people/rex-ward
+- 
+  type: relations/parental/mom
+  item: people/anastacio-mills
+- 
+  type: relations/parental/brosis
+  item: people/dasia-nolan
+- 
+  type: relations/money/debtor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,43 @@
+Title: Hoppe, Harris and Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-group
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-inc
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/creditor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/west-ottisland
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/gusbury

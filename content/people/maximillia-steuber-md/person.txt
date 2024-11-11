@@ -1,0 +1,64 @@
+Title: Maximillia Steuber MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-victoria-aufderhar
+- 
+  type: relations/money/creditor
+  item: people/jamie-johnson
+- 
+  type: relations/money/debtor
+  item: people/prof-antonia-jaskolski
+- 
+  type: relations/parental/dad
+  item: people/miss-aryanna-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/watson-schuster-sr
+- 
+  type: relations/parental/friend
+  item: people/lavinia-hand
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/client
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

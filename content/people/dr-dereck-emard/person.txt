@@ -1,0 +1,64 @@
+Title: Dr. Dereck Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gerson-yost
+- 
+  type: relations/money/debtor
+  item: people/omer-o-kon
+- 
+  type: relations/money/creditor
+  item: people/mr-arlo-turner
+- 
+  type: relations/parental/friend
+  item: people/ms-sincere-kirlin-iv
+- 
+  type: relations/parental/colleague
+  item: people/scotty-dubuque-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-guadalupe-goldner-i
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

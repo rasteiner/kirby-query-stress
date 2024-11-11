@@ -1,0 +1,64 @@
+Title: Prof. Trystan Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-camden-schulist
+- 
+  type: relations/parental/mom
+  item: people/dr-wilbert-sipes
+- 
+  type: relations/money/debtor
+  item: people/javon-pollich
+- 
+  type: relations/money/debtor
+  item: people/gabrielle-kuhic
+- 
+  type: relations/parental/dad
+  item: people/selina-kuphal
+- 
+  type: relations/money/debtor
+  item: people/dixie-harris
+- 
+  type: relations/work/client
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/client
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

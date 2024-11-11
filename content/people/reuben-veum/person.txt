@@ -1,0 +1,64 @@
+Title: Reuben Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dortha-wintheiser-sr
+- 
+  type: relations/money/creditor
+  item: people/miss-queen-smith
+- 
+  type: relations/money/creditor
+  item: people/eileen-doyle
+- 
+  type: relations/parental/mom
+  item: people/alvina-hettinger-i
+- 
+  type: relations/money/debtor
+  item: people/hassie-denesik
+- 
+  type: relations/parental/colleague
+  item: people/miss-violette-zemlak
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/client
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/client
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

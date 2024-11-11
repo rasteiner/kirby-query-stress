@@ -1,0 +1,64 @@
+Title: Mr. Ronaldo Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ahmed-watsica-iv
+- 
+  type: relations/money/creditor
+  item: people/alan-rippin-dvm
+- 
+  type: relations/parental/mom
+  item: people/cecilia-braun
+- 
+  type: relations/parental/colleague
+  item: people/luis-cruickshank
+- 
+  type: relations/money/debtor
+  item: people/estelle-berge
+- 
+  type: relations/parental/mom
+  item: people/emory-collier-ii
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

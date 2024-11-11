@@ -1,0 +1,64 @@
+Title: Mr. Ole Durgan III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elmira-funk
+- 
+  type: relations/money/debtor
+  item: people/haylee-howell
+- 
+  type: relations/parental/brosis
+  item: people/isaac-beer
+- 
+  type: relations/parental/brosis
+  item: people/eladio-prohaska
+- 
+  type: relations/money/debtor
+  item: people/kelsi-feil
+- 
+  type: relations/parental/brosis
+  item: people/annalise-ankunding-dds
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/client
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,66 @@
+Title: Green Conn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jacques-prosacco-dvm
+- 
+  type: relations/parental/mom
+  item: people/shaun-wyman
+- 
+  type: relations/parental/brosis
+  item: people/curt-hilll
+- 
+  type: relations/parental/colleague
+  item: people/tommie-jacobson
+- 
+  type: relations/parental/mom
+  item: people/mr-ronaldo-lemke
+- 
+  type: relations/parental/colleague
+  item: people/andreanne-rippin
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

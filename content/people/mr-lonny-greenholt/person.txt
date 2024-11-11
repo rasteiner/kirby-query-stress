@@ -1,0 +1,64 @@
+Title: Mr. Lonny Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/elouise-cummings
+- 
+  type: relations/parental/colleague
+  item: people/albina-terry-dvm
+- 
+  type: relations/parental/brosis
+  item: people/sylvia-haag
+- 
+  type: relations/parental/mom
+  item: people/nelson-emmerich
+- 
+  type: relations/money/creditor
+  item: people/mr-rickey-walter
+- 
+  type: relations/parental/dad
+  item: people/ms-kavon-kohler
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/employer
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

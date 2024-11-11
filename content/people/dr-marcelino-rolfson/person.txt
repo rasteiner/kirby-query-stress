@@ -1,0 +1,64 @@
+Title: Dr. Marcelino Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kurt-dickinson
+- 
+  type: relations/money/creditor
+  item: people/llewellyn-lemke
+- 
+  type: relations/parental/mom
+  item: people/liana-gutmann
+- 
+  type: relations/parental/dad
+  item: people/kenton-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/beaulah-kihn
+- 
+  type: relations/money/creditor
+  item: people/noel-kunze
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

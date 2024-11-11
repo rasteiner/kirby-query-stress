@@ -1,0 +1,64 @@
+Title: Eloisa Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/keanu-koss
+- 
+  type: relations/parental/colleague
+  item: people/brooklyn-legros-jr
+- 
+  type: relations/parental/brosis
+  item: people/gwen-hodkiewicz-md
+- 
+  type: relations/parental/brosis
+  item: people/ms-dina-lowe-md
+- 
+  type: relations/parental/mom
+  item: people/mylene-hayes-phd
+- 
+  type: relations/money/debtor
+  item: people/lillie-boyle
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/client
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

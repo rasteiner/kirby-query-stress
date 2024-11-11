@@ -1,0 +1,64 @@
+Title: Dr. Leonie Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/flo-nitzsche
+- 
+  type: relations/parental/colleague
+  item: people/catherine-berge
+- 
+  type: relations/parental/friend
+  item: people/dr-serenity-upton
+- 
+  type: relations/parental/brosis
+  item: people/mrs-jammie-schneider
+- 
+  type: relations/money/debtor
+  item: people/randall-streich-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-amelia-welch
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

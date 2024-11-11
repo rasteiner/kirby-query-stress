@@ -1,0 +1,65 @@
+Title: Miss Carli Hoeger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/yvonne-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/virginie-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/ms-tiana-fritsch
+- 
+  type: relations/parental/dad
+  item: people/jaime-jerde
+- 
+  type: relations/parental/colleague
+  item: people/chanel-pollich-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-cierra-fisher-i
+- 
+  type: relations/money/creditor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/employer
+  item: companies/muller-lockman
+- 
+  type: relations/work/employer
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

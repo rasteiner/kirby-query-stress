@@ -1,0 +1,64 @@
+Title: Dr. Waino Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/filiberto-cummerata
+- 
+  type: relations/parental/dad
+  item: people/josianne-bernhard
+- 
+  type: relations/parental/mom
+  item: people/augustine-toy
+- 
+  type: relations/parental/friend
+  item: people/shea-witting
+- 
+  type: relations/parental/friend
+  item: people/sandra-lindgren
+- 
+  type: relations/parental/dad
+  item: people/hollis-ziemann
+- 
+  type: relations/work/client
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

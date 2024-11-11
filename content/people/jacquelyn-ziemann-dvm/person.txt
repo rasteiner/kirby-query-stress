@@ -1,0 +1,64 @@
+Title: Jacquelyn Ziemann DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prince-hamill
+- 
+  type: relations/parental/mom
+  item: people/micheal-mohr
+- 
+  type: relations/parental/mom
+  item: people/ottilie-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/jenifer-heaney
+- 
+  type: relations/parental/brosis
+  item: people/naomi-ritchie
+- 
+  type: relations/parental/brosis
+  item: people/dr-ariel-leannon-iii
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/money/creditor
+  item: companies/russel-collier
+- 
+  type: relations/work/client
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

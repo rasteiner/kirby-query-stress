@@ -1,0 +1,64 @@
+Title: Isadore Haag
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lavon-bayer
+- 
+  type: relations/money/debtor
+  item: people/mafalda-o-connell-dvm
+- 
+  type: relations/money/creditor
+  item: people/prof-sabrina-thiel
+- 
+  type: relations/parental/dad
+  item: people/abdullah-mckenzie
+- 
+  type: relations/money/debtor
+  item: people/zachariah-lockman
+- 
+  type: relations/parental/colleague
+  item: people/mr-clark-klocko
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/rippin-bode
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

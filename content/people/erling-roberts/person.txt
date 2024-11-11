@@ -1,0 +1,65 @@
+Title: Erling Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kamren-johns
+- 
+  type: relations/parental/brosis
+  item: people/prof-emmanuelle-bailey
+- 
+  type: relations/parental/mom
+  item: people/mrs-vada-rice
+- 
+  type: relations/parental/brosis
+  item: people/dr-beulah-hartmann
+- 
+  type: relations/money/creditor
+  item: people/kenya-gerlach-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-amiya-fadel
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/work/employer
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

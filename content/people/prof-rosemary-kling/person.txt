@@ -1,0 +1,64 @@
+Title: Prof. Rosemary Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marcelino-ondricka
+- 
+  type: relations/parental/colleague
+  item: people/josh-ortiz
+- 
+  type: relations/parental/mom
+  item: people/bonnie-o-keefe
+- 
+  type: relations/parental/mom
+  item: people/hallie-howell
+- 
+  type: relations/money/debtor
+  item: people/marge-berge-i
+- 
+  type: relations/money/debtor
+  item: people/dr-janie-windler
+- 
+  type: relations/work/client
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/money/creditor
+  item: companies/rice-inc
+- 
+  type: relations/work/employer
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

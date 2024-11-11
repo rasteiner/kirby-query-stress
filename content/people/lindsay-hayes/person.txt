@@ -1,0 +1,64 @@
+Title: Lindsay Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/frederik-batz
+- 
+  type: relations/parental/friend
+  item: people/addison-ondricka-md
+- 
+  type: relations/money/debtor
+  item: people/winston-dicki-sr
+- 
+  type: relations/parental/colleague
+  item: people/marquis-franecki
+- 
+  type: relations/parental/colleague
+  item: people/carmela-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/prof-alexie-schneider
+- 
+  type: relations/work/employer
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/effertz-llc
+- 
+  type: relations/money/debtor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/client
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

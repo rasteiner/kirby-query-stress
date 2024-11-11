@@ -1,0 +1,64 @@
+Title: Troy Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kody-prohaska-i
+- 
+  type: relations/parental/mom
+  item: people/jamar-d-amore-ii
+- 
+  type: relations/parental/mom
+  item: people/jay-kautzer
+- 
+  type: relations/parental/brosis
+  item: people/mrs-hermina-yundt-ii
+- 
+  type: relations/parental/colleague
+  item: people/jake-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/jaylen-brown
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/work/client
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

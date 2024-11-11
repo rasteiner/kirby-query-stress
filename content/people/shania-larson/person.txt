@@ -1,0 +1,64 @@
+Title: Shania Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-lesly-hilll
+- 
+  type: relations/parental/dad
+  item: people/mr-austyn-conroy
+- 
+  type: relations/money/debtor
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/parental/dad
+  item: people/sienna-dubuque
+- 
+  type: relations/parental/mom
+  item: people/kiera-konopelski-ii
+- 
+  type: relations/parental/brosis
+  item: people/cleve-stamm
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/client
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Jaylan Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/neil-hansen-jr
+- 
+  type: relations/money/creditor
+  item: people/abigail-fadel
+- 
+  type: relations/parental/mom
+  item: people/eudora-mitchell
+- 
+  type: relations/parental/friend
+  item: people/pablo-donnelly
+- 
+  type: relations/money/debtor
+  item: people/ms-emmy-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/jaqueline-hintz
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

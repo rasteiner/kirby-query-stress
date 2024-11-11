@@ -1,0 +1,64 @@
+Title: Destini O'Conner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anne-kuhn
+- 
+  type: relations/parental/friend
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/parental/dad
+  item: people/prof-augustus-rath
+- 
+  type: relations/money/debtor
+  item: people/dr-roman-legros-iii
+- 
+  type: relations/parental/mom
+  item: people/will-klein
+- 
+  type: relations/parental/dad
+  item: people/colleen-rowe-sr
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/work/client
+  item: companies/smith-tromp
+- 
+  type: relations/work/employer
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

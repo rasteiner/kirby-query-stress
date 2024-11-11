@@ -1,0 +1,64 @@
+Title: Ryley Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-turner-heathcote
+- 
+  type: relations/money/creditor
+  item: people/felicity-huels
+- 
+  type: relations/parental/friend
+  item: people/keagan-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/arvilla-treutel
+- 
+  type: relations/parental/dad
+  item: people/elmo-kulas-iii
+- 
+  type: relations/parental/mom
+  item: people/eladio-keebler
+- 
+  type: relations/work/client
+  item: companies/blanda-ltd
+- 
+  type: relations/work/employer
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/client
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

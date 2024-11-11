@@ -1,0 +1,64 @@
+Title: Pasquale Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/evan-harris
+- 
+  type: relations/money/debtor
+  item: people/lulu-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/dr-leora-abernathy-dds
+- 
+  type: relations/parental/colleague
+  item: people/madelyn-cruickshank-v
+- 
+  type: relations/parental/brosis
+  item: people/earlene-leffler
+- 
+  type: relations/parental/brosis
+  item: people/miss-shana-boyle-jr
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/employer
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Frank Witting
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-casimir-schimmel-dds
+- 
+  type: relations/money/debtor
+  item: people/mr-tremaine-walsh
+- 
+  type: relations/parental/mom
+  item: people/miss-zella-carroll-md
+- 
+  type: relations/parental/brosis
+  item: people/eriberto-goyette
+- 
+  type: relations/parental/colleague
+  item: people/pedro-cronin
+- 
+  type: relations/money/creditor
+  item: people/frida-ferry
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/employer
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

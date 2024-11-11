@@ -1,0 +1,64 @@
+Title: Cedrick Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lonnie-mann
+- 
+  type: relations/parental/friend
+  item: people/luther-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: people/prof-maxwell-durgan-jr
+- 
+  type: relations/parental/colleague
+  item: people/jaqueline-skiles-md
+- 
+  type: relations/money/debtor
+  item: people/deontae-cruickshank-dds
+- 
+  type: relations/parental/brosis
+  item: people/jeremy-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/client
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/client
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

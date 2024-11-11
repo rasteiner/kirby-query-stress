@@ -1,0 +1,64 @@
+Title: Merl Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/delbert-senger
+- 
+  type: relations/parental/dad
+  item: people/rosella-ullrich
+- 
+  type: relations/parental/brosis
+  item: people/wilfrid-wiegand-dds
+- 
+  type: relations/parental/brosis
+  item: people/miss-trisha-hand-ii
+- 
+  type: relations/parental/mom
+  item: people/miss-verlie-spencer-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kelly-hettinger-dds
+- 
+  type: relations/work/client
+  item: companies/hamill-herzog
+- 
+  type: relations/work/employer
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

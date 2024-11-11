@@ -1,0 +1,64 @@
+Title: Joesph Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-katelyn-kohler-i
+- 
+  type: relations/parental/brosis
+  item: people/chet-windler-ii
+- 
+  type: relations/parental/colleague
+  item: people/ashly-kassulke
+- 
+  type: relations/parental/colleague
+  item: people/carolyne-schmitt
+- 
+  type: relations/money/creditor
+  item: people/iliana-mills-ii
+- 
+  type: relations/parental/friend
+  item: people/matilda-gorczany
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-inc
+- 
+  type: relations/work/employer
+  item: companies/sauer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/roob-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/haley-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

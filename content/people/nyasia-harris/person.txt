@@ -1,0 +1,64 @@
+Title: Nyasia Harris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marilie-braun
+- 
+  type: relations/money/creditor
+  item: people/prof-friedrich-ondricka
+- 
+  type: relations/money/debtor
+  item: people/madelynn-jenkins
+- 
+  type: relations/money/creditor
+  item: people/toni-shields-v
+- 
+  type: relations/parental/brosis
+  item: people/alexane-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/wilbert-predovic
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/employer
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/work/client
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

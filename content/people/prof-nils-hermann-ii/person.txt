@@ -1,0 +1,64 @@
+Title: Prof. Nils Hermann II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/katelyn-greenholt
+- 
+  type: relations/money/debtor
+  item: people/dr-gregoria-strosin-dvm
+- 
+  type: relations/money/debtor
+  item: people/mr-brian-white
+- 
+  type: relations/parental/dad
+  item: people/hazle-brown
+- 
+  type: relations/money/creditor
+  item: people/john-cremin
+- 
+  type: relations/parental/friend
+  item: people/mr-boris-herman
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/employer
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

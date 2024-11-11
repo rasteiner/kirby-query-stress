@@ -1,0 +1,64 @@
+Title: Katelynn Little
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-laisha-sporer-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-terrill-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/jerrell-adams
+- 
+  type: relations/parental/mom
+  item: people/rosina-zemlak-phd
+- 
+  type: relations/parental/colleague
+  item: people/sibyl-eichmann
+- 
+  type: relations/parental/colleague
+  item: people/andreane-cummings-ii
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/money/debtor
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Lavada Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-edison-bartell-i
+- 
+  type: relations/money/debtor
+  item: people/prof-carmella-crona
+- 
+  type: relations/parental/dad
+  item: people/maia-kilback-sr
+- 
+  type: relations/parental/friend
+  item: people/jeff-abernathy
+- 
+  type: relations/parental/dad
+  item: people/precious-murray
+- 
+  type: relations/money/creditor
+  item: people/prof-emilie-deckow
+- 
+  type: relations/work/employer
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/client
+  item: companies/zieme-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

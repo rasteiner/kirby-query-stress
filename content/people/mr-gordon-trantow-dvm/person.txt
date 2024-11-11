@@ -1,0 +1,64 @@
+Title: Mr. Gordon Trantow DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/carleton-boyer-sr
+- 
+  type: relations/money/debtor
+  item: people/arianna-grant
+- 
+  type: relations/parental/dad
+  item: people/montana-mraz-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ms-betty-rowe
+- 
+  type: relations/parental/friend
+  item: people/jarred-kirlin
+- 
+  type: relations/money/creditor
+  item: people/kendrick-adams
+- 
+  type: relations/work/employer
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Mrs. Cydney Shanahan DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-retha-ledner
+- 
+  type: relations/parental/brosis
+  item: people/stephan-welch
+- 
+  type: relations/parental/dad
+  item: people/otto-auer
+- 
+  type: relations/parental/mom
+  item: people/prof-tiara-hirthe-iii
+- 
+  type: relations/parental/brosis
+  item: people/addison-fahey
+- 
+  type: relations/money/debtor
+  item: people/enola-jacobs
+- 
+  type: relations/work/employer
+  item: companies/howe-group
+- 
+  type: relations/money/debtor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

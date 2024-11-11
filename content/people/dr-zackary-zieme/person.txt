@@ -1,0 +1,64 @@
+Title: Dr. Zackary Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dolly-thiel
+- 
+  type: relations/parental/dad
+  item: people/pearl-oberbrunner
+- 
+  type: relations/money/debtor
+  item: people/armand-keeling
+- 
+  type: relations/parental/mom
+  item: people/neal-walker
+- 
+  type: relations/parental/colleague
+  item: people/malika-boyer
+- 
+  type: relations/money/debtor
+  item: people/prof-camden-dach-jr
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/harvey-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

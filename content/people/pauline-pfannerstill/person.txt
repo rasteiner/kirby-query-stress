@@ -1,0 +1,64 @@
+Title: Pauline Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/violette-terry
+- 
+  type: relations/parental/brosis
+  item: people/mr-johnathan-stehr-sr
+- 
+  type: relations/money/debtor
+  item: people/dr-frieda-macejkovic-md
+- 
+  type: relations/parental/colleague
+  item: people/prof-gennaro-gibson
+- 
+  type: relations/money/debtor
+  item: people/dr-noel-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/mr-tremaine-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/work/client
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

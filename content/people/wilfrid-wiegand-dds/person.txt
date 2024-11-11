@@ -1,0 +1,64 @@
+Title: Wilfrid Wiegand DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/laverna-reynolds
+- 
+  type: relations/parental/brosis
+  item: people/tamia-stiedemann-iii
+- 
+  type: relations/parental/dad
+  item: people/arianna-veum
+- 
+  type: relations/parental/dad
+  item: people/ms-marta-wilkinson-i
+- 
+  type: relations/money/creditor
+  item: people/teresa-moore-jr
+- 
+  type: relations/parental/friend
+  item: people/cleora-moen-sr
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

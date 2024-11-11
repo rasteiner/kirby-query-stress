@@ -1,0 +1,64 @@
+Title: Mallory Larson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/terrill-corwin-sr
+- 
+  type: relations/money/debtor
+  item: people/greta-senger
+- 
+  type: relations/money/debtor
+  item: people/jaleel-corwin-dds
+- 
+  type: relations/parental/colleague
+  item: people/reanna-orn
+- 
+  type: relations/money/debtor
+  item: people/kaylee-conn-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-lisandro-stark
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Kaci Lynch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-colten-champlin-i
+- 
+  type: relations/money/creditor
+  item: people/charity-mueller
+- 
+  type: relations/money/debtor
+  item: people/dakota-simonis
+- 
+  type: relations/parental/colleague
+  item: people/ms-alba-gaylord
+- 
+  type: relations/parental/brosis
+  item: people/rosina-olson
+- 
+  type: relations/parental/friend
+  item: people/yoshiko-schamberger
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

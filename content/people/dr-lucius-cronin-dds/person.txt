@@ -1,0 +1,64 @@
+Title: Dr. Lucius Cronin DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/teresa-moore-jr
+- 
+  type: relations/parental/mom
+  item: people/cleora-moen-sr
+- 
+  type: relations/parental/dad
+  item: people/willow-becker-sr
+- 
+  type: relations/parental/brosis
+  item: people/ms-hassie-schroeder-phd
+- 
+  type: relations/money/creditor
+  item: people/daphney-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/lera-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/blanda-ltd
+- 
+  type: relations/work/client
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/client
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

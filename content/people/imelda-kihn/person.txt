@@ -1,0 +1,64 @@
+Title: Imelda Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/renee-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/erwin-rath
+- 
+  type: relations/parental/colleague
+  item: people/arjun-hegmann-dvm
+- 
+  type: relations/parental/colleague
+  item: people/lesly-stehr
+- 
+  type: relations/money/creditor
+  item: people/addie-medhurst
+- 
+  type: relations/parental/friend
+  item: people/jeffrey-weber
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

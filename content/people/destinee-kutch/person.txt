@@ -1,0 +1,64 @@
+Title: Destinee Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaclyn-swift
+- 
+  type: relations/money/debtor
+  item: people/ms-antonia-emard-phd
+- 
+  type: relations/parental/friend
+  item: people/joesph-abshire
+- 
+  type: relations/parental/friend
+  item: people/dusty-lehner
+- 
+  type: relations/parental/colleague
+  item: people/barrett-gaylord
+- 
+  type: relations/parental/colleague
+  item: people/dr-darrel-o-keefe-phd
+- 
+  type: relations/money/creditor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-group
+- 
+  type: relations/work/employer
+  item: companies/windler-plc
+- 
+  type: relations/work/client
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

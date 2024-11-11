@@ -1,0 +1,43 @@
+Title: Bins, Lakin and Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/nolan-inc
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/robertstown
+- 
+  type: relations/location/visited
+  item: places/hillardburgh

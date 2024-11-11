@@ -1,0 +1,64 @@
+Title: Mr. Michael Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/colten-daugherty-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-cordell-greenholt-iii
+- 
+  type: relations/parental/colleague
+  item: people/savannah-rutherford
+- 
+  type: relations/parental/friend
+  item: people/evelyn-schuppe
+- 
+  type: relations/parental/friend
+  item: people/cassandra-kertzmann-iv
+- 
+  type: relations/parental/colleague
+  item: people/hulda-bauch
+- 
+  type: relations/work/client
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/work/client
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/client
+  item: companies/rath-schuppe
+- 
+  type: relations/work/client
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

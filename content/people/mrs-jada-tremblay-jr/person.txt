@@ -1,0 +1,64 @@
+Title: Mrs. Jada Tremblay Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ressie-douglas
+- 
+  type: relations/parental/dad
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/money/debtor
+  item: people/emelie-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/ottilie-wolf
+- 
+  type: relations/parental/colleague
+  item: people/murl-wolf-ii
+- 
+  type: relations/parental/friend
+  item: people/zackary-bode-dds
+- 
+  type: relations/money/creditor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Kendrick Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-thora-beahan
+- 
+  type: relations/parental/colleague
+  item: people/otho-ruecker
+- 
+  type: relations/money/debtor
+  item: people/alford-osinski
+- 
+  type: relations/money/debtor
+  item: people/kira-considine
+- 
+  type: relations/parental/friend
+  item: people/jefferey-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/aric-runte-md
+- 
+  type: relations/work/employer
+  item: companies/dickinson-grant
+- 
+  type: relations/work/employer
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

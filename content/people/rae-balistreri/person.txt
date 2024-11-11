@@ -1,0 +1,64 @@
+Title: Rae Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/randall-streich-dds
+- 
+  type: relations/money/debtor
+  item: people/prof-amelia-welch
+- 
+  type: relations/parental/colleague
+  item: people/dr-dimitri-zboncak
+- 
+  type: relations/parental/friend
+  item: people/leonardo-hudson
+- 
+  type: relations/parental/dad
+  item: people/prof-judd-johnston
+- 
+  type: relations/parental/colleague
+  item: people/prof-cicero-rutherford-md
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

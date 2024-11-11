@@ -1,0 +1,64 @@
+Title: Emiliano Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/malvina-hermiston-i
+- 
+  type: relations/parental/colleague
+  item: people/lina-waters
+- 
+  type: relations/parental/dad
+  item: people/laron-sauer
+- 
+  type: relations/parental/colleague
+  item: people/gunner-johnston
+- 
+  type: relations/parental/friend
+  item: people/shea-steuber
+- 
+  type: relations/money/creditor
+  item: people/burdette-kozey-dds
+- 
+  type: relations/work/client
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/client
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

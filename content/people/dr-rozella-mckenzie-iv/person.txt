@@ -1,0 +1,64 @@
+Title: Dr. Rozella McKenzie IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-orville-bernhard-phd
+- 
+  type: relations/money/creditor
+  item: people/madisen-christiansen
+- 
+  type: relations/parental/dad
+  item: people/dortha-collins
+- 
+  type: relations/money/debtor
+  item: people/isobel-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/maya-mertz
+- 
+  type: relations/money/debtor
+  item: people/jarrett-fahey
+- 
+  type: relations/work/client
+  item: companies/dickinson-plc
+- 
+  type: relations/work/client
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

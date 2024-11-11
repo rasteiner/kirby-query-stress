@@ -1,0 +1,64 @@
+Title: Allen Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/noemy-flatley
+- 
+  type: relations/parental/friend
+  item: people/raina-schuster
+- 
+  type: relations/money/debtor
+  item: people/terrence-gottlieb
+- 
+  type: relations/parental/colleague
+  item: people/hassie-koelpin
+- 
+  type: relations/money/debtor
+  item: people/gordon-balistreri
+- 
+  type: relations/parental/mom
+  item: people/lauriane-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/emard-inc
+- 
+  type: relations/work/client
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/money/debtor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

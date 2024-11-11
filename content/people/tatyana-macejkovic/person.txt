@@ -1,0 +1,64 @@
+Title: Tatyana Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-sarah-vandervort
+- 
+  type: relations/parental/dad
+  item: people/baron-ullrich
+- 
+  type: relations/parental/friend
+  item: people/ms-ardella-osinski-sr
+- 
+  type: relations/parental/colleague
+  item: people/leonor-ortiz
+- 
+  type: relations/parental/dad
+  item: people/violette-terry
+- 
+  type: relations/parental/mom
+  item: people/mr-johnathan-stehr-sr
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/work/employer
+  item: companies/casper-larson
+- 
+  type: relations/work/client
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

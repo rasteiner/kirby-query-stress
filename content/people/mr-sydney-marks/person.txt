@@ -1,0 +1,64 @@
+Title: Mr. Sydney Marks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-rudolph-beer-ii
+- 
+  type: relations/parental/dad
+  item: people/ibrahim-heaney-i
+- 
+  type: relations/parental/brosis
+  item: people/jo-hansen
+- 
+  type: relations/parental/colleague
+  item: people/cassidy-yundt
+- 
+  type: relations/money/debtor
+  item: people/prof-antonina-swift
+- 
+  type: relations/parental/mom
+  item: people/deron-kirlin
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/work/client
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

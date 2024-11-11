@@ -1,0 +1,64 @@
+Title: Zoey Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/imani-mraz
+- 
+  type: relations/parental/dad
+  item: people/clotilde-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/jonathan-harris
+- 
+  type: relations/money/debtor
+  item: people/jessica-mitchell
+- 
+  type: relations/money/debtor
+  item: people/rory-wisoky-iii
+- 
+  type: relations/parental/colleague
+  item: people/antonina-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/work/client
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Dr. Nickolas Hand II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/justice-streich-v
+- 
+  type: relations/money/debtor
+  item: people/ahmad-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/dolly-hickle
+- 
+  type: relations/money/creditor
+  item: people/dr-ivy-herman
+- 
+  type: relations/parental/brosis
+  item: people/theresa-orn
+- 
+  type: relations/parental/friend
+  item: people/precious-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/work/employer
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/employer
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

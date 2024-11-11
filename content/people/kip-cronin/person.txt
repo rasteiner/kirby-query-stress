@@ -1,0 +1,64 @@
+Title: Kip Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-jermaine-kirlin-dds
+- 
+  type: relations/money/creditor
+  item: people/catharine-homenick
+- 
+  type: relations/money/debtor
+  item: people/ora-satterfield
+- 
+  type: relations/parental/dad
+  item: people/tressa-o-conner
+- 
+  type: relations/parental/brosis
+  item: people/einar-bogisich
+- 
+  type: relations/parental/brosis
+  item: people/dr-jarred-mante
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/client
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/client
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/employer
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

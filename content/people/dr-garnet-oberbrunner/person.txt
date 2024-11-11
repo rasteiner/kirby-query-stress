@@ -1,0 +1,64 @@
+Title: Dr. Garnet Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/parental/brosis
+  item: people/ms-river-wolff
+- 
+  type: relations/money/creditor
+  item: people/ola-dibbert
+- 
+  type: relations/parental/dad
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/parental/mom
+  item: people/loyal-rowe
+- 
+  type: relations/parental/mom
+  item: people/mr-jaydon-kuhic
+- 
+  type: relations/work/client
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/debtor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Rickey Jakubowski Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/judson-homenick
+- 
+  type: relations/parental/brosis
+  item: people/paul-welch
+- 
+  type: relations/parental/brosis
+  item: people/kelvin-feeney
+- 
+  type: relations/parental/mom
+  item: people/mr-quentin-kautzer-iii
+- 
+  type: relations/money/debtor
+  item: people/fabiola-wuckert
+- 
+  type: relations/money/debtor
+  item: people/ashlee-rempel
+- 
+  type: relations/money/creditor
+  item: companies/purdy-koch
+- 
+  type: relations/money/creditor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/work/client
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

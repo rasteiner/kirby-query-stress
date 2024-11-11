@@ -1,0 +1,64 @@
+Title: Miss Maude Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-joaquin-trantow
+- 
+  type: relations/money/creditor
+  item: people/nick-murazik
+- 
+  type: relations/parental/dad
+  item: people/prof-maurice-gaylord-iv
+- 
+  type: relations/parental/dad
+  item: people/elisa-kassulke-ii
+- 
+  type: relations/money/creditor
+  item: people/giuseppe-halvorson
+- 
+  type: relations/parental/brosis
+  item: people/brennon-bogan
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/client
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Miss Albina Rolfson IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/hailey-roob
+- 
+  type: relations/parental/friend
+  item: people/prof-manley-krajcik-iii
+- 
+  type: relations/parental/colleague
+  item: people/clinton-koss
+- 
+  type: relations/parental/colleague
+  item: people/anika-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/omari-paucek
+- 
+  type: relations/parental/colleague
+  item: people/jeromy-bosco
+- 
+  type: relations/work/employer
+  item: companies/considine-bruen
+- 
+  type: relations/work/employer
+  item: companies/emard-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

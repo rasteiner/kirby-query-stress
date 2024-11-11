@@ -1,0 +1,64 @@
+Title: Ronaldo Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-darryl-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/mellie-leuschke
+- 
+  type: relations/money/debtor
+  item: people/nat-gorczany
+- 
+  type: relations/parental/dad
+  item: people/celia-grant
+- 
+  type: relations/money/debtor
+  item: people/mariane-lind
+- 
+  type: relations/parental/dad
+  item: people/clementina-ferry
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-plc
+- 
+  type: relations/money/debtor
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

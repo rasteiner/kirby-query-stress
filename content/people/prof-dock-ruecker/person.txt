@@ -1,0 +1,64 @@
+Title: Prof. Dock Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/earline-greenfelder-i
+- 
+  type: relations/parental/mom
+  item: people/xander-king
+- 
+  type: relations/parental/friend
+  item: people/tyrel-maggio
+- 
+  type: relations/parental/dad
+  item: people/chelsea-sanford
+- 
+  type: relations/parental/friend
+  item: people/mrs-margret-kerluke-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-willy-labadie-phd
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

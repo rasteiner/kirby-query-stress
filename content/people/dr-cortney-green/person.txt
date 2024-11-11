@@ -1,0 +1,64 @@
+Title: Dr. Cortney Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/zackary-bayer
+- 
+  type: relations/parental/friend
+  item: people/tyshawn-turcotte
+- 
+  type: relations/parental/mom
+  item: people/jerrell-hane
+- 
+  type: relations/parental/mom
+  item: people/kenny-gutmann
+- 
+  type: relations/money/debtor
+  item: people/sandrine-pagac
+- 
+  type: relations/parental/dad
+  item: people/melvina-murazik
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/client
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

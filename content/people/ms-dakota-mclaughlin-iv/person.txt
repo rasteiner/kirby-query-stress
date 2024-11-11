@@ -1,0 +1,64 @@
+Title: Ms. Dakota McLaughlin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-angelita-gutmann-iii
+- 
+  type: relations/money/creditor
+  item: people/matteo-hessel
+- 
+  type: relations/parental/brosis
+  item: people/adelbert-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/easter-jacobi
+- 
+  type: relations/parental/brosis
+  item: people/maud-hessel
+- 
+  type: relations/money/debtor
+  item: people/reyes-leannon-v
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/debtor
+  item: companies/davis-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

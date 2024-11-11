@@ -1,0 +1,43 @@
+Title: Beahan, Carroll and Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/money/creditor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/carmineshire
+- 
+  type: relations/location/residence
+  item: places/jerrytown

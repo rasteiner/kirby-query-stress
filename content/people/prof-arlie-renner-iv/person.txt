@@ -1,0 +1,64 @@
+Title: Prof. Arlie Renner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/abigale-rolfson
+- 
+  type: relations/parental/colleague
+  item: people/alayna-corwin-iv
+- 
+  type: relations/money/debtor
+  item: people/ronny-reinger
+- 
+  type: relations/parental/dad
+  item: people/dr-natalie-quitzon-dds
+- 
+  type: relations/parental/colleague
+  item: people/lincoln-predovic-dvm
+- 
+  type: relations/parental/friend
+  item: people/wendell-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/work/client
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/work/client
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

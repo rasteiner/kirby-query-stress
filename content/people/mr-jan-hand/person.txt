@@ -1,0 +1,64 @@
+Title: Mr. Jan Hand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/riley-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/larry-stanton
+- 
+  type: relations/money/debtor
+  item: people/prof-ross-romaguera-dvm
+- 
+  type: relations/parental/dad
+  item: people/raquel-mosciski
+- 
+  type: relations/parental/friend
+  item: people/sincere-bogan
+- 
+  type: relations/parental/brosis
+  item: people/avery-rice
+- 
+  type: relations/work/employer
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/employer
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/client
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

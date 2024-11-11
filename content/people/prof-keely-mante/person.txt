@@ -1,0 +1,64 @@
+Title: Prof. Keely Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/addie-gleichner
+- 
+  type: relations/money/debtor
+  item: people/krystel-hamill-dvm
+- 
+  type: relations/parental/dad
+  item: people/maximilian-corkery-md
+- 
+  type: relations/parental/mom
+  item: people/mr-newton-boehm-md
+- 
+  type: relations/money/debtor
+  item: people/rylee-bins
+- 
+  type: relations/parental/colleague
+  item: people/meda-corwin
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/employer
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/client
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

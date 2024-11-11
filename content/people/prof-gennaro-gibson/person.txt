@@ -1,0 +1,64 @@
+Title: Prof. Gennaro Gibson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-camden-schulist
+- 
+  type: relations/money/creditor
+  item: people/dr-wilbert-sipes
+- 
+  type: relations/money/creditor
+  item: people/javon-pollich
+- 
+  type: relations/parental/friend
+  item: people/gabrielle-kuhic
+- 
+  type: relations/money/creditor
+  item: people/selina-kuphal
+- 
+  type: relations/money/debtor
+  item: people/dixie-harris
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

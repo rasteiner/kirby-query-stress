@@ -1,0 +1,64 @@
+Title: Miss Pearl Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-bernadine-reichert
+- 
+  type: relations/parental/dad
+  item: people/gilda-monahan
+- 
+  type: relations/money/creditor
+  item: people/alia-osinski
+- 
+  type: relations/parental/mom
+  item: people/lon-turcotte
+- 
+  type: relations/money/creditor
+  item: people/helene-wuckert-i
+- 
+  type: relations/parental/colleague
+  item: people/fannie-hermann
+- 
+  type: relations/work/employer
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Karl McLaughlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-celine-lueilwitz-dds
+- 
+  type: relations/parental/dad
+  item: people/cali-daniel
+- 
+  type: relations/parental/dad
+  item: people/joany-stehr
+- 
+  type: relations/money/creditor
+  item: people/dr-osborne-murray
+- 
+  type: relations/money/debtor
+  item: people/kennedi-lubowitz-iii
+- 
+  type: relations/parental/colleague
+  item: people/lucio-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/work/client
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/work/client
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/employer
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

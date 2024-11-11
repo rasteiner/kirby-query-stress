@@ -1,0 +1,64 @@
+Title: Devante Yost I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-sonia-fay
+- 
+  type: relations/parental/mom
+  item: people/tristian-purdy-iv
+- 
+  type: relations/money/debtor
+  item: people/miss-linnea-von
+- 
+  type: relations/parental/friend
+  item: people/prof-jodie-okuneva-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-arne-hudson
+- 
+  type: relations/parental/dad
+  item: people/miss-tanya-hammes
+- 
+  type: relations/work/client
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/work/employer
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

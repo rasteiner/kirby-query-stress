@@ -1,0 +1,64 @@
+Title: Mrs. Rhoda Schultz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dorian-schiller
+- 
+  type: relations/parental/dad
+  item: people/dell-jacobi
+- 
+  type: relations/money/creditor
+  item: people/meredith-larson
+- 
+  type: relations/parental/colleague
+  item: people/edison-bode-sr
+- 
+  type: relations/money/creditor
+  item: people/maudie-mante
+- 
+  type: relations/parental/friend
+  item: people/nathanael-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stanton-plc
+- 
+  type: relations/work/client
+  item: companies/mayer-group
+- 
+  type: relations/work/employer
+  item: companies/russel-skiles
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

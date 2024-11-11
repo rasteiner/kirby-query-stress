@@ -1,0 +1,64 @@
+Title: Lisandro Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-jameson-krajcik-i
+- 
+  type: relations/parental/colleague
+  item: people/tessie-keebler
+- 
+  type: relations/parental/brosis
+  item: people/iva-blick
+- 
+  type: relations/money/debtor
+  item: people/sadie-haag-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-emil-rau-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-robin-gaylord-sr
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

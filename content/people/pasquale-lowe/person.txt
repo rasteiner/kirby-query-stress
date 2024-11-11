@@ -1,0 +1,64 @@
+Title: Pasquale Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-whitney-stehr-dds
+- 
+  type: relations/parental/dad
+  item: people/christophe-effertz-i
+- 
+  type: relations/parental/dad
+  item: people/miguel-wehner
+- 
+  type: relations/money/debtor
+  item: people/ettie-lemke
+- 
+  type: relations/money/debtor
+  item: people/myrtis-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/guadalupe-west
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

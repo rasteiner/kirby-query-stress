@@ -1,0 +1,64 @@
+Title: Mrs. Pattie Mills DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/colin-huels-jr
+- 
+  type: relations/parental/dad
+  item: people/theodore-collins
+- 
+  type: relations/parental/mom
+  item: people/keara-walker
+- 
+  type: relations/parental/colleague
+  item: people/cristina-cummerata-iii
+- 
+  type: relations/money/debtor
+  item: people/letha-stokes
+- 
+  type: relations/money/debtor
+  item: people/vicky-heller
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/work/client
+  item: companies/murazik-thiel
+- 
+  type: relations/work/client
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

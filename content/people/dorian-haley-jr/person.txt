@@ -1,0 +1,64 @@
+Title: Dorian Haley Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ladarius-hirthe
+- 
+  type: relations/parental/brosis
+  item: people/thurman-dicki
+- 
+  type: relations/parental/friend
+  item: people/ms-kattie-reichert
+- 
+  type: relations/parental/dad
+  item: people/dr-antonetta-o-hara-dds
+- 
+  type: relations/parental/friend
+  item: people/hailey-roob
+- 
+  type: relations/parental/mom
+  item: people/prof-manley-krajcik-iii
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/employer
+  item: companies/orn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

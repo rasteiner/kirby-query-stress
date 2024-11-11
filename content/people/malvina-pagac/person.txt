@@ -1,0 +1,64 @@
+Title: Malvina Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/declan-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/gerardo-kutch
+- 
+  type: relations/parental/mom
+  item: people/rubie-breitenberg-iv
+- 
+  type: relations/parental/mom
+  item: people/nolan-treutel
+- 
+  type: relations/parental/colleague
+  item: people/mrs-delpha-kuhn
+- 
+  type: relations/parental/friend
+  item: people/ms-marguerite-casper
+- 
+  type: relations/work/client
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/work/employer
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

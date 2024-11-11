@@ -1,0 +1,65 @@
+Title: Kallie Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/blaze-beer
+- 
+  type: relations/money/debtor
+  item: people/regan-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/viva-goyette
+- 
+  type: relations/money/debtor
+  item: people/gwen-tillman
+- 
+  type: relations/parental/mom
+  item: people/retha-miller
+- 
+  type: relations/parental/brosis
+  item: people/pedro-o-kon
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/client
+  item: companies/gleason-group
+- 
+  type: relations/money/debtor
+  item: companies/hamill-inc
+- 
+  type: relations/work/client
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

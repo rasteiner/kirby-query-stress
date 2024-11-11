@@ -1,0 +1,64 @@
+Title: Joan Conroy Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brendon-ryan-md
+- 
+  type: relations/parental/mom
+  item: people/derick-pollich
+- 
+  type: relations/money/creditor
+  item: people/dr-reginald-hoppe-md
+- 
+  type: relations/parental/mom
+  item: people/mr-jamison-breitenberg-md
+- 
+  type: relations/parental/dad
+  item: people/alexa-kertzmann
+- 
+  type: relations/parental/mom
+  item: people/dr-braxton-deckow-sr
+- 
+  type: relations/money/debtor
+  item: companies/homenick-plc
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/work/client
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

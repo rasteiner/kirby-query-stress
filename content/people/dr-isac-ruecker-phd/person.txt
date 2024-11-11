@@ -1,0 +1,64 @@
+Title: Dr. Isac Ruecker PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ebba-christiansen
+- 
+  type: relations/parental/brosis
+  item: people/kole-hyatt-sr
+- 
+  type: relations/parental/dad
+  item: people/dawson-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/annie-wyman
+- 
+  type: relations/parental/mom
+  item: people/mr-toney-wehner-v
+- 
+  type: relations/parental/mom
+  item: people/prof-coy-barton
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/employer
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,66 @@
+Title: Terrence Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/fannie-dare
+- 
+  type: relations/money/debtor
+  item: people/elta-stoltenberg
+- 
+  type: relations/parental/mom
+  item: people/doug-ledner
+- 
+  type: relations/parental/dad
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/money/debtor
+  item: people/garrett-kshlerin
+- 
+  type: relations/money/creditor
+  item: people/violet-jenkins
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

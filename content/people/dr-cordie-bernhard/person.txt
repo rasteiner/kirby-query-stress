@@ -1,0 +1,64 @@
+Title: Dr. Cordie Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ludwig-wehner
+- 
+  type: relations/parental/mom
+  item: people/cheyanne-wuckert
+- 
+  type: relations/parental/colleague
+  item: people/zack-abbott
+- 
+  type: relations/parental/mom
+  item: people/mafalda-cormier
+- 
+  type: relations/parental/mom
+  item: people/gabe-waters
+- 
+  type: relations/parental/dad
+  item: people/karson-glover
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/work/client
+  item: companies/brown-group
+- 
+  type: relations/work/employer
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

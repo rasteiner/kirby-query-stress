@@ -1,0 +1,64 @@
+Title: Mr. Keyshawn Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/karina-shields
+- 
+  type: relations/parental/friend
+  item: people/walker-wiza
+- 
+  type: relations/money/debtor
+  item: people/bradly-murphy
+- 
+  type: relations/money/creditor
+  item: people/lucinda-hermann
+- 
+  type: relations/parental/dad
+  item: people/dorothea-labadie-ii
+- 
+  type: relations/parental/mom
+  item: people/keeley-kulas-dvm
+- 
+  type: relations/work/employer
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/sporer-llc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

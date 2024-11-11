@@ -1,0 +1,64 @@
+Title: Miss Adelia Yost Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kavon-king
+- 
+  type: relations/parental/mom
+  item: people/prof-tod-haley-ii
+- 
+  type: relations/money/creditor
+  item: people/jeff-auer
+- 
+  type: relations/money/creditor
+  item: people/elijah-douglas
+- 
+  type: relations/parental/brosis
+  item: people/florence-conn
+- 
+  type: relations/parental/friend
+  item: people/dr-kassandra-block-md
+- 
+  type: relations/money/creditor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/client
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/client
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

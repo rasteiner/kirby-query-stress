@@ -1,0 +1,65 @@
+Title: Mathias Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/roma-wisozk-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-coy-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/mr-brock-weissnat-iii
+- 
+  type: relations/parental/dad
+  item: people/miss-abbey-cole-jr
+- 
+  type: relations/money/debtor
+  item: people/prof-chelsey-wolf
+- 
+  type: relations/parental/colleague
+  item: people/dr-vivien-crist
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/employer
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/debtor
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

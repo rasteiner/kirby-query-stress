@@ -1,0 +1,64 @@
+Title: Prof. Macie Gleichner MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/raoul-dickinson-dds
+- 
+  type: relations/money/creditor
+  item: people/amara-robel
+- 
+  type: relations/parental/friend
+  item: people/jammie-fahey
+- 
+  type: relations/parental/friend
+  item: people/florine-carter-dds
+- 
+  type: relations/parental/brosis
+  item: people/jarrett-hodkiewicz-phd
+- 
+  type: relations/money/debtor
+  item: people/tressie-price
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

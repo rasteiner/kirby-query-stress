@@ -1,0 +1,64 @@
+Title: Daniella Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/forrest-friesen
+- 
+  type: relations/parental/colleague
+  item: people/ephraim-langworth
+- 
+  type: relations/parental/colleague
+  item: people/vita-o-hara
+- 
+  type: relations/money/debtor
+  item: people/domenick-waelchi
+- 
+  type: relations/parental/colleague
+  item: people/isidro-bailey
+- 
+  type: relations/parental/brosis
+  item: people/nakia-stroman
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/employer
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

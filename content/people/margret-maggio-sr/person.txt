@@ -1,0 +1,64 @@
+Title: Margret Maggio Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/winnifred-hoppe
+- 
+  type: relations/parental/dad
+  item: people/carlie-ward
+- 
+  type: relations/money/creditor
+  item: people/bonnie-hammes
+- 
+  type: relations/parental/dad
+  item: people/maddison-jast-dvm
+- 
+  type: relations/parental/dad
+  item: people/frieda-emmerich
+- 
+  type: relations/parental/friend
+  item: people/warren-hessel
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/work/client
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/client
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

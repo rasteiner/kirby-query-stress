@@ -1,0 +1,64 @@
+Title: Lucinda Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mae-jenkins
+- 
+  type: relations/parental/mom
+  item: people/della-kohler-phd
+- 
+  type: relations/parental/colleague
+  item: people/erin-macejkovic
+- 
+  type: relations/money/creditor
+  item: people/miss-trycia-cartwright-sr
+- 
+  type: relations/parental/mom
+  item: people/alessia-tillman
+- 
+  type: relations/money/creditor
+  item: people/mr-amani-witting
+- 
+  type: relations/money/creditor
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/work/client
+  item: companies/kunze-ltd
+- 
+  type: relations/work/employer
+  item: companies/wilkinson-beahan
+- 
+  type: relations/work/client
+  item: companies/heaney-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

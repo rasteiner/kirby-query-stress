@@ -1,0 +1,64 @@
+Title: Brandy White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/augustine-toy
+- 
+  type: relations/parental/mom
+  item: people/shea-witting
+- 
+  type: relations/money/debtor
+  item: people/sandra-lindgren
+- 
+  type: relations/parental/friend
+  item: people/hollis-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/lazaro-nader
+- 
+  type: relations/money/creditor
+  item: people/tatyana-krajcik
+- 
+  type: relations/work/employer
+  item: companies/gerlach-group
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/employer
+  item: companies/schoen-reinger
+- 
+  type: relations/money/debtor
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

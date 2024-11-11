@@ -1,0 +1,64 @@
+Title: Nick Powlowski DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leonel-mante
+- 
+  type: relations/parental/friend
+  item: people/sienna-considine
+- 
+  type: relations/parental/colleague
+  item: people/aiden-pollich
+- 
+  type: relations/parental/colleague
+  item: people/maye-kerluke
+- 
+  type: relations/parental/friend
+  item: people/stewart-senger
+- 
+  type: relations/parental/dad
+  item: people/dr-stephanie-oberbrunner-dds
+- 
+  type: relations/work/employer
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/employer
+  item: companies/tremblay-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-plc
+- 
+  type: relations/work/client
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

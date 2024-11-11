@@ -1,0 +1,64 @@
+Title: Sheridan Boehm DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/sabrina-lubowitz
+- 
+  type: relations/money/debtor
+  item: people/sarah-aufderhar
+- 
+  type: relations/parental/mom
+  item: people/junior-keeling-sr
+- 
+  type: relations/parental/dad
+  item: people/dejuan-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/dr-brycen-anderson
+- 
+  type: relations/money/creditor
+  item: people/ignatius-mertz
+- 
+  type: relations/money/debtor
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/work/client
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

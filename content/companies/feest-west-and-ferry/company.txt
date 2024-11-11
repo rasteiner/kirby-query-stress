@@ -1,0 +1,43 @@
+Title: Feest, West and Ferry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-treutel
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt

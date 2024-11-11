@@ -1,0 +1,64 @@
+Title: Kaylee Conn III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cruz-marks-iv
+- 
+  type: relations/parental/friend
+  item: people/beatrice-lockman
+- 
+  type: relations/parental/colleague
+  item: people/scarlett-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/mr-tyler-hintz-dds
+- 
+  type: relations/parental/friend
+  item: people/anibal-lakin
+- 
+  type: relations/parental/brosis
+  item: people/emmett-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/client
+  item: companies/ratke-fay
+- 
+  type: relations/work/client
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

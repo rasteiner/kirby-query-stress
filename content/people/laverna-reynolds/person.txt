@@ -1,0 +1,64 @@
+Title: Laverna Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/zita-hoppe
+- 
+  type: relations/parental/friend
+  item: people/dr-tyler-nienow
+- 
+  type: relations/money/creditor
+  item: people/kadin-skiles
+- 
+  type: relations/parental/mom
+  item: people/destiney-purdy
+- 
+  type: relations/money/creditor
+  item: people/ms-noemy-barrows-phd
+- 
+  type: relations/parental/mom
+  item: people/elbert-schowalter
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/client
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

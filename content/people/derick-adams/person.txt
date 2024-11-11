@@ -1,0 +1,64 @@
+Title: Derick Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dorothea-o-kon-iv
+- 
+  type: relations/parental/colleague
+  item: people/adelbert-lubowitz-v
+- 
+  type: relations/money/debtor
+  item: people/mr-titus-mosciski-sr
+- 
+  type: relations/money/creditor
+  item: people/raleigh-mitchell
+- 
+  type: relations/money/debtor
+  item: people/blake-emmerich
+- 
+  type: relations/money/debtor
+  item: people/eddie-bradtke-jr
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/work/client
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

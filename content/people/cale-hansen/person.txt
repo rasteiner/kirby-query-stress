@@ -1,0 +1,64 @@
+Title: Cale Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/angus-windler
+- 
+  type: relations/money/creditor
+  item: people/arvilla-heller
+- 
+  type: relations/parental/friend
+  item: people/lia-kreiger
+- 
+  type: relations/parental/mom
+  item: people/ms-kaia-wolff
+- 
+  type: relations/parental/mom
+  item: people/mr-milan-hickle
+- 
+  type: relations/parental/colleague
+  item: people/haylie-muller
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/client
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/debtor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/debtor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

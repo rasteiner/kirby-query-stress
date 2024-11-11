@@ -1,0 +1,66 @@
+Title: Ruthie Powlowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-orlo-lemke-md
+- 
+  type: relations/money/creditor
+  item: people/cleora-schultz-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-gerson-thiel
+- 
+  type: relations/parental/friend
+  item: people/frieda-breitenberg-i
+- 
+  type: relations/parental/dad
+  item: people/adah-weber-jr
+- 
+  type: relations/money/creditor
+  item: people/floyd-grady
+- 
+  type: relations/money/debtor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/work/client
+  item: companies/wolff-ltd
+- 
+  type: relations/work/client
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

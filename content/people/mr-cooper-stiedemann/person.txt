@@ -1,0 +1,64 @@
+Title: Mr. Cooper Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-lonny-marquardt-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-arnoldo-dubuque-sr
+- 
+  type: relations/parental/friend
+  item: people/mr-jessy-durgan-dds
+- 
+  type: relations/money/debtor
+  item: people/tania-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/dr-richie-swaniawski-phd
+- 
+  type: relations/money/debtor
+  item: people/dr-monserrate-rodriguez-i
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/client
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

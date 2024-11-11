@@ -1,0 +1,64 @@
+Title: Ms. Violette Lehner Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lexi-gaylord
+- 
+  type: relations/parental/dad
+  item: people/franco-pfeffer
+- 
+  type: relations/money/creditor
+  item: people/prof-adam-stanton
+- 
+  type: relations/money/debtor
+  item: people/margarita-cronin-phd
+- 
+  type: relations/money/debtor
+  item: people/terence-thiel
+- 
+  type: relations/parental/friend
+  item: people/travis-parker
+- 
+  type: relations/work/employer
+  item: companies/roberts-mueller
+- 
+  type: relations/work/employer
+  item: companies/murphy-batz
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/client
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

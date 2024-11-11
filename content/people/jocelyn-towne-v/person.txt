@@ -1,0 +1,64 @@
+Title: Jocelyn Towne V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-brooklyn-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/krystel-purdy
+- 
+  type: relations/parental/mom
+  item: people/cassie-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/fidel-renner
+- 
+  type: relations/parental/mom
+  item: people/velva-volkman
+- 
+  type: relations/parental/mom
+  item: people/rory-lehner
+- 
+  type: relations/work/employer
+  item: companies/strosin-ltd
+- 
+  type: relations/work/client
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/employer
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

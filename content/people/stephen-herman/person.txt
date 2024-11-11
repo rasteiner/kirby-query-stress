@@ -1,0 +1,64 @@
+Title: Stephen Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/charity-kling-phd
+- 
+  type: relations/parental/dad
+  item: people/dr-monica-prohaska-sr
+- 
+  type: relations/parental/brosis
+  item: people/justen-schoen
+- 
+  type: relations/money/debtor
+  item: people/darrick-huels
+- 
+  type: relations/money/creditor
+  item: people/annabell-bins-sr
+- 
+  type: relations/parental/colleague
+  item: people/agustina-kohler
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/employer
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

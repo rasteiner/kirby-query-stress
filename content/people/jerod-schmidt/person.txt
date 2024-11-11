@@ -1,0 +1,64 @@
+Title: Jerod Schmidt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-cyril-volkman-dds
+- 
+  type: relations/parental/mom
+  item: people/marcellus-o-connell-v
+- 
+  type: relations/parental/brosis
+  item: people/cleveland-gleichner
+- 
+  type: relations/parental/dad
+  item: people/mrs-enola-hansen-jr
+- 
+  type: relations/money/debtor
+  item: people/dr-baylee-purdy-v
+- 
+  type: relations/money/debtor
+  item: people/mrs-norene-heathcote
+- 
+  type: relations/work/employer
+  item: companies/mertz-stracke
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-llc
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

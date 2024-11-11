@@ -1,0 +1,64 @@
+Title: Karson Goodwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/art-bernhard
+- 
+  type: relations/money/creditor
+  item: people/bonnie-stroman
+- 
+  type: relations/parental/brosis
+  item: people/catharine-upton
+- 
+  type: relations/parental/mom
+  item: people/valerie-shanahan
+- 
+  type: relations/parental/colleague
+  item: people/mr-pedro-hills-iv
+- 
+  type: relations/parental/mom
+  item: people/marquise-greenfelder-jr
+- 
+  type: relations/work/employer
+  item: companies/o-conner-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/client
+  item: companies/littel-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

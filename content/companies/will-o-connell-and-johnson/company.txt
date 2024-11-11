@@ -1,0 +1,43 @@
+Title: Will, O'Connell and Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/creditor
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/abshire-group
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/marjoryland

@@ -1,0 +1,64 @@
+Title: Cleora Dooley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lon-schuster-jr
+- 
+  type: relations/parental/dad
+  item: people/mrs-mabelle-parisian
+- 
+  type: relations/parental/friend
+  item: people/abel-schneider
+- 
+  type: relations/money/debtor
+  item: people/penelope-bartoletti-iii
+- 
+  type: relations/parental/brosis
+  item: people/elnora-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/aniyah-mante
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

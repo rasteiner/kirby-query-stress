@@ -1,0 +1,64 @@
+Title: Jaida Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shayna-franecki
+- 
+  type: relations/money/debtor
+  item: people/roy-hettinger
+- 
+  type: relations/parental/colleague
+  item: people/albertha-murphy
+- 
+  type: relations/money/creditor
+  item: people/dillon-lynch-v
+- 
+  type: relations/money/debtor
+  item: people/lela-reichert
+- 
+  type: relations/parental/colleague
+  item: people/dr-stefan-rath
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

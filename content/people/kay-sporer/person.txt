@@ -1,0 +1,65 @@
+Title: Kay Sporer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/buck-erdman
+- 
+  type: relations/parental/colleague
+  item: people/prof-mervin-renner
+- 
+  type: relations/money/debtor
+  item: people/berry-osinski
+- 
+  type: relations/parental/dad
+  item: people/franco-mcdermott
+- 
+  type: relations/parental/mom
+  item: people/casandra-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/melany-feeney-ii
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

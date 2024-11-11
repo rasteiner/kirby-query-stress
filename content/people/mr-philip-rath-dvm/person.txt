@@ -1,0 +1,64 @@
+Title: Mr. Philip Rath DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lina-harvey
+- 
+  type: relations/parental/mom
+  item: people/scarlett-stanton
+- 
+  type: relations/parental/colleague
+  item: people/ms-dakota-mclaughlin-iv
+- 
+  type: relations/parental/colleague
+  item: people/ewell-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/dr-autumn-o-connell
+- 
+  type: relations/parental/friend
+  item: people/dr-otilia-bauch-sr
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

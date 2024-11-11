@@ -1,0 +1,65 @@
+Title: Elton Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/baby-hand
+- 
+  type: relations/parental/colleague
+  item: people/fannie-koepp-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-esperanza-block-dds
+- 
+  type: relations/parental/dad
+  item: people/ruby-trantow
+- 
+  type: relations/money/debtor
+  item: people/lysanne-aufderhar
+- 
+  type: relations/parental/colleague
+  item: people/august-schultz-jr
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/employer
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/bogan-mertz
+- 
+  type: relations/work/employer
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Jasen Abernathy Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-magali-kassulke-md
+- 
+  type: relations/money/creditor
+  item: people/ms-lilyan-roberts
+- 
+  type: relations/parental/colleague
+  item: people/ryann-o-reilly
+- 
+  type: relations/parental/colleague
+  item: people/ms-estelle-lebsack-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-eusebio-harvey
+- 
+  type: relations/parental/mom
+  item: people/mallie-prosacco
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/creditor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/debtor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

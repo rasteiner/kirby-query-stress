@@ -1,0 +1,64 @@
+Title: Tabitha Schmitt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jamel-ernser
+- 
+  type: relations/money/creditor
+  item: people/devonte-skiles
+- 
+  type: relations/parental/mom
+  item: people/martina-armstrong
+- 
+  type: relations/money/creditor
+  item: people/prof-wendy-gleason-iii
+- 
+  type: relations/parental/colleague
+  item: people/dr-cedrick-konopelski-i
+- 
+  type: relations/parental/friend
+  item: people/luis-pfannerstill-md
+- 
+  type: relations/work/client
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/employer
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/client
+  item: companies/walsh-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

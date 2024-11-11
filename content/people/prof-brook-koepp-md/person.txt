@@ -1,0 +1,64 @@
+Title: Prof. Brook Koepp MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nikolas-wunsch
+- 
+  type: relations/parental/mom
+  item: people/camille-raynor
+- 
+  type: relations/parental/colleague
+  item: people/everette-boyle
+- 
+  type: relations/parental/mom
+  item: people/dr-hadley-volkman
+- 
+  type: relations/parental/brosis
+  item: people/mrs-rhoda-schultz
+- 
+  type: relations/parental/dad
+  item: people/ike-zemlak
+- 
+  type: relations/work/employer
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

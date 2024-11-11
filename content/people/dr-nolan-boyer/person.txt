@@ -1,0 +1,65 @@
+Title: Dr. Nolan Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-creola-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/roma-cremin
+- 
+  type: relations/parental/colleague
+  item: people/daryl-schinner
+- 
+  type: relations/parental/dad
+  item: people/america-leffler
+- 
+  type: relations/parental/friend
+  item: people/prof-keon-keebler
+- 
+  type: relations/parental/dad
+  item: people/chelsey-reinger
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

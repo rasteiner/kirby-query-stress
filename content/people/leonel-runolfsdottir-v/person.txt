@@ -1,0 +1,64 @@
+Title: Leonel Runolfsdottir V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bradford-hansen
+- 
+  type: relations/parental/colleague
+  item: people/delia-hirthe
+- 
+  type: relations/money/creditor
+  item: people/german-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/evelyn-brekke
+- 
+  type: relations/parental/mom
+  item: people/jonathan-considine-v
+- 
+  type: relations/parental/brosis
+  item: people/dixie-carroll
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/metz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,44 @@
+Title: Olson, Cassin and Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/koch-ltd
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/brycebury

@@ -1,0 +1,64 @@
+Title: Jay Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-myrtle-trantow
+- 
+  type: relations/parental/friend
+  item: people/bella-metz
+- 
+  type: relations/parental/colleague
+  item: people/ettie-stark
+- 
+  type: relations/parental/colleague
+  item: people/mr-kim-nitzsche-sr
+- 
+  type: relations/parental/mom
+  item: people/connie-goodwin
+- 
+  type: relations/money/debtor
+  item: people/miss-amira-fritsch-iv
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

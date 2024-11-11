@@ -1,0 +1,64 @@
+Title: Burley Jones
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/margaretta-cassin
+- 
+  type: relations/parental/dad
+  item: people/alvina-kohler
+- 
+  type: relations/parental/dad
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/money/creditor
+  item: people/prof-shakira-champlin
+- 
+  type: relations/money/creditor
+  item: people/christina-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/work/client
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Everardo Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lulu-champlin
+- 
+  type: relations/money/creditor
+  item: people/trisha-hagenes
+- 
+  type: relations/parental/friend
+  item: people/ayden-reichert
+- 
+  type: relations/parental/brosis
+  item: people/leland-fay
+- 
+  type: relations/parental/mom
+  item: people/miss-domenica-klocko-ii
+- 
+  type: relations/money/creditor
+  item: people/dolly-zemlak
+- 
+  type: relations/money/debtor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/employer
+  item: companies/tremblay-group
+- 
+  type: relations/work/employer
+  item: companies/windler-plc
+- 
+  type: relations/work/employer
+  item: companies/block-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

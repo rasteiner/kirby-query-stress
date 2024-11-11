@@ -1,0 +1,43 @@
+Title: Davis-Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/mraz-kub
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/creditor
+  item: companies/rippin-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/dicki-armstrong
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/reingertown
+- 
+  type: relations/location/visited
+  item: places/new-aylastad

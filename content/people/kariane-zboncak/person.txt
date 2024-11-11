@@ -1,0 +1,64 @@
+Title: Kariane Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/gertrude-kohler
+- 
+  type: relations/money/debtor
+  item: people/vallie-littel
+- 
+  type: relations/parental/brosis
+  item: people/avery-hayes
+- 
+  type: relations/parental/friend
+  item: people/sydni-balistreri
+- 
+  type: relations/parental/brosis
+  item: people/mr-zion-schumm
+- 
+  type: relations/parental/mom
+  item: people/brandyn-walsh-ii
+- 
+  type: relations/work/employer
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/employer
+  item: companies/jacobi-inc
+- 
+  type: relations/money/creditor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/client
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

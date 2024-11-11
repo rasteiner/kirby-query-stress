@@ -1,0 +1,64 @@
+Title: Mrs. Marcella Lynch PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/faustino-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/vilma-o-connell-phd
+- 
+  type: relations/money/debtor
+  item: people/else-lesch-i
+- 
+  type: relations/parental/mom
+  item: people/peter-thompson-iv
+- 
+  type: relations/parental/friend
+  item: people/rosamond-konopelski
+- 
+  type: relations/money/creditor
+  item: people/prof-laurel-rice-dds
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

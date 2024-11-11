@@ -1,0 +1,64 @@
+Title: Soledad Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-ryan-swift
+- 
+  type: relations/money/debtor
+  item: people/clay-doyle
+- 
+  type: relations/parental/mom
+  item: people/lindsey-hagenes
+- 
+  type: relations/parental/friend
+  item: people/leonel-becker
+- 
+  type: relations/parental/dad
+  item: people/zander-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/miss-chaya-armstrong
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/work/employer
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

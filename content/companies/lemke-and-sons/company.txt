@@ -1,0 +1,43 @@
+Title: Lemke and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-group
+- 
+  type: relations/money/creditor
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-rosetta

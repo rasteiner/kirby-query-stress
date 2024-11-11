@@ -1,0 +1,64 @@
+Title: Miss Mikayla Bayer IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/janick-schuppe
+- 
+  type: relations/parental/colleague
+  item: people/pasquale-gleason
+- 
+  type: relations/parental/brosis
+  item: people/miss-bianka-hahn
+- 
+  type: relations/parental/friend
+  item: people/kim-crooks
+- 
+  type: relations/money/debtor
+  item: people/beverly-spinka
+- 
+  type: relations/parental/dad
+  item: people/ms-mattie-mckenzie-ii
+- 
+  type: relations/work/employer
+  item: companies/pollich-watsica
+- 
+  type: relations/work/client
+  item: companies/huel-sipes
+- 
+  type: relations/work/client
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

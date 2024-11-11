@@ -1,0 +1,64 @@
+Title: Miss Trycia Cartwright Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/parental/colleague
+  item: people/raheem-leffler
+- 
+  type: relations/parental/brosis
+  item: people/reva-kohler
+- 
+  type: relations/parental/mom
+  item: people/madeline-leuschke
+- 
+  type: relations/parental/colleague
+  item: people/prof-dawson-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/ofelia-vonrueden
+- 
+  type: relations/work/employer
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/work/client
+  item: companies/thiel-inc
+- 
+  type: relations/work/client
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

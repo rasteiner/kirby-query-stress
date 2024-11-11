@@ -1,0 +1,64 @@
+Title: Nathanael Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anita-gutmann
+- 
+  type: relations/money/creditor
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/parental/mom
+  item: people/dameon-schuster
+- 
+  type: relations/parental/colleague
+  item: people/garrison-will
+- 
+  type: relations/parental/mom
+  item: people/dr-derrick-schaefer-dvm
+- 
+  type: relations/parental/friend
+  item: people/eleanore-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/littel-armstrong
+- 
+  type: relations/work/employer
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

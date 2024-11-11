@@ -1,0 +1,64 @@
+Title: Cecil Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-dahlia-feeney-ii
+- 
+  type: relations/parental/dad
+  item: people/stewart-kuhn-dvm
+- 
+  type: relations/parental/brosis
+  item: people/ashlynn-herzog
+- 
+  type: relations/parental/friend
+  item: people/pattie-cassin
+- 
+  type: relations/parental/friend
+  item: people/milo-hessel
+- 
+  type: relations/parental/brosis
+  item: people/joanny-smitham
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-plc
+- 
+  type: relations/work/client
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/creditor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

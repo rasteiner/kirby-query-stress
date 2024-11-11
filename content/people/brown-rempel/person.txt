@@ -1,0 +1,64 @@
+Title: Brown Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/shyanne-feeney
+- 
+  type: relations/parental/dad
+  item: people/shany-torphy
+- 
+  type: relations/parental/colleague
+  item: people/miss-ena-metz-sr
+- 
+  type: relations/parental/mom
+  item: people/mrs-ettie-treutel-phd
+- 
+  type: relations/parental/colleague
+  item: people/mr-adrien-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/delpha-rutherford-dds
+- 
+  type: relations/work/client
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

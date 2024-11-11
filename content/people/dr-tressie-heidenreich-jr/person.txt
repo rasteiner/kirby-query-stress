@@ -1,0 +1,64 @@
+Title: Dr. Tressie Heidenreich Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-autumn-o-connell
+- 
+  type: relations/parental/colleague
+  item: people/dr-otilia-bauch-sr
+- 
+  type: relations/parental/dad
+  item: people/lexus-moore-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-anderson-donnelly-sr
+- 
+  type: relations/money/debtor
+  item: people/rene-streich
+- 
+  type: relations/parental/brosis
+  item: people/prof-donna-west
+- 
+  type: relations/work/employer
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/work/employer
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

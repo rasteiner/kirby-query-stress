@@ -1,0 +1,64 @@
+Title: Jermaine Gusikowski DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mallory-larson
+- 
+  type: relations/parental/mom
+  item: people/muriel-bednar
+- 
+  type: relations/parental/friend
+  item: people/pascale-welch
+- 
+  type: relations/money/debtor
+  item: people/kobe-schoen-md
+- 
+  type: relations/parental/friend
+  item: people/jade-bruen
+- 
+  type: relations/money/creditor
+  item: people/leone-walter
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

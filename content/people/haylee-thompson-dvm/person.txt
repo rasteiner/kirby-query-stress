@@ -1,0 +1,64 @@
+Title: Haylee Thompson DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lura-sipes
+- 
+  type: relations/money/debtor
+  item: people/dr-lela-senger-i
+- 
+  type: relations/parental/friend
+  item: people/christiana-kuhic
+- 
+  type: relations/money/creditor
+  item: people/turner-casper
+- 
+  type: relations/parental/dad
+  item: people/elnora-schulist-iv
+- 
+  type: relations/money/debtor
+  item: people/dasia-jenkins
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/employer
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

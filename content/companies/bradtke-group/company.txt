@@ -1,0 +1,43 @@
+Title: Bradtke Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/flatley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-inc
+- 
+  type: relations/money/creditor
+  item: companies/beahan-sauer
+- 
+  type: relations/money/debtor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/ferry-carter
+- 
+  type: relations/money/debtor
+  item: companies/yost-o-conner
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/hettingermouth

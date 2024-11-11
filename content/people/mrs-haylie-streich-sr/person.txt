@@ -1,0 +1,64 @@
+Title: Mrs. Haylie Streich Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/juwan-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/mrs-kirstin-marquardt-i
+- 
+  type: relations/money/debtor
+  item: people/adam-spinka
+- 
+  type: relations/parental/colleague
+  item: people/erna-kertzmann-i
+- 
+  type: relations/parental/colleague
+  item: people/sadie-gerlach-dvm
+- 
+  type: relations/money/debtor
+  item: people/lacey-schmidt-phd
+- 
+  type: relations/money/debtor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/employer
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

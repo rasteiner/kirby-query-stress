@@ -1,0 +1,64 @@
+Title: Jesus Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/trey-heaney-md
+- 
+  type: relations/parental/dad
+  item: people/valentina-reichel
+- 
+  type: relations/parental/colleague
+  item: people/dr-edd-keeling
+- 
+  type: relations/parental/brosis
+  item: people/alexander-hoeger
+- 
+  type: relations/parental/dad
+  item: people/katelyn-kozey
+- 
+  type: relations/parental/colleague
+  item: people/mr-rey-beier-i
+- 
+  type: relations/money/creditor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/employer
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/work/client
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

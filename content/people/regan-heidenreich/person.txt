@@ -1,0 +1,64 @@
+Title: Regan Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-madeline-will-jr
+- 
+  type: relations/parental/colleague
+  item: people/randall-kemmer
+- 
+  type: relations/money/debtor
+  item: people/elenora-donnelly-dvm
+- 
+  type: relations/parental/dad
+  item: people/ms-aurore-gerlach
+- 
+  type: relations/parental/mom
+  item: people/jordyn-pagac
+- 
+  type: relations/parental/colleague
+  item: people/marielle-kerluke
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/money/debtor
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

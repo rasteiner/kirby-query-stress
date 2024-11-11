@@ -1,0 +1,64 @@
+Title: Ms. Mona Waelchi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/etha-thiel
+- 
+  type: relations/parental/friend
+  item: people/ms-hertha-douglas-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-guiseppe-mclaughlin
+- 
+  type: relations/parental/dad
+  item: people/dexter-veum
+- 
+  type: relations/parental/dad
+  item: people/oral-zemlak
+- 
+  type: relations/parental/friend
+  item: people/dr-grover-langosh
+- 
+  type: relations/money/creditor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/creditor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

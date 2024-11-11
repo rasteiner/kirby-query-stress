@@ -1,0 +1,64 @@
+Title: Verla Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cassidy-kertzmann
+- 
+  type: relations/parental/mom
+  item: people/zelda-daniel
+- 
+  type: relations/parental/mom
+  item: people/bennett-schuster
+- 
+  type: relations/parental/brosis
+  item: people/vinnie-fisher-sr
+- 
+  type: relations/money/creditor
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/dad
+  item: people/bailey-raynor
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Dejuan Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/destini-crist-md
+- 
+  type: relations/money/debtor
+  item: people/mr-waylon-pacocha-i
+- 
+  type: relations/parental/colleague
+  item: people/jacques-prosacco-dvm
+- 
+  type: relations/parental/brosis
+  item: people/shaun-wyman
+- 
+  type: relations/parental/brosis
+  item: people/curt-hilll
+- 
+  type: relations/parental/colleague
+  item: people/tommie-jacobson
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Cornelius Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-maria-metz-jr
+- 
+  type: relations/parental/brosis
+  item: people/meagan-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/benjamin-jacobson
+- 
+  type: relations/parental/friend
+  item: people/dr-laverne-beahan
+- 
+  type: relations/money/debtor
+  item: people/jamel-ernser
+- 
+  type: relations/parental/colleague
+  item: people/devonte-skiles
+- 
+  type: relations/work/employer
+  item: companies/schamberger-group
+- 
+  type: relations/money/creditor
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/work/employer
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Prof. Jett Lakin DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-esperanza-block-dds
+- 
+  type: relations/parental/friend
+  item: people/ruby-trantow
+- 
+  type: relations/parental/brosis
+  item: people/lysanne-aufderhar
+- 
+  type: relations/money/creditor
+  item: people/august-schultz-jr
+- 
+  type: relations/parental/friend
+  item: people/mrs-dahlia-feeney-ii
+- 
+  type: relations/parental/colleague
+  item: people/stewart-kuhn-dvm
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

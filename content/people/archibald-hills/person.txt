@@ -1,0 +1,64 @@
+Title: Archibald Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leone-conn-phd
+- 
+  type: relations/parental/brosis
+  item: people/destiney-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/loyal-block
+- 
+  type: relations/parental/colleague
+  item: people/adolph-lockman
+- 
+  type: relations/parental/friend
+  item: people/mariano-kunde-i
+- 
+  type: relations/parental/mom
+  item: people/laurine-oberbrunner-ii
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/work/client
+  item: companies/murphy-batz
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

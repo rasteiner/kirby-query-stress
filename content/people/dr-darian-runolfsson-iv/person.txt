@@ -1,0 +1,64 @@
+Title: Dr. Darian Runolfsson IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/barrett-klocko
+- 
+  type: relations/parental/colleague
+  item: people/mr-oswaldo-herzog-v
+- 
+  type: relations/parental/dad
+  item: people/hilbert-schumm
+- 
+  type: relations/money/debtor
+  item: people/ashlynn-will
+- 
+  type: relations/parental/mom
+  item: people/alexis-davis
+- 
+  type: relations/parental/brosis
+  item: people/rebekah-bahringer
+- 
+  type: relations/work/employer
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/schimmel-inc
+- 
+  type: relations/work/employer
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/work/employer
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

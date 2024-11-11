@@ -1,0 +1,43 @@
+Title: Crona LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/creditor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/howell-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/debtor
+  item: companies/pollich-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/new-cooper

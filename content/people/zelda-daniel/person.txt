@@ -1,0 +1,64 @@
+Title: Zelda Daniel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gretchen-steuber
+- 
+  type: relations/parental/mom
+  item: people/noemy-klocko
+- 
+  type: relations/money/creditor
+  item: people/maddison-huels
+- 
+  type: relations/parental/brosis
+  item: people/isaias-watsica
+- 
+  type: relations/parental/colleague
+  item: people/dr-jasper-hudson-v
+- 
+  type: relations/parental/dad
+  item: people/veronica-metz
+- 
+  type: relations/work/employer
+  item: companies/ryan-little
+- 
+  type: relations/money/debtor
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Nathen White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-etha-tromp-phd
+- 
+  type: relations/parental/brosis
+  item: people/jayson-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/miss-catherine-kuhic
+- 
+  type: relations/money/creditor
+  item: people/annabelle-leffler
+- 
+  type: relations/parental/mom
+  item: people/dr-riley-bechtelar
+- 
+  type: relations/money/debtor
+  item: people/rahul-ferry-i
+- 
+  type: relations/work/client
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/creditor
+  item: companies/welch-borer
+- 
+  type: relations/money/creditor
+  item: companies/pollich-ltd
+- 
+  type: relations/work/employer
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

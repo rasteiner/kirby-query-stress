@@ -1,0 +1,64 @@
+Title: Alta Baumbach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/colby-corwin
+- 
+  type: relations/parental/friend
+  item: people/henri-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/vivienne-hackett
+- 
+  type: relations/money/debtor
+  item: people/maribel-legros
+- 
+  type: relations/parental/dad
+  item: people/sheridan-feeney
+- 
+  type: relations/parental/colleague
+  item: people/hobart-koch
+- 
+  type: relations/money/creditor
+  item: companies/towne-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/keebler-treutel
+- 
+  type: relations/work/employer
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

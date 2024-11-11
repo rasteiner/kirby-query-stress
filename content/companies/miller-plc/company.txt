@@ -1,0 +1,43 @@
+Title: Miller PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/haley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/durgan-baumbach
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg

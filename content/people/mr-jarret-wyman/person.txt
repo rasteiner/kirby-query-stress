@@ -1,0 +1,65 @@
+Title: Mr. Jarret Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-myrl-huel
+- 
+  type: relations/parental/colleague
+  item: people/prof-susana-johnston
+- 
+  type: relations/parental/mom
+  item: people/kathryn-cummerata
+- 
+  type: relations/parental/mom
+  item: people/alaina-hane
+- 
+  type: relations/parental/dad
+  item: people/lila-will
+- 
+  type: relations/parental/brosis
+  item: people/neoma-casper
+- 
+  type: relations/work/employer
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/client
+  item: companies/yost-llc
+- 
+  type: relations/work/employer
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

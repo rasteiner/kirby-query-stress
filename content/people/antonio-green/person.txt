@@ -1,0 +1,64 @@
+Title: Antonio Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/deontae-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/dr-myrl-feil
+- 
+  type: relations/parental/dad
+  item: people/abigail-cormier
+- 
+  type: relations/money/creditor
+  item: people/marilie-wintheiser-iv
+- 
+  type: relations/parental/brosis
+  item: people/earnestine-schultz
+- 
+  type: relations/parental/mom
+  item: people/ellen-hauck-dds
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/money/creditor
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

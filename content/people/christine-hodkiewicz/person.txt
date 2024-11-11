@@ -1,0 +1,64 @@
+Title: Christine Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-jammie-orn-ii
+- 
+  type: relations/money/creditor
+  item: people/kevin-hintz
+- 
+  type: relations/parental/friend
+  item: people/lemuel-white
+- 
+  type: relations/parental/mom
+  item: people/esmeralda-lynch
+- 
+  type: relations/money/debtor
+  item: people/kaya-moen
+- 
+  type: relations/parental/dad
+  item: people/emmy-larkin
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-roob
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

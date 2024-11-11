@@ -1,0 +1,64 @@
+Title: Miss Rosemary Howe II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dylan-block
+- 
+  type: relations/parental/colleague
+  item: people/mr-cordelia-morar-sr
+- 
+  type: relations/parental/friend
+  item: people/brandi-nolan
+- 
+  type: relations/money/debtor
+  item: people/shakira-west
+- 
+  type: relations/parental/friend
+  item: people/myah-wiegand
+- 
+  type: relations/money/debtor
+  item: people/monte-mccullough
+- 
+  type: relations/work/client
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/client
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

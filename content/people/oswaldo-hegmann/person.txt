@@ -1,0 +1,64 @@
+Title: Oswaldo Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ola-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/gust-kuhlman-iii
+- 
+  type: relations/parental/colleague
+  item: people/loyal-rowe
+- 
+  type: relations/parental/dad
+  item: people/mr-jaydon-kuhic
+- 
+  type: relations/parental/colleague
+  item: people/alanna-kulas
+- 
+  type: relations/money/debtor
+  item: people/dagmar-gislason-md
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

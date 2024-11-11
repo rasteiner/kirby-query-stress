@@ -1,0 +1,64 @@
+Title: Dr. Trisha Haag
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/justyn-beer
+- 
+  type: relations/money/debtor
+  item: people/dr-alexie-jerde
+- 
+  type: relations/parental/colleague
+  item: people/jo-schmitt
+- 
+  type: relations/parental/mom
+  item: people/miss-lottie-wehner
+- 
+  type: relations/money/creditor
+  item: people/alia-hintz
+- 
+  type: relations/money/debtor
+  item: people/dr-danny-bechtelar-i
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/work/client
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

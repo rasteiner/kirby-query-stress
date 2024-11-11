@@ -1,0 +1,64 @@
+Title: Hardy Littel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-tyra-reinger-sr
+- 
+  type: relations/parental/mom
+  item: people/ali-morar
+- 
+  type: relations/parental/friend
+  item: people/marilie-franecki
+- 
+  type: relations/parental/mom
+  item: people/lane-lubowitz
+- 
+  type: relations/parental/mom
+  item: people/katelin-zulauf
+- 
+  type: relations/parental/mom
+  item: people/mr-bo-gusikowski-iii
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

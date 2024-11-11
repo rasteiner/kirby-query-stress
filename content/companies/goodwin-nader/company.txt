@@ -1,0 +1,43 @@
+Title: Goodwin-Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/new-selmer
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/south-emerson

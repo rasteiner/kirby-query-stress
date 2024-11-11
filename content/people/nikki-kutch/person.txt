@@ -1,0 +1,64 @@
+Title: Nikki Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carmine-zboncak
+- 
+  type: relations/parental/mom
+  item: people/alene-green
+- 
+  type: relations/money/debtor
+  item: people/dr-micah-lind-i
+- 
+  type: relations/money/debtor
+  item: people/linwood-bahringer
+- 
+  type: relations/parental/mom
+  item: people/angelina-jones
+- 
+  type: relations/parental/colleague
+  item: people/wilber-boyer
+- 
+  type: relations/money/debtor
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/work/employer
+  item: companies/huels-hintz
+- 
+  type: relations/work/client
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

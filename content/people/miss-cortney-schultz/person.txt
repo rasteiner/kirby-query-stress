@@ -1,0 +1,64 @@
+Title: Miss Cortney Schultz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kendall-schoen
+- 
+  type: relations/parental/friend
+  item: people/ottis-lynch-v
+- 
+  type: relations/money/creditor
+  item: people/arthur-hermann
+- 
+  type: relations/parental/friend
+  item: people/patsy-conn-phd
+- 
+  type: relations/money/creditor
+  item: people/zackary-mertz
+- 
+  type: relations/parental/colleague
+  item: people/mr-wilton-conn-iii
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/daniel-group
+- 
+  type: relations/money/debtor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

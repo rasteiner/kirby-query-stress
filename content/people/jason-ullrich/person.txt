@@ -1,0 +1,64 @@
+Title: Jason Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/viviane-fadel-ii
+- 
+  type: relations/parental/colleague
+  item: people/anabel-hilpert-iii
+- 
+  type: relations/money/debtor
+  item: people/reilly-goyette-dvm
+- 
+  type: relations/parental/colleague
+  item: people/kendra-corkery
+- 
+  type: relations/parental/brosis
+  item: people/ludie-o-kon-phd
+- 
+  type: relations/parental/colleague
+  item: people/jaydon-hilll-iv
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

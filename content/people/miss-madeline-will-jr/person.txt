@@ -1,0 +1,64 @@
+Title: Miss Madeline Will Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/samara-homenick
+- 
+  type: relations/money/debtor
+  item: people/dr-jed-mccullough
+- 
+  type: relations/parental/colleague
+  item: people/prof-charley-fadel
+- 
+  type: relations/parental/friend
+  item: people/nona-walter
+- 
+  type: relations/parental/colleague
+  item: people/miss-kyra-romaguera-sr
+- 
+  type: relations/money/debtor
+  item: people/ashlee-roberts
+- 
+  type: relations/work/employer
+  item: companies/bashirian-veum
+- 
+  type: relations/work/client
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Mr. Laurel Daniel MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/geovanny-torp
+- 
+  type: relations/money/debtor
+  item: people/anthony-corwin
+- 
+  type: relations/money/debtor
+  item: people/marisol-collier-md
+- 
+  type: relations/parental/dad
+  item: people/german-reilly
+- 
+  type: relations/parental/mom
+  item: people/price-rolfson
+- 
+  type: relations/parental/brosis
+  item: people/eliane-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/wiza-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Maud Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keven-skiles
+- 
+  type: relations/parental/brosis
+  item: people/shania-schaefer-dvm
+- 
+  type: relations/parental/friend
+  item: people/kory-schmitt-ii
+- 
+  type: relations/parental/brosis
+  item: people/gay-flatley-v
+- 
+  type: relations/parental/brosis
+  item: people/jeffry-collier-sr
+- 
+  type: relations/money/creditor
+  item: people/leonardo-cartwright-dvm
+- 
+  type: relations/work/employer
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/work/client
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

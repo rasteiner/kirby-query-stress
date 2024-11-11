@@ -1,0 +1,65 @@
+Title: Rebekah Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/melody-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/mohammed-pfannerstill
+- 
+  type: relations/money/debtor
+  item: people/orie-koch
+- 
+  type: relations/parental/mom
+  item: people/amara-haley
+- 
+  type: relations/parental/colleague
+  item: people/dr-daisy-sanford-dvm
+- 
+  type: relations/parental/friend
+  item: people/noemie-rempel
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/client
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

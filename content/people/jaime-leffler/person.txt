@@ -1,0 +1,64 @@
+Title: Jaime Leffler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/daniella-abshire
+- 
+  type: relations/parental/mom
+  item: people/prof-holden-schroeder
+- 
+  type: relations/parental/mom
+  item: people/micaela-weissnat-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-laurel-daniel-md
+- 
+  type: relations/parental/friend
+  item: people/clint-grady
+- 
+  type: relations/parental/colleague
+  item: people/amparo-kutch-i
+- 
+  type: relations/money/debtor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

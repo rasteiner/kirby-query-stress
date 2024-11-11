@@ -1,0 +1,64 @@
+Title: Katrine Nikolaus II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kenya-tremblay
+- 
+  type: relations/parental/dad
+  item: people/prof-adonis-kassulke
+- 
+  type: relations/parental/brosis
+  item: people/miller-torp
+- 
+  type: relations/parental/mom
+  item: people/citlalli-gleason
+- 
+  type: relations/parental/dad
+  item: people/prof-trenton-langworth-i
+- 
+  type: relations/money/debtor
+  item: people/colleen-gislason
+- 
+  type: relations/work/client
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/debtor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

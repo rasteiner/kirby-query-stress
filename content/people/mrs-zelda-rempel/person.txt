@@ -1,0 +1,64 @@
+Title: Mrs. Zelda Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tyreek-hilpert
+- 
+  type: relations/parental/friend
+  item: people/yadira-herman-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-dock-ruecker
+- 
+  type: relations/parental/dad
+  item: people/vesta-walsh-dds
+- 
+  type: relations/parental/colleague
+  item: people/cordia-hermiston
+- 
+  type: relations/money/debtor
+  item: people/dr-joey-hackett
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

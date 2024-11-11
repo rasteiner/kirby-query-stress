@@ -1,0 +1,65 @@
+Title: Nikolas Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-lina-bahringer-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-raymundo-schmidt
+- 
+  type: relations/parental/colleague
+  item: people/nya-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/flavio-keeling
+- 
+  type: relations/parental/colleague
+  item: people/dr-cortney-green
+- 
+  type: relations/parental/friend
+  item: people/junior-cremin
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/debtor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

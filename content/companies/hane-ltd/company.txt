@@ -1,0 +1,43 @@
+Title: Hane Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/debtor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh

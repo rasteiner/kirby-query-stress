@@ -1,0 +1,43 @@
+Title: Nicolas, Rath and O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/north-dallin

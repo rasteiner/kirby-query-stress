@@ -1,0 +1,65 @@
+Title: Prof. Emmanuelle Bailey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/clare-abshire
+- 
+  type: relations/parental/friend
+  item: people/mrs-megane-reichel-v
+- 
+  type: relations/money/creditor
+  item: people/layne-walter
+- 
+  type: relations/parental/friend
+  item: people/mertie-hackett
+- 
+  type: relations/parental/mom
+  item: people/myrtice-casper
+- 
+  type: relations/money/debtor
+  item: people/prof-juliana-beahan
+- 
+  type: relations/money/debtor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/work/client
+  item: companies/schiller-gerlach
+- 
+  type: relations/work/employer
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

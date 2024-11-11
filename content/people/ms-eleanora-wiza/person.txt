@@ -1,0 +1,64 @@
+Title: Ms. Eleanora Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lemuel-hahn
+- 
+  type: relations/parental/friend
+  item: people/pascale-collins
+- 
+  type: relations/parental/mom
+  item: people/lilyan-schoen-iii
+- 
+  type: relations/money/creditor
+  item: people/prof-tad-schmidt-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-retha-kub
+- 
+  type: relations/parental/friend
+  item: people/lucy-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

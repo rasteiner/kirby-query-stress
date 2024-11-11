@@ -1,0 +1,64 @@
+Title: Dr. Linnea King PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/vernie-beahan-sr
+- 
+  type: relations/money/debtor
+  item: people/deshaun-lehner
+- 
+  type: relations/money/debtor
+  item: people/alberto-wintheiser-dvm
+- 
+  type: relations/money/debtor
+  item: people/lorenz-price
+- 
+  type: relations/money/creditor
+  item: people/esta-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/mrs-euna-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

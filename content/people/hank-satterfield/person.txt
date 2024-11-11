@@ -1,0 +1,64 @@
+Title: Hank Satterfield
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kelsi-dietrich
+- 
+  type: relations/parental/brosis
+  item: people/dr-arnaldo-balistreri-dds
+- 
+  type: relations/parental/brosis
+  item: people/miss-madalyn-doyle
+- 
+  type: relations/money/creditor
+  item: people/jewel-bartoletti
+- 
+  type: relations/money/creditor
+  item: people/miss-euna-renner
+- 
+  type: relations/parental/friend
+  item: people/fidel-kunze
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

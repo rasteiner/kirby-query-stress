@@ -1,0 +1,64 @@
+Title: Gerry Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/zella-maggio
+- 
+  type: relations/money/creditor
+  item: people/miss-lavina-hettinger
+- 
+  type: relations/parental/colleague
+  item: people/lia-hettinger
+- 
+  type: relations/money/debtor
+  item: people/velda-maggio
+- 
+  type: relations/money/creditor
+  item: people/derek-sanford-ii
+- 
+  type: relations/parental/brosis
+  item: people/prof-mckenna-terry-dvm
+- 
+  type: relations/work/client
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/o-keefe-group
+- 
+  type: relations/work/client
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

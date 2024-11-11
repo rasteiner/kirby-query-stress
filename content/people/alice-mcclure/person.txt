@@ -1,0 +1,64 @@
+Title: Alice McClure
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-kellen-heaney-iv
+- 
+  type: relations/parental/brosis
+  item: people/mrs-zelda-rempel
+- 
+  type: relations/parental/friend
+  item: people/ollie-durgan
+- 
+  type: relations/parental/dad
+  item: people/barrett-schmeler
+- 
+  type: relations/parental/brosis
+  item: people/myrtle-hermann
+- 
+  type: relations/parental/friend
+  item: people/mr-harold-zieme
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

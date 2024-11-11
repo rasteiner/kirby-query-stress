@@ -1,0 +1,64 @@
+Title: Mr. Cornell Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/adah-weber-jr
+- 
+  type: relations/parental/brosis
+  item: people/floyd-grady
+- 
+  type: relations/parental/friend
+  item: people/rubie-russel
+- 
+  type: relations/money/creditor
+  item: people/dr-laurel-greenholt-md
+- 
+  type: relations/parental/dad
+  item: people/henriette-howell
+- 
+  type: relations/parental/colleague
+  item: people/aletha-hermann
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ferry-bayer
+- 
+  type: relations/money/creditor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

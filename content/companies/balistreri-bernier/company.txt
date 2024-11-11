@@ -1,0 +1,44 @@
+Title: Balistreri-Bernier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/thiel-group
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/jerdeton

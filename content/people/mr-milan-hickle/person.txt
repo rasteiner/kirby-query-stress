@@ -1,0 +1,64 @@
+Title: Mr. Milan Hickle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-margarete-sauer
+- 
+  type: relations/parental/mom
+  item: people/francis-mcdermott
+- 
+  type: relations/parental/colleague
+  item: people/andres-fay
+- 
+  type: relations/money/creditor
+  item: people/imogene-feest
+- 
+  type: relations/parental/friend
+  item: people/cathrine-morar
+- 
+  type: relations/parental/mom
+  item: people/golden-hirthe
+- 
+  type: relations/work/client
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/client
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/employer
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

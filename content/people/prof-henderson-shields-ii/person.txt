@@ -1,0 +1,64 @@
+Title: Prof. Henderson Shields II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jazmin-beatty
+- 
+  type: relations/parental/colleague
+  item: people/gino-keebler-dvm
+- 
+  type: relations/money/creditor
+  item: people/viola-osinski
+- 
+  type: relations/parental/friend
+  item: people/mabel-kilback
+- 
+  type: relations/parental/brosis
+  item: people/franco-prosacco
+- 
+  type: relations/parental/mom
+  item: people/blair-marvin
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Hillard Doyle V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gennaro-king
+- 
+  type: relations/parental/friend
+  item: people/dr-sylvester-douglas-jr
+- 
+  type: relations/parental/dad
+  item: people/eloisa-lowe
+- 
+  type: relations/parental/colleague
+  item: people/melyssa-effertz
+- 
+  type: relations/parental/friend
+  item: people/denis-gulgowski
+- 
+  type: relations/parental/colleague
+  item: people/prof-ubaldo-terry-i
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/schaden-prohaska
+- 
+  type: relations/money/debtor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

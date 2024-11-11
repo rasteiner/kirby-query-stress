@@ -1,0 +1,64 @@
+Title: Mr. Ian Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maeve-robel
+- 
+  type: relations/money/creditor
+  item: people/krystel-smitham
+- 
+  type: relations/money/creditor
+  item: people/miss-della-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/cordelia-ledner
+- 
+  type: relations/parental/mom
+  item: people/victor-west
+- 
+  type: relations/parental/mom
+  item: people/gisselle-kassulke-dvm
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

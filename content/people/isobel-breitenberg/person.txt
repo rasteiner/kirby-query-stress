@@ -1,0 +1,64 @@
+Title: Isobel Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/aliza-jakubowski
+- 
+  type: relations/money/debtor
+  item: people/mr-jeramie-collier-md
+- 
+  type: relations/parental/mom
+  item: people/prof-samanta-volkman-ii
+- 
+  type: relations/money/debtor
+  item: people/candelario-towne
+- 
+  type: relations/parental/mom
+  item: people/caesar-schmeler
+- 
+  type: relations/parental/brosis
+  item: people/mr-charlie-predovic
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/work/client
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/employer
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

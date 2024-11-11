@@ -1,0 +1,64 @@
+Title: Arturo Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kyra-sanford-jr
+- 
+  type: relations/parental/brosis
+  item: people/mr-dave-mohr-dds
+- 
+  type: relations/money/debtor
+  item: people/mr-laurel-beatty
+- 
+  type: relations/parental/mom
+  item: people/darius-rogahn
+- 
+  type: relations/parental/friend
+  item: people/prof-everett-mosciski-jr
+- 
+  type: relations/money/creditor
+  item: people/sandy-hills
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

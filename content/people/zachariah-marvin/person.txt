@@ -1,0 +1,64 @@
+Title: Zachariah Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/saige-king
+- 
+  type: relations/parental/colleague
+  item: people/cicero-williamson
+- 
+  type: relations/parental/colleague
+  item: people/prof-kiley-watsica-jr
+- 
+  type: relations/money/creditor
+  item: people/ms-cassandre-mcclure-iii
+- 
+  type: relations/money/debtor
+  item: people/kurt-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/llewellyn-lemke
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

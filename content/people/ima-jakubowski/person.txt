@@ -1,0 +1,64 @@
+Title: Ima Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-kaitlyn-renner
+- 
+  type: relations/parental/colleague
+  item: people/francesca-johns
+- 
+  type: relations/money/creditor
+  item: people/adrian-bechtelar-i
+- 
+  type: relations/money/debtor
+  item: people/merl-harvey
+- 
+  type: relations/parental/mom
+  item: people/miss-melyna-gusikowski
+- 
+  type: relations/parental/mom
+  item: people/annette-deckow-ii
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

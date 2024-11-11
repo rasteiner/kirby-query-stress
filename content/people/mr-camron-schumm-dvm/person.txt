@@ -1,0 +1,64 @@
+Title: Mr. Camron Schumm DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jarrett-ernser
+- 
+  type: relations/parental/dad
+  item: people/miss-breana-bergnaum-i
+- 
+  type: relations/parental/dad
+  item: people/retha-adams
+- 
+  type: relations/parental/dad
+  item: people/hobart-dickens
+- 
+  type: relations/money/debtor
+  item: people/shanny-sauer
+- 
+  type: relations/parental/brosis
+  item: people/prof-kiel-durgan-ii
+- 
+  type: relations/money/creditor
+  item: companies/koch-ltd
+- 
+  type: relations/money/debtor
+  item: companies/schoen-group
+- 
+  type: relations/money/creditor
+  item: companies/daniel-hills
+- 
+  type: relations/money/creditor
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

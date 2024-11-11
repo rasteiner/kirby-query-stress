@@ -1,0 +1,45 @@
+Title: Hamill, O'Conner and Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yost
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven

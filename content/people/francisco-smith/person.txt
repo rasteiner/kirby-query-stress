@@ -1,0 +1,65 @@
+Title: Francisco Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jamir-adams
+- 
+  type: relations/parental/colleague
+  item: people/ms-hope-aufderhar
+- 
+  type: relations/money/creditor
+  item: people/abdiel-durgan
+- 
+  type: relations/parental/friend
+  item: people/kim-jacobson
+- 
+  type: relations/parental/mom
+  item: people/salvador-champlin-ii
+- 
+  type: relations/money/debtor
+  item: people/miss-melody-zboncak-iii
+- 
+  type: relations/work/employer
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/money/debtor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Gino Keebler DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-marion-smitham-phd
+- 
+  type: relations/money/creditor
+  item: people/colleen-kilback-jr
+- 
+  type: relations/money/creditor
+  item: people/maddison-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/palma-runolfsson
+- 
+  type: relations/parental/colleague
+  item: people/mrs-flavie-thompson-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-rickey-kiehn
+- 
+  type: relations/work/client
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

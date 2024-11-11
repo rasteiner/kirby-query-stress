@@ -1,0 +1,65 @@
+Title: Prof. Hubert Padberg I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kamren-johns
+- 
+  type: relations/parental/brosis
+  item: people/prof-emmanuelle-bailey
+- 
+  type: relations/money/debtor
+  item: people/mrs-vada-rice
+- 
+  type: relations/parental/friend
+  item: people/dr-beulah-hartmann
+- 
+  type: relations/parental/colleague
+  item: people/kenya-gerlach-i
+- 
+  type: relations/parental/dad
+  item: people/prof-amiya-fadel
+- 
+  type: relations/work/employer
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/schiller-collier
+- 
+  type: relations/money/creditor
+  item: companies/nienow-watsica
+- 
+  type: relations/work/client
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

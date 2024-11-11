@@ -1,0 +1,64 @@
+Title: Mr. Issac Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-kevon-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/ms-addison-morar
+- 
+  type: relations/parental/colleague
+  item: people/clint-renner
+- 
+  type: relations/money/debtor
+  item: people/callie-kuvalis-iii
+- 
+  type: relations/parental/colleague
+  item: people/mrs-viva-bruen-dvm
+- 
+  type: relations/parental/colleague
+  item: people/nola-labadie-dvm
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/client
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

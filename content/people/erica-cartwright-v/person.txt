@@ -1,0 +1,64 @@
+Title: Erica Cartwright V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-meaghan-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/efren-veum-i
+- 
+  type: relations/parental/mom
+  item: people/dannie-hauck
+- 
+  type: relations/parental/brosis
+  item: people/justen-nicolas
+- 
+  type: relations/parental/mom
+  item: people/dr-nikolas-botsford
+- 
+  type: relations/parental/brosis
+  item: people/gennaro-considine-phd
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

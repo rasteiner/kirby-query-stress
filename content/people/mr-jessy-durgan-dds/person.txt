@@ -1,0 +1,64 @@
+Title: Mr. Jessy Durgan DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/suzanne-koch-md
+- 
+  type: relations/parental/friend
+  item: people/lazaro-johnston-md
+- 
+  type: relations/parental/mom
+  item: people/abigale-schiller-md
+- 
+  type: relations/parental/colleague
+  item: people/rocky-crist
+- 
+  type: relations/money/debtor
+  item: people/dr-earnest-tillman
+- 
+  type: relations/parental/mom
+  item: people/amina-cronin
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/work/client
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

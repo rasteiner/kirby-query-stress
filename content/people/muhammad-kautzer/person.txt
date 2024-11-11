@@ -1,0 +1,64 @@
+Title: Muhammad Kautzer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-dorothy-veum
+- 
+  type: relations/parental/dad
+  item: people/mrs-meagan-feest
+- 
+  type: relations/parental/brosis
+  item: people/annetta-shanahan
+- 
+  type: relations/money/debtor
+  item: people/sincere-lesch
+- 
+  type: relations/parental/colleague
+  item: people/branson-pfannerstill
+- 
+  type: relations/money/debtor
+  item: people/emerald-douglas
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

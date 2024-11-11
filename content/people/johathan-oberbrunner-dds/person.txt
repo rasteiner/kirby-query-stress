@@ -1,0 +1,64 @@
+Title: Johathan Oberbrunner DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-rogelio-hills
+- 
+  type: relations/parental/mom
+  item: people/mabel-balistreri-sr
+- 
+  type: relations/parental/colleague
+  item: people/mr-arvel-kerluke
+- 
+  type: relations/money/debtor
+  item: people/mrs-alyce-vandervort-iv
+- 
+  type: relations/parental/mom
+  item: people/ashleigh-prosacco
+- 
+  type: relations/money/debtor
+  item: people/winnifred-reilly-dvm
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/client
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

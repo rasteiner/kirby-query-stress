@@ -1,0 +1,64 @@
+Title: Emmanuelle Lehner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/david-lowe
+- 
+  type: relations/parental/friend
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/money/debtor
+  item: people/anne-kuhn
+- 
+  type: relations/parental/friend
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/parental/mom
+  item: people/prof-augustus-rath
+- 
+  type: relations/money/debtor
+  item: people/dr-roman-legros-iii
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/work/employer
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Lina Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/yoshiko-haley
+- 
+  type: relations/money/creditor
+  item: people/ms-ashlee-carter
+- 
+  type: relations/parental/mom
+  item: people/jaylen-wiegand
+- 
+  type: relations/parental/dad
+  item: people/cristal-kuhlman-i
+- 
+  type: relations/money/creditor
+  item: people/prof-dorian-heller
+- 
+  type: relations/money/creditor
+  item: people/kadin-ferry-dds
+- 
+  type: relations/work/client
+  item: companies/howell-plc
+- 
+  type: relations/work/client
+  item: companies/klocko-quigley
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/work/employer
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Reanna Cummerata DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/devante-farrell
+- 
+  type: relations/money/debtor
+  item: people/mae-brown
+- 
+  type: relations/parental/colleague
+  item: people/ismael-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/delphia-gerlach
+- 
+  type: relations/money/debtor
+  item: people/kaylie-schimmel
+- 
+  type: relations/parental/brosis
+  item: people/dr-antonetta-blick
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/money/debtor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

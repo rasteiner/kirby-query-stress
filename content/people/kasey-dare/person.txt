@@ -1,0 +1,65 @@
+Title: Kasey Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/raymond-gleason
+- 
+  type: relations/money/creditor
+  item: people/fermin-renner
+- 
+  type: relations/money/creditor
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/colleague
+  item: people/hilma-smith
+- 
+  type: relations/parental/brosis
+  item: people/prof-edison-bartell-i
+- 
+  type: relations/money/creditor
+  item: people/prof-carmella-crona
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/schiller-collier
+- 
+  type: relations/money/creditor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/debtor
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

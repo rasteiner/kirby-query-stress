@@ -1,0 +1,64 @@
+Title: Aniyah Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vincenza-fritsch-md
+- 
+  type: relations/money/debtor
+  item: people/jerome-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/trisha-little
+- 
+  type: relations/parental/colleague
+  item: people/keith-streich
+- 
+  type: relations/parental/colleague
+  item: people/camylle-jenkins
+- 
+  type: relations/money/debtor
+  item: people/kali-sipes
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

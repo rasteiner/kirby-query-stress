@@ -1,0 +1,64 @@
+Title: Edmond Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/trey-towne
+- 
+  type: relations/parental/colleague
+  item: people/collin-littel
+- 
+  type: relations/parental/mom
+  item: people/miss-herminia-homenick
+- 
+  type: relations/parental/dad
+  item: people/darius-kemmer
+- 
+  type: relations/parental/dad
+  item: people/idell-hoppe
+- 
+  type: relations/parental/mom
+  item: people/elise-stanton
+- 
+  type: relations/money/debtor
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/schneider-ltd
+- 
+  type: relations/work/employer
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Ahmad Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/myrtie-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/prof-keeley-brekke-jr
+- 
+  type: relations/parental/mom
+  item: people/prudence-moore-dvm
+- 
+  type: relations/money/creditor
+  item: people/glenda-grant
+- 
+  type: relations/parental/colleague
+  item: people/marcelina-becker
+- 
+  type: relations/parental/brosis
+  item: people/rosalee-quitzon
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/work/employer
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

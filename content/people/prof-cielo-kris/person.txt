@@ -1,0 +1,64 @@
+Title: Prof. Cielo Kris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jorge-stracke-phd
+- 
+  type: relations/parental/colleague
+  item: people/mr-mason-swaniawski-jr
+- 
+  type: relations/money/debtor
+  item: people/keven-skiles
+- 
+  type: relations/parental/colleague
+  item: people/shania-schaefer-dvm
+- 
+  type: relations/parental/colleague
+  item: people/kory-schmitt-ii
+- 
+  type: relations/parental/dad
+  item: people/gay-flatley-v
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Dr. Catharine Ullrich II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/victor-west
+- 
+  type: relations/parental/mom
+  item: people/gisselle-kassulke-dvm
+- 
+  type: relations/money/debtor
+  item: people/isaiah-hirthe
+- 
+  type: relations/money/debtor
+  item: people/vickie-lemke
+- 
+  type: relations/money/creditor
+  item: people/martine-pouros-i
+- 
+  type: relations/money/creditor
+  item: people/hilda-auer-jr
+- 
+  type: relations/work/client
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/employer
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

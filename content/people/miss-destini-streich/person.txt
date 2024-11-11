@@ -1,0 +1,64 @@
+Title: Miss Destini Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/parental/friend
+  item: people/oma-howell
+- 
+  type: relations/parental/colleague
+  item: people/jamie-dicki
+- 
+  type: relations/parental/dad
+  item: people/emie-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/summer-fritsch
+- 
+  type: relations/money/debtor
+  item: people/peggie-pollich
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/work/employer
+  item: companies/hills-inc
+- 
+  type: relations/work/client
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Sage Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-emilia-cummerata
+- 
+  type: relations/parental/brosis
+  item: people/ova-goodwin-sr
+- 
+  type: relations/money/creditor
+  item: people/ulices-hand
+- 
+  type: relations/parental/mom
+  item: people/daniella-skiles
+- 
+  type: relations/parental/mom
+  item: people/emelia-stiedemann
+- 
+  type: relations/parental/mom
+  item: people/nyasia-batz
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Alia Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eulah-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/isadore-schuster
+- 
+  type: relations/parental/friend
+  item: people/prof-emilio-schaefer
+- 
+  type: relations/parental/friend
+  item: people/mr-dale-erdman-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-gaetano-ondricka
+- 
+  type: relations/money/creditor
+  item: people/alf-grady
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Sydnee Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dolly-hermiston
+- 
+  type: relations/money/debtor
+  item: people/rafael-kuvalis-phd
+- 
+  type: relations/parental/mom
+  item: people/adriana-lemke
+- 
+  type: relations/parental/colleague
+  item: people/prof-leda-maggio-jr
+- 
+  type: relations/parental/friend
+  item: people/winnifred-hoppe
+- 
+  type: relations/money/creditor
+  item: people/carlie-ward
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

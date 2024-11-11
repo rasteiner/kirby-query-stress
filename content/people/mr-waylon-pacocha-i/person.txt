@@ -1,0 +1,65 @@
+Title: Mr. Waylon Pacocha I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/holden-nienow
+- 
+  type: relations/money/creditor
+  item: people/isac-west-iii
+- 
+  type: relations/parental/colleague
+  item: people/mae-shields
+- 
+  type: relations/money/creditor
+  item: people/mr-isidro-considine
+- 
+  type: relations/parental/colleague
+  item: people/aurore-ruecker
+- 
+  type: relations/parental/colleague
+  item: people/antone-schamberger-v
+- 
+  type: relations/work/client
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/employer
+  item: companies/goodwin-nader
+- 
+  type: relations/work/employer
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/money/debtor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

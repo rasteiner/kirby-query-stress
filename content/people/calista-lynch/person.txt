@@ -1,0 +1,64 @@
+Title: Calista Lynch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rashad-kling
+- 
+  type: relations/money/debtor
+  item: people/isidro-strosin
+- 
+  type: relations/money/creditor
+  item: people/addison-auer
+- 
+  type: relations/parental/mom
+  item: people/dr-marian-towne
+- 
+  type: relations/money/creditor
+  item: people/lenny-o-connell
+- 
+  type: relations/money/creditor
+  item: people/berry-bauch
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/work/client
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

@@ -1,0 +1,64 @@
+Title: Elise Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dewayne-buckridge
+- 
+  type: relations/parental/mom
+  item: people/jane-jacobs
+- 
+  type: relations/parental/mom
+  item: people/prof-daren-rodriguez-jr
+- 
+  type: relations/parental/brosis
+  item: people/tomasa-fay
+- 
+  type: relations/parental/friend
+  item: people/alessandro-reynolds
+- 
+  type: relations/parental/friend
+  item: people/walton-frami
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/client
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/creditor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

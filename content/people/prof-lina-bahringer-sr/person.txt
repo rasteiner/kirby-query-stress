@@ -1,0 +1,64 @@
+Title: Prof. Lina Bahringer Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/meggie-brown
+- 
+  type: relations/parental/dad
+  item: people/linwood-ruecker
+- 
+  type: relations/parental/friend
+  item: people/maritza-skiles
+- 
+  type: relations/parental/friend
+  item: people/alysson-wiza
+- 
+  type: relations/money/debtor
+  item: people/maximus-kemmer
+- 
+  type: relations/money/debtor
+  item: people/sandra-spinka
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/creditor
+  item: companies/schoen-reinger
+- 
+  type: relations/work/client
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

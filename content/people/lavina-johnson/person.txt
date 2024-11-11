@@ -1,0 +1,64 @@
+Title: Lavina Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-porter-hand-md
+- 
+  type: relations/parental/friend
+  item: people/lenora-monahan
+- 
+  type: relations/parental/brosis
+  item: people/aurelio-conn
+- 
+  type: relations/money/creditor
+  item: people/prof-gudrun-nienow
+- 
+  type: relations/money/creditor
+  item: people/elyse-schmidt-dvm
+- 
+  type: relations/money/debtor
+  item: people/prof-ruby-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/employer
+  item: companies/hane-group
+- 
+  type: relations/work/employer
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

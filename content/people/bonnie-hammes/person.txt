@@ -1,0 +1,64 @@
+Title: Bonnie Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-maybelle-christiansen-iii
+- 
+  type: relations/parental/brosis
+  item: people/magnus-schiller
+- 
+  type: relations/parental/friend
+  item: people/greta-osinski
+- 
+  type: relations/money/creditor
+  item: people/estella-runte
+- 
+  type: relations/parental/colleague
+  item: people/berry-wiza
+- 
+  type: relations/parental/colleague
+  item: people/kelley-powlowski
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/work/employer
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

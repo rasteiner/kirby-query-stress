@@ -1,0 +1,64 @@
+Title: Dr. Benton Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-lowell-medhurst
+- 
+  type: relations/money/creditor
+  item: people/kirsten-bauch
+- 
+  type: relations/money/debtor
+  item: people/opal-o-conner-sr
+- 
+  type: relations/money/debtor
+  item: people/wava-ziemann
+- 
+  type: relations/parental/dad
+  item: people/guiseppe-larkin
+- 
+  type: relations/parental/colleague
+  item: people/walter-gerlach
+- 
+  type: relations/work/client
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/work/employer
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/money/creditor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

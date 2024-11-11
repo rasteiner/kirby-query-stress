@@ -1,0 +1,64 @@
+Title: Veronica Metz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/freddie-ryan
+- 
+  type: relations/parental/colleague
+  item: people/patience-buckridge
+- 
+  type: relations/parental/friend
+  item: people/garret-nader-jr
+- 
+  type: relations/money/creditor
+  item: people/virginia-heathcote
+- 
+  type: relations/money/creditor
+  item: people/yvonne-greenfelder
+- 
+  type: relations/money/creditor
+  item: people/virginie-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/client
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

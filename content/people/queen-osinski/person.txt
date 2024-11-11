@@ -1,0 +1,64 @@
+Title: Queen Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/destiney-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/thora-hermiston-i
+- 
+  type: relations/money/creditor
+  item: people/arturo-stark
+- 
+  type: relations/money/creditor
+  item: people/ms-letitia-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/loy-simonis
+- 
+  type: relations/money/debtor
+  item: people/robb-hegmann
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

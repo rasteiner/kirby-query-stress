@@ -1,0 +1,64 @@
+Title: Prof. Alan Kuphal III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-jailyn-kuhn
+- 
+  type: relations/money/debtor
+  item: people/leo-hessel
+- 
+  type: relations/parental/mom
+  item: people/rogers-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/breanne-braun
+- 
+  type: relations/money/debtor
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/parental/dad
+  item: people/myrtis-morar
+- 
+  type: relations/work/employer
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/employer
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

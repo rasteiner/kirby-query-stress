@@ -1,0 +1,64 @@
+Title: Dr. Connie Becker PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-quinton-hand
+- 
+  type: relations/money/debtor
+  item: people/cary-huel-i
+- 
+  type: relations/parental/dad
+  item: people/lauren-zboncak-sr
+- 
+  type: relations/parental/friend
+  item: people/mr-drake-schumm
+- 
+  type: relations/parental/friend
+  item: people/america-cummerata
+- 
+  type: relations/money/creditor
+  item: people/jaycee-lang-phd
+- 
+  type: relations/money/debtor
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/employer
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

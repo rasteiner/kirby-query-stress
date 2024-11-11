@@ -1,0 +1,64 @@
+Title: Jerrell Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-jena-rowe
+- 
+  type: relations/parental/colleague
+  item: people/karelle-bayer
+- 
+  type: relations/parental/brosis
+  item: people/ms-aisha-nader
+- 
+  type: relations/money/creditor
+  item: people/danika-veum
+- 
+  type: relations/parental/friend
+  item: people/odie-champlin
+- 
+  type: relations/parental/friend
+  item: people/ms-clementina-terry-iii
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

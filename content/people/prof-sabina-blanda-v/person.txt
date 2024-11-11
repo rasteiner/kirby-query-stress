@@ -1,0 +1,64 @@
+Title: Prof. Sabina Blanda V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/syble-dietrich-v
+- 
+  type: relations/parental/friend
+  item: people/prof-sarai-crooks-dvm
+- 
+  type: relations/parental/friend
+  item: people/roger-huels
+- 
+  type: relations/money/creditor
+  item: people/onie-lindgren
+- 
+  type: relations/parental/colleague
+  item: people/ian-reynolds
+- 
+  type: relations/money/debtor
+  item: people/prof-gregory-howell
+- 
+  type: relations/money/creditor
+  item: companies/williamson-willms
+- 
+  type: relations/work/client
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/creditor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

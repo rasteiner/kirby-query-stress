@@ -1,0 +1,65 @@
+Title: Dr. Nikita Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carlos-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/prof-hailey-friesen
+- 
+  type: relations/parental/colleague
+  item: people/mrs-krystina-kreiger
+- 
+  type: relations/parental/friend
+  item: people/seth-collier-i
+- 
+  type: relations/parental/friend
+  item: people/lexi-stehr
+- 
+  type: relations/parental/dad
+  item: people/dr-leatha-kerluke
+- 
+  type: relations/work/client
+  item: companies/kilback-kub
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/work/employer
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

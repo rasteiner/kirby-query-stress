@@ -1,0 +1,64 @@
+Title: Dr. Gloria Hills II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-nathaniel-sanford-dds
+- 
+  type: relations/money/debtor
+  item: people/milo-rice
+- 
+  type: relations/money/debtor
+  item: people/hilma-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/nolan-langosh
+- 
+  type: relations/parental/friend
+  item: people/eulah-beatty
+- 
+  type: relations/parental/colleague
+  item: people/dr-wyatt-hammes-md
+- 
+  type: relations/money/creditor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/employer
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/client
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

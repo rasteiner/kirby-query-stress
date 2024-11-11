@@ -1,0 +1,64 @@
+Title: Dr. Rupert Mayer MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-jairo-herman
+- 
+  type: relations/money/creditor
+  item: people/prof-rosamond-o-keefe
+- 
+  type: relations/parental/brosis
+  item: people/chaya-mcglynn
+- 
+  type: relations/parental/brosis
+  item: people/dusty-huels-i
+- 
+  type: relations/parental/dad
+  item: people/maryse-koelpin
+- 
+  type: relations/parental/brosis
+  item: people/raoul-robel
+- 
+  type: relations/money/debtor
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Carole Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/braxton-smith
+- 
+  type: relations/money/debtor
+  item: people/maud-labadie
+- 
+  type: relations/parental/mom
+  item: people/jan-runolfsson
+- 
+  type: relations/parental/colleague
+  item: people/maxie-price
+- 
+  type: relations/money/creditor
+  item: people/dr-keyon-herman-sr
+- 
+  type: relations/money/creditor
+  item: people/claudie-rohan
+- 
+  type: relations/work/client
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Prof. Alena Cormier I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vita-o-hara
+- 
+  type: relations/parental/friend
+  item: people/domenick-waelchi
+- 
+  type: relations/parental/colleague
+  item: people/isidro-bailey
+- 
+  type: relations/parental/colleague
+  item: people/nakia-stroman
+- 
+  type: relations/parental/friend
+  item: people/dr-ray-schmidt
+- 
+  type: relations/money/creditor
+  item: people/dr-ellsworth-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/client
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,65 @@
+Title: Webster Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/roma-wisozk-iv
+- 
+  type: relations/parental/brosis
+  item: people/dr-coy-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/mr-brock-weissnat-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-abbey-cole-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-chelsey-wolf
+- 
+  type: relations/parental/dad
+  item: people/dr-vivien-crist
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

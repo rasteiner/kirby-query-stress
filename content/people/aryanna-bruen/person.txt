@@ -1,0 +1,64 @@
+Title: Aryanna Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-sonny-altenwerth-v
+- 
+  type: relations/money/debtor
+  item: people/mr-mose-heaney
+- 
+  type: relations/parental/dad
+  item: people/prof-noe-wunsch-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-macie-gleichner-md
+- 
+  type: relations/parental/dad
+  item: people/garfield-boehm
+- 
+  type: relations/parental/dad
+  item: people/victoria-ebert-iii
+- 
+  type: relations/work/employer
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-gaylord
+- 
+  type: relations/work/employer
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

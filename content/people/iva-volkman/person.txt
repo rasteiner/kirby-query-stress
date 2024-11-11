@@ -1,0 +1,64 @@
+Title: Iva Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hilbert-schumm
+- 
+  type: relations/parental/brosis
+  item: people/ashlynn-will
+- 
+  type: relations/money/debtor
+  item: people/alexis-davis
+- 
+  type: relations/parental/dad
+  item: people/rebekah-bahringer
+- 
+  type: relations/parental/brosis
+  item: people/prof-jarrett-abbott-ii
+- 
+  type: relations/money/creditor
+  item: people/ms-olga-herzog
+- 
+  type: relations/work/employer
+  item: companies/williamson-willms
+- 
+  type: relations/work/client
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/debtor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

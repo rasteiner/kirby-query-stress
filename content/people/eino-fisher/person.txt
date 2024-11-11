@@ -1,0 +1,64 @@
+Title: Eino Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-katlynn-gusikowski-phd
+- 
+  type: relations/parental/friend
+  item: people/godfrey-beahan
+- 
+  type: relations/parental/friend
+  item: people/vern-feeney
+- 
+  type: relations/money/debtor
+  item: people/mrs-margot-beatty-dvm
+- 
+  type: relations/parental/dad
+  item: people/kaya-renner-md
+- 
+  type: relations/parental/dad
+  item: people/meaghan-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/creditor
+  item: companies/welch-borer
+- 
+  type: relations/money/debtor
+  item: companies/pollich-ltd
+- 
+  type: relations/work/client
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

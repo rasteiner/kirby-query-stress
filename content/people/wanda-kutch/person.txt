@@ -1,0 +1,64 @@
+Title: Wanda Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/celine-walker
+- 
+  type: relations/parental/mom
+  item: people/jeanne-schiller
+- 
+  type: relations/parental/brosis
+  item: people/dayna-schuppe
+- 
+  type: relations/parental/dad
+  item: people/maryam-little
+- 
+  type: relations/parental/dad
+  item: people/prof-lexus-wilkinson-iv
+- 
+  type: relations/parental/colleague
+  item: people/kianna-torp
+- 
+  type: relations/work/employer
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/client
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/client
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Adele Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lina-harvey
+- 
+  type: relations/parental/friend
+  item: people/scarlett-stanton
+- 
+  type: relations/parental/friend
+  item: people/ms-dakota-mclaughlin-iv
+- 
+  type: relations/parental/mom
+  item: people/ewell-mccullough
+- 
+  type: relations/parental/dad
+  item: people/dr-autumn-o-connell
+- 
+  type: relations/money/creditor
+  item: people/dr-otilia-bauch-sr
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

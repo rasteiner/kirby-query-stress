@@ -1,0 +1,64 @@
+Title: Jan Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kaden-heidenreich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/chet-cassin
+- 
+  type: relations/money/creditor
+  item: people/alba-gaylord
+- 
+  type: relations/parental/mom
+  item: people/noemy-bode
+- 
+  type: relations/parental/mom
+  item: people/prof-easter-keeling
+- 
+  type: relations/parental/mom
+  item: people/foster-wilderman
+- 
+  type: relations/work/client
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

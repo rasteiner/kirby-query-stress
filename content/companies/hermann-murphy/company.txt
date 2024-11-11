@@ -1,0 +1,43 @@
+Title: Hermann-Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/daniel-group
+- 
+  type: relations/money/debtor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth

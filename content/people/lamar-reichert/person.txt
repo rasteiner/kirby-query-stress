@@ -1,0 +1,64 @@
+Title: Lamar Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dannie-hauck
+- 
+  type: relations/parental/mom
+  item: people/justen-nicolas
+- 
+  type: relations/money/creditor
+  item: people/dr-nikolas-botsford
+- 
+  type: relations/parental/friend
+  item: people/gennaro-considine-phd
+- 
+  type: relations/parental/brosis
+  item: people/ms-laisha-sporer-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-terrill-mosciski
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

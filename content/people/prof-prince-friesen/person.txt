@@ -1,0 +1,64 @@
+Title: Prof. Prince Friesen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hailee-ullrich
+- 
+  type: relations/money/debtor
+  item: people/alberta-pagac-md
+- 
+  type: relations/parental/dad
+  item: people/jamaal-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/celia-sawayn
+- 
+  type: relations/money/creditor
+  item: people/lawrence-o-kon
+- 
+  type: relations/parental/colleague
+  item: people/joy-stracke
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/work/client
+  item: companies/murphy-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

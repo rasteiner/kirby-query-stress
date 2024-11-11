@@ -1,0 +1,64 @@
+Title: Mr. Junius Keeling III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jaycee-borer
+- 
+  type: relations/parental/brosis
+  item: people/zola-koch
+- 
+  type: relations/parental/mom
+  item: people/kiara-corwin
+- 
+  type: relations/parental/colleague
+  item: people/kathleen-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/mr-sanford-bergstrom
+- 
+  type: relations/parental/colleague
+  item: people/erica-cartwright-v
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

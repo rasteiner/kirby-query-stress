@@ -1,0 +1,64 @@
+Title: Gerald Rippin MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kenya-gerlach-i
+- 
+  type: relations/parental/mom
+  item: people/prof-amiya-fadel
+- 
+  type: relations/money/debtor
+  item: people/reanna-cummerata-dvm
+- 
+  type: relations/parental/friend
+  item: people/ezekiel-hansen
+- 
+  type: relations/parental/friend
+  item: people/dr-dudley-feil
+- 
+  type: relations/money/debtor
+  item: people/lois-swaniawski
+- 
+  type: relations/work/client
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/employer
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

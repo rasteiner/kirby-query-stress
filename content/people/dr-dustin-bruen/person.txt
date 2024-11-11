@@ -1,0 +1,64 @@
+Title: Dr. Dustin Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-eliza-moen
+- 
+  type: relations/money/debtor
+  item: people/lawson-rolfson
+- 
+  type: relations/parental/mom
+  item: people/norval-sporer-sr
+- 
+  type: relations/parental/friend
+  item: people/muhammad-renner
+- 
+  type: relations/parental/colleague
+  item: people/sim-jaskolski
+- 
+  type: relations/parental/dad
+  item: people/linnea-flatley
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/client
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

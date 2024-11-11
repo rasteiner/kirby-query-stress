@@ -1,0 +1,64 @@
+Title: Noemy Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/einar-bogisich
+- 
+  type: relations/parental/colleague
+  item: people/dr-jarred-mante
+- 
+  type: relations/parental/brosis
+  item: people/kade-konopelski-jr
+- 
+  type: relations/parental/friend
+  item: people/miss-bette-luettgen-jr
+- 
+  type: relations/parental/mom
+  item: people/garfield-dickens
+- 
+  type: relations/parental/colleague
+  item: people/miguel-brekke
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

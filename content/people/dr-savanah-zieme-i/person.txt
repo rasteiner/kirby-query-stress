@@ -1,0 +1,64 @@
+Title: Dr. Savanah Zieme I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/madonna-nikolaus
+- 
+  type: relations/parental/friend
+  item: people/ethelyn-jast
+- 
+  type: relations/parental/mom
+  item: people/naomi-welch
+- 
+  type: relations/parental/mom
+  item: people/jettie-hackett
+- 
+  type: relations/money/debtor
+  item: people/chasity-o-hara
+- 
+  type: relations/parental/dad
+  item: people/stefanie-dickens
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/money/creditor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

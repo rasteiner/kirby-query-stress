@@ -1,0 +1,64 @@
+Title: Mr. Ike Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-peyton-gerhold
+- 
+  type: relations/money/debtor
+  item: people/fermin-witting-i
+- 
+  type: relations/parental/brosis
+  item: people/tyrel-schaefer
+- 
+  type: relations/parental/dad
+  item: people/buster-doyle
+- 
+  type: relations/parental/dad
+  item: people/jess-kub
+- 
+  type: relations/parental/brosis
+  item: people/darien-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/client
+  item: companies/rath-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

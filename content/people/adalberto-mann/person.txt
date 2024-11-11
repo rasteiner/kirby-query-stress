@@ -1,0 +1,65 @@
+Title: Adalberto Mann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-karli-moore
+- 
+  type: relations/money/debtor
+  item: people/dr-wayne-macejkovic-v
+- 
+  type: relations/parental/brosis
+  item: people/dr-annie-rice-dvm
+- 
+  type: relations/parental/brosis
+  item: people/ross-weissnat
+- 
+  type: relations/parental/brosis
+  item: people/dr-elenora-gorczany
+- 
+  type: relations/money/debtor
+  item: people/frank-zboncak-iv
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/client
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Mikel Trantow II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/andreane-koss
+- 
+  type: relations/parental/mom
+  item: people/dr-christiana-hamill-iii
+- 
+  type: relations/parental/friend
+  item: people/jerome-miller-dds
+- 
+  type: relations/parental/friend
+  item: people/jaida-trantow
+- 
+  type: relations/parental/friend
+  item: people/savanah-anderson
+- 
+  type: relations/parental/mom
+  item: people/frida-o-kon
+- 
+  type: relations/work/employer
+  item: companies/bode-reinger
+- 
+  type: relations/work/employer
+  item: companies/frami-group
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-group
+- 
+  type: relations/work/employer
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

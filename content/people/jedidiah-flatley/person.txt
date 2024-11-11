@@ -1,0 +1,64 @@
+Title: Jedidiah Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/isai-heidenreich-i
+- 
+  type: relations/parental/dad
+  item: people/prof-mabel-labadie-iii
+- 
+  type: relations/parental/brosis
+  item: people/frankie-balistreri
+- 
+  type: relations/parental/colleague
+  item: people/savanah-o-kon
+- 
+  type: relations/money/debtor
+  item: people/dr-stephan-reynolds
+- 
+  type: relations/parental/brosis
+  item: people/oleta-towne
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/client
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/client
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Cielo Lebsack IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rory-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/ceasar-sawayn-sr
+- 
+  type: relations/money/debtor
+  item: people/felicita-kris-phd
+- 
+  type: relations/parental/colleague
+  item: people/alexie-grimes
+- 
+  type: relations/parental/mom
+  item: people/kip-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/ms-reva-gleason-md
+- 
+  type: relations/money/creditor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/employer
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

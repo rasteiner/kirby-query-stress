@@ -1,0 +1,64 @@
+Title: Nola O'Hara Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-allan-ullrich-ii
+- 
+  type: relations/parental/dad
+  item: people/deshawn-schaden
+- 
+  type: relations/money/debtor
+  item: people/rodolfo-leffler-iii
+- 
+  type: relations/parental/colleague
+  item: people/korey-kilback-dds
+- 
+  type: relations/parental/brosis
+  item: people/isom-roberts-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-skylar-legros-jr
+- 
+  type: relations/work/client
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/client
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

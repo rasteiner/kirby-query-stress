@@ -1,0 +1,64 @@
+Title: Jeremie Kris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dorian-schiller
+- 
+  type: relations/money/debtor
+  item: people/dell-jacobi
+- 
+  type: relations/parental/dad
+  item: people/meredith-larson
+- 
+  type: relations/parental/mom
+  item: people/edison-bode-sr
+- 
+  type: relations/parental/brosis
+  item: people/maudie-mante
+- 
+  type: relations/parental/friend
+  item: people/nathanael-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stanton-plc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-group
+- 
+  type: relations/money/creditor
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

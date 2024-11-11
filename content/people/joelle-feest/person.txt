@@ -1,0 +1,64 @@
+Title: Joelle Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/elmo-kulas-iii
+- 
+  type: relations/parental/brosis
+  item: people/eladio-keebler
+- 
+  type: relations/parental/mom
+  item: people/camille-ullrich-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-randi-batz-iv
+- 
+  type: relations/parental/mom
+  item: people/prof-darryl-mclaughlin-i
+- 
+  type: relations/parental/mom
+  item: people/allene-mueller-i
+- 
+  type: relations/work/client
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/debtor
+  item: companies/harvey-lang
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

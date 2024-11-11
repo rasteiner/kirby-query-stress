@@ -1,0 +1,65 @@
+Title: Violette Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/eloy-schmidt
+- 
+  type: relations/parental/dad
+  item: people/jessyca-farrell
+- 
+  type: relations/parental/mom
+  item: people/jany-cassin
+- 
+  type: relations/parental/brosis
+  item: people/ms-ursula-schaefer-dds
+- 
+  type: relations/parental/friend
+  item: people/breanna-bartell
+- 
+  type: relations/parental/colleague
+  item: people/ms-lera-ullrich
+- 
+  type: relations/work/employer
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/debtor
+  item: companies/yost-llc
+- 
+  type: relations/money/debtor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

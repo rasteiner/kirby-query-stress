@@ -1,0 +1,64 @@
+Title: Mr. Quinten Abbott DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-aniyah-boyle
+- 
+  type: relations/parental/colleague
+  item: people/micheal-bayer
+- 
+  type: relations/money/debtor
+  item: people/prof-camryn-brakus-v
+- 
+  type: relations/money/debtor
+  item: people/prof-elnora-hilpert-iii
+- 
+  type: relations/money/creditor
+  item: people/etha-keebler
+- 
+  type: relations/parental/dad
+  item: people/andre-morar-v
+- 
+  type: relations/work/client
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/client
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/creditor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Albert Auer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/makenzie-oberbrunner-phd
+- 
+  type: relations/parental/friend
+  item: people/jay-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/jaydon-lesch
+- 
+  type: relations/parental/colleague
+  item: people/bettie-hackett
+- 
+  type: relations/money/debtor
+  item: people/anne-botsford
+- 
+  type: relations/parental/brosis
+  item: people/vincenzo-wunsch-dds
+- 
+  type: relations/work/employer
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/client
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

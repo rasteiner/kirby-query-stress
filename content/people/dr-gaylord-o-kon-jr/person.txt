@@ -1,0 +1,64 @@
+Title: Dr. Gaylord O'Kon Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hattie-hilpert
+- 
+  type: relations/parental/friend
+  item: people/prof-clarabelle-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/mrs-chyna-tillman-jr
+- 
+  type: relations/money/creditor
+  item: people/talia-bahringer
+- 
+  type: relations/parental/friend
+  item: people/mollie-heathcote
+- 
+  type: relations/parental/friend
+  item: people/mr-caden-herzog-sr
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/creditor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

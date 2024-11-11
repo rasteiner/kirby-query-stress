@@ -1,0 +1,64 @@
+Title: Ramon Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-carlee-tremblay-iii
+- 
+  type: relations/parental/mom
+  item: people/emelie-rodriguez
+- 
+  type: relations/money/creditor
+  item: people/prof-fritz-kuhic-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-annalise-rogahn
+- 
+  type: relations/parental/friend
+  item: people/miss-beth-nitzsche-v
+- 
+  type: relations/parental/friend
+  item: people/ms-taya-hintz
+- 
+  type: relations/money/debtor
+  item: companies/thompson-flatley
+- 
+  type: relations/work/employer
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/money/debtor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

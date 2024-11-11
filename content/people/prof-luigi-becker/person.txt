@@ -1,0 +1,64 @@
+Title: Prof. Luigi Becker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hans-hermiston-v
+- 
+  type: relations/parental/colleague
+  item: people/valentine-willms
+- 
+  type: relations/parental/dad
+  item: people/noah-lockman
+- 
+  type: relations/parental/colleague
+  item: people/emmett-mayert
+- 
+  type: relations/parental/brosis
+  item: people/garrison-stroman-phd
+- 
+  type: relations/parental/friend
+  item: people/carmen-bogisich
+- 
+  type: relations/work/employer
+  item: companies/simonis-inc
+- 
+  type: relations/money/debtor
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

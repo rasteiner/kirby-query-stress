@@ -1,0 +1,64 @@
+Title: Lelah Kessler Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dasia-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/prof-lauren-armstrong-dvm
+- 
+  type: relations/parental/colleague
+  item: people/elissa-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/rod-kerluke
+- 
+  type: relations/money/creditor
+  item: people/velda-casper-ii
+- 
+  type: relations/parental/mom
+  item: people/ms-shanelle-hamill-v
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/work/client
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

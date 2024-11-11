@@ -1,0 +1,64 @@
+Title: Cornelius Bode V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-omer-schroeder-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-enoch-bosco-ii
+- 
+  type: relations/money/creditor
+  item: people/lelah-ebert-v
+- 
+  type: relations/parental/brosis
+  item: people/kailee-ullrich
+- 
+  type: relations/parental/dad
+  item: people/madilyn-funk
+- 
+  type: relations/parental/friend
+  item: people/sylvan-murazik
+- 
+  type: relations/work/employer
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/work/client
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Stan Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/eliezer-sipes-md
+- 
+  type: relations/money/debtor
+  item: people/pansy-considine-sr
+- 
+  type: relations/parental/colleague
+  item: people/prof-regan-hansen
+- 
+  type: relations/parental/dad
+  item: people/virgie-gibson
+- 
+  type: relations/parental/friend
+  item: people/kris-dibbert
+- 
+  type: relations/money/creditor
+  item: people/myriam-yost
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

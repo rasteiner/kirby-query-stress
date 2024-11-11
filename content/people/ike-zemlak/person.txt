@@ -1,0 +1,64 @@
+Title: Ike Zemlak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eulah-beatty
+- 
+  type: relations/parental/dad
+  item: people/dr-wyatt-hammes-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-otha-mcglynn
+- 
+  type: relations/parental/brosis
+  item: people/arvilla-ward-md
+- 
+  type: relations/money/creditor
+  item: people/prof-joesph-hackett
+- 
+  type: relations/money/debtor
+  item: people/dr-osbaldo-stehr
+- 
+  type: relations/work/client
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/employer
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

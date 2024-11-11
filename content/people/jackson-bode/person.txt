@@ -1,0 +1,64 @@
+Title: Jackson Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-danny-kilback
+- 
+  type: relations/money/creditor
+  item: people/ms-pamela-ernser
+- 
+  type: relations/parental/friend
+  item: people/rylan-bartell
+- 
+  type: relations/parental/dad
+  item: people/michael-herzog
+- 
+  type: relations/money/debtor
+  item: people/prof-morgan-o-kon-dvm
+- 
+  type: relations/parental/colleague
+  item: people/constance-mraz
+- 
+  type: relations/money/creditor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/work/client
+  item: companies/hauck-inc
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

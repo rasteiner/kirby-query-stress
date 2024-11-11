@@ -1,0 +1,64 @@
+Title: Dillan McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-katlyn-rice
+- 
+  type: relations/money/debtor
+  item: people/kasandra-nienow-iii
+- 
+  type: relations/money/debtor
+  item: people/noel-shields
+- 
+  type: relations/money/creditor
+  item: people/jamir-beer
+- 
+  type: relations/parental/dad
+  item: people/prof-kayli-schumm-dvm
+- 
+  type: relations/parental/brosis
+  item: people/lester-wolf
+- 
+  type: relations/work/client
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/employer
+  item: companies/jenkins-veum
+- 
+  type: relations/work/client
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/client
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

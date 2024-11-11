@@ -1,0 +1,64 @@
+Title: Ruth Von IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/howell-schmidt-dvm
+- 
+  type: relations/money/creditor
+  item: people/lawrence-stokes
+- 
+  type: relations/money/debtor
+  item: people/watson-volkman
+- 
+  type: relations/parental/brosis
+  item: people/mallory-feeney
+- 
+  type: relations/parental/friend
+  item: people/elizabeth-rippin
+- 
+  type: relations/money/debtor
+  item: people/daphnee-conn
+- 
+  type: relations/work/client
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/keebler-inc
+- 
+  type: relations/work/employer
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

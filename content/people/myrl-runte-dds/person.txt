@@ -1,0 +1,64 @@
+Title: Myrl Runte DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/esta-hoppe
+- 
+  type: relations/money/creditor
+  item: people/mrs-helga-abernathy
+- 
+  type: relations/money/debtor
+  item: people/mrs-samantha-collins-jr
+- 
+  type: relations/money/debtor
+  item: people/prof-amanda-adams-md
+- 
+  type: relations/parental/mom
+  item: people/andres-goyette
+- 
+  type: relations/money/creditor
+  item: people/prof-jared-beier
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Fidel Hoeger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/art-wolff
+- 
+  type: relations/money/creditor
+  item: people/daren-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/rodrick-hamill
+- 
+  type: relations/parental/brosis
+  item: people/lysanne-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/nayeli-schamberger
+- 
+  type: relations/parental/dad
+  item: people/prof-raegan-schmitt-v
+- 
+  type: relations/work/employer
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

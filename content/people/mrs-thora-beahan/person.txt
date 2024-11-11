@@ -1,0 +1,64 @@
+Title: Mrs. Thora Beahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-elwin-macejkovic-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-charles-rowe-iii
+- 
+  type: relations/money/debtor
+  item: people/violet-treutel
+- 
+  type: relations/parental/brosis
+  item: people/nick-powlowski-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-halle-bergstrom-dds
+- 
+  type: relations/parental/friend
+  item: people/alena-prohaska
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/client
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/employer
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

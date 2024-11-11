@@ -1,0 +1,64 @@
+Title: Jarrell Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-alivia-schaden
+- 
+  type: relations/parental/colleague
+  item: people/meredith-koelpin
+- 
+  type: relations/money/debtor
+  item: people/delores-lowe
+- 
+  type: relations/parental/colleague
+  item: people/amelia-skiles
+- 
+  type: relations/money/creditor
+  item: people/margret-maggio-sr
+- 
+  type: relations/parental/friend
+  item: people/estevan-ratke
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

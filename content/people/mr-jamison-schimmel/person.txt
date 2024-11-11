@@ -1,0 +1,64 @@
+Title: Mr. Jamison Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/carolyn-herzog-dvm
+- 
+  type: relations/parental/colleague
+  item: people/eleanore-bruen
+- 
+  type: relations/money/debtor
+  item: people/dr-josh-lesch
+- 
+  type: relations/money/debtor
+  item: people/alvera-rippin
+- 
+  type: relations/parental/colleague
+  item: people/ozella-stracke
+- 
+  type: relations/parental/colleague
+  item: people/aimee-yost
+- 
+  type: relations/work/client
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

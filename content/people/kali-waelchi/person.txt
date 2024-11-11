@@ -1,0 +1,64 @@
+Title: Kali Waelchi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/calista-fahey
+- 
+  type: relations/parental/colleague
+  item: people/prof-lavon-huel-ii
+- 
+  type: relations/parental/brosis
+  item: people/angelina-schultz
+- 
+  type: relations/money/creditor
+  item: people/filiberto-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/clint-dubuque
+- 
+  type: relations/parental/brosis
+  item: people/nora-marks
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/work/client
+  item: companies/orn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

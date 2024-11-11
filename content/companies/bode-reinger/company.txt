@@ -1,0 +1,43 @@
+Title: Bode-Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/carter-daniel
+- 
+  type: relations/money/creditor
+  item: companies/renner-erdman-and-larson
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/money/debtor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-group
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland

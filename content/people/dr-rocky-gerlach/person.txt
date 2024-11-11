@@ -1,0 +1,64 @@
+Title: Dr. Rocky Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mac-ward
+- 
+  type: relations/money/creditor
+  item: people/daphne-abernathy
+- 
+  type: relations/money/debtor
+  item: people/louie-monahan
+- 
+  type: relations/parental/colleague
+  item: people/haylee-hermiston-iii
+- 
+  type: relations/parental/mom
+  item: people/linnie-pouros
+- 
+  type: relations/money/debtor
+  item: people/neoma-hoeger-phd
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/client
+  item: companies/hackett-inc
+- 
+  type: relations/work/employer
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Elton Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/green-conn
+- 
+  type: relations/parental/brosis
+  item: people/dr-tiana-thiel
+- 
+  type: relations/money/creditor
+  item: people/miss-felicita-trantow
+- 
+  type: relations/parental/dad
+  item: people/veda-schulist
+- 
+  type: relations/parental/mom
+  item: people/albin-hilll
+- 
+  type: relations/money/debtor
+  item: people/cory-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/debtor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

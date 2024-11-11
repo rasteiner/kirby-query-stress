@@ -1,0 +1,64 @@
+Title: Prof. Elnora Hilpert III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-amina-jones-dds
+- 
+  type: relations/money/debtor
+  item: people/miss-erika-hilpert-iv
+- 
+  type: relations/parental/mom
+  item: people/mr-caden-herzog
+- 
+  type: relations/money/creditor
+  item: people/torrey-feeney
+- 
+  type: relations/parental/friend
+  item: people/harold-bogan
+- 
+  type: relations/money/creditor
+  item: people/elton-marvin
+- 
+  type: relations/work/client
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/stanton-metz
+- 
+  type: relations/money/debtor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/work/client
+  item: companies/renner-erdman-and-larson
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

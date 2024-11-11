@@ -1,0 +1,64 @@
+Title: Alexandria Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gladyce-waters
+- 
+  type: relations/parental/colleague
+  item: people/neva-harvey
+- 
+  type: relations/money/debtor
+  item: people/nathanial-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/zack-bradtke-iv
+- 
+  type: relations/parental/mom
+  item: people/myriam-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/mollie-stanton
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-plc
+- 
+  type: relations/work/client
+  item: companies/gislason-llc
+- 
+  type: relations/work/employer
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

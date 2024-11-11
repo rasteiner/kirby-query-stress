@@ -1,0 +1,64 @@
+Title: Tamara Ledner DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kade-hauck
+- 
+  type: relations/parental/friend
+  item: people/victor-weimann
+- 
+  type: relations/parental/brosis
+  item: people/bradly-dickinson
+- 
+  type: relations/money/debtor
+  item: people/golden-raynor
+- 
+  type: relations/parental/colleague
+  item: people/halle-blanda
+- 
+  type: relations/parental/dad
+  item: people/aiden-krajcik-phd
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,65 @@
+Title: Madisyn Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-marcella-lynch-phd
+- 
+  type: relations/parental/colleague
+  item: people/ron-pfannerstill
+- 
+  type: relations/parental/colleague
+  item: people/hoyt-champlin
+- 
+  type: relations/parental/brosis
+  item: people/roma-lebsack
+- 
+  type: relations/parental/mom
+  item: people/miss-lysanne-mraz
+- 
+  type: relations/parental/colleague
+  item: people/prof-makenzie-fadel-jr
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

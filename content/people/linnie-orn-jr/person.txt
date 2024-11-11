@@ -1,0 +1,64 @@
+Title: Linnie Orn Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/wellington-adams
+- 
+  type: relations/parental/friend
+  item: people/danielle-hayes-iii
+- 
+  type: relations/money/creditor
+  item: people/sibyl-watsica
+- 
+  type: relations/money/debtor
+  item: people/flavio-marks
+- 
+  type: relations/parental/friend
+  item: people/dr-aletha-breitenberg-md
+- 
+  type: relations/money/creditor
+  item: people/mr-norberto-o-kon
+- 
+  type: relations/work/client
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

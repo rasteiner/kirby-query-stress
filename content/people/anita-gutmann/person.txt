@@ -1,0 +1,64 @@
+Title: Anita Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-aaron-stokes-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-cornelius-schaden
+- 
+  type: relations/parental/brosis
+  item: people/eva-kuhic-ii
+- 
+  type: relations/parental/dad
+  item: people/assunta-lind
+- 
+  type: relations/parental/brosis
+  item: people/dock-ledner
+- 
+  type: relations/parental/colleague
+  item: people/erwin-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/client
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

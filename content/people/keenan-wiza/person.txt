@@ -1,0 +1,64 @@
+Title: Keenan Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/hayley-stehr
+- 
+  type: relations/parental/colleague
+  item: people/princess-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/gardner-king-iv
+- 
+  type: relations/parental/friend
+  item: people/elyse-reichert
+- 
+  type: relations/parental/dad
+  item: people/gilda-erdman-i
+- 
+  type: relations/parental/colleague
+  item: people/brennan-wilderman
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/client
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

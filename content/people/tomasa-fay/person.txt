@@ -1,0 +1,64 @@
+Title: Tomasa Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-ansel-miller-md
+- 
+  type: relations/parental/friend
+  item: people/deshawn-blick
+- 
+  type: relations/parental/friend
+  item: people/keyon-lang
+- 
+  type: relations/parental/brosis
+  item: people/asa-pagac
+- 
+  type: relations/parental/colleague
+  item: people/kamren-metz
+- 
+  type: relations/money/creditor
+  item: people/prof-arvilla-mills-iv
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/employer
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Efren Veum I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-darryl-mclaughlin-i
+- 
+  type: relations/money/debtor
+  item: people/allene-mueller-i
+- 
+  type: relations/parental/friend
+  item: people/prof-lenore-pollich
+- 
+  type: relations/money/debtor
+  item: people/robert-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/bernie-rath
+- 
+  type: relations/parental/mom
+  item: people/summer-cole-iii
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/debtor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/client
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

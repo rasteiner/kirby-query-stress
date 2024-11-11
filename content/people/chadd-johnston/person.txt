@@ -1,0 +1,64 @@
+Title: Chadd Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/floy-senger-dds
+- 
+  type: relations/parental/brosis
+  item: people/shania-larson
+- 
+  type: relations/parental/mom
+  item: people/brennon-spinka
+- 
+  type: relations/parental/dad
+  item: people/dr-colby-renner
+- 
+  type: relations/parental/colleague
+  item: people/luis-pacocha
+- 
+  type: relations/money/debtor
+  item: people/prof-lonzo-beahan
+- 
+  type: relations/work/client
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/creditor
+  item: companies/effertz-llc
+- 
+  type: relations/work/employer
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/work/employer
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

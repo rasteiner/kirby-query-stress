@@ -1,0 +1,64 @@
+Title: Della Rogahn Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alivia-okuneva
+- 
+  type: relations/money/creditor
+  item: people/dustin-spinka
+- 
+  type: relations/money/creditor
+  item: people/damaris-hamill
+- 
+  type: relations/parental/brosis
+  item: people/rosanna-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/regan-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/aurore-dickens
+- 
+  type: relations/money/creditor
+  item: companies/purdy-koch
+- 
+  type: relations/money/debtor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/work/employer
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

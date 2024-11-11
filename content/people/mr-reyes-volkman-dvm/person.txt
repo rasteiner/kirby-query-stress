@@ -1,0 +1,64 @@
+Title: Mr. Reyes Volkman DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-hector-quigley
+- 
+  type: relations/parental/colleague
+  item: people/mrs-octavia-prosacco
+- 
+  type: relations/money/debtor
+  item: people/claud-gottlieb
+- 
+  type: relations/parental/dad
+  item: people/raul-bayer-jr
+- 
+  type: relations/parental/mom
+  item: people/emily-roberts
+- 
+  type: relations/parental/colleague
+  item: people/trenton-swaniawski
+- 
+  type: relations/work/client
+  item: companies/ryan-little
+- 
+  type: relations/work/client
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

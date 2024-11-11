@@ -1,0 +1,64 @@
+Title: Dr. Stephan Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/orion-crist-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-jordon-sawayn
+- 
+  type: relations/money/creditor
+  item: people/alexander-simonis-iv
+- 
+  type: relations/money/creditor
+  item: people/donny-rippin
+- 
+  type: relations/parental/brosis
+  item: people/eden-batz
+- 
+  type: relations/parental/friend
+  item: people/eloisa-sporer
+- 
+  type: relations/work/client
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/employer
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Mr. Jamel Mann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/leora-maggio
+- 
+  type: relations/parental/brosis
+  item: people/clare-casper
+- 
+  type: relations/parental/colleague
+  item: people/dr-floy-rodriguez-phd
+- 
+  type: relations/parental/colleague
+  item: people/breana-koch
+- 
+  type: relations/money/debtor
+  item: people/prof-lamont-renner-ii
+- 
+  type: relations/money/debtor
+  item: people/kasey-dare
+- 
+  type: relations/work/employer
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

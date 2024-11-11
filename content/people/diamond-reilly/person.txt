@@ -1,0 +1,66 @@
+Title: Diamond Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kiara-corwin
+- 
+  type: relations/money/debtor
+  item: people/kathleen-rosenbaum
+- 
+  type: relations/money/debtor
+  item: people/mr-sanford-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/erica-cartwright-v
+- 
+  type: relations/parental/friend
+  item: people/holden-nienow
+- 
+  type: relations/parental/mom
+  item: people/isac-west-iii
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/employer
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

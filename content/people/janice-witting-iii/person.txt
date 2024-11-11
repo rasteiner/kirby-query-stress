@@ -1,0 +1,64 @@
+Title: Janice Witting III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-noemy-larkin
+- 
+  type: relations/parental/brosis
+  item: people/miss-malvina-homenick
+- 
+  type: relations/parental/colleague
+  item: people/ms-rosanna-gottlieb-i
+- 
+  type: relations/parental/mom
+  item: people/prince-okuneva-ii
+- 
+  type: relations/parental/dad
+  item: people/fannie-dare
+- 
+  type: relations/parental/mom
+  item: people/elta-stoltenberg
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/work/client
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

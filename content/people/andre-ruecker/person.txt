@@ -1,0 +1,64 @@
+Title: Andre Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-jan-hand
+- 
+  type: relations/money/creditor
+  item: people/dr-armani-willms
+- 
+  type: relations/parental/colleague
+  item: people/prof-priscilla-renner
+- 
+  type: relations/parental/friend
+  item: people/mr-ottis-ondricka-jr
+- 
+  type: relations/parental/colleague
+  item: people/mr-werner-macejkovic
+- 
+  type: relations/parental/dad
+  item: people/dr-desmond-ryan
+- 
+  type: relations/money/debtor
+  item: companies/sporer-will
+- 
+  type: relations/work/employer
+  item: companies/kling-ltd
+- 
+  type: relations/work/employer
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,65 @@
+Title: Dr. Mario Mosciski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-layne-ratke-v
+- 
+  type: relations/parental/friend
+  item: people/andre-murphy
+- 
+  type: relations/parental/brosis
+  item: people/prof-maci-hyatt-dds
+- 
+  type: relations/parental/colleague
+  item: people/prof-alfred-krajcik-sr
+- 
+  type: relations/money/creditor
+  item: people/ms-mariana-braun-dvm
+- 
+  type: relations/parental/brosis
+  item: people/isobel-west
+- 
+  type: relations/money/creditor
+  item: companies/ratke-inc
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

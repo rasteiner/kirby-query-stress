@@ -1,0 +1,65 @@
+Title: Amelie Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/braxton-runolfsson-iv
+- 
+  type: relations/parental/colleague
+  item: people/benedict-hamill
+- 
+  type: relations/money/debtor
+  item: people/verona-mayert
+- 
+  type: relations/parental/brosis
+  item: people/kaleb-daugherty
+- 
+  type: relations/money/debtor
+  item: people/charlene-turcotte-v
+- 
+  type: relations/parental/brosis
+  item: people/hellen-haag
+- 
+  type: relations/money/creditor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/lemke-ltd
+- 
+  type: relations/work/employer
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

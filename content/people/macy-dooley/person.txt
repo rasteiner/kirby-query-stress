@@ -1,0 +1,64 @@
+Title: Macy Dooley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-wava-wyman
+- 
+  type: relations/parental/brosis
+  item: people/prof-dominique-kutch
+- 
+  type: relations/parental/brosis
+  item: people/colten-daugherty-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-cordell-greenholt-iii
+- 
+  type: relations/money/debtor
+  item: people/savannah-rutherford
+- 
+  type: relations/parental/friend
+  item: people/evelyn-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

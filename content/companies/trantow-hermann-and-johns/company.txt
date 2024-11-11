@@ -1,0 +1,44 @@
+Title: Trantow, Hermann and Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/sauer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/douglas-and-sons
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

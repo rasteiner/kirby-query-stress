@@ -1,0 +1,64 @@
+Title: Alva Will PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alberto-wintheiser-dvm
+- 
+  type: relations/parental/mom
+  item: people/lorenz-price
+- 
+  type: relations/parental/colleague
+  item: people/esta-turcotte
+- 
+  type: relations/parental/dad
+  item: people/mrs-euna-buckridge
+- 
+  type: relations/parental/friend
+  item: people/manley-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/mrs-cierra-lakin-dds
+- 
+  type: relations/work/client
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-inc
+- 
+  type: relations/money/creditor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/client
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

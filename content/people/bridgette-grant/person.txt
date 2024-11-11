@@ -1,0 +1,64 @@
+Title: Bridgette Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/garnett-boehm
+- 
+  type: relations/parental/brosis
+  item: people/giuseppe-spencer
+- 
+  type: relations/parental/mom
+  item: people/prof-russel-erdman
+- 
+  type: relations/money/debtor
+  item: people/mr-joshua-stracke
+- 
+  type: relations/parental/friend
+  item: people/allen-trantow
+- 
+  type: relations/money/debtor
+  item: people/jerod-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

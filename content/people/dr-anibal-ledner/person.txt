@@ -1,0 +1,64 @@
+Title: Dr. Anibal Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/harvey-cremin
+- 
+  type: relations/parental/dad
+  item: people/simeon-marquardt
+- 
+  type: relations/money/debtor
+  item: people/everardo-marvin
+- 
+  type: relations/money/creditor
+  item: people/louvenia-boyle
+- 
+  type: relations/parental/brosis
+  item: people/prof-rosalinda-boyer-dvm
+- 
+  type: relations/parental/mom
+  item: people/prof-sim-baumbach-dvm
+- 
+  type: relations/work/employer
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Justen Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/frances-zemlak
+- 
+  type: relations/money/creditor
+  item: people/larue-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/alva-medhurst
+- 
+  type: relations/parental/colleague
+  item: people/mr-dane-fadel
+- 
+  type: relations/parental/brosis
+  item: people/dr-wilma-upton
+- 
+  type: relations/parental/dad
+  item: people/jerry-flatley
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/work/employer
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

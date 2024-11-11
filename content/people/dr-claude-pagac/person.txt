@@ -1,0 +1,64 @@
+Title: Dr. Claude Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-rosanna-gottlieb-i
+- 
+  type: relations/parental/brosis
+  item: people/prince-okuneva-ii
+- 
+  type: relations/parental/mom
+  item: people/fannie-dare
+- 
+  type: relations/parental/mom
+  item: people/elta-stoltenberg
+- 
+  type: relations/parental/brosis
+  item: people/doug-ledner
+- 
+  type: relations/parental/dad
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

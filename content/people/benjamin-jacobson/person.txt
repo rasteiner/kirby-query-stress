@@ -1,0 +1,64 @@
+Title: Benjamin Jacobson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/terry-kulas
+- 
+  type: relations/money/debtor
+  item: people/mr-zion-bartoletti
+- 
+  type: relations/parental/dad
+  item: people/prof-royce-shanahan-sr
+- 
+  type: relations/parental/friend
+  item: people/reymundo-cormier
+- 
+  type: relations/money/creditor
+  item: people/diego-erdman
+- 
+  type: relations/parental/colleague
+  item: people/dr-rubye-abshire-jr
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/employer
+  item: companies/fahey-olson
+- 
+  type: relations/work/client
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

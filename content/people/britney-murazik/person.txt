@@ -1,0 +1,64 @@
+Title: Britney Murazik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-halle-renner
+- 
+  type: relations/parental/friend
+  item: people/marquise-graham
+- 
+  type: relations/money/creditor
+  item: people/janick-schuppe
+- 
+  type: relations/money/creditor
+  item: people/pasquale-gleason
+- 
+  type: relations/money/creditor
+  item: people/miss-bianka-hahn
+- 
+  type: relations/parental/mom
+  item: people/kim-crooks
+- 
+  type: relations/work/client
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/frami-group
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

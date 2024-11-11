@@ -1,0 +1,65 @@
+Title: Aron Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/will-klein
+- 
+  type: relations/money/creditor
+  item: people/colleen-rowe-sr
+- 
+  type: relations/parental/mom
+  item: people/kaitlin-buckridge
+- 
+  type: relations/money/creditor
+  item: people/prof-rod-hudson
+- 
+  type: relations/money/creditor
+  item: people/randi-volkman
+- 
+  type: relations/parental/friend
+  item: people/adolphus-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/employer
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

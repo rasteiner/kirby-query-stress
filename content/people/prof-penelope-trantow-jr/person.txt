@@ -1,0 +1,64 @@
+Title: Prof. Penelope Trantow Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-angus-schumm-sr
+- 
+  type: relations/parental/dad
+  item: people/krystina-bernhard
+- 
+  type: relations/money/creditor
+  item: people/prof-gonzalo-runte
+- 
+  type: relations/parental/brosis
+  item: people/nayeli-frami
+- 
+  type: relations/money/creditor
+  item: people/leann-abbott
+- 
+  type: relations/money/creditor
+  item: people/carolyn-friesen
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/work/employer
+  item: companies/raynor-rippin
+- 
+  type: relations/work/employer
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

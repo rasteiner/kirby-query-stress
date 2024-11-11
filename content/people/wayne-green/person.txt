@@ -1,0 +1,64 @@
+Title: Wayne Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/claudie-bode
+- 
+  type: relations/parental/mom
+  item: people/dr-eliza-terry
+- 
+  type: relations/parental/friend
+  item: people/verdie-farrell
+- 
+  type: relations/money/debtor
+  item: people/prof-hazel-flatley-dvm
+- 
+  type: relations/money/creditor
+  item: people/otis-marvin
+- 
+  type: relations/parental/dad
+  item: people/mrs-lucinda-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-leannon
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Miss Susie Rice MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-william-morar
+- 
+  type: relations/parental/dad
+  item: people/pietro-turner
+- 
+  type: relations/money/creditor
+  item: people/mrs-camille-rippin-phd
+- 
+  type: relations/parental/brosis
+  item: people/lennie-will
+- 
+  type: relations/parental/dad
+  item: people/chasity-prosacco
+- 
+  type: relations/parental/dad
+  item: people/everett-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

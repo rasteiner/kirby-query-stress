@@ -1,0 +1,64 @@
+Title: Alisha Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/maya-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/mekhi-adams
+- 
+  type: relations/parental/mom
+  item: people/leonor-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/cory-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/myrna-bayer
+- 
+  type: relations/money/creditor
+  item: people/leanna-stark
+- 
+  type: relations/money/creditor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/creditor
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

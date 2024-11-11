@@ -1,0 +1,64 @@
+Title: Henriette Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lexus-kihn
+- 
+  type: relations/parental/brosis
+  item: people/jany-hammes
+- 
+  type: relations/money/creditor
+  item: people/judy-borer
+- 
+  type: relations/parental/mom
+  item: people/issac-graham
+- 
+  type: relations/money/debtor
+  item: people/prof-lynn-fritsch-sr
+- 
+  type: relations/parental/friend
+  item: people/gennaro-moen
+- 
+  type: relations/money/debtor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/ferry-carter
+- 
+  type: relations/work/employer
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/employer
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

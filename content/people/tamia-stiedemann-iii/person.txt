@@ -1,0 +1,64 @@
+Title: Tamia Stiedemann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/darion-simonis
+- 
+  type: relations/parental/dad
+  item: people/ted-cole
+- 
+  type: relations/parental/colleague
+  item: people/vicky-franecki
+- 
+  type: relations/parental/mom
+  item: people/jacklyn-windler
+- 
+  type: relations/parental/mom
+  item: people/ken-dickinson
+- 
+  type: relations/money/creditor
+  item: people/mr-brock-willms-jr
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

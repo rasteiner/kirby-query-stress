@@ -1,0 +1,43 @@
+Title: Ritchie PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/gleason-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: companies/willms-group
+- 
+  type: relations/money/debtor
+  item: companies/sporer-plc
+- 
+  type: relations/money/creditor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/location/visited
+  item: places/otiliachester
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/new-anahi

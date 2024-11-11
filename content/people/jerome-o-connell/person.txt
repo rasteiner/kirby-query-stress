@@ -1,0 +1,64 @@
+Title: Jerome O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/olga-osinski
+- 
+  type: relations/parental/dad
+  item: people/mariana-berge-md
+- 
+  type: relations/parental/mom
+  item: people/miss-jeanne-leuschke
+- 
+  type: relations/parental/brosis
+  item: people/beatrice-ernser
+- 
+  type: relations/parental/colleague
+  item: people/dr-jairo-welch
+- 
+  type: relations/money/debtor
+  item: people/eulah-abbott
+- 
+  type: relations/work/employer
+  item: companies/towne-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Krystel Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-landen-wolff
+- 
+  type: relations/parental/friend
+  item: people/gregorio-carter
+- 
+  type: relations/parental/colleague
+  item: people/jonathon-pouros-dvm
+- 
+  type: relations/parental/mom
+  item: people/eldridge-kiehn
+- 
+  type: relations/money/debtor
+  item: people/green-conn
+- 
+  type: relations/parental/dad
+  item: people/dr-tiana-thiel
+- 
+  type: relations/work/client
+  item: companies/bogan-ltd
+- 
+  type: relations/work/client
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-llc
+- 
+  type: relations/work/employer
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

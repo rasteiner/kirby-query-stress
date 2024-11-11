@@ -1,0 +1,64 @@
+Title: Rosalee Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/myrl-weber
+- 
+  type: relations/parental/colleague
+  item: people/chad-wisoky-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-glen-hoppe-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ms-glenna-raynor-dds
+- 
+  type: relations/parental/brosis
+  item: people/angelo-strosin
+- 
+  type: relations/parental/dad
+  item: people/arno-fisher
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

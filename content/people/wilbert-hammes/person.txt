@@ -1,0 +1,64 @@
+Title: Wilbert Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kay-barrows
+- 
+  type: relations/parental/friend
+  item: people/korey-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/barrett-bergstrom
+- 
+  type: relations/parental/dad
+  item: people/prof-amya-bartoletti
+- 
+  type: relations/parental/colleague
+  item: people/anderson-toy
+- 
+  type: relations/parental/dad
+  item: people/mckayla-gleason
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

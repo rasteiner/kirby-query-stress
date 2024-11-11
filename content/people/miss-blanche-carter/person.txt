@@ -1,0 +1,64 @@
+Title: Miss Blanche Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dameon-schuster
+- 
+  type: relations/parental/brosis
+  item: people/garrison-will
+- 
+  type: relations/money/debtor
+  item: people/dr-derrick-schaefer-dvm
+- 
+  type: relations/parental/dad
+  item: people/eleanore-gutmann
+- 
+  type: relations/parental/colleague
+  item: people/lenna-howell
+- 
+  type: relations/parental/colleague
+  item: people/prof-henderson-shields-ii
+- 
+  type: relations/work/client
+  item: companies/homenick-plc
+- 
+  type: relations/work/employer
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Lincoln Predovic DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-adrien-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/delpha-rutherford-dds
+- 
+  type: relations/parental/brosis
+  item: people/everardo-beer
+- 
+  type: relations/parental/friend
+  item: people/prof-taya-christiansen-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-griffin-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/elmo-watsica
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

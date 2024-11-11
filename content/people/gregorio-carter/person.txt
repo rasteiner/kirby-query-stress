@@ -1,0 +1,64 @@
+Title: Gregorio Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/garrison-stroman-phd
+- 
+  type: relations/money/debtor
+  item: people/carmen-bogisich
+- 
+  type: relations/parental/dad
+  item: people/mrs-jermaine-kirlin-dds
+- 
+  type: relations/money/creditor
+  item: people/catharine-homenick
+- 
+  type: relations/parental/mom
+  item: people/ora-satterfield
+- 
+  type: relations/parental/brosis
+  item: people/tressa-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/client
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

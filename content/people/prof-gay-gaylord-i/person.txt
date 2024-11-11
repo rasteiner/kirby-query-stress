@@ -1,0 +1,64 @@
+Title: Prof. Gay Gaylord I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/rogers-powlowski
+- 
+  type: relations/money/debtor
+  item: people/breanne-braun
+- 
+  type: relations/money/debtor
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/money/debtor
+  item: people/myrtis-morar
+- 
+  type: relations/parental/dad
+  item: people/vernon-jacobi
+- 
+  type: relations/parental/friend
+  item: people/max-volkman
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/client
+  item: companies/ratke-fay
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

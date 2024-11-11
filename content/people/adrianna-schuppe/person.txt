@@ -1,0 +1,64 @@
+Title: Adrianna Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-genevieve-braun
+- 
+  type: relations/parental/mom
+  item: people/luna-o-conner-ii
+- 
+  type: relations/parental/colleague
+  item: people/elmer-hartmann
+- 
+  type: relations/parental/dad
+  item: people/keira-schinner-dvm
+- 
+  type: relations/parental/mom
+  item: people/roger-gutmann
+- 
+  type: relations/parental/friend
+  item: people/griffin-gleichner
+- 
+  type: relations/work/client
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

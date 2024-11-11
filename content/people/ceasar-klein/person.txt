@@ -1,0 +1,64 @@
+Title: Ceasar Klein
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/clement-pacocha
+- 
+  type: relations/parental/mom
+  item: people/prof-ned-ullrich-ii
+- 
+  type: relations/parental/dad
+  item: people/prof-leslie-simonis
+- 
+  type: relations/parental/mom
+  item: people/jonas-bosco-i
+- 
+  type: relations/money/debtor
+  item: people/dr-alivia-schaden
+- 
+  type: relations/parental/dad
+  item: people/meredith-koelpin
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/work/employer
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

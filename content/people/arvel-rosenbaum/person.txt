@@ -1,0 +1,64 @@
+Title: Arvel Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/wyman-zulauf-ii
+- 
+  type: relations/parental/friend
+  item: people/patrick-langworth
+- 
+  type: relations/parental/colleague
+  item: people/kristopher-kulas
+- 
+  type: relations/parental/mom
+  item: people/mable-goldner
+- 
+  type: relations/parental/mom
+  item: people/shayne-turner
+- 
+  type: relations/parental/friend
+  item: people/otis-barrows
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

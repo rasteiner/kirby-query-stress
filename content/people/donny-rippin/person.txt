@@ -1,0 +1,64 @@
+Title: Donny Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/keanu-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/emiliano-donnelly
+- 
+  type: relations/parental/mom
+  item: people/rocio-mann-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-jaeden-mraz
+- 
+  type: relations/parental/dad
+  item: people/prof-vance-blanda
+- 
+  type: relations/parental/colleague
+  item: people/abbie-hackett
+- 
+  type: relations/work/employer
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/debtor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/creditor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Victoria Ebert III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nicole-stokes
+- 
+  type: relations/parental/dad
+  item: people/gaetano-fay
+- 
+  type: relations/parental/dad
+  item: people/glenda-champlin
+- 
+  type: relations/parental/brosis
+  item: people/brendan-labadie
+- 
+  type: relations/money/debtor
+  item: people/deron-feil
+- 
+  type: relations/parental/mom
+  item: people/prof-remington-effertz-phd
+- 
+  type: relations/work/employer
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/farrell-green
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/work/client
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

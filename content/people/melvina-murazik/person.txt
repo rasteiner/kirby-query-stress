@@ -1,0 +1,65 @@
+Title: Melvina Murazik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/pamela-hilll
+- 
+  type: relations/money/creditor
+  item: people/roel-lang
+- 
+  type: relations/parental/colleague
+  item: people/green-corkery
+- 
+  type: relations/money/creditor
+  item: people/arlie-anderson
+- 
+  type: relations/parental/dad
+  item: people/prof-ernestine-schaden
+- 
+  type: relations/parental/friend
+  item: people/gabrielle-reichert
+- 
+  type: relations/work/client
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/employer
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/client
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

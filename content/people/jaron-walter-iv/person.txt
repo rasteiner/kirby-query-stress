@@ -1,0 +1,64 @@
+Title: Jaron Walter IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/aurelio-conn
+- 
+  type: relations/parental/dad
+  item: people/prof-gudrun-nienow
+- 
+  type: relations/money/debtor
+  item: people/elyse-schmidt-dvm
+- 
+  type: relations/parental/mom
+  item: people/prof-ruby-heathcote
+- 
+  type: relations/parental/friend
+  item: people/alisha-hammes
+- 
+  type: relations/parental/mom
+  item: people/myrl-hickle
+- 
+  type: relations/money/debtor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

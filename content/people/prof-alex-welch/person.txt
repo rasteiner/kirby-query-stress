@@ -1,0 +1,64 @@
+Title: Prof. Alex Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-deon-beer-v
+- 
+  type: relations/money/debtor
+  item: people/sidney-abbott
+- 
+  type: relations/parental/brosis
+  item: people/rigoberto-watsica-iv
+- 
+  type: relations/parental/dad
+  item: people/lucienne-hermann
+- 
+  type: relations/parental/colleague
+  item: people/dr-garnet-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/ferne-nicolas
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/debtor
+  item: companies/ratke-fay
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

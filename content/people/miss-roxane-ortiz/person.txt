@@ -1,0 +1,64 @@
+Title: Miss Roxane Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-alfredo-pfannerstill-ii
+- 
+  type: relations/parental/mom
+  item: people/miss-gwen-upton
+- 
+  type: relations/parental/friend
+  item: people/etha-thiel
+- 
+  type: relations/parental/dad
+  item: people/ms-hertha-douglas-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-guiseppe-mclaughlin
+- 
+  type: relations/parental/mom
+  item: people/dexter-veum
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

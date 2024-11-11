@@ -1,0 +1,43 @@
+Title: Bruen, Vandervort and Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/thiel-plc
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-rice-and-koch
+- 
+  type: relations/money/debtor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/creditor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-plc
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/mooreland

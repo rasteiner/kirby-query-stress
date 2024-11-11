@@ -1,0 +1,64 @@
+Title: Prof. Magnus Hermiston V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-herminia-homenick
+- 
+  type: relations/parental/colleague
+  item: people/darius-kemmer
+- 
+  type: relations/money/creditor
+  item: people/idell-hoppe
+- 
+  type: relations/parental/dad
+  item: people/elise-stanton
+- 
+  type: relations/parental/dad
+  item: people/calista-fahey
+- 
+  type: relations/parental/brosis
+  item: people/prof-lavon-huel-ii
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,65 @@
+Title: Keara Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kaya-renner-md
+- 
+  type: relations/parental/brosis
+  item: people/meaghan-armstrong
+- 
+  type: relations/money/creditor
+  item: people/laurel-ullrich
+- 
+  type: relations/parental/mom
+  item: people/ms-ophelia-rippin-iv
+- 
+  type: relations/parental/brosis
+  item: people/alejandrin-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/ms-maida-feil
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/work/employer
+  item: companies/larson-denesik
+- 
+  type: relations/money/debtor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/client
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

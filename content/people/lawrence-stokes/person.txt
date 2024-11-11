@@ -1,0 +1,64 @@
+Title: Lawrence Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/vincenza-fritsch-md
+- 
+  type: relations/parental/mom
+  item: people/jerome-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/trisha-little
+- 
+  type: relations/parental/brosis
+  item: people/keith-streich
+- 
+  type: relations/money/debtor
+  item: people/camylle-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/kali-sipes
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/employer
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

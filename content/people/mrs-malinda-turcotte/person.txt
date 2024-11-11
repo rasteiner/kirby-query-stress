@@ -1,0 +1,64 @@
+Title: Mrs. Malinda Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elaina-mohr
+- 
+  type: relations/money/debtor
+  item: people/beth-brown
+- 
+  type: relations/parental/mom
+  item: people/art-mayert
+- 
+  type: relations/parental/brosis
+  item: people/mr-davon-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/kianna-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/emile-fahey
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

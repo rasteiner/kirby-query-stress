@@ -1,0 +1,64 @@
+Title: Evie Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/montana-zieme
+- 
+  type: relations/parental/brosis
+  item: people/hank-satterfield
+- 
+  type: relations/money/debtor
+  item: people/prof-alfonzo-kreiger-v
+- 
+  type: relations/money/creditor
+  item: people/prof-ivah-nolan-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-lulu-o-connell
+- 
+  type: relations/parental/friend
+  item: people/maida-little
+- 
+  type: relations/money/creditor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/creditor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

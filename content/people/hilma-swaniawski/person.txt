@@ -1,0 +1,64 @@
+Title: Hilma Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jeffery-brekke-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-sigurd-skiles-jr
+- 
+  type: relations/parental/brosis
+  item: people/alia-zboncak
+- 
+  type: relations/parental/dad
+  item: people/abigail-daniel
+- 
+  type: relations/parental/dad
+  item: people/marjolaine-bode-v
+- 
+  type: relations/money/creditor
+  item: people/mr-jarret-wyman
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/money/debtor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,43 @@
+Title: Hilll, O'Hara and Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/schowalterchester

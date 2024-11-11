@@ -1,0 +1,64 @@
+Title: Christina Zemlak II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/oral-zemlak
+- 
+  type: relations/parental/colleague
+  item: people/dr-grover-langosh
+- 
+  type: relations/money/debtor
+  item: people/anastasia-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/alta-baumbach
+- 
+  type: relations/parental/friend
+  item: people/miss-rose-becker
+- 
+  type: relations/parental/colleague
+  item: people/prof-frieda-rempel-dvm
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/money/debtor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

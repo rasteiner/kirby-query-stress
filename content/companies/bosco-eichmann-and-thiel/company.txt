@@ -1,0 +1,43 @@
+Title: Bosco, Eichmann and Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-hills
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/matildafort

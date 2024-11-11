@@ -1,0 +1,64 @@
+Title: Prof. Jordy Weissnat MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-landen-wolff
+- 
+  type: relations/parental/brosis
+  item: people/gregorio-carter
+- 
+  type: relations/parental/dad
+  item: people/jonathon-pouros-dvm
+- 
+  type: relations/parental/mom
+  item: people/eldridge-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/green-conn
+- 
+  type: relations/parental/brosis
+  item: people/dr-tiana-thiel
+- 
+  type: relations/money/debtor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/work/client
+  item: companies/schmidt-llc
+- 
+  type: relations/money/debtor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Ewald Tremblay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kristian-rempel
+- 
+  type: relations/money/debtor
+  item: people/buck-smith
+- 
+  type: relations/money/debtor
+  item: people/roscoe-nolan-dvm
+- 
+  type: relations/parental/dad
+  item: people/maureen-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/trey-heaney-md
+- 
+  type: relations/parental/mom
+  item: people/valentina-reichel
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/work/client
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Sigmund Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alexandria-beer
+- 
+  type: relations/parental/dad
+  item: people/giovani-wolff
+- 
+  type: relations/money/creditor
+  item: people/newell-berge
+- 
+  type: relations/money/debtor
+  item: people/miss-thora-gutmann-md
+- 
+  type: relations/money/creditor
+  item: people/gwen-brekke
+- 
+  type: relations/parental/mom
+  item: people/alvena-towne
+- 
+  type: relations/money/creditor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/client
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

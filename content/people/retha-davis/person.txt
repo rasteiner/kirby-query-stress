@@ -1,0 +1,64 @@
+Title: Retha Davis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-judd-johnston
+- 
+  type: relations/parental/brosis
+  item: people/prof-cicero-rutherford-md
+- 
+  type: relations/parental/mom
+  item: people/clare-abshire
+- 
+  type: relations/parental/mom
+  item: people/mrs-megane-reichel-v
+- 
+  type: relations/parental/brosis
+  item: people/layne-walter
+- 
+  type: relations/money/creditor
+  item: people/mertie-hackett
+- 
+  type: relations/money/debtor
+  item: companies/hills-plc
+- 
+  type: relations/work/client
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

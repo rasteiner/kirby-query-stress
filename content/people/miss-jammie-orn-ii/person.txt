@@ -1,0 +1,65 @@
+Title: Miss Jammie Orn II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mae-kerluke
+- 
+  type: relations/parental/dad
+  item: people/marley-reichel
+- 
+  type: relations/parental/brosis
+  item: people/ahmed-watsica-iv
+- 
+  type: relations/parental/friend
+  item: people/alan-rippin-dvm
+- 
+  type: relations/money/debtor
+  item: people/cecilia-braun
+- 
+  type: relations/parental/friend
+  item: people/luis-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/employer
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Pablo Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cooper-paucek
+- 
+  type: relations/parental/brosis
+  item: people/elvie-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/cruz-legros
+- 
+  type: relations/parental/dad
+  item: people/prof-conner-gorczany
+- 
+  type: relations/parental/dad
+  item: people/prof-gaylord-beatty-dds
+- 
+  type: relations/money/creditor
+  item: people/odie-nitzsche
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/money/creditor
+  item: companies/kub-plc
+- 
+  type: relations/work/client
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/client
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Giuseppe Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-brooks-strosin-sr
+- 
+  type: relations/parental/colleague
+  item: people/concepcion-crist
+- 
+  type: relations/parental/mom
+  item: people/marc-jerde
+- 
+  type: relations/parental/mom
+  item: people/hertha-christiansen-iv
+- 
+  type: relations/money/debtor
+  item: people/miss-malika-rutherford-jr
+- 
+  type: relations/money/creditor
+  item: people/morton-pfannerstill-jr
+- 
+  type: relations/work/employer
+  item: companies/walker-howe
+- 
+  type: relations/work/employer
+  item: companies/orn-inc
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-mertz
+- 
+  type: relations/work/employer
+  item: companies/mayer-conn
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

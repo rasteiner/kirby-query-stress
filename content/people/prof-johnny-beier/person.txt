@@ -1,0 +1,64 @@
+Title: Prof. Johnny Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/okey-paucek-sr
+- 
+  type: relations/parental/mom
+  item: people/ms-alejandra-spinka-sr
+- 
+  type: relations/parental/mom
+  item: people/santa-kiehn-dvm
+- 
+  type: relations/parental/brosis
+  item: people/bret-bode
+- 
+  type: relations/money/debtor
+  item: people/lawson-cormier
+- 
+  type: relations/parental/mom
+  item: people/dr-heather-casper
+- 
+  type: relations/money/creditor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/client
+  item: companies/kuvalis-group
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-little
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

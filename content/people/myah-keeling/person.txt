@@ -1,0 +1,64 @@
+Title: Myah Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lloyd-howe
+- 
+  type: relations/parental/mom
+  item: people/dawn-lakin-i
+- 
+  type: relations/parental/friend
+  item: people/johnathan-luettgen
+- 
+  type: relations/parental/friend
+  item: people/dr-santos-moen-phd
+- 
+  type: relations/money/creditor
+  item: people/odessa-thompson
+- 
+  type: relations/money/creditor
+  item: people/mrs-bernice-kuphal
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,43 @@
+Title: Lindgren Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/money/debtor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/new-taurean

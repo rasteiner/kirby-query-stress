@@ -1,0 +1,64 @@
+Title: Eulalia Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/victoria-ullrich
+- 
+  type: relations/parental/dad
+  item: people/prof-trudie-franecki-dds
+- 
+  type: relations/money/creditor
+  item: people/christiana-hyatt
+- 
+  type: relations/parental/dad
+  item: people/mr-brian-sawayn-ii
+- 
+  type: relations/parental/dad
+  item: people/ms-everette-mcclure-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-issac-dach
+- 
+  type: relations/work/employer
+  item: companies/simonis-inc
+- 
+  type: relations/work/employer
+  item: companies/parisian-llc
+- 
+  type: relations/work/employer
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

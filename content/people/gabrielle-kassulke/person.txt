@@ -1,0 +1,65 @@
+Title: Gabrielle Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/unique-rempel-iv
+- 
+  type: relations/parental/dad
+  item: people/prof-rasheed-o-hara-iii
+- 
+  type: relations/money/debtor
+  item: people/colby-corwin
+- 
+  type: relations/money/creditor
+  item: people/henri-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/vivienne-hackett
+- 
+  type: relations/parental/colleague
+  item: people/maribel-legros
+- 
+  type: relations/money/creditor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/work/client
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

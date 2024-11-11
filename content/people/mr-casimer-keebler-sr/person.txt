@@ -1,0 +1,64 @@
+Title: Mr. Casimer Keebler Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/addison-auer
+- 
+  type: relations/parental/friend
+  item: people/dr-marian-towne
+- 
+  type: relations/parental/mom
+  item: people/lenny-o-connell
+- 
+  type: relations/money/creditor
+  item: people/berry-bauch
+- 
+  type: relations/money/creditor
+  item: people/dr-jairo-herman
+- 
+  type: relations/parental/friend
+  item: people/prof-rosamond-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

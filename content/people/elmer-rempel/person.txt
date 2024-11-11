@@ -1,0 +1,64 @@
+Title: Elmer Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-keshaun-labadie-v
+- 
+  type: relations/parental/brosis
+  item: people/odell-gottlieb-v
+- 
+  type: relations/money/creditor
+  item: people/delta-welch
+- 
+  type: relations/parental/mom
+  item: people/prof-quinn-mayert
+- 
+  type: relations/parental/dad
+  item: people/woodrow-douglas
+- 
+  type: relations/money/debtor
+  item: people/eleanore-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

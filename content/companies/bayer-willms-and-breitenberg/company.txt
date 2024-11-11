@@ -1,0 +1,43 @@
+Title: Bayer, Willms and Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/south-emieville

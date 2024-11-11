@@ -1,0 +1,64 @@
+Title: Adrienne Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-gonzalo-heathcote-ii
+- 
+  type: relations/parental/mom
+  item: people/dr-blanche-wiza-md
+- 
+  type: relations/parental/dad
+  item: people/dr-urban-champlin
+- 
+  type: relations/parental/mom
+  item: people/cheyanne-kreiger
+- 
+  type: relations/parental/dad
+  item: people/prof-joesph-hilll-md
+- 
+  type: relations/parental/dad
+  item: people/kali-botsford-dds
+- 
+  type: relations/work/client
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/work/client
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

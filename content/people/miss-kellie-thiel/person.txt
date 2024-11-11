@@ -1,0 +1,65 @@
+Title: Miss Kellie Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/pierce-morissette-jr
+- 
+  type: relations/parental/dad
+  item: people/alysson-thompson
+- 
+  type: relations/parental/friend
+  item: people/cordie-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/dr-erik-kozey
+- 
+  type: relations/parental/friend
+  item: people/gladyce-morar-v
+- 
+  type: relations/parental/friend
+  item: people/jarvis-shields-dvm
+- 
+  type: relations/work/employer
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

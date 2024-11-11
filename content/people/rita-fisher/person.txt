@@ -1,0 +1,64 @@
+Title: Rita Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-therese-batz-dvm
+- 
+  type: relations/parental/friend
+  item: people/lela-gusikowski
+- 
+  type: relations/parental/dad
+  item: people/dr-trisha-haag
+- 
+  type: relations/parental/mom
+  item: people/kennith-feeney
+- 
+  type: relations/parental/colleague
+  item: people/mr-werner-batz
+- 
+  type: relations/money/creditor
+  item: people/prof-arnaldo-pfeffer-ii
+- 
+  type: relations/work/employer
+  item: companies/towne-llc
+- 
+  type: relations/work/client
+  item: companies/dickens-inc
+- 
+  type: relations/work/employer
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

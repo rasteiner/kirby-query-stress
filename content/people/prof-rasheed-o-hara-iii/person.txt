@@ -1,0 +1,64 @@
+Title: Prof. Rasheed O'Hara III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kailee-prohaska
+- 
+  type: relations/parental/mom
+  item: people/demond-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/shany-wolf-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-elisha-christiansen
+- 
+  type: relations/money/creditor
+  item: people/charles-kihn
+- 
+  type: relations/parental/mom
+  item: people/jamey-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/client
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

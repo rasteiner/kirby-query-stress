@@ -1,0 +1,64 @@
+Title: Gilda Erdman I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-cassidy-graham-sr
+- 
+  type: relations/money/debtor
+  item: people/chloe-wolf
+- 
+  type: relations/parental/mom
+  item: people/kenya-keeling-iii
+- 
+  type: relations/money/creditor
+  item: people/zander-gislason
+- 
+  type: relations/money/debtor
+  item: people/joelle-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/dayton-rempel
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/money/creditor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

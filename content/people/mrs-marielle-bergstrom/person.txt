@@ -1,0 +1,64 @@
+Title: Mrs. Marielle Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/zachariah-lockman
+- 
+  type: relations/parental/mom
+  item: people/mr-clark-klocko
+- 
+  type: relations/money/debtor
+  item: people/harvey-cremin
+- 
+  type: relations/parental/friend
+  item: people/simeon-marquardt
+- 
+  type: relations/parental/mom
+  item: people/everardo-marvin
+- 
+  type: relations/parental/dad
+  item: people/louvenia-boyle
+- 
+  type: relations/work/employer
+  item: companies/hand-schuster
+- 
+  type: relations/work/client
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/debtor
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

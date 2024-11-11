@@ -1,0 +1,64 @@
+Title: Americo Kilback
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nathanial-mckenzie
+- 
+  type: relations/parental/dad
+  item: people/zack-bradtke-iv
+- 
+  type: relations/parental/mom
+  item: people/myriam-mccullough
+- 
+  type: relations/money/creditor
+  item: people/mollie-stanton
+- 
+  type: relations/parental/brosis
+  item: people/julius-fadel
+- 
+  type: relations/parental/mom
+  item: people/mrs-justina-cremin
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/work/employer
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/client
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

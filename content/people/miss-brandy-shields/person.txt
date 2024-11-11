@@ -1,0 +1,64 @@
+Title: Miss Brandy Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-cindy-ratke
+- 
+  type: relations/parental/mom
+  item: people/jarret-shields
+- 
+  type: relations/parental/friend
+  item: people/christa-dooley
+- 
+  type: relations/parental/brosis
+  item: people/prof-bennie-padberg
+- 
+  type: relations/money/creditor
+  item: people/dr-aaron-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/marlee-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/debtor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

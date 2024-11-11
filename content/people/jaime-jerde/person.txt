@@ -1,0 +1,64 @@
+Title: Jaime Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alessia-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/santos-reynolds
+- 
+  type: relations/money/debtor
+  item: people/gianni-kuhic
+- 
+  type: relations/parental/dad
+  item: people/prof-arturo-feil
+- 
+  type: relations/parental/friend
+  item: people/ryder-barton
+- 
+  type: relations/parental/brosis
+  item: people/dr-jalen-emard-ii
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

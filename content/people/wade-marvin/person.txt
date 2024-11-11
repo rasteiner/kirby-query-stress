@@ -1,0 +1,65 @@
+Title: Wade Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ken-dickinson
+- 
+  type: relations/money/debtor
+  item: people/mr-brock-willms-jr
+- 
+  type: relations/parental/dad
+  item: people/prof-jalen-blanda
+- 
+  type: relations/parental/dad
+  item: people/pearl-robel
+- 
+  type: relations/parental/dad
+  item: people/keon-runte
+- 
+  type: relations/money/creditor
+  item: people/rosalind-wyman-phd
+- 
+  type: relations/work/employer
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/money/creditor
+  item: companies/muller-lockman
+- 
+  type: relations/work/employer
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

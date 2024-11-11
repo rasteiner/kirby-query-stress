@@ -1,0 +1,64 @@
+Title: Valentin Gislason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kareem-glover
+- 
+  type: relations/money/creditor
+  item: people/abigayle-koch
+- 
+  type: relations/money/debtor
+  item: people/lexus-kihn
+- 
+  type: relations/money/debtor
+  item: people/jany-hammes
+- 
+  type: relations/parental/dad
+  item: people/judy-borer
+- 
+  type: relations/money/creditor
+  item: people/issac-graham
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/client
+  item: companies/waters-collins
+- 
+  type: relations/money/debtor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

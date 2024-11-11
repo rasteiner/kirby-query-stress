@@ -1,0 +1,64 @@
+Title: Mae Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tre-gorczany
+- 
+  type: relations/parental/dad
+  item: people/sherman-west
+- 
+  type: relations/money/creditor
+  item: people/prof-pearlie-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/brant-fay
+- 
+  type: relations/parental/mom
+  item: people/mr-ian-sauer
+- 
+  type: relations/money/debtor
+  item: people/pablo-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/client
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

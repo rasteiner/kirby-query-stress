@@ -1,0 +1,43 @@
+Title: Swift, Connelly and Morar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/osinski-lehner
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside

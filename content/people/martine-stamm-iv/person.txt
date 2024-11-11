@@ -1,0 +1,64 @@
+Title: Martine Stamm IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/wilson-schulist
+- 
+  type: relations/parental/colleague
+  item: people/bridgette-d-amore
+- 
+  type: relations/parental/brosis
+  item: people/lavada-stoltenberg
+- 
+  type: relations/parental/colleague
+  item: people/prof-nico-friesen
+- 
+  type: relations/parental/friend
+  item: people/kevon-paucek
+- 
+  type: relations/parental/friend
+  item: people/prof-janiya-spencer
+- 
+  type: relations/work/employer
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/work/client
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

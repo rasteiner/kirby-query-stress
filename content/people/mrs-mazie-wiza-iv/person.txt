@@ -1,0 +1,64 @@
+Title: Mrs. Mazie Wiza IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/juliet-harvey
+- 
+  type: relations/parental/mom
+  item: people/prof-clovis-dach
+- 
+  type: relations/parental/friend
+  item: people/prof-dean-considine-md
+- 
+  type: relations/money/debtor
+  item: people/dr-electa-mccullough-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-aniyah-botsford-iv
+- 
+  type: relations/parental/friend
+  item: people/alta-tromp
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/creditor
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/client
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

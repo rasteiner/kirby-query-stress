@@ -1,0 +1,64 @@
+Title: Prof. Donavon Kessler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/sherwood-waters
+- 
+  type: relations/parental/brosis
+  item: people/violette-senger-jr
+- 
+  type: relations/money/creditor
+  item: people/benedict-parisian
+- 
+  type: relations/parental/mom
+  item: people/myra-schultz
+- 
+  type: relations/money/creditor
+  item: people/dr-tracy-turcotte
+- 
+  type: relations/parental/dad
+  item: people/khalil-kihn
+- 
+  type: relations/money/creditor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/work/client
+  item: companies/jenkins-group
+- 
+  type: relations/work/employer
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

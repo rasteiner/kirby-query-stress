@@ -1,0 +1,65 @@
+Title: Lonnie Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hortense-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/verdie-crooks
+- 
+  type: relations/money/creditor
+  item: people/mr-terrance-becker-dvm
+- 
+  type: relations/parental/dad
+  item: people/marcelo-haley
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kenna-koss
+- 
+  type: relations/parental/mom
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/employer
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

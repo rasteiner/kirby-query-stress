@@ -1,0 +1,64 @@
+Title: Melyssa Graham IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keara-walker
+- 
+  type: relations/parental/mom
+  item: people/cristina-cummerata-iii
+- 
+  type: relations/money/debtor
+  item: people/letha-stokes
+- 
+  type: relations/parental/brosis
+  item: people/vicky-heller
+- 
+  type: relations/money/creditor
+  item: people/kaylee-morar
+- 
+  type: relations/money/debtor
+  item: people/connie-carroll
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

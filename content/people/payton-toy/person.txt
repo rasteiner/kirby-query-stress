@@ -1,0 +1,64 @@
+Title: Payton Toy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/tyrique-davis
+- 
+  type: relations/parental/mom
+  item: people/armand-runte-dds
+- 
+  type: relations/parental/brosis
+  item: people/caitlyn-wintheiser
+- 
+  type: relations/parental/dad
+  item: people/vicky-frami-iv
+- 
+  type: relations/money/creditor
+  item: people/mortimer-weimann
+- 
+  type: relations/parental/brosis
+  item: people/prof-louvenia-cartwright-i
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

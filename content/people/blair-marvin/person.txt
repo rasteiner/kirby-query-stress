@@ -1,0 +1,64 @@
+Title: Blair Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-charley-fadel
+- 
+  type: relations/parental/mom
+  item: people/nona-walter
+- 
+  type: relations/parental/friend
+  item: people/miss-kyra-romaguera-sr
+- 
+  type: relations/parental/mom
+  item: people/ashlee-roberts
+- 
+  type: relations/parental/dad
+  item: people/kelly-morissette
+- 
+  type: relations/parental/colleague
+  item: people/linnea-price
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/work/employer
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

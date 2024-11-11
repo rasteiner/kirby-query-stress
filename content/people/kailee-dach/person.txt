@@ -1,0 +1,64 @@
+Title: Kailee Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-geovany-bode
+- 
+  type: relations/parental/colleague
+  item: people/lavinia-padberg
+- 
+  type: relations/parental/dad
+  item: people/nolan-welch
+- 
+  type: relations/money/creditor
+  item: people/mr-santino-schowalter
+- 
+  type: relations/parental/colleague
+  item: people/mr-laurel-stark-i
+- 
+  type: relations/parental/dad
+  item: people/marietta-mante
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

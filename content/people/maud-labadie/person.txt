@@ -1,0 +1,64 @@
+Title: Maud Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tatyana-windler
+- 
+  type: relations/parental/colleague
+  item: people/alberta-braun
+- 
+  type: relations/parental/mom
+  item: people/prof-name-koss
+- 
+  type: relations/money/creditor
+  item: people/heber-parisian
+- 
+  type: relations/parental/colleague
+  item: people/prof-william-morar
+- 
+  type: relations/money/debtor
+  item: people/pietro-turner
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

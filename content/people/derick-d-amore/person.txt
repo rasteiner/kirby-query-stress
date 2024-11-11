@@ -1,0 +1,64 @@
+Title: Derick D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/una-bauch
+- 
+  type: relations/parental/friend
+  item: people/brando-sipes
+- 
+  type: relations/money/creditor
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/parental/friend
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/parental/dad
+  item: people/lulu-champlin
+- 
+  type: relations/money/debtor
+  item: people/trisha-hagenes
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/work/employer
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

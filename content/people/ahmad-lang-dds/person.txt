@@ -1,0 +1,64 @@
+Title: Ahmad Lang DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lura-sipes
+- 
+  type: relations/money/creditor
+  item: people/dr-lela-senger-i
+- 
+  type: relations/parental/mom
+  item: people/christiana-kuhic
+- 
+  type: relations/parental/friend
+  item: people/turner-casper
+- 
+  type: relations/money/debtor
+  item: people/elnora-schulist-iv
+- 
+  type: relations/parental/mom
+  item: people/dasia-jenkins
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/employer
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

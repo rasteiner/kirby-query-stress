@@ -1,0 +1,65 @@
+Title: Miss Aditya Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/justina-gulgowski
+- 
+  type: relations/parental/mom
+  item: people/ms-anastasia-rice-dds
+- 
+  type: relations/money/creditor
+  item: people/nicholaus-brakus
+- 
+  type: relations/money/debtor
+  item: people/jorge-funk
+- 
+  type: relations/parental/dad
+  item: people/earlene-watsica
+- 
+  type: relations/parental/friend
+  item: people/ms-lexie-sawayn-dds
+- 
+  type: relations/money/debtor
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/schiller-collier
+- 
+  type: relations/money/debtor
+  item: companies/nienow-watsica
+- 
+  type: relations/work/client
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

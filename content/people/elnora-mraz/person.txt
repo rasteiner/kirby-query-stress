@@ -1,0 +1,64 @@
+Title: Elnora Mraz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kali-waelchi
+- 
+  type: relations/parental/mom
+  item: people/roberta-kunde
+- 
+  type: relations/money/creditor
+  item: people/christine-stark
+- 
+  type: relations/parental/friend
+  item: people/elmer-smith-iii
+- 
+  type: relations/parental/colleague
+  item: people/prof-wilber-thiel-iii
+- 
+  type: relations/parental/dad
+  item: people/edwin-dach
+- 
+  type: relations/work/employer
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

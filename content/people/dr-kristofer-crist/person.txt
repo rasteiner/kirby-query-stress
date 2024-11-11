@@ -1,0 +1,64 @@
+Title: Dr. Kristofer Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kamren-metz
+- 
+  type: relations/parental/dad
+  item: people/prof-arvilla-mills-iv
+- 
+  type: relations/parental/brosis
+  item: people/kiana-moore
+- 
+  type: relations/parental/colleague
+  item: people/dr-rodrick-green
+- 
+  type: relations/money/debtor
+  item: people/josue-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/prof-ole-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/sporer-llc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

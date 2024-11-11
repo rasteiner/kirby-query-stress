@@ -1,0 +1,43 @@
+Title: Schowalter-Grimes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/money/debtor
+  item: companies/murphy-inc
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/alfordview

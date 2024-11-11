@@ -1,0 +1,64 @@
+Title: Hester Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/antonio-green
+- 
+  type: relations/parental/mom
+  item: people/ms-taryn-greenholt
+- 
+  type: relations/parental/mom
+  item: people/francesca-bradtke
+- 
+  type: relations/money/creditor
+  item: people/jesse-herman
+- 
+  type: relations/parental/dad
+  item: people/shanny-hudson
+- 
+  type: relations/money/creditor
+  item: people/prof-garret-konopelski-md
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

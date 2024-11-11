@@ -1,0 +1,64 @@
+Title: Veda Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/autumn-sipes
+- 
+  type: relations/parental/mom
+  item: people/dr-travis-adams
+- 
+  type: relations/money/debtor
+  item: people/frederik-fritsch
+- 
+  type: relations/parental/brosis
+  item: people/maximilian-hettinger
+- 
+  type: relations/money/debtor
+  item: people/verner-kautzer
+- 
+  type: relations/parental/mom
+  item: people/oceane-goldner-iv
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/hintz-fisher
+- 
+  type: relations/work/employer
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

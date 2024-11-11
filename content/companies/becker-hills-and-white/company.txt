@@ -1,0 +1,43 @@
+Title: Becker, Hills and White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/kub-plc
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/creditor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven

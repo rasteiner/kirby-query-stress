@@ -1,0 +1,64 @@
+Title: Alanis Mante Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kris-dibbert
+- 
+  type: relations/parental/mom
+  item: people/myriam-yost
+- 
+  type: relations/money/debtor
+  item: people/bill-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/dr-eric-quigley-iii
+- 
+  type: relations/parental/dad
+  item: people/ethyl-miller
+- 
+  type: relations/money/creditor
+  item: people/mose-mosciski
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/money/debtor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

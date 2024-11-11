@@ -1,0 +1,64 @@
+Title: Kyle Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/carroll-goyette
+- 
+  type: relations/parental/friend
+  item: people/joshuah-doyle
+- 
+  type: relations/parental/friend
+  item: people/floyd-runte
+- 
+  type: relations/parental/colleague
+  item: people/ms-julia-kunde-iii
+- 
+  type: relations/parental/colleague
+  item: people/walker-mcglynn
+- 
+  type: relations/money/creditor
+  item: people/prof-carlee-hintz-phd
+- 
+  type: relations/work/employer
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/work/client
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

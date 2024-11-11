@@ -1,0 +1,64 @@
+Title: Dr. Evie Powlowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/sasha-rutherford-v
+- 
+  type: relations/parental/brosis
+  item: people/neoma-kunze
+- 
+  type: relations/parental/colleague
+  item: people/stephon-hudson
+- 
+  type: relations/money/debtor
+  item: people/rick-erdman
+- 
+  type: relations/parental/colleague
+  item: people/miss-aditya-ondricka-i
+- 
+  type: relations/parental/dad
+  item: people/bernie-schoen-iii
+- 
+  type: relations/work/employer
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/client
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/creditor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

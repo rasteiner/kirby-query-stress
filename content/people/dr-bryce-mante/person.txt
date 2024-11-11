@@ -1,0 +1,64 @@
+Title: Dr. Bryce Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-eldon-jacobi-dds
+- 
+  type: relations/money/creditor
+  item: people/kellen-deckow
+- 
+  type: relations/parental/friend
+  item: people/enid-sporer-ii
+- 
+  type: relations/parental/mom
+  item: people/abbey-buckridge
+- 
+  type: relations/parental/friend
+  item: people/liana-kirlin
+- 
+  type: relations/money/creditor
+  item: people/cordelia-walter-i
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

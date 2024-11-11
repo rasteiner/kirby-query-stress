@@ -1,0 +1,64 @@
+Title: Ms. Myrtle Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-catharine-ullrich-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-laura-parisian-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-abbey-hickle-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-armando-mcclure-v
+- 
+  type: relations/parental/dad
+  item: people/arturo-hermann
+- 
+  type: relations/parental/colleague
+  item: people/prof-virginia-kutch-iii
+- 
+  type: relations/money/debtor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

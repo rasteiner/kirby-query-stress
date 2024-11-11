@@ -1,0 +1,68 @@
+Title: Abigail Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-della-kerluke
+- 
+  type: relations/parental/friend
+  item: people/cordelia-ledner
+- 
+  type: relations/parental/colleague
+  item: people/victor-west
+- 
+  type: relations/parental/brosis
+  item: people/gisselle-kassulke-dvm
+- 
+  type: relations/parental/dad
+  item: people/isaiah-hirthe
+- 
+  type: relations/parental/friend
+  item: people/vickie-lemke
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/employer
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire
+
+----
+
+Uuid: wbkuddzfstf5ojdn

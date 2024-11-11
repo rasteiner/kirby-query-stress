@@ -1,0 +1,64 @@
+Title: Demario McDermott Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-lavon-senger
+- 
+  type: relations/money/creditor
+  item: people/marlin-bednar
+- 
+  type: relations/money/creditor
+  item: people/prof-joaquin-raynor
+- 
+  type: relations/parental/dad
+  item: people/miss-mozelle-turcotte
+- 
+  type: relations/money/creditor
+  item: people/prof-garett-schulist
+- 
+  type: relations/money/debtor
+  item: people/cedrick-torp
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-leannon
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

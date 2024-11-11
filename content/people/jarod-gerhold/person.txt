@@ -1,0 +1,64 @@
+Title: Jarod Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jeffery-welch-iv
+- 
+  type: relations/parental/colleague
+  item: people/viviane-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/consuelo-o-connell
+- 
+  type: relations/parental/friend
+  item: people/dr-reba-dicki-jr
+- 
+  type: relations/parental/friend
+  item: people/hayley-stehr
+- 
+  type: relations/parental/mom
+  item: people/princess-romaguera
+- 
+  type: relations/work/client
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/work/employer
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

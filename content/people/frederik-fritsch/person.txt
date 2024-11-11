@@ -1,0 +1,64 @@
+Title: Frederik Fritsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-leann-stehr
+- 
+  type: relations/money/creditor
+  item: people/dr-brisa-kerluke-dvm
+- 
+  type: relations/parental/friend
+  item: people/connor-franecki
+- 
+  type: relations/parental/friend
+  item: people/brando-brakus
+- 
+  type: relations/parental/mom
+  item: people/devonte-miller
+- 
+  type: relations/parental/friend
+  item: people/prof-rick-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/employer
+  item: companies/douglas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

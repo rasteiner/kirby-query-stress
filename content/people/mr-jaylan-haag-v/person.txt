@@ -1,0 +1,64 @@
+Title: Mr. Jaylan Haag V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dora-thompson
+- 
+  type: relations/parental/colleague
+  item: people/geoffrey-abernathy-dds
+- 
+  type: relations/money/debtor
+  item: people/oswaldo-hegmann
+- 
+  type: relations/parental/dad
+  item: people/mr-spencer-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/dr-jasen-daugherty-ii
+- 
+  type: relations/parental/brosis
+  item: people/brionna-schumm
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

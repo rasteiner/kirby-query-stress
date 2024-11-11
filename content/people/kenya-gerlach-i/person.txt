@@ -1,0 +1,64 @@
+Title: Kenya Gerlach I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/declan-kuhic-v
+- 
+  type: relations/parental/dad
+  item: people/miss-kirstin-nolan
+- 
+  type: relations/parental/dad
+  item: people/dr-orlo-lemke-md
+- 
+  type: relations/parental/mom
+  item: people/cleora-schultz-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-gerson-thiel
+- 
+  type: relations/parental/dad
+  item: people/frieda-breitenberg-i
+- 
+  type: relations/work/client
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/client
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/work/client
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

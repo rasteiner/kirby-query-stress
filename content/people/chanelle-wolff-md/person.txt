@@ -1,0 +1,64 @@
+Title: Chanelle Wolff MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nicolas-roberts
+- 
+  type: relations/parental/friend
+  item: people/eleonore-bashirian
+- 
+  type: relations/money/debtor
+  item: people/webster-wyman
+- 
+  type: relations/parental/colleague
+  item: people/eleazar-adams
+- 
+  type: relations/parental/mom
+  item: people/mr-billy-ferry-md
+- 
+  type: relations/parental/friend
+  item: people/prof-stefanie-gulgowski-md
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/keebler-inc
+- 
+  type: relations/money/debtor
+  item: companies/dicki-ltd
+- 
+  type: relations/work/employer
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

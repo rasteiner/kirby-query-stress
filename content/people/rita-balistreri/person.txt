@@ -1,0 +1,64 @@
+Title: Rita Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-krystal-friesen-iv
+- 
+  type: relations/parental/dad
+  item: people/ms-nichole-mante
+- 
+  type: relations/parental/friend
+  item: people/mrs-hortense-gusikowski
+- 
+  type: relations/parental/colleague
+  item: people/gustave-mclaughlin
+- 
+  type: relations/parental/dad
+  item: people/genesis-goodwin-dds
+- 
+  type: relations/money/creditor
+  item: people/steve-kassulke
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

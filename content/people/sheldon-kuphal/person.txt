@@ -1,0 +1,64 @@
+Title: Sheldon Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/damaris-hamill
+- 
+  type: relations/parental/brosis
+  item: people/rosanna-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/regan-heidenreich
+- 
+  type: relations/money/creditor
+  item: people/aurore-dickens
+- 
+  type: relations/parental/dad
+  item: people/leif-rippin
+- 
+  type: relations/parental/colleague
+  item: people/prof-emerson-koch
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

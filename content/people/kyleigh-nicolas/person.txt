@@ -1,0 +1,64 @@
+Title: Kyleigh Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-jamison-okuneva
+- 
+  type: relations/parental/brosis
+  item: people/antonietta-koss
+- 
+  type: relations/parental/friend
+  item: people/jarrod-bahringer
+- 
+  type: relations/parental/colleague
+  item: people/trudie-greenholt-jr
+- 
+  type: relations/parental/dad
+  item: people/ernesto-daniel
+- 
+  type: relations/parental/friend
+  item: people/prof-raymond-robel-ii
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

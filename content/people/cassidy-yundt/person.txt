@@ -1,0 +1,64 @@
+Title: Cassidy Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-josefina-frami
+- 
+  type: relations/money/debtor
+  item: people/leif-friesen-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-felix-keeling
+- 
+  type: relations/parental/brosis
+  item: people/lafayette-treutel
+- 
+  type: relations/parental/brosis
+  item: people/ms-camille-lueilwitz-iv
+- 
+  type: relations/parental/friend
+  item: people/prof-yazmin-shanahan-ii
+- 
+  type: relations/work/employer
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

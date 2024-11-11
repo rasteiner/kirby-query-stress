@@ -1,0 +1,64 @@
+Title: Gretchen Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-beth-nitzsche-v
+- 
+  type: relations/parental/mom
+  item: people/ms-taya-hintz
+- 
+  type: relations/parental/dad
+  item: people/isac-russel
+- 
+  type: relations/money/debtor
+  item: people/gussie-kemmer-jr
+- 
+  type: relations/money/creditor
+  item: people/miss-sydnie-douglas
+- 
+  type: relations/money/debtor
+  item: people/narciso-dicki
+- 
+  type: relations/work/client
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/money/debtor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/client
+  item: companies/beahan-sauer
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

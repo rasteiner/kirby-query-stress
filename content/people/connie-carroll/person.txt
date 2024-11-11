@@ -1,0 +1,64 @@
+Title: Connie Carroll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adalberto-mann
+- 
+  type: relations/parental/colleague
+  item: people/prof-buford-mosciski-md
+- 
+  type: relations/money/creditor
+  item: people/christy-vandervort
+- 
+  type: relations/parental/mom
+  item: people/dr-cristal-beatty
+- 
+  type: relations/money/debtor
+  item: people/ellen-schmitt-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-santina-fisher-iv
+- 
+  type: relations/money/debtor
+  item: companies/doyle-murphy
+- 
+  type: relations/work/employer
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

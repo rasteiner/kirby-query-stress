@@ -1,0 +1,64 @@
+Title: Carroll Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/antonio-oberbrunner
+- 
+  type: relations/money/debtor
+  item: people/marianne-windler-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-reyna-willms
+- 
+  type: relations/money/debtor
+  item: people/alexane-armstrong
+- 
+  type: relations/parental/brosis
+  item: people/mrs-anais-hodkiewicz-iv
+- 
+  type: relations/parental/dad
+  item: people/queen-franecki
+- 
+  type: relations/money/debtor
+  item: companies/huels-walter
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

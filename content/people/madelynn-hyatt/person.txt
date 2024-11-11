@@ -1,0 +1,64 @@
+Title: Madelynn Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/krystel-gorczany
+- 
+  type: relations/parental/dad
+  item: people/kenyon-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/dr-hope-larson-iii
+- 
+  type: relations/money/creditor
+  item: people/pearlie-sauer
+- 
+  type: relations/parental/colleague
+  item: people/danika-lowe-jr
+- 
+  type: relations/parental/brosis
+  item: people/erica-yundt
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/work/client
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

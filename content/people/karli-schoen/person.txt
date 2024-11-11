@@ -1,0 +1,65 @@
+Title: Karli Schoen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kyleigh-nicolas
+- 
+  type: relations/parental/colleague
+  item: people/sidney-ledner
+- 
+  type: relations/parental/brosis
+  item: people/dr-roslyn-eichmann-v
+- 
+  type: relations/parental/colleague
+  item: people/lorenzo-mertz
+- 
+  type: relations/parental/colleague
+  item: people/mrs-bert-bauch-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-jimmy-schmitt
+- 
+  type: relations/work/employer
+  item: companies/runte-cremin
+- 
+  type: relations/work/employer
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/client
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/work/client
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

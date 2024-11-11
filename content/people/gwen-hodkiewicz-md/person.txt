@@ -1,0 +1,64 @@
+Title: Gwen Hodkiewicz MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-margie-bartoletti
+- 
+  type: relations/parental/colleague
+  item: people/candido-johns
+- 
+  type: relations/money/debtor
+  item: people/nichole-wilderman
+- 
+  type: relations/parental/friend
+  item: people/kayley-kreiger
+- 
+  type: relations/money/creditor
+  item: people/kaylie-johns-dds
+- 
+  type: relations/money/debtor
+  item: people/herminio-hermiston
+- 
+  type: relations/work/employer
+  item: companies/waters-and-sons
+- 
+  type: relations/work/employer
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

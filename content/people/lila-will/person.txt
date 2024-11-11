@@ -1,0 +1,64 @@
+Title: Lila Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/porter-ward
+- 
+  type: relations/parental/colleague
+  item: people/chauncey-corwin
+- 
+  type: relations/money/creditor
+  item: people/terrance-schuster
+- 
+  type: relations/money/creditor
+  item: people/prof-kamron-boyer-dds
+- 
+  type: relations/parental/colleague
+  item: people/hassie-white
+- 
+  type: relations/money/debtor
+  item: people/danika-stroman
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

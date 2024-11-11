@@ -1,0 +1,64 @@
+Title: Imelda Mosciski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-alfonzo-kreiger-v
+- 
+  type: relations/parental/colleague
+  item: people/prof-ivah-nolan-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-lulu-o-connell
+- 
+  type: relations/parental/friend
+  item: people/maida-little
+- 
+  type: relations/parental/friend
+  item: people/zaria-jenkins
+- 
+  type: relations/parental/mom
+  item: people/prof-albin-lemke
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

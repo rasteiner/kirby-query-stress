@@ -1,0 +1,64 @@
+Title: Berry Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-linnea-von
+- 
+  type: relations/money/creditor
+  item: people/prof-jodie-okuneva-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-arne-hudson
+- 
+  type: relations/parental/colleague
+  item: people/miss-tanya-hammes
+- 
+  type: relations/money/creditor
+  item: people/dr-leo-beer
+- 
+  type: relations/parental/dad
+  item: people/talia-mccullough
+- 
+  type: relations/work/client
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/employer
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

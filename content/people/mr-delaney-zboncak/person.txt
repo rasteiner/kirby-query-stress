@@ -1,0 +1,64 @@
+Title: Mr. Delaney Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elinore-hackett
+- 
+  type: relations/parental/mom
+  item: people/prof-clara-cremin-iii
+- 
+  type: relations/parental/dad
+  item: people/prof-moises-streich
+- 
+  type: relations/parental/dad
+  item: people/prof-enrico-stroman-ii
+- 
+  type: relations/parental/friend
+  item: people/franco-stracke
+- 
+  type: relations/money/creditor
+  item: people/prof-keely-mante
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/employer
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

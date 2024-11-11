@@ -1,0 +1,64 @@
+Title: Dr. Lonny Marquardt DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-marisol-williamson-ii
+- 
+  type: relations/parental/brosis
+  item: people/nelda-adams-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-turner-heathcote
+- 
+  type: relations/money/creditor
+  item: people/felicity-huels
+- 
+  type: relations/parental/colleague
+  item: people/keagan-gutkowski
+- 
+  type: relations/parental/brosis
+  item: people/arvilla-treutel
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/money/creditor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

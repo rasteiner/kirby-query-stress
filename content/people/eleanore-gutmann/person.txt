@@ -1,0 +1,64 @@
+Title: Eleanore Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/watson-hand
+- 
+  type: relations/money/debtor
+  item: people/roxane-predovic
+- 
+  type: relations/money/debtor
+  item: people/miss-susie-rice-md
+- 
+  type: relations/parental/mom
+  item: people/iliana-reinger
+- 
+  type: relations/money/creditor
+  item: people/kelsi-dietrich
+- 
+  type: relations/parental/mom
+  item: people/dr-arnaldo-balistreri-dds
+- 
+  type: relations/work/client
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/client
+  item: companies/beer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

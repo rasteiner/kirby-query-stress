@@ -1,0 +1,64 @@
+Title: Jaycee Borer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/malachi-waelchi
+- 
+  type: relations/money/debtor
+  item: people/agustina-wuckert
+- 
+  type: relations/parental/dad
+  item: people/garnett-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/else-moen-jr
+- 
+  type: relations/parental/friend
+  item: people/theo-hyatt
+- 
+  type: relations/parental/mom
+  item: people/carli-walsh
+- 
+  type: relations/money/debtor
+  item: companies/bogan-ltd
+- 
+  type: relations/work/client
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/work/client
+  item: companies/schmidt-llc
+- 
+  type: relations/work/employer
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

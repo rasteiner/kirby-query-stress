@@ -1,0 +1,64 @@
+Title: Alva Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-jared-willms-sr
+- 
+  type: relations/parental/colleague
+  item: people/maximo-considine
+- 
+  type: relations/parental/friend
+  item: people/vern-wunsch
+- 
+  type: relations/parental/mom
+  item: people/timmy-kihn
+- 
+  type: relations/money/creditor
+  item: people/verona-christiansen
+- 
+  type: relations/money/debtor
+  item: people/cullen-lehner-v
+- 
+  type: relations/money/debtor
+  item: companies/quigley-luettgen
+- 
+  type: relations/work/client
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/debtor
+  item: companies/collier-plc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

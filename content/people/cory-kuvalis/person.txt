@@ -1,0 +1,64 @@
+Title: Cory Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-marc-kunze-v
+- 
+  type: relations/parental/mom
+  item: people/karine-abernathy
+- 
+  type: relations/parental/dad
+  item: people/prof-stefan-tromp
+- 
+  type: relations/money/debtor
+  item: people/carlee-sauer
+- 
+  type: relations/parental/colleague
+  item: people/prof-arlie-renner-iv
+- 
+  type: relations/money/creditor
+  item: people/ms-river-wolff
+- 
+  type: relations/work/employer
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

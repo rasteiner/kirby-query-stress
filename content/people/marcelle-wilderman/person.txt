@@ -1,0 +1,64 @@
+Title: Marcelle Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-joaquin-trantow
+- 
+  type: relations/parental/friend
+  item: people/nick-murazik
+- 
+  type: relations/parental/friend
+  item: people/prof-maurice-gaylord-iv
+- 
+  type: relations/money/debtor
+  item: people/elisa-kassulke-ii
+- 
+  type: relations/parental/colleague
+  item: people/giuseppe-halvorson
+- 
+  type: relations/parental/brosis
+  item: people/brennon-bogan
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

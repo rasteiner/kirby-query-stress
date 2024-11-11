@@ -1,0 +1,43 @@
+Title: Becker Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/carter-inc
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/schinner-llc
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh

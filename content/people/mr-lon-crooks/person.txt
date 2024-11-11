@@ -1,0 +1,64 @@
+Title: Mr. Lon Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ettie-rodriguez
+- 
+  type: relations/parental/colleague
+  item: people/bridget-sauer
+- 
+  type: relations/money/debtor
+  item: people/mrs-malinda-turcotte
+- 
+  type: relations/parental/brosis
+  item: people/dr-shaylee-doyle-md
+- 
+  type: relations/money/debtor
+  item: people/angus-windler
+- 
+  type: relations/parental/mom
+  item: people/arvilla-heller
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

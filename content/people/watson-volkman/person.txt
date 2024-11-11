@@ -1,0 +1,64 @@
+Title: Watson Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/juliana-torp
+- 
+  type: relations/money/creditor
+  item: people/leta-dibbert
+- 
+  type: relations/parental/dad
+  item: people/ova-pfeffer-md
+- 
+  type: relations/parental/dad
+  item: people/dr-jesse-metz-phd
+- 
+  type: relations/parental/mom
+  item: people/prof-karley-nader-jr
+- 
+  type: relations/money/debtor
+  item: people/tianna-bahringer-i
+- 
+  type: relations/work/employer
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/employer
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Ken Dickinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/parental/friend
+  item: people/paris-hagenes
+- 
+  type: relations/parental/mom
+  item: people/prof-freddy-zieme
+- 
+  type: relations/parental/dad
+  item: people/orin-turner
+- 
+  type: relations/money/debtor
+  item: people/prof-benedict-raynor-iii
+- 
+  type: relations/parental/brosis
+  item: people/dr-dina-bartoletti-iv
+- 
+  type: relations/money/creditor
+  item: companies/purdy-koch
+- 
+  type: relations/money/debtor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/work/client
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

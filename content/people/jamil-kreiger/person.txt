@@ -1,0 +1,64 @@
+Title: Jamil Kreiger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/libby-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/koby-rippin
+- 
+  type: relations/parental/colleague
+  item: people/ophelia-schmitt
+- 
+  type: relations/parental/mom
+  item: people/marley-schinner
+- 
+  type: relations/parental/dad
+  item: people/alverta-heathcote-iii
+- 
+  type: relations/parental/brosis
+  item: people/ali-monahan
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/creditor
+  item: companies/johnson-windler
+- 
+  type: relations/work/client
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

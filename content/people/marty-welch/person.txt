@@ -1,0 +1,64 @@
+Title: Marty Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/javon-pollich
+- 
+  type: relations/parental/friend
+  item: people/gabrielle-kuhic
+- 
+  type: relations/parental/brosis
+  item: people/selina-kuphal
+- 
+  type: relations/parental/friend
+  item: people/dixie-harris
+- 
+  type: relations/parental/friend
+  item: people/ms-anne-price
+- 
+  type: relations/parental/mom
+  item: people/aisha-goodwin-ii
+- 
+  type: relations/work/client
+  item: companies/schamberger-group
+- 
+  type: relations/money/debtor
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

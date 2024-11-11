@@ -1,0 +1,44 @@
+Title: Wolf-Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/debtor
+  item: companies/hermann-murphy
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-inc
+- 
+  type: relations/location/residence
+  item: places/brayanmouth
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport

@@ -1,0 +1,64 @@
+Title: Viva Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-george-ledner
+- 
+  type: relations/parental/mom
+  item: people/dr-iva-johnston
+- 
+  type: relations/money/creditor
+  item: people/michale-johns
+- 
+  type: relations/money/debtor
+  item: people/mr-mervin-conroy
+- 
+  type: relations/parental/colleague
+  item: people/mrs-aisha-stokes-v
+- 
+  type: relations/parental/mom
+  item: people/millie-luettgen
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/money/debtor
+  item: companies/schneider-leannon
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

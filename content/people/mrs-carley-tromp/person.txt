@@ -1,0 +1,64 @@
+Title: Mrs. Carley Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/margaret-padberg
+- 
+  type: relations/parental/friend
+  item: people/prof-ayana-huels
+- 
+  type: relations/parental/friend
+  item: people/lenna-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/athena-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/prof-citlalli-wyman-i
+- 
+  type: relations/money/debtor
+  item: people/mr-louie-rath-i
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/work/employer
+  item: companies/collins-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Crawford Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/diamond-ondricka
+- 
+  type: relations/parental/brosis
+  item: people/kelly-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/johann-corwin
+- 
+  type: relations/parental/dad
+  item: people/terrence-orn
+- 
+  type: relations/parental/mom
+  item: people/berenice-fadel-ii
+- 
+  type: relations/parental/dad
+  item: people/miss-kyra-howe
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/work/client
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Eusebio Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/terrence-gottlieb
+- 
+  type: relations/money/creditor
+  item: people/hassie-koelpin
+- 
+  type: relations/money/creditor
+  item: people/gordon-balistreri
+- 
+  type: relations/parental/brosis
+  item: people/lauriane-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/chanel-ziemann
+- 
+  type: relations/money/creditor
+  item: people/morgan-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

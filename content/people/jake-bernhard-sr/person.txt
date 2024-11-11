@@ -1,0 +1,64 @@
+Title: Jake Bernhard Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-kristofer-crist
+- 
+  type: relations/money/debtor
+  item: people/brooks-zieme-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-lillian-ullrich
+- 
+  type: relations/parental/friend
+  item: people/vida-bode
+- 
+  type: relations/parental/friend
+  item: people/dr-rudolph-beer-ii
+- 
+  type: relations/parental/mom
+  item: people/ibrahim-heaney-i
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/client
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/work/employer
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/employer
+  item: companies/osinski-lehner
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

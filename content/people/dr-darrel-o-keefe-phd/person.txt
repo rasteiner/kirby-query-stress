@@ -1,0 +1,64 @@
+Title: Dr. Darrel O'Keefe PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-sabina-beier-dvm
+- 
+  type: relations/money/debtor
+  item: people/joanne-koch
+- 
+  type: relations/money/debtor
+  item: people/mr-torrey-farrell-jr
+- 
+  type: relations/parental/dad
+  item: people/eleazar-goyette
+- 
+  type: relations/parental/colleague
+  item: people/miss-maritza-armstrong-iii
+- 
+  type: relations/money/creditor
+  item: people/matilde-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/employer
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

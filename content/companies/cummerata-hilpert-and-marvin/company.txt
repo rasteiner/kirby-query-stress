@@ -1,0 +1,44 @@
+Title: Cummerata, Hilpert and Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/money/creditor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-inc
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/new-freddy

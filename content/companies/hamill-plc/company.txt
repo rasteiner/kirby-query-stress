@@ -1,0 +1,43 @@
+Title: Hamill PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/kuhicborough

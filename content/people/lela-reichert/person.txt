@@ -1,0 +1,64 @@
+Title: Lela Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-rosie-barton-phd
+- 
+  type: relations/parental/brosis
+  item: people/brady-kulas-sr
+- 
+  type: relations/parental/friend
+  item: people/eudora-rutherford
+- 
+  type: relations/money/debtor
+  item: people/ottis-murray
+- 
+  type: relations/parental/mom
+  item: people/linnie-moore
+- 
+  type: relations/money/creditor
+  item: people/pat-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/creditor
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

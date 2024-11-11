@@ -1,0 +1,64 @@
+Title: Lambert Homenick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dortha-wintheiser-sr
+- 
+  type: relations/parental/mom
+  item: people/miss-queen-smith
+- 
+  type: relations/parental/brosis
+  item: people/eileen-doyle
+- 
+  type: relations/money/creditor
+  item: people/alvina-hettinger-i
+- 
+  type: relations/parental/friend
+  item: people/hassie-denesik
+- 
+  type: relations/money/debtor
+  item: people/miss-violette-zemlak
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/employer
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

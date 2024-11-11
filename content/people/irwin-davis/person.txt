@@ -1,0 +1,64 @@
+Title: Irwin Davis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-kattie-reichert
+- 
+  type: relations/parental/colleague
+  item: people/dr-antonetta-o-hara-dds
+- 
+  type: relations/parental/mom
+  item: people/hailey-roob
+- 
+  type: relations/parental/colleague
+  item: people/prof-manley-krajcik-iii
+- 
+  type: relations/parental/brosis
+  item: people/clinton-koss
+- 
+  type: relations/parental/dad
+  item: people/anika-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

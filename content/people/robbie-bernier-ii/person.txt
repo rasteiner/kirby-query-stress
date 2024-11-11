@@ -1,0 +1,64 @@
+Title: Robbie Bernier II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alva-will-phd
+- 
+  type: relations/parental/brosis
+  item: people/miss-roxanne-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/caitlyn-wyman
+- 
+  type: relations/parental/brosis
+  item: people/dr-vallie-reichel-jr
+- 
+  type: relations/parental/mom
+  item: people/betsy-graham-i
+- 
+  type: relations/money/debtor
+  item: people/priscilla-kunze-iii
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/client
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

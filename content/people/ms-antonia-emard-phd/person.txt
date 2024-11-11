@@ -1,0 +1,64 @@
+Title: Ms. Antonia Emard PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gianni-lind
+- 
+  type: relations/money/debtor
+  item: people/destiny-wolff
+- 
+  type: relations/parental/friend
+  item: people/dr-tracy-harvey-md
+- 
+  type: relations/parental/friend
+  item: people/santina-bergstrom-sr
+- 
+  type: relations/money/creditor
+  item: people/moses-botsford
+- 
+  type: relations/parental/mom
+  item: people/dr-johnathan-flatley
+- 
+  type: relations/work/employer
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/work/client
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

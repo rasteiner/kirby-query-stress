@@ -1,0 +1,64 @@
+Title: Hailee Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/chauncey-marquardt
+- 
+  type: relations/parental/dad
+  item: people/keith-dickinson-ii
+- 
+  type: relations/parental/mom
+  item: people/jamaal-franecki
+- 
+  type: relations/parental/dad
+  item: people/trisha-schaden-iii
+- 
+  type: relations/money/debtor
+  item: people/annetta-metz
+- 
+  type: relations/parental/colleague
+  item: people/lela-leffler
+- 
+  type: relations/work/client
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/ferry-carter
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/client
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

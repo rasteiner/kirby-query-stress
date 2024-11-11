@@ -1,0 +1,64 @@
+Title: Dr. Rossie Rohan Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-mikayla-price
+- 
+  type: relations/parental/brosis
+  item: people/dr-claudie-hagenes-md
+- 
+  type: relations/parental/mom
+  item: people/mylene-howell
+- 
+  type: relations/parental/colleague
+  item: people/francesca-dach
+- 
+  type: relations/parental/brosis
+  item: people/lexie-brekke
+- 
+  type: relations/parental/mom
+  item: people/eudora-zemlak-dvm
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/work/client
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

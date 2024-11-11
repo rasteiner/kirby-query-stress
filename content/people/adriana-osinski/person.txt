@@ -1,0 +1,64 @@
+Title: Adriana Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-hollie-dach-i
+- 
+  type: relations/money/debtor
+  item: people/prof-ramona-bogisich
+- 
+  type: relations/parental/mom
+  item: people/kayli-effertz
+- 
+  type: relations/parental/friend
+  item: people/lamont-ryan
+- 
+  type: relations/parental/mom
+  item: people/mollie-ankunding
+- 
+  type: relations/parental/mom
+  item: people/prof-chasity-heidenreich
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/client
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/client
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

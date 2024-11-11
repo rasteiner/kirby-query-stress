@@ -1,0 +1,64 @@
+Title: Prince Okuneva II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-elsa-wintheiser-md
+- 
+  type: relations/money/debtor
+  item: people/alisha-stracke
+- 
+  type: relations/parental/dad
+  item: people/dr-alexander-stracke
+- 
+  type: relations/money/creditor
+  item: people/mallie-okuneva
+- 
+  type: relations/parental/colleague
+  item: people/blaise-friesen
+- 
+  type: relations/money/creditor
+  item: people/corrine-lakin-v
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/work/client
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

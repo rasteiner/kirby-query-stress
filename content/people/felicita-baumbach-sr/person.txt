@@ -1,0 +1,64 @@
+Title: Felicita Baumbach Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-myrtle-gorczany-iv
+- 
+  type: relations/parental/brosis
+  item: people/dr-forrest-baumbach-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dr-rozella-mckenzie-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-jon-kessler
+- 
+  type: relations/parental/brosis
+  item: people/dr-abe-powlowski
+- 
+  type: relations/parental/dad
+  item: people/elton-murray
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/client
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

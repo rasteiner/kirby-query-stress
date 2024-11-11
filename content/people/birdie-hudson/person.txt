@@ -1,0 +1,64 @@
+Title: Birdie Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-vern-mitchell
+- 
+  type: relations/money/creditor
+  item: people/prof-eudora-kreiger-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-marlene-purdy-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-ole-ryan
+- 
+  type: relations/money/creditor
+  item: people/elaina-williamson
+- 
+  type: relations/parental/brosis
+  item: people/cruz-runolfsdottir
+- 
+  type: relations/work/employer
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/work/client
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

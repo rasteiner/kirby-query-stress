@@ -1,0 +1,64 @@
+Title: Tiffany Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-vallie-batz
+- 
+  type: relations/parental/mom
+  item: people/ressie-rodriguez-v
+- 
+  type: relations/parental/dad
+  item: people/will-nienow
+- 
+  type: relations/parental/friend
+  item: people/guillermo-goyette-i
+- 
+  type: relations/parental/mom
+  item: people/ila-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/mr-enoch-denesik-jr
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/work/employer
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/employer
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

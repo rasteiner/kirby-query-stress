@@ -1,0 +1,64 @@
+Title: Paige DuBuque
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/leif-rippin
+- 
+  type: relations/money/creditor
+  item: people/prof-emerson-koch
+- 
+  type: relations/money/creditor
+  item: people/dr-ezequiel-zemlak
+- 
+  type: relations/money/creditor
+  item: people/alexandra-kulas
+- 
+  type: relations/parental/mom
+  item: people/alexandre-howell
+- 
+  type: relations/parental/dad
+  item: people/deangelo-heidenreich
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

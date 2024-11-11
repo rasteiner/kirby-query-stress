@@ -1,0 +1,64 @@
+Title: Ryan Ullrich II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-garry-lemke-v
+- 
+  type: relations/parental/mom
+  item: people/simeon-gusikowski
+- 
+  type: relations/money/creditor
+  item: people/carissa-deckow
+- 
+  type: relations/parental/dad
+  item: people/franco-skiles-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-ellie-feil
+- 
+  type: relations/parental/friend
+  item: people/hyman-willms
+- 
+  type: relations/work/client
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/client
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

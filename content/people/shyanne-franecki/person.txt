@@ -1,0 +1,64 @@
+Title: Shyanne Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-aron-ernser-ii
+- 
+  type: relations/money/creditor
+  item: people/emil-roob
+- 
+  type: relations/parental/dad
+  item: people/riley-miller
+- 
+  type: relations/parental/dad
+  item: people/dr-gudrun-powlowski
+- 
+  type: relations/money/debtor
+  item: people/art-wolff
+- 
+  type: relations/money/creditor
+  item: people/daren-bernhard
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/employer
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

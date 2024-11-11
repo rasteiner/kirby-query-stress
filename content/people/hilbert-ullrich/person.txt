@@ -1,0 +1,64 @@
+Title: Hilbert Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/leslie-hilpert
+- 
+  type: relations/money/creditor
+  item: people/theron-heller
+- 
+  type: relations/parental/colleague
+  item: people/freeman-kohler-v
+- 
+  type: relations/money/debtor
+  item: people/letha-fay
+- 
+  type: relations/parental/dad
+  item: people/billy-kiehn
+- 
+  type: relations/parental/mom
+  item: people/trenton-schulist
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/work/employer
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/employer
+  item: companies/schoen-reinger
+- 
+  type: relations/work/client
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

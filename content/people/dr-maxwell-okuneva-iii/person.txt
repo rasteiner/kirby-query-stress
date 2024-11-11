@@ -1,0 +1,64 @@
+Title: Dr. Maxwell Okuneva III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/lila-walter
+- 
+  type: relations/parental/friend
+  item: people/demarco-kertzmann
+- 
+  type: relations/money/creditor
+  item: people/trudie-veum
+- 
+  type: relations/parental/colleague
+  item: people/prof-kevon-quitzon
+- 
+  type: relations/parental/brosis
+  item: people/ms-addison-morar
+- 
+  type: relations/work/client
+  item: companies/stanton-bailey
+- 
+  type: relations/work/employer
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Prof. Clemens Auer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/austyn-monahan-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-rowan-goyette
+- 
+  type: relations/parental/brosis
+  item: people/ansel-prosacco
+- 
+  type: relations/parental/mom
+  item: people/will-casper-md
+- 
+  type: relations/money/creditor
+  item: people/jordyn-brakus
+- 
+  type: relations/money/creditor
+  item: people/alysson-fadel
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

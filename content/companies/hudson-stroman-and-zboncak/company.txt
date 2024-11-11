@@ -1,0 +1,44 @@
+Title: Hudson, Stroman and Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schimmel-lehner
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/treutel-plc
+- 
+  type: relations/money/creditor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/creditor
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/becker-ltd
+- 
+  type: relations/location/visited
+  item: places/crookstown
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport

@@ -1,0 +1,64 @@
+Title: Augustus Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/roberta-larkin
+- 
+  type: relations/parental/mom
+  item: people/marilou-towne
+- 
+  type: relations/parental/brosis
+  item: people/carlos-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/prof-hailey-friesen
+- 
+  type: relations/parental/friend
+  item: people/mrs-krystina-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/seth-collier-i
+- 
+  type: relations/money/creditor
+  item: companies/thompson-flatley
+- 
+  type: relations/money/debtor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/client
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

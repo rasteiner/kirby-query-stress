@@ -1,0 +1,43 @@
+Title: Leffler, Bogisich and Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/money/debtor
+  item: companies/lemke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/money/creditor
+  item: companies/emard-inc
+- 
+  type: relations/money/debtor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/port-jonfort

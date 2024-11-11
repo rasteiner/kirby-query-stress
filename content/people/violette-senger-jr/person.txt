@@ -1,0 +1,64 @@
+Title: Violette Senger Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-arnaldo-dach-md
+- 
+  type: relations/parental/mom
+  item: people/deshawn-mueller-v
+- 
+  type: relations/parental/friend
+  item: people/amely-smith-jr
+- 
+  type: relations/money/debtor
+  item: people/evangeline-flatley
+- 
+  type: relations/parental/friend
+  item: people/josianne-grady-iii
+- 
+  type: relations/parental/brosis
+  item: people/selina-pouros
+- 
+  type: relations/work/client
+  item: companies/hamill-herzog
+- 
+  type: relations/work/employer
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/employer
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

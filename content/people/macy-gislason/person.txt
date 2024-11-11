@@ -1,0 +1,64 @@
+Title: Macy Gislason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/colleague
+  item: people/nikko-king
+- 
+  type: relations/money/debtor
+  item: people/amanda-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/cathrine-marquardt-ii
+- 
+  type: relations/parental/mom
+  item: people/mabelle-goyette
+- 
+  type: relations/parental/friend
+  item: people/delia-rodriguez
+- 
+  type: relations/money/creditor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/work/client
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

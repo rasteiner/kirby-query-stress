@@ -1,0 +1,64 @@
+Title: Jamey Nienow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/malachi-waelchi
+- 
+  type: relations/parental/colleague
+  item: people/agustina-wuckert
+- 
+  type: relations/parental/mom
+  item: people/garnett-luettgen
+- 
+  type: relations/money/debtor
+  item: people/else-moen-jr
+- 
+  type: relations/parental/dad
+  item: people/theo-hyatt
+- 
+  type: relations/parental/dad
+  item: people/carli-walsh
+- 
+  type: relations/money/creditor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/work/employer
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

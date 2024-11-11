@@ -1,0 +1,64 @@
+Title: Shanon Rohan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/opal-o-conner-sr
+- 
+  type: relations/money/debtor
+  item: people/wava-ziemann
+- 
+  type: relations/parental/colleague
+  item: people/guiseppe-larkin
+- 
+  type: relations/parental/mom
+  item: people/walter-gerlach
+- 
+  type: relations/parental/dad
+  item: people/aurelie-schuster
+- 
+  type: relations/parental/brosis
+  item: people/cecile-bednar
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/employer
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

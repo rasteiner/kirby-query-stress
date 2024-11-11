@@ -1,0 +1,64 @@
+Title: Nathen Ortiz IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-sanford-bergstrom
+- 
+  type: relations/parental/colleague
+  item: people/erica-cartwright-v
+- 
+  type: relations/money/creditor
+  item: people/holden-nienow
+- 
+  type: relations/money/debtor
+  item: people/isac-west-iii
+- 
+  type: relations/money/debtor
+  item: people/mae-shields
+- 
+  type: relations/parental/colleague
+  item: people/mr-isidro-considine
+- 
+  type: relations/money/debtor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/client
+  item: companies/gibson-inc
+- 
+  type: relations/work/client
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

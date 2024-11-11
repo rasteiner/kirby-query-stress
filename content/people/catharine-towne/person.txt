@@ -1,0 +1,64 @@
+Title: Catharine Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/clint-renner
+- 
+  type: relations/money/debtor
+  item: people/callie-kuvalis-iii
+- 
+  type: relations/parental/brosis
+  item: people/mrs-viva-bruen-dvm
+- 
+  type: relations/parental/friend
+  item: people/nola-labadie-dvm
+- 
+  type: relations/money/debtor
+  item: people/leatha-watsica
+- 
+  type: relations/parental/friend
+  item: people/pascale-mertz
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

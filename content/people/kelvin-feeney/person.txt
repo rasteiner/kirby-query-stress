@@ -1,0 +1,64 @@
+Title: Kelvin Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ward-thompson
+- 
+  type: relations/parental/friend
+  item: people/colt-brekke
+- 
+  type: relations/parental/colleague
+  item: people/dr-alex-paucek-dds
+- 
+  type: relations/parental/brosis
+  item: people/prof-cielo-kris
+- 
+  type: relations/money/creditor
+  item: people/mr-vern-flatley-ii
+- 
+  type: relations/parental/friend
+  item: people/willie-eichmann
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/client
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

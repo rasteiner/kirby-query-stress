@@ -1,0 +1,64 @@
+Title: Arlie Anderson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/wilson-lang
+- 
+  type: relations/parental/brosis
+  item: people/missouri-effertz
+- 
+  type: relations/parental/colleague
+  item: people/shanon-rohan-ii
+- 
+  type: relations/parental/dad
+  item: people/samantha-connelly
+- 
+  type: relations/parental/friend
+  item: people/shane-kreiger-dds
+- 
+  type: relations/parental/friend
+  item: people/norris-koss
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/work/client
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

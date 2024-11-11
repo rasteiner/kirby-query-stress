@@ -1,0 +1,64 @@
+Title: Prof. Gus Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/darren-bartell
+- 
+  type: relations/parental/brosis
+  item: people/jeramy-bergstrom-ii
+- 
+  type: relations/parental/mom
+  item: people/celine-walker
+- 
+  type: relations/money/debtor
+  item: people/jeanne-schiller
+- 
+  type: relations/money/debtor
+  item: people/dayna-schuppe
+- 
+  type: relations/parental/mom
+  item: people/maryam-little
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

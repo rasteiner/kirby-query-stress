@@ -1,0 +1,64 @@
+Title: Prof. Mckenna Terry DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-jett-lakin-dvm
+- 
+  type: relations/parental/colleague
+  item: people/chelsie-o-reilly
+- 
+  type: relations/money/debtor
+  item: people/vincenza-turner
+- 
+  type: relations/parental/dad
+  item: people/lilian-gerlach
+- 
+  type: relations/parental/friend
+  item: people/prof-delbert-fisher
+- 
+  type: relations/parental/dad
+  item: people/casey-carter
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

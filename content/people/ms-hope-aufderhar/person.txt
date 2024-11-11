@@ -1,0 +1,64 @@
+Title: Ms. Hope Aufderhar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/anastacio-eichmann
+- 
+  type: relations/money/debtor
+  item: people/vita-runolfsson
+- 
+  type: relations/parental/mom
+  item: people/mr-tod-hane
+- 
+  type: relations/parental/mom
+  item: people/benedict-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/ettie-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/bridget-sauer
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Mr. Lee Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/viviane-fadel-ii
+- 
+  type: relations/parental/brosis
+  item: people/anabel-hilpert-iii
+- 
+  type: relations/parental/brosis
+  item: people/reilly-goyette-dvm
+- 
+  type: relations/parental/mom
+  item: people/kendra-corkery
+- 
+  type: relations/parental/dad
+  item: people/ludie-o-kon-phd
+- 
+  type: relations/parental/brosis
+  item: people/jaydon-hilll-iv
+- 
+  type: relations/money/debtor
+  item: companies/rath-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Agustina Wuckert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/colby-hand
+- 
+  type: relations/parental/friend
+  item: people/derick-renner
+- 
+  type: relations/parental/mom
+  item: people/ardith-ortiz
+- 
+  type: relations/parental/friend
+  item: people/sandrine-schiller
+- 
+  type: relations/parental/friend
+  item: people/zola-cormier-md
+- 
+  type: relations/parental/friend
+  item: people/amie-olson
+- 
+  type: relations/work/employer
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/creditor
+  item: companies/leffler-inc
+- 
+  type: relations/money/debtor
+  item: companies/schroeder-group
+- 
+  type: relations/work/employer
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

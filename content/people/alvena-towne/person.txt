@@ -1,0 +1,64 @@
+Title: Alvena Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-telly-o-keefe-ii
+- 
+  type: relations/money/debtor
+  item: people/mauricio-cormier
+- 
+  type: relations/parental/dad
+  item: people/dr-lorenza-harvey-md
+- 
+  type: relations/money/creditor
+  item: people/skyla-wunsch-jr
+- 
+  type: relations/parental/friend
+  item: people/prof-cierra-herzog-dvm
+- 
+  type: relations/money/debtor
+  item: people/murl-legros
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-ltd
+- 
+  type: relations/work/client
+  item: companies/collier-plc
+- 
+  type: relations/work/client
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

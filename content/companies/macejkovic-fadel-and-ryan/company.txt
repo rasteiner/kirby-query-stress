@@ -1,0 +1,43 @@
+Title: Macejkovic, Fadel and Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kunde-llc
+- 
+  type: relations/money/debtor
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/ratke-fay
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/east-jadafort

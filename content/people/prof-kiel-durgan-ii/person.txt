@@ -1,0 +1,64 @@
+Title: Prof. Kiel Durgan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/bella-spencer
+- 
+  type: relations/money/debtor
+  item: people/christian-swaniawski
+- 
+  type: relations/money/debtor
+  item: people/darren-bartell
+- 
+  type: relations/parental/dad
+  item: people/jeramy-bergstrom-ii
+- 
+  type: relations/parental/mom
+  item: people/celine-walker
+- 
+  type: relations/parental/colleague
+  item: people/jeanne-schiller
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/work/client
+  item: companies/howell-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

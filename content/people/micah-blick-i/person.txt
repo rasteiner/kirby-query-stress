@@ -1,0 +1,64 @@
+Title: Micah Blick I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/stevie-spencer
+- 
+  type: relations/money/creditor
+  item: people/rodolfo-harvey
+- 
+  type: relations/parental/mom
+  item: people/enid-mayert
+- 
+  type: relations/parental/colleague
+  item: people/wilber-marvin
+- 
+  type: relations/money/creditor
+  item: people/wiley-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/jack-kiehn
+- 
+  type: relations/money/creditor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Adaline Cruickshank
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-magali-kassulke-md
+- 
+  type: relations/parental/friend
+  item: people/ms-lilyan-roberts
+- 
+  type: relations/parental/mom
+  item: people/ryann-o-reilly
+- 
+  type: relations/money/creditor
+  item: people/ms-estelle-lebsack-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-eusebio-harvey
+- 
+  type: relations/parental/mom
+  item: people/mallie-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/client
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/employer
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/employer
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

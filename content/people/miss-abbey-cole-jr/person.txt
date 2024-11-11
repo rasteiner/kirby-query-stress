@@ -1,0 +1,64 @@
+Title: Miss Abbey Cole Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brandt-jacobs
+- 
+  type: relations/money/debtor
+  item: people/prof-clotilde-kunde
+- 
+  type: relations/parental/brosis
+  item: people/flossie-beatty
+- 
+  type: relations/parental/dad
+  item: people/prof-valentine-hilpert
+- 
+  type: relations/parental/dad
+  item: people/dr-jasmin-willms
+- 
+  type: relations/parental/mom
+  item: people/dr-eloy-shanahan
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/client
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

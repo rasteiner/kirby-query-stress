@@ -1,0 +1,64 @@
+Title: Clint DuBuque
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/daniella-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/prof-broderick-effertz
+- 
+  type: relations/money/creditor
+  item: people/toy-harvey-md
+- 
+  type: relations/parental/dad
+  item: people/dwight-bogisich
+- 
+  type: relations/parental/colleague
+  item: people/dr-porter-hand-md
+- 
+  type: relations/parental/friend
+  item: people/lenora-monahan
+- 
+  type: relations/work/client
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

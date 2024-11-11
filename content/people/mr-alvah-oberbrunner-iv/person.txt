@@ -1,0 +1,64 @@
+Title: Mr. Alvah Oberbrunner IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/anjali-kozey
+- 
+  type: relations/parental/brosis
+  item: people/prof-jody-koch-dds
+- 
+  type: relations/parental/brosis
+  item: people/elouise-sawayn
+- 
+  type: relations/money/debtor
+  item: people/kiera-shields
+- 
+  type: relations/money/debtor
+  item: people/deion-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/dr-santa-turner
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

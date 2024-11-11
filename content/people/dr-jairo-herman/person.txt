@@ -1,0 +1,64 @@
+Title: Dr. Jairo Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jeramy-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/prof-arlo-lowe
+- 
+  type: relations/parental/mom
+  item: people/domenic-kemmer-sr
+- 
+  type: relations/money/creditor
+  item: people/prof-tyrell-murray
+- 
+  type: relations/parental/colleague
+  item: people/miss-carlee-tremblay-iii
+- 
+  type: relations/parental/colleague
+  item: people/emelie-rodriguez
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/work/client
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

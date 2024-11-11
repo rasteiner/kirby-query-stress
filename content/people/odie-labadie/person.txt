@@ -1,0 +1,64 @@
+Title: Odie Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-ciara-hudson-ii
+- 
+  type: relations/parental/colleague
+  item: people/dr-maxwell-okuneva-iii
+- 
+  type: relations/parental/dad
+  item: people/edna-dibbert
+- 
+  type: relations/parental/colleague
+  item: people/cleora-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/myah-keeling
+- 
+  type: relations/money/creditor
+  item: people/tomasa-halvorson
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/client
+  item: companies/blanda-bartell
+- 
+  type: relations/work/client
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

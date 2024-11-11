@@ -1,0 +1,64 @@
+Title: Ms. Whitney Stehr DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-franz-roberts-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-hubert-padberg-i
+- 
+  type: relations/parental/mom
+  item: people/saige-king
+- 
+  type: relations/parental/mom
+  item: people/cicero-williamson
+- 
+  type: relations/money/debtor
+  item: people/prof-kiley-watsica-jr
+- 
+  type: relations/parental/colleague
+  item: people/ms-cassandre-mcclure-iii
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/employer
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Jaylan Farrell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alexandre-howell
+- 
+  type: relations/parental/friend
+  item: people/deangelo-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/miss-giovanna-gleichner
+- 
+  type: relations/parental/friend
+  item: people/henderson-hermiston
+- 
+  type: relations/money/debtor
+  item: people/sasha-rutherford-v
+- 
+  type: relations/parental/dad
+  item: people/neoma-kunze
+- 
+  type: relations/money/creditor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/employer
+  item: companies/gibson-llc
+- 
+  type: relations/work/client
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

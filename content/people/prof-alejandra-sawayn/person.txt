@@ -1,0 +1,64 @@
+Title: Prof. Alejandra Sawayn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-cortney-green
+- 
+  type: relations/parental/friend
+  item: people/junior-cremin
+- 
+  type: relations/parental/dad
+  item: people/anissa-torphy
+- 
+  type: relations/parental/mom
+  item: people/dr-chauncey-romaguera-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-uriah-balistreri-dvm
+- 
+  type: relations/parental/brosis
+  item: people/nolan-effertz
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/work/employer
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/work/employer
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/employer
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Cornelius Watsica Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/armand-keeling
+- 
+  type: relations/parental/colleague
+  item: people/neal-walker
+- 
+  type: relations/parental/friend
+  item: people/malika-boyer
+- 
+  type: relations/money/creditor
+  item: people/prof-camden-dach-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-lavon-senger
+- 
+  type: relations/parental/friend
+  item: people/marlin-bednar
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/creditor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/money/debtor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

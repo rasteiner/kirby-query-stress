@@ -1,0 +1,64 @@
+Title: Mikayla Little
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cathrine-morar
+- 
+  type: relations/money/creditor
+  item: people/golden-hirthe
+- 
+  type: relations/parental/mom
+  item: people/prof-genevieve-braun
+- 
+  type: relations/parental/colleague
+  item: people/luna-o-conner-ii
+- 
+  type: relations/parental/brosis
+  item: people/elmer-hartmann
+- 
+  type: relations/money/debtor
+  item: people/keira-schinner-dvm
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/work/client
+  item: companies/dooley-walter
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-group
+- 
+  type: relations/money/creditor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

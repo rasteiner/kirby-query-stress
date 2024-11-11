@@ -1,0 +1,43 @@
+Title: Donnelly-Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/creditor
+  item: companies/kub-plc
+- 
+  type: relations/money/creditor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/creditor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/creditor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/berge-waters
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn
+- 
+  type: relations/location/residence
+  item: places/east-holden

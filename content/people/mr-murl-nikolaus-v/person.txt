@@ -1,0 +1,64 @@
+Title: Mr. Murl Nikolaus V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/giuseppe-halvorson
+- 
+  type: relations/parental/friend
+  item: people/brennon-bogan
+- 
+  type: relations/parental/colleague
+  item: people/margaret-schaefer
+- 
+  type: relations/parental/friend
+  item: people/dr-jonatan-luettgen-sr
+- 
+  type: relations/parental/brosis
+  item: people/miss-antonette-grant
+- 
+  type: relations/money/debtor
+  item: people/idella-raynor
+- 
+  type: relations/work/client
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/employer
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

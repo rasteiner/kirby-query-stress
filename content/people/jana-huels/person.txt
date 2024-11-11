@@ -1,0 +1,64 @@
+Title: Jana Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-isac-ruecker-phd
+- 
+  type: relations/money/creditor
+  item: people/madge-schaefer-phd
+- 
+  type: relations/money/creditor
+  item: people/nils-sauer
+- 
+  type: relations/money/creditor
+  item: people/micheal-homenick
+- 
+  type: relations/parental/mom
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/colleague
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/work/employer
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

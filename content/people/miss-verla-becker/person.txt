@@ -1,0 +1,64 @@
+Title: Miss Verla Becker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/darrell-abshire
+- 
+  type: relations/parental/colleague
+  item: people/emelia-cruickshank
+- 
+  type: relations/money/debtor
+  item: people/cary-robel
+- 
+  type: relations/parental/dad
+  item: people/dr-mozell-terry
+- 
+  type: relations/parental/brosis
+  item: people/mrs-juliana-lang-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-otis-bosco-v
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/work/client
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/client
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

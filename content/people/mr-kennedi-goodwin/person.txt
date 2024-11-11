@@ -1,0 +1,64 @@
+Title: Mr. Kennedi Goodwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ressie-douglas
+- 
+  type: relations/parental/colleague
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/parental/brosis
+  item: people/emelie-bernhard
+- 
+  type: relations/parental/dad
+  item: people/ottilie-wolf
+- 
+  type: relations/parental/friend
+  item: people/murl-wolf-ii
+- 
+  type: relations/parental/brosis
+  item: people/zackary-bode-dds
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/work/client
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

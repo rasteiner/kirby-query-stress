@@ -1,0 +1,64 @@
+Title: Reuben Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/garfield-leannon
+- 
+  type: relations/money/creditor
+  item: people/sally-hickle-ii
+- 
+  type: relations/parental/friend
+  item: people/ava-crona-ii
+- 
+  type: relations/parental/dad
+  item: people/shemar-beahan
+- 
+  type: relations/parental/dad
+  item: people/savannah-larson
+- 
+  type: relations/parental/friend
+  item: people/rudy-leuschke-phd
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/work/client
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

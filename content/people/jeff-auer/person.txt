@@ -1,0 +1,64 @@
+Title: Jeff Auer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/everette-pfeffer-v
+- 
+  type: relations/money/creditor
+  item: people/stan-sauer
+- 
+  type: relations/parental/colleague
+  item: people/cleveland-o-keefe
+- 
+  type: relations/parental/mom
+  item: people/lukas-sporer
+- 
+  type: relations/parental/brosis
+  item: people/jerrold-will-md
+- 
+  type: relations/parental/colleague
+  item: people/rickie-waelchi-i
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/work/client
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

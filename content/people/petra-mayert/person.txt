@@ -1,0 +1,65 @@
+Title: Petra Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/edna-dibbert
+- 
+  type: relations/money/debtor
+  item: people/cleora-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/myah-keeling
+- 
+  type: relations/parental/colleague
+  item: people/tomasa-halvorson
+- 
+  type: relations/money/debtor
+  item: people/ms-crystel-jerde
+- 
+  type: relations/parental/dad
+  item: people/ramiro-rempel
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/client
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

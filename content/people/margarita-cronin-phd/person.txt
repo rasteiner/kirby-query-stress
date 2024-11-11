@@ -1,0 +1,64 @@
+Title: Margarita Cronin PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-andre-tillman
+- 
+  type: relations/money/debtor
+  item: people/verdie-cartwright
+- 
+  type: relations/money/creditor
+  item: people/clement-pacocha
+- 
+  type: relations/parental/colleague
+  item: people/prof-ned-ullrich-ii
+- 
+  type: relations/parental/dad
+  item: people/prof-leslie-simonis
+- 
+  type: relations/parental/dad
+  item: people/jonas-bosco-i
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/money/creditor
+  item: companies/kub-plc
+- 
+  type: relations/work/employer
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/client
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

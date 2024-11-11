@@ -1,0 +1,64 @@
+Title: Josh Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-margie-bartoletti
+- 
+  type: relations/parental/colleague
+  item: people/candido-johns
+- 
+  type: relations/money/debtor
+  item: people/nichole-wilderman
+- 
+  type: relations/parental/colleague
+  item: people/kayley-kreiger
+- 
+  type: relations/parental/mom
+  item: people/kaylie-johns-dds
+- 
+  type: relations/parental/friend
+  item: people/herminio-hermiston
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/work/employer
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

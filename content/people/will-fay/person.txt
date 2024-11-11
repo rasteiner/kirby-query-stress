@@ -1,0 +1,64 @@
+Title: Will Fay
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/charles-kihn
+- 
+  type: relations/parental/colleague
+  item: people/jamey-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/louie-effertz
+- 
+  type: relations/money/debtor
+  item: people/aryanna-bruen
+- 
+  type: relations/parental/brosis
+  item: people/arlie-stroman
+- 
+  type: relations/money/creditor
+  item: people/peter-hintz-dds
+- 
+  type: relations/work/client
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/gibson-llc
+- 
+  type: relations/work/employer
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

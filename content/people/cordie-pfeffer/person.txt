@@ -1,0 +1,64 @@
+Title: Cordie Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/willow-gerhold
+- 
+  type: relations/parental/dad
+  item: people/halie-parisian-v
+- 
+  type: relations/money/debtor
+  item: people/ms-vallie-batz
+- 
+  type: relations/money/debtor
+  item: people/ressie-rodriguez-v
+- 
+  type: relations/parental/dad
+  item: people/will-nienow
+- 
+  type: relations/parental/friend
+  item: people/guillermo-goyette-i
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-ltd
+- 
+  type: relations/work/employer
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

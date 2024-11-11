@@ -1,0 +1,64 @@
+Title: Alexane Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-catherine-kuhic
+- 
+  type: relations/parental/brosis
+  item: people/annabelle-leffler
+- 
+  type: relations/parental/colleague
+  item: people/dr-riley-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/rahul-ferry-i
+- 
+  type: relations/money/debtor
+  item: people/lessie-bruen-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-sadye-robel
+- 
+  type: relations/work/employer
+  item: companies/thompson-flatley
+- 
+  type: relations/money/debtor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/work/employer
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

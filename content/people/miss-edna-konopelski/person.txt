@@ -1,0 +1,64 @@
+Title: Miss Edna Konopelski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-myrtle-trantow
+- 
+  type: relations/parental/friend
+  item: people/bella-metz
+- 
+  type: relations/parental/colleague
+  item: people/ettie-stark
+- 
+  type: relations/money/debtor
+  item: people/mr-kim-nitzsche-sr
+- 
+  type: relations/money/creditor
+  item: people/connie-goodwin
+- 
+  type: relations/parental/brosis
+  item: people/miss-amira-fritsch-iv
+- 
+  type: relations/work/employer
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/work/client
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/client
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

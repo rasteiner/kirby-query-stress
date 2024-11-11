@@ -1,0 +1,64 @@
+Title: Juliana Hane
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dorothea-labadie-ii
+- 
+  type: relations/parental/mom
+  item: people/keeley-kulas-dvm
+- 
+  type: relations/parental/brosis
+  item: people/stephen-brakus-phd
+- 
+  type: relations/parental/colleague
+  item: people/libbie-hagenes
+- 
+  type: relations/money/creditor
+  item: people/stacey-adams
+- 
+  type: relations/parental/brosis
+  item: people/katarina-grimes
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,65 @@
+Title: Kristin Hansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-riley-bechtelar
+- 
+  type: relations/parental/colleague
+  item: people/rahul-ferry-i
+- 
+  type: relations/money/creditor
+  item: people/lessie-bruen-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-sadye-robel
+- 
+  type: relations/money/creditor
+  item: people/jeremy-barrows
+- 
+  type: relations/parental/friend
+  item: people/brycen-haley
+- 
+  type: relations/work/client
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

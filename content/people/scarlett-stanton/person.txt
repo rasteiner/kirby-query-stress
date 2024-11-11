@@ -1,0 +1,65 @@
+Title: Scarlett Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-eddie-graham
+- 
+  type: relations/money/debtor
+  item: people/julio-rice
+- 
+  type: relations/money/creditor
+  item: people/miss-wava-wyman
+- 
+  type: relations/parental/colleague
+  item: people/prof-dominique-kutch
+- 
+  type: relations/money/debtor
+  item: people/colten-daugherty-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-cordell-greenholt-iii
+- 
+  type: relations/work/employer
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/employer
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

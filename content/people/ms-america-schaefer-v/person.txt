@@ -1,0 +1,64 @@
+Title: Ms. America Schaefer V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alanna-kulas
+- 
+  type: relations/parental/colleague
+  item: people/dagmar-gislason-md
+- 
+  type: relations/parental/mom
+  item: people/miss-joanny-bergnaum-sr
+- 
+  type: relations/parental/mom
+  item: people/wellington-rutherford-sr
+- 
+  type: relations/parental/mom
+  item: people/gregg-kozey
+- 
+  type: relations/money/debtor
+  item: people/jordi-roob
+- 
+  type: relations/money/debtor
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

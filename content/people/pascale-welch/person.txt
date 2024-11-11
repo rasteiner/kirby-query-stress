@@ -1,0 +1,64 @@
+Title: Pascale Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/savannah-larson
+- 
+  type: relations/parental/brosis
+  item: people/rudy-leuschke-phd
+- 
+  type: relations/parental/brosis
+  item: people/keshawn-legros
+- 
+  type: relations/money/debtor
+  item: people/brandy-stiedemann
+- 
+  type: relations/parental/friend
+  item: people/dr-marco-metz-iii
+- 
+  type: relations/parental/colleague
+  item: people/jackie-dach
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

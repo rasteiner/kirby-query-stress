@@ -1,0 +1,64 @@
+Title: Lawson Cormier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-ona-wilkinson
+- 
+  type: relations/parental/friend
+  item: people/aimee-donnelly
+- 
+  type: relations/money/debtor
+  item: people/kip-cronin
+- 
+  type: relations/money/creditor
+  item: people/mrs-jade-walsh
+- 
+  type: relations/parental/dad
+  item: people/dr-deion-schulist-iii
+- 
+  type: relations/parental/brosis
+  item: people/orlando-brakus
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/work/client
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/client
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

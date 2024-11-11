@@ -1,0 +1,64 @@
+Title: Mrs. Jade Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lorenza-harvey-md
+- 
+  type: relations/parental/brosis
+  item: people/skyla-wunsch-jr
+- 
+  type: relations/parental/dad
+  item: people/prof-cierra-herzog-dvm
+- 
+  type: relations/parental/friend
+  item: people/murl-legros
+- 
+  type: relations/parental/mom
+  item: people/heaven-deckow
+- 
+  type: relations/money/debtor
+  item: people/prof-garfield-borer-i
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/creditor
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/employer
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

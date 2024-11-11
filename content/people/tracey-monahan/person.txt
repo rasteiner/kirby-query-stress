@@ -1,0 +1,64 @@
+Title: Tracey Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cara-kovacek
+- 
+  type: relations/money/debtor
+  item: people/daren-goldner
+- 
+  type: relations/parental/brosis
+  item: people/sheila-bode
+- 
+  type: relations/money/creditor
+  item: people/marianna-parisian
+- 
+  type: relations/parental/friend
+  item: people/lonnie-mann
+- 
+  type: relations/parental/colleague
+  item: people/luther-runolfsdottir
+- 
+  type: relations/work/client
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

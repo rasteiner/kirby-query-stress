@@ -1,0 +1,64 @@
+Title: Forest Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/beryl-zulauf
+- 
+  type: relations/parental/mom
+  item: people/jacinto-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/bertram-collins
+- 
+  type: relations/parental/brosis
+  item: people/joan-conroy-jr
+- 
+  type: relations/parental/friend
+  item: people/ashly-senger
+- 
+  type: relations/parental/brosis
+  item: people/mafalda-vonrueden
+- 
+  type: relations/money/debtor
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/debtor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

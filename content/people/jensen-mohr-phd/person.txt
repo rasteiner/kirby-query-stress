@@ -1,0 +1,65 @@
+Title: Jensen Mohr PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/roscoe-nolan-dvm
+- 
+  type: relations/parental/friend
+  item: people/maureen-kerluke
+- 
+  type: relations/parental/dad
+  item: people/trey-heaney-md
+- 
+  type: relations/parental/friend
+  item: people/valentina-reichel
+- 
+  type: relations/parental/friend
+  item: people/dr-edd-keeling
+- 
+  type: relations/parental/mom
+  item: people/alexander-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/debtor
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Peggie Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/neva-rutherford
+- 
+  type: relations/parental/friend
+  item: people/stevie-kuhic
+- 
+  type: relations/parental/friend
+  item: people/bill-gibson-dds
+- 
+  type: relations/parental/colleague
+  item: people/adrienne-renner
+- 
+  type: relations/money/creditor
+  item: people/miss-mikayla-bayer-iv
+- 
+  type: relations/parental/mom
+  item: people/serenity-prohaska
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/work/employer
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

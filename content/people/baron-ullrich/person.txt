@@ -1,0 +1,64 @@
+Title: Baron Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cory-denesik-sr
+- 
+  type: relations/parental/colleague
+  item: people/llewellyn-kulas
+- 
+  type: relations/parental/mom
+  item: people/suzanne-koch-md
+- 
+  type: relations/parental/mom
+  item: people/lazaro-johnston-md
+- 
+  type: relations/money/debtor
+  item: people/abigale-schiller-md
+- 
+  type: relations/money/creditor
+  item: people/rocky-crist
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/client
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/employer
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

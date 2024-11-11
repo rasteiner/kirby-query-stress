@@ -1,0 +1,64 @@
+Title: Tina Cartwright
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mireille-schumm
+- 
+  type: relations/money/creditor
+  item: people/miss-carole-zboncak-v
+- 
+  type: relations/parental/colleague
+  item: people/mr-kyler-macejkovic-dvm
+- 
+  type: relations/money/debtor
+  item: people/earlene-lemke
+- 
+  type: relations/money/debtor
+  item: people/ashly-cummings
+- 
+  type: relations/parental/brosis
+  item: people/heloise-kulas
+- 
+  type: relations/work/client
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/creditor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,44 @@
+Title: Doyle Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/dooley-walter
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort

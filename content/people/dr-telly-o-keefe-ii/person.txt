@@ -1,0 +1,64 @@
+Title: Dr. Telly O'Keefe II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-elian-mitchell
+- 
+  type: relations/money/debtor
+  item: people/veronica-mayer
+- 
+  type: relations/money/debtor
+  item: people/reece-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/emmitt-white
+- 
+  type: relations/parental/mom
+  item: people/myrtie-rosenbaum
+- 
+  type: relations/money/creditor
+  item: people/prof-keeley-brekke-jr
+- 
+  type: relations/money/creditor
+  item: companies/graham-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/hintz-fisher
+- 
+  type: relations/work/employer
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

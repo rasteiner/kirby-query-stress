@@ -1,0 +1,64 @@
+Title: Geovany Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/melany-howe
+- 
+  type: relations/money/creditor
+  item: people/braxton-witting
+- 
+  type: relations/parental/dad
+  item: people/emely-douglas
+- 
+  type: relations/parental/friend
+  item: people/humberto-fahey
+- 
+  type: relations/money/debtor
+  item: people/keith-waelchi
+- 
+  type: relations/parental/mom
+  item: people/jewel-stroman
+- 
+  type: relations/money/creditor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/work/client
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

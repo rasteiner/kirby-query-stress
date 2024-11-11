@@ -1,0 +1,64 @@
+Title: Prof. Euna Powlowski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-dora-hand-iv
+- 
+  type: relations/parental/colleague
+  item: people/brigitte-crooks-md
+- 
+  type: relations/money/debtor
+  item: people/brock-graham
+- 
+  type: relations/money/creditor
+  item: people/kathryne-denesik
+- 
+  type: relations/parental/dad
+  item: people/bill-grady
+- 
+  type: relations/parental/colleague
+  item: people/lorena-kiehn
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/keebler-inc
+- 
+  type: relations/money/creditor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

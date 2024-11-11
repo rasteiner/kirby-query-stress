@@ -1,0 +1,64 @@
+Title: Collin Littel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-isac-ruecker-phd
+- 
+  type: relations/parental/colleague
+  item: people/madge-schaefer-phd
+- 
+  type: relations/parental/colleague
+  item: people/nils-sauer
+- 
+  type: relations/parental/mom
+  item: people/micheal-homenick
+- 
+  type: relations/parental/friend
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/brosis
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

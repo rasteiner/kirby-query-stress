@@ -1,0 +1,64 @@
+Title: Tomas Kuhic Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cleve-gaylord
+- 
+  type: relations/parental/mom
+  item: people/jaron-wehner-sr
+- 
+  type: relations/money/debtor
+  item: people/dave-hahn
+- 
+  type: relations/parental/colleague
+  item: people/gloria-rippin
+- 
+  type: relations/parental/mom
+  item: people/prof-maia-dicki-jr
+- 
+  type: relations/parental/friend
+  item: people/raymond-dach
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/work/client
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

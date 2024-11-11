@@ -1,0 +1,65 @@
+Title: Maiya Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-lily-maggio
+- 
+  type: relations/money/debtor
+  item: people/tracey-ebert-sr
+- 
+  type: relations/parental/brosis
+  item: people/declan-kuhic-v
+- 
+  type: relations/parental/brosis
+  item: people/miss-kirstin-nolan
+- 
+  type: relations/money/creditor
+  item: people/dr-orlo-lemke-md
+- 
+  type: relations/parental/brosis
+  item: people/cleora-schultz-sr
+- 
+  type: relations/work/client
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/employer
+  item: companies/yost-llc
+- 
+  type: relations/work/client
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

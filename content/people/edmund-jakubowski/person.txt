@@ -1,0 +1,64 @@
+Title: Edmund Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/hildegard-larkin
+- 
+  type: relations/parental/mom
+  item: people/nikita-treutel-sr
+- 
+  type: relations/parental/colleague
+  item: people/diamond-jerde-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/parental/dad
+  item: people/lorna-walker
+- 
+  type: relations/parental/friend
+  item: people/miss-kathleen-kohler-sr
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/work/client
+  item: companies/abernathy-inc
+- 
+  type: relations/work/client
+  item: companies/miller-plc
+- 
+  type: relations/work/client
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Dr. Lilyan Orn DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/will-nienow
+- 
+  type: relations/parental/dad
+  item: people/guillermo-goyette-i
+- 
+  type: relations/parental/colleague
+  item: people/ila-runolfsdottir
+- 
+  type: relations/parental/brosis
+  item: people/mr-enoch-denesik-jr
+- 
+  type: relations/parental/dad
+  item: people/lilliana-pfeffer
+- 
+  type: relations/parental/friend
+  item: people/kristian-corkery
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,65 @@
+Title: Lemuel Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kaylee-morar
+- 
+  type: relations/parental/colleague
+  item: people/connie-carroll
+- 
+  type: relations/parental/mom
+  item: people/boris-bashirian
+- 
+  type: relations/parental/dad
+  item: people/meghan-boyer
+- 
+  type: relations/parental/colleague
+  item: people/eveline-lindgren
+- 
+  type: relations/parental/colleague
+  item: people/dr-unique-walker-md
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Cicero Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/declan-altenwerth
+- 
+  type: relations/money/debtor
+  item: people/gerardo-kutch
+- 
+  type: relations/parental/mom
+  item: people/rubie-breitenberg-iv
+- 
+  type: relations/parental/mom
+  item: people/nolan-treutel
+- 
+  type: relations/money/creditor
+  item: people/mrs-delpha-kuhn
+- 
+  type: relations/parental/brosis
+  item: people/ms-marguerite-casper
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/work/client
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

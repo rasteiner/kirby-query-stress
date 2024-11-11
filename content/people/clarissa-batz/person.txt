@@ -1,0 +1,64 @@
+Title: Clarissa Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/elenora-donnelly-dvm
+- 
+  type: relations/parental/dad
+  item: people/ms-aurore-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/jordyn-pagac
+- 
+  type: relations/parental/colleague
+  item: people/marielle-kerluke
+- 
+  type: relations/parental/dad
+  item: people/prof-deangelo-vonrueden-md
+- 
+  type: relations/parental/friend
+  item: people/emmet-west-iv
+- 
+  type: relations/work/client
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/client
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

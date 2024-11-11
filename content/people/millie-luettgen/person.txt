@@ -1,0 +1,64 @@
+Title: Millie Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-elwin-macejkovic-i
+- 
+  type: relations/parental/dad
+  item: people/prof-charles-rowe-iii
+- 
+  type: relations/money/debtor
+  item: people/violet-treutel
+- 
+  type: relations/money/debtor
+  item: people/nick-powlowski-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-halle-bergstrom-dds
+- 
+  type: relations/money/creditor
+  item: people/alena-prohaska
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/client
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/client
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

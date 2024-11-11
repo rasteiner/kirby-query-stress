@@ -1,0 +1,64 @@
+Title: Hershel Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-shania-johns
+- 
+  type: relations/parental/mom
+  item: people/mr-lee-bruen
+- 
+  type: relations/parental/friend
+  item: people/unique-rempel-iv
+- 
+  type: relations/parental/brosis
+  item: people/prof-rasheed-o-hara-iii
+- 
+  type: relations/parental/colleague
+  item: people/colby-corwin
+- 
+  type: relations/parental/colleague
+  item: people/henri-kuhlman
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/work/client
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

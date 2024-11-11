@@ -1,0 +1,64 @@
+Title: Sterling Turcotte Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/grayson-lebsack
+- 
+  type: relations/parental/dad
+  item: people/pauline-west
+- 
+  type: relations/parental/mom
+  item: people/porter-ward
+- 
+  type: relations/parental/colleague
+  item: people/chauncey-corwin
+- 
+  type: relations/parental/friend
+  item: people/terrance-schuster
+- 
+  type: relations/parental/friend
+  item: people/prof-kamron-boyer-dds
+- 
+  type: relations/work/employer
+  item: companies/towne-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

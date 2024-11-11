@@ -1,0 +1,66 @@
+Title: Lexus Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/zora-jones-ii
+- 
+  type: relations/money/creditor
+  item: people/gianni-klein-i
+- 
+  type: relations/parental/dad
+  item: people/pearl-powlowski
+- 
+  type: relations/parental/friend
+  item: people/camron-nader
+- 
+  type: relations/parental/brosis
+  item: people/prof-mikayla-price
+- 
+  type: relations/parental/mom
+  item: people/dr-claudie-hagenes-md
+- 
+  type: relations/work/client
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/wolff-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Sherwood Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/pauline-kuhn
+- 
+  type: relations/parental/brosis
+  item: people/russel-johnston
+- 
+  type: relations/parental/colleague
+  item: people/elroy-rogahn
+- 
+  type: relations/parental/colleague
+  item: people/dr-gloria-hills-ii
+- 
+  type: relations/money/debtor
+  item: people/cheyanne-bergnaum
+- 
+  type: relations/parental/dad
+  item: people/brayan-watsica-jr
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/client
+  item: companies/smith-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/work/employer
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

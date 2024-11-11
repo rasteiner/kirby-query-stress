@@ -1,0 +1,64 @@
+Title: Vicky Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-kane-bernier-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-columbus-casper
+- 
+  type: relations/parental/dad
+  item: people/bettye-lang
+- 
+  type: relations/parental/friend
+  item: people/mr-angel-ullrich-dvm
+- 
+  type: relations/money/debtor
+  item: people/clifford-lind
+- 
+  type: relations/parental/friend
+  item: people/dr-cordie-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/work/employer
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

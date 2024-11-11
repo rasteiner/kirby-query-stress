@@ -1,0 +1,64 @@
+Title: Dr. Hollie Kreiger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ettie-stark
+- 
+  type: relations/money/debtor
+  item: people/mr-kim-nitzsche-sr
+- 
+  type: relations/parental/colleague
+  item: people/connie-goodwin
+- 
+  type: relations/money/creditor
+  item: people/miss-amira-fritsch-iv
+- 
+  type: relations/money/debtor
+  item: people/newton-hand
+- 
+  type: relations/parental/brosis
+  item: people/caterina-kuvalis-iii
+- 
+  type: relations/money/debtor
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

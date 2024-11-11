@@ -1,0 +1,64 @@
+Title: Miss Mara Okuneva Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mittie-baumbach-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-abigale-schiller
+- 
+  type: relations/parental/dad
+  item: people/dr-tyson-o-conner-md
+- 
+  type: relations/money/debtor
+  item: people/zetta-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/gerardo-yundt
+- 
+  type: relations/parental/mom
+  item: people/delfina-ward
+- 
+  type: relations/work/employer
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

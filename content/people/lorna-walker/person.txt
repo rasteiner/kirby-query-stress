@@ -1,0 +1,64 @@
+Title: Lorna Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/savannah-rutherford
+- 
+  type: relations/parental/mom
+  item: people/evelyn-schuppe
+- 
+  type: relations/parental/brosis
+  item: people/cassandra-kertzmann-iv
+- 
+  type: relations/parental/dad
+  item: people/hulda-bauch
+- 
+  type: relations/parental/mom
+  item: people/miss-sabina-beier-dvm
+- 
+  type: relations/parental/colleague
+  item: people/joanne-koch
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-group
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

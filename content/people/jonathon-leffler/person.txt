@@ -1,0 +1,64 @@
+Title: Jonathon Leffler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/adell-rau-phd
+- 
+  type: relations/parental/brosis
+  item: people/oda-walsh-dvm
+- 
+  type: relations/parental/brosis
+  item: people/manuel-rutherford
+- 
+  type: relations/money/debtor
+  item: people/mr-isaac-mccullough-phd
+- 
+  type: relations/parental/brosis
+  item: people/mrs-cydney-shanahan-dds
+- 
+  type: relations/money/debtor
+  item: people/arturo-cummings
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/work/employer
+  item: companies/murphy-batz
+- 
+  type: relations/work/employer
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/client
+  item: companies/ondricka-plc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

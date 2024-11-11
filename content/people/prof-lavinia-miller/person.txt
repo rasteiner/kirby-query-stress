@@ -1,0 +1,64 @@
+Title: Prof. Lavinia Miller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-caterina-wisozk
+- 
+  type: relations/parental/dad
+  item: people/rebeka-mosciski-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-florine-wilderman-phd
+- 
+  type: relations/parental/mom
+  item: people/darron-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/jedediah-dickinson
+- 
+  type: relations/parental/brosis
+  item: people/jadyn-walker
+- 
+  type: relations/work/client
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

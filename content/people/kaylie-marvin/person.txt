@@ -1,0 +1,64 @@
+Title: Kaylie Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-daryl-spinka
+- 
+  type: relations/parental/colleague
+  item: people/cesar-boyle
+- 
+  type: relations/parental/brosis
+  item: people/mrs-meagan-aufderhar-dvm
+- 
+  type: relations/parental/colleague
+  item: people/landen-harber
+- 
+  type: relations/parental/dad
+  item: people/prof-waino-nitzsche-i
+- 
+  type: relations/money/creditor
+  item: people/brandt-borer
+- 
+  type: relations/work/client
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

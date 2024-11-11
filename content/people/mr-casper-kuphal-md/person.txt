@@ -1,0 +1,64 @@
+Title: Mr. Casper Kuphal MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/delaney-runolfsdottir-i
+- 
+  type: relations/parental/mom
+  item: people/dolores-bins
+- 
+  type: relations/parental/colleague
+  item: people/samanta-kovacek
+- 
+  type: relations/parental/dad
+  item: people/prof-isaiah-weber
+- 
+  type: relations/parental/brosis
+  item: people/dr-precious-macejkovic
+- 
+  type: relations/money/debtor
+  item: people/thurman-breitenberg
+- 
+  type: relations/work/client
+  item: companies/casper-inc
+- 
+  type: relations/money/creditor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/work/employer
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

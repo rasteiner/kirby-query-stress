@@ -1,0 +1,64 @@
+Title: Riley Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jonathon-pouros-dvm
+- 
+  type: relations/parental/mom
+  item: people/eldridge-kiehn
+- 
+  type: relations/parental/dad
+  item: people/green-conn
+- 
+  type: relations/parental/dad
+  item: people/dr-tiana-thiel
+- 
+  type: relations/parental/mom
+  item: people/miss-felicita-trantow
+- 
+  type: relations/parental/dad
+  item: people/veda-schulist
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/work/client
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/employer
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

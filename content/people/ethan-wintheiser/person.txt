@@ -1,0 +1,64 @@
+Title: Ethan Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/isac-sporer
+- 
+  type: relations/parental/colleague
+  item: people/rowland-gibson-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-ryann-kuhic-md
+- 
+  type: relations/parental/colleague
+  item: people/ceasar-ferry
+- 
+  type: relations/parental/brosis
+  item: people/mrs-celestine-mills-md
+- 
+  type: relations/money/creditor
+  item: people/reggie-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/client
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

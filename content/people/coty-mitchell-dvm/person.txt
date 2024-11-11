@@ -1,0 +1,64 @@
+Title: Coty Mitchell DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/fabian-lowe-v
+- 
+  type: relations/parental/brosis
+  item: people/virginie-tromp-i
+- 
+  type: relations/money/debtor
+  item: people/dr-dustin-bruen
+- 
+  type: relations/money/creditor
+  item: people/ward-boyer
+- 
+  type: relations/parental/friend
+  item: people/bradford-hansen
+- 
+  type: relations/money/debtor
+  item: people/delia-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/employer
+  item: companies/moore-llc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

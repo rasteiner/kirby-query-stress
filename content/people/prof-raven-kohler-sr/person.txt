@@ -1,0 +1,64 @@
+Title: Prof. Raven Kohler Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-shyanne-weimann-i
+- 
+  type: relations/money/debtor
+  item: people/rafael-will
+- 
+  type: relations/parental/brosis
+  item: people/emerald-bartoletti-i
+- 
+  type: relations/money/debtor
+  item: people/prof-juwan-block-i
+- 
+  type: relations/money/creditor
+  item: people/adelia-witting
+- 
+  type: relations/parental/dad
+  item: people/skylar-mills
+- 
+  type: relations/work/employer
+  item: companies/mayert-group
+- 
+  type: relations/work/client
+  item: companies/windler-inc
+- 
+  type: relations/money/debtor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

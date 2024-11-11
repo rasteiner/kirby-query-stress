@@ -1,0 +1,64 @@
+Title: Trever Lockman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/gilberto-hoppe-dds
+- 
+  type: relations/parental/mom
+  item: people/laurence-miller
+- 
+  type: relations/money/creditor
+  item: people/america-braun
+- 
+  type: relations/parental/friend
+  item: people/thomas-bailey
+- 
+  type: relations/parental/mom
+  item: people/dr-sunny-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/alexanne-hirthe
+- 
+  type: relations/work/client
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

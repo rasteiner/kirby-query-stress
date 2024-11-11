@@ -1,0 +1,64 @@
+Title: Prof. Trenton Langworth I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/deangelo-stroman
+- 
+  type: relations/money/creditor
+  item: people/prof-dewayne-yundt-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-velda-cruickshank
+- 
+  type: relations/money/debtor
+  item: people/mr-mekhi-waters-dds
+- 
+  type: relations/parental/colleague
+  item: people/caleigh-hessel
+- 
+  type: relations/parental/friend
+  item: people/kaelyn-abshire
+- 
+  type: relations/work/client
+  item: companies/feest-ltd
+- 
+  type: relations/work/client
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

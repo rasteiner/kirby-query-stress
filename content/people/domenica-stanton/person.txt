@@ -1,0 +1,64 @@
+Title: Domenica Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jennie-turcotte
+- 
+  type: relations/parental/brosis
+  item: people/mia-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/brooklyn-bogan
+- 
+  type: relations/parental/brosis
+  item: people/myrl-runte-dds
+- 
+  type: relations/parental/dad
+  item: people/florencio-osinski
+- 
+  type: relations/parental/colleague
+  item: people/eliseo-crona
+- 
+  type: relations/work/employer
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

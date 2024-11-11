@@ -1,0 +1,64 @@
+Title: Mrs. Naomie Cartwright
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elvera-jast
+- 
+  type: relations/parental/colleague
+  item: people/sarah-lowe
+- 
+  type: relations/parental/friend
+  item: people/max-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/hillard-doyle-v
+- 
+  type: relations/parental/friend
+  item: people/mr-westley-lebsack-dvm
+- 
+  type: relations/money/creditor
+  item: people/dr-anahi-cormier
+- 
+  type: relations/work/employer
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

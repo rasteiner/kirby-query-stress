@@ -1,0 +1,64 @@
+Title: Glenda Grant
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bo-gleason
+- 
+  type: relations/parental/friend
+  item: people/ara-okuneva
+- 
+  type: relations/parental/mom
+  item: people/eloy-schmidt
+- 
+  type: relations/money/debtor
+  item: people/jessyca-farrell
+- 
+  type: relations/parental/mom
+  item: people/jany-cassin
+- 
+  type: relations/parental/mom
+  item: people/ms-ursula-schaefer-dds
+- 
+  type: relations/money/debtor
+  item: companies/hills-plc
+- 
+  type: relations/work/employer
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

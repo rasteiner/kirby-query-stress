@@ -1,0 +1,64 @@
+Title: Ines Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jeremy-barrows
+- 
+  type: relations/parental/dad
+  item: people/brycen-haley
+- 
+  type: relations/parental/friend
+  item: people/favian-stamm
+- 
+  type: relations/parental/colleague
+  item: people/miss-dayana-hickle
+- 
+  type: relations/parental/mom
+  item: people/arnoldo-morissette
+- 
+  type: relations/money/creditor
+  item: people/bertha-metz
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

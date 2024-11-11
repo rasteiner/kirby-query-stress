@@ -1,0 +1,64 @@
+Title: Dr. Esmeralda Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-alexandria-schmidt-i
+- 
+  type: relations/parental/colleague
+  item: people/elena-rice
+- 
+  type: relations/money/creditor
+  item: people/jedediah-stokes
+- 
+  type: relations/parental/colleague
+  item: people/prof-rupert-mohr-md
+- 
+  type: relations/parental/colleague
+  item: people/dr-cullen-abbott
+- 
+  type: relations/parental/friend
+  item: people/ezequiel-kozey
+- 
+  type: relations/money/creditor
+  item: companies/thompson-flatley
+- 
+  type: relations/work/employer
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/money/creditor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

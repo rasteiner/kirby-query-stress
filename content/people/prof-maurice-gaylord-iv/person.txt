@@ -1,0 +1,64 @@
+Title: Prof. Maurice Gaylord IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-edna-konopelski
+- 
+  type: relations/parental/friend
+  item: people/rudy-conn
+- 
+  type: relations/parental/friend
+  item: people/alexandro-ward
+- 
+  type: relations/parental/brosis
+  item: people/mandy-kilback
+- 
+  type: relations/parental/brosis
+  item: people/mr-esteban-blanda
+- 
+  type: relations/parental/colleague
+  item: people/miss-shyanne-boyer-sr
+- 
+  type: relations/work/employer
+  item: companies/sporer-will
+- 
+  type: relations/work/client
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

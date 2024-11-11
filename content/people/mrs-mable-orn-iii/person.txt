@@ -1,0 +1,64 @@
+Title: Mrs. Mable Orn III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/conrad-herzog
+- 
+  type: relations/parental/dad
+  item: people/miss-madilyn-batz
+- 
+  type: relations/parental/mom
+  item: people/prof-delpha-ebert-i
+- 
+  type: relations/parental/dad
+  item: people/rosalee-streich
+- 
+  type: relations/parental/brosis
+  item: people/patience-cremin-iv
+- 
+  type: relations/parental/friend
+  item: people/antone-rath
+- 
+  type: relations/money/creditor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

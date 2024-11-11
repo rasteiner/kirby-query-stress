@@ -1,0 +1,64 @@
+Title: Michael Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lorenz-donnelly
+- 
+  type: relations/parental/brosis
+  item: people/xzavier-schaefer
+- 
+  type: relations/money/creditor
+  item: people/mr-felton-considine-dvm
+- 
+  type: relations/money/debtor
+  item: people/manuel-harris
+- 
+  type: relations/parental/friend
+  item: people/dr-nickolas-d-amore
+- 
+  type: relations/money/creditor
+  item: people/alex-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

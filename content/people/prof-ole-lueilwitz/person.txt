@@ -1,0 +1,64 @@
+Title: Prof. Ole Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-johnny-beier
+- 
+  type: relations/money/creditor
+  item: people/marilou-christiansen-iii
+- 
+  type: relations/parental/friend
+  item: people/deonte-lebsack
+- 
+  type: relations/parental/friend
+  item: people/furman-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/enoch-gutmann
+- 
+  type: relations/parental/mom
+  item: people/ms-kellie-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/client
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

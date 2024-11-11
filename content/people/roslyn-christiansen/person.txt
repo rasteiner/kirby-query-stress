@@ -1,0 +1,64 @@
+Title: Roslyn Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaleel-streich
+- 
+  type: relations/parental/colleague
+  item: people/reanna-hettinger
+- 
+  type: relations/money/creditor
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/parental/mom
+  item: people/joesph-adams
+- 
+  type: relations/parental/friend
+  item: people/emmie-mann
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

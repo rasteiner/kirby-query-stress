@@ -1,0 +1,64 @@
+Title: Gerardo Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/rita-fisher
+- 
+  type: relations/parental/friend
+  item: people/mr-lincoln-macejkovic
+- 
+  type: relations/parental/dad
+  item: people/jamie-murazik
+- 
+  type: relations/parental/friend
+  item: people/max-hintz
+- 
+  type: relations/parental/colleague
+  item: people/lowell-skiles
+- 
+  type: relations/parental/brosis
+  item: people/roderick-legros-ii
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/client
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

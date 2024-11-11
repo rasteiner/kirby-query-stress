@@ -1,0 +1,64 @@
+Title: Rigoberto Watsica IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/heloise-nader
+- 
+  type: relations/money/creditor
+  item: people/trudie-zemlak
+- 
+  type: relations/money/debtor
+  item: people/ms-euna-willms-dds
+- 
+  type: relations/money/debtor
+  item: people/shany-balistreri
+- 
+  type: relations/parental/dad
+  item: people/miss-marielle-dare
+- 
+  type: relations/parental/dad
+  item: people/dr-guy-keebler
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/employer
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/employer
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/employer
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

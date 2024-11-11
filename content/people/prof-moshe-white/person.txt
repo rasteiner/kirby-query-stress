@@ -1,0 +1,64 @@
+Title: Prof. Moshe White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bryana-torphy-iii
+- 
+  type: relations/parental/friend
+  item: people/miss-zena-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/diamond-ondricka
+- 
+  type: relations/parental/friend
+  item: people/kelly-nitzsche
+- 
+  type: relations/parental/mom
+  item: people/johann-corwin
+- 
+  type: relations/money/creditor
+  item: people/terrence-orn
+- 
+  type: relations/work/client
+  item: companies/bogan-ltd
+- 
+  type: relations/work/client
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/work/client
+  item: companies/schmidt-llc
+- 
+  type: relations/money/debtor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

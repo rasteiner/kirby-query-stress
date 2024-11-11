@@ -1,0 +1,64 @@
+Title: Prof. Alexandria Schmidt I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kaia-wehner-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-bradly-stehr-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-favian-runolfsdottir-dvm
+- 
+  type: relations/parental/friend
+  item: people/lynn-mills-md
+- 
+  type: relations/parental/mom
+  item: people/fritz-denesik
+- 
+  type: relations/parental/brosis
+  item: people/gregoria-carroll
+- 
+  type: relations/work/client
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-nader-and-ebert
+- 
+  type: relations/money/debtor
+  item: companies/schaden-prohaska
+- 
+  type: relations/work/client
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

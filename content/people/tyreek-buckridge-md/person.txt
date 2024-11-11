@@ -1,0 +1,64 @@
+Title: Tyreek Buckridge MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/austyn-monahan-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-rowan-goyette
+- 
+  type: relations/parental/mom
+  item: people/ansel-prosacco
+- 
+  type: relations/parental/colleague
+  item: people/will-casper-md
+- 
+  type: relations/parental/mom
+  item: people/jordyn-brakus
+- 
+  type: relations/parental/brosis
+  item: people/alysson-fadel
+- 
+  type: relations/money/creditor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/work/client
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

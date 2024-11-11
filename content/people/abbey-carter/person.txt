@@ -1,0 +1,68 @@
+Title: Abbey Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-cullen-abbott
+- 
+  type: relations/money/creditor
+  item: people/ezequiel-kozey
+- 
+  type: relations/money/debtor
+  item: people/mrs-jada-tremblay-jr
+- 
+  type: relations/parental/colleague
+  item: people/shea-beahan-phd
+- 
+  type: relations/money/creditor
+  item: people/mrs-laila-hyatt-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-giuseppe-zboncak
+- 
+  type: relations/work/client
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn
+
+----
+
+Uuid: cjp2c60mg6gotuda

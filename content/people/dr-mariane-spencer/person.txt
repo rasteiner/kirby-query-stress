@@ -1,0 +1,64 @@
+Title: Dr. Mariane Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-dell-mcglynn
+- 
+  type: relations/parental/brosis
+  item: people/prof-simeon-weimann
+- 
+  type: relations/parental/friend
+  item: people/norwood-jaskolski
+- 
+  type: relations/parental/friend
+  item: people/roslyn-christiansen
+- 
+  type: relations/money/creditor
+  item: people/brisa-ullrich-md
+- 
+  type: relations/parental/friend
+  item: people/aurore-jast
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/client
+  item: companies/koss-group
+- 
+  type: relations/work/employer
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

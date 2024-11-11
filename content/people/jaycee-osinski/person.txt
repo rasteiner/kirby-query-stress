@@ -1,0 +1,64 @@
+Title: Jaycee Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mason-rice
+- 
+  type: relations/parental/colleague
+  item: people/kendra-kunde
+- 
+  type: relations/parental/friend
+  item: people/mrs-callie-streich-md
+- 
+  type: relations/money/debtor
+  item: people/miss-mara-okuneva-sr
+- 
+  type: relations/parental/colleague
+  item: people/ms-corrine-beer
+- 
+  type: relations/parental/colleague
+  item: people/dr-bennett-pacocha-iv
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/client
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

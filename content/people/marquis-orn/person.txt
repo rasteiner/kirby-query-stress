@@ -1,0 +1,64 @@
+Title: Marquis Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/valentin-gislason
+- 
+  type: relations/parental/brosis
+  item: people/rachel-towne
+- 
+  type: relations/parental/friend
+  item: people/patricia-hackett
+- 
+  type: relations/parental/friend
+  item: people/emmanuelle-lehner-iv
+- 
+  type: relations/parental/colleague
+  item: people/mattie-rolfson-iii
+- 
+  type: relations/money/creditor
+  item: people/gregoria-rohan
+- 
+  type: relations/money/debtor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/employer
+  item: companies/johns-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/employer
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

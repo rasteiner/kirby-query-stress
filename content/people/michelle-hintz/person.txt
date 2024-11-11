@@ -1,0 +1,64 @@
+Title: Michelle Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eveline-torp
+- 
+  type: relations/money/debtor
+  item: people/augustus-hudson
+- 
+  type: relations/parental/friend
+  item: people/melisa-hayes-ii
+- 
+  type: relations/parental/friend
+  item: people/jamil-von
+- 
+  type: relations/parental/dad
+  item: people/miles-nader-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-russ-lehner
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-inc
+- 
+  type: relations/money/debtor
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

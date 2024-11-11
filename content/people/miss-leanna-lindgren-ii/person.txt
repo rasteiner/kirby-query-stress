@@ -1,0 +1,64 @@
+Title: Miss Leanna Lindgren II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-jasmin-willms
+- 
+  type: relations/money/debtor
+  item: people/dr-eloy-shanahan
+- 
+  type: relations/money/debtor
+  item: people/prof-ella-nitzsche
+- 
+  type: relations/parental/brosis
+  item: people/dr-korbin-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: people/selina-runolfsson
+- 
+  type: relations/parental/brosis
+  item: people/odell-wisoky
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

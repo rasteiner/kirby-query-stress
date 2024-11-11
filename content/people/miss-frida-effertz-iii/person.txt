@@ -1,0 +1,64 @@
+Title: Miss Frida Effertz III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lacey-rath
+- 
+  type: relations/money/creditor
+  item: people/bailey-koch
+- 
+  type: relations/parental/mom
+  item: people/simeon-mohr
+- 
+  type: relations/money/creditor
+  item: people/prof-lenora-cormier-iv
+- 
+  type: relations/money/creditor
+  item: people/pablo-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/boyd-homenick
+- 
+  type: relations/work/client
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/client
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

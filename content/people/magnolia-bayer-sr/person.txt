@@ -1,0 +1,64 @@
+Title: Magnolia Bayer Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rodrigo-gibson
+- 
+  type: relations/parental/brosis
+  item: people/laurianne-hammes
+- 
+  type: relations/parental/colleague
+  item: people/avery-rau-sr
+- 
+  type: relations/money/creditor
+  item: people/logan-roob
+- 
+  type: relations/money/creditor
+  item: people/alvena-miller-i
+- 
+  type: relations/parental/brosis
+  item: people/mr-remington-satterfield-md
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/work/client
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/work/employer
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

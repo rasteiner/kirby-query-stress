@@ -1,0 +1,64 @@
+Title: Sandrine Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/tianna-barton-phd
+- 
+  type: relations/money/debtor
+  item: people/trever-lockman
+- 
+  type: relations/parental/colleague
+  item: people/prof-hannah-friesen-jr
+- 
+  type: relations/parental/dad
+  item: people/anastasia-williamson-md
+- 
+  type: relations/money/debtor
+  item: people/zita-hoppe
+- 
+  type: relations/money/creditor
+  item: people/dr-tyler-nienow
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

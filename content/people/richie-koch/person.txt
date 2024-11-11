@@ -1,0 +1,64 @@
+Title: Richie Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/isaiah-hirthe
+- 
+  type: relations/money/creditor
+  item: people/vickie-lemke
+- 
+  type: relations/parental/dad
+  item: people/martine-pouros-i
+- 
+  type: relations/parental/dad
+  item: people/hilda-auer-jr
+- 
+  type: relations/money/debtor
+  item: people/ella-wolff
+- 
+  type: relations/parental/friend
+  item: people/ms-cierra-lindgren
+- 
+  type: relations/work/employer
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

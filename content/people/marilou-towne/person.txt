@@ -1,0 +1,64 @@
+Title: Marilou Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/pearl-powlowski
+- 
+  type: relations/money/creditor
+  item: people/camron-nader
+- 
+  type: relations/parental/brosis
+  item: people/prof-mikayla-price
+- 
+  type: relations/parental/colleague
+  item: people/dr-claudie-hagenes-md
+- 
+  type: relations/parental/brosis
+  item: people/mylene-howell
+- 
+  type: relations/parental/brosis
+  item: people/francesca-dach
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/work/client
+  item: companies/gorczany-funk
+- 
+  type: relations/work/employer
+  item: companies/beer-treutel
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Mr. D'angelo Padberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-elta-goldner
+- 
+  type: relations/parental/friend
+  item: people/mrs-elfrieda-erdman-jr
+- 
+  type: relations/parental/colleague
+  item: people/miss-alayna-kiehn-iv
+- 
+  type: relations/parental/friend
+  item: people/lottie-wolff
+- 
+  type: relations/parental/colleague
+  item: people/janick-bins-dvm
+- 
+  type: relations/parental/mom
+  item: people/alia-rice-dds
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

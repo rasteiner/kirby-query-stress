@@ -1,0 +1,43 @@
+Title: Lindgren-Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/money/creditor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/money/debtor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/creditor
+  item: companies/hamill-herzog
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/blazemouth

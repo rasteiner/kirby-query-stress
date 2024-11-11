@@ -1,0 +1,64 @@
+Title: Mr. Ottis Ondricka Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-lavon-yundt
+- 
+  type: relations/money/debtor
+  item: people/miss-diana-cummerata-phd
+- 
+  type: relations/parental/mom
+  item: people/mr-verner-towne-v
+- 
+  type: relations/parental/friend
+  item: people/dr-thaddeus-satterfield
+- 
+  type: relations/parental/friend
+  item: people/mr-scottie-gorczany
+- 
+  type: relations/parental/friend
+  item: people/mr-tremayne-boehm
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/employer
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

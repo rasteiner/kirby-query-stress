@@ -1,0 +1,64 @@
+Title: Miss Etha Tromp PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kurt-pagac
+- 
+  type: relations/parental/dad
+  item: people/katrina-bechtelar
+- 
+  type: relations/parental/brosis
+  item: people/eda-koch
+- 
+  type: relations/parental/friend
+  item: people/christa-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/simone-medhurst
+- 
+  type: relations/money/creditor
+  item: people/fanny-terry-ii
+- 
+  type: relations/work/employer
+  item: companies/weimann-kshlerin
+- 
+  type: relations/work/client
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/work/employer
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

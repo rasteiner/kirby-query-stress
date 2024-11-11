@@ -1,0 +1,43 @@
+Title: Kuhn PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/debtor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/howell-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/creditor
+  item: companies/pollich-ltd
+- 
+  type: relations/location/visited
+  item: places/bahringerport
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/hoegerland

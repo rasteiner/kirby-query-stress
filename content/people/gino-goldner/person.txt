@@ -1,0 +1,64 @@
+Title: Gino Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alanis-stamm-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-isaac-rohan-v
+- 
+  type: relations/parental/brosis
+  item: people/rusty-bechtelar-dvm
+- 
+  type: relations/parental/friend
+  item: people/audra-toy-v
+- 
+  type: relations/parental/friend
+  item: people/irving-walker-i
+- 
+  type: relations/money/debtor
+  item: people/mrs-bridget-klocko-iii
+- 
+  type: relations/work/client
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/employer
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

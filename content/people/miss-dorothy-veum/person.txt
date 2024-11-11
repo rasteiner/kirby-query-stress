@@ -1,0 +1,64 @@
+Title: Miss Dorothy Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/zachariah-marvin
+- 
+  type: relations/money/debtor
+  item: people/markus-bauch
+- 
+  type: relations/money/debtor
+  item: people/xzavier-smitham
+- 
+  type: relations/parental/colleague
+  item: people/miss-wanda-prohaska
+- 
+  type: relations/money/debtor
+  item: people/berniece-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/prof-mathew-o-reilly-i
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/client
+  item: companies/blanda-bartell
+- 
+  type: relations/work/employer
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

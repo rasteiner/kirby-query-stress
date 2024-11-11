@@ -1,0 +1,43 @@
+Title: Thompson-Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/blick-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/ernser-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/debtor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury

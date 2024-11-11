@@ -1,0 +1,65 @@
+Title: Margarette Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/marcelle-wilderman
+- 
+  type: relations/parental/colleague
+  item: people/prof-anne-jones-iii
+- 
+  type: relations/parental/friend
+  item: people/raphael-nader-sr
+- 
+  type: relations/parental/colleague
+  item: people/omer-rohan-md
+- 
+  type: relations/parental/mom
+  item: people/avis-cassin
+- 
+  type: relations/money/debtor
+  item: people/markus-kuhn
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/money/debtor
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

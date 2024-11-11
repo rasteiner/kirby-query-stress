@@ -1,0 +1,65 @@
+Title: Terrell Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/itzel-wiegand
+- 
+  type: relations/money/creditor
+  item: people/tiana-tremblay
+- 
+  type: relations/money/debtor
+  item: people/baron-kunde
+- 
+  type: relations/money/creditor
+  item: people/jacquelyn-wisoky
+- 
+  type: relations/parental/dad
+  item: people/prof-kaylie-zulauf
+- 
+  type: relations/parental/brosis
+  item: people/mariane-prohaska
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/debtor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

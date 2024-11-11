@@ -1,0 +1,64 @@
+Title: Miss Domenica Klocko II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/santos-franecki-dvm
+- 
+  type: relations/parental/dad
+  item: people/wade-marvin
+- 
+  type: relations/parental/friend
+  item: people/oran-dooley
+- 
+  type: relations/parental/dad
+  item: people/ellen-wyman
+- 
+  type: relations/parental/colleague
+  item: people/ms-theodora-hilpert-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-arnoldo-lehner-md
+- 
+  type: relations/work/employer
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/creditor
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/work/employer
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

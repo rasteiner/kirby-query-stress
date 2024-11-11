@@ -1,0 +1,64 @@
+Title: Lois Swaniawski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bert-hills-v
+- 
+  type: relations/parental/friend
+  item: people/shirley-luettgen
+- 
+  type: relations/parental/brosis
+  item: people/dr-wilbert-hackett-iv
+- 
+  type: relations/parental/brosis
+  item: people/marc-lowe
+- 
+  type: relations/parental/colleague
+  item: people/eulalia-skiles
+- 
+  type: relations/money/creditor
+  item: people/hayley-friesen
+- 
+  type: relations/work/client
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/creditor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

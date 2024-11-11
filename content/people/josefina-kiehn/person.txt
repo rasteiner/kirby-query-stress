@@ -1,0 +1,64 @@
+Title: Josefina Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/electa-russel
+- 
+  type: relations/money/creditor
+  item: people/omer-roberts
+- 
+  type: relations/money/creditor
+  item: people/kay-sporer
+- 
+  type: relations/parental/brosis
+  item: people/americo-kilback
+- 
+  type: relations/parental/mom
+  item: people/grady-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/bella-spinka-iv
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

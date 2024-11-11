@@ -1,0 +1,64 @@
+Title: Jeff Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-william-morar
+- 
+  type: relations/parental/friend
+  item: people/pietro-turner
+- 
+  type: relations/money/creditor
+  item: people/mrs-camille-rippin-phd
+- 
+  type: relations/parental/dad
+  item: people/lennie-will
+- 
+  type: relations/parental/friend
+  item: people/chasity-prosacco
+- 
+  type: relations/parental/brosis
+  item: people/everett-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/money/debtor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

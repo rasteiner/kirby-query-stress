@@ -1,0 +1,65 @@
+Title: Cedrick Torp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-nikita-herman
+- 
+  type: relations/parental/brosis
+  item: people/georgette-pfannerstill
+- 
+  type: relations/parental/brosis
+  item: people/jerald-larkin
+- 
+  type: relations/money/debtor
+  item: people/jaden-von
+- 
+  type: relations/parental/mom
+  item: people/miss-madeline-will-jr
+- 
+  type: relations/parental/brosis
+  item: people/randall-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/client
+  item: companies/pollich-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

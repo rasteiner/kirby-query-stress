@@ -1,0 +1,64 @@
+Title: Tyra Franecki MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lorenz-donnelly
+- 
+  type: relations/parental/brosis
+  item: people/xzavier-schaefer
+- 
+  type: relations/parental/dad
+  item: people/mr-felton-considine-dvm
+- 
+  type: relations/parental/brosis
+  item: people/manuel-harris
+- 
+  type: relations/parental/colleague
+  item: people/dr-nickolas-d-amore
+- 
+  type: relations/money/creditor
+  item: people/alex-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Dell Leuschke III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/casandra-mayer
+- 
+  type: relations/parental/brosis
+  item: people/ruth-von-iv
+- 
+  type: relations/parental/mom
+  item: people/kayley-price
+- 
+  type: relations/parental/colleague
+  item: people/dominique-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/albertha-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/camren-kemmer
+- 
+  type: relations/work/client
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/employer
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/employer
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

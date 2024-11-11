@@ -1,0 +1,64 @@
+Title: Earl Douglas I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/carmine-thiel
+- 
+  type: relations/parental/dad
+  item: people/sabryna-streich
+- 
+  type: relations/parental/friend
+  item: people/mr-lafayette-mitchell
+- 
+  type: relations/money/debtor
+  item: people/domenica-stanton
+- 
+  type: relations/money/creditor
+  item: people/kaley-goyette
+- 
+  type: relations/parental/friend
+  item: people/meagan-stark
+- 
+  type: relations/money/creditor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/employer
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

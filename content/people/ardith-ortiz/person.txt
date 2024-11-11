@@ -1,0 +1,64 @@
+Title: Ardith Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dylan-mosciski
+- 
+  type: relations/parental/dad
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/money/creditor
+  item: people/ressie-douglas
+- 
+  type: relations/parental/friend
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/money/creditor
+  item: people/emelie-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/ottilie-wolf
+- 
+  type: relations/work/employer
+  item: companies/powlowski-inc
+- 
+  type: relations/money/creditor
+  item: companies/sauer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/roob-heathcote
+- 
+  type: relations/work/client
+  item: companies/haley-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

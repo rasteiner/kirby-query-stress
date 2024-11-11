@@ -1,0 +1,64 @@
+Title: Prof. Franz Rohan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elouise-cummings
+- 
+  type: relations/money/creditor
+  item: people/albina-terry-dvm
+- 
+  type: relations/parental/mom
+  item: people/sylvia-haag
+- 
+  type: relations/money/creditor
+  item: people/nelson-emmerich
+- 
+  type: relations/parental/mom
+  item: people/mr-rickey-walter
+- 
+  type: relations/parental/colleague
+  item: people/ms-kavon-kohler
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/debtor
+  item: companies/fadel-ltd
+- 
+  type: relations/work/employer
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

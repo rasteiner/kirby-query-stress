@@ -1,0 +1,64 @@
+Title: Brock Graham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/chet-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/lina-mosciski
+- 
+  type: relations/money/debtor
+  item: people/kole-goyette
+- 
+  type: relations/parental/dad
+  item: people/mikayla-little
+- 
+  type: relations/money/creditor
+  item: people/liam-corwin
+- 
+  type: relations/parental/mom
+  item: people/mrs-antonina-pfeffer
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/client
+  item: companies/sporer-llc
+- 
+  type: relations/work/client
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/client
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

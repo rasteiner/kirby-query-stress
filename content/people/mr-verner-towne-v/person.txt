@@ -1,0 +1,64 @@
+Title: Mr. Verner Towne V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/joe-beahan
+- 
+  type: relations/parental/colleague
+  item: people/jerad-schroeder
+- 
+  type: relations/money/debtor
+  item: people/ms-marlene-mccullough-phd
+- 
+  type: relations/parental/colleague
+  item: people/lenny-bogisich
+- 
+  type: relations/parental/colleague
+  item: people/chadrick-carroll
+- 
+  type: relations/parental/dad
+  item: people/hiram-dooley-dds
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-inc
+- 
+  type: relations/money/creditor
+  item: companies/raynor-rippin
+- 
+  type: relations/money/creditor
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

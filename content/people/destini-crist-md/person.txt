@@ -1,0 +1,64 @@
+Title: Destini Crist MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/madison-dibbert
+- 
+  type: relations/parental/mom
+  item: people/alaina-emmerich
+- 
+  type: relations/parental/mom
+  item: people/samara-homenick
+- 
+  type: relations/parental/dad
+  item: people/dr-jed-mccullough
+- 
+  type: relations/parental/mom
+  item: people/prof-charley-fadel
+- 
+  type: relations/money/debtor
+  item: people/nona-walter
+- 
+  type: relations/work/employer
+  item: companies/feest-ltd
+- 
+  type: relations/work/employer
+  item: companies/dooley-walter
+- 
+  type: relations/work/employer
+  item: companies/lindgren-group
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Miss Wanda Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/nya-swaniawski
+- 
+  type: relations/money/creditor
+  item: people/flavio-keeling
+- 
+  type: relations/parental/brosis
+  item: people/dr-cortney-green
+- 
+  type: relations/parental/colleague
+  item: people/junior-cremin
+- 
+  type: relations/money/creditor
+  item: people/anissa-torphy
+- 
+  type: relations/parental/dad
+  item: people/dr-chauncey-romaguera-iv
+- 
+  type: relations/money/debtor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-inc
+- 
+  type: relations/work/employer
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/work/employer
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

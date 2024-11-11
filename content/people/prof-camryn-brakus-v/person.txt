@@ -1,0 +1,64 @@
+Title: Prof. Camryn Brakus V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/doug-ledner
+- 
+  type: relations/parental/friend
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/parental/friend
+  item: people/garrett-kshlerin
+- 
+  type: relations/parental/friend
+  item: people/violet-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/dr-savanah-zieme-i
+- 
+  type: relations/parental/dad
+  item: people/mr-tobin-ebert
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/employer
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

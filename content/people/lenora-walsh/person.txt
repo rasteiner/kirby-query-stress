@@ -1,0 +1,64 @@
+Title: Lenora Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-dante-hoppe
+- 
+  type: relations/parental/brosis
+  item: people/frieda-cummerata
+- 
+  type: relations/parental/mom
+  item: people/burnice-eichmann-iv
+- 
+  type: relations/parental/mom
+  item: people/ramon-strosin
+- 
+  type: relations/parental/brosis
+  item: people/prof-stuart-leannon
+- 
+  type: relations/parental/mom
+  item: people/lisette-veum
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/client
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

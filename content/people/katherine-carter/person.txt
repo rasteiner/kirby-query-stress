@@ -1,0 +1,64 @@
+Title: Katherine Carter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/geovanni-rowe
+- 
+  type: relations/parental/dad
+  item: people/prof-jeffery-parker-jr
+- 
+  type: relations/parental/mom
+  item: people/kianna-becker
+- 
+  type: relations/parental/colleague
+  item: people/henderson-halvorson
+- 
+  type: relations/parental/mom
+  item: people/dwight-torphy-dds
+- 
+  type: relations/parental/dad
+  item: people/ciara-haag
+- 
+  type: relations/work/employer
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/client
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

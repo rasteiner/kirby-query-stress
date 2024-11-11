@@ -1,0 +1,64 @@
+Title: Darron Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-marjory-pacocha-phd
+- 
+  type: relations/parental/colleague
+  item: people/carol-wuckert-iii
+- 
+  type: relations/parental/friend
+  item: people/adah-mccullough
+- 
+  type: relations/money/debtor
+  item: people/lucius-lindgren
+- 
+  type: relations/money/debtor
+  item: people/dr-devyn-hirthe
+- 
+  type: relations/parental/brosis
+  item: people/jennifer-schuppe
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/money/debtor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

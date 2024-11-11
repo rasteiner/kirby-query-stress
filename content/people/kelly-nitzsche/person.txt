@@ -1,0 +1,64 @@
+Title: Kelly Nitzsche
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eugenia-wiegand
+- 
+  type: relations/parental/mom
+  item: people/prof-coby-reynolds-ii
+- 
+  type: relations/parental/friend
+  item: people/dr-haleigh-lehner
+- 
+  type: relations/money/creditor
+  item: people/mr-blaze-heidenreich-i
+- 
+  type: relations/parental/colleague
+  item: people/martine-grant
+- 
+  type: relations/money/debtor
+  item: people/adriana-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

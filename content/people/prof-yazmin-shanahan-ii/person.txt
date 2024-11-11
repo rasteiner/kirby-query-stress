@@ -1,0 +1,64 @@
+Title: Prof. Yazmin Shanahan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alexandria-smith
+- 
+  type: relations/parental/brosis
+  item: people/miss-ines-mraz
+- 
+  type: relations/money/creditor
+  item: people/prof-hayley-wisoky
+- 
+  type: relations/parental/mom
+  item: people/caleigh-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/cleta-murazik
+- 
+  type: relations/parental/dad
+  item: people/prof-sabina-blanda-v
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/client
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

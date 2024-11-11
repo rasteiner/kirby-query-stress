@@ -1,0 +1,64 @@
+Title: Jesus Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/irwin-davis
+- 
+  type: relations/parental/colleague
+  item: people/derick-adams
+- 
+  type: relations/parental/brosis
+  item: people/valentin-gislason
+- 
+  type: relations/parental/brosis
+  item: people/rachel-towne
+- 
+  type: relations/money/debtor
+  item: people/patricia-hackett
+- 
+  type: relations/parental/colleague
+  item: people/emmanuelle-lehner-iv
+- 
+  type: relations/work/client
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Freida Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/chaya-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/dusty-huels-i
+- 
+  type: relations/parental/dad
+  item: people/maryse-koelpin
+- 
+  type: relations/money/debtor
+  item: people/raoul-robel
+- 
+  type: relations/parental/mom
+  item: people/mr-louisa-conroy
+- 
+  type: relations/money/debtor
+  item: people/mr-jamison-schimmel
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/money/debtor
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/client
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

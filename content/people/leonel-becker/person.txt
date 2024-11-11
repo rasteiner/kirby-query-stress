@@ -1,0 +1,65 @@
+Title: Leonel Becker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cortez-rodriguez
+- 
+  type: relations/parental/brosis
+  item: people/felicia-orn
+- 
+  type: relations/parental/friend
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/patricia-dare
+- 
+  type: relations/money/debtor
+  item: people/david-lowe
+- 
+  type: relations/parental/dad
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/money/creditor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

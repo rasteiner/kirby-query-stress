@@ -1,0 +1,64 @@
+Title: Tobin Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-kattie-reichert
+- 
+  type: relations/parental/mom
+  item: people/dr-antonetta-o-hara-dds
+- 
+  type: relations/parental/dad
+  item: people/hailey-roob
+- 
+  type: relations/parental/brosis
+  item: people/prof-manley-krajcik-iii
+- 
+  type: relations/parental/dad
+  item: people/clinton-koss
+- 
+  type: relations/parental/brosis
+  item: people/anika-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

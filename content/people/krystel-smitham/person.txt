@@ -1,0 +1,64 @@
+Title: Krystel Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/laverna-reynolds
+- 
+  type: relations/parental/friend
+  item: people/tamia-stiedemann-iii
+- 
+  type: relations/parental/friend
+  item: people/arianna-veum
+- 
+  type: relations/money/creditor
+  item: people/ms-marta-wilkinson-i
+- 
+  type: relations/money/debtor
+  item: people/teresa-moore-jr
+- 
+  type: relations/parental/colleague
+  item: people/cleora-moen-sr
+- 
+  type: relations/money/creditor
+  item: companies/harber-group
+- 
+  type: relations/work/employer
+  item: companies/funk-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/client
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Palma Runolfsson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-johanna-heidenreich
+- 
+  type: relations/money/debtor
+  item: people/vincent-gleason
+- 
+  type: relations/parental/mom
+  item: people/alessia-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/santos-reynolds
+- 
+  type: relations/parental/mom
+  item: people/gianni-kuhic
+- 
+  type: relations/parental/brosis
+  item: people/prof-arturo-feil
+- 
+  type: relations/money/debtor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/work/employer
+  item: companies/jacobi-inc
+- 
+  type: relations/work/employer
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/work/employer
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

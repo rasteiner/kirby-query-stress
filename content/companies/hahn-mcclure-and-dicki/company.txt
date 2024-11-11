@@ -1,0 +1,43 @@
+Title: Hahn, McClure and Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/debtor
+  item: companies/russel-skiles
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/money/debtor
+  item: companies/kessler-group
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/lake-odellland

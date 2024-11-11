@@ -1,0 +1,65 @@
+Title: Deion Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/isabel-friesen
+- 
+  type: relations/parental/dad
+  item: people/graham-effertz
+- 
+  type: relations/money/debtor
+  item: people/maci-lang
+- 
+  type: relations/parental/dad
+  item: people/mr-myrl-schultz-md
+- 
+  type: relations/parental/colleague
+  item: people/adrian-wisoky
+- 
+  type: relations/parental/dad
+  item: people/garth-powlowski-ii
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/work/employer
+  item: companies/haley-inc
+- 
+  type: relations/work/client
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

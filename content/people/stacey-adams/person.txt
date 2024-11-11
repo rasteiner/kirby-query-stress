@@ -1,0 +1,64 @@
+Title: Stacey Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cayla-grimes-sr
+- 
+  type: relations/parental/friend
+  item: people/arvilla-doyle
+- 
+  type: relations/money/creditor
+  item: people/curt-schimmel-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-eloise-smitham-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-helen-hayes
+- 
+  type: relations/parental/mom
+  item: people/mauricio-zieme
+- 
+  type: relations/money/debtor
+  item: companies/price-group
+- 
+  type: relations/work/employer
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/work/client
+  item: companies/grimes-boyer
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

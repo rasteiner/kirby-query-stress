@@ -1,0 +1,64 @@
+Title: Kayley Kreiger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-moshe-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/estevan-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/tania-hagenes
+- 
+  type: relations/parental/friend
+  item: people/ariel-thiel
+- 
+  type: relations/parental/colleague
+  item: people/euna-heathcote-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-saul-schuster-jr
+- 
+  type: relations/work/employer
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

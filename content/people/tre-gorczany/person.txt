@@ -1,0 +1,64 @@
+Title: Tre Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-telly-harvey
+- 
+  type: relations/parental/dad
+  item: people/prof-brando-price
+- 
+  type: relations/parental/colleague
+  item: people/rey-ebert
+- 
+  type: relations/parental/colleague
+  item: people/myrtice-schiller
+- 
+  type: relations/money/creditor
+  item: people/mr-deonte-hayes-ii
+- 
+  type: relations/parental/friend
+  item: people/cecil-beer
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/client
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

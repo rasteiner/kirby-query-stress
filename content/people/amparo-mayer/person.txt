@@ -1,0 +1,64 @@
+Title: Amparo Mayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/orrin-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/mrs-prudence-lynch-phd
+- 
+  type: relations/money/debtor
+  item: people/leatha-friesen-iii
+- 
+  type: relations/parental/dad
+  item: people/ivory-bradtke
+- 
+  type: relations/money/creditor
+  item: people/bryana-kub
+- 
+  type: relations/parental/mom
+  item: people/lexus-halvorson
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/creditor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/employer
+  item: companies/blick-mcclure
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

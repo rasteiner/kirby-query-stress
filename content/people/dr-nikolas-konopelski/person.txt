@@ -1,0 +1,64 @@
+Title: Dr. Nikolas Konopelski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-aaron-stokes-jr
+- 
+  type: relations/money/debtor
+  item: people/prof-cornelius-schaden
+- 
+  type: relations/parental/dad
+  item: people/eva-kuhic-ii
+- 
+  type: relations/money/debtor
+  item: people/assunta-lind
+- 
+  type: relations/money/creditor
+  item: people/dock-ledner
+- 
+  type: relations/parental/mom
+  item: people/erwin-kuhn
+- 
+  type: relations/work/client
+  item: companies/metz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

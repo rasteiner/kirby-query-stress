@@ -1,0 +1,64 @@
+Title: Magnus Mohr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/louisa-kunde
+- 
+  type: relations/parental/mom
+  item: people/mrs-marcia-borer-i
+- 
+  type: relations/parental/colleague
+  item: people/adriel-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-heidi-hessel
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

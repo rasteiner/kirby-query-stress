@@ -1,0 +1,64 @@
+Title: Garett Wiegand MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kianna-becker
+- 
+  type: relations/money/debtor
+  item: people/henderson-halvorson
+- 
+  type: relations/parental/brosis
+  item: people/dwight-torphy-dds
+- 
+  type: relations/parental/dad
+  item: people/ciara-haag
+- 
+  type: relations/money/debtor
+  item: people/loyal-bednar
+- 
+  type: relations/money/creditor
+  item: people/prof-shaylee-strosin
+- 
+  type: relations/work/client
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/crist-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

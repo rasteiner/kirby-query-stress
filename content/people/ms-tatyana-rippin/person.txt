@@ -1,0 +1,64 @@
+Title: Ms. Tatyana Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/iva-blick
+- 
+  type: relations/parental/dad
+  item: people/sadie-haag-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-emil-rau-iii
+- 
+  type: relations/money/creditor
+  item: people/mr-robin-gaylord-sr
+- 
+  type: relations/parental/brosis
+  item: people/fritz-murazik
+- 
+  type: relations/money/debtor
+  item: people/dudley-morissette
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/client
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Delores Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/anderson-toy
+- 
+  type: relations/parental/brosis
+  item: people/mckayla-gleason
+- 
+  type: relations/money/debtor
+  item: people/britney-murazik
+- 
+  type: relations/parental/brosis
+  item: people/hobart-swaniawski
+- 
+  type: relations/parental/dad
+  item: people/art-bernhard
+- 
+  type: relations/money/debtor
+  item: people/bonnie-stroman
+- 
+  type: relations/work/employer
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/employer
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/debtor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

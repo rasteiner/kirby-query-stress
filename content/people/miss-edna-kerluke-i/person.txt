@@ -1,0 +1,64 @@
+Title: Miss Edna Kerluke I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/carmine-botsford
+- 
+  type: relations/parental/dad
+  item: people/prof-jarod-johnston-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-arnold-heller
+- 
+  type: relations/parental/dad
+  item: people/saige-gutmann
+- 
+  type: relations/parental/friend
+  item: people/tod-crist
+- 
+  type: relations/parental/dad
+  item: people/jess-dicki
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-ltd
+- 
+  type: relations/work/employer
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

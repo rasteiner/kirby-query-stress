@@ -1,0 +1,64 @@
+Title: Prof. Alexandria Schaden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/maximillia-beier
+- 
+  type: relations/parental/mom
+  item: people/murphy-medhurst-phd
+- 
+  type: relations/parental/brosis
+  item: people/alysson-shields
+- 
+  type: relations/parental/friend
+  item: people/rocky-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/cordell-cronin
+- 
+  type: relations/money/creditor
+  item: people/travis-abbott-ii
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/employer
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/employer
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/debtor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

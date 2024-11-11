@@ -1,0 +1,65 @@
+Title: Mellie Leuschke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-alicia-dickens
+- 
+  type: relations/money/creditor
+  item: people/prof-oleta-lubowitz
+- 
+  type: relations/parental/dad
+  item: people/ronny-mcdermott
+- 
+  type: relations/parental/mom
+  item: people/rita-balistreri
+- 
+  type: relations/parental/friend
+  item: people/wilber-flatley
+- 
+  type: relations/parental/mom
+  item: people/adaline-corwin
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/schiller-collier
+- 
+  type: relations/money/debtor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/creditor
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

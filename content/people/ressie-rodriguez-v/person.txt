@@ -1,0 +1,64 @@
+Title: Ressie Rodriguez V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/parental/friend
+  item: people/sienna-dubuque
+- 
+  type: relations/money/creditor
+  item: people/kiera-konopelski-ii
+- 
+  type: relations/money/creditor
+  item: people/cleve-stamm
+- 
+  type: relations/parental/friend
+  item: people/mr-jamar-labadie
+- 
+  type: relations/money/creditor
+  item: people/tianna-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

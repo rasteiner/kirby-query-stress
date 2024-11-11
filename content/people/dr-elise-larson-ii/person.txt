@@ -1,0 +1,64 @@
+Title: Dr. Elise Larson II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/katrina-sporer
+- 
+  type: relations/parental/mom
+  item: people/dr-dedric-hilpert
+- 
+  type: relations/parental/friend
+  item: people/dr-cleora-hayes
+- 
+  type: relations/parental/colleague
+  item: people/ms-maribel-bayer-dds
+- 
+  type: relations/parental/colleague
+  item: people/jayda-paucek
+- 
+  type: relations/parental/colleague
+  item: people/amaya-wolff
+- 
+  type: relations/work/employer
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/client
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/client
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

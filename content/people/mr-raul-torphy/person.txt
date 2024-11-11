@@ -1,0 +1,64 @@
+Title: Mr. Raul Torphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/athena-wehner
+- 
+  type: relations/parental/brosis
+  item: people/devante-yost-i
+- 
+  type: relations/parental/dad
+  item: people/dr-gabrielle-parker
+- 
+  type: relations/parental/friend
+  item: people/lisa-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/matt-rutherford
+- 
+  type: relations/parental/brosis
+  item: people/nola-howell-dds
+- 
+  type: relations/work/client
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/employer
+  item: companies/metz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

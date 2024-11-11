@@ -1,0 +1,64 @@
+Title: Sarina Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/madaline-o-kon
+- 
+  type: relations/parental/friend
+  item: people/amira-hintz
+- 
+  type: relations/parental/colleague
+  item: people/ellen-schinner-ii
+- 
+  type: relations/money/creditor
+  item: people/dorian-haley-jr
+- 
+  type: relations/money/creditor
+  item: people/ms-mariane-abbott
+- 
+  type: relations/money/creditor
+  item: people/lisandro-hirthe
+- 
+  type: relations/work/employer
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/work/client
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/client
+  item: companies/ratke-fay
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

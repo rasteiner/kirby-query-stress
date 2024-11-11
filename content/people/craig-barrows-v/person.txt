@@ -1,0 +1,64 @@
+Title: Craig Barrows V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nathanael-fahey
+- 
+  type: relations/money/creditor
+  item: people/prof-trenton-dickinson-iv
+- 
+  type: relations/parental/brosis
+  item: people/brenna-howell-v
+- 
+  type: relations/money/debtor
+  item: people/myriam-marquardt-md
+- 
+  type: relations/parental/friend
+  item: people/nathen-goldner
+- 
+  type: relations/money/debtor
+  item: people/mr-ibrahim-ledner
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

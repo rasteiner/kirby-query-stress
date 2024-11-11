@@ -1,0 +1,64 @@
+Title: Ms. Agnes Hackett
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/clementina-zboncak
+- 
+  type: relations/parental/friend
+  item: people/anissa-kuhic
+- 
+  type: relations/money/creditor
+  item: people/wava-treutel
+- 
+  type: relations/parental/friend
+  item: people/dr-zack-will
+- 
+  type: relations/parental/colleague
+  item: people/martine-pouros
+- 
+  type: relations/parental/mom
+  item: people/prof-arno-wintheiser-jr
+- 
+  type: relations/work/client
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/client
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

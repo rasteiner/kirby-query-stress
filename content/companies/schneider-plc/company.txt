@@ -1,0 +1,43 @@
+Title: Schneider PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-grimes
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/marquardt-zieme
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-jamal
+- 
+  type: relations/location/visited
+  item: places/west-alize

@@ -1,0 +1,64 @@
+Title: Ms. Mafalda Hackett V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/arturo-stark
+- 
+  type: relations/money/creditor
+  item: people/ms-letitia-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/loy-simonis
+- 
+  type: relations/parental/mom
+  item: people/robb-hegmann
+- 
+  type: relations/parental/dad
+  item: people/baby-hand
+- 
+  type: relations/parental/colleague
+  item: people/fannie-koepp-iii
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/client
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

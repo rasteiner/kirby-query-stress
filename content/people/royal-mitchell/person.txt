@@ -1,0 +1,64 @@
+Title: Royal Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-lexus-wilkinson-iv
+- 
+  type: relations/parental/dad
+  item: people/kianna-torp
+- 
+  type: relations/parental/brosis
+  item: people/eloisa-upton
+- 
+  type: relations/parental/dad
+  item: people/burley-jones
+- 
+  type: relations/money/creditor
+  item: people/florence-dietrich
+- 
+  type: relations/parental/colleague
+  item: people/lesley-howe
+- 
+  type: relations/work/client
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/herzog-plc
+- 
+  type: relations/work/client
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

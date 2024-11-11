@@ -1,0 +1,64 @@
+Title: Ara Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-ansel-miller-md
+- 
+  type: relations/parental/dad
+  item: people/deshawn-blick
+- 
+  type: relations/parental/dad
+  item: people/keyon-lang
+- 
+  type: relations/money/creditor
+  item: people/asa-pagac
+- 
+  type: relations/parental/colleague
+  item: people/kamren-metz
+- 
+  type: relations/parental/brosis
+  item: people/prof-arvilla-mills-iv
+- 
+  type: relations/work/client
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/work/client
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,43 @@
+Title: Predovic PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/brycebury

@@ -1,0 +1,65 @@
+Title: Ms. River Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-ella-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/dr-korbin-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/selina-runolfsson
+- 
+  type: relations/parental/mom
+  item: people/odell-wisoky
+- 
+  type: relations/parental/brosis
+  item: people/dr-alan-ankunding
+- 
+  type: relations/parental/dad
+  item: people/miss-vivian-von-iv
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/employer
+  item: companies/rippin-sauer
+- 
+  type: relations/work/employer
+  item: companies/haley-inc
+- 
+  type: relations/work/client
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

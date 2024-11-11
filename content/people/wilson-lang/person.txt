@@ -1,0 +1,64 @@
+Title: Wilson Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-theresia-rice
+- 
+  type: relations/parental/dad
+  item: people/zoey-bernhard
+- 
+  type: relations/money/creditor
+  item: people/amalia-beier
+- 
+  type: relations/parental/dad
+  item: people/jody-rogahn
+- 
+  type: relations/money/creditor
+  item: people/prof-nathanial-bartoletti-dds
+- 
+  type: relations/parental/dad
+  item: people/nannie-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/work/employer
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

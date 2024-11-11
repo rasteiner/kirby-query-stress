@@ -1,0 +1,64 @@
+Title: Mr. Steve Morissette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/wilson-schulist
+- 
+  type: relations/money/creditor
+  item: people/bridgette-d-amore
+- 
+  type: relations/parental/dad
+  item: people/lavada-stoltenberg
+- 
+  type: relations/parental/mom
+  item: people/prof-nico-friesen
+- 
+  type: relations/parental/mom
+  item: people/kevon-paucek
+- 
+  type: relations/money/debtor
+  item: people/prof-janiya-spencer
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/parker-pagac
+- 
+  type: relations/work/employer
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

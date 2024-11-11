@@ -1,0 +1,43 @@
+Title: Schamberger-Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/leffler-stroman
+- 
+  type: relations/money/creditor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough

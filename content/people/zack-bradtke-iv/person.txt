@@ -1,0 +1,64 @@
+Title: Zack Bradtke IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lloyd-schoen
+- 
+  type: relations/money/creditor
+  item: people/hazle-jast
+- 
+  type: relations/parental/friend
+  item: people/prof-alexie-connelly-ii
+- 
+  type: relations/money/creditor
+  item: people/mazie-keeling
+- 
+  type: relations/money/creditor
+  item: people/astrid-tromp
+- 
+  type: relations/parental/friend
+  item: people/mr-josue-friesen
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

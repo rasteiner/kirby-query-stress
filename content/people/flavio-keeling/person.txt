@@ -1,0 +1,64 @@
+Title: Flavio Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-yasmine-nolan-ii
+- 
+  type: relations/parental/brosis
+  item: people/sofia-hodkiewicz-sr
+- 
+  type: relations/parental/mom
+  item: people/keara-fritsch
+- 
+  type: relations/money/debtor
+  item: people/miss-carli-hoeger
+- 
+  type: relations/money/creditor
+  item: people/miss-rosalinda-bergstrom-dvm
+- 
+  type: relations/parental/dad
+  item: people/mrs-amara-langosh-iii
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

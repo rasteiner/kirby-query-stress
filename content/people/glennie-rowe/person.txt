@@ -1,0 +1,64 @@
+Title: Glennie Rowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/retha-miller
+- 
+  type: relations/money/creditor
+  item: people/pedro-o-kon
+- 
+  type: relations/parental/colleague
+  item: people/prof-eudora-rogahn-phd
+- 
+  type: relations/parental/friend
+  item: people/ned-hammes
+- 
+  type: relations/parental/brosis
+  item: people/jaquan-abbott
+- 
+  type: relations/parental/friend
+  item: people/sheldon-gutkowski
+- 
+  type: relations/money/debtor
+  item: companies/walker-howe
+- 
+  type: relations/work/client
+  item: companies/orn-inc
+- 
+  type: relations/work/client
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/debtor
+  item: companies/mayer-conn
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

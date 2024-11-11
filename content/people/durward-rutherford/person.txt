@@ -1,0 +1,64 @@
+Title: Durward Rutherford
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/connor-franecki
+- 
+  type: relations/parental/dad
+  item: people/brando-brakus
+- 
+  type: relations/parental/colleague
+  item: people/devonte-miller
+- 
+  type: relations/parental/friend
+  item: people/prof-rick-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/lisa-smith
+- 
+  type: relations/parental/friend
+  item: people/vernice-hegmann
+- 
+  type: relations/work/employer
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

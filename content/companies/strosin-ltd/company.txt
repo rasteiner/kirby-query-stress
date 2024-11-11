@@ -1,0 +1,43 @@
+Title: Strosin Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/creditor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-parker
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-veum
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/marjoryland

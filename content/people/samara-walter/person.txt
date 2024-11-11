@@ -1,0 +1,64 @@
+Title: Samara Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/micaela-weissnat-phd
+- 
+  type: relations/parental/colleague
+  item: people/mr-laurel-daniel-md
+- 
+  type: relations/parental/brosis
+  item: people/clint-grady
+- 
+  type: relations/parental/mom
+  item: people/amparo-kutch-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-francis-lebsack-i
+- 
+  type: relations/money/creditor
+  item: people/prof-devonte-feest
+- 
+  type: relations/work/employer
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

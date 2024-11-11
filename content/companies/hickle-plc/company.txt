@@ -1,0 +1,43 @@
+Title: Hickle PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/debtor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

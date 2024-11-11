@@ -1,0 +1,64 @@
+Title: Prof. Lavon Senger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eloisa-upton
+- 
+  type: relations/money/creditor
+  item: people/burley-jones
+- 
+  type: relations/parental/mom
+  item: people/florence-dietrich
+- 
+  type: relations/parental/colleague
+  item: people/lesley-howe
+- 
+  type: relations/parental/colleague
+  item: people/dessie-o-hara
+- 
+  type: relations/money/creditor
+  item: people/clotilde-morar
+- 
+  type: relations/work/employer
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/creditor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,66 @@
+Title: Jevon Hintz III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-precious-macejkovic
+- 
+  type: relations/parental/dad
+  item: people/thurman-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/lloyd-schoen
+- 
+  type: relations/parental/dad
+  item: people/hazle-jast
+- 
+  type: relations/parental/mom
+  item: people/prof-alexie-connelly-ii
+- 
+  type: relations/parental/colleague
+  item: people/mazie-keeling
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/collins-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/client
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

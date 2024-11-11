@@ -1,0 +1,68 @@
+Title: Abel Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/harvey-bartell-iv
+- 
+  type: relations/money/debtor
+  item: people/berry-bins
+- 
+  type: relations/parental/friend
+  item: people/omari-hirthe
+- 
+  type: relations/parental/dad
+  item: people/kenny-bosco
+- 
+  type: relations/money/debtor
+  item: people/isaac-simonis-phd
+- 
+  type: relations/parental/mom
+  item: people/haylie-hayes
+- 
+  type: relations/money/creditor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven
+
+----
+
+Uuid: ve7z97kpjiiz7vqp

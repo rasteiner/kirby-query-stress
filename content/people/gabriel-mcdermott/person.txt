@@ -1,0 +1,64 @@
+Title: Gabriel McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/maudie-mante
+- 
+  type: relations/parental/brosis
+  item: people/nathanael-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/prof-zora-jones-jr
+- 
+  type: relations/parental/colleague
+  item: people/catharine-towne
+- 
+  type: relations/parental/dad
+  item: people/hortense-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/verdie-crooks
+- 
+  type: relations/money/debtor
+  item: companies/stroman-ltd
+- 
+  type: relations/money/debtor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/work/employer
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

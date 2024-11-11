@@ -1,0 +1,43 @@
+Title: Bogan Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-ratke-and-nicolas
+- 
+  type: relations/money/debtor
+  item: companies/schroeder-group
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn

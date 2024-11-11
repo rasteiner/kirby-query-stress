@@ -1,0 +1,64 @@
+Title: Monserrat Bednar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lemuel-white
+- 
+  type: relations/parental/friend
+  item: people/esmeralda-lynch
+- 
+  type: relations/money/creditor
+  item: people/kaya-moen
+- 
+  type: relations/parental/mom
+  item: people/emmy-larkin
+- 
+  type: relations/money/creditor
+  item: people/frederik-batz
+- 
+  type: relations/parental/dad
+  item: people/addison-ondricka-md
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

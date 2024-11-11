@@ -1,0 +1,64 @@
+Title: Dr. Johnathon Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/antonia-ward
+- 
+  type: relations/money/debtor
+  item: people/kaya-walker
+- 
+  type: relations/money/creditor
+  item: people/joey-hammes
+- 
+  type: relations/money/creditor
+  item: people/eloise-leffler
+- 
+  type: relations/parental/brosis
+  item: people/darrel-morissette
+- 
+  type: relations/money/creditor
+  item: people/miss-bernice-mante
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

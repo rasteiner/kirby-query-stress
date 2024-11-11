@@ -1,0 +1,64 @@
+Title: Kaya Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-imani-shanahan
+- 
+  type: relations/parental/dad
+  item: people/dr-rhett-hilll-iv
+- 
+  type: relations/money/debtor
+  item: people/yvonne-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/dusty-rempel
+- 
+  type: relations/parental/colleague
+  item: people/shany-kirlin
+- 
+  type: relations/parental/friend
+  item: people/elissa-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/client
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/creditor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

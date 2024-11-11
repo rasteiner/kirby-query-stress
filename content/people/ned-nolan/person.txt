@@ -1,0 +1,65 @@
+Title: Ned Nolan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/betsy-graham-i
+- 
+  type: relations/parental/dad
+  item: people/priscilla-kunze-iii
+- 
+  type: relations/money/creditor
+  item: people/ms-della-schimmel-jr
+- 
+  type: relations/parental/brosis
+  item: people/fiona-schulist
+- 
+  type: relations/parental/brosis
+  item: people/judd-parisian
+- 
+  type: relations/money/creditor
+  item: people/prof-russell-graham-sr
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/client
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

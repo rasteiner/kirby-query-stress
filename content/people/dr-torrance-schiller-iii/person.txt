@@ -1,0 +1,64 @@
+Title: Dr. Torrance Schiller III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-aaron-lebsack
+- 
+  type: relations/money/creditor
+  item: people/marlee-hirthe
+- 
+  type: relations/money/creditor
+  item: people/clementine-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/rossie-bogan
+- 
+  type: relations/parental/mom
+  item: people/gussie-klocko
+- 
+  type: relations/money/creditor
+  item: people/dr-austin-watsica-sr
+- 
+  type: relations/work/employer
+  item: companies/pollich-watsica
+- 
+  type: relations/work/client
+  item: companies/huel-sipes
+- 
+  type: relations/work/employer
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/bartell-plc
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,43 @@
+Title: Schoen-Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mayer-conn
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-llc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-llc
+- 
+  type: relations/location/visited
+  item: places/new-selmer
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/south-emerson

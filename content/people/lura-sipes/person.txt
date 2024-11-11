@@ -1,0 +1,64 @@
+Title: Lura Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tressa-reichel
+- 
+  type: relations/money/debtor
+  item: people/rasheed-bernhard
+- 
+  type: relations/money/creditor
+  item: people/jeffry-boyer
+- 
+  type: relations/parental/brosis
+  item: people/dr-elvera-goldner
+- 
+  type: relations/parental/mom
+  item: people/ova-stracke
+- 
+  type: relations/parental/friend
+  item: people/barton-grant-jr
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/work/employer
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

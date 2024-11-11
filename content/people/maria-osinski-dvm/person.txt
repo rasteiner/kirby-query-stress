@@ -1,0 +1,64 @@
+Title: Maria Osinski DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lelah-reilly
+- 
+  type: relations/money/debtor
+  item: people/roosevelt-ziemann
+- 
+  type: relations/parental/mom
+  item: people/bianka-kunde
+- 
+  type: relations/parental/friend
+  item: people/dr-scottie-rippin
+- 
+  type: relations/parental/dad
+  item: people/dr-burdette-luettgen
+- 
+  type: relations/parental/mom
+  item: people/fern-gerlach
+- 
+  type: relations/work/client
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/client
+  item: companies/bogisich-cole
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

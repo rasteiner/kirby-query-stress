@@ -1,0 +1,64 @@
+Title: Tessie Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/paxton-klein
+- 
+  type: relations/parental/dad
+  item: people/mrs-ashleigh-vonrueden-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-vern-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/prof-eudora-kreiger-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-marlene-purdy-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-ole-ryan
+- 
+  type: relations/work/employer
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

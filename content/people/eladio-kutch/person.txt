@@ -1,0 +1,64 @@
+Title: Eladio Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/emilie-volkman-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-eino-roberts
+- 
+  type: relations/parental/brosis
+  item: people/reagan-rowe-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-morgan-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/miss-nikita-herman
+- 
+  type: relations/parental/colleague
+  item: people/georgette-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/work/employer
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

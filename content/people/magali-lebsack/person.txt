@@ -1,0 +1,64 @@
+Title: Magali Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-ellie-feil
+- 
+  type: relations/parental/mom
+  item: people/hyman-willms
+- 
+  type: relations/parental/brosis
+  item: people/leonor-wehner
+- 
+  type: relations/parental/mom
+  item: people/ed-kemmer
+- 
+  type: relations/parental/brosis
+  item: people/nichole-paucek
+- 
+  type: relations/money/debtor
+  item: people/katlyn-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/frami-group
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-group
+- 
+  type: relations/work/client
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

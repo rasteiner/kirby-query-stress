@@ -1,0 +1,44 @@
+Title: Larkin-Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/debtor
+  item: companies/hermann-murphy
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-inc
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/crookstown
+- 
+  type: relations/location/visited
+  item: places/north-trestad

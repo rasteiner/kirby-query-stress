@@ -1,0 +1,64 @@
+Title: Makenzie Oberbrunner PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/meghan-adams
+- 
+  type: relations/money/creditor
+  item: people/natalia-marquardt
+- 
+  type: relations/parental/colleague
+  item: people/prof-raymundo-jacobson-v
+- 
+  type: relations/money/creditor
+  item: people/ubaldo-simonis
+- 
+  type: relations/parental/colleague
+  item: people/beau-sanford
+- 
+  type: relations/parental/mom
+  item: people/houston-tillman
+- 
+  type: relations/work/client
+  item: companies/mueller-reichel
+- 
+  type: relations/work/client
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/employer
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

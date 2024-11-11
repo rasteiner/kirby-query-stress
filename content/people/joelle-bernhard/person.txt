@@ -1,0 +1,64 @@
+Title: Joelle Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-jennings-keebler
+- 
+  type: relations/money/debtor
+  item: people/leonie-bayer
+- 
+  type: relations/money/debtor
+  item: people/dr-nickolas-hand-ii
+- 
+  type: relations/parental/brosis
+  item: people/telly-pouros
+- 
+  type: relations/parental/colleague
+  item: people/clarabelle-dickinson
+- 
+  type: relations/parental/friend
+  item: people/ralph-feest
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/money/debtor
+  item: companies/kub-plc
+- 
+  type: relations/work/employer
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

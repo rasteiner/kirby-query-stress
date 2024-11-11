@@ -1,0 +1,64 @@
+Title: Prof. Ross Romaguera DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/amely-smith-jr
+- 
+  type: relations/parental/colleague
+  item: people/evangeline-flatley
+- 
+  type: relations/parental/friend
+  item: people/josianne-grady-iii
+- 
+  type: relations/parental/friend
+  item: people/selina-pouros
+- 
+  type: relations/parental/dad
+  item: people/malvina-hermiston-i
+- 
+  type: relations/parental/dad
+  item: people/lina-waters
+- 
+  type: relations/work/employer
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/money/creditor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

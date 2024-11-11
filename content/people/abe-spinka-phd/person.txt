@@ -1,0 +1,68 @@
+Title: Abe Spinka PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ayana-balistreri
+- 
+  type: relations/money/creditor
+  item: people/taurean-cummings
+- 
+  type: relations/parental/brosis
+  item: people/myah-barton
+- 
+  type: relations/money/debtor
+  item: people/mable-zboncak-jr
+- 
+  type: relations/money/creditor
+  item: people/cyrus-schinner
+- 
+  type: relations/parental/dad
+  item: people/miss-jeanette-kling
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-group
+- 
+  type: relations/work/client
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg
+
+----
+
+Uuid: 3yiqrce6hes9zpdz

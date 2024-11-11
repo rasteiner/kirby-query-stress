@@ -1,0 +1,64 @@
+Title: Eric Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cordia-hermiston
+- 
+  type: relations/money/debtor
+  item: people/dr-joey-hackett
+- 
+  type: relations/parental/brosis
+  item: people/prof-garnet-hartmann
+- 
+  type: relations/money/debtor
+  item: people/mckayla-bode
+- 
+  type: relations/parental/mom
+  item: people/mr-vern-lueilwitz
+- 
+  type: relations/parental/dad
+  item: people/marcella-marks
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/employer
+  item: companies/metz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

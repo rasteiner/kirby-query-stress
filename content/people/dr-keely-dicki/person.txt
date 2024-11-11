@@ -1,0 +1,64 @@
+Title: Dr. Keely Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/oliver-stamm
+- 
+  type: relations/parental/friend
+  item: people/gwendolyn-monahan
+- 
+  type: relations/parental/colleague
+  item: people/dr-vincenza-denesik
+- 
+  type: relations/money/debtor
+  item: people/rosendo-howe
+- 
+  type: relations/money/debtor
+  item: people/lance-emard
+- 
+  type: relations/parental/brosis
+  item: people/theresa-mcdermott
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/client
+  item: companies/koelpin-group
+- 
+  type: relations/work/client
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

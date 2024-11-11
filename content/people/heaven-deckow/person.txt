@@ -1,0 +1,64 @@
+Title: Heaven Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/remington-abshire
+- 
+  type: relations/parental/colleague
+  item: people/cali-haley
+- 
+  type: relations/parental/dad
+  item: people/jarod-gerhold
+- 
+  type: relations/parental/friend
+  item: people/ismael-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/wanda-kutch
+- 
+  type: relations/money/debtor
+  item: people/braxton-kihn
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

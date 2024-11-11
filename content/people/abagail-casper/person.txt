@@ -1,0 +1,68 @@
+Title: Abagail Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/naomi-welch
+- 
+  type: relations/parental/dad
+  item: people/jettie-hackett
+- 
+  type: relations/money/debtor
+  item: people/chasity-o-hara
+- 
+  type: relations/parental/brosis
+  item: people/stefanie-dickens
+- 
+  type: relations/parental/friend
+  item: people/angelo-stiedemann-iii
+- 
+  type: relations/parental/friend
+  item: people/earl-vandervort
+- 
+  type: relations/work/client
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/money/debtor
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland
+
+----
+
+Uuid: 3dpji4gkkh6b9eci

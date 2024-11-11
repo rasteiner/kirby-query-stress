@@ -1,0 +1,43 @@
+Title: Hamill, Kuvalis and Hauck
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/roberts-mueller
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/wehner-plc
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-brisaport

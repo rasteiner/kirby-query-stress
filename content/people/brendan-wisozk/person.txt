@@ -1,0 +1,64 @@
+Title: Brendan Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adelbert-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/easter-jacobi
+- 
+  type: relations/parental/friend
+  item: people/maud-hessel
+- 
+  type: relations/parental/colleague
+  item: people/reyes-leannon-v
+- 
+  type: relations/money/creditor
+  item: people/rachel-weissnat
+- 
+  type: relations/money/creditor
+  item: people/sage-goyette
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

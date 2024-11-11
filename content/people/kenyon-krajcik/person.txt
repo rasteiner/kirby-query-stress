@@ -1,0 +1,64 @@
+Title: Kenyon Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/avery-rau-sr
+- 
+  type: relations/parental/brosis
+  item: people/logan-roob
+- 
+  type: relations/parental/brosis
+  item: people/alvena-miller-i
+- 
+  type: relations/money/debtor
+  item: people/mr-remington-satterfield-md
+- 
+  type: relations/parental/dad
+  item: people/cecil-feil
+- 
+  type: relations/parental/dad
+  item: people/stuart-lemke
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

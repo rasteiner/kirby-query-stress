@@ -1,0 +1,43 @@
+Title: Watsica, Berge and Schinner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/money/creditor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/creditor
+  item: companies/mraz-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/rodriguez-group
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/aldenmouth

@@ -1,0 +1,64 @@
+Title: Jeffry Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/benjamin-cormier
+- 
+  type: relations/parental/mom
+  item: people/isac-jacobson
+- 
+  type: relations/parental/mom
+  item: people/raymond-gleason
+- 
+  type: relations/parental/colleague
+  item: people/fermin-renner
+- 
+  type: relations/money/debtor
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/brosis
+  item: people/hilma-smith
+- 
+  type: relations/work/client
+  item: companies/langosh-maggio
+- 
+  type: relations/money/creditor
+  item: companies/berge-waters
+- 
+  type: relations/work/employer
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Prof. Clair Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cali-quigley
+- 
+  type: relations/parental/friend
+  item: people/mr-zakary-prosacco
+- 
+  type: relations/money/debtor
+  item: people/fannie-hoppe
+- 
+  type: relations/parental/colleague
+  item: people/matilda-friesen
+- 
+  type: relations/parental/dad
+  item: people/miss-loren-zieme
+- 
+  type: relations/money/creditor
+  item: people/mervin-schulist
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/client
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

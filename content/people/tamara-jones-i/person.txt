@@ -1,0 +1,64 @@
+Title: Tamara Jones I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/tamara-ledner-dds
+- 
+  type: relations/money/debtor
+  item: people/freeda-cormier-dds
+- 
+  type: relations/money/creditor
+  item: people/zander-schuppe
+- 
+  type: relations/money/debtor
+  item: people/tess-bednar-phd
+- 
+  type: relations/parental/colleague
+  item: people/jaren-frami
+- 
+  type: relations/parental/brosis
+  item: people/dr-amos-padberg-iii
+- 
+  type: relations/work/client
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

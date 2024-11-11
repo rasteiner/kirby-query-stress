@@ -1,0 +1,64 @@
+Title: Eden Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/madalyn-torphy
+- 
+  type: relations/parental/brosis
+  item: people/prof-jarrett-bechtelar-i
+- 
+  type: relations/parental/mom
+  item: people/deontae-beier
+- 
+  type: relations/money/debtor
+  item: people/jonathon-leffler
+- 
+  type: relations/parental/brosis
+  item: people/jennie-turcotte
+- 
+  type: relations/parental/friend
+  item: people/mia-mosciski
+- 
+  type: relations/money/creditor
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

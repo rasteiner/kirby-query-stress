@@ -1,0 +1,44 @@
+Title: Heathcote, Nader and Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/money/debtor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

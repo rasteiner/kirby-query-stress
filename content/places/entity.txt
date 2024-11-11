@@ -1,0 +1,5 @@
+title: Place
+
+----
+
+Allows_from: person

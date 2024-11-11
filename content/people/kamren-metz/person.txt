@@ -1,0 +1,64 @@
+Title: Kamren Metz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-tina-harvey-iii
+- 
+  type: relations/parental/dad
+  item: people/mr-turner-langworth-dds
+- 
+  type: relations/parental/mom
+  item: people/manuel-walker
+- 
+  type: relations/money/debtor
+  item: people/florian-wiegand
+- 
+  type: relations/parental/dad
+  item: people/jermain-lind-ii
+- 
+  type: relations/parental/friend
+  item: people/prudence-krajcik-phd
+- 
+  type: relations/money/creditor
+  item: companies/mayert-group
+- 
+  type: relations/work/employer
+  item: companies/windler-inc
+- 
+  type: relations/work/employer
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

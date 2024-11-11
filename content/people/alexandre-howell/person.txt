@@ -1,0 +1,64 @@
+Title: Alexandre Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/randi-volkman
+- 
+  type: relations/money/creditor
+  item: people/adolphus-wilkinson
+- 
+  type: relations/parental/mom
+  item: people/miss-elza-cruickshank-sr
+- 
+  type: relations/parental/friend
+  item: people/antonette-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/gabrielle-windler-sr
+- 
+  type: relations/parental/friend
+  item: people/dandre-raynor-i
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

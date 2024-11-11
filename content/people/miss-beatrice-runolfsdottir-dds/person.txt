@@ -1,0 +1,64 @@
+Title: Miss Beatrice Runolfsdottir DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-jailyn-kuhn
+- 
+  type: relations/parental/friend
+  item: people/leo-hessel
+- 
+  type: relations/parental/brosis
+  item: people/rogers-powlowski
+- 
+  type: relations/money/creditor
+  item: people/breanne-braun
+- 
+  type: relations/parental/brosis
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/parental/brosis
+  item: people/myrtis-morar
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

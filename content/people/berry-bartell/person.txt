@@ -1,0 +1,64 @@
+Title: Berry Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/wyman-zulauf-ii
+- 
+  type: relations/parental/brosis
+  item: people/patrick-langworth
+- 
+  type: relations/money/debtor
+  item: people/kristopher-kulas
+- 
+  type: relations/parental/mom
+  item: people/mable-goldner
+- 
+  type: relations/parental/friend
+  item: people/shayne-turner
+- 
+  type: relations/money/debtor
+  item: people/otis-barrows
+- 
+  type: relations/money/debtor
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

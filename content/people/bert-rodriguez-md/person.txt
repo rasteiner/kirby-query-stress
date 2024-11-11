@@ -1,0 +1,64 @@
+Title: Bert Rodriguez MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/salvatore-bailey
+- 
+  type: relations/parental/mom
+  item: people/ryley-schneider
+- 
+  type: relations/parental/colleague
+  item: people/hosea-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/thora-beier
+- 
+  type: relations/parental/brosis
+  item: people/delta-kihn
+- 
+  type: relations/parental/dad
+  item: people/prof-abdullah-littel-ii
+- 
+  type: relations/work/employer
+  item: companies/doyle-murphy
+- 
+  type: relations/work/employer
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/work/employer
+  item: companies/corwin-zieme
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

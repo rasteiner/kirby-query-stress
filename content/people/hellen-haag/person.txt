@@ -1,0 +1,64 @@
+Title: Hellen Haag
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mittie-franecki
+- 
+  type: relations/parental/brosis
+  item: people/prof-marcella-balistreri-phd
+- 
+  type: relations/money/debtor
+  item: people/eliane-trantow
+- 
+  type: relations/parental/mom
+  item: people/cayla-yundt
+- 
+  type: relations/parental/friend
+  item: people/mabelle-mayert
+- 
+  type: relations/parental/mom
+  item: people/faye-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/cassin-llc
+- 
+  type: relations/work/client
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

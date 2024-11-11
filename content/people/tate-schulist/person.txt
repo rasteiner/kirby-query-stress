@@ -1,0 +1,64 @@
+Title: Tate Schulist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sage-leannon
+- 
+  type: relations/parental/friend
+  item: people/josefina-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/rudolph-toy
+- 
+  type: relations/parental/friend
+  item: people/chaim-denesik-ii
+- 
+  type: relations/money/creditor
+  item: people/thurman-collier-sr
+- 
+  type: relations/parental/friend
+  item: people/melody-smith-sr
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/client
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

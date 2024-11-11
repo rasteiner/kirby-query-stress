@@ -1,0 +1,64 @@
+Title: Ian Wuckert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shanny-douglas
+- 
+  type: relations/parental/mom
+  item: people/berta-carter
+- 
+  type: relations/parental/mom
+  item: people/karli-schoen
+- 
+  type: relations/parental/mom
+  item: people/prof-jaren-turner
+- 
+  type: relations/parental/dad
+  item: people/santiago-lebsack
+- 
+  type: relations/parental/colleague
+  item: people/richie-koch
+- 
+  type: relations/work/client
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-group
+- 
+  type: relations/work/client
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

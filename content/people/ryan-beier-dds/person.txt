@@ -1,0 +1,64 @@
+Title: Ryan Beier DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-christophe-aufderhar-dds
+- 
+  type: relations/parental/friend
+  item: people/dr-lilyan-orn-dds
+- 
+  type: relations/money/creditor
+  item: people/anderson-thiel
+- 
+  type: relations/parental/brosis
+  item: people/america-ankunding-iv
+- 
+  type: relations/parental/friend
+  item: people/vicky-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/keara-osinski
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/work/client
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

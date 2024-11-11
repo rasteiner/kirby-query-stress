@@ -1,0 +1,65 @@
+Title: Miss Karen Bode DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lowell-skiles
+- 
+  type: relations/parental/friend
+  item: people/roderick-legros-ii
+- 
+  type: relations/parental/dad
+  item: people/leonel-mante
+- 
+  type: relations/parental/colleague
+  item: people/sienna-considine
+- 
+  type: relations/money/creditor
+  item: people/aiden-pollich
+- 
+  type: relations/parental/colleague
+  item: people/maye-kerluke
+- 
+  type: relations/work/client
+  item: companies/runte-cremin
+- 
+  type: relations/work/employer
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/employer
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

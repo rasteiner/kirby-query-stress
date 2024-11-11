@@ -1,0 +1,64 @@
+Title: Fern Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jerrell-hackett
+- 
+  type: relations/parental/mom
+  item: people/adolph-goyette
+- 
+  type: relations/money/debtor
+  item: people/dr-marcus-gerlach-i
+- 
+  type: relations/money/debtor
+  item: people/michel-sanford-ii
+- 
+  type: relations/parental/colleague
+  item: people/anastacio-cartwright
+- 
+  type: relations/parental/brosis
+  item: people/dr-florencio-stehr
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

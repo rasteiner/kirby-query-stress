@@ -1,0 +1,64 @@
+Title: Carroll Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/domingo-bechtelar
+- 
+  type: relations/money/creditor
+  item: people/brendon-kassulke-iv
+- 
+  type: relations/parental/brosis
+  item: people/neil-jones
+- 
+  type: relations/money/creditor
+  item: people/wilburn-weber
+- 
+  type: relations/parental/brosis
+  item: people/lavina-reilly
+- 
+  type: relations/parental/colleague
+  item: people/cristian-erdman
+- 
+  type: relations/work/employer
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/client
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

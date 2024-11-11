@@ -1,0 +1,44 @@
+Title: Kub LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/creditor
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/money/debtor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire

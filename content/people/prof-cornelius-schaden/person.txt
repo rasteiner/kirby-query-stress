@@ -1,0 +1,64 @@
+Title: Prof. Cornelius Schaden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kris-prohaska-ii
+- 
+  type: relations/money/debtor
+  item: people/mr-pierce-hahn
+- 
+  type: relations/parental/mom
+  item: people/eleanore-stroman
+- 
+  type: relations/parental/mom
+  item: people/mr-jamaal-bartoletti-md
+- 
+  type: relations/parental/dad
+  item: people/drake-kub-md
+- 
+  type: relations/parental/colleague
+  item: people/malachi-kuhic
+- 
+  type: relations/work/employer
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-llc
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Bettye Corkery DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/myrtie-rosenbaum
+- 
+  type: relations/money/creditor
+  item: people/prof-keeley-brekke-jr
+- 
+  type: relations/parental/dad
+  item: people/prudence-moore-dvm
+- 
+  type: relations/parental/friend
+  item: people/glenda-grant
+- 
+  type: relations/parental/dad
+  item: people/marcelina-becker
+- 
+  type: relations/parental/dad
+  item: people/rosalee-quitzon
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/work/client
+  item: companies/kub-plc
+- 
+  type: relations/work/client
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/client
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

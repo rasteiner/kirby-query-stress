@@ -1,0 +1,64 @@
+Title: Trey Crona
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ludie-o-kon-phd
+- 
+  type: relations/parental/colleague
+  item: people/jaydon-hilll-iv
+- 
+  type: relations/parental/mom
+  item: people/austyn-monahan-phd
+- 
+  type: relations/parental/dad
+  item: people/dr-rowan-goyette
+- 
+  type: relations/money/creditor
+  item: people/ansel-prosacco
+- 
+  type: relations/parental/mom
+  item: people/will-casper-md
+- 
+  type: relations/work/employer
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/debtor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

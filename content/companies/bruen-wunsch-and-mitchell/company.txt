@@ -1,0 +1,43 @@
+Title: Bruen, Wunsch and Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/lednermouth

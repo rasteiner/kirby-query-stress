@@ -1,0 +1,64 @@
+Title: Isaac Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-andy-pollich
+- 
+  type: relations/money/creditor
+  item: people/dr-johnathon-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/ferne-miller-v
+- 
+  type: relations/parental/mom
+  item: people/jude-dooley
+- 
+  type: relations/money/creditor
+  item: people/jeffry-jaskolski-md
+- 
+  type: relations/money/debtor
+  item: people/miss-verla-becker
+- 
+  type: relations/work/client
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

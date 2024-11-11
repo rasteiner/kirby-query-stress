@@ -1,0 +1,64 @@
+Title: Elenor Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-dorian-heller
+- 
+  type: relations/money/debtor
+  item: people/kadin-ferry-dds
+- 
+  type: relations/parental/brosis
+  item: people/ralph-sipes
+- 
+  type: relations/money/creditor
+  item: people/dr-sven-wiza
+- 
+  type: relations/money/debtor
+  item: people/amely-crist
+- 
+  type: relations/money/debtor
+  item: people/lorena-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

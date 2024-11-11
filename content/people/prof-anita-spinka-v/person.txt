@@ -1,0 +1,64 @@
+Title: Prof. Anita Spinka V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kaylee-conn-iii
+- 
+  type: relations/money/debtor
+  item: people/prof-lisandro-stark
+- 
+  type: relations/parental/brosis
+  item: people/eloise-cronin
+- 
+  type: relations/parental/mom
+  item: people/oceane-casper
+- 
+  type: relations/parental/dad
+  item: people/valerie-labadie
+- 
+  type: relations/parental/colleague
+  item: people/fermin-will
+- 
+  type: relations/work/employer
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

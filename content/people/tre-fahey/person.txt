@@ -1,0 +1,64 @@
+Title: Tre Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-theodora-hilpert-md
+- 
+  type: relations/parental/colleague
+  item: people/prof-arnoldo-lehner-md
+- 
+  type: relations/money/debtor
+  item: people/ben-stiedemann-i
+- 
+  type: relations/money/debtor
+  item: people/gust-hickle
+- 
+  type: relations/money/debtor
+  item: people/karley-hyatt
+- 
+  type: relations/parental/mom
+  item: people/kasey-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/work/client
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

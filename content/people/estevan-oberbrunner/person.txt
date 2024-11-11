@@ -1,0 +1,64 @@
+Title: Estevan Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bert-rodriguez-md
+- 
+  type: relations/parental/dad
+  item: people/megane-collier
+- 
+  type: relations/parental/friend
+  item: people/mattie-hackett
+- 
+  type: relations/parental/brosis
+  item: people/dr-zakary-farrell-dvm
+- 
+  type: relations/parental/colleague
+  item: people/raul-waters
+- 
+  type: relations/parental/colleague
+  item: people/ignacio-effertz
+- 
+  type: relations/money/creditor
+  item: companies/abbott-llc
+- 
+  type: relations/work/client
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/money/debtor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

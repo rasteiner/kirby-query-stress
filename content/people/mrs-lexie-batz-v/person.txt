@@ -1,0 +1,64 @@
+Title: Mrs. Lexie Batz V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ocie-moore
+- 
+  type: relations/money/debtor
+  item: people/pansy-ondricka
+- 
+  type: relations/money/debtor
+  item: people/beatrice-ferry
+- 
+  type: relations/money/debtor
+  item: people/asia-torphy
+- 
+  type: relations/parental/colleague
+  item: people/freida-murazik-v
+- 
+  type: relations/money/debtor
+  item: people/ida-boyle
+- 
+  type: relations/work/client
+  item: companies/doyle-murphy
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

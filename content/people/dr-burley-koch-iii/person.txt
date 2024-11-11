@@ -1,0 +1,64 @@
+Title: Dr. Burley Koch III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/everette-pfeffer-v
+- 
+  type: relations/parental/colleague
+  item: people/stan-sauer
+- 
+  type: relations/money/debtor
+  item: people/cleveland-o-keefe
+- 
+  type: relations/parental/colleague
+  item: people/lukas-sporer
+- 
+  type: relations/parental/dad
+  item: people/jerrold-will-md
+- 
+  type: relations/parental/colleague
+  item: people/rickie-waelchi-i
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

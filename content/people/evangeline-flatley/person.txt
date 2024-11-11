@@ -1,0 +1,64 @@
+Title: Evangeline Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cristian-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/ms-ollie-kunde-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-brooks-strosin-sr
+- 
+  type: relations/parental/brosis
+  item: people/concepcion-crist
+- 
+  type: relations/parental/friend
+  item: people/marc-jerde
+- 
+  type: relations/money/creditor
+  item: people/hertha-christiansen-iv
+- 
+  type: relations/money/debtor
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,65 @@
+Title: Antone Schamberger V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-hope-larson-iii
+- 
+  type: relations/money/debtor
+  item: people/pearlie-sauer
+- 
+  type: relations/parental/friend
+  item: people/danika-lowe-jr
+- 
+  type: relations/money/debtor
+  item: people/erica-yundt
+- 
+  type: relations/parental/mom
+  item: people/ms-celine-lueilwitz-dds
+- 
+  type: relations/parental/friend
+  item: people/cali-daniel
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/client
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Miss Jewel Kovacek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-seth-gutkowski
+- 
+  type: relations/money/creditor
+  item: people/dave-quigley-sr
+- 
+  type: relations/money/debtor
+  item: people/braxton-smith
+- 
+  type: relations/parental/friend
+  item: people/maud-labadie
+- 
+  type: relations/parental/dad
+  item: people/jan-runolfsson
+- 
+  type: relations/parental/mom
+  item: people/maxie-price
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

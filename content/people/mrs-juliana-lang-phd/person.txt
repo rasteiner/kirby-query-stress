@@ -1,0 +1,64 @@
+Title: Mrs. Juliana Lang PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kaya-moen
+- 
+  type: relations/parental/colleague
+  item: people/emmy-larkin
+- 
+  type: relations/parental/dad
+  item: people/frederik-batz
+- 
+  type: relations/money/debtor
+  item: people/addison-ondricka-md
+- 
+  type: relations/parental/brosis
+  item: people/winston-dicki-sr
+- 
+  type: relations/parental/brosis
+  item: people/marquis-franecki
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

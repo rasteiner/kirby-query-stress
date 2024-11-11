@@ -1,0 +1,43 @@
+Title: Maggio, Halvorson and Quitzon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/cassin-llc
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/location/residence
+  item: places/otiliachester
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/new-anahi

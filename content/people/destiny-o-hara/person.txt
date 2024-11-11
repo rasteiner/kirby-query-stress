@@ -1,0 +1,64 @@
+Title: Destiny O'Hara
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elinor-johns
+- 
+  type: relations/money/creditor
+  item: people/ms-wilhelmine-keebler
+- 
+  type: relations/parental/colleague
+  item: people/shyanne-muller-i
+- 
+  type: relations/parental/friend
+  item: people/may-feeney
+- 
+  type: relations/money/debtor
+  item: people/ben-lakin
+- 
+  type: relations/parental/friend
+  item: people/gonzalo-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/money/creditor
+  item: companies/rice-inc
+- 
+  type: relations/work/employer
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

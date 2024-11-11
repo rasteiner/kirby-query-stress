@@ -1,0 +1,64 @@
+Title: Isac Sporer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/regan-heidenreich
+- 
+  type: relations/parental/friend
+  item: people/aurore-dickens
+- 
+  type: relations/parental/colleague
+  item: people/leif-rippin
+- 
+  type: relations/parental/colleague
+  item: people/prof-emerson-koch
+- 
+  type: relations/money/debtor
+  item: people/dr-ezequiel-zemlak
+- 
+  type: relations/money/creditor
+  item: people/alexandra-kulas
+- 
+  type: relations/work/employer
+  item: companies/okuneva-inc
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/money/debtor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

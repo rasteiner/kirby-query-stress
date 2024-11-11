@@ -1,0 +1,64 @@
+Title: Koby Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bennett-cummings
+- 
+  type: relations/parental/colleague
+  item: people/prof-rosendo-hane
+- 
+  type: relations/parental/dad
+  item: people/beatrice-donnelly
+- 
+  type: relations/money/debtor
+  item: people/reuben-veum
+- 
+  type: relations/parental/dad
+  item: people/santina-torp-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-kiley-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/work/employer
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/employer
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

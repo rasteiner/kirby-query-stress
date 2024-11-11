@@ -1,0 +1,64 @@
+Title: Kennith Feeney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marta-gulgowski
+- 
+  type: relations/parental/dad
+  item: people/mrs-melyssa-monahan
+- 
+  type: relations/parental/colleague
+  item: people/leora-maggio
+- 
+  type: relations/parental/friend
+  item: people/clare-casper
+- 
+  type: relations/parental/brosis
+  item: people/dr-floy-rodriguez-phd
+- 
+  type: relations/money/creditor
+  item: people/breana-koch
+- 
+  type: relations/work/employer
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/work/employer
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

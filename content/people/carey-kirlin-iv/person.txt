@@ -1,0 +1,64 @@
+Title: Carey Kirlin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-lamont-renner-ii
+- 
+  type: relations/parental/colleague
+  item: people/kasey-dare
+- 
+  type: relations/parental/friend
+  item: people/ms-may-pacocha
+- 
+  type: relations/parental/colleague
+  item: people/dr-nikita-wunsch
+- 
+  type: relations/parental/dad
+  item: people/norris-hansen
+- 
+  type: relations/parental/dad
+  item: people/prof-orland-wehner
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/money/creditor
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

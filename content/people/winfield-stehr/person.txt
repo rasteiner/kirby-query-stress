@@ -1,0 +1,64 @@
+Title: Winfield Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/betsy-cormier
+- 
+  type: relations/money/creditor
+  item: people/mrs-gertrude-skiles
+- 
+  type: relations/money/debtor
+  item: people/jaeden-larkin-dds
+- 
+  type: relations/money/creditor
+  item: people/antwon-lemke
+- 
+  type: relations/parental/brosis
+  item: people/kody-prohaska-i
+- 
+  type: relations/parental/colleague
+  item: people/jamar-d-amore-ii
+- 
+  type: relations/work/client
+  item: companies/graham-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/employer
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

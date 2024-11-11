@@ -1,0 +1,64 @@
+Title: Miss Fabiola Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jaycee-borer
+- 
+  type: relations/money/debtor
+  item: people/zola-koch
+- 
+  type: relations/parental/colleague
+  item: people/kiara-corwin
+- 
+  type: relations/parental/colleague
+  item: people/kathleen-rosenbaum
+- 
+  type: relations/parental/friend
+  item: people/mr-sanford-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/erica-cartwright-v
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Prof. Lauren Armstrong DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-ona-wilkinson
+- 
+  type: relations/parental/colleague
+  item: people/aimee-donnelly
+- 
+  type: relations/parental/brosis
+  item: people/kip-cronin
+- 
+  type: relations/parental/dad
+  item: people/mrs-jade-walsh
+- 
+  type: relations/parental/brosis
+  item: people/dr-deion-schulist-iii
+- 
+  type: relations/money/debtor
+  item: people/orlando-brakus
+- 
+  type: relations/work/employer
+  item: companies/abbott-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/work/client
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/employer
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

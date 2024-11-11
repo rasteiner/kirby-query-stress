@@ -1,0 +1,64 @@
+Title: Darrick Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/adaline-cruickshank
+- 
+  type: relations/parental/friend
+  item: people/colleen-ziemann
+- 
+  type: relations/money/creditor
+  item: people/dr-jennyfer-wisozk-i
+- 
+  type: relations/parental/mom
+  item: people/hilma-hyatt
+- 
+  type: relations/money/debtor
+  item: people/iliana-paucek
+- 
+  type: relations/parental/mom
+  item: people/miss-allison-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

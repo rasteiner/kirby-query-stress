@@ -1,0 +1,64 @@
+Title: Mr. Ricky Robel V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-antonina-swift
+- 
+  type: relations/money/debtor
+  item: people/deron-kirlin
+- 
+  type: relations/parental/dad
+  item: people/jennings-oberbrunner-v
+- 
+  type: relations/parental/mom
+  item: people/nicholaus-kuvalis-dvm
+- 
+  type: relations/money/creditor
+  item: people/lucious-dubuque
+- 
+  type: relations/parental/colleague
+  item: people/ms-pat-goldner-v
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/money/debtor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

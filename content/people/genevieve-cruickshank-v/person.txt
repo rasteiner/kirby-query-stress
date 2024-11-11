@@ -1,0 +1,64 @@
+Title: Genevieve Cruickshank V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lysanne-aufderhar
+- 
+  type: relations/parental/mom
+  item: people/august-schultz-jr
+- 
+  type: relations/parental/friend
+  item: people/mrs-dahlia-feeney-ii
+- 
+  type: relations/money/creditor
+  item: people/stewart-kuhn-dvm
+- 
+  type: relations/money/creditor
+  item: people/ashlynn-herzog
+- 
+  type: relations/parental/mom
+  item: people/pattie-cassin
+- 
+  type: relations/work/client
+  item: companies/collins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

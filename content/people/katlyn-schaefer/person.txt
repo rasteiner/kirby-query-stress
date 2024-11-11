@@ -1,0 +1,64 @@
+Title: Katlyn Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-cheyenne-leannon
+- 
+  type: relations/money/debtor
+  item: people/bernadine-sauer
+- 
+  type: relations/parental/friend
+  item: people/ms-alisha-kilback
+- 
+  type: relations/money/debtor
+  item: people/brandon-braun
+- 
+  type: relations/parental/friend
+  item: people/valentina-hahn
+- 
+  type: relations/parental/dad
+  item: people/onie-nolan
+- 
+  type: relations/work/client
+  item: companies/emard-inc
+- 
+  type: relations/money/creditor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

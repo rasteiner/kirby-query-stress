@@ -1,0 +1,64 @@
+Title: Marlin Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/name-roberts
+- 
+  type: relations/parental/brosis
+  item: people/adrienne-hills
+- 
+  type: relations/parental/brosis
+  item: people/ezequiel-ondricka-i
+- 
+  type: relations/parental/friend
+  item: people/jeanie-ritchie
+- 
+  type: relations/parental/dad
+  item: people/mr-hilbert-dubuque
+- 
+  type: relations/parental/brosis
+  item: people/terrence-schneider
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

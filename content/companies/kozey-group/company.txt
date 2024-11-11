@@ -1,0 +1,43 @@
+Title: Kozey Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/creditor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/money/creditor
+  item: companies/orn-plc
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort

@@ -1,0 +1,65 @@
+Title: Dr. Ansel Miller MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kaylee-morar
+- 
+  type: relations/parental/friend
+  item: people/connie-carroll
+- 
+  type: relations/money/debtor
+  item: people/boris-bashirian
+- 
+  type: relations/parental/friend
+  item: people/meghan-boyer
+- 
+  type: relations/parental/dad
+  item: people/eveline-lindgren
+- 
+  type: relations/parental/colleague
+  item: people/dr-unique-walker-md
+- 
+  type: relations/work/client
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/creditor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/employer
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Josefina Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/martine-grant
+- 
+  type: relations/parental/brosis
+  item: people/adriana-osinski
+- 
+  type: relations/money/creditor
+  item: people/estel-yost
+- 
+  type: relations/parental/dad
+  item: people/edmund-jakubowski
+- 
+  type: relations/parental/dad
+  item: people/miss-jada-sauer
+- 
+  type: relations/parental/brosis
+  item: people/delores-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/creditor
+  item: companies/huel-sipes
+- 
+  type: relations/work/employer
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

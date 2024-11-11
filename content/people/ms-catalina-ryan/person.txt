@@ -1,0 +1,64 @@
+Title: Ms. Catalina Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/maximillia-mueller
+- 
+  type: relations/parental/colleague
+  item: people/cleora-dooley
+- 
+  type: relations/parental/friend
+  item: people/elouise-cummings
+- 
+  type: relations/parental/colleague
+  item: people/albina-terry-dvm
+- 
+  type: relations/parental/dad
+  item: people/sylvia-haag
+- 
+  type: relations/parental/mom
+  item: people/nelson-emmerich
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/work/client
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/client
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

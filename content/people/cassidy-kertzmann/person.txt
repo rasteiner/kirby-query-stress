@@ -1,0 +1,64 @@
+Title: Cassidy Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/parental/colleague
+  item: people/lafayette-stehr
+- 
+  type: relations/money/creditor
+  item: people/maegan-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/dr-leonardo-thiel
+- 
+  type: relations/parental/friend
+  item: people/pink-runte
+- 
+  type: relations/work/employer
+  item: companies/larkin-group
+- 
+  type: relations/money/debtor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

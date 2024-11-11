@@ -1,0 +1,64 @@
+Title: Onie Ritchie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/helmer-aufderhar
+- 
+  type: relations/parental/brosis
+  item: people/rupert-schneider
+- 
+  type: relations/money/creditor
+  item: people/breana-kiehn
+- 
+  type: relations/parental/dad
+  item: people/lizeth-satterfield
+- 
+  type: relations/parental/mom
+  item: people/tatyana-macejkovic
+- 
+  type: relations/parental/colleague
+  item: people/dell-stamm-md
+- 
+  type: relations/work/employer
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/work/employer
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/client
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

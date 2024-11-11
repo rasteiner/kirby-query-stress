@@ -1,0 +1,64 @@
+Title: Prof. Agustin Sporer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-pink-hills
+- 
+  type: relations/money/creditor
+  item: people/devante-smitham-md
+- 
+  type: relations/parental/colleague
+  item: people/claud-steuber
+- 
+  type: relations/parental/friend
+  item: people/lukas-quitzon
+- 
+  type: relations/parental/mom
+  item: people/rory-runolfsson
+- 
+  type: relations/money/creditor
+  item: people/ceasar-sawayn-sr
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

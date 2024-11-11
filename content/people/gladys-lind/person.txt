@@ -1,0 +1,64 @@
+Title: Gladys Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-geovanni-gusikowski-dds
+- 
+  type: relations/parental/dad
+  item: people/percy-jenkins
+- 
+  type: relations/money/creditor
+  item: people/kraig-corkery-ii
+- 
+  type: relations/money/debtor
+  item: people/trystan-towne
+- 
+  type: relations/parental/colleague
+  item: people/guy-carroll
+- 
+  type: relations/money/creditor
+  item: people/dr-alicia-mcclure-dds
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/work/client
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/creditor
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

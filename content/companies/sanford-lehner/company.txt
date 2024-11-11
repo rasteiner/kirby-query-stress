@@ -1,0 +1,43 @@
+Title: Sanford-Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/creditor
+  item: companies/mraz-wunsch
+- 
+  type: relations/money/creditor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-group
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville
+- 
+  type: relations/location/residence
+  item: places/port-mauricio

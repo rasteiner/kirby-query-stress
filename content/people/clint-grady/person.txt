@@ -1,0 +1,64 @@
+Title: Clint Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/halle-blanda
+- 
+  type: relations/parental/friend
+  item: people/aiden-krajcik-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-leola-johnson-md
+- 
+  type: relations/parental/friend
+  item: people/crawford-bergnaum
+- 
+  type: relations/parental/dad
+  item: people/icie-mraz
+- 
+  type: relations/parental/friend
+  item: people/ms-emmanuelle-nitzsche
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/client
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/predovic-plc
+- 
+  type: relations/work/employer
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

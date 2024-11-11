@@ -1,0 +1,64 @@
+Title: Santos Hilpert Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/adriana-lemke
+- 
+  type: relations/parental/friend
+  item: people/prof-leda-maggio-jr
+- 
+  type: relations/parental/mom
+  item: people/winnifred-hoppe
+- 
+  type: relations/money/debtor
+  item: people/carlie-ward
+- 
+  type: relations/parental/brosis
+  item: people/bonnie-hammes
+- 
+  type: relations/parental/friend
+  item: people/maddison-jast-dvm
+- 
+  type: relations/work/client
+  item: companies/harber-group
+- 
+  type: relations/work/client
+  item: companies/funk-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/debtor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Constance Mraz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-joshuah-anderson
+- 
+  type: relations/money/debtor
+  item: people/mr-brandt-olson-sr
+- 
+  type: relations/money/debtor
+  item: people/terrill-corwin-sr
+- 
+  type: relations/parental/mom
+  item: people/greta-senger
+- 
+  type: relations/parental/dad
+  item: people/jaleel-corwin-dds
+- 
+  type: relations/parental/colleague
+  item: people/reanna-orn
+- 
+  type: relations/work/employer
+  item: companies/purdy-koch
+- 
+  type: relations/work/employer
+  item: companies/smith-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-harber
+- 
+  type: relations/money/creditor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Ferne Miller V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maximus-kemmer
+- 
+  type: relations/parental/colleague
+  item: people/sandra-spinka
+- 
+  type: relations/parental/brosis
+  item: people/kade-hauck
+- 
+  type: relations/money/creditor
+  item: people/victor-weimann
+- 
+  type: relations/parental/mom
+  item: people/bradly-dickinson
+- 
+  type: relations/parental/dad
+  item: people/golden-raynor
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/employer
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/work/client
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Dr. Cindy Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-evert-cremin
+- 
+  type: relations/money/creditor
+  item: people/giles-veum
+- 
+  type: relations/parental/brosis
+  item: people/donald-harvey
+- 
+  type: relations/parental/mom
+  item: people/dr-jaylon-mccullough
+- 
+  type: relations/money/creditor
+  item: people/leopold-jast
+- 
+  type: relations/parental/dad
+  item: people/eudora-ankunding
+- 
+  type: relations/work/employer
+  item: companies/carter-daniel
+- 
+  type: relations/money/creditor
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,43 @@
+Title: Gutkowski, King and Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-collins
+- 
+  type: relations/money/debtor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/kilback-kub
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort
+- 
+  type: relations/location/residence
+  item: places/steubershire

@@ -1,0 +1,64 @@
+Title: Cali Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/franz-koelpin
+- 
+  type: relations/parental/friend
+  item: people/gillian-russel
+- 
+  type: relations/parental/friend
+  item: people/mr-everardo-turcotte-phd
+- 
+  type: relations/money/creditor
+  item: people/mrs-jayne-mayer-jr
+- 
+  type: relations/parental/mom
+  item: people/carlo-buckridge-jr
+- 
+  type: relations/money/debtor
+  item: people/mr-amani-feil
+- 
+  type: relations/work/client
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/work/client
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

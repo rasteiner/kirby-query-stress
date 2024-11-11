@@ -1,0 +1,64 @@
+Title: Lina Harvey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kay-ebert-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ramona-harris-ii
+- 
+  type: relations/parental/brosis
+  item: people/michael-parisian
+- 
+  type: relations/money/debtor
+  item: people/gracie-wilkinson
+- 
+  type: relations/parental/mom
+  item: people/anika-cronin
+- 
+  type: relations/parental/dad
+  item: people/rhett-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/work/client
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/employer
+  item: companies/rath-schuppe
+- 
+  type: relations/work/client
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

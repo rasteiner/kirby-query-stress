@@ -1,0 +1,64 @@
+Title: Dr. Keanu Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-darrell-d-amore
+- 
+  type: relations/parental/friend
+  item: people/cecilia-purdy
+- 
+  type: relations/parental/dad
+  item: people/jaycee-borer
+- 
+  type: relations/parental/dad
+  item: people/zola-koch
+- 
+  type: relations/parental/brosis
+  item: people/kiara-corwin
+- 
+  type: relations/parental/brosis
+  item: people/kathleen-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/casper-inc
+- 
+  type: relations/work/client
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/work/client
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

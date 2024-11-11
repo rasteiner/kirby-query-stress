@@ -1,0 +1,64 @@
+Title: Dr. Sonia Kris Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/clyde-gislason
+- 
+  type: relations/parental/mom
+  item: people/mike-torphy
+- 
+  type: relations/parental/brosis
+  item: people/dr-bo-ritchie-jr
+- 
+  type: relations/parental/colleague
+  item: people/mr-micheal-o-connell-phd
+- 
+  type: relations/parental/colleague
+  item: people/chauncey-littel
+- 
+  type: relations/money/creditor
+  item: people/yoshiko-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/work/client
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Dr. Lela Senger I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mathew-jaskolski
+- 
+  type: relations/parental/brosis
+  item: people/prof-rashad-wilderman-iii
+- 
+  type: relations/parental/colleague
+  item: people/mrs-alexane-lesch-phd
+- 
+  type: relations/parental/dad
+  item: people/marcos-lemke
+- 
+  type: relations/money/debtor
+  item: people/dr-keely-dicki
+- 
+  type: relations/parental/brosis
+  item: people/andy-lang
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/client
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

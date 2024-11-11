@@ -1,0 +1,64 @@
+Title: Michele Smitham III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/pamela-reinger
+- 
+  type: relations/money/creditor
+  item: people/jewell-crist-iii
+- 
+  type: relations/parental/colleague
+  item: people/jimmie-connelly
+- 
+  type: relations/parental/friend
+  item: people/haylee-thompson-dvm
+- 
+  type: relations/parental/brosis
+  item: people/toy-bergnaum-jr
+- 
+  type: relations/money/debtor
+  item: people/dorcas-collins
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

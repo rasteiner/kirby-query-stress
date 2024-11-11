@@ -1,0 +1,64 @@
+Title: Prof. Kayli Schumm DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-camille-lueilwitz-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-yazmin-shanahan-ii
+- 
+  type: relations/parental/colleague
+  item: people/lambert-homenick
+- 
+  type: relations/parental/dad
+  item: people/dr-kurt-ebert
+- 
+  type: relations/parental/mom
+  item: people/mr-joshuah-anderson
+- 
+  type: relations/parental/mom
+  item: people/mr-brandt-olson-sr
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/work/client
+  item: companies/little-sipes
+- 
+  type: relations/work/client
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/client
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Vanessa Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/judy-borer
+- 
+  type: relations/parental/friend
+  item: people/issac-graham
+- 
+  type: relations/money/creditor
+  item: people/prof-lynn-fritsch-sr
+- 
+  type: relations/parental/brosis
+  item: people/gennaro-moen
+- 
+  type: relations/parental/brosis
+  item: people/hyman-haley
+- 
+  type: relations/money/creditor
+  item: people/clifford-ruecker
+- 
+  type: relations/work/client
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/durgan-baumbach
+- 
+  type: relations/work/client
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

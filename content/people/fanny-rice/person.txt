@@ -1,0 +1,64 @@
+Title: Fanny Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-elenora-sanford-i
+- 
+  type: relations/parental/dad
+  item: people/lela-dibbert-jr
+- 
+  type: relations/money/creditor
+  item: people/madaline-spencer
+- 
+  type: relations/money/creditor
+  item: people/devon-rosenbaum
+- 
+  type: relations/parental/brosis
+  item: people/lulu-waters
+- 
+  type: relations/money/creditor
+  item: people/dr-michale-maggio-iv
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-group
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

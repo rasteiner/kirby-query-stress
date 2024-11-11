@@ -1,0 +1,64 @@
+Title: Savanah Anderson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-bennie-ziemann
+- 
+  type: relations/money/creditor
+  item: people/nyasia-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/thea-will
+- 
+  type: relations/money/creditor
+  item: people/ines-heller
+- 
+  type: relations/money/debtor
+  item: people/jaycee-o-hara
+- 
+  type: relations/parental/dad
+  item: people/dr-reanna-bruen
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/creditor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,65 @@
+Title: Dr. Ramon Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/berry-wiza
+- 
+  type: relations/money/creditor
+  item: people/kelley-powlowski
+- 
+  type: relations/parental/brosis
+  item: people/fidel-hoeger
+- 
+  type: relations/parental/mom
+  item: people/mckayla-bailey-iv
+- 
+  type: relations/parental/friend
+  item: people/dr-shyann-nolan
+- 
+  type: relations/parental/friend
+  item: people/dr-jasen-lynch-iv
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/client
+  item: companies/pollich-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,65 @@
+Title: Cleta Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/parental/brosis
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/parental/colleague
+  item: people/lulu-champlin
+- 
+  type: relations/parental/friend
+  item: people/trisha-hagenes
+- 
+  type: relations/parental/mom
+  item: people/ayden-reichert
+- 
+  type: relations/parental/dad
+  item: people/leland-fay
+- 
+  type: relations/work/client
+  item: companies/runte-cremin
+- 
+  type: relations/work/employer
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/client
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

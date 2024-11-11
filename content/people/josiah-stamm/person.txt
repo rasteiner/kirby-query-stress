@@ -1,0 +1,64 @@
+Title: Josiah Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-olaf-schuppe
+- 
+  type: relations/money/debtor
+  item: people/prof-hudson-graham-dvm
+- 
+  type: relations/money/creditor
+  item: people/cameron-mcclure
+- 
+  type: relations/money/creditor
+  item: people/janiya-hirthe
+- 
+  type: relations/parental/friend
+  item: people/dr-nils-hamill-i
+- 
+  type: relations/parental/friend
+  item: people/prof-ottis-halvorson
+- 
+  type: relations/money/debtor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/employer
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/client
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

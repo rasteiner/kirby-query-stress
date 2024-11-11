@@ -1,0 +1,64 @@
+Title: Maritza Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lilly-beatty-sr
+- 
+  type: relations/money/creditor
+  item: people/otilia-ryan
+- 
+  type: relations/parental/colleague
+  item: people/dr-elton-witting-i
+- 
+  type: relations/money/debtor
+  item: people/salvatore-goyette
+- 
+  type: relations/money/creditor
+  item: people/andy-fisher-v
+- 
+  type: relations/money/debtor
+  item: people/murphy-gulgowski
+- 
+  type: relations/work/client
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/employer
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

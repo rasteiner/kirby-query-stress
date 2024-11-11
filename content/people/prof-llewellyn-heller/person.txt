@@ -1,0 +1,64 @@
+Title: Prof. Llewellyn Heller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/elinore-hackett
+- 
+  type: relations/parental/colleague
+  item: people/prof-clara-cremin-iii
+- 
+  type: relations/parental/brosis
+  item: people/prof-moises-streich
+- 
+  type: relations/parental/brosis
+  item: people/prof-enrico-stroman-ii
+- 
+  type: relations/parental/brosis
+  item: people/franco-stracke
+- 
+  type: relations/money/creditor
+  item: people/prof-keely-mante
+- 
+  type: relations/work/client
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

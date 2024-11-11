@@ -1,0 +1,64 @@
+Title: Otis Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bill-grady
+- 
+  type: relations/money/creditor
+  item: people/lorena-kiehn
+- 
+  type: relations/money/creditor
+  item: people/montana-denesik
+- 
+  type: relations/parental/dad
+  item: people/marilou-parisian
+- 
+  type: relations/money/debtor
+  item: people/graciela-stracke
+- 
+  type: relations/parental/friend
+  item: people/dr-davon-cummerata
+- 
+  type: relations/work/employer
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/client
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Laron Dietrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/charity-kling-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-monica-prohaska-sr
+- 
+  type: relations/parental/colleague
+  item: people/justen-schoen
+- 
+  type: relations/parental/brosis
+  item: people/darrick-huels
+- 
+  type: relations/parental/dad
+  item: people/annabell-bins-sr
+- 
+  type: relations/parental/brosis
+  item: people/agustina-kohler
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/employer
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

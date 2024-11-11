@@ -1,0 +1,64 @@
+Title: Alexa Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/erin-macejkovic
+- 
+  type: relations/parental/friend
+  item: people/miss-trycia-cartwright-sr
+- 
+  type: relations/parental/mom
+  item: people/alessia-tillman
+- 
+  type: relations/parental/friend
+  item: people/mr-amani-witting
+- 
+  type: relations/money/creditor
+  item: people/shanon-howell
+- 
+  type: relations/money/debtor
+  item: people/prof-izaiah-kuphal
+- 
+  type: relations/money/debtor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

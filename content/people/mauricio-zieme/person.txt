@@ -1,0 +1,64 @@
+Title: Mauricio Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dorothea-labadie-ii
+- 
+  type: relations/parental/colleague
+  item: people/keeley-kulas-dvm
+- 
+  type: relations/money/debtor
+  item: people/stephen-brakus-phd
+- 
+  type: relations/parental/friend
+  item: people/libbie-hagenes
+- 
+  type: relations/money/debtor
+  item: people/stacey-adams
+- 
+  type: relations/parental/friend
+  item: people/katarina-grimes
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

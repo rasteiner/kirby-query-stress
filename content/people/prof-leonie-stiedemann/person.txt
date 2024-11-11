@@ -1,0 +1,64 @@
+Title: Prof. Leonie Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-chyna-tillman-jr
+- 
+  type: relations/parental/dad
+  item: people/talia-bahringer
+- 
+  type: relations/parental/brosis
+  item: people/mollie-heathcote
+- 
+  type: relations/money/creditor
+  item: people/mr-caden-herzog-sr
+- 
+  type: relations/parental/friend
+  item: people/humberto-halvorson
+- 
+  type: relations/parental/dad
+  item: people/billie-davis
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/work/client
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

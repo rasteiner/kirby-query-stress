@@ -1,0 +1,64 @@
+Title: Miss Shyanne Weimann I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/damien-franecki
+- 
+  type: relations/money/creditor
+  item: people/georgiana-ernser
+- 
+  type: relations/money/creditor
+  item: people/robbie-bernier-ii
+- 
+  type: relations/parental/colleague
+  item: people/spencer-stanton
+- 
+  type: relations/parental/colleague
+  item: people/danial-parisian-iii
+- 
+  type: relations/money/debtor
+  item: people/tremaine-daniel
+- 
+  type: relations/money/debtor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/client
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/employer
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

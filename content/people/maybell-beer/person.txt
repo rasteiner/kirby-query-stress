@@ -1,0 +1,64 @@
+Title: Maybell Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-katherine-kerluke
+- 
+  type: relations/money/debtor
+  item: people/margret-schoen
+- 
+  type: relations/parental/brosis
+  item: people/miss-cassie-tillman-dvm
+- 
+  type: relations/parental/mom
+  item: people/guido-graham
+- 
+  type: relations/parental/friend
+  item: people/wilson-lang
+- 
+  type: relations/parental/friend
+  item: people/missouri-effertz
+- 
+  type: relations/money/debtor
+  item: companies/emard-inc
+- 
+  type: relations/work/client
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/work/client
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

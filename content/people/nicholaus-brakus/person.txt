@@ -1,0 +1,64 @@
+Title: Nicholaus Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jade-herman
+- 
+  type: relations/money/creditor
+  item: people/cristobal-mayert
+- 
+  type: relations/parental/mom
+  item: people/barry-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/dr-selina-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/carmine-thiel
+- 
+  type: relations/parental/brosis
+  item: people/sabryna-streich
+- 
+  type: relations/work/client
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/client
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

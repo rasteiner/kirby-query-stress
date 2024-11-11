@@ -1,0 +1,64 @@
+Title: Felicita Thompson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/velda-strosin
+- 
+  type: relations/parental/mom
+  item: people/danika-jacobi
+- 
+  type: relations/parental/friend
+  item: people/mara-hahn
+- 
+  type: relations/parental/friend
+  item: people/prof-finn-zulauf
+- 
+  type: relations/money/debtor
+  item: people/prof-era-mcglynn
+- 
+  type: relations/money/debtor
+  item: people/bradly-kihn
+- 
+  type: relations/work/employer
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-mraz
+- 
+  type: relations/work/employer
+  item: companies/schoen-reinger
+- 
+  type: relations/work/client
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Ella Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-werner-batz
+- 
+  type: relations/money/debtor
+  item: people/prof-arnaldo-pfeffer-ii
+- 
+  type: relations/parental/friend
+  item: people/dr-marisol-williamson-ii
+- 
+  type: relations/money/creditor
+  item: people/nelda-adams-sr
+- 
+  type: relations/money/debtor
+  item: people/dr-turner-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/felicity-huels
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

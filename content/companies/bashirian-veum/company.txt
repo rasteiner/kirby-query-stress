@@ -1,0 +1,43 @@
+Title: Bashirian-Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-group
+- 
+  type: relations/money/creditor
+  item: companies/goodwin-nader
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/creditor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/kathlynland

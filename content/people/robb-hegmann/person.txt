@@ -1,0 +1,64 @@
+Title: Robb Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/fabian-wehner
+- 
+  type: relations/money/debtor
+  item: people/howell-casper
+- 
+  type: relations/parental/friend
+  item: people/dr-yasmine-rau
+- 
+  type: relations/parental/friend
+  item: people/miss-skyla-keebler
+- 
+  type: relations/money/creditor
+  item: people/maria-osinski-dvm
+- 
+  type: relations/money/creditor
+  item: people/laron-dietrich
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/work/employer
+  item: companies/terry-ltd
+- 
+  type: relations/work/client
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/client
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

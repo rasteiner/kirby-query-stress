@@ -1,0 +1,64 @@
+Title: Dixie Harris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/micaela-haley-iii
+- 
+  type: relations/parental/dad
+  item: people/paolo-wehner-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-jermey-lebsack
+- 
+  type: relations/money/creditor
+  item: people/mr-dejon-moore-iv
+- 
+  type: relations/money/creditor
+  item: people/jude-grant
+- 
+  type: relations/money/creditor
+  item: people/paul-gorczany
+- 
+  type: relations/work/employer
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/client
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Celine Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaley-marquardt-iv
+- 
+  type: relations/parental/friend
+  item: people/rebekah-predovic
+- 
+  type: relations/parental/brosis
+  item: people/deja-huel
+- 
+  type: relations/parental/dad
+  item: people/hailey-mohr
+- 
+  type: relations/parental/mom
+  item: people/lelia-swaniawski
+- 
+  type: relations/parental/mom
+  item: people/rachelle-schamberger-md
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/client
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

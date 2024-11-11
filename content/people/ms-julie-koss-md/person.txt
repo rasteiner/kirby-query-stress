@@ -1,0 +1,64 @@
+Title: Ms. Julie Koss MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/blanche-collier-phd
+- 
+  type: relations/parental/colleague
+  item: people/daren-wolf
+- 
+  type: relations/parental/dad
+  item: people/prof-hector-quigley
+- 
+  type: relations/money/creditor
+  item: people/mrs-octavia-prosacco
+- 
+  type: relations/money/creditor
+  item: people/claud-gottlieb
+- 
+  type: relations/parental/brosis
+  item: people/raul-bayer-jr
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/work/client
+  item: companies/klocko-quigley
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/work/employer
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

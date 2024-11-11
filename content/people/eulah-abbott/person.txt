@@ -1,0 +1,65 @@
+Title: Eulah Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/yvonne-greenfelder
+- 
+  type: relations/money/debtor
+  item: people/virginie-gottlieb
+- 
+  type: relations/parental/friend
+  item: people/ms-tiana-fritsch
+- 
+  type: relations/money/debtor
+  item: people/jaime-jerde
+- 
+  type: relations/money/debtor
+  item: people/chanel-pollich-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-cierra-fisher-i
+- 
+  type: relations/work/employer
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/money/debtor
+  item: companies/muller-lockman
+- 
+  type: relations/work/client
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

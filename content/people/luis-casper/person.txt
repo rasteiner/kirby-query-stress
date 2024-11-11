@@ -1,0 +1,64 @@
+Title: Luis Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/simeon-mohr
+- 
+  type: relations/parental/friend
+  item: people/prof-lenora-cormier-iv
+- 
+  type: relations/money/creditor
+  item: people/pablo-jakubowski
+- 
+  type: relations/parental/friend
+  item: people/boyd-homenick
+- 
+  type: relations/money/debtor
+  item: people/travis-carroll
+- 
+  type: relations/parental/brosis
+  item: people/taylor-howell
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/work/client
+  item: companies/murphy-batz
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

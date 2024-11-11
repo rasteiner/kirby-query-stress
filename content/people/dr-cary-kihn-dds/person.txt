@@ -1,0 +1,64 @@
+Title: Dr. Cary Kihn DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/aurore-ruecker
+- 
+  type: relations/parental/dad
+  item: people/antone-schamberger-v
+- 
+  type: relations/parental/colleague
+  item: people/rex-schimmel
+- 
+  type: relations/parental/colleague
+  item: people/lorine-grimes
+- 
+  type: relations/parental/colleague
+  item: people/autumn-sipes
+- 
+  type: relations/money/creditor
+  item: people/dr-travis-adams
+- 
+  type: relations/work/client
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/ferry-carter
+- 
+  type: relations/work/employer
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

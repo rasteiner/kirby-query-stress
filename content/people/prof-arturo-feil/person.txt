@@ -1,0 +1,65 @@
+Title: Prof. Arturo Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-emilio-schaefer
+- 
+  type: relations/parental/brosis
+  item: people/mr-dale-erdman-iv
+- 
+  type: relations/parental/dad
+  item: people/mr-gaetano-ondricka
+- 
+  type: relations/parental/friend
+  item: people/alf-grady
+- 
+  type: relations/money/creditor
+  item: people/chandler-kessler
+- 
+  type: relations/parental/colleague
+  item: people/dr-zachariah-lesch-sr
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/client
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/money/creditor
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

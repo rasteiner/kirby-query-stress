@@ -1,0 +1,65 @@
+Title: Josh Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/vito-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/rigoberto-marquardt
+- 
+  type: relations/parental/friend
+  item: people/betsy-steuber
+- 
+  type: relations/parental/dad
+  item: people/ms-lexie-kihn-iii
+- 
+  type: relations/parental/mom
+  item: people/caleb-hoppe-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-devan-erdman-dds
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/work/client
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/work/client
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

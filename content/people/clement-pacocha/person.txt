@@ -1,0 +1,64 @@
+Title: Clement Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/winston-fritsch
+- 
+  type: relations/parental/brosis
+  item: people/miss-destini-streich
+- 
+  type: relations/money/creditor
+  item: people/magdalen-hammes
+- 
+  type: relations/parental/friend
+  item: people/dr-rebekah-friesen
+- 
+  type: relations/parental/mom
+  item: people/lindsay-lindgren
+- 
+  type: relations/money/creditor
+  item: people/dulce-grimes-sr
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

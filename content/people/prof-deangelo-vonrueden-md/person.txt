@@ -1,0 +1,64 @@
+Title: Prof. Deangelo VonRueden MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/keyon-lang
+- 
+  type: relations/parental/dad
+  item: people/asa-pagac
+- 
+  type: relations/money/debtor
+  item: people/kamren-metz
+- 
+  type: relations/parental/brosis
+  item: people/prof-arvilla-mills-iv
+- 
+  type: relations/parental/mom
+  item: people/kiana-moore
+- 
+  type: relations/money/debtor
+  item: people/dr-rodrick-green
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/work/client
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

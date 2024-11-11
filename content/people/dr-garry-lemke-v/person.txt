@@ -1,0 +1,64 @@
+Title: Dr. Garry Lemke V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/velva-volkman
+- 
+  type: relations/parental/mom
+  item: people/rory-lehner
+- 
+  type: relations/parental/friend
+  item: people/stephen-rolfson
+- 
+  type: relations/money/debtor
+  item: people/maxwell-christiansen
+- 
+  type: relations/money/creditor
+  item: people/jakob-block
+- 
+  type: relations/money/debtor
+  item: people/emmalee-graham
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/murphy-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/work/client
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

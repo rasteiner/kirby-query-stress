@@ -1,0 +1,43 @@
+Title: Monahan-Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: null
+- 
+  type: relations/money/creditor
+  item: companies/lemke-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/emard-inc
+- 
+  type: relations/money/debtor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: null
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

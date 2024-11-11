@@ -1,0 +1,64 @@
+Title: Quentin Bogisich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ofelia-brown
+- 
+  type: relations/money/debtor
+  item: people/dylan-borer
+- 
+  type: relations/parental/colleague
+  item: people/orion-crist-iii
+- 
+  type: relations/money/creditor
+  item: people/dr-jordon-sawayn
+- 
+  type: relations/parental/mom
+  item: people/alexander-simonis-iv
+- 
+  type: relations/money/debtor
+  item: people/donny-rippin
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/client
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/money/debtor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

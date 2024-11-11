@@ -1,0 +1,64 @@
+Title: Reece Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rahsaan-bahringer-ii
+- 
+  type: relations/money/debtor
+  item: people/rosina-nolan
+- 
+  type: relations/money/debtor
+  item: people/clara-effertz
+- 
+  type: relations/parental/friend
+  item: people/deonte-larkin-phd
+- 
+  type: relations/parental/dad
+  item: people/mac-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/ms-hollie-hoeger
+- 
+  type: relations/work/client
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/employer
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

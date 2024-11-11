@@ -1,0 +1,64 @@
+Title: Narciso Dicki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-sabrina-thiel
+- 
+  type: relations/parental/friend
+  item: people/abdullah-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/zachariah-lockman
+- 
+  type: relations/parental/mom
+  item: people/mr-clark-klocko
+- 
+  type: relations/parental/colleague
+  item: people/harvey-cremin
+- 
+  type: relations/parental/friend
+  item: people/simeon-marquardt
+- 
+  type: relations/work/client
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/work/employer
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

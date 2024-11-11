@@ -1,0 +1,64 @@
+Title: Ms. Yasmeen Bartell II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-morgan-o-kon-dvm
+- 
+  type: relations/parental/colleague
+  item: people/constance-mraz
+- 
+  type: relations/parental/dad
+  item: people/roma-wisozk-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-coy-kuvalis
+- 
+  type: relations/parental/colleague
+  item: people/mr-brock-weissnat-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-abbey-cole-jr
+- 
+  type: relations/work/client
+  item: companies/treutel-macejkovic
+- 
+  type: relations/work/client
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/employer
+  item: companies/schmidt-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

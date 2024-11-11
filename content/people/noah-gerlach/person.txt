@@ -1,0 +1,64 @@
+Title: Noah Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vivien-boyle
+- 
+  type: relations/parental/mom
+  item: people/mercedes-legros
+- 
+  type: relations/parental/friend
+  item: people/alycia-rice-phd
+- 
+  type: relations/parental/mom
+  item: people/vena-lakin
+- 
+  type: relations/parental/colleague
+  item: people/chaz-schaefer
+- 
+  type: relations/parental/mom
+  item: people/miss-marie-rowe-iv
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/work/employer
+  item: companies/medhurst-group
+- 
+  type: relations/money/debtor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

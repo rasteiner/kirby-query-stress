@@ -1,0 +1,64 @@
+Title: Chet Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jonathan-considine-v
+- 
+  type: relations/money/creditor
+  item: people/dixie-carroll
+- 
+  type: relations/parental/brosis
+  item: people/angelica-ebert
+- 
+  type: relations/parental/colleague
+  item: people/august-mckenzie-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-santos-witting
+- 
+  type: relations/money/creditor
+  item: people/elouise-crooks
+- 
+  type: relations/money/creditor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

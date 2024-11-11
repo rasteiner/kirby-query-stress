@@ -1,0 +1,64 @@
+Title: Miss Queen Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-willy-eichmann-v
+- 
+  type: relations/money/debtor
+  item: people/khalil-raynor-iii
+- 
+  type: relations/money/debtor
+  item: people/karlee-volkman
+- 
+  type: relations/parental/brosis
+  item: people/lon-gerhold
+- 
+  type: relations/parental/dad
+  item: people/enrico-walker
+- 
+  type: relations/money/debtor
+  item: people/reyna-brown
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/work/client
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/work/client
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/client
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

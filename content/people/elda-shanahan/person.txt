@@ -1,0 +1,64 @@
+Title: Elda Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/xander-conn
+- 
+  type: relations/parental/dad
+  item: people/erna-hermann
+- 
+  type: relations/money/debtor
+  item: people/mr-jerrold-barton
+- 
+  type: relations/parental/brosis
+  item: people/junior-dietrich
+- 
+  type: relations/money/debtor
+  item: people/mr-hilbert-yost-v
+- 
+  type: relations/parental/brosis
+  item: people/lawson-berge
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

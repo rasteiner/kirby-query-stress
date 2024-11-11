@@ -1,0 +1,64 @@
+Title: Dr. Keely Ondricka DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hershel-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/vincent-cassin-dvm
+- 
+  type: relations/money/debtor
+  item: people/maryse-rowe-dvm
+- 
+  type: relations/parental/brosis
+  item: people/merl-bins
+- 
+  type: relations/parental/mom
+  item: people/mrs-hillary-purdy
+- 
+  type: relations/parental/colleague
+  item: people/megane-rau
+- 
+  type: relations/money/creditor
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

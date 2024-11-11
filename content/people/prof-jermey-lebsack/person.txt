@@ -1,0 +1,64 @@
+Title: Prof. Jermey Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-easter-keeling
+- 
+  type: relations/parental/brosis
+  item: people/foster-wilderman
+- 
+  type: relations/parental/brosis
+  item: people/bobbie-stracke
+- 
+  type: relations/parental/colleague
+  item: people/wilhelm-stehr
+- 
+  type: relations/parental/colleague
+  item: people/dr-jared-willms-sr
+- 
+  type: relations/parental/dad
+  item: people/maximo-considine
+- 
+  type: relations/work/employer
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/work/employer
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

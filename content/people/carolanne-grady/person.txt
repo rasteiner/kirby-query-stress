@@ -1,0 +1,64 @@
+Title: Carolanne Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/deron-feil
+- 
+  type: relations/parental/friend
+  item: people/prof-remington-effertz-phd
+- 
+  type: relations/parental/colleague
+  item: people/justice-streich-v
+- 
+  type: relations/parental/friend
+  item: people/ahmad-stiedemann
+- 
+  type: relations/parental/brosis
+  item: people/dolly-hickle
+- 
+  type: relations/parental/friend
+  item: people/dr-ivy-herman
+- 
+  type: relations/work/employer
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/schimmel-inc
+- 
+  type: relations/work/client
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/work/employer
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Oswald Konopelski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-norbert-hoppe-i
+- 
+  type: relations/parental/friend
+  item: people/dr-alyson-torp
+- 
+  type: relations/parental/mom
+  item: people/kris-prohaska-ii
+- 
+  type: relations/parental/colleague
+  item: people/mr-pierce-hahn
+- 
+  type: relations/money/debtor
+  item: people/eleanore-stroman
+- 
+  type: relations/parental/mom
+  item: people/mr-jamaal-bartoletti-md
+- 
+  type: relations/work/employer
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/debtor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

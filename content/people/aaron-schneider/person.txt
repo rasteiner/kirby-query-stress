@@ -1,0 +1,68 @@
+Title: Aaron Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/adela-wilkinson-dds
+- 
+  type: relations/money/creditor
+  item: people/mrs-lexie-batz-v
+- 
+  type: relations/money/debtor
+  item: people/juwan-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/mrs-kirstin-marquardt-i
+- 
+  type: relations/parental/brosis
+  item: people/adam-spinka
+- 
+  type: relations/money/creditor
+  item: people/erna-kertzmann-i
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/client
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo
+
+----
+
+Uuid: maoacvsrys6egfui

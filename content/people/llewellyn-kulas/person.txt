@@ -1,0 +1,64 @@
+Title: Llewellyn Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dax-stracke
+- 
+  type: relations/parental/mom
+  item: people/joan-hauck
+- 
+  type: relations/parental/brosis
+  item: people/lavada-bogan
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kathryne-jacobs
+- 
+  type: relations/money/debtor
+  item: people/katrina-sporer
+- 
+  type: relations/money/creditor
+  item: people/dr-dedric-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/rath-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/harris-veum
+- 
+  type: relations/money/debtor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

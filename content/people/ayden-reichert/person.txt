@@ -1,0 +1,64 @@
+Title: Ayden Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rashawn-ernser
+- 
+  type: relations/parental/brosis
+  item: people/mrs-gia-connelly-i
+- 
+  type: relations/money/creditor
+  item: people/wilbert-krajcik
+- 
+  type: relations/money/creditor
+  item: people/alvera-quitzon
+- 
+  type: relations/parental/colleague
+  item: people/ms-lily-maggio
+- 
+  type: relations/parental/mom
+  item: people/tracey-ebert-sr
+- 
+  type: relations/work/employer
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/employer
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

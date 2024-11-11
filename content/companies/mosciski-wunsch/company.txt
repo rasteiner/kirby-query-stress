@@ -1,0 +1,44 @@
+Title: Mosciski-Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/heaney-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/new-freddy

@@ -1,0 +1,64 @@
+Title: Libbie Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-bettye-ernser-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-monte-tromp
+- 
+  type: relations/parental/dad
+  item: people/jasen-kerluke-i
+- 
+  type: relations/parental/dad
+  item: people/ms-daphnee-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/dr-malcolm-stamm-iii
+- 
+  type: relations/parental/brosis
+  item: people/barrett-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

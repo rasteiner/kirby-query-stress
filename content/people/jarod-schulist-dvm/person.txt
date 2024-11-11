@@ -1,0 +1,64 @@
+Title: Jarod Schulist DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-anne-price
+- 
+  type: relations/money/debtor
+  item: people/aisha-goodwin-ii
+- 
+  type: relations/parental/dad
+  item: people/prof-immanuel-bartell
+- 
+  type: relations/parental/dad
+  item: people/riley-lakin
+- 
+  type: relations/parental/mom
+  item: people/vinnie-lemke
+- 
+  type: relations/parental/mom
+  item: people/kenyon-kilback-dvm
+- 
+  type: relations/work/client
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/work/client
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/client
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/money/creditor
+  item: companies/walsh-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

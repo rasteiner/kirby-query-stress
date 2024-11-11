@@ -1,0 +1,64 @@
+Title: Darrin Hegmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-timmothy-baumbach
+- 
+  type: relations/parental/friend
+  item: people/prof-alex-welch
+- 
+  type: relations/parental/brosis
+  item: people/mr-norbert-hoppe-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-alyson-torp
+- 
+  type: relations/parental/dad
+  item: people/kris-prohaska-ii
+- 
+  type: relations/parental/colleague
+  item: people/mr-pierce-hahn
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

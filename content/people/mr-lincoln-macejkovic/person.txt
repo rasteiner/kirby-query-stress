@@ -1,0 +1,66 @@
+Title: Mr. Lincoln Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/breanna-bartell
+- 
+  type: relations/parental/friend
+  item: people/ms-lera-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/sanford-glover
+- 
+  type: relations/parental/dad
+  item: people/miss-edna-kerluke-i
+- 
+  type: relations/parental/colleague
+  item: people/gilda-grady-i
+- 
+  type: relations/money/creditor
+  item: people/kim-berge
+- 
+  type: relations/money/creditor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/work/client
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

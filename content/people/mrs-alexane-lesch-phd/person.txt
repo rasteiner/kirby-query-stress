@@ -1,0 +1,65 @@
+Title: Mrs. Alexane Lesch PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/marley-turner-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-murphy-jerde
+- 
+  type: relations/parental/mom
+  item: people/miss-jeanette-heller-sr
+- 
+  type: relations/money/debtor
+  item: people/tania-effertz
+- 
+  type: relations/parental/colleague
+  item: people/abdiel-welch
+- 
+  type: relations/parental/colleague
+  item: people/emmanuelle-runolfsdottir-dds
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

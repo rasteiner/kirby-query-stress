@@ -1,0 +1,64 @@
+Title: Zander Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/oma-brown
+- 
+  type: relations/money/creditor
+  item: people/lela-hand
+- 
+  type: relations/parental/friend
+  item: people/dr-catharine-ullrich-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-laura-parisian-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-abbey-hickle-phd
+- 
+  type: relations/money/debtor
+  item: people/dr-armando-mcclure-v
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/employer
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

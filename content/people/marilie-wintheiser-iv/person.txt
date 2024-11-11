@@ -1,0 +1,64 @@
+Title: Marilie Wintheiser IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/toy-harvey-md
+- 
+  type: relations/money/debtor
+  item: people/dwight-bogisich
+- 
+  type: relations/parental/brosis
+  item: people/dr-porter-hand-md
+- 
+  type: relations/parental/colleague
+  item: people/lenora-monahan
+- 
+  type: relations/parental/colleague
+  item: people/aurelio-conn
+- 
+  type: relations/money/debtor
+  item: people/prof-gudrun-nienow
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/employer
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/work/employer
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

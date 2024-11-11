@@ -1,0 +1,64 @@
+Title: Charity Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clarabelle-abshire-iv
+- 
+  type: relations/parental/brosis
+  item: people/ms-elsa-lindgren
+- 
+  type: relations/money/creditor
+  item: people/dr-rosetta-boehm-phd
+- 
+  type: relations/parental/dad
+  item: people/sylvester-doyle
+- 
+  type: relations/money/debtor
+  item: people/salvador-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/craig-barrows-v
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/client
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

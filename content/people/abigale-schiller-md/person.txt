@@ -1,0 +1,65 @@
+Title: Abigale Schiller MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/harold-bogan
+- 
+  type: relations/parental/dad
+  item: people/elton-marvin
+- 
+  type: relations/money/creditor
+  item: people/prof-troy-harris-md
+- 
+  type: relations/money/debtor
+  item: people/janice-witting-iii
+- 
+  type: relations/parental/mom
+  item: people/prof-vida-bins
+- 
+  type: relations/parental/dad
+  item: people/ms-tatyana-rippin
+- 
+  type: relations/work/employer
+  item: companies/ratke-inc
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Adah McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-keely-ondricka-dds
+- 
+  type: relations/parental/colleague
+  item: people/jacquelyn-bahringer
+- 
+  type: relations/parental/brosis
+  item: people/kane-lind
+- 
+  type: relations/parental/colleague
+  item: people/hope-langworth-sr
+- 
+  type: relations/parental/mom
+  item: people/gage-keebler
+- 
+  type: relations/parental/dad
+  item: people/freeda-dooley-iii
+- 
+  type: relations/money/debtor
+  item: companies/purdy-koch
+- 
+  type: relations/money/debtor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/work/employer
+  item: companies/schneider-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

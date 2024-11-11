@@ -1,0 +1,44 @@
+Title: Kuhn, Mante and Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/terry-ltd
+- 
+  type: relations/money/creditor
+  item: companies/purdy-koch
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/aldenmouth

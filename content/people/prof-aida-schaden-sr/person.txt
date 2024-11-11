@@ -1,0 +1,64 @@
+Title: Prof. Aida Schaden Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-gonzalo-mcglynn-i
+- 
+  type: relations/money/creditor
+  item: people/ottilie-nienow
+- 
+  type: relations/parental/colleague
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/money/creditor
+  item: people/mara-johnson-dds
+- 
+  type: relations/parental/friend
+  item: people/mrs-breanne-frami-iv
+- 
+  type: relations/money/creditor
+  item: people/carolina-ankunding
+- 
+  type: relations/work/client
+  item: companies/gerlach-group
+- 
+  type: relations/work/client
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/creditor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

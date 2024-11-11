@@ -1,0 +1,64 @@
+Title: Mrs. Yasmine Rempel V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lulu-o-connell
+- 
+  type: relations/parental/mom
+  item: people/maida-little
+- 
+  type: relations/parental/dad
+  item: people/zaria-jenkins
+- 
+  type: relations/money/creditor
+  item: people/prof-albin-lemke
+- 
+  type: relations/parental/colleague
+  item: people/rosamond-blick-iii
+- 
+  type: relations/money/debtor
+  item: people/cesar-ledner
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/client
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

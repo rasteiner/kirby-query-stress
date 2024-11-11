@@ -1,0 +1,64 @@
+Title: Dr. Watson Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mattie-ledner
+- 
+  type: relations/parental/colleague
+  item: people/lauretta-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/johanna-mayert
+- 
+  type: relations/parental/brosis
+  item: people/deontae-macejkovic
+- 
+  type: relations/parental/mom
+  item: people/chanelle-hilpert
+- 
+  type: relations/parental/dad
+  item: people/jacey-lowe
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

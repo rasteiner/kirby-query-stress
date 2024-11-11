@@ -1,0 +1,64 @@
+Title: Ms. Aniyah Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/theo-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/savanna-kshlerin
+- 
+  type: relations/parental/mom
+  item: people/lemuel-hahn
+- 
+  type: relations/money/creditor
+  item: people/pascale-collins
+- 
+  type: relations/parental/brosis
+  item: people/lilyan-schoen-iii
+- 
+  type: relations/money/debtor
+  item: people/prof-tad-schmidt-iii
+- 
+  type: relations/money/creditor
+  item: companies/towne-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/keebler-treutel
+- 
+  type: relations/work/client
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,43 @@
+Title: Purdy-Koch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/creditor
+  item: companies/keebler-inc
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-gaylord
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/west-ottisland
+- 
+  type: relations/location/residence
+  item: places/ebertton

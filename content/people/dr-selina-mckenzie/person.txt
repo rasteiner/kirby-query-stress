@@ -1,0 +1,64 @@
+Title: Dr. Selina McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/juwan-shields
+- 
+  type: relations/parental/brosis
+  item: people/ms-ciara-lehner-iv
+- 
+  type: relations/parental/mom
+  item: people/evie-fritsch
+- 
+  type: relations/parental/friend
+  item: people/jammie-sawayn-ii
+- 
+  type: relations/money/debtor
+  item: people/laisha-mccullough
+- 
+  type: relations/parental/colleague
+  item: people/dr-zita-volkman
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

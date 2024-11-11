@@ -1,0 +1,66 @@
+Title: Rudolph McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-edd-keeling
+- 
+  type: relations/parental/mom
+  item: people/alexander-hoeger
+- 
+  type: relations/parental/colleague
+  item: people/katelyn-kozey
+- 
+  type: relations/parental/colleague
+  item: people/mr-rey-beier-i
+- 
+  type: relations/parental/mom
+  item: people/nikki-fritsch
+- 
+  type: relations/parental/mom
+  item: people/gene-yost-iv
+- 
+  type: relations/money/debtor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/work/client
+  item: companies/wolff-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

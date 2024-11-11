@@ -1,0 +1,64 @@
+Title: Prof. Katlynn Gusikowski PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-kayden-homenick-sr
+- 
+  type: relations/parental/brosis
+  item: people/laurine-crist
+- 
+  type: relations/parental/dad
+  item: people/dewayne-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/jane-jacobs
+- 
+  type: relations/parental/colleague
+  item: people/prof-daren-rodriguez-jr
+- 
+  type: relations/parental/mom
+  item: people/tomasa-fay
+- 
+  type: relations/work/employer
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/creditor
+  item: companies/murphy-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/work/client
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

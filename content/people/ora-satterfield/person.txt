@@ -1,0 +1,64 @@
+Title: Ora Satterfield
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/clark-doyle
+- 
+  type: relations/money/debtor
+  item: people/prof-robbie-carroll-iv
+- 
+  type: relations/parental/dad
+  item: people/neva-rutherford
+- 
+  type: relations/parental/colleague
+  item: people/stevie-kuhic
+- 
+  type: relations/money/debtor
+  item: people/bill-gibson-dds
+- 
+  type: relations/parental/dad
+  item: people/adrienne-renner
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/work/client
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-funk
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

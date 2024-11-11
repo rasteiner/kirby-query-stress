@@ -1,0 +1,64 @@
+Title: Deborah Anderson Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lexie-leuschke-v
+- 
+  type: relations/parental/friend
+  item: people/joan-wolff
+- 
+  type: relations/parental/colleague
+  item: people/dr-elmore-feil
+- 
+  type: relations/money/debtor
+  item: people/dr-julius-conroy
+- 
+  type: relations/parental/colleague
+  item: people/ross-gleichner-iii
+- 
+  type: relations/parental/colleague
+  item: people/torey-mitchell
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

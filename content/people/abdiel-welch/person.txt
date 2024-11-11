@@ -1,0 +1,68 @@
+Title: Abdiel Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jaleel-sauer
+- 
+  type: relations/money/creditor
+  item: people/tyler-gleichner-v
+- 
+  type: relations/money/debtor
+  item: people/berta-ullrich
+- 
+  type: relations/parental/friend
+  item: people/audreanne-dicki
+- 
+  type: relations/parental/colleague
+  item: people/mrs-scarlett-harvey-phd
+- 
+  type: relations/parental/mom
+  item: people/grant-cummings
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/work/employer
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal
+
+----
+
+Uuid: eaabkty5ja5sic4r

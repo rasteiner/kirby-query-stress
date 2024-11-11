@@ -1,0 +1,64 @@
+Title: Miss Leda Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/joshua-legros
+- 
+  type: relations/parental/colleague
+  item: people/esteban-green-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-ari-turner
+- 
+  type: relations/parental/dad
+  item: people/sarina-abbott
+- 
+  type: relations/parental/mom
+  item: people/sheldon-kuphal
+- 
+  type: relations/parental/friend
+  item: people/mrs-catalina-powlowski-jr
+- 
+  type: relations/work/employer
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/creditor
+  item: companies/leffler-inc
+- 
+  type: relations/money/creditor
+  item: companies/schroeder-group
+- 
+  type: relations/money/debtor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

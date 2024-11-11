@@ -1,0 +1,64 @@
+Title: Thurman Collier Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/zaria-jenkins
+- 
+  type: relations/parental/mom
+  item: people/prof-albin-lemke
+- 
+  type: relations/parental/mom
+  item: people/rosamond-blick-iii
+- 
+  type: relations/parental/dad
+  item: people/cesar-ledner
+- 
+  type: relations/money/creditor
+  item: people/dorothea-lang-ii
+- 
+  type: relations/parental/dad
+  item: people/mable-mayert
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/client
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

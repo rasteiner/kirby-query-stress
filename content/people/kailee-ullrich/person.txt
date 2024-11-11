@@ -1,0 +1,64 @@
+Title: Kailee Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cristopher-lemke
+- 
+  type: relations/parental/brosis
+  item: people/kody-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/dr-ansel-miller-md
+- 
+  type: relations/parental/brosis
+  item: people/deshawn-blick
+- 
+  type: relations/parental/dad
+  item: people/keyon-lang
+- 
+  type: relations/parental/friend
+  item: people/asa-pagac
+- 
+  type: relations/work/client
+  item: companies/huels-walter
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

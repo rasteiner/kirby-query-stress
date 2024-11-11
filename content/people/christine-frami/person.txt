@@ -1,0 +1,64 @@
+Title: Christine Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dorothea-lang-ii
+- 
+  type: relations/parental/dad
+  item: people/mable-mayert
+- 
+  type: relations/parental/mom
+  item: people/gino-goldner
+- 
+  type: relations/parental/colleague
+  item: people/marcia-gislason-phd
+- 
+  type: relations/parental/brosis
+  item: people/rodrigo-gibson
+- 
+  type: relations/parental/mom
+  item: people/laurianne-hammes
+- 
+  type: relations/work/employer
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/client
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

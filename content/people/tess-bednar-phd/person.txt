@@ -1,0 +1,64 @@
+Title: Tess Bednar PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dakota-simonis
+- 
+  type: relations/parental/colleague
+  item: people/ms-alba-gaylord
+- 
+  type: relations/parental/colleague
+  item: people/rosina-olson
+- 
+  type: relations/parental/brosis
+  item: people/yoshiko-schamberger
+- 
+  type: relations/parental/dad
+  item: people/christelle-barton
+- 
+  type: relations/parental/dad
+  item: people/alysa-schneider
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/work/employer
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

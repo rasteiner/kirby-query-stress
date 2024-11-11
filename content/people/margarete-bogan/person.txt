@@ -1,0 +1,64 @@
+Title: Margarete Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/valentina-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/jeanette-tillman-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-ona-gutkowski
+- 
+  type: relations/parental/brosis
+  item: people/kurtis-marquardt-sr
+- 
+  type: relations/parental/dad
+  item: people/haven-ondricka-jr
+- 
+  type: relations/parental/friend
+  item: people/rossie-bechtelar-dvm
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/work/employer
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

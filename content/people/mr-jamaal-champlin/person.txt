@@ -1,0 +1,64 @@
+Title: Mr. Jamaal Champlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/stephan-harber
+- 
+  type: relations/parental/mom
+  item: people/mylene-hermann-iv
+- 
+  type: relations/parental/friend
+  item: people/rosalind-gusikowski-ii
+- 
+  type: relations/parental/dad
+  item: people/berneice-gerhold
+- 
+  type: relations/parental/friend
+  item: people/dandre-bergstrom-sr
+- 
+  type: relations/parental/colleague
+  item: people/ayden-murazik
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/debtor
+  item: companies/beer-treutel
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

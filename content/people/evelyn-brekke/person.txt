@@ -1,0 +1,65 @@
+Title: Evelyn Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maximillia-steuber-md
+- 
+  type: relations/parental/friend
+  item: people/dr-retha-nitzsche
+- 
+  type: relations/parental/dad
+  item: people/johnson-brekke
+- 
+  type: relations/parental/mom
+  item: people/miss-leda-gerhold
+- 
+  type: relations/money/debtor
+  item: people/dr-josefina-frami
+- 
+  type: relations/money/debtor
+  item: people/leif-friesen-phd
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/client
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/client
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

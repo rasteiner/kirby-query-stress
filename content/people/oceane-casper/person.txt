@@ -1,0 +1,64 @@
+Title: Oceane Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ernesto-daniel
+- 
+  type: relations/parental/brosis
+  item: people/prof-raymond-robel-ii
+- 
+  type: relations/parental/colleague
+  item: people/dr-bud-nienow
+- 
+  type: relations/parental/friend
+  item: people/mr-alejandrin-hilpert-sr
+- 
+  type: relations/money/creditor
+  item: people/thad-bartell
+- 
+  type: relations/parental/friend
+  item: people/aniya-legros
+- 
+  type: relations/work/employer
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

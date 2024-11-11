@@ -1,0 +1,64 @@
+Title: Caterina Kuvalis III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/verona-mayert
+- 
+  type: relations/parental/friend
+  item: people/kaleb-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/charlene-turcotte-v
+- 
+  type: relations/parental/colleague
+  item: people/hellen-haag
+- 
+  type: relations/parental/brosis
+  item: people/elliot-abshire-iii
+- 
+  type: relations/parental/friend
+  item: people/ewald-tremblay
+- 
+  type: relations/work/client
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/work/employer
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

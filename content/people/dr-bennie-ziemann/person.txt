@@ -1,0 +1,64 @@
+Title: Dr. Bennie Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-leo-beer
+- 
+  type: relations/parental/dad
+  item: people/talia-mccullough
+- 
+  type: relations/parental/dad
+  item: people/oral-reichel
+- 
+  type: relations/parental/brosis
+  item: people/rene-donnelly
+- 
+  type: relations/money/debtor
+  item: people/lexie-schimmel
+- 
+  type: relations/parental/brosis
+  item: people/mr-cooper-stiedemann
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/work/client
+  item: companies/hills-inc
+- 
+  type: relations/work/client
+  item: companies/king-plc
+- 
+  type: relations/money/debtor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

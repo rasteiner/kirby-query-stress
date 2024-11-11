@@ -1,0 +1,65 @@
+Title: Tyler Gleichner V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/janae-pouros
+- 
+  type: relations/parental/mom
+  item: people/vidal-wintheiser
+- 
+  type: relations/parental/brosis
+  item: people/grayson-lebsack
+- 
+  type: relations/money/creditor
+  item: people/pauline-west
+- 
+  type: relations/parental/brosis
+  item: people/porter-ward
+- 
+  type: relations/parental/dad
+  item: people/chauncey-corwin
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/employer
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

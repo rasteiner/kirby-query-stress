@@ -1,0 +1,64 @@
+Title: Bria Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vern-feeney
+- 
+  type: relations/money/creditor
+  item: people/mrs-margot-beatty-dvm
+- 
+  type: relations/parental/mom
+  item: people/kaya-renner-md
+- 
+  type: relations/money/creditor
+  item: people/meaghan-armstrong
+- 
+  type: relations/parental/colleague
+  item: people/laurel-ullrich
+- 
+  type: relations/money/creditor
+  item: people/ms-ophelia-rippin-iv
+- 
+  type: relations/money/creditor
+  item: companies/thompson-flatley
+- 
+  type: relations/money/creditor
+  item: companies/koepp-becker-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/dach-kiehn-and-crona
+- 
+  type: relations/money/creditor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

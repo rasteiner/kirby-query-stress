@@ -1,0 +1,64 @@
+Title: Madison Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-sandrine-mosciski-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-dorcas-shields
+- 
+  type: relations/parental/friend
+  item: people/miss-leila-hane-iv
+- 
+  type: relations/parental/friend
+  item: people/ana-smitham
+- 
+  type: relations/parental/dad
+  item: people/ms-alize-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/dr-osvaldo-shields
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/money/creditor
+  item: companies/kling-ltd
+- 
+  type: relations/money/creditor
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

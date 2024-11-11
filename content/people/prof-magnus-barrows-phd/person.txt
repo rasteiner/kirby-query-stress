@@ -1,0 +1,65 @@
+Title: Prof. Magnus Barrows PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/parental/mom
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/money/debtor
+  item: people/lulu-champlin
+- 
+  type: relations/parental/mom
+  item: people/trisha-hagenes
+- 
+  type: relations/parental/dad
+  item: people/ayden-reichert
+- 
+  type: relations/parental/dad
+  item: people/leland-fay
+- 
+  type: relations/work/employer
+  item: companies/runte-cremin
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/work/employer
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/work/client
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

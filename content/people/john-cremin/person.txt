@@ -1,0 +1,64 @@
+Title: John Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/blake-walsh
+- 
+  type: relations/money/debtor
+  item: people/maynard-koelpin
+- 
+  type: relations/parental/dad
+  item: people/oliver-stamm
+- 
+  type: relations/parental/dad
+  item: people/gwendolyn-monahan
+- 
+  type: relations/money/creditor
+  item: people/dr-vincenza-denesik
+- 
+  type: relations/parental/friend
+  item: people/rosendo-howe
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/client
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

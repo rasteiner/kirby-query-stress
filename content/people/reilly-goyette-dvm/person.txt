@@ -1,0 +1,64 @@
+Title: Reilly Goyette DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/zechariah-willms
+- 
+  type: relations/parental/brosis
+  item: people/alessandra-batz
+- 
+  type: relations/parental/mom
+  item: people/mr-norberto-emmerich
+- 
+  type: relations/parental/mom
+  item: people/kale-hoppe-phd
+- 
+  type: relations/money/creditor
+  item: people/dr-jovany-white
+- 
+  type: relations/parental/mom
+  item: people/estefania-tremblay
+- 
+  type: relations/work/client
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/client
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/client
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/employer
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

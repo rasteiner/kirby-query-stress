@@ -1,0 +1,64 @@
+Title: Beryl Zulauf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cleta-harber
+- 
+  type: relations/parental/friend
+  item: people/giles-moore-iv
+- 
+  type: relations/money/debtor
+  item: people/giovanny-rohan
+- 
+  type: relations/parental/colleague
+  item: people/ms-alessandra-beier
+- 
+  type: relations/money/creditor
+  item: people/antonio-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/marianne-windler-dds
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/work/employer
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

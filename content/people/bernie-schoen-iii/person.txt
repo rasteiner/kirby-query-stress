@@ -1,0 +1,64 @@
+Title: Bernie Schoen III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/carissa-barton-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mathias-beier
+- 
+  type: relations/parental/mom
+  item: people/mona-durgan
+- 
+  type: relations/money/creditor
+  item: people/prof-juwan-jenkins
+- 
+  type: relations/money/debtor
+  item: people/remington-abshire
+- 
+  type: relations/money/creditor
+  item: people/cali-haley
+- 
+  type: relations/money/debtor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

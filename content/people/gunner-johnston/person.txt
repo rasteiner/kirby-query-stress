@@ -1,0 +1,64 @@
+Title: Gunner Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/freida-bode
+- 
+  type: relations/parental/colleague
+  item: people/rene-yost
+- 
+  type: relations/money/debtor
+  item: people/joyce-kunze
+- 
+  type: relations/parental/mom
+  item: people/liliana-block
+- 
+  type: relations/parental/colleague
+  item: people/carmine-botsford
+- 
+  type: relations/parental/dad
+  item: people/prof-jarod-johnston-dvm
+- 
+  type: relations/work/client
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Hertha Christiansen IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jevon-hintz-iii
+- 
+  type: relations/parental/friend
+  item: people/ivy-herzog-i
+- 
+  type: relations/parental/brosis
+  item: people/mr-sonny-cummerata
+- 
+  type: relations/parental/friend
+  item: people/arlo-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/olin-ernser-dvm
+- 
+  type: relations/money/debtor
+  item: people/dr-angeline-brakus
+- 
+  type: relations/work/employer
+  item: companies/towne-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

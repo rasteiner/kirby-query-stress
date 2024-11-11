@@ -1,0 +1,64 @@
+Title: Ismael Oberbrunner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-nathan-skiles
+- 
+  type: relations/parental/dad
+  item: people/edna-schimmel
+- 
+  type: relations/parental/brosis
+  item: people/dr-devin-schuppe
+- 
+  type: relations/parental/friend
+  item: people/ms-agnes-hackett
+- 
+  type: relations/parental/brosis
+  item: people/judah-kemmer-sr
+- 
+  type: relations/money/debtor
+  item: people/mark-kub
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/work/client
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/debtor
+  item: companies/collier-plc
+- 
+  type: relations/work/client
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

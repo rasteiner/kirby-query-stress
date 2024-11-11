@@ -1,0 +1,64 @@
+Title: Marianne Rempel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-amira-kiehn
+- 
+  type: relations/money/creditor
+  item: people/isidro-dare
+- 
+  type: relations/money/creditor
+  item: people/malvina-hodkiewicz-md
+- 
+  type: relations/money/debtor
+  item: people/karson-goodwin
+- 
+  type: relations/parental/dad
+  item: people/chet-mayer
+- 
+  type: relations/parental/mom
+  item: people/virginia-klein
+- 
+  type: relations/work/client
+  item: companies/weber-lockman
+- 
+  type: relations/work/employer
+  item: companies/hane-plc
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-funk
+- 
+  type: relations/work/client
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

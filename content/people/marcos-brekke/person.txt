@@ -1,0 +1,64 @@
+Title: Marcos Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/myrna-bayer
+- 
+  type: relations/parental/dad
+  item: people/leanna-stark
+- 
+  type: relations/parental/dad
+  item: people/prof-shana-glover
+- 
+  type: relations/parental/friend
+  item: people/miss-stephanie-bergstrom-i
+- 
+  type: relations/parental/mom
+  item: people/okey-paucek-sr
+- 
+  type: relations/money/debtor
+  item: people/ms-alejandra-spinka-sr
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/employer
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Mr. Gaetano Ondricka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/green-conn
+- 
+  type: relations/money/debtor
+  item: people/dr-tiana-thiel
+- 
+  type: relations/parental/mom
+  item: people/miss-felicita-trantow
+- 
+  type: relations/parental/colleague
+  item: people/veda-schulist
+- 
+  type: relations/parental/mom
+  item: people/albin-hilll
+- 
+  type: relations/parental/dad
+  item: people/cory-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/employer
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/employer
+  item: companies/blanda-bartell
+- 
+  type: relations/money/debtor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

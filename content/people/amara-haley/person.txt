@@ -1,0 +1,65 @@
+Title: Amara Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-hannah-friesen-jr
+- 
+  type: relations/money/debtor
+  item: people/anastasia-williamson-md
+- 
+  type: relations/parental/mom
+  item: people/zita-hoppe
+- 
+  type: relations/parental/colleague
+  item: people/dr-tyler-nienow
+- 
+  type: relations/parental/mom
+  item: people/kadin-skiles
+- 
+  type: relations/parental/dad
+  item: people/destiney-purdy
+- 
+  type: relations/work/client
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/client
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/work/employer
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

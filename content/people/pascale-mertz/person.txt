@@ -1,0 +1,64 @@
+Title: Pascale Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/curt-schimmel-iv
+- 
+  type: relations/parental/dad
+  item: people/prof-eloise-smitham-iv
+- 
+  type: relations/parental/mom
+  item: people/prof-helen-hayes
+- 
+  type: relations/parental/brosis
+  item: people/mauricio-zieme
+- 
+  type: relations/parental/brosis
+  item: people/dylan-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/employer
+  item: companies/blanda-bartell
+- 
+  type: relations/work/client
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

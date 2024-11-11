@@ -1,0 +1,64 @@
+Title: Miss Sabina Beier DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/beverly-spinka
+- 
+  type: relations/parental/dad
+  item: people/ms-mattie-mckenzie-ii
+- 
+  type: relations/parental/friend
+  item: people/sigmund-wehner-ii
+- 
+  type: relations/money/debtor
+  item: people/jodie-lemke
+- 
+  type: relations/money/creditor
+  item: people/salvatore-bailey
+- 
+  type: relations/parental/colleague
+  item: people/ryley-schneider
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

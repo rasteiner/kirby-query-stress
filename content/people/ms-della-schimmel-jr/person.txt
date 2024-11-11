@@ -1,0 +1,64 @@
+Title: Ms. Della Schimmel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keaton-lang
+- 
+  type: relations/parental/mom
+  item: people/ms-lia-armstrong-phd
+- 
+  type: relations/parental/friend
+  item: people/mrs-tyra-reinger-sr
+- 
+  type: relations/parental/brosis
+  item: people/ali-morar
+- 
+  type: relations/parental/friend
+  item: people/marilie-franecki
+- 
+  type: relations/money/debtor
+  item: people/lane-lubowitz
+- 
+  type: relations/work/employer
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/murphy-batz
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

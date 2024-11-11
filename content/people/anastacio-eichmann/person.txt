@@ -1,0 +1,64 @@
+Title: Anastacio Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marilie-franecki
+- 
+  type: relations/parental/colleague
+  item: people/lane-lubowitz
+- 
+  type: relations/parental/colleague
+  item: people/katelin-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/mr-bo-gusikowski-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-marvin-murazik-phd
+- 
+  type: relations/parental/friend
+  item: people/janiya-fisher
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/work/client
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

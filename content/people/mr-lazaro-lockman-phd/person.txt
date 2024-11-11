@@ -1,0 +1,64 @@
+Title: Mr. Lazaro Lockman PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/greta-osinski
+- 
+  type: relations/parental/colleague
+  item: people/estella-runte
+- 
+  type: relations/parental/friend
+  item: people/berry-wiza
+- 
+  type: relations/parental/brosis
+  item: people/kelley-powlowski
+- 
+  type: relations/parental/mom
+  item: people/fidel-hoeger
+- 
+  type: relations/parental/dad
+  item: people/mckayla-bailey-iv
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/debtor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

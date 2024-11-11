@@ -1,0 +1,64 @@
+Title: Prof. Emil Rau III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/adaline-schoen
+- 
+  type: relations/parental/dad
+  item: people/nikki-kutch
+- 
+  type: relations/parental/dad
+  item: people/karelle-price-md
+- 
+  type: relations/parental/mom
+  item: people/lexus-shields
+- 
+  type: relations/money/creditor
+  item: people/amy-gutmann
+- 
+  type: relations/parental/mom
+  item: people/edwin-mitchell
+- 
+  type: relations/work/client
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

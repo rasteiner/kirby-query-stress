@@ -1,0 +1,64 @@
+Title: Chris Tromp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cleo-mckenzie
+- 
+  type: relations/parental/mom
+  item: people/mr-sedrick-emard
+- 
+  type: relations/parental/brosis
+  item: people/mr-franz-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/miss-jennifer-vandervort-i
+- 
+  type: relations/parental/dad
+  item: people/dr-christa-kuhn
+- 
+  type: relations/parental/brosis
+  item: people/sophia-satterfield
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

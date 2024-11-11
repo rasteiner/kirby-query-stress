@@ -1,0 +1,64 @@
+Title: Prof. Justen Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/constantin-gusikowski
+- 
+  type: relations/parental/dad
+  item: people/jackeline-zemlak
+- 
+  type: relations/parental/mom
+  item: people/bennett-cummings
+- 
+  type: relations/money/creditor
+  item: people/prof-rosendo-hane
+- 
+  type: relations/parental/brosis
+  item: people/beatrice-donnelly
+- 
+  type: relations/parental/mom
+  item: people/reuben-veum
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/employer
+  item: companies/swaniawski-group
+- 
+  type: relations/money/debtor
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

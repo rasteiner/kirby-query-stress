@@ -1,0 +1,64 @@
+Title: Neoma Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-therese-batz-dvm
+- 
+  type: relations/parental/mom
+  item: people/lela-gusikowski
+- 
+  type: relations/parental/mom
+  item: people/dr-trisha-haag
+- 
+  type: relations/parental/friend
+  item: people/kennith-feeney
+- 
+  type: relations/money/debtor
+  item: people/mr-werner-batz
+- 
+  type: relations/parental/mom
+  item: people/prof-arnaldo-pfeffer-ii
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Wellington Adams
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-kailyn-funk
+- 
+  type: relations/money/debtor
+  item: people/christina-bosco
+- 
+  type: relations/parental/colleague
+  item: people/prof-katlynn-gusikowski-phd
+- 
+  type: relations/parental/dad
+  item: people/godfrey-beahan
+- 
+  type: relations/parental/colleague
+  item: people/vern-feeney
+- 
+  type: relations/money/debtor
+  item: people/mrs-margot-beatty-dvm
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

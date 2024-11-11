@@ -1,0 +1,43 @@
+Title: Connelly LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-fay
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/grady-group
+- 
+  type: relations/money/debtor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/bahringerport
+- 
+  type: relations/location/visited
+  item: places/eduardofort

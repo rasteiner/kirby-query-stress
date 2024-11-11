@@ -1,0 +1,64 @@
+Title: Dexter Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/maverick-schiller
+- 
+  type: relations/parental/colleague
+  item: people/prof-laurence-ernser-phd
+- 
+  type: relations/money/debtor
+  item: people/deon-king
+- 
+  type: relations/parental/brosis
+  item: people/candida-huels
+- 
+  type: relations/parental/brosis
+  item: people/theresa-sauer
+- 
+  type: relations/parental/dad
+  item: people/adrain-mcclure
+- 
+  type: relations/work/client
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

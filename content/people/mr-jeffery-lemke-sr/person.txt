@@ -1,0 +1,64 @@
+Title: Mr. Jeffery Lemke Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-leonard-satterfield-iii
+- 
+  type: relations/parental/dad
+  item: people/miss-kaela-mcclure-jr
+- 
+  type: relations/parental/friend
+  item: people/devin-boyle
+- 
+  type: relations/parental/dad
+  item: people/willy-runolfsson
+- 
+  type: relations/money/creditor
+  item: people/prof-ford-spinka
+- 
+  type: relations/parental/friend
+  item: people/jarrell-hirthe
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/employer
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Mylene Howell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mylene-hayes-phd
+- 
+  type: relations/parental/brosis
+  item: people/lillie-boyle
+- 
+  type: relations/parental/mom
+  item: people/dr-florida-denesik-jr
+- 
+  type: relations/parental/dad
+  item: people/mr-joshuah-kassulke-dds
+- 
+  type: relations/parental/dad
+  item: people/mandy-rice
+- 
+  type: relations/parental/dad
+  item: people/prof-alberto-batz-iv
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/work/employer
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

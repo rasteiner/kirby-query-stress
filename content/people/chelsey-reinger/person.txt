@@ -1,0 +1,64 @@
+Title: Chelsey Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-dolly-quitzon
+- 
+  type: relations/parental/brosis
+  item: people/prof-whitney-terry-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-eddie-graham
+- 
+  type: relations/parental/friend
+  item: people/julio-rice
+- 
+  type: relations/parental/dad
+  item: people/miss-wava-wyman
+- 
+  type: relations/parental/colleague
+  item: people/prof-dominique-kutch
+- 
+  type: relations/work/client
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/employer
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

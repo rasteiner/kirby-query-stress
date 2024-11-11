@@ -1,0 +1,64 @@
+Title: Ana Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/connor-koelpin-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-tony-gislason-md
+- 
+  type: relations/parental/friend
+  item: people/keanu-ullrich
+- 
+  type: relations/parental/dad
+  item: people/dr-deshaun-lang
+- 
+  type: relations/parental/colleague
+  item: people/arvilla-green
+- 
+  type: relations/parental/friend
+  item: people/audra-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/debtor
+  item: companies/crona-and-sons
+- 
+  type: relations/work/client
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/client
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

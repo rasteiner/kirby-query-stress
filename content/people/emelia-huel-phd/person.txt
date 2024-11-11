@@ -1,0 +1,64 @@
+Title: Emelia Huel PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ora-lemke
+- 
+  type: relations/parental/colleague
+  item: people/mr-camron-schumm-dvm
+- 
+  type: relations/money/debtor
+  item: people/zella-hudson
+- 
+  type: relations/money/creditor
+  item: people/prof-hermann-hintz-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-rozella-mckenzie
+- 
+  type: relations/parental/mom
+  item: people/destiny-o-hara
+- 
+  type: relations/money/creditor
+  item: companies/stroman-ltd
+- 
+  type: relations/work/client
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/client
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

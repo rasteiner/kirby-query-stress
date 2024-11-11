@@ -1,0 +1,64 @@
+Title: Kayla Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/elinor-bogisich-v
+- 
+  type: relations/money/creditor
+  item: people/yesenia-gleason-jr
+- 
+  type: relations/parental/friend
+  item: people/adolf-lind
+- 
+  type: relations/parental/friend
+  item: people/herminia-jacobs
+- 
+  type: relations/parental/friend
+  item: people/prof-alan-kuphal-iii
+- 
+  type: relations/parental/dad
+  item: people/dimitri-kuphal
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

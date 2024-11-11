@@ -1,0 +1,43 @@
+Title: Aufderhar Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/creditor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mayert-group
+- 
+  type: relations/money/debtor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/abdielmouth

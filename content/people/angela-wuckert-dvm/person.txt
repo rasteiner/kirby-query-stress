@@ -1,0 +1,64 @@
+Title: Angela Wuckert DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-sean-white
+- 
+  type: relations/parental/friend
+  item: people/lorenz-stroman-phd
+- 
+  type: relations/parental/friend
+  item: people/aurelie-huels
+- 
+  type: relations/parental/colleague
+  item: people/cristina-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/miss-maudie-abbott
+- 
+  type: relations/money/creditor
+  item: people/federico-wintheiser
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/employer
+  item: companies/kris-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/hintz-group
+- 
+  type: relations/work/client
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

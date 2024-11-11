@@ -1,0 +1,64 @@
+Title: Gilberto Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-zachery-douglas-md
+- 
+  type: relations/parental/dad
+  item: people/mark-wolff
+- 
+  type: relations/parental/mom
+  item: people/clarissa-batz
+- 
+  type: relations/parental/brosis
+  item: people/mrs-shaylee-kunde
+- 
+  type: relations/parental/colleague
+  item: people/zackary-bayer
+- 
+  type: relations/parental/friend
+  item: people/tyshawn-turcotte
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

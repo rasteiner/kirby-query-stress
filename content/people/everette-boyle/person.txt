@@ -1,0 +1,64 @@
+Title: Everette Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/eloise-cronin
+- 
+  type: relations/money/creditor
+  item: people/oceane-casper
+- 
+  type: relations/parental/mom
+  item: people/valerie-labadie
+- 
+  type: relations/money/debtor
+  item: people/fermin-will
+- 
+  type: relations/parental/mom
+  item: people/glennie-rowe
+- 
+  type: relations/parental/friend
+  item: people/vallie-franecki
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/client
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

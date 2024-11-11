@@ -1,0 +1,64 @@
+Title: Mallie Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/viola-osinski
+- 
+  type: relations/money/debtor
+  item: people/mabel-kilback
+- 
+  type: relations/parental/dad
+  item: people/franco-prosacco
+- 
+  type: relations/parental/mom
+  item: people/blair-marvin
+- 
+  type: relations/parental/mom
+  item: people/frances-zemlak
+- 
+  type: relations/parental/dad
+  item: people/larue-kertzmann
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/employer
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

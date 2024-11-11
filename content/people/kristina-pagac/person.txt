@@ -1,0 +1,64 @@
+Title: Kristina Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ansley-bernhard
+- 
+  type: relations/parental/mom
+  item: people/amiya-ankunding
+- 
+  type: relations/parental/dad
+  item: people/dr-brook-herzog-v
+- 
+  type: relations/parental/dad
+  item: people/dr-clementine-feeney
+- 
+  type: relations/money/creditor
+  item: people/mr-kelton-vonrueden
+- 
+  type: relations/parental/mom
+  item: people/irving-langosh
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/money/debtor
+  item: companies/raynor-rippin
+- 
+  type: relations/money/debtor
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/employer
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

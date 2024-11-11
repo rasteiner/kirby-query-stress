@@ -1,0 +1,64 @@
+Title: Linnie Moore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/manuel-rutherford
+- 
+  type: relations/parental/colleague
+  item: people/mr-isaac-mccullough-phd
+- 
+  type: relations/parental/dad
+  item: people/mrs-cydney-shanahan-dds
+- 
+  type: relations/parental/friend
+  item: people/arturo-cummings
+- 
+  type: relations/parental/brosis
+  item: people/colin-herman
+- 
+  type: relations/parental/dad
+  item: people/dr-hugh-hamill
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zulauf-group
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

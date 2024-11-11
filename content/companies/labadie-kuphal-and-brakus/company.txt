@@ -1,0 +1,43 @@
+Title: Labadie, Kuphal and Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/carter-inc
+- 
+  type: relations/money/debtor
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/schinner-llc
+- 
+  type: relations/money/debtor
+  item: companies/schumm-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/klein-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/nienowmouth

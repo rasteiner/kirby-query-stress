@@ -1,0 +1,64 @@
+Title: Elliot Abshire III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaley-goyette
+- 
+  type: relations/parental/brosis
+  item: people/meagan-stark
+- 
+  type: relations/parental/colleague
+  item: people/ms-alessia-donnelly
+- 
+  type: relations/parental/colleague
+  item: people/deangelo-torphy
+- 
+  type: relations/money/debtor
+  item: people/mrs-adell-mueller
+- 
+  type: relations/money/debtor
+  item: people/laisha-grady
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/work/employer
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,43 @@
+Title: Schaden, Durgan and Glover
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/money/debtor
+  item: companies/keebler-inc
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/money/creditor
+  item: companies/schmidt-gaylord
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven

@@ -1,0 +1,64 @@
+Title: Micaela Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/andy-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/prof-robyn-kuphal
+- 
+  type: relations/parental/mom
+  item: people/edison-hoppe-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-lew-beier-v
+- 
+  type: relations/parental/mom
+  item: people/brady-stamm-dds
+- 
+  type: relations/parental/friend
+  item: people/dr-janae-herzog
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/employer
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/employer
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,44 @@
+Title: Hansen-Gottlieb
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/money/creditor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/money/debtor
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/new-jettie

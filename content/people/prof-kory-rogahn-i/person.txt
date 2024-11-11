@@ -1,0 +1,64 @@
+Title: Prof. Kory Rogahn I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-lonny-marquardt-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-arnoldo-dubuque-sr
+- 
+  type: relations/parental/colleague
+  item: people/mr-jessy-durgan-dds
+- 
+  type: relations/money/debtor
+  item: people/tania-kuvalis
+- 
+  type: relations/money/debtor
+  item: people/dr-richie-swaniawski-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-monserrate-rodriguez-i
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

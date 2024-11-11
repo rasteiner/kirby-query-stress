@@ -1,0 +1,64 @@
+Title: Ms. Trinity D'Amore Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-felicia-schuster-iv
+- 
+  type: relations/parental/brosis
+  item: people/fanny-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/andres-watsica
+- 
+  type: relations/parental/brosis
+  item: people/granville-batz
+- 
+  type: relations/parental/friend
+  item: people/soledad-johnston
+- 
+  type: relations/parental/colleague
+  item: people/lyla-grimes
+- 
+  type: relations/work/client
+  item: companies/mertz-ltd
+- 
+  type: relations/work/employer
+  item: companies/stanton-plc
+- 
+  type: relations/work/client
+  item: companies/mayer-group
+- 
+  type: relations/work/client
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

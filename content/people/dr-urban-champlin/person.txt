@@ -1,0 +1,64 @@
+Title: Dr. Urban Champlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-adolf-o-connell-md
+- 
+  type: relations/parental/friend
+  item: people/mrs-alejandra-nikolaus
+- 
+  type: relations/money/debtor
+  item: people/christine-hodkiewicz
+- 
+  type: relations/parental/friend
+  item: people/guillermo-koss-iii
+- 
+  type: relations/parental/friend
+  item: people/marilie-lakin
+- 
+  type: relations/parental/brosis
+  item: people/olen-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

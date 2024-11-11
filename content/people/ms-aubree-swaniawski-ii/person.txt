@@ -1,0 +1,65 @@
+Title: Ms. Aubree Swaniawski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/verona-christiansen
+- 
+  type: relations/money/creditor
+  item: people/cullen-lehner-v
+- 
+  type: relations/money/creditor
+  item: people/julian-lind-iv
+- 
+  type: relations/parental/mom
+  item: people/miss-makayla-ferry-md
+- 
+  type: relations/parental/brosis
+  item: people/colten-goodwin
+- 
+  type: relations/parental/brosis
+  item: people/zoey-rath-v
+- 
+  type: relations/money/debtor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/lemke-ltd
+- 
+  type: relations/work/employer
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

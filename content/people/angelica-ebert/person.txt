@@ -1,0 +1,64 @@
+Title: Angelica Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-heaven-moore-iv
+- 
+  type: relations/money/debtor
+  item: people/mrs-marielle-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/conrad-herzog
+- 
+  type: relations/parental/colleague
+  item: people/miss-madilyn-batz
+- 
+  type: relations/parental/brosis
+  item: people/prof-delpha-ebert-i
+- 
+  type: relations/parental/brosis
+  item: people/rosalee-streich
+- 
+  type: relations/money/debtor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/hagenes-and-sons
+- 
+  type: relations/work/employer
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/schneider-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

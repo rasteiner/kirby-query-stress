@@ -1,0 +1,64 @@
+Title: Alycia Rice PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/priscilla-pfeffer-v
+- 
+  type: relations/parental/friend
+  item: people/dr-ted-durgan-phd
+- 
+  type: relations/money/creditor
+  item: people/jaida-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/deonte-hermiston-iii
+- 
+  type: relations/parental/colleague
+  item: people/tillman-veum
+- 
+  type: relations/parental/colleague
+  item: people/mrs-yasmine-rempel-v
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger
+- 
+  type: relations/work/employer
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/employer
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

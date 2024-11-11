@@ -1,0 +1,64 @@
+Title: Luther Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/titus-nienow-iii
+- 
+  type: relations/parental/brosis
+  item: people/vella-mayer
+- 
+  type: relations/money/debtor
+  item: people/miss-catalina-kuhic-sr
+- 
+  type: relations/parental/colleague
+  item: people/warren-mcdermott
+- 
+  type: relations/parental/colleague
+  item: people/lydia-cronin
+- 
+  type: relations/parental/colleague
+  item: people/zelda-luettgen
+- 
+  type: relations/work/employer
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/money/creditor
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

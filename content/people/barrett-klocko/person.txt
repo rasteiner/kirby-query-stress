@@ -1,0 +1,64 @@
+Title: Barrett Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dixie-lesch
+- 
+  type: relations/parental/colleague
+  item: people/samir-botsford
+- 
+  type: relations/parental/friend
+  item: people/dr-hugh-lemke
+- 
+  type: relations/parental/mom
+  item: people/lydia-lehner-md
+- 
+  type: relations/parental/dad
+  item: people/miss-blanche-carter
+- 
+  type: relations/parental/colleague
+  item: people/kayla-swift
+- 
+  type: relations/work/employer
+  item: companies/blanda-ltd
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

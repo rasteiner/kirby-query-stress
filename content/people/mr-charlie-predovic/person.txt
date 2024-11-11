@@ -1,0 +1,64 @@
+Title: Mr. Charlie Predovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-arlene-davis-dvm
+- 
+  type: relations/money/debtor
+  item: people/lamont-herman
+- 
+  type: relations/parental/mom
+  item: people/benjamin-schuster
+- 
+  type: relations/parental/dad
+  item: people/estevan-bins
+- 
+  type: relations/money/debtor
+  item: people/maryse-jacobson
+- 
+  type: relations/parental/brosis
+  item: people/leatha-brown
+- 
+  type: relations/work/employer
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/client
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

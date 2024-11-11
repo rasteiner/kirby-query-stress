@@ -1,0 +1,64 @@
+Title: Lamont Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/brandt-crona
+- 
+  type: relations/parental/brosis
+  item: people/trey-ullrich-sr
+- 
+  type: relations/money/debtor
+  item: people/leonel-runolfsdottir-v
+- 
+  type: relations/parental/colleague
+  item: people/joannie-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/kyla-emmerich
+- 
+  type: relations/money/creditor
+  item: people/mariana-west
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/work/employer
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

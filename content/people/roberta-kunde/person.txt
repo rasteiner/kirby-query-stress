@@ -1,0 +1,64 @@
+Title: Roberta Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-geraldine-o-keefe
+- 
+  type: relations/money/creditor
+  item: people/lacey-zboncak
+- 
+  type: relations/parental/mom
+  item: people/markus-krajcik
+- 
+  type: relations/parental/colleague
+  item: people/kaleb-hahn
+- 
+  type: relations/parental/brosis
+  item: people/ellis-beier
+- 
+  type: relations/parental/mom
+  item: people/rolando-dubuque-iii
+- 
+  type: relations/work/client
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-ltd
+- 
+  type: relations/work/client
+  item: companies/collier-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

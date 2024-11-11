@@ -1,0 +1,64 @@
+Title: Bradly Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alexane-rippin
+- 
+  type: relations/money/debtor
+  item: people/libbie-feest
+- 
+  type: relations/parental/mom
+  item: people/armani-lockman
+- 
+  type: relations/money/creditor
+  item: people/jimmie-gerhold
+- 
+  type: relations/parental/mom
+  item: people/halie-reichert
+- 
+  type: relations/parental/mom
+  item: people/oswald-cassin
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/money/creditor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

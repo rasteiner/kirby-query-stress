@@ -1,0 +1,65 @@
+Title: Joy Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/harold-bogan
+- 
+  type: relations/parental/friend
+  item: people/elton-marvin
+- 
+  type: relations/parental/colleague
+  item: people/prof-troy-harris-md
+- 
+  type: relations/parental/colleague
+  item: people/janice-witting-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-vida-bins
+- 
+  type: relations/parental/colleague
+  item: people/ms-tatyana-rippin
+- 
+  type: relations/work/employer
+  item: companies/ratke-inc
+- 
+  type: relations/work/client
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

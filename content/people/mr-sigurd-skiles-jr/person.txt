@@ -1,0 +1,64 @@
+Title: Mr. Sigurd Skiles Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-faye-reichert
+- 
+  type: relations/parental/mom
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/money/creditor
+  item: people/gino-flatley
+- 
+  type: relations/parental/mom
+  item: people/ara-eichmann
+- 
+  type: relations/parental/friend
+  item: people/baby-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/amos-hilll-phd
+- 
+  type: relations/work/client
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

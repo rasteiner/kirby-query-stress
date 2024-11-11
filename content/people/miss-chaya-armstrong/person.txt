@@ -1,0 +1,64 @@
+Title: Miss Chaya Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/deontae-hodkiewicz
+- 
+  type: relations/parental/dad
+  item: people/dr-myrl-feil
+- 
+  type: relations/parental/brosis
+  item: people/abigail-cormier
+- 
+  type: relations/parental/brosis
+  item: people/marilie-wintheiser-iv
+- 
+  type: relations/money/creditor
+  item: people/earnestine-schultz
+- 
+  type: relations/parental/brosis
+  item: people/ellen-hauck-dds
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/work/employer
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

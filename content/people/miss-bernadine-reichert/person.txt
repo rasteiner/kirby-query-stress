@@ -1,0 +1,64 @@
+Title: Miss Bernadine Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/norbert-nicolas
+- 
+  type: relations/money/debtor
+  item: people/deion-daugherty
+- 
+  type: relations/money/debtor
+  item: people/ellis-skiles
+- 
+  type: relations/parental/colleague
+  item: people/sheridan-parisian
+- 
+  type: relations/parental/friend
+  item: people/mazie-koelpin
+- 
+  type: relations/parental/friend
+  item: people/mossie-hansen
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

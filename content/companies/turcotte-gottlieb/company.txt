@@ -1,0 +1,43 @@
+Title: Turcotte-Gottlieb
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/money/creditor
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/money/creditor
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/orn-inc
+- 
+  type: relations/money/creditor
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh

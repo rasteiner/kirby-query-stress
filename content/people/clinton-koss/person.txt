@@ -1,0 +1,65 @@
+Title: Clinton Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-elise-larson-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-michael-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/maryjane-kilback-v
+- 
+  type: relations/parental/friend
+  item: people/dr-marietta-pacocha
+- 
+  type: relations/parental/dad
+  item: people/emmalee-hahn
+- 
+  type: relations/parental/friend
+  item: people/nelle-heathcote
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/client
+  item: companies/gleason-group
+- 
+  type: relations/money/debtor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,65 @@
+Title: Jade Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-creola-heidenreich
+- 
+  type: relations/money/creditor
+  item: people/roma-cremin
+- 
+  type: relations/parental/dad
+  item: people/daryl-schinner
+- 
+  type: relations/parental/brosis
+  item: people/america-leffler
+- 
+  type: relations/parental/brosis
+  item: people/prof-keon-keebler
+- 
+  type: relations/parental/mom
+  item: people/chelsey-reinger
+- 
+  type: relations/work/employer
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

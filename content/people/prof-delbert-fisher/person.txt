@@ -1,0 +1,64 @@
+Title: Prof. Delbert Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/malvina-hodkiewicz-md
+- 
+  type: relations/parental/dad
+  item: people/karson-goodwin
+- 
+  type: relations/parental/mom
+  item: people/chet-mayer
+- 
+  type: relations/parental/brosis
+  item: people/virginia-klein
+- 
+  type: relations/parental/colleague
+  item: people/genevieve-cruickshank-v
+- 
+  type: relations/parental/dad
+  item: people/jonathon-stokes
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/work/employer
+  item: companies/farrell-ltd
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

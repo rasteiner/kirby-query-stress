@@ -1,0 +1,64 @@
+Title: Darwin Wisoky DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-ryan-swift
+- 
+  type: relations/money/debtor
+  item: people/clay-doyle
+- 
+  type: relations/parental/colleague
+  item: people/lindsey-hagenes
+- 
+  type: relations/money/creditor
+  item: people/leonel-becker
+- 
+  type: relations/parental/brosis
+  item: people/zander-bashirian
+- 
+  type: relations/money/debtor
+  item: people/miss-chaya-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/waters-and-sons
+- 
+  type: relations/work/employer
+  item: companies/little-sipes
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

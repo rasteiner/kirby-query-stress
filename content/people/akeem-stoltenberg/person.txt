@@ -1,0 +1,64 @@
+Title: Akeem Stoltenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/abigale-schiller-md
+- 
+  type: relations/parental/dad
+  item: people/rocky-crist
+- 
+  type: relations/parental/colleague
+  item: people/dr-earnest-tillman
+- 
+  type: relations/parental/mom
+  item: people/amina-cronin
+- 
+  type: relations/parental/colleague
+  item: people/trevion-windler
+- 
+  type: relations/parental/mom
+  item: people/estefania-moore
+- 
+  type: relations/money/creditor
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/work/client
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

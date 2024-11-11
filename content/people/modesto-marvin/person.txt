@@ -1,0 +1,64 @@
+Title: Modesto Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rory-quigley
+- 
+  type: relations/parental/mom
+  item: people/prof-alejandra-sawayn
+- 
+  type: relations/parental/friend
+  item: people/chet-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/lina-mosciski
+- 
+  type: relations/money/debtor
+  item: people/kole-goyette
+- 
+  type: relations/money/creditor
+  item: people/mikayla-little
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/money/creditor
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

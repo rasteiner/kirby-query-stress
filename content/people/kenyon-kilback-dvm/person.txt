@@ -1,0 +1,64 @@
+Title: Kenyon Kilback DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/viola-osinski
+- 
+  type: relations/parental/friend
+  item: people/mabel-kilback
+- 
+  type: relations/parental/mom
+  item: people/franco-prosacco
+- 
+  type: relations/parental/colleague
+  item: people/blair-marvin
+- 
+  type: relations/parental/dad
+  item: people/frances-zemlak
+- 
+  type: relations/parental/colleague
+  item: people/larue-kertzmann
+- 
+  type: relations/money/creditor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/employer
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

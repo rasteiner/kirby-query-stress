@@ -1,0 +1,64 @@
+Title: Lavina Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/carmine-botsford
+- 
+  type: relations/parental/mom
+  item: people/prof-jarod-johnston-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-arnold-heller
+- 
+  type: relations/parental/colleague
+  item: people/saige-gutmann
+- 
+  type: relations/parental/colleague
+  item: people/tod-crist
+- 
+  type: relations/parental/mom
+  item: people/jess-dicki
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/orn-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-ltd
+- 
+  type: relations/work/employer
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

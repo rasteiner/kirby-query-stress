@@ -1,0 +1,64 @@
+Title: Beth Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/pasquale-flatley
+- 
+  type: relations/parental/colleague
+  item: people/miss-elyssa-williamson
+- 
+  type: relations/parental/dad
+  item: people/isac-sporer
+- 
+  type: relations/parental/friend
+  item: people/rowland-gibson-md
+- 
+  type: relations/money/debtor
+  item: people/mr-ryann-kuhic-md
+- 
+  type: relations/money/creditor
+  item: people/ceasar-ferry
+- 
+  type: relations/work/employer
+  item: companies/kunde-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/employer
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/debtor
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

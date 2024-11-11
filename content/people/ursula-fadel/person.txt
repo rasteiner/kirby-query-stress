@@ -1,0 +1,64 @@
+Title: Ursula Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-alivia-schaden
+- 
+  type: relations/parental/dad
+  item: people/meredith-koelpin
+- 
+  type: relations/parental/dad
+  item: people/delores-lowe
+- 
+  type: relations/parental/dad
+  item: people/amelia-skiles
+- 
+  type: relations/money/debtor
+  item: people/margret-maggio-sr
+- 
+  type: relations/parental/mom
+  item: people/estevan-ratke
+- 
+  type: relations/work/employer
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

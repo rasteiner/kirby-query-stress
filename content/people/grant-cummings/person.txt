@@ -1,0 +1,64 @@
+Title: Grant Cummings
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/blanche-collier-phd
+- 
+  type: relations/parental/colleague
+  item: people/daren-wolf
+- 
+  type: relations/parental/mom
+  item: people/prof-hector-quigley
+- 
+  type: relations/parental/colleague
+  item: people/mrs-octavia-prosacco
+- 
+  type: relations/money/debtor
+  item: people/claud-gottlieb
+- 
+  type: relations/parental/colleague
+  item: people/raul-bayer-jr
+- 
+  type: relations/money/debtor
+  item: companies/howell-plc
+- 
+  type: relations/work/client
+  item: companies/klocko-quigley
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

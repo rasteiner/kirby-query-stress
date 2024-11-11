@@ -1,0 +1,64 @@
+Title: Jerel Ratke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cassandra-kertzmann-iv
+- 
+  type: relations/parental/colleague
+  item: people/hulda-bauch
+- 
+  type: relations/money/debtor
+  item: people/miss-sabina-beier-dvm
+- 
+  type: relations/parental/friend
+  item: people/joanne-koch
+- 
+  type: relations/parental/dad
+  item: people/mr-torrey-farrell-jr
+- 
+  type: relations/money/debtor
+  item: people/eleazar-goyette
+- 
+  type: relations/work/client
+  item: companies/bogan-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/work/employer
+  item: companies/schmidt-llc
+- 
+  type: relations/money/creditor
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

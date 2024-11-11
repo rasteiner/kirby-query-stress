@@ -1,0 +1,64 @@
+Title: Raul Bayer Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/pasquale-flatley
+- 
+  type: relations/money/debtor
+  item: people/miss-elyssa-williamson
+- 
+  type: relations/money/creditor
+  item: people/isac-sporer
+- 
+  type: relations/parental/mom
+  item: people/rowland-gibson-md
+- 
+  type: relations/parental/dad
+  item: people/mr-ryann-kuhic-md
+- 
+  type: relations/parental/friend
+  item: people/ceasar-ferry
+- 
+  type: relations/money/creditor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/client
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/employer
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/dach-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

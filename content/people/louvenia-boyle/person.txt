@@ -1,0 +1,66 @@
+Title: Louvenia Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jeramy-conn
+- 
+  type: relations/parental/mom
+  item: people/emelia-huel-phd
+- 
+  type: relations/money/debtor
+  item: people/stephan-harber
+- 
+  type: relations/parental/dad
+  item: people/mylene-hermann-iv
+- 
+  type: relations/parental/brosis
+  item: people/rosalind-gusikowski-ii
+- 
+  type: relations/money/debtor
+  item: people/berneice-gerhold
+- 
+  type: relations/work/client
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/debtor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

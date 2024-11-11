@@ -1,0 +1,43 @@
+Title: Mills, Hessel and Mayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-llc
+- 
+  type: relations/money/creditor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/debtor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/new-selmer
+- 
+  type: relations/location/visited
+  item: places/bretberg

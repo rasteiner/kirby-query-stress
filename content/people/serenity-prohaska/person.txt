@@ -1,0 +1,64 @@
+Title: Serenity Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-darby-collins
+- 
+  type: relations/parental/dad
+  item: people/davon-huels
+- 
+  type: relations/money/debtor
+  item: people/darlene-blick
+- 
+  type: relations/parental/brosis
+  item: people/deborah-crooks
+- 
+  type: relations/parental/brosis
+  item: people/dr-jamison-okuneva
+- 
+  type: relations/money/creditor
+  item: people/antonietta-koss
+- 
+  type: relations/work/client
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

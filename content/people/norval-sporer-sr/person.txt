@@ -1,0 +1,64 @@
+Title: Norval Sporer Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/keanu-koss
+- 
+  type: relations/money/creditor
+  item: people/brooklyn-legros-jr
+- 
+  type: relations/parental/colleague
+  item: people/gwen-hodkiewicz-md
+- 
+  type: relations/money/creditor
+  item: people/ms-dina-lowe-md
+- 
+  type: relations/parental/dad
+  item: people/mylene-hayes-phd
+- 
+  type: relations/money/debtor
+  item: people/lillie-boyle
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

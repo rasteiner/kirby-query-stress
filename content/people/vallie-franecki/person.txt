@@ -1,0 +1,64 @@
+Title: Vallie Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-antone-pacocha-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-janis-brown
+- 
+  type: relations/money/creditor
+  item: people/diamond-reilly
+- 
+  type: relations/parental/mom
+  item: people/samara-walter
+- 
+  type: relations/money/creditor
+  item: people/rigoberto-hintz
+- 
+  type: relations/parental/mom
+  item: people/mr-jessy-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/graham-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/client
+  item: companies/hintz-fisher
+- 
+  type: relations/money/debtor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

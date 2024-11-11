@@ -1,0 +1,65 @@
+Title: Mozell Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-felicita-trantow
+- 
+  type: relations/money/debtor
+  item: people/veda-schulist
+- 
+  type: relations/parental/colleague
+  item: people/albin-hilll
+- 
+  type: relations/parental/mom
+  item: people/cory-gottlieb
+- 
+  type: relations/parental/colleague
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/parental/friend
+  item: people/raheem-leffler
+- 
+  type: relations/work/employer
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/employer
+  item: companies/pollich-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/client
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

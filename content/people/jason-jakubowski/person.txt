@@ -1,0 +1,64 @@
+Title: Jason Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-alfred-weber
+- 
+  type: relations/parental/mom
+  item: people/lorna-langosh
+- 
+  type: relations/money/creditor
+  item: people/howell-schmidt-dvm
+- 
+  type: relations/parental/colleague
+  item: people/lawrence-stokes
+- 
+  type: relations/parental/colleague
+  item: people/watson-volkman
+- 
+  type: relations/parental/mom
+  item: people/mallory-feeney
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/work/employer
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

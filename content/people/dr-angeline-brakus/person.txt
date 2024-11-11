@@ -1,0 +1,64 @@
+Title: Dr. Angeline Brakus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-jasper-hudson-v
+- 
+  type: relations/parental/friend
+  item: people/veronica-metz
+- 
+  type: relations/parental/friend
+  item: people/jeremie-wolff
+- 
+  type: relations/parental/brosis
+  item: people/pearlie-mann-jr
+- 
+  type: relations/money/debtor
+  item: people/gerald-rippin-md
+- 
+  type: relations/parental/mom
+  item: people/dr-reagan-buckridge-i
+- 
+  type: relations/money/creditor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

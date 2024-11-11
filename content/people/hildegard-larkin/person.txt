@@ -1,0 +1,64 @@
+Title: Hildegard Larkin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-leif-hartmann
+- 
+  type: relations/parental/friend
+  item: people/bettye-corkery-dds
+- 
+  type: relations/parental/colleague
+  item: people/miss-aurelie-considine-iii
+- 
+  type: relations/parental/dad
+  item: people/dr-conor-sipes
+- 
+  type: relations/money/creditor
+  item: people/madison-kerluke
+- 
+  type: relations/money/debtor
+  item: people/terrell-ortiz
+- 
+  type: relations/work/client
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/money/creditor
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

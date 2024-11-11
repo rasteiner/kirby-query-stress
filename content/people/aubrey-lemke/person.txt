@@ -1,0 +1,64 @@
+Title: Aubrey Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cleora-homenick
+- 
+  type: relations/parental/brosis
+  item: people/tyrese-windler-sr
+- 
+  type: relations/parental/mom
+  item: people/lou-johnson
+- 
+  type: relations/parental/mom
+  item: people/schuyler-rogahn-md
+- 
+  type: relations/parental/dad
+  item: people/gianni-lind
+- 
+  type: relations/parental/brosis
+  item: people/destiny-wolff
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/employer
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

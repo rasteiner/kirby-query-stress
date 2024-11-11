@@ -1,0 +1,64 @@
+Title: Charles Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/major-wilderman
+- 
+  type: relations/parental/mom
+  item: people/landen-wolff
+- 
+  type: relations/money/creditor
+  item: people/raphael-jerde
+- 
+  type: relations/parental/dad
+  item: people/jackie-ferry
+- 
+  type: relations/parental/brosis
+  item: people/meggie-brown
+- 
+  type: relations/money/debtor
+  item: people/linwood-ruecker
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/work/employer
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Dr. Orin Roberts DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-benton-rutherford-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-mafalda-gibson-iv
+- 
+  type: relations/parental/brosis
+  item: people/aryanna-kulas
+- 
+  type: relations/money/debtor
+  item: people/zachariah-d-amore
+- 
+  type: relations/parental/dad
+  item: people/maurine-gusikowski
+- 
+  type: relations/parental/dad
+  item: people/aurelio-pfeffer
+- 
+  type: relations/work/employer
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-stark
+- 
+  type: relations/work/client
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

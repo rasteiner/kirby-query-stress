@@ -1,0 +1,66 @@
+Title: Denis Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-antone-bechtelar-jr
+- 
+  type: relations/parental/dad
+  item: people/mario-yundt
+- 
+  type: relations/money/creditor
+  item: people/maximillia-quigley
+- 
+  type: relations/money/debtor
+  item: people/prof-jessyca-wolff-dvm
+- 
+  type: relations/parental/brosis
+  item: people/trisha-rodriguez
+- 
+  type: relations/parental/brosis
+  item: people/mrs-dianna-pfeffer
+- 
+  type: relations/work/employer
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/work/employer
+  item: companies/wolff-ltd
+- 
+  type: relations/work/employer
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/debtor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

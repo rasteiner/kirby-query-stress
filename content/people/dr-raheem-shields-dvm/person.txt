@@ -1,0 +1,64 @@
+Title: Dr. Raheem Shields DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dax-stracke
+- 
+  type: relations/parental/colleague
+  item: people/joan-hauck
+- 
+  type: relations/parental/brosis
+  item: people/lavada-bogan
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kathryne-jacobs
+- 
+  type: relations/parental/dad
+  item: people/katrina-sporer
+- 
+  type: relations/parental/brosis
+  item: people/dr-dedric-hilpert
+- 
+  type: relations/work/employer
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

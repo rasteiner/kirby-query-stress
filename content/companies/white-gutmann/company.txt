@@ -1,0 +1,43 @@
+Title: White-Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/west-barrows
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/lennyton
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt

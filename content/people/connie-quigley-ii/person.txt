@@ -1,0 +1,65 @@
+Title: Connie Quigley II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-lindsay-abshire
+- 
+  type: relations/money/creditor
+  item: people/eric-abshire
+- 
+  type: relations/parental/friend
+  item: people/robyn-smitham
+- 
+  type: relations/parental/dad
+  item: people/flo-conroy
+- 
+  type: relations/parental/mom
+  item: people/edwina-cassin
+- 
+  type: relations/parental/friend
+  item: people/mr-casper-kuphal-md
+- 
+  type: relations/work/employer
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/money/debtor
+  item: companies/goodwin-nader
+- 
+  type: relations/work/client
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/employer
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

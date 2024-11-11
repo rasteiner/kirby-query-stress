@@ -1,0 +1,64 @@
+Title: Prof. Halle Bergstrom DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-houston-bechtelar-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-kristina-zemlak
+- 
+  type: relations/money/debtor
+  item: people/santino-cummerata
+- 
+  type: relations/money/creditor
+  item: people/cornell-buckridge
+- 
+  type: relations/money/creditor
+  item: people/sarina-johnson
+- 
+  type: relations/money/debtor
+  item: people/chadrick-reichert
+- 
+  type: relations/work/client
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/work/client
+  item: companies/ebert-inc
+- 
+  type: relations/money/debtor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

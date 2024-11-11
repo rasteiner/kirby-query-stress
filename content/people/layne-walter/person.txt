@@ -1,0 +1,64 @@
+Title: Layne Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-brenna-pouros
+- 
+  type: relations/parental/mom
+  item: people/kyler-murphy-iv
+- 
+  type: relations/parental/dad
+  item: people/dr-olaf-kessler-iii
+- 
+  type: relations/money/creditor
+  item: people/kasandra-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/katherine-carter
+- 
+  type: relations/money/creditor
+  item: people/dayna-mccullough-iii
+- 
+  type: relations/work/employer
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/employer
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Kyla Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/raheem-hettinger
+- 
+  type: relations/parental/dad
+  item: people/ryan-ullrich-ii
+- 
+  type: relations/money/creditor
+  item: people/laila-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/tomasa-mills
+- 
+  type: relations/parental/mom
+  item: people/jennie-feeney
+- 
+  type: relations/parental/dad
+  item: people/dr-tate-kilback
+- 
+  type: relations/money/debtor
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/client
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/employer
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

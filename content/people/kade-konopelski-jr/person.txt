@@ -1,0 +1,64 @@
+Title: Kade Konopelski Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sadye-stiedemann-i
+- 
+  type: relations/parental/mom
+  item: people/maurine-heaney-i
+- 
+  type: relations/money/debtor
+  item: people/kayley-gutmann
+- 
+  type: relations/money/debtor
+  item: people/ian-wuckert
+- 
+  type: relations/parental/colleague
+  item: people/imogene-christiansen
+- 
+  type: relations/money/debtor
+  item: people/dortha-johns
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/work/client
+  item: companies/lehner-howe
+- 
+  type: relations/money/creditor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Prof. Elian McCullough V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-adele-goyette-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-nikolas-konopelski
+- 
+  type: relations/parental/brosis
+  item: people/marcelino-ondricka
+- 
+  type: relations/parental/brosis
+  item: people/josh-ortiz
+- 
+  type: relations/money/debtor
+  item: people/bonnie-o-keefe
+- 
+  type: relations/parental/colleague
+  item: people/hallie-howell
+- 
+  type: relations/money/creditor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/weber-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-bode
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

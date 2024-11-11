@@ -1,0 +1,64 @@
+Title: Mr. Jonas Harvey IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dolly-thiel
+- 
+  type: relations/money/creditor
+  item: people/pearl-oberbrunner
+- 
+  type: relations/money/creditor
+  item: people/armand-keeling
+- 
+  type: relations/parental/brosis
+  item: people/neal-walker
+- 
+  type: relations/money/creditor
+  item: people/malika-boyer
+- 
+  type: relations/parental/mom
+  item: people/prof-camden-dach-jr
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

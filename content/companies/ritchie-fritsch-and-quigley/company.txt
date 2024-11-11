@@ -1,0 +1,43 @@
+Title: Ritchie, Fritsch and Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/creditor
+  item: companies/mayer-conn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ruecker-llc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-llc
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/gutmannville

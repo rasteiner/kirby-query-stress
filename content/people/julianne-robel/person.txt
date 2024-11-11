@@ -1,0 +1,64 @@
+Title: Julianne Robel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/fabian-lowe-v
+- 
+  type: relations/parental/colleague
+  item: people/virginie-tromp-i
+- 
+  type: relations/parental/friend
+  item: people/dr-dustin-bruen
+- 
+  type: relations/parental/colleague
+  item: people/ward-boyer
+- 
+  type: relations/parental/mom
+  item: people/bradford-hansen
+- 
+  type: relations/money/debtor
+  item: people/delia-hirthe
+- 
+  type: relations/money/debtor
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/creditor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

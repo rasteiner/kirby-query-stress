@@ -1,0 +1,64 @@
+Title: Carolyn Herzog DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/micah-stokes
+- 
+  type: relations/parental/mom
+  item: people/laurine-spinka
+- 
+  type: relations/parental/brosis
+  item: people/annetta-swift
+- 
+  type: relations/parental/colleague
+  item: people/billy-king
+- 
+  type: relations/parental/dad
+  item: people/alexandria-smith
+- 
+  type: relations/parental/colleague
+  item: people/miss-ines-mraz
+- 
+  type: relations/work/employer
+  item: companies/towne-llc
+- 
+  type: relations/work/employer
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

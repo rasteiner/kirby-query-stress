@@ -1,0 +1,64 @@
+Title: Junior Keeling Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/broderick-little
+- 
+  type: relations/money/debtor
+  item: people/miguel-harvey
+- 
+  type: relations/money/debtor
+  item: people/prof-johnny-beier
+- 
+  type: relations/parental/colleague
+  item: people/marilou-christiansen-iii
+- 
+  type: relations/parental/mom
+  item: people/deonte-lebsack
+- 
+  type: relations/parental/mom
+  item: people/furman-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/ferry-carter
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/employer
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

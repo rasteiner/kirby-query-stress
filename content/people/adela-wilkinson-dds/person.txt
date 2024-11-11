@@ -1,0 +1,64 @@
+Title: Adela Wilkinson DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jordyn-brakus
+- 
+  type: relations/parental/brosis
+  item: people/alysson-fadel
+- 
+  type: relations/money/creditor
+  item: people/fabian-wehner
+- 
+  type: relations/money/debtor
+  item: people/howell-casper
+- 
+  type: relations/parental/colleague
+  item: people/dr-yasmine-rau
+- 
+  type: relations/parental/colleague
+  item: people/miss-skyla-keebler
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/client
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

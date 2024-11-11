@@ -1,0 +1,64 @@
+Title: Felicia Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-natasha-konopelski
+- 
+  type: relations/parental/dad
+  item: people/dr-rupert-rolfson
+- 
+  type: relations/parental/colleague
+  item: people/prof-maynard-cummerata
+- 
+  type: relations/parental/mom
+  item: people/natalie-bailey
+- 
+  type: relations/parental/brosis
+  item: people/isabel-strosin
+- 
+  type: relations/parental/dad
+  item: people/frieda-o-connell-dvm
+- 
+  type: relations/money/creditor
+  item: companies/roberts-mueller
+- 
+  type: relations/work/employer
+  item: companies/murphy-batz
+- 
+  type: relations/work/employer
+  item: companies/o-connell-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-plc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

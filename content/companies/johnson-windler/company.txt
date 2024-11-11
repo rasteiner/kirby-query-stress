@@ -1,0 +1,43 @@
+Title: Johnson-Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mertz-ltd
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/money/creditor
+  item: companies/kunze-group
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/bahringerport

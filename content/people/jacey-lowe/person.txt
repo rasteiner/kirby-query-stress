@@ -1,0 +1,64 @@
+Title: Jacey Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/randall-block
+- 
+  type: relations/parental/brosis
+  item: people/germaine-mitchell
+- 
+  type: relations/money/creditor
+  item: people/prof-candelario-lakin
+- 
+  type: relations/parental/friend
+  item: people/kirsten-sanford
+- 
+  type: relations/money/debtor
+  item: people/bradly-lind
+- 
+  type: relations/money/creditor
+  item: people/sydnie-feil
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/work/client
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

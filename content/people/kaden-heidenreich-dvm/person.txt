@@ -1,0 +1,64 @@
+Title: Kaden Heidenreich DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/natalie-mueller
+- 
+  type: relations/parental/friend
+  item: people/ms-mafalda-hackett-v
+- 
+  type: relations/parental/mom
+  item: people/myrtie-schultz-phd
+- 
+  type: relations/parental/friend
+  item: people/joaquin-wolf
+- 
+  type: relations/parental/colleague
+  item: people/demetrius-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/johanna-upton
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/client
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

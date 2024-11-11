@@ -1,0 +1,64 @@
+Title: Salvador Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/salvatore-bailey
+- 
+  type: relations/parental/brosis
+  item: people/ryley-schneider
+- 
+  type: relations/parental/dad
+  item: people/hosea-kertzmann
+- 
+  type: relations/money/creditor
+  item: people/thora-beier
+- 
+  type: relations/money/debtor
+  item: people/delta-kihn
+- 
+  type: relations/money/creditor
+  item: people/prof-abdullah-littel-ii
+- 
+  type: relations/money/creditor
+  item: companies/doyle-murphy
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/koss-adams
+- 
+  type: relations/money/creditor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

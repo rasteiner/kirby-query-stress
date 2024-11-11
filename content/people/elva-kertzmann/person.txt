@@ -1,0 +1,64 @@
+Title: Elva Kertzmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lucious-dubuque
+- 
+  type: relations/parental/mom
+  item: people/ms-pat-goldner-v
+- 
+  type: relations/parental/colleague
+  item: people/casey-considine
+- 
+  type: relations/money/debtor
+  item: people/nathen-white
+- 
+  type: relations/money/debtor
+  item: people/velda-strosin
+- 
+  type: relations/money/debtor
+  item: people/danika-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

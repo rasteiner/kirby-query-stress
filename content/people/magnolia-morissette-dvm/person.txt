@@ -1,0 +1,64 @@
+Title: Magnolia Morissette DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/destini-o-conner
+- 
+  type: relations/parental/colleague
+  item: people/miss-alvina-bins-dvm
+- 
+  type: relations/parental/mom
+  item: people/sigmund-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/kenton-grimes-iv
+- 
+  type: relations/money/debtor
+  item: people/nash-smith
+- 
+  type: relations/parental/dad
+  item: people/wilton-powlowski
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

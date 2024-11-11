@@ -1,0 +1,64 @@
+Title: Kavon King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-serenity-davis
+- 
+  type: relations/parental/friend
+  item: people/dr-nat-schaefer-md
+- 
+  type: relations/money/creditor
+  item: people/josiah-stamm
+- 
+  type: relations/parental/brosis
+  item: people/michaela-langosh
+- 
+  type: relations/parental/colleague
+  item: people/petra-mayert
+- 
+  type: relations/money/debtor
+  item: people/mr-ike-doyle
+- 
+  type: relations/work/client
+  item: companies/stokes-bergstrom
+- 
+  type: relations/work/client
+  item: companies/rippin-bode
+- 
+  type: relations/work/employer
+  item: companies/thiel-inc
+- 
+  type: relations/work/employer
+  item: companies/bauch-crist
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

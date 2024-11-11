@@ -1,0 +1,64 @@
+Title: Dr. Mozell Terry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/raphael-jerde
+- 
+  type: relations/parental/dad
+  item: people/jackie-ferry
+- 
+  type: relations/parental/colleague
+  item: people/meggie-brown
+- 
+  type: relations/parental/friend
+  item: people/linwood-ruecker
+- 
+  type: relations/parental/mom
+  item: people/maritza-skiles
+- 
+  type: relations/money/creditor
+  item: people/alysson-wiza
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Eliseo Crona
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-tracy-turcotte
+- 
+  type: relations/parental/dad
+  item: people/khalil-kihn
+- 
+  type: relations/parental/mom
+  item: people/antoinette-senger
+- 
+  type: relations/money/debtor
+  item: people/mr-hassan-bruen-v
+- 
+  type: relations/parental/colleague
+  item: people/shyanne-franecki
+- 
+  type: relations/parental/brosis
+  item: people/mrs-elena-kris-i
+- 
+  type: relations/work/employer
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/money/creditor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

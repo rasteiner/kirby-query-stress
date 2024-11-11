@@ -1,0 +1,64 @@
+Title: Milo Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kailee-hermann
+- 
+  type: relations/money/debtor
+  item: people/jaycee-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/josue-berge-iii
+- 
+  type: relations/parental/brosis
+  item: people/rosalia-braun
+- 
+  type: relations/parental/colleague
+  item: people/prof-llewellyn-heller
+- 
+  type: relations/parental/colleague
+  item: people/aidan-powlowski
+- 
+  type: relations/money/creditor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/client
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/debtor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

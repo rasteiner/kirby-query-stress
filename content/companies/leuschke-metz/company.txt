@@ -1,0 +1,43 @@
+Title: Leuschke-Metz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/money/debtor
+  item: companies/ebert-inc
+- 
+  type: relations/money/debtor
+  item: companies/weber-inc
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/jacobsonview

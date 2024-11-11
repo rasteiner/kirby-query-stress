@@ -1,0 +1,64 @@
+Title: Dr. Laurel Greenholt MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/suzanne-koch-md
+- 
+  type: relations/parental/mom
+  item: people/lazaro-johnston-md
+- 
+  type: relations/parental/mom
+  item: people/abigale-schiller-md
+- 
+  type: relations/parental/dad
+  item: people/rocky-crist
+- 
+  type: relations/parental/dad
+  item: people/dr-earnest-tillman
+- 
+  type: relations/parental/dad
+  item: people/amina-cronin
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/work/employer
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

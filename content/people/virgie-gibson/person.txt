@@ -1,0 +1,64 @@
+Title: Virgie Gibson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/abigale-rolfson
+- 
+  type: relations/parental/dad
+  item: people/alayna-corwin-iv
+- 
+  type: relations/parental/mom
+  item: people/ronny-reinger
+- 
+  type: relations/parental/dad
+  item: people/dr-natalie-quitzon-dds
+- 
+  type: relations/parental/dad
+  item: people/lincoln-predovic-dvm
+- 
+  type: relations/money/debtor
+  item: people/wendell-heathcote
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-carroll-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gulgowski-and-auer
+- 
+  type: relations/money/debtor
+  item: companies/welch-mitchell-and-metz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

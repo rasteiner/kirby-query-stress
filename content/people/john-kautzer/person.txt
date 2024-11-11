@@ -1,0 +1,64 @@
+Title: John Kautzer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-eliseo-feil-iv
+- 
+  type: relations/money/debtor
+  item: people/miss-reva-rutherford-phd
+- 
+  type: relations/parental/colleague
+  item: people/wyman-zulauf-ii
+- 
+  type: relations/parental/friend
+  item: people/patrick-langworth
+- 
+  type: relations/parental/brosis
+  item: people/kristopher-kulas
+- 
+  type: relations/parental/dad
+  item: people/mable-goldner
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/creditor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

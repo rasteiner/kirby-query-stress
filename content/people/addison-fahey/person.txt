@@ -1,0 +1,64 @@
+Title: Addison Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/retha-adams
+- 
+  type: relations/parental/brosis
+  item: people/hobart-dickens
+- 
+  type: relations/money/creditor
+  item: people/shanny-sauer
+- 
+  type: relations/parental/mom
+  item: people/prof-kiel-durgan-ii
+- 
+  type: relations/parental/mom
+  item: people/mr-tyrese-bashirian-dvm
+- 
+  type: relations/parental/colleague
+  item: people/tate-schulist
+- 
+  type: relations/money/creditor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/work/client
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

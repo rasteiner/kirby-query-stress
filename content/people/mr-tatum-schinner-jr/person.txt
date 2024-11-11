@@ -1,0 +1,64 @@
+Title: Mr. Tatum Schinner Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brett-labadie
+- 
+  type: relations/parental/friend
+  item: people/adrianna-schuppe
+- 
+  type: relations/parental/dad
+  item: people/prof-rogelio-hills
+- 
+  type: relations/money/debtor
+  item: people/mabel-balistreri-sr
+- 
+  type: relations/money/creditor
+  item: people/mr-arvel-kerluke
+- 
+  type: relations/parental/dad
+  item: people/mrs-alyce-vandervort-iv
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/employer
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

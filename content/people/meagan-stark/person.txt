@@ -1,0 +1,64 @@
+Title: Meagan Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/major-padberg
+- 
+  type: relations/parental/friend
+  item: people/dr-dario-satterfield-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-zola-ruecker-phd
+- 
+  type: relations/parental/mom
+  item: people/blaze-lebsack
+- 
+  type: relations/parental/dad
+  item: people/vella-schinner-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-unique-abshire-dds
+- 
+  type: relations/work/client
+  item: companies/kunde-and-sons
+- 
+  type: relations/work/employer
+  item: companies/beatty-tremblay
+- 
+  type: relations/work/employer
+  item: companies/simonis-schmitt
+- 
+  type: relations/work/client
+  item: companies/dach-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

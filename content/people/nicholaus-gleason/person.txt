@@ -1,0 +1,65 @@
+Title: Nicholaus Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bertha-vandervort-iv
+- 
+  type: relations/money/debtor
+  item: people/danyka-bosco-sr
+- 
+  type: relations/parental/mom
+  item: people/olga-osinski
+- 
+  type: relations/parental/brosis
+  item: people/mariana-berge-md
+- 
+  type: relations/parental/friend
+  item: people/miss-jeanne-leuschke
+- 
+  type: relations/money/debtor
+  item: people/beatrice-ernser
+- 
+  type: relations/work/employer
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/money/debtor
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

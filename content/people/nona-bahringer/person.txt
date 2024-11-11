@@ -1,0 +1,65 @@
+Title: Nona Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-kattie-cummings-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-bernice-purdy-iii
+- 
+  type: relations/money/debtor
+  item: people/kim-lindgren
+- 
+  type: relations/parental/colleague
+  item: people/jensen-kilback-md
+- 
+  type: relations/parental/dad
+  item: people/gayle-mayert
+- 
+  type: relations/parental/colleague
+  item: people/ms-alyson-herzog
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/employer
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

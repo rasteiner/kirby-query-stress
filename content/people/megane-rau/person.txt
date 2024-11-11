@@ -1,0 +1,64 @@
+Title: Megane Rau
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/holden-lockman
+- 
+  type: relations/money/debtor
+  item: people/braxton-schmeler
+- 
+  type: relations/money/debtor
+  item: people/ashtyn-carroll
+- 
+  type: relations/money/creditor
+  item: people/telly-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/lon-schuster-jr
+- 
+  type: relations/money/debtor
+  item: people/mrs-mabelle-parisian
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

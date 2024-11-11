@@ -1,0 +1,64 @@
+Title: Dr. Sylvester Douglas Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dwight-torphy-dds
+- 
+  type: relations/parental/dad
+  item: people/ciara-haag
+- 
+  type: relations/parental/friend
+  item: people/loyal-bednar
+- 
+  type: relations/parental/friend
+  item: people/prof-shaylee-strosin
+- 
+  type: relations/parental/brosis
+  item: people/montana-zieme
+- 
+  type: relations/money/creditor
+  item: people/hank-satterfield
+- 
+  type: relations/work/employer
+  item: companies/raynor-schinner
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

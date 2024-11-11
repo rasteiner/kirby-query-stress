@@ -1,0 +1,65 @@
+Title: Clyde Gislason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kristin-hansen
+- 
+  type: relations/parental/mom
+  item: people/prof-lexie-littel-dvm
+- 
+  type: relations/parental/dad
+  item: people/kayla-block
+- 
+  type: relations/money/debtor
+  item: people/dr-macey-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/ms-lina-vonrueden-v
+- 
+  type: relations/parental/colleague
+  item: people/monique-kilback
+- 
+  type: relations/work/client
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/employer
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

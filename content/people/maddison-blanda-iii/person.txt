@@ -1,0 +1,64 @@
+Title: Maddison Blanda III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/haylie-lehner
+- 
+  type: relations/parental/dad
+  item: people/mrs-antonina-funk-dds
+- 
+  type: relations/money/creditor
+  item: people/dejuan-mitchell
+- 
+  type: relations/money/creditor
+  item: people/richmond-price
+- 
+  type: relations/parental/friend
+  item: people/prof-leonor-kertzmann-phd
+- 
+  type: relations/parental/colleague
+  item: people/kiera-hilll
+- 
+  type: relations/money/debtor
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/client
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/willms-group
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

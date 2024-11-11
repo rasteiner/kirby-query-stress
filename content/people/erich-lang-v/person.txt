@@ -1,0 +1,64 @@
+Title: Erich Lang V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/devante-weber-ii
+- 
+  type: relations/parental/dad
+  item: people/nikolas-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/miss-electa-rohan-ii
+- 
+  type: relations/money/debtor
+  item: people/leonardo-haag
+- 
+  type: relations/parental/mom
+  item: people/dr-macey-reichert-sr
+- 
+  type: relations/parental/brosis
+  item: people/miss-hermina-hauck-v
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/money/debtor
+  item: companies/brown-group
+- 
+  type: relations/work/employer
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

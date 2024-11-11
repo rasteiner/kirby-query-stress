@@ -1,0 +1,64 @@
+Title: Mrs. Cecilia Hickle PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-vincenza-bosco-i
+- 
+  type: relations/parental/brosis
+  item: people/jocelyn-kohler
+- 
+  type: relations/parental/mom
+  item: people/eda-kovacek
+- 
+  type: relations/parental/dad
+  item: people/clare-leuschke
+- 
+  type: relations/parental/mom
+  item: people/triston-muller
+- 
+  type: relations/parental/mom
+  item: people/prof-urban-conn-v
+- 
+  type: relations/work/employer
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/client
+  item: companies/koss-group
+- 
+  type: relations/work/client
+  item: companies/veum-and-sons
+- 
+  type: relations/work/client
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

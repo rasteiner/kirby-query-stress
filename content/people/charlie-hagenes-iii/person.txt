@@ -1,0 +1,64 @@
+Title: Charlie Hagenes III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/gianni-skiles
+- 
+  type: relations/parental/mom
+  item: people/mrs-mable-orn-iii
+- 
+  type: relations/parental/colleague
+  item: people/destiney-bernhard
+- 
+  type: relations/money/debtor
+  item: people/thora-hermiston-i
+- 
+  type: relations/money/debtor
+  item: people/arturo-stark
+- 
+  type: relations/money/debtor
+  item: people/ms-letitia-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/employer
+  item: companies/becker-ltd
+- 
+  type: relations/work/employer
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

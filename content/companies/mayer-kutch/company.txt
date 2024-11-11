@@ -1,0 +1,43 @@
+Title: Mayer-Kutch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/leffler-stroman
+- 
+  type: relations/money/debtor
+  item: companies/beatty-tremblay
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/creditor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth

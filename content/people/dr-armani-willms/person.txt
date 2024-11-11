@@ -1,0 +1,64 @@
+Title: Dr. Armani Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elton-mante
+- 
+  type: relations/parental/colleague
+  item: people/hilbert-ullrich
+- 
+  type: relations/money/creditor
+  item: people/coralie-feil
+- 
+  type: relations/parental/friend
+  item: people/anais-jakubowski
+- 
+  type: relations/parental/friend
+  item: people/leslie-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/theron-heller
+- 
+  type: relations/work/employer
+  item: companies/o-kon-plc
+- 
+  type: relations/money/creditor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

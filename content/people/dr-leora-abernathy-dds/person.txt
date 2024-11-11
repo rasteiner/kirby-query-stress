@@ -1,0 +1,64 @@
+Title: Dr. Leora Abernathy DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kraig-corkery-ii
+- 
+  type: relations/money/debtor
+  item: people/trystan-towne
+- 
+  type: relations/money/creditor
+  item: people/guy-carroll
+- 
+  type: relations/money/creditor
+  item: people/dr-alicia-mcclure-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-aaron-stokes-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-cornelius-schaden
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/employer
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

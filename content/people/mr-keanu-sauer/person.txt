@@ -1,0 +1,64 @@
+Title: Mr. Keanu Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/adam-klocko
+- 
+  type: relations/parental/mom
+  item: people/pauline-pfannerstill
+- 
+  type: relations/parental/dad
+  item: people/dr-kadin-lesch-sr
+- 
+  type: relations/parental/colleague
+  item: people/bryon-langworth
+- 
+  type: relations/parental/colleague
+  item: people/mr-d-angelo-padberg
+- 
+  type: relations/parental/dad
+  item: people/miss-myrna-berge
+- 
+  type: relations/money/debtor
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

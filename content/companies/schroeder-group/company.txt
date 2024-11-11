@@ -1,0 +1,44 @@
+Title: Schroeder Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/creditor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/hintz-group
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/brayanmouth
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven

@@ -1,0 +1,65 @@
+Title: Eva Kuhic II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elvera-fadel
+- 
+  type: relations/money/debtor
+  item: people/avis-glover
+- 
+  type: relations/parental/dad
+  item: people/miss-frida-effertz-iii
+- 
+  type: relations/money/debtor
+  item: people/lucas-johnson
+- 
+  type: relations/parental/brosis
+  item: people/hardy-littel
+- 
+  type: relations/money/creditor
+  item: people/mattie-anderson-iii
+- 
+  type: relations/money/creditor
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/client
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

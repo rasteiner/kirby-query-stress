@@ -1,0 +1,64 @@
+Title: Mr. Kristian Greenfelder DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-carlee-padberg-jr
+- 
+  type: relations/money/debtor
+  item: people/ms-astrid-west
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ida-kozey
+- 
+  type: relations/parental/friend
+  item: people/annabel-turcotte
+- 
+  type: relations/parental/friend
+  item: people/prof-raul-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/wayne-green
+- 
+  type: relations/money/debtor
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mann-gutmann
+- 
+  type: relations/work/employer
+  item: companies/thiel-group
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

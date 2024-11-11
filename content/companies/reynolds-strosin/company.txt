@@ -1,0 +1,43 @@
+Title: Reynolds-Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/money/debtor
+  item: companies/crona-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-inc
+- 
+  type: relations/money/creditor
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/location/visited
+  item: places/brayanmouth
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport

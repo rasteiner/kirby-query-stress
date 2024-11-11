@@ -1,0 +1,43 @@
+Title: Abbott, Walter and Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-davis
+- 
+  type: relations/money/debtor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/money/debtor
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/money/creditor
+  item: companies/schmeler-conn
+- 
+  type: relations/location/visited
+  item: places/new-carmela
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt

@@ -1,0 +1,64 @@
+Title: Mr. Saige Weimann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/deja-huel
+- 
+  type: relations/parental/colleague
+  item: people/hailey-mohr
+- 
+  type: relations/parental/dad
+  item: people/lelia-swaniawski
+- 
+  type: relations/money/debtor
+  item: people/rachelle-schamberger-md
+- 
+  type: relations/money/debtor
+  item: people/rahul-heathcote-iii
+- 
+  type: relations/money/creditor
+  item: people/britney-gusikowski-i
+- 
+  type: relations/money/debtor
+  item: companies/carter-inc
+- 
+  type: relations/work/employer
+  item: companies/wuckert-bauch
+- 
+  type: relations/work/employer
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

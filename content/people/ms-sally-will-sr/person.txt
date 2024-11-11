@@ -1,0 +1,64 @@
+Title: Ms. Sally Will Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nyasia-quigley
+- 
+  type: relations/parental/mom
+  item: people/prof-edgar-bogisich
+- 
+  type: relations/parental/colleague
+  item: people/dr-bobby-leuschke-dvm
+- 
+  type: relations/parental/colleague
+  item: people/tomas-kuhic-sr
+- 
+  type: relations/parental/colleague
+  item: people/eugenia-wiegand
+- 
+  type: relations/parental/friend
+  item: people/prof-coby-reynolds-ii
+- 
+  type: relations/work/client
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/client
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

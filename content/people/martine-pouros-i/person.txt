@@ -1,0 +1,64 @@
+Title: Martine Pouros I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/damian-herman
+- 
+  type: relations/money/debtor
+  item: people/ms-kaelyn-kutch-dds
+- 
+  type: relations/parental/dad
+  item: people/rosendo-mertz
+- 
+  type: relations/parental/friend
+  item: people/rhiannon-schoen
+- 
+  type: relations/money/creditor
+  item: people/mrs-deja-marks-ii
+- 
+  type: relations/money/debtor
+  item: people/heber-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Whitney Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-edmund-heaney
+- 
+  type: relations/parental/brosis
+  item: people/jonas-lesch
+- 
+  type: relations/money/creditor
+  item: people/jared-mosciski-jr
+- 
+  type: relations/money/debtor
+  item: people/mr-sydney-marks
+- 
+  type: relations/money/debtor
+  item: people/name-roberts
+- 
+  type: relations/money/debtor
+  item: people/adrienne-hills
+- 
+  type: relations/work/employer
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/client
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

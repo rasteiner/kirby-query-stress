@@ -1,0 +1,65 @@
+Title: Ali Hermiston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/amanda-harris
+- 
+  type: relations/parental/dad
+  item: people/lura-lesch
+- 
+  type: relations/money/creditor
+  item: people/dortha-wintheiser-sr
+- 
+  type: relations/parental/mom
+  item: people/miss-queen-smith
+- 
+  type: relations/parental/colleague
+  item: people/eileen-doyle
+- 
+  type: relations/parental/mom
+  item: people/alvina-hettinger-i
+- 
+  type: relations/work/employer
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/money/creditor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/work/client
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

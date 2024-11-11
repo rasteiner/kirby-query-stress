@@ -1,0 +1,64 @@
+Title: Unique Rempel IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rigoberto-watsica-iv
+- 
+  type: relations/money/debtor
+  item: people/lucienne-hermann
+- 
+  type: relations/parental/brosis
+  item: people/dr-garnet-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/ferne-nicolas
+- 
+  type: relations/money/debtor
+  item: people/dr-keely-ondricka-dds
+- 
+  type: relations/money/debtor
+  item: people/jacquelyn-bahringer
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

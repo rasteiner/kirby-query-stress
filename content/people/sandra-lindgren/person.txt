@@ -1,0 +1,64 @@
+Title: Sandra Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/amelia-stamm-phd
+- 
+  type: relations/parental/brosis
+  item: people/zita-blick
+- 
+  type: relations/parental/friend
+  item: people/cali-quigley
+- 
+  type: relations/parental/dad
+  item: people/mr-zakary-prosacco
+- 
+  type: relations/parental/friend
+  item: people/fannie-hoppe
+- 
+  type: relations/parental/brosis
+  item: people/matilda-friesen
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

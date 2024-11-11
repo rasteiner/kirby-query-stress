@@ -1,0 +1,64 @@
+Title: Cameron McClure
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/emanuel-ebert
+- 
+  type: relations/parental/dad
+  item: people/kylie-bernier
+- 
+  type: relations/parental/mom
+  item: people/ms-sandrine-mosciski-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-dorcas-shields
+- 
+  type: relations/parental/friend
+  item: people/miss-leila-hane-iv
+- 
+  type: relations/parental/colleague
+  item: people/ana-smitham
+- 
+  type: relations/work/client
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

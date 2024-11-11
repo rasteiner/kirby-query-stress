@@ -1,0 +1,43 @@
+Title: Gibson-Lynch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/debtor
+  item: companies/nolan-inc
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/odellborough

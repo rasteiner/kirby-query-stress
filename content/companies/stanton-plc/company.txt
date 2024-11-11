@@ -1,0 +1,43 @@
+Title: Stanton PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/stanton-metz
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-ltd
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/money/creditor
+  item: companies/schaden-prohaska
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/shaneton

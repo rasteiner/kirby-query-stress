@@ -1,0 +1,64 @@
+Title: Chandler Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-raquel-blanda
+- 
+  type: relations/money/creditor
+  item: people/dave-cronin
+- 
+  type: relations/money/debtor
+  item: people/donna-walter
+- 
+  type: relations/money/debtor
+  item: people/reagan-gorczany
+- 
+  type: relations/parental/friend
+  item: people/sedrick-d-amore-md
+- 
+  type: relations/money/debtor
+  item: people/dr-enid-hodkiewicz-jr
+- 
+  type: relations/work/client
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/creditor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/money/debtor
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,44 @@
+Title: Goyette-Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-jast
+- 
+  type: relations/money/creditor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/skiles-lang
+- 
+  type: relations/money/creditor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim

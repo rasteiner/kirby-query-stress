@@ -1,0 +1,64 @@
+Title: Sincere Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-shakira-bradtke-i
+- 
+  type: relations/parental/mom
+  item: people/mr-ezekiel-hodkiewicz-md
+- 
+  type: relations/parental/colleague
+  item: people/cicero-boyle
+- 
+  type: relations/parental/dad
+  item: people/garett-wiegand-md
+- 
+  type: relations/parental/brosis
+  item: people/mrs-birdie-wunsch-dvm
+- 
+  type: relations/parental/dad
+  item: people/darrel-towne-dvm
+- 
+  type: relations/money/creditor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

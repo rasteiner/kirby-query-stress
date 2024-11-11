@@ -1,0 +1,64 @@
+Title: Dr. Zachariah Lesch Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-kiana-ernser-iii
+- 
+  type: relations/money/creditor
+  item: people/rhianna-lueilwitz
+- 
+  type: relations/parental/friend
+  item: people/kylee-runte
+- 
+  type: relations/parental/mom
+  item: people/hanna-wiza
+- 
+  type: relations/money/creditor
+  item: people/velma-collier-dvm
+- 
+  type: relations/parental/brosis
+  item: people/nathen-ortiz-iv
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Jude Kreiger V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-milan-hickle
+- 
+  type: relations/parental/colleague
+  item: people/haylie-muller
+- 
+  type: relations/parental/colleague
+  item: people/miss-victoria-aufderhar
+- 
+  type: relations/parental/colleague
+  item: people/jamie-johnson
+- 
+  type: relations/parental/dad
+  item: people/prof-antonia-jaskolski
+- 
+  type: relations/parental/brosis
+  item: people/miss-aryanna-breitenberg
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/money/creditor
+  item: companies/conn-inc
+- 
+  type: relations/money/debtor
+  item: companies/schneider-leannon
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Carolyne Hilll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maurine-gusikowski
+- 
+  type: relations/money/creditor
+  item: people/aurelio-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/prof-lacey-dickens
+- 
+  type: relations/parental/brosis
+  item: people/katelynn-schowalter
+- 
+  type: relations/parental/brosis
+  item: people/lorenza-larson
+- 
+  type: relations/money/debtor
+  item: people/della-rogahn-jr
+- 
+  type: relations/money/debtor
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

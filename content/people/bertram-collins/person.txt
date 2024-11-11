@@ -1,0 +1,64 @@
+Title: Bertram Collins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lyda-walter
+- 
+  type: relations/money/creditor
+  item: people/nicola-walsh
+- 
+  type: relations/money/debtor
+  item: people/dr-raquel-blanda
+- 
+  type: relations/parental/brosis
+  item: people/dave-cronin
+- 
+  type: relations/parental/mom
+  item: people/donna-walter
+- 
+  type: relations/parental/brosis
+  item: people/reagan-gorczany
+- 
+  type: relations/work/employer
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/client
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/client
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

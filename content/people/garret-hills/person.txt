@@ -1,0 +1,64 @@
+Title: Garret Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/alejandra-muller
+- 
+  type: relations/parental/friend
+  item: people/ms-gina-hirthe
+- 
+  type: relations/parental/friend
+  item: people/dr-alejandra-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/serena-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/tatyana-windler
+- 
+  type: relations/parental/friend
+  item: people/alberta-braun
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

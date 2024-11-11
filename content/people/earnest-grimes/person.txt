@@ -1,0 +1,64 @@
+Title: Earnest Grimes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/otis-marvin
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lucinda-hoeger
+- 
+  type: relations/parental/friend
+  item: people/bernard-ebert
+- 
+  type: relations/parental/mom
+  item: people/mary-kuhn-dvm
+- 
+  type: relations/parental/mom
+  item: people/amparo-mayer
+- 
+  type: relations/parental/colleague
+  item: people/dr-jeffry-goldner-iv
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/employer
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

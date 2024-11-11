@@ -1,0 +1,65 @@
+Title: Caleb Hoppe DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-rebeca-christiansen
+- 
+  type: relations/parental/colleague
+  item: people/osvaldo-kertzmann-jr
+- 
+  type: relations/money/creditor
+  item: people/mrs-edyth-brekke-i
+- 
+  type: relations/money/debtor
+  item: people/emmitt-barrows
+- 
+  type: relations/parental/colleague
+  item: people/nadia-goodwin
+- 
+  type: relations/money/creditor
+  item: people/mr-rex-mante
+- 
+  type: relations/work/employer
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/employer
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

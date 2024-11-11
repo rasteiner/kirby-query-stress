@@ -1,0 +1,64 @@
+Title: Janick Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/abdiel-welch
+- 
+  type: relations/parental/friend
+  item: people/emmanuelle-runolfsdottir-dds
+- 
+  type: relations/parental/friend
+  item: people/neal-labadie
+- 
+  type: relations/parental/brosis
+  item: people/noemi-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/lina-davis
+- 
+  type: relations/money/debtor
+  item: people/mohamed-morar
+- 
+  type: relations/work/employer
+  item: companies/williamson-willms
+- 
+  type: relations/money/debtor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/work/client
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/work/client
+  item: companies/schimmel-lehner
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

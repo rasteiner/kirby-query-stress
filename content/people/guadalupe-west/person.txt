@@ -1,0 +1,64 @@
+Title: Guadalupe West
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/claudia-daugherty
+- 
+  type: relations/money/creditor
+  item: people/chanelle-schuppe
+- 
+  type: relations/parental/dad
+  item: people/corene-thompson
+- 
+  type: relations/parental/dad
+  item: people/golda-sauer-iii
+- 
+  type: relations/parental/colleague
+  item: people/mariam-hayes
+- 
+  type: relations/parental/colleague
+  item: people/kaylah-wisozk-dds
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

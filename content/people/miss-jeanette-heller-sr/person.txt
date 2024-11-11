@@ -1,0 +1,64 @@
+Title: Miss Jeanette Heller Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/willie-baumbach
+- 
+  type: relations/parental/mom
+  item: people/melany-sauer
+- 
+  type: relations/money/debtor
+  item: people/vincenza-fritsch-md
+- 
+  type: relations/money/creditor
+  item: people/jerome-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/trisha-little
+- 
+  type: relations/money/debtor
+  item: people/keith-streich
+- 
+  type: relations/money/debtor
+  item: companies/towne-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Lelah Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-marisol-williamson-ii
+- 
+  type: relations/parental/mom
+  item: people/nelda-adams-sr
+- 
+  type: relations/money/debtor
+  item: people/dr-turner-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/felicity-huels
+- 
+  type: relations/parental/dad
+  item: people/keagan-gutkowski
+- 
+  type: relations/parental/dad
+  item: people/arvilla-treutel
+- 
+  type: relations/work/client
+  item: companies/abbott-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/money/debtor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

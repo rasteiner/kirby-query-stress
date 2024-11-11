@@ -1,0 +1,64 @@
+Title: Dr. Alicia McClure DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cicero-boyle
+- 
+  type: relations/parental/mom
+  item: people/garett-wiegand-md
+- 
+  type: relations/parental/colleague
+  item: people/mrs-birdie-wunsch-dvm
+- 
+  type: relations/parental/mom
+  item: people/darrel-towne-dvm
+- 
+  type: relations/parental/dad
+  item: people/timmy-kuphal
+- 
+  type: relations/parental/mom
+  item: people/prof-alaina-quigley-iii
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/work/client
+  item: companies/wiza-llc
+- 
+  type: relations/money/creditor
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

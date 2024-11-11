@@ -1,0 +1,64 @@
+Title: Sofia Rohan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/christiana-kuhic
+- 
+  type: relations/money/debtor
+  item: people/turner-casper
+- 
+  type: relations/parental/dad
+  item: people/elnora-schulist-iv
+- 
+  type: relations/parental/colleague
+  item: people/dasia-jenkins
+- 
+  type: relations/money/debtor
+  item: people/blake-walsh
+- 
+  type: relations/parental/colleague
+  item: people/maynard-koelpin
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/money/debtor
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

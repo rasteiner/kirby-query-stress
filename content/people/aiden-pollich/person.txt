@@ -1,0 +1,64 @@
+Title: Aiden Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/cruz-legros
+- 
+  type: relations/parental/brosis
+  item: people/prof-conner-gorczany
+- 
+  type: relations/parental/mom
+  item: people/prof-gaylord-beatty-dds
+- 
+  type: relations/parental/mom
+  item: people/odie-nitzsche
+- 
+  type: relations/parental/colleague
+  item: people/lindsey-ebert-ii
+- 
+  type: relations/money/creditor
+  item: people/krista-hayes
+- 
+  type: relations/work/employer
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/money/creditor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

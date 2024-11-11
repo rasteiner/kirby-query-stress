@@ -1,0 +1,43 @@
+Title: Toy, Moen and Jacobs
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/creditor
+  item: companies/hansen-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/money/creditor
+  item: companies/waters-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh

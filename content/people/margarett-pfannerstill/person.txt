@@ -1,0 +1,64 @@
+Title: Margarett Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-lulu-o-connell
+- 
+  type: relations/money/creditor
+  item: people/maida-little
+- 
+  type: relations/parental/brosis
+  item: people/zaria-jenkins
+- 
+  type: relations/parental/friend
+  item: people/prof-albin-lemke
+- 
+  type: relations/parental/friend
+  item: people/rosamond-blick-iii
+- 
+  type: relations/parental/friend
+  item: people/cesar-ledner
+- 
+  type: relations/work/client
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/employer
+  item: companies/fadel-ltd
+- 
+  type: relations/money/debtor
+  item: companies/homenick-weber
+- 
+  type: relations/work/client
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

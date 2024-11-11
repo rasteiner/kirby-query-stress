@@ -1,0 +1,64 @@
+Title: Prof. Tyshawn Lynch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/berta-cole
+- 
+  type: relations/parental/brosis
+  item: people/claudie-zieme
+- 
+  type: relations/parental/brosis
+  item: people/rahsaan-fay
+- 
+  type: relations/money/debtor
+  item: people/chasity-bayer-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-geovany-bode
+- 
+  type: relations/money/debtor
+  item: people/lavinia-padberg
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/work/employer
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

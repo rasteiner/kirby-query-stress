@@ -1,0 +1,43 @@
+Title: Rempel Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/mayer-conn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-llc
+- 
+  type: relations/money/debtor
+  item: companies/sporer-llc
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort

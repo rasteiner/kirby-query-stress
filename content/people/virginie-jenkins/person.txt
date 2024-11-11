@@ -1,0 +1,64 @@
+Title: Virginie Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/trevion-windler
+- 
+  type: relations/parental/mom
+  item: people/estefania-moore
+- 
+  type: relations/parental/brosis
+  item: people/autumn-kutch
+- 
+  type: relations/money/debtor
+  item: people/jake-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/prof-cleveland-ullrich-i
+- 
+  type: relations/money/debtor
+  item: people/cristian-blick
+- 
+  type: relations/work/employer
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

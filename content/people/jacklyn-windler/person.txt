@@ -1,0 +1,64 @@
+Title: Jacklyn Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/olin-ernser-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-angeline-brakus
+- 
+  type: relations/money/debtor
+  item: people/prof-cyril-ullrich-dvm
+- 
+  type: relations/parental/brosis
+  item: people/calista-lynch
+- 
+  type: relations/parental/mom
+  item: people/ms-cassidy-graham-sr
+- 
+  type: relations/parental/brosis
+  item: people/chloe-wolf
+- 
+  type: relations/work/client
+  item: companies/hartmann-dooley
+- 
+  type: relations/work/employer
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

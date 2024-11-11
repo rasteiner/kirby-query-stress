@@ -1,0 +1,64 @@
+Title: Laurine Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/orie-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/brando-wolff
+- 
+  type: relations/parental/brosis
+  item: people/jaleel-streich
+- 
+  type: relations/parental/mom
+  item: people/reanna-hettinger
+- 
+  type: relations/parental/friend
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/parental/colleague
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/work/employer
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/client
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

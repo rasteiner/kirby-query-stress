@@ -1,0 +1,64 @@
+Title: Joanie Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jewel-boehm-iii
+- 
+  type: relations/money/debtor
+  item: people/heather-vandervort-iv
+- 
+  type: relations/money/creditor
+  item: people/melvin-doyle
+- 
+  type: relations/parental/friend
+  item: people/annabell-bernhard-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-aurelio-stoltenberg-md
+- 
+  type: relations/parental/colleague
+  item: people/adela-cormier
+- 
+  type: relations/work/employer
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/client
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

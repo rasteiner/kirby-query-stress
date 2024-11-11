@@ -1,0 +1,43 @@
+Title: Carter Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kunze-ltd
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-inc
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-adams
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt

@@ -1,0 +1,64 @@
+Title: Mr. Dale Erdman IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-rudolph-beer-ii
+- 
+  type: relations/money/creditor
+  item: people/ibrahim-heaney-i
+- 
+  type: relations/parental/brosis
+  item: people/jo-hansen
+- 
+  type: relations/parental/dad
+  item: people/cassidy-yundt
+- 
+  type: relations/parental/dad
+  item: people/prof-antonina-swift
+- 
+  type: relations/parental/friend
+  item: people/deron-kirlin
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Jaida Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-branson-kub
+- 
+  type: relations/parental/brosis
+  item: people/arvel-doyle
+- 
+  type: relations/parental/friend
+  item: people/dr-gwendolyn-larkin-jr
+- 
+  type: relations/parental/colleague
+  item: people/melany-kunze
+- 
+  type: relations/money/creditor
+  item: people/carol-kris
+- 
+  type: relations/money/creditor
+  item: people/ms-ivah-carter
+- 
+  type: relations/money/debtor
+  item: companies/hamill-herzog
+- 
+  type: relations/work/client
+  item: companies/kub-plc
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/employer
+  item: companies/abshire-group
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

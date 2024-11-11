@@ -1,0 +1,64 @@
+Title: Prof. Ariel Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-dakota-waters
+- 
+  type: relations/parental/brosis
+  item: people/rogers-o-keefe
+- 
+  type: relations/parental/brosis
+  item: people/miss-kellie-thiel
+- 
+  type: relations/parental/friend
+  item: people/treva-rogahn
+- 
+  type: relations/money/creditor
+  item: people/filiberto-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/josianne-bernhard
+- 
+  type: relations/work/client
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/work/employer
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

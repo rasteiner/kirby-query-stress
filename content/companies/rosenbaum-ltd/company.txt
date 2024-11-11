@@ -1,0 +1,43 @@
+Title: Rosenbaum Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/money/debtor
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/creditor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/spencer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/bahringerport

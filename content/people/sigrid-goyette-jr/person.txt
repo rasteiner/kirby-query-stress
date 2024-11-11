@@ -1,0 +1,64 @@
+Title: Sigrid Goyette Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alessandro-reynolds
+- 
+  type: relations/parental/colleague
+  item: people/walton-frami
+- 
+  type: relations/parental/brosis
+  item: people/brandt-jacobs
+- 
+  type: relations/parental/friend
+  item: people/prof-clotilde-kunde
+- 
+  type: relations/parental/brosis
+  item: people/flossie-beatty
+- 
+  type: relations/parental/friend
+  item: people/prof-valentine-hilpert
+- 
+  type: relations/work/employer
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-group
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Bonnie O'Keefe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/anne-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/parental/mom
+  item: people/prof-augustus-rath
+- 
+  type: relations/parental/friend
+  item: people/dr-roman-legros-iii
+- 
+  type: relations/money/creditor
+  item: people/will-klein
+- 
+  type: relations/parental/mom
+  item: people/colleen-rowe-sr
+- 
+  type: relations/work/client
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/client
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/work/employer
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

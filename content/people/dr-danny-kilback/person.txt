@@ -1,0 +1,64 @@
+Title: Dr. Danny Kilback
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/edna-borer
+- 
+  type: relations/money/creditor
+  item: people/elissa-marvin
+- 
+  type: relations/parental/dad
+  item: people/ms-idella-rippin-iii
+- 
+  type: relations/parental/friend
+  item: people/gerhard-hauck
+- 
+  type: relations/money/debtor
+  item: people/willie-baumbach
+- 
+  type: relations/parental/friend
+  item: people/melany-sauer
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/work/client
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/parker-pagac
+- 
+  type: relations/money/debtor
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

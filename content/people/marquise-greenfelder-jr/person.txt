@@ -1,0 +1,64 @@
+Title: Marquise Greenfelder Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alexane-rippin
+- 
+  type: relations/money/debtor
+  item: people/libbie-feest
+- 
+  type: relations/parental/brosis
+  item: people/armani-lockman
+- 
+  type: relations/parental/mom
+  item: people/jimmie-gerhold
+- 
+  type: relations/money/debtor
+  item: people/halie-reichert
+- 
+  type: relations/parental/friend
+  item: people/oswald-cassin
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/employer
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

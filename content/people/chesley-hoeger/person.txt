@@ -1,0 +1,65 @@
+Title: Chesley Hoeger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jedediah-stokes
+- 
+  type: relations/money/debtor
+  item: people/prof-rupert-mohr-md
+- 
+  type: relations/parental/brosis
+  item: people/dr-cullen-abbott
+- 
+  type: relations/parental/brosis
+  item: people/ezequiel-kozey
+- 
+  type: relations/parental/dad
+  item: people/mrs-jada-tremblay-jr
+- 
+  type: relations/parental/colleague
+  item: people/shea-beahan-phd
+- 
+  type: relations/money/debtor
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/employer
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Rashad Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-abigayle-zieme-v
+- 
+  type: relations/parental/friend
+  item: people/nona-bahringer
+- 
+  type: relations/parental/friend
+  item: people/lillian-bailey
+- 
+  type: relations/money/debtor
+  item: people/queenie-klocko
+- 
+  type: relations/parental/friend
+  item: people/jeff-shanahan
+- 
+  type: relations/parental/brosis
+  item: people/romaine-rath
+- 
+  type: relations/work/client
+  item: companies/rodriguez-roob
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/debtor
+  item: companies/douglas-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

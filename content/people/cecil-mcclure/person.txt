@@ -1,0 +1,64 @@
+Title: Cecil McClure
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/alverta-heathcote-iii
+- 
+  type: relations/parental/mom
+  item: people/ali-monahan
+- 
+  type: relations/money/debtor
+  item: people/simone-glover
+- 
+  type: relations/parental/colleague
+  item: people/dr-richmond-kutch
+- 
+  type: relations/money/debtor
+  item: people/maximillia-beier
+- 
+  type: relations/money/debtor
+  item: people/murphy-medhurst-phd
+- 
+  type: relations/work/client
+  item: companies/stanton-bailey
+- 
+  type: relations/money/debtor
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/client
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/client
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

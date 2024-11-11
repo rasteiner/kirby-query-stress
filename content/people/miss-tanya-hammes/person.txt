@@ -1,0 +1,64 @@
+Title: Miss Tanya Hammes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/doug-ledner
+- 
+  type: relations/money/debtor
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/parental/colleague
+  item: people/garrett-kshlerin
+- 
+  type: relations/parental/friend
+  item: people/violet-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/dr-savanah-zieme-i
+- 
+  type: relations/parental/colleague
+  item: people/mr-tobin-ebert
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/client
+  item: companies/gibson-inc
+- 
+  type: relations/money/debtor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,43 @@
+Title: Ziemann, Haley and Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury

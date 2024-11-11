@@ -1,0 +1,66 @@
+Title: Jedediah Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-leonor-kertzmann-phd
+- 
+  type: relations/parental/brosis
+  item: people/kiera-hilll
+- 
+  type: relations/parental/dad
+  item: people/idella-trantow
+- 
+  type: relations/parental/brosis
+  item: people/julianne-robel
+- 
+  type: relations/parental/friend
+  item: people/ceasar-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/cassie-dickens-dvm
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

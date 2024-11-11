@@ -1,0 +1,64 @@
+Title: Gennaro King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/arvel-rosenbaum
+- 
+  type: relations/parental/mom
+  item: people/anjali-lind
+- 
+  type: relations/parental/friend
+  item: people/ms-krystina-gibson-dds
+- 
+  type: relations/parental/mom
+  item: people/adolf-cassin
+- 
+  type: relations/parental/dad
+  item: people/miss-pink-hills
+- 
+  type: relations/money/creditor
+  item: people/devante-smitham-md
+- 
+  type: relations/work/employer
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/employer
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

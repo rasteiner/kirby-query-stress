@@ -1,0 +1,64 @@
+Title: Patience Cremin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/adaline-schoen
+- 
+  type: relations/parental/brosis
+  item: people/nikki-kutch
+- 
+  type: relations/money/creditor
+  item: people/karelle-price-md
+- 
+  type: relations/parental/friend
+  item: people/lexus-shields
+- 
+  type: relations/money/debtor
+  item: people/amy-gutmann
+- 
+  type: relations/money/creditor
+  item: people/edwin-mitchell
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

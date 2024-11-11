@@ -1,0 +1,43 @@
+Title: Metz and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/money/debtor
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/creditor
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/leschfort

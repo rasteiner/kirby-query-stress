@@ -1,0 +1,64 @@
+Title: Flossie Beatty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/rahsaan-fay
+- 
+  type: relations/parental/colleague
+  item: people/chasity-bayer-phd
+- 
+  type: relations/parental/mom
+  item: people/mr-geovany-bode
+- 
+  type: relations/parental/mom
+  item: people/lavinia-padberg
+- 
+  type: relations/money/debtor
+  item: people/nolan-welch
+- 
+  type: relations/money/creditor
+  item: people/mr-santino-schowalter
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/debtor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/employer
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

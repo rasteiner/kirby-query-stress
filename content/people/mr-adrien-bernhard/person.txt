@@ -1,0 +1,64 @@
+Title: Mr. Adrien Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/derek-sanford-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-mckenna-terry-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-solon-wisozk
+- 
+  type: relations/parental/friend
+  item: people/tierra-beatty
+- 
+  type: relations/money/debtor
+  item: people/khalil-ledner
+- 
+  type: relations/money/creditor
+  item: people/jordyn-abbott
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/money/creditor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

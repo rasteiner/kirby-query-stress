@@ -1,0 +1,64 @@
+Title: Dr. Jarred Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-dock-ruecker
+- 
+  type: relations/money/creditor
+  item: people/vesta-walsh-dds
+- 
+  type: relations/parental/colleague
+  item: people/cordia-hermiston
+- 
+  type: relations/parental/colleague
+  item: people/dr-joey-hackett
+- 
+  type: relations/parental/friend
+  item: people/prof-garnet-hartmann
+- 
+  type: relations/parental/dad
+  item: people/mckayla-bode
+- 
+  type: relations/money/debtor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/employer
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

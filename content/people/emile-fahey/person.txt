@@ -1,0 +1,64 @@
+Title: Emile Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-vance-blanda
+- 
+  type: relations/parental/dad
+  item: people/abbie-hackett
+- 
+  type: relations/parental/colleague
+  item: people/arne-hermiston
+- 
+  type: relations/money/creditor
+  item: people/ms-vernie-franecki-dds
+- 
+  type: relations/parental/dad
+  item: people/bernardo-hegmann-iv
+- 
+  type: relations/money/debtor
+  item: people/kendall-kunze
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/work/client
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/o-keefe-group
+- 
+  type: relations/work/client
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

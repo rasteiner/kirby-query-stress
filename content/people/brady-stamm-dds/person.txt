@@ -1,0 +1,64 @@
+Title: Brady Stamm DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/viva-welch
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lizeth-marvin
+- 
+  type: relations/parental/dad
+  item: people/lempi-bednar
+- 
+  type: relations/parental/brosis
+  item: people/chester-gusikowski-jr
+- 
+  type: relations/parental/mom
+  item: people/jesus-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/torrance-reynolds
+- 
+  type: relations/work/client
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/work/employer
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/work/client
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Carmine Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/simone-glover
+- 
+  type: relations/parental/colleague
+  item: people/dr-richmond-kutch
+- 
+  type: relations/parental/brosis
+  item: people/maximillia-beier
+- 
+  type: relations/parental/brosis
+  item: people/murphy-medhurst-phd
+- 
+  type: relations/parental/mom
+  item: people/alysson-shields
+- 
+  type: relations/parental/friend
+  item: people/rocky-ziemann
+- 
+  type: relations/work/employer
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/debtor
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/money/debtor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

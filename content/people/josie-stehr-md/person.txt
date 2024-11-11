@@ -1,0 +1,64 @@
+Title: Josie Stehr MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/abdullah-casper
+- 
+  type: relations/parental/brosis
+  item: people/wilton-gleason
+- 
+  type: relations/parental/colleague
+  item: people/roel-cole
+- 
+  type: relations/parental/friend
+  item: people/kayley-dach-md
+- 
+  type: relations/parental/brosis
+  item: people/wilbert-hammes
+- 
+  type: relations/parental/brosis
+  item: people/kyle-ankunding
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

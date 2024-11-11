@@ -1,0 +1,64 @@
+Title: Eugenia Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-rosanna-gottlieb-i
+- 
+  type: relations/money/creditor
+  item: people/prince-okuneva-ii
+- 
+  type: relations/money/creditor
+  item: people/fannie-dare
+- 
+  type: relations/parental/mom
+  item: people/elta-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/doug-ledner
+- 
+  type: relations/parental/brosis
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/work/client
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

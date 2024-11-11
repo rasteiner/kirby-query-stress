@@ -1,0 +1,64 @@
+Title: Julio Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ron-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/melody-cummerata-dvm
+- 
+  type: relations/parental/brosis
+  item: people/imelda-bernhard
+- 
+  type: relations/money/creditor
+  item: people/erik-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/zella-maggio
+- 
+  type: relations/money/creditor
+  item: people/miss-lavina-hettinger
+- 
+  type: relations/work/client
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

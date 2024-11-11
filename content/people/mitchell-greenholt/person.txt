@@ -1,0 +1,64 @@
+Title: Mitchell Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaylen-wiegand
+- 
+  type: relations/parental/dad
+  item: people/cristal-kuhlman-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-dorian-heller
+- 
+  type: relations/parental/brosis
+  item: people/kadin-ferry-dds
+- 
+  type: relations/parental/friend
+  item: people/ralph-sipes
+- 
+  type: relations/parental/brosis
+  item: people/dr-sven-wiza
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/work/client
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

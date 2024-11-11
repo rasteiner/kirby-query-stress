@@ -1,0 +1,64 @@
+Title: Kali Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-wilfrid-watsica
+- 
+  type: relations/parental/brosis
+  item: people/miss-georgiana-beatty
+- 
+  type: relations/parental/colleague
+  item: people/dr-elroy-stehr
+- 
+  type: relations/parental/dad
+  item: people/deven-bogisich
+- 
+  type: relations/parental/mom
+  item: people/dr-cara-haley
+- 
+  type: relations/parental/friend
+  item: people/miss-donna-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-inc
+- 
+  type: relations/money/debtor
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/employer
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

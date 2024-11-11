@@ -1,0 +1,64 @@
+Title: Ramona Harris II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/marilie-beahan-ii
+- 
+  type: relations/parental/brosis
+  item: people/mr-zackery-legros
+- 
+  type: relations/money/debtor
+  item: people/misty-fay
+- 
+  type: relations/parental/mom
+  item: people/freddy-zemlak-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-francis-grant-phd
+- 
+  type: relations/money/debtor
+  item: people/gerson-ullrich-i
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

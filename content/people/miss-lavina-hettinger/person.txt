@@ -1,0 +1,64 @@
+Title: Miss Lavina Hettinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-dustin-bruen
+- 
+  type: relations/money/debtor
+  item: people/ward-boyer
+- 
+  type: relations/money/debtor
+  item: people/bradford-hansen
+- 
+  type: relations/parental/dad
+  item: people/delia-hirthe
+- 
+  type: relations/money/creditor
+  item: people/german-mosciski
+- 
+  type: relations/parental/friend
+  item: people/evelyn-brekke
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/employer
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/employer
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

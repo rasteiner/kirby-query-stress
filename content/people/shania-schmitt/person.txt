@@ -1,0 +1,64 @@
+Title: Shania Schmitt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rosella-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/cheyanne-legros
+- 
+  type: relations/parental/friend
+  item: people/major-wilderman
+- 
+  type: relations/parental/colleague
+  item: people/landen-wolff
+- 
+  type: relations/parental/brosis
+  item: people/raphael-jerde
+- 
+  type: relations/parental/colleague
+  item: people/jackie-ferry
+- 
+  type: relations/money/creditor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

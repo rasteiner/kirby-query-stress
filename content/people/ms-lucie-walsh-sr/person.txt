@@ -1,0 +1,64 @@
+Title: Ms. Lucie Walsh Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/floy-wuckert
+- 
+  type: relations/money/debtor
+  item: people/christa-murphy
+- 
+  type: relations/parental/mom
+  item: people/everette-pfeffer-v
+- 
+  type: relations/parental/friend
+  item: people/stan-sauer
+- 
+  type: relations/parental/dad
+  item: people/cleveland-o-keefe
+- 
+  type: relations/parental/brosis
+  item: people/lukas-sporer
+- 
+  type: relations/money/debtor
+  item: companies/emard-inc
+- 
+  type: relations/work/employer
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/money/creditor
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

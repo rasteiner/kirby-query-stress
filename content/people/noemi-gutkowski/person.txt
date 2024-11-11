@@ -1,0 +1,64 @@
+Title: Noemi Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-ethel-hoppe
+- 
+  type: relations/parental/dad
+  item: people/bud-wilderman
+- 
+  type: relations/parental/dad
+  item: people/prof-casimir-schimmel-dds
+- 
+  type: relations/parental/friend
+  item: people/mr-tremaine-walsh
+- 
+  type: relations/parental/dad
+  item: people/miss-zella-carroll-md
+- 
+  type: relations/parental/mom
+  item: people/eriberto-goyette
+- 
+  type: relations/work/employer
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/work/employer
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

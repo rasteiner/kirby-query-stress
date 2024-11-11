@@ -1,0 +1,64 @@
+Title: Constance Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-arvel-kerluke
+- 
+  type: relations/money/debtor
+  item: people/mrs-alyce-vandervort-iv
+- 
+  type: relations/parental/dad
+  item: people/ashleigh-prosacco
+- 
+  type: relations/money/debtor
+  item: people/winnifred-reilly-dvm
+- 
+  type: relations/parental/dad
+  item: people/franz-conn
+- 
+  type: relations/parental/friend
+  item: people/gay-lynch
+- 
+  type: relations/money/creditor
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-stark
+- 
+  type: relations/work/employer
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

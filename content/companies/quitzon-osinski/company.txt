@@ -1,0 +1,43 @@
+Title: Quitzon-Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/money/debtor
+  item: companies/wyman-legros
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh

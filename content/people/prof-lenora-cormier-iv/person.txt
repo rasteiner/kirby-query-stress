@@ -1,0 +1,64 @@
+Title: Prof. Lenora Cormier IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/garnett-luettgen
+- 
+  type: relations/money/debtor
+  item: people/else-moen-jr
+- 
+  type: relations/parental/colleague
+  item: people/theo-hyatt
+- 
+  type: relations/parental/friend
+  item: people/carli-walsh
+- 
+  type: relations/money/debtor
+  item: people/wilbert-mosciski
+- 
+  type: relations/money/creditor
+  item: people/luther-turner
+- 
+  type: relations/work/employer
+  item: companies/price-group
+- 
+  type: relations/work/client
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

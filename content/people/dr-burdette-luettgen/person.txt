@@ -1,0 +1,64 @@
+Title: Dr. Burdette Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ena-hayes
+- 
+  type: relations/money/creditor
+  item: people/ryleigh-haley-i
+- 
+  type: relations/parental/friend
+  item: people/jensen-mohr-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-derek-cummings
+- 
+  type: relations/parental/brosis
+  item: people/albertha-morissette-jr
+- 
+  type: relations/parental/dad
+  item: people/litzy-ernser
+- 
+  type: relations/money/debtor
+  item: companies/koch-ltd
+- 
+  type: relations/money/creditor
+  item: companies/schoen-group
+- 
+  type: relations/work/employer
+  item: companies/daniel-hills
+- 
+  type: relations/money/debtor
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,65 @@
+Title: Keeley Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/angelo-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/assunta-kihn
+- 
+  type: relations/parental/dad
+  item: people/dr-kristofer-crist
+- 
+  type: relations/parental/brosis
+  item: people/brooks-zieme-md
+- 
+  type: relations/parental/brosis
+  item: people/ms-lillian-ullrich
+- 
+  type: relations/money/debtor
+  item: people/vida-bode
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

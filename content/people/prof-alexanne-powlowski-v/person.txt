@@ -1,0 +1,65 @@
+Title: Prof. Alexanne Powlowski V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-callie-streich-md
+- 
+  type: relations/parental/dad
+  item: people/miss-mara-okuneva-sr
+- 
+  type: relations/parental/mom
+  item: people/ms-corrine-beer
+- 
+  type: relations/money/creditor
+  item: people/dr-bennett-pacocha-iv
+- 
+  type: relations/money/creditor
+  item: people/kacey-quigley-iv
+- 
+  type: relations/parental/mom
+  item: people/adelle-kessler-sr
+- 
+  type: relations/money/debtor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/lemke-ltd
+- 
+  type: relations/work/client
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

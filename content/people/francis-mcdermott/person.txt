@@ -1,0 +1,64 @@
+Title: Francis McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/onie-ritchie
+- 
+  type: relations/parental/mom
+  item: people/dr-bernadine-aufderhar
+- 
+  type: relations/money/debtor
+  item: people/mr-dante-hoppe
+- 
+  type: relations/parental/friend
+  item: people/frieda-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/burnice-eichmann-iv
+- 
+  type: relations/money/debtor
+  item: people/ramon-strosin
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/money/debtor
+  item: companies/kris-and-sons
+- 
+  type: relations/work/employer
+  item: companies/hintz-group
+- 
+  type: relations/work/employer
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

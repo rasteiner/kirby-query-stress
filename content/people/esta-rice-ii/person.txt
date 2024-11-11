@@ -1,0 +1,64 @@
+Title: Esta Rice II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/astrid-tromp
+- 
+  type: relations/parental/mom
+  item: people/mr-josue-friesen
+- 
+  type: relations/money/creditor
+  item: people/chauncey-marquardt
+- 
+  type: relations/parental/colleague
+  item: people/keith-dickinson-ii
+- 
+  type: relations/parental/brosis
+  item: people/jamaal-franecki
+- 
+  type: relations/parental/dad
+  item: people/trisha-schaden-iii
+- 
+  type: relations/work/employer
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/employer
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/client
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

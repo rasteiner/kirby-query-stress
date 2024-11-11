@@ -1,0 +1,64 @@
+Title: Jensen Kilback MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/erling-veum-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-kevin-lesch-md
+- 
+  type: relations/parental/friend
+  item: people/vernice-kozey
+- 
+  type: relations/parental/colleague
+  item: people/julien-parisian
+- 
+  type: relations/money/creditor
+  item: people/bertrand-rath
+- 
+  type: relations/parental/colleague
+  item: people/retha-parisian
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

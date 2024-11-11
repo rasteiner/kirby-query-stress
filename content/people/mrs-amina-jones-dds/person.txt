@@ -1,0 +1,64 @@
+Title: Mrs. Amina Jones DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nikki-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/ms-lindsay-von
+- 
+  type: relations/parental/brosis
+  item: people/mireille-schumm
+- 
+  type: relations/parental/colleague
+  item: people/miss-carole-zboncak-v
+- 
+  type: relations/parental/colleague
+  item: people/mr-kyler-macejkovic-dvm
+- 
+  type: relations/parental/colleague
+  item: people/earlene-lemke
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/employer
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

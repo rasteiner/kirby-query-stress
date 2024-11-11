@@ -1,0 +1,64 @@
+Title: Dr. Cooper Collins I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lucinda-roberts
+- 
+  type: relations/parental/colleague
+  item: people/jasen-abernathy-jr
+- 
+  type: relations/parental/mom
+  item: people/ms-nicolette-nicolas-iv
+- 
+  type: relations/money/creditor
+  item: people/reba-weissnat
+- 
+  type: relations/money/creditor
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/money/debtor
+  item: people/robb-parisian
+- 
+  type: relations/work/employer
+  item: companies/cassin-llc
+- 
+  type: relations/work/client
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mann-gutmann
+- 
+  type: relations/money/debtor
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

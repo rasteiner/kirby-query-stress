@@ -1,0 +1,64 @@
+Title: Dr. Ayla Spinka I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-malinda-turcotte
+- 
+  type: relations/parental/dad
+  item: people/dr-shaylee-doyle-md
+- 
+  type: relations/parental/mom
+  item: people/angus-windler
+- 
+  type: relations/money/creditor
+  item: people/arvilla-heller
+- 
+  type: relations/parental/brosis
+  item: people/lia-kreiger
+- 
+  type: relations/money/debtor
+  item: people/ms-kaia-wolff
+- 
+  type: relations/work/client
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/client
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

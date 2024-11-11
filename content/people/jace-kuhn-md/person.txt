@@ -1,0 +1,64 @@
+Title: Jace Kuhn MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-maci-hyatt-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-alfred-krajcik-sr
+- 
+  type: relations/money/creditor
+  item: people/ms-mariana-braun-dvm
+- 
+  type: relations/parental/brosis
+  item: people/isobel-west
+- 
+  type: relations/parental/colleague
+  item: people/greg-gleason
+- 
+  type: relations/parental/dad
+  item: people/delaney-kulas
+- 
+  type: relations/money/debtor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/employer
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/client
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

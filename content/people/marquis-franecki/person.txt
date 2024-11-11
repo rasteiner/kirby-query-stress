@@ -1,0 +1,65 @@
+Title: Marquis Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jamir-adams
+- 
+  type: relations/money/creditor
+  item: people/ms-hope-aufderhar
+- 
+  type: relations/parental/dad
+  item: people/abdiel-durgan
+- 
+  type: relations/parental/mom
+  item: people/kim-jacobson
+- 
+  type: relations/parental/colleague
+  item: people/salvador-champlin-ii
+- 
+  type: relations/parental/dad
+  item: people/miss-melody-zboncak-iii
+- 
+  type: relations/work/client
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

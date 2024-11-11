@@ -1,0 +1,43 @@
+Title: Klein, Ryan and Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/debtor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad

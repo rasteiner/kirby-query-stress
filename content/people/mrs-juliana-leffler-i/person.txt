@@ -1,0 +1,64 @@
+Title: Mrs. Juliana Leffler I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/money/debtor
+  item: people/lafayette-stehr
+- 
+  type: relations/parental/friend
+  item: people/maegan-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/dr-leonardo-thiel
+- 
+  type: relations/parental/brosis
+  item: people/pink-runte
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/money/creditor
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Emiliano Sauer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-malika-rutherford-jr
+- 
+  type: relations/parental/brosis
+  item: people/morton-pfannerstill-jr
+- 
+  type: relations/money/debtor
+  item: people/michael-renner
+- 
+  type: relations/money/creditor
+  item: people/dr-lemuel-mayer
+- 
+  type: relations/parental/brosis
+  item: people/miss-idell-lockman
+- 
+  type: relations/money/creditor
+  item: people/dr-marquise-balistreri
+- 
+  type: relations/work/client
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Santiago Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/margret-maggio-sr
+- 
+  type: relations/parental/colleague
+  item: people/estevan-ratke
+- 
+  type: relations/money/debtor
+  item: people/dr-peyton-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/fermin-witting-i
+- 
+  type: relations/parental/brosis
+  item: people/tyrel-schaefer
+- 
+  type: relations/parental/colleague
+  item: people/buster-doyle
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/employer
+  item: companies/crona-and-sons
+- 
+  type: relations/work/employer
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/work/employer
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

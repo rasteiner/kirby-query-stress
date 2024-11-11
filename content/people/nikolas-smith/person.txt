@@ -1,0 +1,64 @@
+Title: Nikolas Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-connie-becker-phd
+- 
+  type: relations/parental/colleague
+  item: people/ms-hellen-bogisich-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-maria-metz-jr
+- 
+  type: relations/money/debtor
+  item: people/meagan-hilpert
+- 
+  type: relations/money/debtor
+  item: people/benjamin-jacobson
+- 
+  type: relations/money/creditor
+  item: people/dr-laverne-beahan
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

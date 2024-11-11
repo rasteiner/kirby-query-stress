@@ -1,0 +1,64 @@
+Title: Annabell Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-gabriella-stanton
+- 
+  type: relations/money/creditor
+  item: people/dortha-purdy
+- 
+  type: relations/money/debtor
+  item: people/ms-lizeth-senger-dvm
+- 
+  type: relations/parental/dad
+  item: people/german-baumbach-ii
+- 
+  type: relations/money/debtor
+  item: people/cruz-marks-iv
+- 
+  type: relations/parental/mom
+  item: people/beatrice-lockman
+- 
+  type: relations/money/creditor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/client
+  item: companies/romaguera-inc
+- 
+  type: relations/work/employer
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/employer
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

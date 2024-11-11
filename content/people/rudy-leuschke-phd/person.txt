@@ -1,0 +1,64 @@
+Title: Rudy Leuschke PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/orie-breitenberg
+- 
+  type: relations/parental/brosis
+  item: people/brando-wolff
+- 
+  type: relations/money/debtor
+  item: people/jaleel-streich
+- 
+  type: relations/money/debtor
+  item: people/reanna-hettinger
+- 
+  type: relations/parental/friend
+  item: people/miss-adelia-yost-sr
+- 
+  type: relations/parental/brosis
+  item: people/prof-ervin-wisoky-sr
+- 
+  type: relations/work/client
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/work/client
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Kathleen Klocko I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/avery-rau-sr
+- 
+  type: relations/parental/friend
+  item: people/logan-roob
+- 
+  type: relations/parental/colleague
+  item: people/alvena-miller-i
+- 
+  type: relations/parental/dad
+  item: people/mr-remington-satterfield-md
+- 
+  type: relations/money/debtor
+  item: people/cecil-feil
+- 
+  type: relations/parental/brosis
+  item: people/stuart-lemke
+- 
+  type: relations/work/client
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/kris-moen
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

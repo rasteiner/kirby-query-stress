@@ -1,0 +1,64 @@
+Title: Rashad Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dameon-brown-iv
+- 
+  type: relations/parental/mom
+  item: people/miss-viva-kassulke-phd
+- 
+  type: relations/parental/colleague
+  item: people/kathleen-gleichner
+- 
+  type: relations/money/debtor
+  item: people/trisha-daniel
+- 
+  type: relations/money/debtor
+  item: people/eduardo-bashirian
+- 
+  type: relations/parental/colleague
+  item: people/prof-deion-torp
+- 
+  type: relations/work/employer
+  item: companies/walker-howe
+- 
+  type: relations/money/creditor
+  item: companies/orn-inc
+- 
+  type: relations/work/client
+  item: companies/cruickshank-mertz
+- 
+  type: relations/money/creditor
+  item: companies/mayer-conn
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

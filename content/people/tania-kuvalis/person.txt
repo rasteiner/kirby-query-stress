@@ -1,0 +1,64 @@
+Title: Tania Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jocelyn-towne-v
+- 
+  type: relations/parental/colleague
+  item: people/archibald-auer
+- 
+  type: relations/parental/colleague
+  item: people/jodie-green
+- 
+  type: relations/parental/mom
+  item: people/prof-donavon-kessler
+- 
+  type: relations/parental/dad
+  item: people/miss-shania-johns
+- 
+  type: relations/parental/mom
+  item: people/mr-lee-bruen
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/botsford-plc
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

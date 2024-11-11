@@ -1,0 +1,65 @@
+Title: Cleta Harber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/winston-dicki-sr
+- 
+  type: relations/parental/colleague
+  item: people/marquis-franecki
+- 
+  type: relations/parental/mom
+  item: people/carmela-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/prof-alexie-schneider
+- 
+  type: relations/parental/colleague
+  item: people/raoul-dickinson-dds
+- 
+  type: relations/parental/mom
+  item: people/amara-robel
+- 
+  type: relations/work/client
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/debtor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

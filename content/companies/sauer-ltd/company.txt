@@ -1,0 +1,43 @@
+Title: Sauer Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/debtor
+  item: companies/becker-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/money/debtor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/robertstown
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/new-selmer

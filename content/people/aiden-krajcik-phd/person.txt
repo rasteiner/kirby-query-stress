@@ -1,0 +1,64 @@
+Title: Aiden Krajcik PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-shana-glover
+- 
+  type: relations/parental/friend
+  item: people/miss-stephanie-bergstrom-i
+- 
+  type: relations/parental/mom
+  item: people/okey-paucek-sr
+- 
+  type: relations/parental/friend
+  item: people/ms-alejandra-spinka-sr
+- 
+  type: relations/parental/colleague
+  item: people/santa-kiehn-dvm
+- 
+  type: relations/parental/dad
+  item: people/bret-bode
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/client
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

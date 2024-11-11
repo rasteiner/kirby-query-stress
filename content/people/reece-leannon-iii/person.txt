@@ -1,0 +1,64 @@
+Title: Reece Leannon III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/simone-medhurst
+- 
+  type: relations/money/debtor
+  item: people/fanny-terry-ii
+- 
+  type: relations/money/debtor
+  item: people/hettie-waters
+- 
+  type: relations/money/debtor
+  item: people/prof-roy-feeney
+- 
+  type: relations/parental/mom
+  item: people/ms-whitney-stehr-dds
+- 
+  type: relations/parental/colleague
+  item: people/christophe-effertz-i
+- 
+  type: relations/money/debtor
+  item: companies/grimes-inc
+- 
+  type: relations/money/creditor
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/client
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

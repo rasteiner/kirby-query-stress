@@ -1,0 +1,43 @@
+Title: Grimes, Littel and Padberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/debtor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/money/creditor
+  item: companies/murphy-inc
+- 
+  type: relations/money/debtor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-group
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury

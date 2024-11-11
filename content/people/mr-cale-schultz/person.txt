@@ -1,0 +1,64 @@
+Title: Mr. Cale Schultz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/shanon-rohan-ii
+- 
+  type: relations/parental/friend
+  item: people/samantha-connelly
+- 
+  type: relations/parental/mom
+  item: people/shane-kreiger-dds
+- 
+  type: relations/parental/dad
+  item: people/norris-koss
+- 
+  type: relations/money/creditor
+  item: people/devin-deckow-v
+- 
+  type: relations/parental/mom
+  item: people/dino-pagac
+- 
+  type: relations/work/employer
+  item: companies/doyle-murphy
+- 
+  type: relations/money/debtor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/koss-adams
+- 
+  type: relations/work/client
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

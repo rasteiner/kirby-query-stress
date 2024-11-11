@@ -1,0 +1,64 @@
+Title: Dr. Hugh Lemke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lauretta-collier
+- 
+  type: relations/parental/friend
+  item: people/miss-frida-o-keefe-v
+- 
+  type: relations/money/creditor
+  item: people/beau-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/kaley-kuvalis-iii
+- 
+  type: relations/money/debtor
+  item: people/maya-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/mekhi-adams
+- 
+  type: relations/work/employer
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/work/client
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/employer
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Isac Russel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/garland-rolfson
+- 
+  type: relations/parental/brosis
+  item: people/stephanie-sanford
+- 
+  type: relations/parental/colleague
+  item: people/gregory-schneider
+- 
+  type: relations/parental/friend
+  item: people/agustina-mraz-sr
+- 
+  type: relations/parental/colleague
+  item: people/saige-o-reilly
+- 
+  type: relations/parental/dad
+  item: people/mrs-elmira-leffler
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/client
+  item: companies/stamm-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

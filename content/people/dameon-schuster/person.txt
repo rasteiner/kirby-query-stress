@@ -1,0 +1,64 @@
+Title: Dameon Schuster
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jed-kautzer
+- 
+  type: relations/parental/dad
+  item: people/mitchel-kirlin
+- 
+  type: relations/parental/friend
+  item: people/margaretta-cassin
+- 
+  type: relations/parental/dad
+  item: people/alvina-kohler
+- 
+  type: relations/parental/mom
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/work/client
+  item: companies/gleason-inc
+- 
+  type: relations/work/employer
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/client
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,43 @@
+Title: Hermiston, Stracke and Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/creditor
+  item: companies/skiles-johns
+- 
+  type: relations/money/debtor
+  item: companies/marvin-lebsack
+- 
+  type: relations/money/creditor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/money/creditor
+  item: companies/roob-heathcote
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/darleneshire

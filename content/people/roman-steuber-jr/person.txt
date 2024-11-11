@@ -1,0 +1,64 @@
+Title: Roman Steuber Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/justen-carter
+- 
+  type: relations/parental/brosis
+  item: people/uriah-graham
+- 
+  type: relations/parental/dad
+  item: people/ms-aniya-koelpin
+- 
+  type: relations/parental/dad
+  item: people/tracey-monahan
+- 
+  type: relations/parental/colleague
+  item: people/ms-katelyn-leuschke-iv
+- 
+  type: relations/money/creditor
+  item: people/shyann-nader
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/work/client
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

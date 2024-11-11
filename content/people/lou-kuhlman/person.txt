@@ -1,0 +1,64 @@
+Title: Lou Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/joanny-ruecker
+- 
+  type: relations/parental/dad
+  item: people/destini-huel
+- 
+  type: relations/parental/mom
+  item: people/mr-quinton-hand
+- 
+  type: relations/money/creditor
+  item: people/cary-huel-i
+- 
+  type: relations/parental/dad
+  item: people/lauren-zboncak-sr
+- 
+  type: relations/parental/friend
+  item: people/mr-drake-schumm
+- 
+  type: relations/work/client
+  item: companies/towne-llc
+- 
+  type: relations/work/client
+  item: companies/dickens-inc
+- 
+  type: relations/money/debtor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/lehner-considine
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

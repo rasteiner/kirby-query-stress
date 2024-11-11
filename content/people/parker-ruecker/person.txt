@@ -1,0 +1,64 @@
+Title: Parker Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sibyl-watsica
+- 
+  type: relations/parental/colleague
+  item: people/flavio-marks
+- 
+  type: relations/parental/brosis
+  item: people/dr-aletha-breitenberg-md
+- 
+  type: relations/money/creditor
+  item: people/mr-norberto-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/joanny-ruecker
+- 
+  type: relations/money/creditor
+  item: people/destini-huel
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Jamie Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/pearlie-hills-md
+- 
+  type: relations/parental/mom
+  item: people/eldridge-klocko
+- 
+  type: relations/money/debtor
+  item: people/amanda-harris
+- 
+  type: relations/parental/dad
+  item: people/lura-lesch
+- 
+  type: relations/money/debtor
+  item: people/dortha-wintheiser-sr
+- 
+  type: relations/parental/mom
+  item: people/miss-queen-smith
+- 
+  type: relations/work/client
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

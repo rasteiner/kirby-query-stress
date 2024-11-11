@@ -1,0 +1,64 @@
+Title: Junior Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jordyn-brakus
+- 
+  type: relations/parental/dad
+  item: people/alysson-fadel
+- 
+  type: relations/money/creditor
+  item: people/fabian-wehner
+- 
+  type: relations/money/creditor
+  item: people/howell-casper
+- 
+  type: relations/parental/colleague
+  item: people/dr-yasmine-rau
+- 
+  type: relations/money/debtor
+  item: people/miss-skyla-keebler
+- 
+  type: relations/money/creditor
+  item: companies/homenick-plc
+- 
+  type: relations/money/creditor
+  item: companies/lehner-howe
+- 
+  type: relations/money/debtor
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/osinski-sipes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

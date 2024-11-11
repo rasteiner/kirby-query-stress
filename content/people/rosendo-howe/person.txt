@@ -1,0 +1,64 @@
+Title: Rosendo Howe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/karolann-leffler
+- 
+  type: relations/money/debtor
+  item: people/callie-wolff
+- 
+  type: relations/money/creditor
+  item: people/houston-medhurst-v
+- 
+  type: relations/parental/dad
+  item: people/leslie-morissette-v
+- 
+  type: relations/money/creditor
+  item: people/mrs-cecilia-hickle-phd
+- 
+  type: relations/money/debtor
+  item: people/bailey-rodriguez
+- 
+  type: relations/money/debtor
+  item: companies/mayert-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/work/client
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/client
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

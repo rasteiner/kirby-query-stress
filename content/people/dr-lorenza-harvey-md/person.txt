@@ -1,0 +1,65 @@
+Title: Dr. Lorenza Harvey MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-ryann-green-sr
+- 
+  type: relations/parental/friend
+  item: people/elfrieda-bruen
+- 
+  type: relations/money/creditor
+  item: people/carolanne-grady
+- 
+  type: relations/parental/mom
+  item: people/leora-o-hara
+- 
+  type: relations/parental/dad
+  item: people/ms-providenci-littel
+- 
+  type: relations/parental/dad
+  item: people/monserrate-bogan
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/work/client
+  item: companies/larson-denesik
+- 
+  type: relations/money/debtor
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/money/creditor
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

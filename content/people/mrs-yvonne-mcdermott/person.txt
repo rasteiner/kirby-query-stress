@@ -1,0 +1,64 @@
+Title: Mrs. Yvonne McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jazmyne-davis
+- 
+  type: relations/parental/mom
+  item: people/sydnie-wolff
+- 
+  type: relations/parental/brosis
+  item: people/carmelo-collier
+- 
+  type: relations/parental/mom
+  item: people/miss-roxane-ortiz
+- 
+  type: relations/money/creditor
+  item: people/dr-mario-hermann
+- 
+  type: relations/parental/dad
+  item: people/hayden-mcglynn
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

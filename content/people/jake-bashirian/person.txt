@@ -1,0 +1,65 @@
+Title: Jake Bashirian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-lea-buckridge
+- 
+  type: relations/parental/mom
+  item: people/dr-lazaro-huels-dds
+- 
+  type: relations/parental/brosis
+  item: people/mr-george-ledner
+- 
+  type: relations/parental/mom
+  item: people/dr-iva-johnston
+- 
+  type: relations/money/creditor
+  item: people/michale-johns
+- 
+  type: relations/parental/friend
+  item: people/mr-mervin-conroy
+- 
+  type: relations/work/employer
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/client
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

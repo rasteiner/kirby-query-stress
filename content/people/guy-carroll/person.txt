@@ -1,0 +1,64 @@
+Title: Guy Carroll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/karl-kuhic
+- 
+  type: relations/parental/dad
+  item: people/dr-wade-larkin
+- 
+  type: relations/money/creditor
+  item: people/flavie-schaden
+- 
+  type: relations/parental/colleague
+  item: people/hertha-effertz
+- 
+  type: relations/parental/dad
+  item: people/allan-marvin
+- 
+  type: relations/parental/dad
+  item: people/ephraim-schneider-sr
+- 
+  type: relations/money/creditor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/client
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

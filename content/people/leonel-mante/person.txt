@@ -1,0 +1,64 @@
+Title: Leonel Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-ezequiel-cremin
+- 
+  type: relations/parental/dad
+  item: people/garnett-rohan
+- 
+  type: relations/parental/colleague
+  item: people/miss-autumn-hermann-sr
+- 
+  type: relations/parental/brosis
+  item: people/kellen-simonis
+- 
+  type: relations/parental/dad
+  item: people/daniella-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/prof-broderick-effertz
+- 
+  type: relations/work/client
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/abernathy-inc
+- 
+  type: relations/money/debtor
+  item: companies/miller-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Dr. Alejandra Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/gisselle-weissnat
+- 
+  type: relations/money/debtor
+  item: people/dr-floyd-anderson-dds
+- 
+  type: relations/parental/friend
+  item: people/cara-schoen
+- 
+  type: relations/parental/friend
+  item: people/prof-alfredo-wilkinson-dvm
+- 
+  type: relations/parental/colleague
+  item: people/larue-wisoky
+- 
+  type: relations/parental/dad
+  item: people/virginie-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/employer
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/bogan-llc
+- 
+  type: relations/work/client
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

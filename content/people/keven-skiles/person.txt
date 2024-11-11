@@ -1,0 +1,64 @@
+Title: Keven Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-arlo-turner
+- 
+  type: relations/parental/friend
+  item: people/ms-sincere-kirlin-iv
+- 
+  type: relations/parental/dad
+  item: people/scotty-dubuque-jr
+- 
+  type: relations/money/creditor
+  item: people/prof-guadalupe-goldner-i
+- 
+  type: relations/money/debtor
+  item: people/virginie-jenkins
+- 
+  type: relations/parental/mom
+  item: people/quinten-ullrich
+- 
+  type: relations/work/employer
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/money/debtor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

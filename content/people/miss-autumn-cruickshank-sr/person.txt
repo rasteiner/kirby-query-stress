@@ -1,0 +1,64 @@
+Title: Miss Autumn Cruickshank Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/giovanny-rohan
+- 
+  type: relations/money/debtor
+  item: people/ms-alessandra-beier
+- 
+  type: relations/parental/friend
+  item: people/antonio-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/marianne-windler-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-reyna-willms
+- 
+  type: relations/money/debtor
+  item: people/alexane-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/money/creditor
+  item: companies/terry-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/client
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

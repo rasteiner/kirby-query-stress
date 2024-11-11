@@ -1,0 +1,64 @@
+Title: Marco Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/isabel-strosin
+- 
+  type: relations/parental/brosis
+  item: people/frieda-o-connell-dvm
+- 
+  type: relations/parental/colleague
+  item: people/jazmyne-davis
+- 
+  type: relations/parental/brosis
+  item: people/sydnie-wolff
+- 
+  type: relations/parental/brosis
+  item: people/carmelo-collier
+- 
+  type: relations/parental/dad
+  item: people/miss-roxane-ortiz
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/employer
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

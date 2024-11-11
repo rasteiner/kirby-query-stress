@@ -1,0 +1,64 @@
+Title: Dr. Derrick Schaefer DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/aglae-wisozk
+- 
+  type: relations/money/debtor
+  item: people/chesley-hoeger
+- 
+  type: relations/parental/friend
+  item: people/miss-elsa-wintheiser-md
+- 
+  type: relations/money/debtor
+  item: people/alisha-stracke
+- 
+  type: relations/parental/brosis
+  item: people/dr-alexander-stracke
+- 
+  type: relations/parental/friend
+  item: people/mallie-okuneva
+- 
+  type: relations/money/creditor
+  item: companies/gleason-inc
+- 
+  type: relations/work/client
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/employer
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

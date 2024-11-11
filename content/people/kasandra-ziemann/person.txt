@@ -1,0 +1,64 @@
+Title: Kasandra Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/josue-berge-iii
+- 
+  type: relations/parental/friend
+  item: people/rosalia-braun
+- 
+  type: relations/money/creditor
+  item: people/prof-llewellyn-heller
+- 
+  type: relations/parental/friend
+  item: people/aidan-powlowski
+- 
+  type: relations/parental/mom
+  item: people/prof-jerod-stark
+- 
+  type: relations/parental/colleague
+  item: people/audra-roberts
+- 
+  type: relations/money/debtor
+  item: companies/doyle-ltd
+- 
+  type: relations/work/client
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/client
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

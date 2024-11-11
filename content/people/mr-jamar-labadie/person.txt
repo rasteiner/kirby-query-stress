@@ -1,0 +1,64 @@
+Title: Mr. Jamar Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/justen-schoen
+- 
+  type: relations/money/creditor
+  item: people/darrick-huels
+- 
+  type: relations/parental/colleague
+  item: people/annabell-bins-sr
+- 
+  type: relations/parental/friend
+  item: people/agustina-kohler
+- 
+  type: relations/money/creditor
+  item: people/tate-pagac
+- 
+  type: relations/money/creditor
+  item: people/prof-savanna-ankunding-sr
+- 
+  type: relations/money/creditor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/ferry-carter
+- 
+  type: relations/money/debtor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/work/employer
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

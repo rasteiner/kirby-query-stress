@@ -1,0 +1,64 @@
+Title: Ms. Kellie Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-cyril-ullrich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/calista-lynch
+- 
+  type: relations/parental/friend
+  item: people/ms-cassidy-graham-sr
+- 
+  type: relations/money/debtor
+  item: people/chloe-wolf
+- 
+  type: relations/parental/mom
+  item: people/kenya-keeling-iii
+- 
+  type: relations/parental/brosis
+  item: people/zander-gislason
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/work/client
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Jolie Gleichner II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jamarcus-streich
+- 
+  type: relations/parental/mom
+  item: people/prof-ettie-jacobs-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-alejandrin-bernier
+- 
+  type: relations/money/debtor
+  item: people/dr-general-dickinson
+- 
+  type: relations/parental/dad
+  item: people/jewell-torp-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-alexandrine-lakin-i
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/money/debtor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

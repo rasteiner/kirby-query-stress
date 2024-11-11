@@ -1,0 +1,64 @@
+Title: Prof. Brandyn Heidenreich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-deangelo-vonrueden-md
+- 
+  type: relations/money/creditor
+  item: people/emmet-west-iv
+- 
+  type: relations/parental/mom
+  item: people/miss-retha-ledner
+- 
+  type: relations/parental/mom
+  item: people/stephan-welch
+- 
+  type: relations/parental/brosis
+  item: people/otto-auer
+- 
+  type: relations/parental/brosis
+  item: people/prof-tiara-hirthe-iii
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/employer
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/money/creditor
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

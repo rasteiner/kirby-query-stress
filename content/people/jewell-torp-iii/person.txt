@@ -1,0 +1,64 @@
+Title: Jewell Torp III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mac-ward
+- 
+  type: relations/parental/colleague
+  item: people/daphne-abernathy
+- 
+  type: relations/parental/mom
+  item: people/louie-monahan
+- 
+  type: relations/money/creditor
+  item: people/haylee-hermiston-iii
+- 
+  type: relations/parental/friend
+  item: people/linnie-pouros
+- 
+  type: relations/parental/dad
+  item: people/neoma-hoeger-phd
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/employer
+  item: companies/hackett-inc
+- 
+  type: relations/work/client
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

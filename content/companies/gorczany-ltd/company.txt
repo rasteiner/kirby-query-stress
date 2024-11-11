@@ -1,0 +1,43 @@
+Title: Gorczany Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/creditor
+  item: companies/hudson-group
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/debtor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bayer-group
+- 
+  type: relations/money/creditor
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/location/residence
+  item: places/carolanneville
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven

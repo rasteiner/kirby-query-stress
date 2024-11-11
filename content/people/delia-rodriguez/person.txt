@@ -1,0 +1,64 @@
+Title: Delia Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lottie-heathcote
+- 
+  type: relations/parental/dad
+  item: people/jake-harris-md
+- 
+  type: relations/money/debtor
+  item: people/cordelia-schaden-i
+- 
+  type: relations/parental/friend
+  item: people/destin-von
+- 
+  type: relations/parental/dad
+  item: people/prof-ryan-swift
+- 
+  type: relations/money/creditor
+  item: people/clay-doyle
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/employer
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

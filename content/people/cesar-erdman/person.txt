@@ -1,0 +1,64 @@
+Title: Cesar Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-laila-hyatt-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-giuseppe-zboncak
+- 
+  type: relations/money/creditor
+  item: people/tressa-reichel
+- 
+  type: relations/money/debtor
+  item: people/rasheed-bernhard
+- 
+  type: relations/parental/dad
+  item: people/jeffry-boyer
+- 
+  type: relations/parental/friend
+  item: people/dr-elvera-goldner
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

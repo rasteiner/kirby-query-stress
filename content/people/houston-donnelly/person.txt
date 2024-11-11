@@ -1,0 +1,64 @@
+Title: Houston Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-cleveland-ullrich-i
+- 
+  type: relations/parental/colleague
+  item: people/cristian-blick
+- 
+  type: relations/parental/dad
+  item: people/prof-davonte-bernier-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-eliezer-beier-iii
+- 
+  type: relations/money/debtor
+  item: people/destini-o-conner
+- 
+  type: relations/money/debtor
+  item: people/miss-alvina-bins-dvm
+- 
+  type: relations/money/creditor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/employer
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

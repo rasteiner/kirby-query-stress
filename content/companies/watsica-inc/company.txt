@@ -1,0 +1,43 @@
+Title: Watsica Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/beahan-schroeder
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/bode-reinger
+- 
+  type: relations/money/debtor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/brycebury

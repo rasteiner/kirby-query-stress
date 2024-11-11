@@ -1,0 +1,64 @@
+Title: Dr. Keyon Herman Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-pedro-hills-iv
+- 
+  type: relations/parental/colleague
+  item: people/marquise-greenfelder-jr
+- 
+  type: relations/parental/friend
+  item: people/prof-caleigh-bayer-iv
+- 
+  type: relations/parental/mom
+  item: people/mr-fredy-stamm
+- 
+  type: relations/money/debtor
+  item: people/esmeralda-graham
+- 
+  type: relations/parental/dad
+  item: people/john-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/work/client
+  item: companies/terry-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/employer
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Dean Bailey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/casimer-stracke
+- 
+  type: relations/parental/colleague
+  item: people/shany-boehm-dvm
+- 
+  type: relations/parental/mom
+  item: people/ignatius-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/dr-benton-fay
+- 
+  type: relations/parental/friend
+  item: people/prof-terrell-borer-ii
+- 
+  type: relations/money/debtor
+  item: people/mrs-lurline-volkman-i
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

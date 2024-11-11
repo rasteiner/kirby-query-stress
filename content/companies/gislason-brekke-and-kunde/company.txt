@@ -1,0 +1,43 @@
+Title: Gislason, Brekke and Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/money/debtor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/bauch-crist
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

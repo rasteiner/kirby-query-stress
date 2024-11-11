@@ -1,0 +1,65 @@
+Title: Mrs. Samantha Collins Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lia-kreiger
+- 
+  type: relations/money/creditor
+  item: people/ms-kaia-wolff
+- 
+  type: relations/money/debtor
+  item: people/mr-milan-hickle
+- 
+  type: relations/money/creditor
+  item: people/haylie-muller
+- 
+  type: relations/money/creditor
+  item: people/miss-victoria-aufderhar
+- 
+  type: relations/money/creditor
+  item: people/jamie-johnson
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/work/client
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,65 @@
+Title: Angus Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-ida-kozey
+- 
+  type: relations/parental/brosis
+  item: people/annabel-turcotte
+- 
+  type: relations/parental/brosis
+  item: people/prof-raul-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/wayne-green
+- 
+  type: relations/parental/dad
+  item: people/emmalee-abshire
+- 
+  type: relations/money/creditor
+  item: people/marquis-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

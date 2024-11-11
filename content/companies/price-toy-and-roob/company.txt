@@ -1,0 +1,43 @@
+Title: Price, Toy and Roob
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/money/creditor
+  item: companies/morissette-jerde
+- 
+  type: relations/money/debtor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/creditor
+  item: companies/osinski-lehner
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/west-noemi

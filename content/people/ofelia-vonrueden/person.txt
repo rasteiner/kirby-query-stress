@@ -1,0 +1,64 @@
+Title: Ofelia VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-magdalena-rogahn-phd
+- 
+  type: relations/parental/brosis
+  item: people/prof-anais-jones
+- 
+  type: relations/parental/mom
+  item: people/chester-purdy
+- 
+  type: relations/money/debtor
+  item: people/mitchell-legros-iii
+- 
+  type: relations/parental/friend
+  item: people/prof-roderick-schaden
+- 
+  type: relations/parental/mom
+  item: people/ms-cheyanne-gleichner-iv
+- 
+  type: relations/work/client
+  item: companies/blanda-ltd
+- 
+  type: relations/work/employer
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Garfield Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/joseph-zieme
+- 
+  type: relations/parental/dad
+  item: people/stanley-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/caroline-halvorson
+- 
+  type: relations/money/creditor
+  item: people/mr-kenton-rosenbaum-md
+- 
+  type: relations/parental/friend
+  item: people/angela-tremblay-ii
+- 
+  type: relations/parental/friend
+  item: people/alanna-franecki
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

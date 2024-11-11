@@ -1,0 +1,64 @@
+Title: Terrill Upton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-kennedi-goodwin
+- 
+  type: relations/parental/mom
+  item: people/dee-o-kon
+- 
+  type: relations/money/debtor
+  item: people/melyssa-graham-iv
+- 
+  type: relations/parental/colleague
+  item: people/tillman-o-reilly
+- 
+  type: relations/parental/colleague
+  item: people/velda-emard
+- 
+  type: relations/parental/brosis
+  item: people/frida-purdy
+- 
+  type: relations/work/client
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

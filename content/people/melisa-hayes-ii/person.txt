@@ -1,0 +1,64 @@
+Title: Melisa Hayes II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/carley-rohan
+- 
+  type: relations/parental/friend
+  item: people/mikel-dach
+- 
+  type: relations/parental/dad
+  item: people/blaze-beer
+- 
+  type: relations/money/creditor
+  item: people/regan-vonrueden
+- 
+  type: relations/parental/dad
+  item: people/viva-goyette
+- 
+  type: relations/parental/mom
+  item: people/gwen-tillman
+- 
+  type: relations/work/client
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/bins-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

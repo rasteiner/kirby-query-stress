@@ -1,0 +1,64 @@
+Title: Mona Durgan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elva-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/geo-boyer
+- 
+  type: relations/parental/mom
+  item: people/pauline-kuhn
+- 
+  type: relations/parental/friend
+  item: people/russel-johnston
+- 
+  type: relations/parental/dad
+  item: people/elroy-rogahn
+- 
+  type: relations/parental/friend
+  item: people/dr-gloria-hills-ii
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Eudora Zemlak DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/carleton-boyer-sr
+- 
+  type: relations/parental/friend
+  item: people/arianna-grant
+- 
+  type: relations/parental/friend
+  item: people/montana-mraz-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ms-betty-rowe
+- 
+  type: relations/parental/dad
+  item: people/jarred-kirlin
+- 
+  type: relations/parental/colleague
+  item: people/kendrick-adams
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

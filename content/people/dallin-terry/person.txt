@@ -1,0 +1,64 @@
+Title: Dallin Terry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/chasity-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/stefanie-dickens
+- 
+  type: relations/parental/colleague
+  item: people/angelo-stiedemann-iii
+- 
+  type: relations/parental/mom
+  item: people/earl-vandervort
+- 
+  type: relations/parental/colleague
+  item: people/clovis-weissnat
+- 
+  type: relations/parental/mom
+  item: people/nathen-o-hara
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/money/creditor
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

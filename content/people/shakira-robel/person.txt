@@ -1,0 +1,64 @@
+Title: Shakira Robel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-winifred-moore
+- 
+  type: relations/parental/dad
+  item: people/chance-mclaughlin-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-jazmyne-nienow-iv
+- 
+  type: relations/parental/brosis
+  item: people/mr-deon-heidenreich-dvm
+- 
+  type: relations/parental/mom
+  item: people/garret-harber-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-edd-leffler-ii
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/creditor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

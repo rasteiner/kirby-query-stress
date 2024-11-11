@@ -1,0 +1,64 @@
+Title: Reggie Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/alvina-bernier
+- 
+  type: relations/parental/dad
+  item: people/rudolph-koch
+- 
+  type: relations/parental/brosis
+  item: people/dr-lucius-senger
+- 
+  type: relations/parental/dad
+  item: people/ivah-feeney
+- 
+  type: relations/parental/colleague
+  item: people/micah-stokes
+- 
+  type: relations/money/creditor
+  item: people/laurine-spinka
+- 
+  type: relations/money/creditor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/client
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

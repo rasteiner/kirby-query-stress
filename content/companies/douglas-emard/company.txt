@@ -1,0 +1,43 @@
+Title: Douglas-Emard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/haley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/debtor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/creditor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/durgan-baumbach
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/howefurt

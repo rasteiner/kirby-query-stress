@@ -1,0 +1,64 @@
+Title: Harvey Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/eda-koch
+- 
+  type: relations/money/creditor
+  item: people/christa-wisoky
+- 
+  type: relations/parental/brosis
+  item: people/simone-medhurst
+- 
+  type: relations/money/debtor
+  item: people/fanny-terry-ii
+- 
+  type: relations/parental/colleague
+  item: people/hettie-waters
+- 
+  type: relations/money/debtor
+  item: people/prof-roy-feeney
+- 
+  type: relations/work/client
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/creditor
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

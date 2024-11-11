@@ -1,0 +1,64 @@
+Title: Pedro Cronin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brady-stamm-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-janae-herzog
+- 
+  type: relations/money/creditor
+  item: people/izabella-bayer
+- 
+  type: relations/parental/dad
+  item: people/stephany-nicolas
+- 
+  type: relations/parental/mom
+  item: people/elvera-fadel
+- 
+  type: relations/parental/friend
+  item: people/avis-glover
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/client
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/employer
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

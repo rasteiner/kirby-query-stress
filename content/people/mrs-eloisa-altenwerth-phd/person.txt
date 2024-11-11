@@ -1,0 +1,64 @@
+Title: Mrs. Eloisa Altenwerth PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-declan-mclaughlin-ii
+- 
+  type: relations/parental/colleague
+  item: people/rex-ward
+- 
+  type: relations/parental/friend
+  item: people/anastacio-mills
+- 
+  type: relations/parental/colleague
+  item: people/dasia-nolan
+- 
+  type: relations/parental/friend
+  item: people/adam-klocko
+- 
+  type: relations/money/creditor
+  item: people/pauline-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/employer
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/work/employer
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

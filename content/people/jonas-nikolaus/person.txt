@@ -1,0 +1,64 @@
+Title: Jonas Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-tre-gerhold-phd
+- 
+  type: relations/parental/friend
+  item: people/krystal-jacobi
+- 
+  type: relations/parental/brosis
+  item: people/prof-edwardo-lehner
+- 
+  type: relations/money/debtor
+  item: people/dr-maximilian-stokes
+- 
+  type: relations/parental/brosis
+  item: people/coty-mitchell-dvm
+- 
+  type: relations/parental/colleague
+  item: people/gust-bartell
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/work/employer
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/employer
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,43 @@
+Title: Hagenes, Mueller and Schroeder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-gerlach-and-sipes
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/wehner-plc
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/blazemouth

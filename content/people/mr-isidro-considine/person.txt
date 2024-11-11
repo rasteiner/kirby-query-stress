@@ -1,0 +1,64 @@
+Title: Mr. Isidro Considine
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/nikki-fritsch
+- 
+  type: relations/money/debtor
+  item: people/gene-yost-iv
+- 
+  type: relations/parental/mom
+  item: people/faustino-mccullough
+- 
+  type: relations/parental/dad
+  item: people/vilma-o-connell-phd
+- 
+  type: relations/money/creditor
+  item: people/else-lesch-i
+- 
+  type: relations/money/creditor
+  item: people/peter-thompson-iv
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/work/employer
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/work/employer
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

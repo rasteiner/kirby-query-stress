@@ -1,0 +1,64 @@
+Title: Thea Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/barney-bauch
+- 
+  type: relations/parental/dad
+  item: people/constantin-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/elliott-goyette
+- 
+  type: relations/parental/friend
+  item: people/rosalyn-lehner
+- 
+  type: relations/money/debtor
+  item: people/kathleen-klocko-i
+- 
+  type: relations/parental/dad
+  item: people/mrs-katelyn-ledner
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/king-plc
+- 
+  type: relations/work/client
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

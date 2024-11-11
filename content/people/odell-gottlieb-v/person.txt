@@ -1,0 +1,64 @@
+Title: Odell Gottlieb V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kim-osinski
+- 
+  type: relations/parental/colleague
+  item: people/prof-yvette-heathcote
+- 
+  type: relations/parental/mom
+  item: people/prof-rodrick-stark
+- 
+  type: relations/parental/friend
+  item: people/cecile-parisian
+- 
+  type: relations/money/debtor
+  item: people/madison-dibbert
+- 
+  type: relations/parental/friend
+  item: people/alaina-emmerich
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/client
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Valentina Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/earline-greenfelder-i
+- 
+  type: relations/money/creditor
+  item: people/xander-king
+- 
+  type: relations/parental/friend
+  item: people/tyrel-maggio
+- 
+  type: relations/parental/colleague
+  item: people/chelsea-sanford
+- 
+  type: relations/parental/colleague
+  item: people/mrs-margret-kerluke-phd
+- 
+  type: relations/parental/mom
+  item: people/dr-willy-labadie-phd
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/client
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

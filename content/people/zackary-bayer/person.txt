@@ -1,0 +1,64 @@
+Title: Zackary Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-bo-ritchie-jr
+- 
+  type: relations/parental/mom
+  item: people/mr-micheal-o-connell-phd
+- 
+  type: relations/money/debtor
+  item: people/chauncey-littel
+- 
+  type: relations/parental/colleague
+  item: people/yoshiko-o-reilly
+- 
+  type: relations/parental/brosis
+  item: people/marlene-harvey
+- 
+  type: relations/parental/dad
+  item: people/santiago-bradtke
+- 
+  type: relations/money/debtor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/employer
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

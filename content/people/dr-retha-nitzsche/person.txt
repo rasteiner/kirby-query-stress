@@ -1,0 +1,64 @@
+Title: Dr. Retha Nitzsche
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-kiana-ernser-iii
+- 
+  type: relations/parental/friend
+  item: people/rhianna-lueilwitz
+- 
+  type: relations/parental/dad
+  item: people/kylee-runte
+- 
+  type: relations/money/debtor
+  item: people/hanna-wiza
+- 
+  type: relations/parental/brosis
+  item: people/velma-collier-dvm
+- 
+  type: relations/money/creditor
+  item: people/nathen-ortiz-iv
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

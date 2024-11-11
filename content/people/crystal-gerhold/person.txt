@@ -1,0 +1,64 @@
+Title: Crystal Gerhold
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-leonard-satterfield-iii
+- 
+  type: relations/parental/colleague
+  item: people/miss-kaela-mcclure-jr
+- 
+  type: relations/money/creditor
+  item: people/devin-boyle
+- 
+  type: relations/parental/dad
+  item: people/willy-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/prof-ford-spinka
+- 
+  type: relations/money/debtor
+  item: people/jarrell-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

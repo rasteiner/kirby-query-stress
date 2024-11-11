@@ -1,0 +1,64 @@
+Title: Dr. Jaleel Abernathy MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tyrel-maggio
+- 
+  type: relations/money/creditor
+  item: people/chelsea-sanford
+- 
+  type: relations/parental/dad
+  item: people/mrs-margret-kerluke-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-willy-labadie-phd
+- 
+  type: relations/parental/brosis
+  item: people/hellen-homenick
+- 
+  type: relations/parental/mom
+  item: people/freeda-lockman
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/work/employer
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Sedrick Hilll III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-joey-bradtke-dvm
+- 
+  type: relations/parental/brosis
+  item: people/shanie-reynolds
+- 
+  type: relations/money/creditor
+  item: people/maximillian-willms
+- 
+  type: relations/parental/dad
+  item: people/eldred-yundt
+- 
+  type: relations/money/creditor
+  item: people/maximillia-mueller
+- 
+  type: relations/parental/dad
+  item: people/cleora-dooley
+- 
+  type: relations/work/employer
+  item: companies/dooley-ltd
+- 
+  type: relations/work/employer
+  item: companies/abernathy-inc
+- 
+  type: relations/work/employer
+  item: companies/miller-plc
+- 
+  type: relations/work/employer
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

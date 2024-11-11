@@ -1,0 +1,64 @@
+Title: Leanna Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bonnie-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/hallie-howell
+- 
+  type: relations/money/creditor
+  item: people/marge-berge-i
+- 
+  type: relations/parental/mom
+  item: people/dr-janie-windler
+- 
+  type: relations/parental/brosis
+  item: people/krystel-gorczany
+- 
+  type: relations/parental/mom
+  item: people/kenyon-krajcik
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/work/employer
+  item: companies/murazik-thiel
+- 
+  type: relations/money/debtor
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

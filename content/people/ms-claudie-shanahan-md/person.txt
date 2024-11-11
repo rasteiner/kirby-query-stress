@@ -1,0 +1,64 @@
+Title: Ms. Claudie Shanahan MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/beryl-stehr
+- 
+  type: relations/parental/colleague
+  item: people/mrs-lola-metz-jr
+- 
+  type: relations/money/creditor
+  item: people/stacey-waters
+- 
+  type: relations/parental/friend
+  item: people/dr-louisa-krajcik
+- 
+  type: relations/parental/dad
+  item: people/madalyn-torphy
+- 
+  type: relations/parental/colleague
+  item: people/prof-jarrett-bechtelar-i
+- 
+  type: relations/money/creditor
+  item: companies/howe-group
+- 
+  type: relations/work/employer
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

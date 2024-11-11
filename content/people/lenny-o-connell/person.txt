@@ -1,0 +1,64 @@
+Title: Lenny O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-ward-bins
+- 
+  type: relations/money/debtor
+  item: people/prof-ursula-cronin
+- 
+  type: relations/money/debtor
+  item: people/arvel-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/anjali-lind
+- 
+  type: relations/money/debtor
+  item: people/ms-krystina-gibson-dds
+- 
+  type: relations/parental/mom
+  item: people/adolf-cassin
+- 
+  type: relations/work/employer
+  item: companies/mertz-stracke
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-llc
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,65 @@
+Title: Willow Ritchie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-waino-nitzsche-i
+- 
+  type: relations/parental/friend
+  item: people/brandt-borer
+- 
+  type: relations/parental/mom
+  item: people/modesta-windler
+- 
+  type: relations/parental/brosis
+  item: people/mr-darrin-stamm
+- 
+  type: relations/parental/friend
+  item: people/steve-predovic
+- 
+  type: relations/parental/brosis
+  item: people/prof-bria-yost
+- 
+  type: relations/work/employer
+  item: >
+    companies/greenfelder-littel-and-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-thompson-and-hills
+- 
+  type: relations/work/client
+  item: companies/muller-lockman
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

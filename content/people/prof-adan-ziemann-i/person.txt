@@ -1,0 +1,64 @@
+Title: Prof. Adan Ziemann I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marvin-williamson
+- 
+  type: relations/parental/friend
+  item: people/earl-halvorson
+- 
+  type: relations/parental/colleague
+  item: people/viva-welch
+- 
+  type: relations/money/creditor
+  item: people/mrs-lizeth-marvin
+- 
+  type: relations/parental/friend
+  item: people/lempi-bednar
+- 
+  type: relations/money/debtor
+  item: people/chester-gusikowski-jr
+- 
+  type: relations/work/client
+  item: companies/monahan-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/client
+  item: companies/kuvalis-group
+- 
+  type: relations/work/employer
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

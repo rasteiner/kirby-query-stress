@@ -1,0 +1,64 @@
+Title: Dr. Janie Windler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/arthur-hermann
+- 
+  type: relations/parental/brosis
+  item: people/patsy-conn-phd
+- 
+  type: relations/money/debtor
+  item: people/zackary-mertz
+- 
+  type: relations/money/debtor
+  item: people/mr-wilton-conn-iii
+- 
+  type: relations/parental/colleague
+  item: people/eulah-lindgren
+- 
+  type: relations/parental/mom
+  item: people/isadore-schuster
+- 
+  type: relations/money/creditor
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/client
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/client
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

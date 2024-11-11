@@ -1,0 +1,64 @@
+Title: Dr. Alexys Russel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-isobel-west-v
+- 
+  type: relations/parental/mom
+  item: people/kristy-schroeder
+- 
+  type: relations/money/creditor
+  item: people/prof-clint-ondricka-phd
+- 
+  type: relations/parental/dad
+  item: people/ona-mitchell
+- 
+  type: relations/money/debtor
+  item: people/prof-margie-bartoletti
+- 
+  type: relations/parental/friend
+  item: people/candido-johns
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/client
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/client
+  item: companies/kris-inc
+- 
+  type: relations/money/debtor
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

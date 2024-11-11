@@ -1,0 +1,65 @@
+Title: Prof. Dawn Jacobs V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/stephany-nolan
+- 
+  type: relations/parental/mom
+  item: people/mireya-funk
+- 
+  type: relations/parental/brosis
+  item: people/tania-borer
+- 
+  type: relations/parental/mom
+  item: people/francisco-smith
+- 
+  type: relations/parental/friend
+  item: people/sincere-stiedemann
+- 
+  type: relations/parental/colleague
+  item: people/prof-arjun-watsica-i
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/money/creditor
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

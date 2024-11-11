@@ -1,0 +1,64 @@
+Title: Armani Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-danyka-hoppe-md
+- 
+  type: relations/money/debtor
+  item: people/clark-turner
+- 
+  type: relations/money/debtor
+  item: people/miss-winifred-moore
+- 
+  type: relations/parental/friend
+  item: people/chance-mclaughlin-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-jazmyne-nienow-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-deon-heidenreich-dvm
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/hane-plc
+- 
+  type: relations/work/client
+  item: companies/gorczany-funk
+- 
+  type: relations/money/debtor
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Max Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/gino-goldner
+- 
+  type: relations/parental/brosis
+  item: people/marcia-gislason-phd
+- 
+  type: relations/parental/dad
+  item: people/rodrigo-gibson
+- 
+  type: relations/parental/friend
+  item: people/laurianne-hammes
+- 
+  type: relations/money/debtor
+  item: people/avery-rau-sr
+- 
+  type: relations/parental/mom
+  item: people/logan-roob
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

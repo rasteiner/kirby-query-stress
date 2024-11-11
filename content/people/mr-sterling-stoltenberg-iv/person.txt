@@ -1,0 +1,64 @@
+Title: Mr. Sterling Stoltenberg IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-monserrat-block
+- 
+  type: relations/money/creditor
+  item: people/mozell-schaefer
+- 
+  type: relations/parental/mom
+  item: people/elenor-west-dvm
+- 
+  type: relations/money/debtor
+  item: people/jeremy-moore
+- 
+  type: relations/parental/dad
+  item: people/electa-welch
+- 
+  type: relations/parental/brosis
+  item: people/mr-will-wolff
+- 
+  type: relations/work/employer
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/client
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/work/client
+  item: companies/will-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

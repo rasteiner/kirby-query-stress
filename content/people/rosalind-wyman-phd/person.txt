@@ -1,0 +1,64 @@
+Title: Rosalind Wyman PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-sonny-cummerata
+- 
+  type: relations/parental/dad
+  item: people/arlo-lueilwitz
+- 
+  type: relations/parental/brosis
+  item: people/olin-ernser-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-angeline-brakus
+- 
+  type: relations/parental/colleague
+  item: people/prof-cyril-ullrich-dvm
+- 
+  type: relations/parental/mom
+  item: people/calista-lynch
+- 
+  type: relations/work/client
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/client
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/work/client
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

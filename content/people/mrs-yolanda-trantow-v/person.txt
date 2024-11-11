@@ -1,0 +1,64 @@
+Title: Mrs. Yolanda Trantow V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-porter-hand-md
+- 
+  type: relations/parental/friend
+  item: people/lenora-monahan
+- 
+  type: relations/parental/mom
+  item: people/aurelio-conn
+- 
+  type: relations/parental/mom
+  item: people/prof-gudrun-nienow
+- 
+  type: relations/parental/mom
+  item: people/elyse-schmidt-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-ruby-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/employer
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

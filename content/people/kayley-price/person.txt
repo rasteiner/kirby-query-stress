@@ -1,0 +1,64 @@
+Title: Kayley Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/roel-dicki-jr
+- 
+  type: relations/parental/brosis
+  item: people/destinee-kutch
+- 
+  type: relations/money/creditor
+  item: people/prof-joy-cronin
+- 
+  type: relations/money/creditor
+  item: people/shawn-goyette
+- 
+  type: relations/parental/brosis
+  item: people/brice-beier
+- 
+  type: relations/parental/brosis
+  item: people/thea-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

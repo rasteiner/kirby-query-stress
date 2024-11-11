@@ -1,0 +1,64 @@
+Title: Kiera Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/imani-mraz
+- 
+  type: relations/parental/friend
+  item: people/clotilde-armstrong
+- 
+  type: relations/parental/dad
+  item: people/jonathan-harris
+- 
+  type: relations/money/creditor
+  item: people/jessica-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/rory-wisoky-iii
+- 
+  type: relations/parental/friend
+  item: people/antonina-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/work/employer
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

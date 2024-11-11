@@ -1,0 +1,64 @@
+Title: Samson Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/margaretta-cassin
+- 
+  type: relations/parental/colleague
+  item: people/alvina-kohler
+- 
+  type: relations/parental/friend
+  item: people/prof-stefanie-kshlerin-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-newell-lindgren
+- 
+  type: relations/parental/dad
+  item: people/prof-shakira-champlin
+- 
+  type: relations/parental/dad
+  item: people/christina-kautzer
+- 
+  type: relations/work/client
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/harris-veum
+- 
+  type: relations/work/employer
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

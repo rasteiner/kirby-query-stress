@@ -1,0 +1,64 @@
+Title: Dr. Frances O'Connell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kylie-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/mr-philip-rath-dvm
+- 
+  type: relations/parental/colleague
+  item: people/adela-wilkinson-dds
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lexie-batz-v
+- 
+  type: relations/money/creditor
+  item: people/juwan-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/mrs-kirstin-marquardt-i
+- 
+  type: relations/money/creditor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/employer
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/employer
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/connelly-llc
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

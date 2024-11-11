@@ -1,0 +1,64 @@
+Title: Katheryn Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lyda-walter
+- 
+  type: relations/parental/brosis
+  item: people/nicola-walsh
+- 
+  type: relations/parental/brosis
+  item: people/dr-raquel-blanda
+- 
+  type: relations/parental/brosis
+  item: people/dave-cronin
+- 
+  type: relations/parental/dad
+  item: people/donna-walter
+- 
+  type: relations/parental/friend
+  item: people/reagan-gorczany
+- 
+  type: relations/work/client
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/client
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

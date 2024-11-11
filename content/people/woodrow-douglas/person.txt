@@ -1,0 +1,64 @@
+Title: Woodrow Douglas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lolita-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/graham-ruecker
+- 
+  type: relations/parental/friend
+  item: people/angela-wuckert-dvm
+- 
+  type: relations/parental/brosis
+  item: people/dulce-hackett
+- 
+  type: relations/money/debtor
+  item: people/fausto-schultz
+- 
+  type: relations/money/creditor
+  item: people/camden-bailey-dds
+- 
+  type: relations/money/creditor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/employer
+  item: companies/davis-kemmer
+- 
+  type: relations/work/client
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

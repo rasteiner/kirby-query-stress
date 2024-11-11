@@ -1,0 +1,65 @@
+Title: Myriam Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/anne-conroy
+- 
+  type: relations/parental/mom
+  item: people/dr-keeley-conroy-dds
+- 
+  type: relations/parental/mom
+  item: people/mr-christophe-aufderhar-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-lilyan-orn-dds
+- 
+  type: relations/parental/colleague
+  item: people/anderson-thiel
+- 
+  type: relations/parental/brosis
+  item: people/america-ankunding-iv
+- 
+  type: relations/work/employer
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/work/employer
+  item: companies/nienow-watsica
+- 
+  type: relations/work/employer
+  item: companies/thiel-plc
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

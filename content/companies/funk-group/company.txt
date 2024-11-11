@@ -1,0 +1,44 @@
+Title: Funk Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/money/creditor
+  item: companies/weber-lockman
+- 
+  type: relations/money/creditor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/new-marafurt

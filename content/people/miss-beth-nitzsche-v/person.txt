@@ -1,0 +1,64 @@
+Title: Miss Beth Nitzsche V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/makayla-schinner-dvm
+- 
+  type: relations/money/creditor
+  item: people/sylvester-quitzon
+- 
+  type: relations/parental/brosis
+  item: people/madonna-nikolaus
+- 
+  type: relations/parental/mom
+  item: people/ethelyn-jast
+- 
+  type: relations/money/debtor
+  item: people/naomi-welch
+- 
+  type: relations/money/debtor
+  item: people/jettie-hackett
+- 
+  type: relations/work/employer
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/employer
+  item: companies/boehm-group
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

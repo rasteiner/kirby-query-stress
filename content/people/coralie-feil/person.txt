@@ -1,0 +1,64 @@
+Title: Coralie Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-terrance-becker-dvm
+- 
+  type: relations/parental/dad
+  item: people/marcelo-haley
+- 
+  type: relations/parental/brosis
+  item: people/mrs-kenna-koss
+- 
+  type: relations/money/debtor
+  item: people/mr-ernesto-beahan
+- 
+  type: relations/parental/brosis
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/work/client
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

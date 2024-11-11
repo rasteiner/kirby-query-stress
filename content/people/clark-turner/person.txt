@@ -1,0 +1,64 @@
+Title: Clark Turner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/trisha-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/mrs-dianna-pfeffer
+- 
+  type: relations/money/creditor
+  item: people/mikel-thompson
+- 
+  type: relations/parental/friend
+  item: people/lorine-schimmel
+- 
+  type: relations/parental/mom
+  item: people/prof-aniya-purdy
+- 
+  type: relations/parental/mom
+  item: people/prof-leonie-stiedemann
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

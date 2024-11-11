@@ -1,0 +1,64 @@
+Title: Bernardo Hegmann IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-mauricio-parisian
+- 
+  type: relations/parental/brosis
+  item: people/odie-labadie
+- 
+  type: relations/parental/friend
+  item: people/mellie-volkman-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-cloyd-kessler-i
+- 
+  type: relations/money/debtor
+  item: people/dr-ardella-labadie
+- 
+  type: relations/parental/brosis
+  item: people/raheem-gutkowski
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/client
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

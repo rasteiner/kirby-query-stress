@@ -1,0 +1,64 @@
+Title: Shaun Bahringer DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/annetta-swift
+- 
+  type: relations/parental/brosis
+  item: people/billy-king
+- 
+  type: relations/money/creditor
+  item: people/alexandria-smith
+- 
+  type: relations/money/creditor
+  item: people/miss-ines-mraz
+- 
+  type: relations/parental/brosis
+  item: people/prof-hayley-wisoky
+- 
+  type: relations/money/creditor
+  item: people/caleigh-nitzsche
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

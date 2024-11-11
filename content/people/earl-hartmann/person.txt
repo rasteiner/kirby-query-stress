@@ -1,0 +1,64 @@
+Title: Earl Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dortha-terry
+- 
+  type: relations/parental/brosis
+  item: people/winfield-stehr
+- 
+  type: relations/money/creditor
+  item: people/dr-marc-kunze-v
+- 
+  type: relations/parental/brosis
+  item: people/karine-abernathy
+- 
+  type: relations/parental/mom
+  item: people/prof-stefan-tromp
+- 
+  type: relations/parental/dad
+  item: people/carlee-sauer
+- 
+  type: relations/money/debtor
+  item: companies/boyer-llc
+- 
+  type: relations/work/client
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

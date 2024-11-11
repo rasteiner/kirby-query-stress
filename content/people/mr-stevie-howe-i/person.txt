@@ -1,0 +1,64 @@
+Title: Mr. Stevie Howe I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-dock-ruecker
+- 
+  type: relations/parental/brosis
+  item: people/vesta-walsh-dds
+- 
+  type: relations/parental/dad
+  item: people/cordia-hermiston
+- 
+  type: relations/money/debtor
+  item: people/dr-joey-hackett
+- 
+  type: relations/money/creditor
+  item: people/prof-garnet-hartmann
+- 
+  type: relations/parental/friend
+  item: people/mckayla-bode
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/employer
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

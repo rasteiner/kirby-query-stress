@@ -1,0 +1,64 @@
+Title: Clifford Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-brayan-beier
+- 
+  type: relations/parental/brosis
+  item: people/dr-chester-cronin
+- 
+  type: relations/parental/brosis
+  item: people/mr-lowell-medhurst
+- 
+  type: relations/parental/dad
+  item: people/kirsten-bauch
+- 
+  type: relations/money/debtor
+  item: people/opal-o-conner-sr
+- 
+  type: relations/parental/dad
+  item: people/wava-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bailey
+- 
+  type: relations/work/client
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/debtor
+  item: companies/hahn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

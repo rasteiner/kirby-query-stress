@@ -1,0 +1,64 @@
+Title: Louvenia Jakubowski DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/garret-nader-jr
+- 
+  type: relations/parental/dad
+  item: people/virginia-heathcote
+- 
+  type: relations/money/creditor
+  item: people/yvonne-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/virginie-gottlieb
+- 
+  type: relations/parental/friend
+  item: people/ms-tiana-fritsch
+- 
+  type: relations/parental/friend
+  item: people/jaime-jerde
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/work/client
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/creditor
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

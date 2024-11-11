@@ -1,0 +1,64 @@
+Title: Tremaine Nitzsche
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/orion-crist-iii
+- 
+  type: relations/money/creditor
+  item: people/dr-jordon-sawayn
+- 
+  type: relations/parental/brosis
+  item: people/alexander-simonis-iv
+- 
+  type: relations/parental/brosis
+  item: people/donny-rippin
+- 
+  type: relations/parental/dad
+  item: people/eden-batz
+- 
+  type: relations/parental/friend
+  item: people/eloisa-sporer
+- 
+  type: relations/work/client
+  item: companies/littel-group
+- 
+  type: relations/work/employer
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/employer
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

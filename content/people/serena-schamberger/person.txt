@@ -1,0 +1,64 @@
+Title: Serena Schamberger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-samanta-volkman-ii
+- 
+  type: relations/parental/colleague
+  item: people/candelario-towne
+- 
+  type: relations/money/creditor
+  item: people/caesar-schmeler
+- 
+  type: relations/parental/colleague
+  item: people/mr-charlie-predovic
+- 
+  type: relations/parental/friend
+  item: people/bryana-torphy-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-zena-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/client
+  item: companies/rath-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Miss Kirstin Nolan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/shania-ryan
+- 
+  type: relations/parental/friend
+  item: people/ms-claudie-shanahan-md
+- 
+  type: relations/money/creditor
+  item: people/eugene-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/hans-cronin
+- 
+  type: relations/money/creditor
+  item: people/lyda-walter
+- 
+  type: relations/parental/colleague
+  item: people/nicola-walsh
+- 
+  type: relations/money/debtor
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

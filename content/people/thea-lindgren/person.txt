@@ -1,0 +1,64 @@
+Title: Thea Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/damian-herman
+- 
+  type: relations/parental/colleague
+  item: people/ms-kaelyn-kutch-dds
+- 
+  type: relations/parental/brosis
+  item: people/rosendo-mertz
+- 
+  type: relations/parental/dad
+  item: people/rhiannon-schoen
+- 
+  type: relations/parental/brosis
+  item: people/mrs-deja-marks-ii
+- 
+  type: relations/parental/friend
+  item: people/heber-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

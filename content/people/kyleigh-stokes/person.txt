@@ -1,0 +1,64 @@
+Title: Kyleigh Stokes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/janick-ward-dds
+- 
+  type: relations/parental/mom
+  item: people/kobe-wiegand
+- 
+  type: relations/parental/dad
+  item: people/mr-alfred-weber
+- 
+  type: relations/money/debtor
+  item: people/lorna-langosh
+- 
+  type: relations/parental/brosis
+  item: people/howell-schmidt-dvm
+- 
+  type: relations/parental/colleague
+  item: people/lawrence-stokes
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/work/employer
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/client
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

@@ -1,0 +1,65 @@
+Title: Scot Howell II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/earl-douglas-i
+- 
+  type: relations/money/debtor
+  item: people/tamia-quitzon-iii
+- 
+  type: relations/parental/brosis
+  item: people/tobin-bergstrom
+- 
+  type: relations/parental/brosis
+  item: people/makenzie-raynor-iv
+- 
+  type: relations/money/debtor
+  item: people/russel-hodkiewicz
+- 
+  type: relations/parental/colleague
+  item: people/michale-ebert
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/client
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/haley-inc
+- 
+  type: relations/work/client
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

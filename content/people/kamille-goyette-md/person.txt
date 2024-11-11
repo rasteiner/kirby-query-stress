@@ -1,0 +1,64 @@
+Title: Kamille Goyette MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/evangeline-funk
+- 
+  type: relations/parental/dad
+  item: people/mrs-verna-paucek
+- 
+  type: relations/parental/colleague
+  item: people/jamir-adams
+- 
+  type: relations/parental/brosis
+  item: people/ms-hope-aufderhar
+- 
+  type: relations/parental/brosis
+  item: people/abdiel-durgan
+- 
+  type: relations/money/creditor
+  item: people/kim-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/money/debtor
+  item: companies/oberbrunner-llc
+- 
+  type: relations/work/employer
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

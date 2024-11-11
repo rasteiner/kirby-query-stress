@@ -1,0 +1,64 @@
+Title: Monserrate Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/albin-hilll
+- 
+  type: relations/money/debtor
+  item: people/cory-gottlieb
+- 
+  type: relations/money/debtor
+  item: people/carolanne-runolfsson-dds
+- 
+  type: relations/parental/dad
+  item: people/raheem-leffler
+- 
+  type: relations/parental/dad
+  item: people/reva-kohler
+- 
+  type: relations/parental/friend
+  item: people/madeline-leuschke
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-inc
+- 
+  type: relations/work/employer
+  item: companies/sauer-ltd
+- 
+  type: relations/work/client
+  item: companies/roob-heathcote
+- 
+  type: relations/money/debtor
+  item: companies/haley-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

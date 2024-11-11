@@ -1,0 +1,64 @@
+Title: Tania Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-mable-krajcik
+- 
+  type: relations/money/debtor
+  item: people/dr-roscoe-abernathy-dvm
+- 
+  type: relations/parental/mom
+  item: people/elinor-johns
+- 
+  type: relations/money/debtor
+  item: people/ms-wilhelmine-keebler
+- 
+  type: relations/parental/brosis
+  item: people/shyanne-muller-i
+- 
+  type: relations/parental/brosis
+  item: people/may-feeney
+- 
+  type: relations/money/creditor
+  item: companies/wehner-turcotte-and-jacobi
+- 
+  type: relations/work/client
+  item: companies/weber-inc
+- 
+  type: relations/work/client
+  item: companies/dickens-bode
+- 
+  type: relations/work/client
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

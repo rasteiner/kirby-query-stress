@@ -1,0 +1,64 @@
+Title: Maxie Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/keith-waelchi
+- 
+  type: relations/parental/mom
+  item: people/jewel-stroman
+- 
+  type: relations/money/creditor
+  item: people/collin-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/dovie-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/nora-thompson
+- 
+  type: relations/parental/dad
+  item: people/marty-welch
+- 
+  type: relations/work/employer
+  item: companies/mertz-ltd
+- 
+  type: relations/work/client
+  item: companies/stanton-plc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-group
+- 
+  type: relations/money/debtor
+  item: companies/russel-skiles
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

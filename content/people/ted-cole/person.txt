@@ -1,0 +1,64 @@
+Title: Ted Cole
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kasandra-balistreri
+- 
+  type: relations/parental/mom
+  item: people/bernadine-champlin
+- 
+  type: relations/parental/brosis
+  item: people/zola-mraz
+- 
+  type: relations/money/debtor
+  item: people/moshe-leuschke
+- 
+  type: relations/money/creditor
+  item: people/kenton-doyle
+- 
+  type: relations/parental/dad
+  item: people/dr-kellen-fay-iii
+- 
+  type: relations/work/client
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/moore-llc
+- 
+  type: relations/money/creditor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

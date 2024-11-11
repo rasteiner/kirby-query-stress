@@ -1,0 +1,66 @@
+Title: Jaden Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mona-durgan
+- 
+  type: relations/parental/mom
+  item: people/prof-juwan-jenkins
+- 
+  type: relations/parental/mom
+  item: people/remington-abshire
+- 
+  type: relations/money/creditor
+  item: people/cali-haley
+- 
+  type: relations/parental/brosis
+  item: people/jarod-gerhold
+- 
+  type: relations/money/creditor
+  item: people/ismael-oberbrunner
+- 
+  type: relations/money/creditor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/work/employer
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Daphney Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mckenzie-sauer-dds
+- 
+  type: relations/parental/dad
+  item: people/theodora-christiansen
+- 
+  type: relations/parental/friend
+  item: people/donato-brown
+- 
+  type: relations/parental/brosis
+  item: people/dr-jammie-wiegand
+- 
+  type: relations/money/debtor
+  item: people/kailee-hermann
+- 
+  type: relations/money/debtor
+  item: people/jaycee-schroeder
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

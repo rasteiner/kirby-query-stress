@@ -1,0 +1,43 @@
+Title: Little-Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/huels-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/white-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/hackett-inc
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

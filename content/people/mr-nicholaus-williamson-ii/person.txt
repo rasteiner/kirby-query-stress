@@ -1,0 +1,65 @@
+Title: Mr. Nicholaus Williamson II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/marlen-harris
+- 
+  type: relations/parental/mom
+  item: people/hope-bauch
+- 
+  type: relations/parental/brosis
+  item: people/scarlett-schinner-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-cary-kihn-dds
+- 
+  type: relations/parental/colleague
+  item: people/loren-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/mr-brando-daniel-v
+- 
+  type: relations/work/employer
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/lemke-ltd
+- 
+  type: relations/work/client
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

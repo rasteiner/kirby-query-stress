@@ -1,0 +1,64 @@
+Title: Prof. Vito Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/trey-crona
+- 
+  type: relations/money/creditor
+  item: people/sharon-boehm-phd
+- 
+  type: relations/money/creditor
+  item: people/melissa-thiel
+- 
+  type: relations/money/debtor
+  item: people/dr-garnet-runte-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-olen-bradtke
+- 
+  type: relations/parental/brosis
+  item: people/mollie-swift-dvm
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-inc
+- 
+  type: relations/money/creditor
+  item: companies/raynor-rippin
+- 
+  type: relations/money/creditor
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

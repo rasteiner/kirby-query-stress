@@ -1,0 +1,64 @@
+Title: Cora Parker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bert-hills-v
+- 
+  type: relations/money/creditor
+  item: people/shirley-luettgen
+- 
+  type: relations/parental/friend
+  item: people/dr-wilbert-hackett-iv
+- 
+  type: relations/parental/dad
+  item: people/marc-lowe
+- 
+  type: relations/money/debtor
+  item: people/eulalia-skiles
+- 
+  type: relations/money/creditor
+  item: people/hayley-friesen
+- 
+  type: relations/money/debtor
+  item: companies/brekke-howe-and-smith
+- 
+  type: relations/money/debtor
+  item: companies/will-hyatt-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/kunze-kuhn-and-price
+- 
+  type: relations/work/client
+  item: companies/bins-ankunding
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

@@ -1,0 +1,64 @@
+Title: Faustino McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maximilian-corkery-md
+- 
+  type: relations/parental/dad
+  item: people/mr-newton-boehm-md
+- 
+  type: relations/money/creditor
+  item: people/rylee-bins
+- 
+  type: relations/money/creditor
+  item: people/meda-corwin
+- 
+  type: relations/money/debtor
+  item: people/emil-kozey
+- 
+  type: relations/parental/dad
+  item: people/marcos-brekke
+- 
+  type: relations/work/client
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

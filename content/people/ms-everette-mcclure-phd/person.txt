@@ -1,0 +1,64 @@
+Title: Ms. Everette McClure PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-toby-lebsack
+- 
+  type: relations/parental/dad
+  item: people/prof-imogene-blanda
+- 
+  type: relations/parental/mom
+  item: people/andy-kling
+- 
+  type: relations/parental/friend
+  item: people/dr-zoie-bradtke-iii
+- 
+  type: relations/parental/brosis
+  item: people/coby-murazik-ii
+- 
+  type: relations/parental/colleague
+  item: people/mireya-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/stokes-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/rippin-bode
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

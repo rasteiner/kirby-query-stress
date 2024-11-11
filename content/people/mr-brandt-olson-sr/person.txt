@@ -1,0 +1,64 @@
+Title: Mr. Brandt Olson Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nathen-goldner
+- 
+  type: relations/parental/brosis
+  item: people/mr-ibrahim-ledner
+- 
+  type: relations/money/debtor
+  item: people/sarai-schulist
+- 
+  type: relations/parental/colleague
+  item: people/ron-o-keefe-md
+- 
+  type: relations/money/creditor
+  item: people/annabel-witting-phd
+- 
+  type: relations/parental/colleague
+  item: people/americo-wisoky
+- 
+  type: relations/work/client
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/work/client
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/money/debtor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/work/client
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

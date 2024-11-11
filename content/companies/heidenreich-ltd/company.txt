@@ -1,0 +1,43 @@
+Title: Heidenreich Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/creditor
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-huels
+- 
+  type: relations/money/debtor
+  item: companies/williamson-willms
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/cremin-durgan
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/east-dante

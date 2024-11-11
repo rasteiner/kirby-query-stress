@@ -1,0 +1,64 @@
+Title: Prof. Garnet Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/chet-mayer
+- 
+  type: relations/parental/dad
+  item: people/virginia-klein
+- 
+  type: relations/money/debtor
+  item: people/genevieve-cruickshank-v
+- 
+  type: relations/parental/dad
+  item: people/jonathon-stokes
+- 
+  type: relations/parental/colleague
+  item: people/marge-pacocha
+- 
+  type: relations/parental/friend
+  item: people/matteo-walker
+- 
+  type: relations/work/employer
+  item: companies/hermiston-farrell
+- 
+  type: relations/work/employer
+  item: companies/kuhic-ltd
+- 
+  type: relations/work/client
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

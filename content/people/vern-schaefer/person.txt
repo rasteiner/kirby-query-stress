@@ -1,0 +1,64 @@
+Title: Vern Schaefer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cassie-cummerata
+- 
+  type: relations/parental/friend
+  item: people/fidel-renner
+- 
+  type: relations/parental/friend
+  item: people/velva-volkman
+- 
+  type: relations/parental/mom
+  item: people/rory-lehner
+- 
+  type: relations/parental/mom
+  item: people/stephen-rolfson
+- 
+  type: relations/money/creditor
+  item: people/maxwell-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-berge
+- 
+  type: relations/work/employer
+  item: companies/king-schaefer
+- 
+  type: relations/money/creditor
+  item: companies/volkman-group
+- 
+  type: relations/work/employer
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

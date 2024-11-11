@@ -1,0 +1,64 @@
+Title: Dr. Aletha Breitenberg MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/emiliano-sauer-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-jackeline-murazik-md
+- 
+  type: relations/parental/colleague
+  item: people/laverne-goodwin
+- 
+  type: relations/money/debtor
+  item: people/marisa-gaylord
+- 
+  type: relations/money/debtor
+  item: people/ted-powlowski-iii
+- 
+  type: relations/money/creditor
+  item: people/prof-myra-friesen-dvm
+- 
+  type: relations/work/employer
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/employer
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

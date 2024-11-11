@@ -1,0 +1,43 @@
+Title: Effertz LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/becker-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/money/debtor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/creditor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/consueloberg

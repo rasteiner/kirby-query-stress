@@ -1,0 +1,64 @@
+Title: Dr. Lindsay Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/wanda-kutch
+- 
+  type: relations/parental/dad
+  item: people/braxton-kihn
+- 
+  type: relations/parental/brosis
+  item: people/magnolia-morissette-dvm
+- 
+  type: relations/parental/colleague
+  item: people/theresia-kulas-phd
+- 
+  type: relations/parental/dad
+  item: people/ned-nolan
+- 
+  type: relations/parental/mom
+  item: people/rowena-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/employer
+  item: companies/waters-collins
+- 
+  type: relations/work/client
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

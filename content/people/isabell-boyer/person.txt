@@ -1,0 +1,64 @@
+Title: Isabell Boyer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/isidro-bailey
+- 
+  type: relations/parental/mom
+  item: people/nakia-stroman
+- 
+  type: relations/money/debtor
+  item: people/dr-ray-schmidt
+- 
+  type: relations/parental/mom
+  item: people/dr-ellsworth-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/miss-zoie-pagac-iv
+- 
+  type: relations/parental/brosis
+  item: people/maybelle-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/gaylord-blick-and-greenholt
+- 
+  type: relations/money/debtor
+  item: companies/murphy-inc
+- 
+  type: relations/work/client
+  item: companies/schneider-miller-and-lemke
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-keebler-and-roob
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

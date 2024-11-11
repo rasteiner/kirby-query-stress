@@ -1,0 +1,64 @@
+Title: Cali Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/erica-schulist
+- 
+  type: relations/parental/colleague
+  item: people/dr-miles-prosacco-v
+- 
+  type: relations/parental/mom
+  item: people/dr-alicia-dickens
+- 
+  type: relations/money/creditor
+  item: people/prof-oleta-lubowitz
+- 
+  type: relations/parental/dad
+  item: people/ronny-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/rita-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/creditor
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Miss Jeanne Leuschke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/cedrick-dickens
+- 
+  type: relations/money/creditor
+  item: people/larry-walter
+- 
+  type: relations/parental/friend
+  item: people/mr-cornell-bogan
+- 
+  type: relations/money/creditor
+  item: people/katheryn-bayer
+- 
+  type: relations/parental/friend
+  item: people/neil-hansen-jr
+- 
+  type: relations/money/creditor
+  item: people/abigail-fadel
+- 
+  type: relations/money/debtor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/work/employer
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

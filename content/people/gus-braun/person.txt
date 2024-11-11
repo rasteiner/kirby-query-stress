@@ -1,0 +1,64 @@
+Title: Gus Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jerry-christiansen
+- 
+  type: relations/parental/friend
+  item: people/nikki-stamm-dvm
+- 
+  type: relations/parental/mom
+  item: people/mr-francesco-stroman-jr
+- 
+  type: relations/parental/mom
+  item: people/avis-morar
+- 
+  type: relations/parental/dad
+  item: people/judson-homenick
+- 
+  type: relations/parental/friend
+  item: people/paul-welch
+- 
+  type: relations/money/creditor
+  item: companies/waters-and-sons
+- 
+  type: relations/work/client
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

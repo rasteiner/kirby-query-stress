@@ -1,0 +1,64 @@
+Title: Eriberto Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jamaal-o-reilly
+- 
+  type: relations/parental/dad
+  item: people/jennings-blanda
+- 
+  type: relations/money/creditor
+  item: people/dr-quinton-goldner
+- 
+  type: relations/parental/friend
+  item: people/mr-ricky-wintheiser-i
+- 
+  type: relations/parental/friend
+  item: people/kyleigh-nicolas
+- 
+  type: relations/parental/brosis
+  item: people/sidney-ledner
+- 
+  type: relations/money/creditor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/employer
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

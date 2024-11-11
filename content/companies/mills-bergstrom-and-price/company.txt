@@ -1,0 +1,43 @@
+Title: Mills, Bergstrom and Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/howell-plc
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/kathrynestad
+- 
+  type: relations/location/visited
+  item: places/kadinview

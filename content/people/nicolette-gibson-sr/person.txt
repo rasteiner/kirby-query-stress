@@ -1,0 +1,64 @@
+Title: Nicolette Gibson Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/darion-simonis
+- 
+  type: relations/parental/friend
+  item: people/ted-cole
+- 
+  type: relations/parental/dad
+  item: people/vicky-franecki
+- 
+  type: relations/parental/mom
+  item: people/jacklyn-windler
+- 
+  type: relations/money/creditor
+  item: people/ken-dickinson
+- 
+  type: relations/money/debtor
+  item: people/mr-brock-willms-jr
+- 
+  type: relations/money/creditor
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

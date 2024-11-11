@@ -1,0 +1,64 @@
+Title: Markus Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/wilber-flatley
+- 
+  type: relations/parental/colleague
+  item: people/adaline-corwin
+- 
+  type: relations/parental/mom
+  item: people/christina-zemlak-ii
+- 
+  type: relations/parental/colleague
+  item: people/kiley-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/willow-gerhold
+- 
+  type: relations/parental/dad
+  item: people/halie-parisian-v
+- 
+  type: relations/money/debtor
+  item: companies/carter-inc
+- 
+  type: relations/work/client
+  item: companies/wuckert-bauch
+- 
+  type: relations/money/creditor
+  item: companies/zieme-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/heller-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

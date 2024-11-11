@@ -1,0 +1,64 @@
+Title: Carmela Daniel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-arlene-davis-dvm
+- 
+  type: relations/parental/mom
+  item: people/lamont-herman
+- 
+  type: relations/parental/dad
+  item: people/benjamin-schuster
+- 
+  type: relations/parental/brosis
+  item: people/estevan-bins
+- 
+  type: relations/parental/friend
+  item: people/maryse-jacobson
+- 
+  type: relations/parental/brosis
+  item: people/leatha-brown
+- 
+  type: relations/work/client
+  item: companies/metz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

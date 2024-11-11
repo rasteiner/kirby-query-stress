@@ -1,0 +1,64 @@
+Title: Zella Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-stephania-ruecker
+- 
+  type: relations/parental/friend
+  item: people/gladys-lind
+- 
+  type: relations/parental/colleague
+  item: people/barney-bauch
+- 
+  type: relations/parental/friend
+  item: people/constantin-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/elliott-goyette
+- 
+  type: relations/money/creditor
+  item: people/rosalyn-lehner
+- 
+  type: relations/work/employer
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/crist-inc
+- 
+  type: relations/work/client
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

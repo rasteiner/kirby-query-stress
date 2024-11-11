@@ -1,0 +1,64 @@
+Title: Alford Kuphal DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/beryl-zulauf
+- 
+  type: relations/money/creditor
+  item: people/jacinto-vonrueden
+- 
+  type: relations/parental/mom
+  item: people/bertram-collins
+- 
+  type: relations/parental/mom
+  item: people/joan-conroy-jr
+- 
+  type: relations/parental/dad
+  item: people/ashly-senger
+- 
+  type: relations/parental/colleague
+  item: people/mafalda-vonrueden
+- 
+  type: relations/work/client
+  item: companies/harber-group
+- 
+  type: relations/work/client
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/debtor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

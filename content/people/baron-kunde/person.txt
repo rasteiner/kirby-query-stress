@@ -1,0 +1,64 @@
+Title: Baron Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/reilly-wehner-i
+- 
+  type: relations/parental/colleague
+  item: people/cleta-kulas
+- 
+  type: relations/parental/mom
+  item: people/mr-monte-kerluke
+- 
+  type: relations/parental/dad
+  item: people/onie-howell
+- 
+  type: relations/parental/mom
+  item: people/carleton-boyer-sr
+- 
+  type: relations/parental/friend
+  item: people/arianna-grant
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/employer
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

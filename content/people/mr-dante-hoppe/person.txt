@@ -1,0 +1,64 @@
+Title: Mr. Dante Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-barton-erdman-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-saige-weimann
+- 
+  type: relations/parental/brosis
+  item: people/piper-ward
+- 
+  type: relations/parental/dad
+  item: people/dr-judson-gleason
+- 
+  type: relations/money/debtor
+  item: people/katharina-halvorson
+- 
+  type: relations/parental/friend
+  item: people/kenneth-sauer
+- 
+  type: relations/work/client
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/work/client
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

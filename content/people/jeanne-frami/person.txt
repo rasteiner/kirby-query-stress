@@ -1,0 +1,64 @@
+Title: Jeanne Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-dante-hoppe
+- 
+  type: relations/money/debtor
+  item: people/frieda-cummerata
+- 
+  type: relations/parental/brosis
+  item: people/burnice-eichmann-iv
+- 
+  type: relations/money/creditor
+  item: people/ramon-strosin
+- 
+  type: relations/parental/colleague
+  item: people/prof-stuart-leannon
+- 
+  type: relations/parental/dad
+  item: people/lisette-veum
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

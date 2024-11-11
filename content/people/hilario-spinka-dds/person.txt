@@ -1,0 +1,64 @@
+Title: Hilario Spinka DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/keon-runte
+- 
+  type: relations/parental/mom
+  item: people/rosalind-wyman-phd
+- 
+  type: relations/parental/mom
+  item: people/aubrey-lemke
+- 
+  type: relations/parental/dad
+  item: people/luella-hoeger
+- 
+  type: relations/parental/brosis
+  item: people/edna-borer
+- 
+  type: relations/parental/dad
+  item: people/elissa-marvin
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/employer
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

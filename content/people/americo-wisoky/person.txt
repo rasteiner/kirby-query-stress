@@ -1,0 +1,64 @@
+Title: Americo Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mikel-thompson
+- 
+  type: relations/parental/colleague
+  item: people/lorine-schimmel
+- 
+  type: relations/money/debtor
+  item: people/prof-aniya-purdy
+- 
+  type: relations/parental/brosis
+  item: people/prof-leonie-stiedemann
+- 
+  type: relations/parental/mom
+  item: people/dr-linnea-king-phd
+- 
+  type: relations/parental/dad
+  item: people/luther-reilly
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/work/client
+  item: companies/nicolas-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

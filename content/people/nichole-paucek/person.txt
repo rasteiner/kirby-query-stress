@@ -1,0 +1,64 @@
+Title: Nichole Paucek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-priscilla-renner
+- 
+  type: relations/parental/colleague
+  item: people/mr-ottis-ondricka-jr
+- 
+  type: relations/parental/dad
+  item: people/mr-werner-macejkovic
+- 
+  type: relations/parental/mom
+  item: people/dr-desmond-ryan
+- 
+  type: relations/money/creditor
+  item: people/ena-hayes
+- 
+  type: relations/money/creditor
+  item: people/ryleigh-haley-i
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/morissette-jerde
+- 
+  type: relations/work/employer
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Griffin Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/evie-fritsch
+- 
+  type: relations/parental/dad
+  item: people/jammie-sawayn-ii
+- 
+  type: relations/money/debtor
+  item: people/laisha-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/dr-zita-volkman
+- 
+  type: relations/parental/mom
+  item: people/emmet-wisozk-v
+- 
+  type: relations/parental/mom
+  item: people/sofia-rohan
+- 
+  type: relations/money/creditor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/client
+  item: companies/farrell-green
+- 
+  type: relations/work/client
+  item: companies/predovic-plc
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

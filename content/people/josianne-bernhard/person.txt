@@ -1,0 +1,64 @@
+Title: Josianne Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jennie-feeney
+- 
+  type: relations/parental/mom
+  item: people/dr-tate-kilback
+- 
+  type: relations/money/debtor
+  item: people/cara-kovacek
+- 
+  type: relations/money/debtor
+  item: people/daren-goldner
+- 
+  type: relations/parental/brosis
+  item: people/sheila-bode
+- 
+  type: relations/parental/friend
+  item: people/marianna-parisian
+- 
+  type: relations/work/employer
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-plc
+- 
+  type: relations/money/creditor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

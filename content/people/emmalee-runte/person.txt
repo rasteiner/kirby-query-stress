@@ -1,0 +1,64 @@
+Title: Emmalee Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lauren-zboncak-sr
+- 
+  type: relations/parental/dad
+  item: people/mr-drake-schumm
+- 
+  type: relations/parental/brosis
+  item: people/america-cummerata
+- 
+  type: relations/parental/mom
+  item: people/jaycee-lang-phd
+- 
+  type: relations/money/creditor
+  item: people/prof-magdalena-rogahn-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-anais-jones
+- 
+  type: relations/work/client
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

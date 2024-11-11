@@ -1,0 +1,64 @@
+Title: Avery Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/murl-wolf-ii
+- 
+  type: relations/parental/dad
+  item: people/zackary-bode-dds
+- 
+  type: relations/parental/friend
+  item: people/mrs-thea-nader
+- 
+  type: relations/parental/colleague
+  item: people/reese-kunze-dds
+- 
+  type: relations/parental/mom
+  item: people/kristy-vonrueden
+- 
+  type: relations/money/debtor
+  item: people/elmira-cummings
+- 
+  type: relations/money/debtor
+  item: companies/hand-schuster
+- 
+  type: relations/work/client
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/debtor
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Russell Paucek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/danika-lowe-jr
+- 
+  type: relations/money/creditor
+  item: people/erica-yundt
+- 
+  type: relations/parental/dad
+  item: people/ms-celine-lueilwitz-dds
+- 
+  type: relations/parental/brosis
+  item: people/cali-daniel
+- 
+  type: relations/parental/mom
+  item: people/joany-stehr
+- 
+  type: relations/money/debtor
+  item: people/dr-osborne-murray
+- 
+  type: relations/money/debtor
+  item: companies/erdman-runte-and-schultz
+- 
+  type: relations/work/client
+  item: companies/schimmel-inc
+- 
+  type: relations/money/debtor
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/money/debtor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

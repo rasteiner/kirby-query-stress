@@ -1,0 +1,64 @@
+Title: Gordon Ruecker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/parental/friend
+  item: people/reyes-koepp
+- 
+  type: relations/parental/brosis
+  item: people/buck-erdman
+- 
+  type: relations/parental/dad
+  item: people/prof-mervin-renner
+- 
+  type: relations/parental/brosis
+  item: people/berry-osinski
+- 
+  type: relations/money/creditor
+  item: people/franco-mcdermott
+- 
+  type: relations/work/employer
+  item: companies/o-connell-inc
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/work/client
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

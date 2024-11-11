@@ -1,0 +1,64 @@
+Title: Geo Robel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-elyssa-gulgowski-v
+- 
+  type: relations/money/creditor
+  item: people/alysha-borer-iii
+- 
+  type: relations/money/debtor
+  item: people/clare-schimmel
+- 
+  type: relations/money/debtor
+  item: people/jordon-gibson
+- 
+  type: relations/parental/brosis
+  item: people/dr-keanu-tromp
+- 
+  type: relations/parental/dad
+  item: people/keara-treutel
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kozey-group
+- 
+  type: relations/money/debtor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

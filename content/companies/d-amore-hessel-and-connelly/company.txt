@@ -1,0 +1,43 @@
+Title: D'Amore, Hessel and Connelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/heller-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/money/creditor
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/debtor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/creditor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-group
+- 
+  type: relations/location/visited
+  item: places/cristfurt
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/new-alleneville

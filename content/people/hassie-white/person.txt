@@ -1,0 +1,64 @@
+Title: Hassie White
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-kianna-mckenzie-iv
+- 
+  type: relations/parental/mom
+  item: people/amir-marks
+- 
+  type: relations/money/debtor
+  item: people/harry-cremin
+- 
+  type: relations/parental/brosis
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/parental/brosis
+  item: people/christian-cruickshank-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-travon-hamill
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/client
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/client
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

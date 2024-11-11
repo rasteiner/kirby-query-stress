@@ -1,0 +1,64 @@
+Title: Mireya Boehm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/maribel-mcglynn-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-vinnie-parisian-sr
+- 
+  type: relations/money/debtor
+  item: people/cornelius-keebler
+- 
+  type: relations/parental/dad
+  item: people/nya-fisher
+- 
+  type: relations/parental/brosis
+  item: people/brad-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/mr-sterling-stoltenberg-iv
+- 
+  type: relations/work/employer
+  item: companies/stanton-bailey
+- 
+  type: relations/work/employer
+  item: companies/lind-lubowitz
+- 
+  type: relations/money/debtor
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

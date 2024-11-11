@@ -1,0 +1,64 @@
+Title: Nyasia Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-vada-von-sr
+- 
+  type: relations/parental/mom
+  item: people/carli-kuvalis
+- 
+  type: relations/parental/friend
+  item: people/jamarcus-streich
+- 
+  type: relations/parental/brosis
+  item: people/prof-ettie-jacobs-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-alejandrin-bernier
+- 
+  type: relations/money/debtor
+  item: people/dr-general-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/work/employer
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

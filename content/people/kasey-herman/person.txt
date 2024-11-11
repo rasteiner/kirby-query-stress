@@ -1,0 +1,64 @@
+Title: Kasey Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-bo-ritchie-jr
+- 
+  type: relations/parental/friend
+  item: people/mr-micheal-o-connell-phd
+- 
+  type: relations/parental/dad
+  item: people/chauncey-littel
+- 
+  type: relations/money/debtor
+  item: people/yoshiko-o-reilly
+- 
+  type: relations/money/debtor
+  item: people/marlene-harvey
+- 
+  type: relations/parental/friend
+  item: people/santiago-bradtke
+- 
+  type: relations/money/debtor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/client
+  item: companies/johns-turcotte
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

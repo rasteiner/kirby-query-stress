@@ -1,0 +1,65 @@
+Title: Ms. Letitia Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/raymond-gleason
+- 
+  type: relations/parental/brosis
+  item: people/fermin-renner
+- 
+  type: relations/parental/brosis
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/colleague
+  item: people/hilma-smith
+- 
+  type: relations/parental/friend
+  item: people/prof-edison-bartell-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-carmella-crona
+- 
+  type: relations/work/client
+  item: >
+    companies/prosacco-raynor-and-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/money/creditor
+  item: companies/nienow-watsica
+- 
+  type: relations/money/creditor
+  item: companies/thiel-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

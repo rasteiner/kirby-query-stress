@@ -1,0 +1,64 @@
+Title: Joseph Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/bill-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/dr-eric-quigley-iii
+- 
+  type: relations/parental/friend
+  item: people/ethyl-miller
+- 
+  type: relations/money/debtor
+  item: people/mose-mosciski
+- 
+  type: relations/parental/dad
+  item: people/prof-lee-o-connell-md
+- 
+  type: relations/parental/dad
+  item: people/noah-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/weimann-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/hagenes-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/schneider-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

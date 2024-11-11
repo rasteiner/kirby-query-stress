@@ -1,0 +1,64 @@
+Title: Prof. Rasheed Mraz I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/deon-king
+- 
+  type: relations/parental/mom
+  item: people/candida-huels
+- 
+  type: relations/parental/brosis
+  item: people/theresa-sauer
+- 
+  type: relations/money/debtor
+  item: people/adrain-mcclure
+- 
+  type: relations/money/debtor
+  item: people/mr-trevor-becker-dvm
+- 
+  type: relations/parental/colleague
+  item: people/josephine-bernhard
+- 
+  type: relations/work/client
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/employer
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

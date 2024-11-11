@@ -1,0 +1,64 @@
+Title: Nelle Gorczany
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/sheila-bode
+- 
+  type: relations/money/creditor
+  item: people/marianna-parisian
+- 
+  type: relations/parental/dad
+  item: people/lonnie-mann
+- 
+  type: relations/parental/mom
+  item: people/luther-runolfsdottir
+- 
+  type: relations/parental/mom
+  item: people/prof-maxwell-durgan-jr
+- 
+  type: relations/money/debtor
+  item: people/jaqueline-skiles-md
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

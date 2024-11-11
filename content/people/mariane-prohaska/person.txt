@@ -1,0 +1,64 @@
+Title: Mariane Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-amira-powlowski
+- 
+  type: relations/parental/mom
+  item: people/anjali-greenfelder
+- 
+  type: relations/parental/brosis
+  item: people/amara-fahey-dvm
+- 
+  type: relations/parental/brosis
+  item: people/aida-heaney
+- 
+  type: relations/parental/dad
+  item: people/cecil-mcclure
+- 
+  type: relations/parental/brosis
+  item: people/cassandra-runolfsdottir
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

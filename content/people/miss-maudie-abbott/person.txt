@@ -1,0 +1,64 @@
+Title: Miss Maudie Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/myriam-mccullough
+- 
+  type: relations/money/debtor
+  item: people/mollie-stanton
+- 
+  type: relations/parental/friend
+  item: people/julius-fadel
+- 
+  type: relations/money/creditor
+  item: people/mrs-justina-cremin
+- 
+  type: relations/parental/friend
+  item: people/abbey-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/martin-romaguera-iv
+- 
+  type: relations/money/creditor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/work/client
+  item: companies/leffler-inc
+- 
+  type: relations/work/client
+  item: companies/schroeder-group
+- 
+  type: relations/work/client
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

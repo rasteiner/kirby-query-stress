@@ -1,0 +1,64 @@
+Title: Mae Wyman V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-garett-schulist
+- 
+  type: relations/parental/dad
+  item: people/cedrick-torp
+- 
+  type: relations/money/creditor
+  item: people/denis-ebert-ii
+- 
+  type: relations/money/creditor
+  item: people/mr-ward-will-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/lila-walter
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/client
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

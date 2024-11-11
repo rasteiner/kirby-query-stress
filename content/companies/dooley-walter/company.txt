@@ -1,0 +1,44 @@
+Title: Dooley-Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-inc
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/thiel-inc
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/robertstown
+- 
+  type: relations/location/residence
+  item: places/hillardburgh

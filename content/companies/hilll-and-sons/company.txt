@@ -1,0 +1,43 @@
+Title: Hilll and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-fay
+- 
+  type: relations/money/creditor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/grady-group
+- 
+  type: relations/money/debtor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-klein
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/jessikamouth

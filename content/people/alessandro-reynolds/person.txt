@@ -1,0 +1,64 @@
+Title: Alessandro Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-shakira-murazik
+- 
+  type: relations/parental/colleague
+  item: people/miss-zora-blick-i
+- 
+  type: relations/parental/brosis
+  item: people/herbert-weber-iii
+- 
+  type: relations/money/debtor
+  item: people/deanna-reilly
+- 
+  type: relations/parental/dad
+  item: people/jaquan-heathcote
+- 
+  type: relations/parental/brosis
+  item: people/lily-reinger
+- 
+  type: relations/money/creditor
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

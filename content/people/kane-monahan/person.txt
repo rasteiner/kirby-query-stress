@@ -1,0 +1,64 @@
+Title: Kane Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/nathanael-fahey
+- 
+  type: relations/money/debtor
+  item: people/prof-trenton-dickinson-iv
+- 
+  type: relations/parental/mom
+  item: people/brenna-howell-v
+- 
+  type: relations/parental/brosis
+  item: people/myriam-marquardt-md
+- 
+  type: relations/parental/friend
+  item: people/nathen-goldner
+- 
+  type: relations/parental/brosis
+  item: people/mr-ibrahim-ledner
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/employer
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Marilie Beahan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-davon-shanahan-iv
+- 
+  type: relations/money/creditor
+  item: people/prof-edd-hartmann-v
+- 
+  type: relations/parental/mom
+  item: people/joseph-zieme
+- 
+  type: relations/parental/colleague
+  item: people/stanley-mccullough
+- 
+  type: relations/parental/dad
+  item: people/caroline-halvorson
+- 
+  type: relations/parental/dad
+  item: people/mr-kenton-rosenbaum-md
+- 
+  type: relations/work/employer
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/work/employer
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

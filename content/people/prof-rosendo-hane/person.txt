@@ -1,0 +1,64 @@
+Title: Prof. Rosendo Hane
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/valentina-hahn
+- 
+  type: relations/money/debtor
+  item: people/onie-nolan
+- 
+  type: relations/parental/brosis
+  item: people/miss-fabiola-dickens
+- 
+  type: relations/parental/friend
+  item: people/dr-dell-leuschke-iii
+- 
+  type: relations/parental/brosis
+  item: people/merl-wehner
+- 
+  type: relations/parental/mom
+  item: people/electa-adams
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/work/client
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

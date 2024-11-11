@@ -1,0 +1,64 @@
+Title: Prof. Solon Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-edna-konopelski
+- 
+  type: relations/parental/colleague
+  item: people/rudy-conn
+- 
+  type: relations/parental/brosis
+  item: people/alexandro-ward
+- 
+  type: relations/parental/mom
+  item: people/mandy-kilback
+- 
+  type: relations/parental/friend
+  item: people/mr-esteban-blanda
+- 
+  type: relations/parental/brosis
+  item: people/miss-shyanne-boyer-sr
+- 
+  type: relations/money/debtor
+  item: companies/sporer-will
+- 
+  type: relations/work/employer
+  item: companies/kling-ltd
+- 
+  type: relations/money/creditor
+  item: companies/legros-morar
+- 
+  type: relations/money/creditor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

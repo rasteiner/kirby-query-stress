@@ -1,0 +1,64 @@
+Title: Viva Welch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-shyanne-weimann-i
+- 
+  type: relations/parental/friend
+  item: people/rafael-will
+- 
+  type: relations/parental/brosis
+  item: people/emerald-bartoletti-i
+- 
+  type: relations/money/creditor
+  item: people/prof-juwan-block-i
+- 
+  type: relations/parental/dad
+  item: people/adelia-witting
+- 
+  type: relations/parental/friend
+  item: people/skylar-mills
+- 
+  type: relations/money/creditor
+  item: companies/mayert-group
+- 
+  type: relations/work/client
+  item: companies/windler-inc
+- 
+  type: relations/money/debtor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

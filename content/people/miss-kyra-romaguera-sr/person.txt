@@ -1,0 +1,64 @@
+Title: Miss Kyra Romaguera Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/antonia-stamm
+- 
+  type: relations/money/creditor
+  item: people/giuseppe-tromp
+- 
+  type: relations/parental/friend
+  item: people/sean-mueller
+- 
+  type: relations/parental/friend
+  item: people/emmalee-nienow-i
+- 
+  type: relations/parental/colleague
+  item: people/mr-deon-beer-v
+- 
+  type: relations/parental/dad
+  item: people/sidney-abbott
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/employer
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

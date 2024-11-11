@@ -1,0 +1,65 @@
+Title: Mr. Austin Stark PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jimmie-mante
+- 
+  type: relations/parental/brosis
+  item: people/ruby-kuvalis-ii
+- 
+  type: relations/parental/dad
+  item: people/shemar-ortiz
+- 
+  type: relations/money/creditor
+  item: people/prof-kennith-hirthe
+- 
+  type: relations/parental/friend
+  item: people/christiana-breitenberg
+- 
+  type: relations/money/creditor
+  item: people/mrs-eloisa-altenwerth-phd
+- 
+  type: relations/work/client
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/work/employer
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

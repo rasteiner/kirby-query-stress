@@ -1,0 +1,64 @@
+Title: Prof. Norene Prohaska MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-leif-hartmann
+- 
+  type: relations/money/debtor
+  item: people/bettye-corkery-dds
+- 
+  type: relations/money/debtor
+  item: people/miss-aurelie-considine-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-conor-sipes
+- 
+  type: relations/parental/friend
+  item: people/madison-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/terrell-ortiz
+- 
+  type: relations/work/client
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/work/client
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

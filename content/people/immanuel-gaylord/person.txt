@@ -1,0 +1,64 @@
+Title: Immanuel Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/myah-wiegand
+- 
+  type: relations/parental/friend
+  item: people/monte-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/noemy-flatley
+- 
+  type: relations/parental/dad
+  item: people/raina-schuster
+- 
+  type: relations/money/debtor
+  item: people/terrence-gottlieb
+- 
+  type: relations/parental/brosis
+  item: people/hassie-koelpin
+- 
+  type: relations/work/employer
+  item: companies/pollich-watsica
+- 
+  type: relations/work/client
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/work/employer
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

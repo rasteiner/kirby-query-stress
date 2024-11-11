@@ -1,0 +1,64 @@
+Title: Alexander Simonis IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ephraim-paucek-dds
+- 
+  type: relations/money/debtor
+  item: people/prof-willa-sanford
+- 
+  type: relations/money/creditor
+  item: people/jermaine-gusikowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/mr-jeffery-lemke-sr
+- 
+  type: relations/money/creditor
+  item: people/eva-friesen
+- 
+  type: relations/parental/mom
+  item: people/amaya-smith
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

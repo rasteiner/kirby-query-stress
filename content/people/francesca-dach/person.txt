@@ -1,0 +1,64 @@
+Title: Francesca Dach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-alfreda-medhurst-md
+- 
+  type: relations/parental/brosis
+  item: people/mazie-robel
+- 
+  type: relations/parental/mom
+  item: people/dr-omer-schroeder-sr
+- 
+  type: relations/parental/dad
+  item: people/dr-enoch-bosco-ii
+- 
+  type: relations/money/debtor
+  item: people/lelah-ebert-v
+- 
+  type: relations/money/debtor
+  item: people/kailee-ullrich
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

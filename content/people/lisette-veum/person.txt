@@ -1,0 +1,64 @@
+Title: Lisette Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-hayden-connelly
+- 
+  type: relations/money/creditor
+  item: people/hector-wisoky
+- 
+  type: relations/parental/mom
+  item: people/dr-alda-walker
+- 
+  type: relations/parental/dad
+  item: people/dora-smith
+- 
+  type: relations/money/creditor
+  item: people/betty-blick
+- 
+  type: relations/parental/mom
+  item: people/lora-mann-md
+- 
+  type: relations/money/debtor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/employer
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

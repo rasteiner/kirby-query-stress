@@ -1,0 +1,64 @@
+Title: Mara Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/houston-donnelly
+- 
+  type: relations/parental/dad
+  item: people/cecil-hilpert
+- 
+  type: relations/money/debtor
+  item: people/mr-raul-torphy
+- 
+  type: relations/parental/friend
+  item: people/kianna-prohaska
+- 
+  type: relations/money/debtor
+  item: people/nona-schmeler-i
+- 
+  type: relations/money/debtor
+  item: people/andre-larson
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/work/employer
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/debtor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

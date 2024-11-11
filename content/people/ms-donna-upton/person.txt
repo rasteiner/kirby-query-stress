@@ -1,0 +1,64 @@
+Title: Ms. Donna Upton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lexus-kihn
+- 
+  type: relations/parental/friend
+  item: people/jany-hammes
+- 
+  type: relations/parental/mom
+  item: people/judy-borer
+- 
+  type: relations/parental/brosis
+  item: people/issac-graham
+- 
+  type: relations/parental/dad
+  item: people/prof-lynn-fritsch-sr
+- 
+  type: relations/parental/colleague
+  item: people/gennaro-moen
+- 
+  type: relations/money/creditor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/work/client
+  item: companies/ferry-carter
+- 
+  type: relations/work/employer
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

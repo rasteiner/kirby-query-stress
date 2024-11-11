@@ -1,0 +1,64 @@
+Title: Stefanie Dickens
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-adell-mueller
+- 
+  type: relations/parental/mom
+  item: people/laisha-grady
+- 
+  type: relations/parental/brosis
+  item: people/flossie-boehm
+- 
+  type: relations/parental/dad
+  item: people/citlalli-ernser-dvm
+- 
+  type: relations/parental/dad
+  item: people/reva-turcotte
+- 
+  type: relations/parental/friend
+  item: people/leola-kihn
+- 
+  type: relations/work/employer
+  item: companies/koch-ltd
+- 
+  type: relations/money/debtor
+  item: companies/schoen-group
+- 
+  type: relations/work/client
+  item: companies/daniel-hills
+- 
+  type: relations/work/employer
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

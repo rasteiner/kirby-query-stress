@@ -1,0 +1,64 @@
+Title: Alda Mertz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-frieda-macejkovic-md
+- 
+  type: relations/parental/brosis
+  item: people/prof-gennaro-gibson
+- 
+  type: relations/money/debtor
+  item: people/dr-noel-luettgen
+- 
+  type: relations/parental/dad
+  item: people/mr-tremaine-hegmann
+- 
+  type: relations/money/creditor
+  item: people/aliyah-kilback
+- 
+  type: relations/money/debtor
+  item: people/ines-goldner
+- 
+  type: relations/work/employer
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/employer
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/client
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Ms. Cierra Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-berniece-klein
+- 
+  type: relations/parental/colleague
+  item: people/mozelle-crist-dds
+- 
+  type: relations/parental/brosis
+  item: people/bryce-cummings-md
+- 
+  type: relations/money/creditor
+  item: people/winfield-crooks
+- 
+  type: relations/parental/friend
+  item: people/yadira-simonis
+- 
+  type: relations/parental/brosis
+  item: people/amalia-harber
+- 
+  type: relations/money/creditor
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/money/debtor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/employer
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

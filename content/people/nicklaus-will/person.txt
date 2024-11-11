@@ -1,0 +1,64 @@
+Title: Nicklaus Will
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kennith-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/leda-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/maverick-schiller
+- 
+  type: relations/money/debtor
+  item: people/prof-laurence-ernser-phd
+- 
+  type: relations/parental/dad
+  item: people/deon-king
+- 
+  type: relations/money/debtor
+  item: people/candida-huels
+- 
+  type: relations/work/client
+  item: companies/rowe-osinski
+- 
+  type: relations/work/client
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

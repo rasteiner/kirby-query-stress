@@ -1,0 +1,64 @@
+Title: Hattie Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kariane-zboncak
+- 
+  type: relations/parental/brosis
+  item: people/sabryna-schaefer
+- 
+  type: relations/parental/friend
+  item: people/ernest-gottlieb
+- 
+  type: relations/parental/dad
+  item: people/dr-andrew-rau
+- 
+  type: relations/money/debtor
+  item: people/abelardo-goldner
+- 
+  type: relations/money/creditor
+  item: people/gerry-jenkins
+- 
+  type: relations/work/client
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-llc
+- 
+  type: relations/work/client
+  item: companies/bayer-group
+- 
+  type: relations/work/client
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

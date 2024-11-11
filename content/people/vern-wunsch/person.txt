@@ -1,0 +1,64 @@
+Title: Vern Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marcus-schinner-ii
+- 
+  type: relations/money/creditor
+  item: people/ms-pasquale-stiedemann-i
+- 
+  type: relations/parental/friend
+  item: people/prof-norene-prohaska-md
+- 
+  type: relations/parental/mom
+  item: people/heidi-kuhn
+- 
+  type: relations/parental/mom
+  item: people/dr-gonzalo-heathcote-ii
+- 
+  type: relations/money/creditor
+  item: people/dr-blanche-wiza-md
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/work/client
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/client
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/client
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

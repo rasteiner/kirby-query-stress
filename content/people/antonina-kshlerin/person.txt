@@ -1,0 +1,64 @@
+Title: Antonina Kshlerin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ruby-berge
+- 
+  type: relations/parental/colleague
+  item: people/elenor-gleichner
+- 
+  type: relations/parental/dad
+  item: people/hershel-shanahan
+- 
+  type: relations/parental/mom
+  item: people/vincent-cassin-dvm
+- 
+  type: relations/parental/colleague
+  item: people/maryse-rowe-dvm
+- 
+  type: relations/parental/friend
+  item: people/merl-bins
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/work/client
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

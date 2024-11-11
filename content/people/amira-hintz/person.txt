@@ -1,0 +1,64 @@
+Title: Amira Hintz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-deshawn-parker-phd
+- 
+  type: relations/money/creditor
+  item: people/prof-pablo-skiles-sr
+- 
+  type: relations/money/debtor
+  item: people/sherwood-waters
+- 
+  type: relations/parental/brosis
+  item: people/violette-senger-jr
+- 
+  type: relations/money/creditor
+  item: people/benedict-parisian
+- 
+  type: relations/parental/brosis
+  item: people/myra-schultz
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-schiller
+- 
+  type: relations/work/employer
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Stevie Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/arturo-zulauf
+- 
+  type: relations/money/creditor
+  item: people/evan-bernhard
+- 
+  type: relations/parental/friend
+  item: people/miss-shyanne-weimann-i
+- 
+  type: relations/money/creditor
+  item: people/rafael-will
+- 
+  type: relations/parental/friend
+  item: people/emerald-bartoletti-i
+- 
+  type: relations/money/creditor
+  item: people/prof-juwan-block-i
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/work/employer
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

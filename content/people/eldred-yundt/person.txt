@@ -1,0 +1,64 @@
+Title: Eldred Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/josiah-stamm
+- 
+  type: relations/money/creditor
+  item: people/michaela-langosh
+- 
+  type: relations/money/debtor
+  item: people/petra-mayert
+- 
+  type: relations/parental/mom
+  item: people/mr-ike-doyle
+- 
+  type: relations/parental/dad
+  item: people/libbie-blanda
+- 
+  type: relations/parental/friend
+  item: people/prof-ocie-wuckert
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/employer
+  item: companies/boehm-group
+- 
+  type: relations/work/client
+  item: companies/ortiz-inc
+- 
+  type: relations/work/client
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Jean Bogisich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-laury-kohler-iv
+- 
+  type: relations/parental/brosis
+  item: people/abigale-stark
+- 
+  type: relations/parental/dad
+  item: people/dax-stracke
+- 
+  type: relations/parental/brosis
+  item: people/joan-hauck
+- 
+  type: relations/parental/mom
+  item: people/lavada-bogan
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kathryne-jacobs
+- 
+  type: relations/money/creditor
+  item: companies/gleason-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/client
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,43 @@
+Title: Veum, Lehner and Turcotte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/kulas-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mayer-llc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/money/creditor
+  item: companies/rau-reinger-and-trantow
+- 
+  type: relations/money/debtor
+  item: companies/collier-plc
+- 
+  type: relations/money/creditor
+  item: companies/von-plc
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-brisaport

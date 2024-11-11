@@ -1,0 +1,64 @@
+Title: Mr. Fidel Walsh I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/beau-altenwerth
+- 
+  type: relations/parental/mom
+  item: people/kaley-kuvalis-iii
+- 
+  type: relations/parental/mom
+  item: people/maya-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/mekhi-adams
+- 
+  type: relations/parental/colleague
+  item: people/leonor-hilpert
+- 
+  type: relations/parental/mom
+  item: people/cory-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/nolan-inc
+- 
+  type: relations/money/debtor
+  item: companies/sanford-lehner
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-plc
+- 
+  type: relations/money/creditor
+  item: companies/flatley-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

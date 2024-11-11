@@ -1,0 +1,64 @@
+Title: Giovani Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/baby-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/amos-hilll-phd
+- 
+  type: relations/parental/colleague
+  item: people/geo-robel
+- 
+  type: relations/parental/mom
+  item: people/hellen-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/sidney-lynch-iv
+- 
+  type: relations/parental/friend
+  item: people/ezra-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

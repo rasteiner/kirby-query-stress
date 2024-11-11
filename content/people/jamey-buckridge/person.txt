@@ -1,0 +1,64 @@
+Title: Jamey Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/deontae-cruickshank-dds
+- 
+  type: relations/parental/dad
+  item: people/jeremy-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/rocky-reichel-i
+- 
+  type: relations/parental/friend
+  item: people/betty-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/cristal-wunsch
+- 
+  type: relations/money/creditor
+  item: people/breanna-satterfield
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

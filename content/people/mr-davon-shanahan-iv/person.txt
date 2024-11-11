@@ -1,0 +1,64 @@
+Title: Mr. Davon Shanahan IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-franz-rohan
+- 
+  type: relations/parental/dad
+  item: people/prof-baylee-hauck-md
+- 
+  type: relations/parental/dad
+  item: people/thea-ullrich
+- 
+  type: relations/money/creditor
+  item: people/dr-lonnie-stokes
+- 
+  type: relations/parental/brosis
+  item: people/elvera-jast
+- 
+  type: relations/money/creditor
+  item: people/sarah-lowe
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/debtor
+  item: companies/keebler-inc
+- 
+  type: relations/money/creditor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

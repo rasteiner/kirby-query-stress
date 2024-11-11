@@ -1,0 +1,64 @@
+Title: Virginia Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-tiana-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/jaime-jerde
+- 
+  type: relations/money/creditor
+  item: people/chanel-pollich-i
+- 
+  type: relations/parental/friend
+  item: people/prof-cierra-fisher-i
+- 
+  type: relations/parental/colleague
+  item: people/marcelina-gulgowski
+- 
+  type: relations/money/creditor
+  item: people/rahsaan-reynolds-dds
+- 
+  type: relations/money/debtor
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/client
+  item: companies/kovacek-llc
+- 
+  type: relations/work/client
+  item: companies/bayer-group
+- 
+  type: relations/work/client
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

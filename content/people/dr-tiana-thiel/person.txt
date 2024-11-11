@@ -1,0 +1,64 @@
+Title: Dr. Tiana Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/alec-marks
+- 
+  type: relations/parental/brosis
+  item: people/eula-cassin-i
+- 
+  type: relations/parental/friend
+  item: people/micaela-haley
+- 
+  type: relations/parental/dad
+  item: people/joshua-yost
+- 
+  type: relations/parental/brosis
+  item: people/al-eichmann
+- 
+  type: relations/parental/brosis
+  item: people/gabrielle-gislason
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/client
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Filiberto Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/brian-kling
+- 
+  type: relations/parental/colleague
+  item: people/prof-meggie-sauer-jr
+- 
+  type: relations/parental/mom
+  item: people/hobart-bins
+- 
+  type: relations/parental/brosis
+  item: people/prof-houston-medhurst-v
+- 
+  type: relations/money/creditor
+  item: people/davion-wehner
+- 
+  type: relations/parental/mom
+  item: people/prof-julianne-jones-dds
+- 
+  type: relations/work/employer
+  item: companies/hamill-herzog
+- 
+  type: relations/work/employer
+  item: companies/kub-plc
+- 
+  type: relations/work/employer
+  item: companies/leuschke-cartwright
+- 
+  type: relations/work/employer
+  item: companies/abshire-group
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

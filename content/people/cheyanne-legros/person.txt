@@ -1,0 +1,64 @@
+Title: Cheyanne Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ladarius-hirthe
+- 
+  type: relations/parental/brosis
+  item: people/thurman-dicki
+- 
+  type: relations/parental/colleague
+  item: people/ms-kattie-reichert
+- 
+  type: relations/parental/dad
+  item: people/dr-antonetta-o-hara-dds
+- 
+  type: relations/parental/brosis
+  item: people/hailey-roob
+- 
+  type: relations/money/creditor
+  item: people/prof-manley-krajcik-iii
+- 
+  type: relations/work/client
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

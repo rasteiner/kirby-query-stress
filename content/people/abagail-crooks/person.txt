@@ -1,0 +1,68 @@
+Title: Abagail Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/liza-muller
+- 
+  type: relations/parental/mom
+  item: people/aurelie-fay
+- 
+  type: relations/money/creditor
+  item: people/maeve-robel
+- 
+  type: relations/parental/mom
+  item: people/krystel-smitham
+- 
+  type: relations/money/creditor
+  item: people/miss-della-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/cordelia-ledner
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/work/client
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt
+
+----
+
+Uuid: lzyuzzray3gkqrul

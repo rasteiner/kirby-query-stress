@@ -1,0 +1,64 @@
+Title: Dr. Rusty Labadie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/brown-rempel
+- 
+  type: relations/parental/colleague
+  item: people/prof-justen-batz
+- 
+  type: relations/parental/mom
+  item: people/dr-franz-roberts-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-hubert-padberg-i
+- 
+  type: relations/money/creditor
+  item: people/saige-king
+- 
+  type: relations/parental/brosis
+  item: people/cicero-williamson
+- 
+  type: relations/money/creditor
+  item: companies/little-botsford-and-beer
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-inc
+- 
+  type: relations/work/client
+  item: companies/muller-turner-and-stroman
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-tromp-and-jones
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

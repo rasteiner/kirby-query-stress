@@ -1,0 +1,64 @@
+Title: Retta Hilll I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-bridget-tromp
+- 
+  type: relations/money/debtor
+  item: people/francis-borer
+- 
+  type: relations/parental/colleague
+  item: people/louie-doyle
+- 
+  type: relations/parental/dad
+  item: people/dr-claude-pagac
+- 
+  type: relations/parental/friend
+  item: people/zetta-walker-i
+- 
+  type: relations/money/debtor
+  item: people/jadyn-halvorson
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/client
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

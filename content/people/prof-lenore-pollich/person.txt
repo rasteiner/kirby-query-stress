@@ -1,0 +1,64 @@
+Title: Prof. Lenore Pollich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-lesly-hilll
+- 
+  type: relations/parental/dad
+  item: people/mr-austyn-conroy
+- 
+  type: relations/parental/friend
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/parental/dad
+  item: people/sienna-dubuque
+- 
+  type: relations/money/debtor
+  item: people/kiera-konopelski-ii
+- 
+  type: relations/parental/friend
+  item: people/cleve-stamm
+- 
+  type: relations/work/client
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/work/client
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/employer
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

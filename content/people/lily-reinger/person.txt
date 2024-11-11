@@ -1,0 +1,64 @@
+Title: Lily Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lance-emard
+- 
+  type: relations/parental/dad
+  item: people/theresa-mcdermott
+- 
+  type: relations/money/creditor
+  item: people/adrienne-funk-dds
+- 
+  type: relations/parental/friend
+  item: people/myrtice-strosin
+- 
+  type: relations/parental/colleague
+  item: people/ben-ernser-dvm
+- 
+  type: relations/money/debtor
+  item: people/miss-bridie-bradtke-phd
+- 
+  type: relations/money/creditor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/employer
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/work/client
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Jocelyn Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gail-hermiston
+- 
+  type: relations/money/creditor
+  item: people/dr-guillermo-wolff
+- 
+  type: relations/parental/friend
+  item: people/dessie-gottlieb
+- 
+  type: relations/money/creditor
+  item: people/ella-langworth-v
+- 
+  type: relations/parental/friend
+  item: people/barney-schulist-iii
+- 
+  type: relations/money/creditor
+  item: people/mara-effertz
+- 
+  type: relations/work/employer
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/stanton-metz
+- 
+  type: relations/money/debtor
+  item: companies/willms-d-amore-and-wolf
+- 
+  type: relations/money/creditor
+  item: companies/renner-erdman-and-larson
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

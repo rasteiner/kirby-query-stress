@@ -1,0 +1,64 @@
+Title: Jayson Corkery
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/michael-parisian
+- 
+  type: relations/parental/brosis
+  item: people/gracie-wilkinson
+- 
+  type: relations/parental/dad
+  item: people/anika-cronin
+- 
+  type: relations/parental/dad
+  item: people/rhett-ziemann
+- 
+  type: relations/parental/dad
+  item: people/emilie-volkman-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-eino-roberts
+- 
+  type: relations/work/employer
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/work/client
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

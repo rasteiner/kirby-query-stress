@@ -1,0 +1,64 @@
+Title: Jammie Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaime-maggio
+- 
+  type: relations/parental/colleague
+  item: people/ms-myah-torp
+- 
+  type: relations/parental/friend
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/money/creditor
+  item: people/paris-hagenes
+- 
+  type: relations/parental/colleague
+  item: people/prof-freddy-zieme
+- 
+  type: relations/money/debtor
+  item: people/orin-turner
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/work/client
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

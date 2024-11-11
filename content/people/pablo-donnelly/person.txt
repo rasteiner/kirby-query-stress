@@ -1,0 +1,64 @@
+Title: Pablo Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ashly-price
+- 
+  type: relations/parental/dad
+  item: people/mrs-donna-kessler-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-augustus-cassin-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-gisselle-purdy-sr
+- 
+  type: relations/parental/colleague
+  item: people/cory-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/mr-frankie-mann
+- 
+  type: relations/work/employer
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/work/client
+  item: companies/becker-ltd
+- 
+  type: relations/work/employer
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

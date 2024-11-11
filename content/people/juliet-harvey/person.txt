@@ -1,0 +1,64 @@
+Title: Juliet Harvey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-drew-heidenreich
+- 
+  type: relations/parental/brosis
+  item: people/jordan-bernier
+- 
+  type: relations/parental/colleague
+  item: people/ms-kianna-mckenzie-iv
+- 
+  type: relations/money/debtor
+  item: people/amir-marks
+- 
+  type: relations/money/creditor
+  item: people/harry-cremin
+- 
+  type: relations/parental/mom
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/employer
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

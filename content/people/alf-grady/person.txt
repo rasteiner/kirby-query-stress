@@ -1,0 +1,64 @@
+Title: Alf Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/emerald-bartoletti-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-juwan-block-i
+- 
+  type: relations/parental/brosis
+  item: people/adelia-witting
+- 
+  type: relations/parental/dad
+  item: people/skylar-mills
+- 
+  type: relations/parental/mom
+  item: people/harvey-bartell-iv
+- 
+  type: relations/parental/dad
+  item: people/berry-bins
+- 
+  type: relations/work/employer
+  item: companies/yost-o-conner
+- 
+  type: relations/work/employer
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/employer
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

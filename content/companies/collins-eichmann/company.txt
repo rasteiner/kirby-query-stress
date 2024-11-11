@@ -1,0 +1,44 @@
+Title: Collins-Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/heaney-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/bins-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/crookstown
+- 
+  type: relations/location/residence
+  item: places/north-trestad

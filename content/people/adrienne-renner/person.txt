@@ -1,0 +1,64 @@
+Title: Adrienne Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/caleb-hoppe-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-devan-erdman-dds
+- 
+  type: relations/money/creditor
+  item: people/ms-janae-bode-dds
+- 
+  type: relations/parental/mom
+  item: people/mr-dennis-macejkovic-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-anibal-schimmel-jr
+- 
+  type: relations/parental/mom
+  item: people/dr-guido-thompson
+- 
+  type: relations/work/client
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Roger Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-watson-pollich
+- 
+  type: relations/parental/dad
+  item: people/tia-zulauf
+- 
+  type: relations/parental/colleague
+  item: people/dr-benton-rutherford-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-mafalda-gibson-iv
+- 
+  type: relations/money/creditor
+  item: people/aryanna-kulas
+- 
+  type: relations/money/debtor
+  item: people/zachariah-d-amore
+- 
+  type: relations/work/employer
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/client
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

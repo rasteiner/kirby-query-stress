@@ -1,0 +1,64 @@
+Title: Leola VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ova-pfeffer-md
+- 
+  type: relations/parental/friend
+  item: people/dr-jesse-metz-phd
+- 
+  type: relations/parental/colleague
+  item: people/prof-karley-nader-jr
+- 
+  type: relations/parental/colleague
+  item: people/tianna-bahringer-i
+- 
+  type: relations/money/creditor
+  item: people/kacie-pagac-md
+- 
+  type: relations/money/debtor
+  item: people/dr-caitlyn-robel-md
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/work/employer
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

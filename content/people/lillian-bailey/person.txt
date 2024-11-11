@@ -1,0 +1,64 @@
+Title: Lillian Bailey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/giovanny-rohan
+- 
+  type: relations/parental/colleague
+  item: people/ms-alessandra-beier
+- 
+  type: relations/money/debtor
+  item: people/antonio-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/marianne-windler-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-reyna-willms
+- 
+  type: relations/parental/friend
+  item: people/alexane-armstrong
+- 
+  type: relations/work/client
+  item: companies/yundt-llc
+- 
+  type: relations/work/client
+  item: companies/terry-ltd
+- 
+  type: relations/work/client
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/employer
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

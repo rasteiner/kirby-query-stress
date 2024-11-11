@@ -1,0 +1,64 @@
+Title: Maximillia Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/geovanni-rowe
+- 
+  type: relations/money/creditor
+  item: people/prof-jeffery-parker-jr
+- 
+  type: relations/parental/friend
+  item: people/kianna-becker
+- 
+  type: relations/parental/dad
+  item: people/henderson-halvorson
+- 
+  type: relations/money/creditor
+  item: people/dwight-torphy-dds
+- 
+  type: relations/parental/colleague
+  item: people/ciara-haag
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/client
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

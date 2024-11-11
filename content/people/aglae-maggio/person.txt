@@ -1,0 +1,64 @@
+Title: Aglae Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/fritz-denesik
+- 
+  type: relations/parental/brosis
+  item: people/gregoria-carroll
+- 
+  type: relations/parental/mom
+  item: people/genoveva-hodkiewicz
+- 
+  type: relations/parental/mom
+  item: people/terrell-rosenbaum
+- 
+  type: relations/parental/colleague
+  item: people/sierra-mcclure
+- 
+  type: relations/parental/friend
+  item: people/miss-valentina-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/work/client
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

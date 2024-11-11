@@ -1,0 +1,64 @@
+Title: Dr. Nayeli Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kaylah-cartwright
+- 
+  type: relations/parental/friend
+  item: people/miss-meghan-lind-v
+- 
+  type: relations/parental/brosis
+  item: people/braulio-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/dr-esmeralda-frami
+- 
+  type: relations/money/creditor
+  item: people/dr-anthony-gutkowski-phd
+- 
+  type: relations/parental/brosis
+  item: people/beverly-abshire
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/client
+  item: companies/keeling-denesik
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

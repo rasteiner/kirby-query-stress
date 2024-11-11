@@ -1,0 +1,64 @@
+Title: Rene Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/willow-boyer
+- 
+  type: relations/parental/colleague
+  item: people/prof-frieda-mayert-md
+- 
+  type: relations/money/debtor
+  item: people/abdullah-batz
+- 
+  type: relations/parental/mom
+  item: people/prof-lavinia-miller
+- 
+  type: relations/money/debtor
+  item: people/chad-keebler
+- 
+  type: relations/parental/friend
+  item: people/verner-bahringer
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/money/creditor
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Ulises Hegmann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cleveland-gleichner
+- 
+  type: relations/parental/brosis
+  item: people/mrs-enola-hansen-jr
+- 
+  type: relations/parental/dad
+  item: people/dr-baylee-purdy-v
+- 
+  type: relations/parental/dad
+  item: people/mrs-norene-heathcote
+- 
+  type: relations/parental/dad
+  item: people/gilberto-hoppe-dds
+- 
+  type: relations/parental/brosis
+  item: people/laurence-miller
+- 
+  type: relations/money/debtor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

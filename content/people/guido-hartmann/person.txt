@@ -1,0 +1,64 @@
+Title: Guido Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/katharina-halvorson
+- 
+  type: relations/money/creditor
+  item: people/kenneth-sauer
+- 
+  type: relations/money/creditor
+  item: people/felicita-baumbach-sr
+- 
+  type: relations/money/debtor
+  item: people/gilberto-christiansen
+- 
+  type: relations/parental/mom
+  item: people/kyra-stoltenberg-dvm
+- 
+  type: relations/parental/mom
+  item: people/adele-renner
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,43 @@
+Title: Vandervort LLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/debtor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/debtor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/money/creditor
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/location/residence
+  item: places/new-selmer
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Prof. Citlalli Wyman I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/melisa-hayes-ii
+- 
+  type: relations/money/debtor
+  item: people/jamil-von
+- 
+  type: relations/parental/colleague
+  item: people/miles-nader-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-russ-lehner
+- 
+  type: relations/parental/dad
+  item: people/corine-herman-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-cristian-walter-iii
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/work/client
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

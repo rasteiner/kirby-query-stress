@@ -1,0 +1,64 @@
+Title: Mathew Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-maria-metz-jr
+- 
+  type: relations/parental/friend
+  item: people/meagan-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/benjamin-jacobson
+- 
+  type: relations/money/debtor
+  item: people/dr-laverne-beahan
+- 
+  type: relations/parental/friend
+  item: people/jamel-ernser
+- 
+  type: relations/money/debtor
+  item: people/devonte-skiles
+- 
+  type: relations/work/employer
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/work/client
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

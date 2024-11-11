@@ -1,0 +1,43 @@
+Title: Kerluke PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-plc
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg

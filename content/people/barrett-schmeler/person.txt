@@ -1,0 +1,64 @@
+Title: Barrett Schmeler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/frances-zemlak
+- 
+  type: relations/money/debtor
+  item: people/larue-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/alva-medhurst
+- 
+  type: relations/parental/friend
+  item: people/mr-dane-fadel
+- 
+  type: relations/parental/friend
+  item: people/dr-wilma-upton
+- 
+  type: relations/parental/dad
+  item: people/jerry-flatley
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/money/debtor
+  item: companies/parisian-llc
+- 
+  type: relations/work/employer
+  item: companies/murazik-mills
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

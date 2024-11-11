@@ -1,0 +1,64 @@
+Title: Mr. Westley Lebsack DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jody-pouros
+- 
+  type: relations/parental/brosis
+  item: people/erich-dach
+- 
+  type: relations/parental/friend
+  item: people/dr-carli-senger
+- 
+  type: relations/parental/brosis
+  item: people/jada-senger
+- 
+  type: relations/parental/colleague
+  item: people/marcelle-wilderman
+- 
+  type: relations/parental/dad
+  item: people/prof-anne-jones-iii
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/work/employer
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

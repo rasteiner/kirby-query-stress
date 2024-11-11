@@ -1,0 +1,64 @@
+Title: Prof. Rocky Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cassandre-treutel
+- 
+  type: relations/parental/friend
+  item: people/mrs-anjali-jerde-jr
+- 
+  type: relations/parental/friend
+  item: people/mohamed-blanda
+- 
+  type: relations/money/creditor
+  item: people/kara-herzog
+- 
+  type: relations/money/creditor
+  item: people/mr-keanu-sauer
+- 
+  type: relations/parental/brosis
+  item: people/spencer-reynolds-sr
+- 
+  type: relations/money/debtor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/work/client
+  item: companies/crist-inc
+- 
+  type: relations/work/employer
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,65 @@
+Title: Priscilla Pfeffer V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mollie-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/mr-caden-herzog-sr
+- 
+  type: relations/parental/friend
+  item: people/humberto-halvorson
+- 
+  type: relations/money/creditor
+  item: people/billie-davis
+- 
+  type: relations/money/debtor
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/parental/brosis
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/work/employer
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/work/client
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/client
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

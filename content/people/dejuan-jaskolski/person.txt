@@ -1,0 +1,64 @@
+Title: Dejuan Jaskolski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-marielle-dare
+- 
+  type: relations/parental/friend
+  item: people/dr-guy-keebler
+- 
+  type: relations/parental/brosis
+  item: people/dr-lauren-mraz
+- 
+  type: relations/parental/friend
+  item: people/dr-flavie-prohaska
+- 
+  type: relations/parental/colleague
+  item: people/kaitlyn-swaniawski
+- 
+  type: relations/parental/mom
+  item: people/nils-mclaughlin-jr
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/sporer-llc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

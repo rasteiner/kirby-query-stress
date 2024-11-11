@@ -1,0 +1,64 @@
+Title: Prof. Catherine Hackett V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-gus-cole
+- 
+  type: relations/parental/brosis
+  item: people/prof-antwon-glover-dvm
+- 
+  type: relations/parental/friend
+  item: people/lina-nitzsche
+- 
+  type: relations/parental/mom
+  item: people/miss-ava-sporer
+- 
+  type: relations/parental/friend
+  item: people/tom-hilpert-sr
+- 
+  type: relations/money/creditor
+  item: people/maximus-mueller
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-veum
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

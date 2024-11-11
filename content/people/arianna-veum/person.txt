@@ -1,0 +1,64 @@
+Title: Arianna Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keshawn-legros
+- 
+  type: relations/money/debtor
+  item: people/brandy-stiedemann
+- 
+  type: relations/parental/colleague
+  item: people/dr-marco-metz-iii
+- 
+  type: relations/money/debtor
+  item: people/jackie-dach
+- 
+  type: relations/money/debtor
+  item: people/carolyn-herzog-dvm
+- 
+  type: relations/parental/friend
+  item: people/eleanore-bruen
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/money/creditor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

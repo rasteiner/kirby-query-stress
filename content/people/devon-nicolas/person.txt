@@ -1,0 +1,64 @@
+Title: Devon Nicolas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-alessia-blanda
+- 
+  type: relations/parental/brosis
+  item: people/reuben-grady
+- 
+  type: relations/parental/mom
+  item: people/prof-aurore-erdman-md
+- 
+  type: relations/parental/friend
+  item: people/ms-fabiola-hermann-iii
+- 
+  type: relations/parental/colleague
+  item: people/brendon-ryan-md
+- 
+  type: relations/parental/friend
+  item: people/derick-pollich
+- 
+  type: relations/money/debtor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/abshire-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Prof. Moises Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-albert-cassin
+- 
+  type: relations/parental/dad
+  item: people/haley-langworth
+- 
+  type: relations/parental/friend
+  item: people/juliana-hane
+- 
+  type: relations/money/creditor
+  item: people/brett-lehner
+- 
+  type: relations/parental/friend
+  item: people/eulah-shanahan
+- 
+  type: relations/parental/mom
+  item: people/stephen-rath
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-dooley
+- 
+  type: relations/money/creditor
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/work/client
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/client
+  item: companies/hayes-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

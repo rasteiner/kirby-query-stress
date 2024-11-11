@@ -1,0 +1,64 @@
+Title: Trisha Little
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rosendo-wisozk
+- 
+  type: relations/parental/friend
+  item: people/kariane-spinka
+- 
+  type: relations/money/creditor
+  item: people/donato-pagac
+- 
+  type: relations/parental/brosis
+  item: people/miss-noemy-wunsch-iii
+- 
+  type: relations/money/creditor
+  item: people/oda-legros
+- 
+  type: relations/parental/dad
+  item: people/trinity-buckridge-jr
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/client
+  item: companies/kerluke-plc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

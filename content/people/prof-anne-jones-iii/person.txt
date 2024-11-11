@@ -1,0 +1,64 @@
+Title: Prof. Anne Jones III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-greta-flatley
+- 
+  type: relations/parental/colleague
+  item: people/ida-koepp
+- 
+  type: relations/parental/friend
+  item: people/samson-batz
+- 
+  type: relations/parental/mom
+  item: people/xzavier-lynch-iv
+- 
+  type: relations/parental/brosis
+  item: people/avery-graham
+- 
+  type: relations/money/creditor
+  item: people/prof-florence-gulgowski-dvm
+- 
+  type: relations/money/creditor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/orn-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-ltd
+- 
+  type: relations/money/creditor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

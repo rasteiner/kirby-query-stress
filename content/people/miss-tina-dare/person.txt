@@ -1,0 +1,64 @@
+Title: Miss Tina Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-steve-morissette
+- 
+  type: relations/parental/friend
+  item: people/eli-funk
+- 
+  type: relations/money/creditor
+  item: people/pat-kunze
+- 
+  type: relations/money/creditor
+  item: people/tillman-orn
+- 
+  type: relations/parental/dad
+  item: people/ralph-boyer-md
+- 
+  type: relations/parental/friend
+  item: people/miss-palma-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/client
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

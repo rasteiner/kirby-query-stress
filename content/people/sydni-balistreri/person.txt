@@ -1,0 +1,64 @@
+Title: Sydni Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ebba-christiansen
+- 
+  type: relations/money/creditor
+  item: people/kole-hyatt-sr
+- 
+  type: relations/parental/friend
+  item: people/dawson-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/annie-wyman
+- 
+  type: relations/money/debtor
+  item: people/mr-toney-wehner-v
+- 
+  type: relations/parental/mom
+  item: people/prof-coy-barton
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/employer
+  item: companies/mayer-kutch
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

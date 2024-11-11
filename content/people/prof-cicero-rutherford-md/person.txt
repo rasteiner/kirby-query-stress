@@ -1,0 +1,64 @@
+Title: Prof. Cicero Rutherford MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-donna-upton
+- 
+  type: relations/parental/mom
+  item: people/prof-adan-ziemann-i
+- 
+  type: relations/parental/friend
+  item: people/rashawn-ernser
+- 
+  type: relations/parental/colleague
+  item: people/mrs-gia-connelly-i
+- 
+  type: relations/parental/brosis
+  item: people/wilbert-krajcik
+- 
+  type: relations/parental/brosis
+  item: people/alvera-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

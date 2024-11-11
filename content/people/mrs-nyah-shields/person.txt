@@ -1,0 +1,64 @@
+Title: Mrs. Nyah Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jaren-frami
+- 
+  type: relations/money/creditor
+  item: people/dr-amos-padberg-iii
+- 
+  type: relations/parental/mom
+  item: people/janick-ward-dds
+- 
+  type: relations/money/debtor
+  item: people/kobe-wiegand
+- 
+  type: relations/money/creditor
+  item: people/mr-alfred-weber
+- 
+  type: relations/parental/brosis
+  item: people/lorna-langosh
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/client
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

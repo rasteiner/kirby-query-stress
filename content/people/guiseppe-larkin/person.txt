@@ -1,0 +1,65 @@
+Title: Guiseppe Larkin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/wilhelmine-boyer
+- 
+  type: relations/parental/brosis
+  item: people/hilton-herzog
+- 
+  type: relations/parental/colleague
+  item: people/athena-hyatt
+- 
+  type: relations/parental/friend
+  item: people/eusebio-stark
+- 
+  type: relations/money/debtor
+  item: people/renee-bechtelar
+- 
+  type: relations/parental/friend
+  item: people/erwin-rath
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/client
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/debtor
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

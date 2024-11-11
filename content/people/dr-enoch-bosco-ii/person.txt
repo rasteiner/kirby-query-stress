@@ -1,0 +1,64 @@
+Title: Dr. Enoch Bosco II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-hattie-mosciski-md
+- 
+  type: relations/money/creditor
+  item: people/jordyn-labadie
+- 
+  type: relations/money/creditor
+  item: people/miss-ciara-hudson-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-maxwell-okuneva-iii
+- 
+  type: relations/parental/brosis
+  item: people/edna-dibbert
+- 
+  type: relations/parental/mom
+  item: people/cleora-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/price-group
+- 
+  type: relations/money/debtor
+  item: companies/bartell-renner-and-schuppe
+- 
+  type: relations/work/client
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

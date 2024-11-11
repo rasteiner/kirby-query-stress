@@ -1,0 +1,43 @@
+Title: Schiller-Strosin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/wilderman-boehm
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/corwin-zieme
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth

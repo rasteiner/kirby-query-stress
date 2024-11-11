@@ -1,0 +1,64 @@
+Title: Raquel Wiegand
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brandt-crona
+- 
+  type: relations/parental/brosis
+  item: people/trey-ullrich-sr
+- 
+  type: relations/parental/mom
+  item: people/leonel-runolfsdottir-v
+- 
+  type: relations/money/debtor
+  item: people/joannie-stiedemann
+- 
+  type: relations/money/creditor
+  item: people/kyla-emmerich
+- 
+  type: relations/parental/colleague
+  item: people/mariana-west
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/client
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/work/client
+  item: companies/hartmann-plc
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

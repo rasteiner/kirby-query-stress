@@ -1,0 +1,64 @@
+Title: Ms. Rosetta Steuber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lonny-kovacek
+- 
+  type: relations/parental/colleague
+  item: people/mr-felton-wuckert-iii
+- 
+  type: relations/parental/colleague
+  item: people/mr-junius-keeling-iii
+- 
+  type: relations/parental/dad
+  item: people/jerel-ratke
+- 
+  type: relations/parental/mom
+  item: people/dr-dell-mcglynn
+- 
+  type: relations/parental/colleague
+  item: people/prof-simeon-weimann
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/debtor
+  item: companies/schiller-strosin
+- 
+  type: relations/work/employer
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Trey Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gladyce-morar-v
+- 
+  type: relations/parental/mom
+  item: people/jarvis-shields-dvm
+- 
+  type: relations/money/creditor
+  item: people/aliza-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/wallace-trantow-sr
+- 
+  type: relations/parental/dad
+  item: people/walton-white
+- 
+  type: relations/parental/mom
+  item: people/hoyt-price
+- 
+  type: relations/money/creditor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

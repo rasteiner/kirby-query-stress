@@ -1,0 +1,64 @@
+Title: Baby Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vivian-lueilwitz-iii
+- 
+  type: relations/parental/mom
+  item: people/layla-mclaughlin-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-elise-larson-ii
+- 
+  type: relations/parental/mom
+  item: people/mr-michael-kuphal
+- 
+  type: relations/parental/friend
+  item: people/maryjane-kilback-v
+- 
+  type: relations/parental/mom
+  item: people/dr-marietta-pacocha
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

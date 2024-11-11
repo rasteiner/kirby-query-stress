@@ -1,0 +1,64 @@
+Title: Mrs. Elena Kris I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/antonia-stamm
+- 
+  type: relations/parental/friend
+  item: people/giuseppe-tromp
+- 
+  type: relations/parental/brosis
+  item: people/sean-mueller
+- 
+  type: relations/parental/dad
+  item: people/emmalee-nienow-i
+- 
+  type: relations/parental/friend
+  item: people/mr-deon-beer-v
+- 
+  type: relations/parental/colleague
+  item: people/sidney-abbott
+- 
+  type: relations/work/employer
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/employer
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

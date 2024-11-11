@@ -1,0 +1,64 @@
+Title: Amalia Bosco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-malinda-turcotte
+- 
+  type: relations/money/creditor
+  item: people/dr-shaylee-doyle-md
+- 
+  type: relations/parental/friend
+  item: people/angus-windler
+- 
+  type: relations/parental/brosis
+  item: people/arvilla-heller
+- 
+  type: relations/parental/brosis
+  item: people/lia-kreiger
+- 
+  type: relations/parental/mom
+  item: people/ms-kaia-wolff
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/harvey-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

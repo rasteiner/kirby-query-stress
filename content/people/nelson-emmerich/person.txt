@@ -1,0 +1,64 @@
+Title: Nelson Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-maximillia-rippin
+- 
+  type: relations/money/creditor
+  item: people/nicholaus-gleason
+- 
+  type: relations/parental/colleague
+  item: people/ms-laury-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/dandre-wiegand
+- 
+  type: relations/parental/dad
+  item: people/paxton-klein
+- 
+  type: relations/money/creditor
+  item: people/mrs-ashleigh-vonrueden-jr
+- 
+  type: relations/work/client
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/work/employer
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

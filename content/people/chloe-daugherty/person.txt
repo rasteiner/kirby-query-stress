@@ -1,0 +1,64 @@
+Title: Chloe Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-aric-greenholt
+- 
+  type: relations/parental/colleague
+  item: people/jammie-homenick-iii
+- 
+  type: relations/parental/colleague
+  item: people/abigale-kovacek
+- 
+  type: relations/parental/friend
+  item: people/raymundo-haley
+- 
+  type: relations/parental/brosis
+  item: people/mr-houston-bechtelar-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-kristina-zemlak
+- 
+  type: relations/money/debtor
+  item: companies/watsica-inc
+- 
+  type: relations/work/employer
+  item: companies/casper-larson
+- 
+  type: relations/work/employer
+  item: companies/anderson-muller
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

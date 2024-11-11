@@ -1,0 +1,64 @@
+Title: Prof. Jessyca Wolff DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/darrell-blanda
+- 
+  type: relations/parental/brosis
+  item: people/lucious-mante-iv
+- 
+  type: relations/parental/friend
+  item: people/isobel-lynch
+- 
+  type: relations/parental/mom
+  item: people/dr-keyon-price-v
+- 
+  type: relations/parental/colleague
+  item: people/carroll-goyette
+- 
+  type: relations/parental/brosis
+  item: people/joshuah-doyle
+- 
+  type: relations/money/debtor
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/employer
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

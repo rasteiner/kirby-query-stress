@@ -1,0 +1,64 @@
+Title: Prof. Gennaro Lueilwitz MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-reta-howell-phd
+- 
+  type: relations/parental/dad
+  item: people/kayli-denesik
+- 
+  type: relations/parental/friend
+  item: people/ms-shakira-bradtke-i
+- 
+  type: relations/money/debtor
+  item: people/mr-ezekiel-hodkiewicz-md
+- 
+  type: relations/parental/colleague
+  item: people/cicero-boyle
+- 
+  type: relations/parental/brosis
+  item: people/garett-wiegand-md
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

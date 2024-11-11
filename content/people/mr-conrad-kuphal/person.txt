@@ -1,0 +1,64 @@
+Title: Mr. Conrad Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-thora-beahan
+- 
+  type: relations/money/creditor
+  item: people/otho-ruecker
+- 
+  type: relations/money/creditor
+  item: people/alford-osinski
+- 
+  type: relations/parental/mom
+  item: people/kira-considine
+- 
+  type: relations/parental/friend
+  item: people/jefferey-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/aric-runte-md
+- 
+  type: relations/work/employer
+  item: companies/dickinson-grant
+- 
+  type: relations/money/creditor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/work/client
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

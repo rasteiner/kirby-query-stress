@@ -1,0 +1,64 @@
+Title: Al Williamson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/neil-hansen-jr
+- 
+  type: relations/parental/friend
+  item: people/abigail-fadel
+- 
+  type: relations/parental/dad
+  item: people/eudora-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/pablo-donnelly
+- 
+  type: relations/parental/friend
+  item: people/ms-emmy-hilpert
+- 
+  type: relations/money/debtor
+  item: people/jaqueline-hintz
+- 
+  type: relations/work/client
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/client
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

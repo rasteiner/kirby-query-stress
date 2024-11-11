@@ -1,0 +1,44 @@
+Title: Pfeffer, Johnston and Schultz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/douglas-emard
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dicki-schmidt-and-o-connell
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough

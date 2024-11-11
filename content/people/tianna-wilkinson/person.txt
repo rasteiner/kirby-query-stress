@@ -1,0 +1,64 @@
+Title: Tianna Wilkinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/fannie-hoppe
+- 
+  type: relations/money/debtor
+  item: people/matilda-friesen
+- 
+  type: relations/parental/dad
+  item: people/miss-loren-zieme
+- 
+  type: relations/parental/mom
+  item: people/mervin-schulist
+- 
+  type: relations/money/creditor
+  item: people/russell-paucek
+- 
+  type: relations/parental/dad
+  item: people/helga-emard
+- 
+  type: relations/money/creditor
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

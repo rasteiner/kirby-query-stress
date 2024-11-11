@@ -1,0 +1,64 @@
+Title: Mrs. Norene Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/emelia-raynor
+- 
+  type: relations/parental/friend
+  item: people/anne-price
+- 
+  type: relations/parental/colleague
+  item: people/erling-roberts
+- 
+  type: relations/parental/brosis
+  item: people/jarvis-bauch
+- 
+  type: relations/parental/colleague
+  item: people/prof-rae-gerlach
+- 
+  type: relations/money/debtor
+  item: people/emanuel-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

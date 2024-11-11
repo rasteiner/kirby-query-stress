@@ -1,0 +1,64 @@
+Title: Prof. Edgar Bogisich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/franco-stracke
+- 
+  type: relations/parental/mom
+  item: people/prof-keely-mante
+- 
+  type: relations/parental/brosis
+  item: people/dr-landen-wolff
+- 
+  type: relations/parental/colleague
+  item: people/gregorio-carter
+- 
+  type: relations/parental/colleague
+  item: people/jonathon-pouros-dvm
+- 
+  type: relations/parental/friend
+  item: people/eldridge-kiehn
+- 
+  type: relations/money/debtor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/o-keefe-group
+- 
+  type: relations/work/client
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

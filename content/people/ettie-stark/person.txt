@@ -1,0 +1,64 @@
+Title: Ettie Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-shanna-nikolaus
+- 
+  type: relations/parental/mom
+  item: people/loma-bogan
+- 
+  type: relations/parental/brosis
+  item: people/henderson-lehner-v
+- 
+  type: relations/parental/dad
+  item: people/leslie-ritchie
+- 
+  type: relations/parental/dad
+  item: people/francisco-dare
+- 
+  type: relations/parental/colleague
+  item: people/rupert-ferry-dds
+- 
+  type: relations/work/client
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/creditor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

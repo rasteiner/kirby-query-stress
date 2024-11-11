@@ -1,0 +1,64 @@
+Title: Jovan Denesik III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-elsa-wintheiser-md
+- 
+  type: relations/parental/mom
+  item: people/alisha-stracke
+- 
+  type: relations/money/debtor
+  item: people/dr-alexander-stracke
+- 
+  type: relations/parental/friend
+  item: people/mallie-okuneva
+- 
+  type: relations/money/debtor
+  item: people/blaise-friesen
+- 
+  type: relations/money/debtor
+  item: people/corrine-lakin-v
+- 
+  type: relations/work/client
+  item: companies/rath-and-sons
+- 
+  type: relations/work/client
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

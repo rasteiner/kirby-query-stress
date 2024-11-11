@@ -1,0 +1,64 @@
+Title: Dr. Dario Satterfield DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/zoila-jakubowski-v
+- 
+  type: relations/money/creditor
+  item: people/kasey-herman
+- 
+  type: relations/parental/mom
+  item: people/jarod-schulist-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-lilliana-smith
+- 
+  type: relations/parental/friend
+  item: people/dr-mateo-king
+- 
+  type: relations/parental/brosis
+  item: people/deshawn-von
+- 
+  type: relations/money/creditor
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/client
+  item: companies/hintz-fisher
+- 
+  type: relations/money/debtor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

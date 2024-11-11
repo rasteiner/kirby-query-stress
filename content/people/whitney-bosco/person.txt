@@ -1,0 +1,64 @@
+Title: Whitney Bosco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kade-hauck
+- 
+  type: relations/parental/friend
+  item: people/victor-weimann
+- 
+  type: relations/money/creditor
+  item: people/bradly-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/golden-raynor
+- 
+  type: relations/parental/mom
+  item: people/halle-blanda
+- 
+  type: relations/parental/dad
+  item: people/aiden-krajcik-phd
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-thiel
+- 
+  type: relations/money/debtor
+  item: companies/terry-spinka
+- 
+  type: relations/work/employer
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

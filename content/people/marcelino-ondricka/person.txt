@@ -1,0 +1,64 @@
+Title: Marcelino Ondricka
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-jarrett-abbott-ii
+- 
+  type: relations/money/debtor
+  item: people/ms-olga-herzog
+- 
+  type: relations/money/creditor
+  item: people/lavonne-vandervort
+- 
+  type: relations/money/creditor
+  item: people/dr-delia-zieme
+- 
+  type: relations/parental/dad
+  item: people/prof-osbaldo-lesch-iv
+- 
+  type: relations/money/debtor
+  item: people/mrs-jakayla-romaguera-dds
+- 
+  type: relations/money/debtor
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/employer
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/employer
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/work/employer
+  item: companies/hamill-tillman
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

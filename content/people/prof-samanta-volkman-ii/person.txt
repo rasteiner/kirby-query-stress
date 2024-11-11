@@ -1,0 +1,64 @@
+Title: Prof. Samanta Volkman II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jedediah-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/jadyn-walker
+- 
+  type: relations/money/debtor
+  item: people/katlyn-green
+- 
+  type: relations/parental/dad
+  item: people/erica-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/kareem-glover
+- 
+  type: relations/parental/brosis
+  item: people/abigayle-koch
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/franecki-blick
+- 
+  type: relations/work/employer
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

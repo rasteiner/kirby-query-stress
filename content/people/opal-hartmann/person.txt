@@ -1,0 +1,64 @@
+Title: Opal Hartmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/florence-dietrich
+- 
+  type: relations/parental/brosis
+  item: people/lesley-howe
+- 
+  type: relations/parental/brosis
+  item: people/dessie-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/clotilde-morar
+- 
+  type: relations/parental/colleague
+  item: people/ms-janie-leannon
+- 
+  type: relations/parental/colleague
+  item: people/justine-wyman
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/money/creditor
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

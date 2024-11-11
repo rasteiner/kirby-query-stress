@@ -1,0 +1,64 @@
+Title: Ellen Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/javon-pollich
+- 
+  type: relations/money/creditor
+  item: people/gabrielle-kuhic
+- 
+  type: relations/parental/mom
+  item: people/selina-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/dixie-harris
+- 
+  type: relations/money/debtor
+  item: people/ms-anne-price
+- 
+  type: relations/parental/mom
+  item: people/aisha-goodwin-ii
+- 
+  type: relations/work/employer
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Emiliano Donnelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-ewald-wisoky-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-angie-lueilwitz
+- 
+  type: relations/money/debtor
+  item: people/evangeline-waelchi
+- 
+  type: relations/money/creditor
+  item: people/demond-howell
+- 
+  type: relations/money/creditor
+  item: people/monserrat-bednar
+- 
+  type: relations/money/creditor
+  item: people/mr-german-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/work/client
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

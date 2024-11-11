@@ -1,0 +1,64 @@
+Title: Brooklyn Legros Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/monserrat-bednar
+- 
+  type: relations/parental/dad
+  item: people/mr-german-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/mr-rory-kunde-sr
+- 
+  type: relations/money/debtor
+  item: people/emmet-halvorson
+- 
+  type: relations/parental/mom
+  item: people/prof-hattie-mosciski-md
+- 
+  type: relations/money/debtor
+  item: people/jordyn-labadie
+- 
+  type: relations/money/debtor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-group
+- 
+  type: relations/work/client
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

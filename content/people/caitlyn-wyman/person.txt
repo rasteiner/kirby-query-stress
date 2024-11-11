@@ -1,0 +1,65 @@
+Title: Caitlyn Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-marcella-lynch-phd
+- 
+  type: relations/money/debtor
+  item: people/ron-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/hoyt-champlin
+- 
+  type: relations/parental/mom
+  item: people/roma-lebsack
+- 
+  type: relations/parental/dad
+  item: people/miss-lysanne-mraz
+- 
+  type: relations/parental/friend
+  item: people/prof-makenzie-fadel-jr
+- 
+  type: relations/work/employer
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/client
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/client
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/client
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

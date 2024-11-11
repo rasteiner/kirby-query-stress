@@ -1,0 +1,43 @@
+Title: Kunde, Roberts and Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg

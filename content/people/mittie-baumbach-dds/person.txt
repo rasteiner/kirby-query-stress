@@ -1,0 +1,64 @@
+Title: Mittie Baumbach DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/karl-kuhic
+- 
+  type: relations/parental/dad
+  item: people/dr-wade-larkin
+- 
+  type: relations/parental/colleague
+  item: people/flavie-schaden
+- 
+  type: relations/parental/dad
+  item: people/hertha-effertz
+- 
+  type: relations/parental/brosis
+  item: people/allan-marvin
+- 
+  type: relations/parental/friend
+  item: people/ephraim-schneider-sr
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/employer
+  item: companies/cassin-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

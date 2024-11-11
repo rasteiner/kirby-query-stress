@@ -1,0 +1,64 @@
+Title: Dr. Gabrielle Parker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-evans-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/mr-miles-hand-i
+- 
+  type: relations/parental/dad
+  item: people/edna-stracke
+- 
+  type: relations/money/debtor
+  item: people/garfield-wintheiser
+- 
+  type: relations/parental/mom
+  item: people/sabrina-lubowitz
+- 
+  type: relations/money/debtor
+  item: people/sarah-aufderhar
+- 
+  type: relations/work/client
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

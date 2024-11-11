@@ -1,0 +1,64 @@
+Title: Rudy Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brad-breitenberg
+- 
+  type: relations/parental/friend
+  item: people/mr-sterling-stoltenberg-iv
+- 
+  type: relations/parental/mom
+  item: people/ms-trinity-d-amore-jr
+- 
+  type: relations/parental/brosis
+  item: people/curt-balistreri
+- 
+  type: relations/money/creditor
+  item: people/mae-jenkins
+- 
+  type: relations/parental/dad
+  item: people/della-kohler-phd
+- 
+  type: relations/work/employer
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/work/client
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/money/creditor
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/client
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

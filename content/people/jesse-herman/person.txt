@@ -1,0 +1,64 @@
+Title: Jesse Herman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-janae-bode-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-dennis-macejkovic-iii
+- 
+  type: relations/parental/dad
+  item: people/dr-anibal-schimmel-jr
+- 
+  type: relations/parental/dad
+  item: people/dr-guido-thompson
+- 
+  type: relations/money/debtor
+  item: people/danny-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/miss-grace-durgan
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/client
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

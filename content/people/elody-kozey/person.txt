@@ -1,0 +1,64 @@
+Title: Elody Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/larue-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/virginie-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/paula-trantow
+- 
+  type: relations/parental/friend
+  item: people/wilhelmine-jenkins
+- 
+  type: relations/money/creditor
+  item: people/prof-luigi-becker
+- 
+  type: relations/money/debtor
+  item: people/elvis-schinner
+- 
+  type: relations/work/client
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/mclaughlin-plc
+- 
+  type: relations/money/creditor
+  item: companies/kovacek-lindgren
+- 
+  type: relations/work/employer
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

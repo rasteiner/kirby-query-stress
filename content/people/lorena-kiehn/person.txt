@@ -1,0 +1,64 @@
+Title: Lorena Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-tod-hane
+- 
+  type: relations/parental/dad
+  item: people/benedict-kerluke
+- 
+  type: relations/parental/mom
+  item: people/ettie-rodriguez
+- 
+  type: relations/parental/friend
+  item: people/bridget-sauer
+- 
+  type: relations/money/debtor
+  item: people/mrs-malinda-turcotte
+- 
+  type: relations/parental/mom
+  item: people/dr-shaylee-doyle-md
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/employer
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/client
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Gregory Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-regan-hansen
+- 
+  type: relations/parental/brosis
+  item: people/virgie-gibson
+- 
+  type: relations/parental/mom
+  item: people/kris-dibbert
+- 
+  type: relations/parental/colleague
+  item: people/myriam-yost
+- 
+  type: relations/parental/friend
+  item: people/bill-gutkowski
+- 
+  type: relations/parental/dad
+  item: people/dr-eric-quigley-iii
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-group
+- 
+  type: relations/work/employer
+  item: companies/fadel-ltd
+- 
+  type: relations/work/client
+  item: companies/homenick-weber
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

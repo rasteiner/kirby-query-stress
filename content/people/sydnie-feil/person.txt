@@ -1,0 +1,65 @@
+Title: Sydnie Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-birdie-wunsch-dvm
+- 
+  type: relations/parental/colleague
+  item: people/darrel-towne-dvm
+- 
+  type: relations/parental/dad
+  item: people/timmy-kuphal
+- 
+  type: relations/parental/dad
+  item: people/prof-alaina-quigley-iii
+- 
+  type: relations/money/creditor
+  item: people/devan-barrows
+- 
+  type: relations/parental/colleague
+  item: people/garrick-bruen
+- 
+  type: relations/money/debtor
+  item: companies/wisozk-fritsch
+- 
+  type: relations/work/client
+  item: companies/yost-llc
+- 
+  type: relations/work/client
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/creditor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Dee O'Kon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/carolanne-grady
+- 
+  type: relations/parental/mom
+  item: people/leora-o-hara
+- 
+  type: relations/money/debtor
+  item: people/ms-providenci-littel
+- 
+  type: relations/parental/mom
+  item: people/monserrate-bogan
+- 
+  type: relations/money/debtor
+  item: people/rita-fisher
+- 
+  type: relations/parental/mom
+  item: people/mr-lincoln-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/work/client
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Ms. Lina VonRueden V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ferne-miller-v
+- 
+  type: relations/parental/mom
+  item: people/jude-dooley
+- 
+  type: relations/parental/mom
+  item: people/jeffry-jaskolski-md
+- 
+  type: relations/parental/mom
+  item: people/miss-verla-becker
+- 
+  type: relations/parental/colleague
+  item: people/clifton-cremin-sr
+- 
+  type: relations/money/debtor
+  item: people/kurtis-glover-dvm
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/debtor
+  item: companies/becker-ltd
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/work/client
+  item: companies/bauch-plc
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

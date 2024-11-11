@@ -1,0 +1,64 @@
+Title: Leanna Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/benjamin-cormier
+- 
+  type: relations/money/debtor
+  item: people/isac-jacobson
+- 
+  type: relations/money/debtor
+  item: people/raymond-gleason
+- 
+  type: relations/parental/colleague
+  item: people/fermin-renner
+- 
+  type: relations/parental/friend
+  item: people/jace-kuhn-md
+- 
+  type: relations/parental/colleague
+  item: people/hilma-smith
+- 
+  type: relations/money/creditor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/employer
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Mr. Dorthy Cassin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/freida-bode
+- 
+  type: relations/parental/colleague
+  item: people/rene-yost
+- 
+  type: relations/parental/friend
+  item: people/joyce-kunze
+- 
+  type: relations/parental/mom
+  item: people/liliana-block
+- 
+  type: relations/parental/brosis
+  item: people/carmine-botsford
+- 
+  type: relations/parental/mom
+  item: people/prof-jarod-johnston-dvm
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/employer
+  item: companies/ritchie-plc
+- 
+  type: relations/money/creditor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/creditor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

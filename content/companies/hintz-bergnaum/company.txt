@@ -1,0 +1,44 @@
+Title: Hintz-Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/wisoky-kirlin-and-maggio
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/simonis-schmitt
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/debtor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/creditor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt

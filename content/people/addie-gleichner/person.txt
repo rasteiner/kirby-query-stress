@@ -1,0 +1,64 @@
+Title: Addie Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/gino-flatley
+- 
+  type: relations/parental/dad
+  item: people/ara-eichmann
+- 
+  type: relations/parental/colleague
+  item: people/baby-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/amos-hilll-phd
+- 
+  type: relations/parental/colleague
+  item: people/geo-robel
+- 
+  type: relations/money/creditor
+  item: people/hellen-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/employer
+  item: companies/ullrich-llc
+- 
+  type: relations/work/employer
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Enos Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-adele-bogan-iv
+- 
+  type: relations/money/debtor
+  item: people/noble-douglas
+- 
+  type: relations/parental/dad
+  item: people/luis-casper
+- 
+  type: relations/parental/friend
+  item: people/heath-wolff
+- 
+  type: relations/parental/friend
+  item: people/blanca-ernser
+- 
+  type: relations/parental/dad
+  item: people/claude-wilkinson
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/harvey-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

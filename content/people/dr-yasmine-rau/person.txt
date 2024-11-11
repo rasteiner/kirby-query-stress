@@ -1,0 +1,64 @@
+Title: Dr. Yasmine Rau
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-lafayette-mitchell
+- 
+  type: relations/money/debtor
+  item: people/domenica-stanton
+- 
+  type: relations/parental/mom
+  item: people/kaley-goyette
+- 
+  type: relations/parental/dad
+  item: people/meagan-stark
+- 
+  type: relations/money/creditor
+  item: people/ms-alessia-donnelly
+- 
+  type: relations/money/debtor
+  item: people/deangelo-torphy
+- 
+  type: relations/money/debtor
+  item: companies/sporer-will
+- 
+  type: relations/work/employer
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

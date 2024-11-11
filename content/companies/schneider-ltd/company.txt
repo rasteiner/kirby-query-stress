@@ -1,0 +1,43 @@
+Title: Schneider Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/smitham-renner
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/new-hannah

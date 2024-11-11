@@ -1,0 +1,64 @@
+Title: Dr. Carolyn Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/abelardo-goldner
+- 
+  type: relations/money/debtor
+  item: people/gerry-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/dr-roselyn-feil-i
+- 
+  type: relations/parental/brosis
+  item: people/lambert-kuvalis
+- 
+  type: relations/parental/dad
+  item: people/henri-osinski
+- 
+  type: relations/parental/brosis
+  item: people/emmet-mayert
+- 
+  type: relations/money/debtor
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

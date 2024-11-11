@@ -1,0 +1,65 @@
+Title: Name Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/zoe-hansen
+- 
+  type: relations/money/debtor
+  item: people/jason-ullrich
+- 
+  type: relations/money/debtor
+  item: people/prof-opal-hammes-iv
+- 
+  type: relations/money/debtor
+  item: people/jewel-schowalter
+- 
+  type: relations/money/creditor
+  item: people/rosella-bartoletti
+- 
+  type: relations/money/debtor
+  item: people/madie-schmeler-v
+- 
+  type: relations/money/creditor
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/money/debtor
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/money/creditor
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

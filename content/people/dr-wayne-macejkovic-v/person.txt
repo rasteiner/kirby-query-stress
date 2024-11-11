@@ -1,0 +1,64 @@
+Title: Dr. Wayne Macejkovic V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dessie-gottlieb
+- 
+  type: relations/parental/friend
+  item: people/ella-langworth-v
+- 
+  type: relations/parental/brosis
+  item: people/barney-schulist-iii
+- 
+  type: relations/parental/friend
+  item: people/mara-effertz
+- 
+  type: relations/parental/colleague
+  item: people/damien-bergnaum
+- 
+  type: relations/parental/friend
+  item: people/shyann-von-v
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/mann-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

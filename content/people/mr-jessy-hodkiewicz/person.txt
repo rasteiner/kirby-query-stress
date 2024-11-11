@@ -1,0 +1,64 @@
+Title: Mr. Jessy Hodkiewicz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/columbus-ullrich
+- 
+  type: relations/parental/mom
+  item: people/madisen-tremblay
+- 
+  type: relations/parental/mom
+  item: people/alva-will-phd
+- 
+  type: relations/parental/brosis
+  item: people/miss-roxanne-schroeder
+- 
+  type: relations/money/creditor
+  item: people/caitlyn-wyman
+- 
+  type: relations/parental/mom
+  item: people/dr-vallie-reichel-jr
+- 
+  type: relations/work/employer
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/creditor
+  item: companies/hauck-inc
+- 
+  type: relations/money/creditor
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

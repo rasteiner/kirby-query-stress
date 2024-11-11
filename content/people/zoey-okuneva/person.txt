@@ -1,0 +1,64 @@
+Title: Zoey Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alessia-kerluke
+- 
+  type: relations/money/creditor
+  item: people/santos-reynolds
+- 
+  type: relations/parental/brosis
+  item: people/gianni-kuhic
+- 
+  type: relations/money/debtor
+  item: people/prof-arturo-feil
+- 
+  type: relations/money/debtor
+  item: people/ryder-barton
+- 
+  type: relations/parental/mom
+  item: people/dr-jalen-emard-ii
+- 
+  type: relations/work/employer
+  item: companies/gibson-lynch
+- 
+  type: relations/work/employer
+  item: companies/legros-hirthe
+- 
+  type: relations/work/client
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

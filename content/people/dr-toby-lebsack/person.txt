@@ -1,0 +1,64 @@
+Title: Dr. Toby Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/parental/colleague
+  item: people/retta-hilll-i
+- 
+  type: relations/parental/mom
+  item: people/ms-destini-hand
+- 
+  type: relations/money/creditor
+  item: people/marie-littel-dvm
+- 
+  type: relations/parental/brosis
+  item: people/miss-sarah-reilly
+- 
+  type: relations/work/client
+  item: companies/kuhic-plc
+- 
+  type: relations/work/employer
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

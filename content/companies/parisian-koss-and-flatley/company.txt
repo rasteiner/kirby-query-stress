@@ -1,0 +1,45 @@
+Title: Parisian, Koss and Flatley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/olson-inc
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yost
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/north-dallin

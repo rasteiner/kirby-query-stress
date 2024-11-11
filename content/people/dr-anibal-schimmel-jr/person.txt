@@ -1,0 +1,64 @@
+Title: Dr. Anibal Schimmel Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eileen-doyle
+- 
+  type: relations/parental/dad
+  item: people/alvina-hettinger-i
+- 
+  type: relations/money/creditor
+  item: people/hassie-denesik
+- 
+  type: relations/parental/colleague
+  item: people/miss-violette-zemlak
+- 
+  type: relations/money/debtor
+  item: people/tate-o-hara
+- 
+  type: relations/parental/mom
+  item: people/minnie-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/collins-and-sons
+- 
+  type: relations/work/employer
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/work/employer
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

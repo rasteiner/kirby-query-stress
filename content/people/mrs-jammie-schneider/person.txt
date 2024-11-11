@@ -1,0 +1,64 @@
+Title: Mrs. Jammie Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/brooks-mosciski-i
+- 
+  type: relations/parental/mom
+  item: people/tod-halvorson
+- 
+  type: relations/parental/brosis
+  item: people/grant-hyatt
+- 
+  type: relations/money/debtor
+  item: people/laurel-gulgowski
+- 
+  type: relations/parental/brosis
+  item: people/levi-hilpert-sr
+- 
+  type: relations/money/creditor
+  item: people/jensen-terry-jr
+- 
+  type: relations/money/debtor
+  item: companies/hand-schuster
+- 
+  type: relations/work/employer
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/work/employer
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

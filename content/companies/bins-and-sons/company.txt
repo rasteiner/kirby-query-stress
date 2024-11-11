@@ -1,0 +1,43 @@
+Title: Bins and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/schiller-collier
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/creditor
+  item: companies/bogan-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

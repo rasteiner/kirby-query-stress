@@ -1,0 +1,64 @@
+Title: Prof. Julianne Jones DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/isaac-beer
+- 
+  type: relations/parental/friend
+  item: people/eladio-prohaska
+- 
+  type: relations/money/creditor
+  item: people/kelsi-feil
+- 
+  type: relations/money/debtor
+  item: people/annalise-ankunding-dds
+- 
+  type: relations/parental/mom
+  item: people/bella-dooley-dvm
+- 
+  type: relations/money/creditor
+  item: people/miss-pearl-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/money/creditor
+  item: companies/stokes-inc
+- 
+  type: relations/work/client
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

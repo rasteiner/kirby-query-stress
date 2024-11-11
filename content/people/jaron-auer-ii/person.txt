@@ -1,0 +1,64 @@
+Title: Jaron Auer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/paula-trantow
+- 
+  type: relations/parental/colleague
+  item: people/wilhelmine-jenkins
+- 
+  type: relations/parental/colleague
+  item: people/prof-luigi-becker
+- 
+  type: relations/parental/colleague
+  item: people/elvis-schinner
+- 
+  type: relations/parental/dad
+  item: people/faye-wunsch-sr
+- 
+  type: relations/parental/brosis
+  item: people/matilde-o-keefe-i
+- 
+  type: relations/work/employer
+  item: companies/labadie-plc
+- 
+  type: relations/work/client
+  item: companies/fisher-adams
+- 
+  type: relations/work/client
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

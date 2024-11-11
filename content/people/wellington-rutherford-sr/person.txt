@@ -1,0 +1,64 @@
+Title: Wellington Rutherford Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/money/debtor
+  item: people/reyes-koepp
+- 
+  type: relations/parental/dad
+  item: people/buck-erdman
+- 
+  type: relations/money/creditor
+  item: people/prof-mervin-renner
+- 
+  type: relations/parental/dad
+  item: people/berry-osinski
+- 
+  type: relations/money/debtor
+  item: people/franco-mcdermott
+- 
+  type: relations/work/client
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/money/debtor
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

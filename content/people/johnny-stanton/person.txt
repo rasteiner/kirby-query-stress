@@ -1,0 +1,64 @@
+Title: Johnny Stanton
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/colton-kozey
+- 
+  type: relations/parental/colleague
+  item: people/jordy-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/lucas-rath
+- 
+  type: relations/money/debtor
+  item: people/mrs-anabelle-olson
+- 
+  type: relations/parental/friend
+  item: people/rowland-konopelski
+- 
+  type: relations/money/debtor
+  item: people/tyra-franecki-md
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

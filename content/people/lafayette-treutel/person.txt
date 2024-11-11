@@ -1,0 +1,64 @@
+Title: Lafayette Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/mom
+  item: people/bailey-raynor
+- 
+  type: relations/money/creditor
+  item: people/dr-dillon-herzog
+- 
+  type: relations/money/debtor
+  item: people/dr-rupert-mayer-md
+- 
+  type: relations/money/creditor
+  item: people/tyrel-gottlieb
+- 
+  type: relations/parental/brosis
+  item: people/raheem-muller
+- 
+  type: relations/money/debtor
+  item: companies/watsica-inc
+- 
+  type: relations/work/client
+  item: companies/casper-larson
+- 
+  type: relations/money/creditor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

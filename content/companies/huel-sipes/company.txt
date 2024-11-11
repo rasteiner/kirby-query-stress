@@ -1,0 +1,43 @@
+Title: Huel-Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/money/debtor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-grimes
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/marquardt-zieme
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/kathlynland

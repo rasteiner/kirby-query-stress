@@ -1,0 +1,64 @@
+Title: Prof. Adonis Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/noah-lockman
+- 
+  type: relations/parental/dad
+  item: people/emmett-mayert
+- 
+  type: relations/parental/colleague
+  item: people/garrison-stroman-phd
+- 
+  type: relations/money/creditor
+  item: people/carmen-bogisich
+- 
+  type: relations/money/debtor
+  item: people/mrs-jermaine-kirlin-dds
+- 
+  type: relations/parental/brosis
+  item: people/catharine-homenick
+- 
+  type: relations/work/client
+  item: companies/kirlin-davis
+- 
+  type: relations/work/employer
+  item: companies/howell-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Dr. Seth Ebert Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/chanelle-hilpert
+- 
+  type: relations/parental/mom
+  item: people/jacey-lowe
+- 
+  type: relations/parental/dad
+  item: people/jerry-christiansen
+- 
+  type: relations/parental/mom
+  item: people/nikki-stamm-dvm
+- 
+  type: relations/parental/colleague
+  item: people/mr-francesco-stroman-jr
+- 
+  type: relations/money/creditor
+  item: people/avis-morar
+- 
+  type: relations/money/debtor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/creditor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/client
+  item: companies/ratke-fay
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

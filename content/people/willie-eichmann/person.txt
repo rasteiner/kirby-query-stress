@@ -1,0 +1,64 @@
+Title: Willie Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alia-hintz
+- 
+  type: relations/money/creditor
+  item: people/dr-danny-bechtelar-i
+- 
+  type: relations/parental/friend
+  item: people/prof-kaitlyn-renner
+- 
+  type: relations/parental/mom
+  item: people/francesca-johns
+- 
+  type: relations/parental/mom
+  item: people/adrian-bechtelar-i
+- 
+  type: relations/parental/dad
+  item: people/merl-harvey
+- 
+  type: relations/work/client
+  item: companies/hand-schuster
+- 
+  type: relations/money/debtor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/client
+  item: companies/mraz-kub
+- 
+  type: relations/work/employer
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Elissa Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-genevieve-braun
+- 
+  type: relations/parental/brosis
+  item: people/luna-o-conner-ii
+- 
+  type: relations/parental/colleague
+  item: people/elmer-hartmann
+- 
+  type: relations/money/creditor
+  item: people/keira-schinner-dvm
+- 
+  type: relations/parental/friend
+  item: people/roger-gutmann
+- 
+  type: relations/parental/mom
+  item: people/griffin-gleichner
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

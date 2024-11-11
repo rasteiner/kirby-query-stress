@@ -1,0 +1,64 @@
+Title: Sheridan Hahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-dell-mcglynn
+- 
+  type: relations/parental/dad
+  item: people/prof-simeon-weimann
+- 
+  type: relations/parental/mom
+  item: people/norwood-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/roslyn-christiansen
+- 
+  type: relations/parental/colleague
+  item: people/brisa-ullrich-md
+- 
+  type: relations/money/creditor
+  item: people/aurore-jast
+- 
+  type: relations/money/debtor
+  item: companies/robel-bechtelar
+- 
+  type: relations/work/client
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/veum-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

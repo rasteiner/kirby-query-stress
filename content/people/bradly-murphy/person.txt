@@ -1,0 +1,64 @@
+Title: Bradly Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-andy-pollich
+- 
+  type: relations/parental/brosis
+  item: people/dr-johnathon-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/ferne-miller-v
+- 
+  type: relations/money/creditor
+  item: people/jude-dooley
+- 
+  type: relations/parental/colleague
+  item: people/jeffry-jaskolski-md
+- 
+  type: relations/parental/mom
+  item: people/miss-verla-becker
+- 
+  type: relations/work/employer
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/client
+  item: companies/kuvalis-group
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-little
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

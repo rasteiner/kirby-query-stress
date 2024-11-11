@@ -1,0 +1,64 @@
+Title: Aisha Goodwin II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/casandra-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/melany-feeney-ii
+- 
+  type: relations/parental/dad
+  item: people/andy-romaguera
+- 
+  type: relations/parental/mom
+  item: people/prof-robyn-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/edison-hoppe-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-lew-beier-v
+- 
+  type: relations/money/debtor
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/money/creditor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/work/client
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

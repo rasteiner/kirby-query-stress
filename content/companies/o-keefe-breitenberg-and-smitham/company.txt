@@ -1,0 +1,43 @@
+Title: O'Keefe, Breitenberg and Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort

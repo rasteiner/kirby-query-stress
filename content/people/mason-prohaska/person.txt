@@ -1,0 +1,64 @@
+Title: Mason Prohaska
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/art-wolff
+- 
+  type: relations/parental/dad
+  item: people/daren-bernhard
+- 
+  type: relations/parental/mom
+  item: people/rodrick-hamill
+- 
+  type: relations/money/debtor
+  item: people/lysanne-kuvalis
+- 
+  type: relations/parental/dad
+  item: people/nayeli-schamberger
+- 
+  type: relations/money/creditor
+  item: people/prof-raegan-schmitt-v
+- 
+  type: relations/work/client
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/employer
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/work/client
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

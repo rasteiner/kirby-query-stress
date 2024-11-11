@@ -1,0 +1,64 @@
+Title: Kenyatta Marvin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/everette-boyle
+- 
+  type: relations/parental/colleague
+  item: people/dr-hadley-volkman
+- 
+  type: relations/parental/brosis
+  item: people/mrs-rhoda-schultz
+- 
+  type: relations/parental/colleague
+  item: people/ike-zemlak
+- 
+  type: relations/parental/colleague
+  item: people/prof-sherman-schaefer-md
+- 
+  type: relations/parental/friend
+  item: people/mrs-ashtyn-funk
+- 
+  type: relations/money/creditor
+  item: companies/boyer-llc
+- 
+  type: relations/money/creditor
+  item: companies/medhurst-group
+- 
+  type: relations/work/client
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

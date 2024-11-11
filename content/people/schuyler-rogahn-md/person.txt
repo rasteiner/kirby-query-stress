@@ -1,0 +1,64 @@
+Title: Schuyler Rogahn MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-autumn-hermann-sr
+- 
+  type: relations/parental/brosis
+  item: people/kellen-simonis
+- 
+  type: relations/parental/dad
+  item: people/daniella-altenwerth
+- 
+  type: relations/money/creditor
+  item: people/prof-broderick-effertz
+- 
+  type: relations/money/debtor
+  item: people/toy-harvey-md
+- 
+  type: relations/parental/brosis
+  item: people/dwight-bogisich
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/money/debtor
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/creditor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/money/debtor
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Julia Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-darrin-kling
+- 
+  type: relations/parental/colleague
+  item: people/chanelle-wolff-md
+- 
+  type: relations/parental/friend
+  item: people/micaela-haley-iii
+- 
+  type: relations/parental/brosis
+  item: people/paolo-wehner-md
+- 
+  type: relations/parental/mom
+  item: people/prof-jermey-lebsack
+- 
+  type: relations/money/creditor
+  item: people/mr-dejon-moore-iv
+- 
+  type: relations/work/client
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/work/employer
+  item: companies/blanda-inc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

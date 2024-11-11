@@ -1,0 +1,64 @@
+Title: Lavada Stoltenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/justen-carter
+- 
+  type: relations/money/creditor
+  item: people/uriah-graham
+- 
+  type: relations/parental/friend
+  item: people/ms-aniya-koelpin
+- 
+  type: relations/parental/mom
+  item: people/tracey-monahan
+- 
+  type: relations/parental/friend
+  item: people/ms-katelyn-leuschke-iv
+- 
+  type: relations/parental/brosis
+  item: people/shyann-nader
+- 
+  type: relations/work/client
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/client
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

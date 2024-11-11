@@ -1,0 +1,64 @@
+Title: Aniya Legros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-kyra-romaguera-sr
+- 
+  type: relations/parental/colleague
+  item: people/ashlee-roberts
+- 
+  type: relations/parental/dad
+  item: people/kelly-morissette
+- 
+  type: relations/parental/friend
+  item: people/linnea-price
+- 
+  type: relations/parental/mom
+  item: people/hillary-ratke
+- 
+  type: relations/parental/friend
+  item: people/stephan-heathcote
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/client
+  item: companies/davis-harber
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/creditor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

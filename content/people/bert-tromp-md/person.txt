@@ -1,0 +1,64 @@
+Title: Bert Tromp MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ralph-sipes
+- 
+  type: relations/parental/mom
+  item: people/dr-sven-wiza
+- 
+  type: relations/parental/friend
+  item: people/amely-crist
+- 
+  type: relations/money/debtor
+  item: people/lorena-gulgowski
+- 
+  type: relations/parental/dad
+  item: people/prof-mable-krajcik
+- 
+  type: relations/money/creditor
+  item: people/dr-roscoe-abernathy-dvm
+- 
+  type: relations/money/debtor
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Kay Ebert DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-hertha-king-v
+- 
+  type: relations/parental/friend
+  item: people/sandrine-toy
+- 
+  type: relations/parental/dad
+  item: people/buster-hartmann-i
+- 
+  type: relations/parental/mom
+  item: people/dr-frances-o-connell
+- 
+  type: relations/parental/dad
+  item: people/jeffery-welch-iv
+- 
+  type: relations/money/debtor
+  item: people/viviane-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/senger-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/kris-moen
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/douglas-emard
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

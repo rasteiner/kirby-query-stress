@@ -1,0 +1,64 @@
+Title: Cassandra Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-brock-weissnat-iii
+- 
+  type: relations/parental/brosis
+  item: people/miss-abbey-cole-jr
+- 
+  type: relations/parental/friend
+  item: people/prof-chelsey-wolf
+- 
+  type: relations/parental/brosis
+  item: people/dr-vivien-crist
+- 
+  type: relations/parental/brosis
+  item: people/dr-evans-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/mr-miles-hand-i
+- 
+  type: relations/work/client
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

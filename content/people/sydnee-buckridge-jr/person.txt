@@ -1,0 +1,64 @@
+Title: Sydnee Buckridge Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mattie-hackett
+- 
+  type: relations/money/creditor
+  item: people/dr-zakary-farrell-dvm
+- 
+  type: relations/parental/brosis
+  item: people/raul-waters
+- 
+  type: relations/parental/dad
+  item: people/ignacio-effertz
+- 
+  type: relations/parental/colleague
+  item: people/estrella-ebert-i
+- 
+  type: relations/money/debtor
+  item: people/ashtyn-hills
+- 
+  type: relations/money/debtor
+  item: companies/blanda-ltd
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/haag-hoeger
+- 
+  type: relations/work/employer
+  item: companies/bergnaum-lueilwitz
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

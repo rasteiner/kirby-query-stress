@@ -1,0 +1,64 @@
+Title: Dr. Alexander Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/manuel-walker
+- 
+  type: relations/money/creditor
+  item: people/florian-wiegand
+- 
+  type: relations/parental/brosis
+  item: people/jermain-lind-ii
+- 
+  type: relations/parental/friend
+  item: people/prudence-krajcik-phd
+- 
+  type: relations/parental/mom
+  item: people/ms-vincenza-bosco-i
+- 
+  type: relations/parental/mom
+  item: people/jocelyn-kohler
+- 
+  type: relations/money/debtor
+  item: companies/yost-o-conner
+- 
+  type: relations/work/client
+  item: companies/quitzon-osinski
+- 
+  type: relations/work/client
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

@@ -1,0 +1,65 @@
+Title: Dr. Maci Hermiston MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/eliane-trantow
+- 
+  type: relations/parental/mom
+  item: people/cayla-yundt
+- 
+  type: relations/parental/brosis
+  item: people/mabelle-mayert
+- 
+  type: relations/parental/dad
+  item: people/faye-daugherty
+- 
+  type: relations/parental/mom
+  item: people/damian-herman
+- 
+  type: relations/money/debtor
+  item: people/ms-kaelyn-kutch-dds
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/work/client
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/money/debtor
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

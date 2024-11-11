@@ -1,0 +1,65 @@
+Title: Avery Graham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/boyd-padberg
+- 
+  type: relations/parental/colleague
+  item: people/jocelyn-hamill
+- 
+  type: relations/parental/colleague
+  item: people/shania-schmitt
+- 
+  type: relations/money/creditor
+  item: people/carlie-cremin
+- 
+  type: relations/parental/colleague
+  item: people/dr-shakira-murazik
+- 
+  type: relations/parental/dad
+  item: people/miss-zora-blick-i
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/money/creditor
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

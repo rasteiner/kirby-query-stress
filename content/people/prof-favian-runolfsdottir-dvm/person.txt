@@ -1,0 +1,64 @@
+Title: Prof. Favian Runolfsdottir DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/forrest-friesen
+- 
+  type: relations/parental/dad
+  item: people/ephraim-langworth
+- 
+  type: relations/parental/brosis
+  item: people/vita-o-hara
+- 
+  type: relations/parental/brosis
+  item: people/domenick-waelchi
+- 
+  type: relations/parental/colleague
+  item: people/isidro-bailey
+- 
+  type: relations/money/creditor
+  item: people/nakia-stroman
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/debtor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/work/client
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

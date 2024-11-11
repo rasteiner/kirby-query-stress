@@ -1,0 +1,64 @@
+Title: Marley Schinner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/raphael-jerde
+- 
+  type: relations/parental/friend
+  item: people/jackie-ferry
+- 
+  type: relations/parental/friend
+  item: people/meggie-brown
+- 
+  type: relations/parental/colleague
+  item: people/linwood-ruecker
+- 
+  type: relations/money/debtor
+  item: people/maritza-skiles
+- 
+  type: relations/parental/colleague
+  item: people/alysson-wiza
+- 
+  type: relations/work/client
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/creditor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

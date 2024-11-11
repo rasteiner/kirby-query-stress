@@ -1,0 +1,64 @@
+Title: Ismael Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-austin-macejkovic
+- 
+  type: relations/money/creditor
+  item: people/jaylan-hudson
+- 
+  type: relations/parental/mom
+  item: people/earl-douglas-i
+- 
+  type: relations/money/creditor
+  item: people/tamia-quitzon-iii
+- 
+  type: relations/parental/friend
+  item: people/tobin-bergstrom
+- 
+  type: relations/parental/mom
+  item: people/makenzie-raynor-iv
+- 
+  type: relations/money/debtor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

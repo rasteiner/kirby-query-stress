@@ -1,0 +1,64 @@
+Title: Maximillian Fadel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/carmella-stracke-md
+- 
+  type: relations/parental/dad
+  item: people/faustino-deckow
+- 
+  type: relations/money/creditor
+  item: people/prof-raina-lueilwitz
+- 
+  type: relations/money/debtor
+  item: people/jayme-bayer
+- 
+  type: relations/parental/mom
+  item: people/dr-tressie-heidenreich-jr
+- 
+  type: relations/parental/colleague
+  item: people/theodore-beer
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/money/creditor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

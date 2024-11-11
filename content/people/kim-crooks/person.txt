@@ -1,0 +1,64 @@
+Title: Kim Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/garret-harber-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-edd-leffler-ii
+- 
+  type: relations/parental/mom
+  item: people/stephen-kovacek
+- 
+  type: relations/parental/brosis
+  item: people/urban-mayer
+- 
+  type: relations/money/debtor
+  item: people/mrs-nyah-shields
+- 
+  type: relations/parental/colleague
+  item: people/ulices-kohler
+- 
+  type: relations/work/client
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

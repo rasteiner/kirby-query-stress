@@ -1,0 +1,64 @@
+Title: Rene Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-faye-reichert
+- 
+  type: relations/parental/mom
+  item: people/jean-hilpert-dvm
+- 
+  type: relations/parental/mom
+  item: people/gino-flatley
+- 
+  type: relations/parental/colleague
+  item: people/ara-eichmann
+- 
+  type: relations/parental/colleague
+  item: people/baby-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/amos-hilll-phd
+- 
+  type: relations/money/debtor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/keeling-denesik
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

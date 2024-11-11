@@ -1,0 +1,43 @@
+Title: Legros-Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/huel-sipes
+- 
+  type: relations/money/debtor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/money/debtor
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt

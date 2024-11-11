@@ -1,0 +1,43 @@
+Title: Wintheiser, Frami and Bauch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/tillman-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/greenfelder-plc
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-little
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/darleneshire

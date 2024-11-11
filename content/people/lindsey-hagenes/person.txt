@@ -1,0 +1,64 @@
+Title: Lindsey Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/nash-smith
+- 
+  type: relations/parental/mom
+  item: people/wilton-powlowski
+- 
+  type: relations/money/creditor
+  item: people/wava-kuhic
+- 
+  type: relations/parental/dad
+  item: people/lavina-johnson
+- 
+  type: relations/parental/dad
+  item: people/neha-predovic
+- 
+  type: relations/parental/friend
+  item: people/katelyn-johnston
+- 
+  type: relations/work/employer
+  item: companies/gorczany-group
+- 
+  type: relations/money/creditor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/client
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/work/employer
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

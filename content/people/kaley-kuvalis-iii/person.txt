@@ -1,0 +1,64 @@
+Title: Kaley Kuvalis III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/norwood-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/roslyn-christiansen
+- 
+  type: relations/parental/colleague
+  item: people/brisa-ullrich-md
+- 
+  type: relations/money/debtor
+  item: people/aurore-jast
+- 
+  type: relations/parental/mom
+  item: people/kristin-hansen
+- 
+  type: relations/parental/dad
+  item: people/prof-lexie-littel-dvm
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/client
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

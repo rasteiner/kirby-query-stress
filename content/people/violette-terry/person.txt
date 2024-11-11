@@ -1,0 +1,64 @@
+Title: Violette Terry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ila-monahan
+- 
+  type: relations/parental/brosis
+  item: people/maida-feeney-jr
+- 
+  type: relations/parental/brosis
+  item: people/mrs-naomie-cartwright
+- 
+  type: relations/parental/dad
+  item: people/prof-jermaine-wolff
+- 
+  type: relations/money/debtor
+  item: people/daniella-abshire
+- 
+  type: relations/parental/dad
+  item: people/prof-holden-schroeder
+- 
+  type: relations/work/employer
+  item: companies/treutel-plc
+- 
+  type: relations/money/creditor
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/employer
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

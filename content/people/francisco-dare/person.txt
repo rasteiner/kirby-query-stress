@@ -1,0 +1,64 @@
+Title: Francisco Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/viva-goyette
+- 
+  type: relations/money/creditor
+  item: people/gwen-tillman
+- 
+  type: relations/parental/dad
+  item: people/retha-miller
+- 
+  type: relations/parental/brosis
+  item: people/pedro-o-kon
+- 
+  type: relations/money/creditor
+  item: people/prof-eudora-rogahn-phd
+- 
+  type: relations/parental/mom
+  item: people/ned-hammes
+- 
+  type: relations/work/employer
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/work/employer
+  item: companies/anderson-muller
+- 
+  type: relations/work/client
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

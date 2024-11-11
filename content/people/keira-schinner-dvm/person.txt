@@ -1,0 +1,64 @@
+Title: Keira Schinner DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-jovany-white
+- 
+  type: relations/parental/friend
+  item: people/estefania-tremblay
+- 
+  type: relations/parental/mom
+  item: people/mr-khalid-leffler-dds
+- 
+  type: relations/parental/dad
+  item: people/landen-thiel
+- 
+  type: relations/parental/friend
+  item: people/darwin-herman-jr
+- 
+  type: relations/money/creditor
+  item: people/michelle-hintz
+- 
+  type: relations/work/client
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/work/client
+  item: companies/lindgren-group
+- 
+  type: relations/money/debtor
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Leon Grady
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/vincenza-turner
+- 
+  type: relations/parental/brosis
+  item: people/lilian-gerlach
+- 
+  type: relations/parental/mom
+  item: people/prof-delbert-fisher
+- 
+  type: relations/parental/dad
+  item: people/casey-carter
+- 
+  type: relations/parental/colleague
+  item: people/gonzalo-bauch-v
+- 
+  type: relations/money/debtor
+  item: people/kelly-goodwin
+- 
+  type: relations/money/creditor
+  item: companies/strosin-ltd
+- 
+  type: relations/work/employer
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/debtor
+  item: companies/rath-hackett-and-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/blick-mcclure
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

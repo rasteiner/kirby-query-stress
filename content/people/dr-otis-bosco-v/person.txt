@@ -1,0 +1,64 @@
+Title: Dr. Otis Bosco V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/cleo-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/mr-sedrick-emard
+- 
+  type: relations/parental/mom
+  item: people/mr-franz-kuphal
+- 
+  type: relations/parental/dad
+  item: people/miss-jennifer-vandervort-i
+- 
+  type: relations/money/creditor
+  item: people/dr-christa-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/sophia-satterfield
+- 
+  type: relations/work/employer
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/creditor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

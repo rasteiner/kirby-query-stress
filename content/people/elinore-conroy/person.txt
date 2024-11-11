@@ -1,0 +1,64 @@
+Title: Elinore Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/howell-sawayn
+- 
+  type: relations/parental/mom
+  item: people/enid-blick
+- 
+  type: relations/parental/colleague
+  item: people/armani-beier
+- 
+  type: relations/money/debtor
+  item: people/kenneth-hammes
+- 
+  type: relations/parental/dad
+  item: people/hilario-ullrich
+- 
+  type: relations/money/debtor
+  item: people/mr-kristian-greenfelder-dvm
+- 
+  type: relations/money/debtor
+  item: companies/bruen-vandervort-and-stracke
+- 
+  type: relations/money/debtor
+  item: companies/hauck-inc
+- 
+  type: relations/work/client
+  item: companies/sipes-o-reilly
+- 
+  type: relations/work/client
+  item: companies/smitham-renner
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

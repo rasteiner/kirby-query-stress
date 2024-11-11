@@ -1,0 +1,64 @@
+Title: Saige King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-bethany-terry
+- 
+  type: relations/parental/friend
+  item: people/rosalyn-wiza
+- 
+  type: relations/money/debtor
+  item: people/nicklaus-will
+- 
+  type: relations/parental/colleague
+  item: people/dr-laila-maggio
+- 
+  type: relations/parental/friend
+  item: people/dan-greenholt
+- 
+  type: relations/parental/dad
+  item: people/dr-trevion-bins
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/employer
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

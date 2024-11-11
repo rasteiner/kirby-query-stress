@@ -1,0 +1,64 @@
+Title: Prof. Karlee Kling PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-darrell-d-amore
+- 
+  type: relations/parental/friend
+  item: people/cecilia-purdy
+- 
+  type: relations/money/creditor
+  item: people/jaycee-borer
+- 
+  type: relations/parental/mom
+  item: people/zola-koch
+- 
+  type: relations/parental/brosis
+  item: people/kiara-corwin
+- 
+  type: relations/parental/dad
+  item: people/kathleen-rosenbaum
+- 
+  type: relations/money/creditor
+  item: companies/casper-inc
+- 
+  type: relations/money/creditor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-renner
+- 
+  type: relations/money/creditor
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

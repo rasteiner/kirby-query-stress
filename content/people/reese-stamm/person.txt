@@ -1,0 +1,64 @@
+Title: Reese Stamm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/amelie-walsh
+- 
+  type: relations/parental/friend
+  item: people/sadie-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/eveline-torp
+- 
+  type: relations/parental/mom
+  item: people/augustus-hudson
+- 
+  type: relations/parental/brosis
+  item: people/melisa-hayes-ii
+- 
+  type: relations/parental/friend
+  item: people/jamil-von
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

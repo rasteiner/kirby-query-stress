@@ -1,0 +1,64 @@
+Title: Marc Jerde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/woodrow-douglas
+- 
+  type: relations/parental/brosis
+  item: people/eleanore-emmerich
+- 
+  type: relations/parental/dad
+  item: people/treva-mraz
+- 
+  type: relations/parental/friend
+  item: people/prof-rickey-beer-phd
+- 
+  type: relations/money/debtor
+  item: people/floy-wuckert
+- 
+  type: relations/money/creditor
+  item: people/christa-murphy
+- 
+  type: relations/money/creditor
+  item: companies/bode-reinger
+- 
+  type: relations/work/employer
+  item: companies/frami-group
+- 
+  type: relations/work/employer
+  item: companies/jenkins-group
+- 
+  type: relations/work/employer
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

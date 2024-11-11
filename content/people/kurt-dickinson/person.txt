@@ -1,0 +1,64 @@
+Title: Kurt Dickinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/parental/dad
+  item: people/lila-walter
+- 
+  type: relations/parental/dad
+  item: people/demarco-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/trudie-veum
+- 
+  type: relations/parental/friend
+  item: people/prof-kevon-quitzon
+- 
+  type: relations/money/debtor
+  item: people/ms-addison-morar
+- 
+  type: relations/work/employer
+  item: companies/stanton-bailey
+- 
+  type: relations/money/creditor
+  item: companies/lind-lubowitz
+- 
+  type: relations/work/client
+  item: companies/hahn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/erdman-deckow-and-leuschke
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Maximillian Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/stephon-hudson
+- 
+  type: relations/parental/mom
+  item: people/rick-erdman
+- 
+  type: relations/parental/friend
+  item: people/miss-aditya-ondricka-i
+- 
+  type: relations/parental/mom
+  item: people/bernie-schoen-iii
+- 
+  type: relations/parental/brosis
+  item: people/mertie-prosacco
+- 
+  type: relations/money/debtor
+  item: people/anabel-heathcote
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

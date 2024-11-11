@@ -1,0 +1,64 @@
+Title: Faye Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/albertha-murphy
+- 
+  type: relations/parental/mom
+  item: people/dillon-lynch-v
+- 
+  type: relations/money/debtor
+  item: people/lela-reichert
+- 
+  type: relations/parental/colleague
+  item: people/dr-stefan-rath
+- 
+  type: relations/parental/colleague
+  item: people/ruthie-nitzsche-iv
+- 
+  type: relations/money/creditor
+  item: people/mr-clair-bartell-jr
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-group
+- 
+  type: relations/money/creditor
+  item: companies/fadel-ltd
+- 
+  type: relations/money/creditor
+  item: companies/homenick-weber
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-weissnat
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

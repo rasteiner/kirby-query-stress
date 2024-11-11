@@ -1,0 +1,64 @@
+Title: Jaida Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-eldon-romaguera
+- 
+  type: relations/parental/colleague
+  item: people/rudy-crist-iii
+- 
+  type: relations/parental/brosis
+  item: people/belle-hagenes
+- 
+  type: relations/parental/mom
+  item: people/nicholas-parisian
+- 
+  type: relations/money/debtor
+  item: people/lexi-gaylord
+- 
+  type: relations/money/creditor
+  item: people/franco-pfeffer
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/employer
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/work/client
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Valentina McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/talia-koch-iii
+- 
+  type: relations/parental/brosis
+  item: people/macy-dooley
+- 
+  type: relations/parental/friend
+  item: people/jerrell-hackett
+- 
+  type: relations/parental/dad
+  item: people/adolph-goyette
+- 
+  type: relations/parental/friend
+  item: people/dr-marcus-gerlach-i
+- 
+  type: relations/parental/colleague
+  item: people/michel-sanford-ii
+- 
+  type: relations/money/debtor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/money/creditor
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/employer
+  item: companies/beahan-sauer
+- 
+  type: relations/work/employer
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

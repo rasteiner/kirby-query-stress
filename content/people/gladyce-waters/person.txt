@@ -1,0 +1,64 @@
+Title: Gladyce Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-santos-witting
+- 
+  type: relations/parental/colleague
+  item: people/elouise-crooks
+- 
+  type: relations/parental/colleague
+  item: people/viviane-fadel-ii
+- 
+  type: relations/parental/mom
+  item: people/anabel-hilpert-iii
+- 
+  type: relations/parental/friend
+  item: people/reilly-goyette-dvm
+- 
+  type: relations/parental/brosis
+  item: people/kendra-corkery
+- 
+  type: relations/money/debtor
+  item: companies/gleason-inc
+- 
+  type: relations/work/employer
+  item: companies/dickinson-koelpin
+- 
+  type: relations/work/employer
+  item: companies/o-hara-ltd
+- 
+  type: relations/work/employer
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

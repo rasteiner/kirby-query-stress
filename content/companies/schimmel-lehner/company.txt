@@ -1,0 +1,43 @@
+Title: Schimmel-Lehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/sanford-lehner
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-cartwright
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/kub-llc
+- 
+  type: relations/money/creditor
+  item: companies/ryan-little
+- 
+  type: relations/money/creditor
+  item: companies/wolf-steuber
+- 
+  type: relations/money/creditor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/claudiestad

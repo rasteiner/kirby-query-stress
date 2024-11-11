@@ -1,0 +1,64 @@
+Title: Bridgette D'Amore
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ofelia-brown
+- 
+  type: relations/parental/brosis
+  item: people/dylan-borer
+- 
+  type: relations/parental/colleague
+  item: people/orion-crist-iii
+- 
+  type: relations/parental/dad
+  item: people/dr-jordon-sawayn
+- 
+  type: relations/money/creditor
+  item: people/alexander-simonis-iv
+- 
+  type: relations/parental/brosis
+  item: people/donny-rippin
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/client
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/work/employer
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

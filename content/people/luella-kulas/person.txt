@@ -1,0 +1,64 @@
+Title: Luella Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nannie-moore
+- 
+  type: relations/parental/colleague
+  item: people/prof-travon-hegmann
+- 
+  type: relations/parental/friend
+  item: people/jeanne-klocko-v
+- 
+  type: relations/parental/brosis
+  item: people/cassie-morissette-iii
+- 
+  type: relations/parental/mom
+  item: people/kattie-prohaska
+- 
+  type: relations/money/debtor
+  item: people/mrs-kavon-pagac-md
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

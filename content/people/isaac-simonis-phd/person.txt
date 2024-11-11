@@ -1,0 +1,64 @@
+Title: Isaac Simonis PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/fleta-reynolds
+- 
+  type: relations/money/creditor
+  item: people/jaylan-farrell
+- 
+  type: relations/parental/friend
+  item: people/chaz-schaden
+- 
+  type: relations/parental/brosis
+  item: people/rebekah-jakubowski
+- 
+  type: relations/money/creditor
+  item: people/drake-zboncak
+- 
+  type: relations/money/debtor
+  item: people/leola-vonrueden
+- 
+  type: relations/work/client
+  item: companies/mayert-group
+- 
+  type: relations/money/creditor
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/stehr-kemmer-and-morar
+- 
+  type: relations/work/employer
+  item: companies/yundt-jerde-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

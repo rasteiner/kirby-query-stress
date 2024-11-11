@@ -1,0 +1,65 @@
+Title: Dr. Marietta Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/brosis
+  item: people/dr-heidi-hessel
+- 
+  type: relations/money/creditor
+  item: people/dr-evie-powlowski
+- 
+  type: relations/parental/friend
+  item: people/gay-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/prof-zachery-douglas-md
+- 
+  type: relations/parental/brosis
+  item: people/mark-wolff
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/haley-inc
+- 
+  type: relations/work/employer
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

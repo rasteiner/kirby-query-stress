@@ -1,0 +1,43 @@
+Title: Beer-Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/leffler-inc
+- 
+  type: relations/money/debtor
+  item: companies/crist-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-plc
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim

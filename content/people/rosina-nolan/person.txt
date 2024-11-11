@@ -1,0 +1,64 @@
+Title: Rosina Nolan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/katelynn-little
+- 
+  type: relations/parental/mom
+  item: people/roscoe-jerde
+- 
+  type: relations/parental/colleague
+  item: people/hyman-koelpin
+- 
+  type: relations/parental/dad
+  item: people/prof-hortense-bergnaum-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-mauricio-parisian
+- 
+  type: relations/parental/brosis
+  item: people/odie-labadie
+- 
+  type: relations/work/client
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

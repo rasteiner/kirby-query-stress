@@ -1,0 +1,64 @@
+Title: Asa Pagac
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/grant-hyatt
+- 
+  type: relations/parental/mom
+  item: people/laurel-gulgowski
+- 
+  type: relations/money/debtor
+  item: people/levi-hilpert-sr
+- 
+  type: relations/parental/friend
+  item: people/jensen-terry-jr
+- 
+  type: relations/parental/friend
+  item: people/abigayle-wintheiser
+- 
+  type: relations/parental/dad
+  item: people/darion-haag
+- 
+  type: relations/money/creditor
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/work/client
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

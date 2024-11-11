@@ -1,0 +1,64 @@
+Title: Reanna Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-rusty-labadie
+- 
+  type: relations/parental/brosis
+  item: people/prof-helena-langosh-jr
+- 
+  type: relations/parental/dad
+  item: people/jarvis-beer
+- 
+  type: relations/parental/friend
+  item: people/dr-amos-mohr
+- 
+  type: relations/money/debtor
+  item: people/prof-berneice-lind-md
+- 
+  type: relations/parental/dad
+  item: people/tre-casper
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

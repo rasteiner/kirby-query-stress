@@ -1,0 +1,64 @@
+Title: Mr. Houston Bechtelar DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/buddy-fahey
+- 
+  type: relations/parental/dad
+  item: people/trever-wyman
+- 
+  type: relations/money/debtor
+  item: people/marcelina-sawayn
+- 
+  type: relations/money/creditor
+  item: people/prof-earline-feest
+- 
+  type: relations/parental/dad
+  item: people/estella-runte-sr
+- 
+  type: relations/money/creditor
+  item: people/prof-gladys-strosin
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/employer
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/employer
+  item: companies/blanda-bartell
+- 
+  type: relations/work/client
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

@@ -1,0 +1,64 @@
+Title: Elyse Schmidt DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-viola-graham
+- 
+  type: relations/parental/mom
+  item: people/lia-bode
+- 
+  type: relations/parental/colleague
+  item: people/esta-toy-dds
+- 
+  type: relations/parental/mom
+  item: people/abigail-parker
+- 
+  type: relations/parental/mom
+  item: people/alexzander-parisian
+- 
+  type: relations/parental/dad
+  item: people/lelah-kessler-sr
+- 
+  type: relations/work/client
+  item: companies/rowe-osinski
+- 
+  type: relations/work/client
+  item: companies/hamill-plc
+- 
+  type: relations/work/employer
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

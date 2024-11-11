@@ -1,0 +1,64 @@
+Title: Odie Nitzsche
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jackson-bode
+- 
+  type: relations/parental/brosis
+  item: people/dr-keyshawn-schuppe
+- 
+  type: relations/parental/brosis
+  item: people/mr-brandt-hoppe-v
+- 
+  type: relations/parental/friend
+  item: people/dr-darby-bins-iv
+- 
+  type: relations/parental/dad
+  item: people/dr-monica-bednar-v
+- 
+  type: relations/parental/colleague
+  item: people/nicola-murazik
+- 
+  type: relations/money/creditor
+  item: companies/sporer-will
+- 
+  type: relations/work/client
+  item: companies/kling-ltd
+- 
+  type: relations/money/creditor
+  item: companies/legros-morar
+- 
+  type: relations/work/client
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

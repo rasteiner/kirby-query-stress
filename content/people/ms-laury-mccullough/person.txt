@@ -1,0 +1,64 @@
+Title: Ms. Laury McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/damien-bergnaum
+- 
+  type: relations/money/creditor
+  item: people/shyann-von-v
+- 
+  type: relations/money/debtor
+  item: people/prof-bettye-ernser-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-monte-tromp
+- 
+  type: relations/money/creditor
+  item: people/jasen-kerluke-i
+- 
+  type: relations/money/debtor
+  item: people/ms-daphnee-mckenzie
+- 
+  type: relations/work/employer
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/client
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

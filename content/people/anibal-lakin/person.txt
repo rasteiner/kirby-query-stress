@@ -1,0 +1,64 @@
+Title: Anibal Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-joesph-hackett
+- 
+  type: relations/parental/brosis
+  item: people/dr-osbaldo-stehr
+- 
+  type: relations/parental/colleague
+  item: people/joanny-kessler
+- 
+  type: relations/money/debtor
+  item: people/edward-barrows
+- 
+  type: relations/parental/brosis
+  item: people/ms-aniyah-boyle
+- 
+  type: relations/money/debtor
+  item: people/micheal-bayer
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/client
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/client
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

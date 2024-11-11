@@ -1,0 +1,65 @@
+Title: Kaley Marquardt IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-giovanna-deckow-v
+- 
+  type: relations/parental/friend
+  item: people/rowena-paucek-jr
+- 
+  type: relations/money/debtor
+  item: people/kamron-pollich
+- 
+  type: relations/parental/mom
+  item: people/enoch-walsh
+- 
+  type: relations/parental/brosis
+  item: people/mr-diego-tremblay
+- 
+  type: relations/parental/mom
+  item: people/mrs-molly-turcotte
+- 
+  type: relations/work/employer
+  item: companies/wisozk-fritsch
+- 
+  type: relations/money/creditor
+  item: companies/yost-llc
+- 
+  type: relations/money/creditor
+  item: companies/schiller-gerlach
+- 
+  type: relations/money/debtor
+  item: >
+    companies/oberbrunner-bernhard-and-nienow
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

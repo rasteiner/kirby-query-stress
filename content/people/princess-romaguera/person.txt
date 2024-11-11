@@ -1,0 +1,64 @@
+Title: Princess Romaguera
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jeramy-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/prof-arlo-lowe
+- 
+  type: relations/money/debtor
+  item: people/domenic-kemmer-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-tyrell-murray
+- 
+  type: relations/money/debtor
+  item: people/miss-carlee-tremblay-iii
+- 
+  type: relations/money/debtor
+  item: people/emelie-rodriguez
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kub-llc
+- 
+  type: relations/work/client
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

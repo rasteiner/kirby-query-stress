@@ -1,0 +1,64 @@
+Title: Solon Littel DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-margret-kerluke-phd
+- 
+  type: relations/parental/friend
+  item: people/dr-willy-labadie-phd
+- 
+  type: relations/money/debtor
+  item: people/hellen-homenick
+- 
+  type: relations/parental/friend
+  item: people/freeda-lockman
+- 
+  type: relations/parental/friend
+  item: people/tamara-ledner-dds
+- 
+  type: relations/parental/brosis
+  item: people/freeda-cormier-dds
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/work/client
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/client
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Reed Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kim-osinski
+- 
+  type: relations/parental/mom
+  item: people/prof-yvette-heathcote
+- 
+  type: relations/money/creditor
+  item: people/prof-rodrick-stark
+- 
+  type: relations/parental/colleague
+  item: people/cecile-parisian
+- 
+  type: relations/parental/friend
+  item: people/madison-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/alaina-emmerich
+- 
+  type: relations/work/employer
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/employer
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/client
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/creditor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

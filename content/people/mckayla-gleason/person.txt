@@ -1,0 +1,64 @@
+Title: Mckayla Gleason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/simone-medhurst
+- 
+  type: relations/parental/brosis
+  item: people/fanny-terry-ii
+- 
+  type: relations/parental/mom
+  item: people/hettie-waters
+- 
+  type: relations/money/debtor
+  item: people/prof-roy-feeney
+- 
+  type: relations/parental/brosis
+  item: people/ms-whitney-stehr-dds
+- 
+  type: relations/parental/mom
+  item: people/christophe-effertz-i
+- 
+  type: relations/work/employer
+  item: companies/grimes-inc
+- 
+  type: relations/work/client
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/koelpin-group
+- 
+  type: relations/money/debtor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

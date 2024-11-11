@@ -1,0 +1,64 @@
+Title: Prof. Kaitlyn Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rory-mckenzie
+- 
+  type: relations/parental/dad
+  item: people/mr-darius-rogahn
+- 
+  type: relations/parental/dad
+  item: people/marquis-orn
+- 
+  type: relations/parental/brosis
+  item: people/gabriel-mcdermott
+- 
+  type: relations/money/debtor
+  item: people/felicita-deckow
+- 
+  type: relations/parental/dad
+  item: people/grant-schaden-phd
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/mills-wyman
+- 
+  type: relations/work/client
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

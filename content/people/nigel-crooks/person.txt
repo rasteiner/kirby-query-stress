@@ -1,0 +1,64 @@
+Title: Nigel Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alisha-hammes
+- 
+  type: relations/parental/colleague
+  item: people/myrl-hickle
+- 
+  type: relations/parental/colleague
+  item: people/haylie-lehner
+- 
+  type: relations/parental/colleague
+  item: people/mrs-antonina-funk-dds
+- 
+  type: relations/parental/friend
+  item: people/dejuan-mitchell
+- 
+  type: relations/parental/dad
+  item: people/richmond-price
+- 
+  type: relations/work/client
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/work/employer
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

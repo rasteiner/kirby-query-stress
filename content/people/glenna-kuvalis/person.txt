@@ -1,0 +1,64 @@
+Title: Glenna Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anastacio-walsh
+- 
+  type: relations/parental/dad
+  item: people/mia-quigley
+- 
+  type: relations/parental/dad
+  item: people/emmalee-kautzer
+- 
+  type: relations/parental/mom
+  item: people/deja-cole
+- 
+  type: relations/parental/friend
+  item: people/miss-reina-quitzon
+- 
+  type: relations/parental/dad
+  item: people/lillie-davis
+- 
+  type: relations/work/employer
+  item: companies/becker-bernhard-and-heller
+- 
+  type: relations/work/client
+  item: companies/padberg-grant-and-shields
+- 
+  type: relations/work/employer
+  item: companies/bogan-and-sons
+- 
+  type: relations/work/client
+  item: companies/nitzsche-senger
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

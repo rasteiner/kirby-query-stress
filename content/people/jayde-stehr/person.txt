@@ -1,0 +1,64 @@
+Title: Jayde Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-telly-o-keefe-ii
+- 
+  type: relations/parental/dad
+  item: people/mauricio-cormier
+- 
+  type: relations/money/debtor
+  item: people/dr-lorenza-harvey-md
+- 
+  type: relations/parental/friend
+  item: people/skyla-wunsch-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-cierra-herzog-dvm
+- 
+  type: relations/parental/dad
+  item: people/murl-legros
+- 
+  type: relations/money/creditor
+  item: companies/quigley-luettgen
+- 
+  type: relations/money/creditor
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/creditor
+  item: companies/collier-plc
+- 
+  type: relations/money/creditor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

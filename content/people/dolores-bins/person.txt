@@ -1,0 +1,64 @@
+Title: Dolores Bins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/hillary-ratke
+- 
+  type: relations/parental/friend
+  item: people/stephan-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/dolly-hermiston
+- 
+  type: relations/parental/dad
+  item: people/rafael-kuvalis-phd
+- 
+  type: relations/parental/colleague
+  item: people/adriana-lemke
+- 
+  type: relations/money/creditor
+  item: people/prof-leda-maggio-jr
+- 
+  type: relations/money/debtor
+  item: companies/towne-llc
+- 
+  type: relations/work/employer
+  item: companies/dickens-inc
+- 
+  type: relations/work/employer
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/work/client
+  item: companies/lehner-considine
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

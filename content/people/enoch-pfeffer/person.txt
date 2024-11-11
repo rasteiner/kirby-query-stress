@@ -1,0 +1,64 @@
+Title: Enoch Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/leonel-mante
+- 
+  type: relations/parental/colleague
+  item: people/sienna-considine
+- 
+  type: relations/money/debtor
+  item: people/aiden-pollich
+- 
+  type: relations/parental/dad
+  item: people/maye-kerluke
+- 
+  type: relations/parental/colleague
+  item: people/stewart-senger
+- 
+  type: relations/money/debtor
+  item: people/dr-stephanie-oberbrunner-dds
+- 
+  type: relations/money/creditor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/work/client
+  item: companies/tremblay-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-plc
+- 
+  type: relations/work/client
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

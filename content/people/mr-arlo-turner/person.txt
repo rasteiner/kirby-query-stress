@@ -1,0 +1,64 @@
+Title: Mr. Arlo Turner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/carolanne-grady
+- 
+  type: relations/money/debtor
+  item: people/leora-o-hara
+- 
+  type: relations/money/creditor
+  item: people/ms-providenci-littel
+- 
+  type: relations/parental/mom
+  item: people/monserrate-bogan
+- 
+  type: relations/parental/friend
+  item: people/rita-fisher
+- 
+  type: relations/money/debtor
+  item: people/mr-lincoln-macejkovic
+- 
+  type: relations/work/employer
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/work/employer
+  item: companies/beahan-sauer
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

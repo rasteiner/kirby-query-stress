@@ -1,0 +1,64 @@
+Title: Sarina Bartell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-margret-kerluke-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-willy-labadie-phd
+- 
+  type: relations/parental/dad
+  item: people/hellen-homenick
+- 
+  type: relations/parental/friend
+  item: people/freeda-lockman
+- 
+  type: relations/money/creditor
+  item: people/tamara-ledner-dds
+- 
+  type: relations/money/debtor
+  item: people/freeda-cormier-dds
+- 
+  type: relations/money/debtor
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/work/employer
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

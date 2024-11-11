@@ -1,0 +1,64 @@
+Title: Stephon Hudson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-jalon-corkery
+- 
+  type: relations/parental/dad
+  item: people/cecilia-larson-phd
+- 
+  type: relations/money/creditor
+  item: people/mr-murl-nikolaus-v
+- 
+  type: relations/money/debtor
+  item: people/bridie-harris
+- 
+  type: relations/parental/brosis
+  item: people/estrella-wiza
+- 
+  type: relations/money/debtor
+  item: people/henriette-johnson
+- 
+  type: relations/work/employer
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/debtor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/money/debtor
+  item: companies/cremin-durgan
+- 
+  type: relations/work/client
+  item: companies/west-barrows
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

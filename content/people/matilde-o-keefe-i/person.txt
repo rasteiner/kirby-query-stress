@@ -1,0 +1,64 @@
+Title: Matilde O'Keefe I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/shyanne-muller-i
+- 
+  type: relations/parental/colleague
+  item: people/may-feeney
+- 
+  type: relations/parental/brosis
+  item: people/ben-lakin
+- 
+  type: relations/parental/colleague
+  item: people/gonzalo-schmeler
+- 
+  type: relations/parental/friend
+  item: people/carmella-stracke-md
+- 
+  type: relations/parental/dad
+  item: people/faustino-deckow
+- 
+  type: relations/work/employer
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Prof. Hattie Mosciski MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/brooks-mosciski-i
+- 
+  type: relations/parental/brosis
+  item: people/tod-halvorson
+- 
+  type: relations/parental/dad
+  item: people/grant-hyatt
+- 
+  type: relations/parental/dad
+  item: people/laurel-gulgowski
+- 
+  type: relations/money/debtor
+  item: people/levi-hilpert-sr
+- 
+  type: relations/parental/friend
+  item: people/jensen-terry-jr
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/money/creditor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/work/employer
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

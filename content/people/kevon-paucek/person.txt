@@ -1,0 +1,65 @@
+Title: Kevon Paucek
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-josiane-wuckert-sr
+- 
+  type: relations/parental/mom
+  item: people/darien-mueller
+- 
+  type: relations/parental/mom
+  item: people/hermann-kuhlman
+- 
+  type: relations/money/debtor
+  item: people/jean-bogisich
+- 
+  type: relations/money/debtor
+  item: people/elaina-mohr
+- 
+  type: relations/parental/mom
+  item: people/beth-brown
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/client
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/haley-inc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

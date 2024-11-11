@@ -1,0 +1,43 @@
+Title: Heaney PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-inc
+- 
+  type: relations/money/creditor
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/klocko-quigley
+- 
+  type: relations/money/debtor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/buckridge-johns-and-boyer
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth

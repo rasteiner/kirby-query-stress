@@ -1,0 +1,64 @@
+Title: Dr. Guiseppe McLaughlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/petra-mayert
+- 
+  type: relations/parental/mom
+  item: people/mr-ike-doyle
+- 
+  type: relations/parental/colleague
+  item: people/libbie-blanda
+- 
+  type: relations/money/creditor
+  item: people/prof-ocie-wuckert
+- 
+  type: relations/parental/colleague
+  item: people/alexane-rippin
+- 
+  type: relations/money/debtor
+  item: people/libbie-feest
+- 
+  type: relations/work/client
+  item: companies/hand-schuster
+- 
+  type: relations/money/debtor
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/client
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

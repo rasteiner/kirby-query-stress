@@ -1,0 +1,43 @@
+Title: Parker, Fay and Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-group
+- 
+  type: relations/money/debtor
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/money/creditor
+  item: companies/huels-nader-and-parisian
+- 
+  type: relations/money/creditor
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/schmitt-plc
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/horaceside
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland

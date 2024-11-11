@@ -1,0 +1,64 @@
+Title: Velda Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-milan-lubowitz
+- 
+  type: relations/parental/colleague
+  item: people/dr-victor-gottlieb
+- 
+  type: relations/money/creditor
+  item: people/prof-kory-rogahn-i
+- 
+  type: relations/money/debtor
+  item: people/esta-koss
+- 
+  type: relations/parental/friend
+  item: people/edmond-cremin
+- 
+  type: relations/parental/brosis
+  item: people/geovanny-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/employer
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Ms. Gina Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cydney-abernathy
+- 
+  type: relations/parental/mom
+  item: people/odell-auer-iii
+- 
+  type: relations/parental/brosis
+  item: people/miracle-raynor
+- 
+  type: relations/parental/mom
+  item: people/mr-conrad-kuphal
+- 
+  type: relations/money/creditor
+  item: people/mrs-amira-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/isidro-dare
+- 
+  type: relations/money/debtor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/employer
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/money/debtor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Frank Zboncak IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/watson-hand
+- 
+  type: relations/parental/brosis
+  item: people/roxane-predovic
+- 
+  type: relations/parental/brosis
+  item: people/miss-susie-rice-md
+- 
+  type: relations/parental/colleague
+  item: people/iliana-reinger
+- 
+  type: relations/parental/mom
+  item: people/kelsi-dietrich
+- 
+  type: relations/parental/friend
+  item: people/dr-arnaldo-balistreri-dds
+- 
+  type: relations/work/client
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/work/employer
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

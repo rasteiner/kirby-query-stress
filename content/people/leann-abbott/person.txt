@@ -1,0 +1,64 @@
+Title: Leann Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-delpha-kuhn
+- 
+  type: relations/money/creditor
+  item: people/ms-marguerite-casper
+- 
+  type: relations/parental/mom
+  item: people/nelson-ortiz
+- 
+  type: relations/parental/brosis
+  item: people/tamara-nienow-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-magnus-barrows-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-rafael-zboncak-jr
+- 
+  type: relations/work/client
+  item: companies/gerhold-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/client
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/client
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

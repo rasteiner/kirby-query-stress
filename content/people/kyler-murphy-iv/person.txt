@@ -1,0 +1,64 @@
+Title: Kyler Murphy IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/tyreek-buckridge-md
+- 
+  type: relations/parental/brosis
+  item: people/nella-hartmann-ii
+- 
+  type: relations/parental/brosis
+  item: people/shaun-turner-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-orin-roberts-dds
+- 
+  type: relations/parental/dad
+  item: people/verla-boyer
+- 
+  type: relations/parental/brosis
+  item: people/solon-mante
+- 
+  type: relations/work/client
+  item: companies/o-kon-plc
+- 
+  type: relations/money/debtor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/work/employer
+  item: companies/wolff-zulauf
+- 
+  type: relations/work/employer
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

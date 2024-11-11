@@ -1,0 +1,64 @@
+Title: Melany Howe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-doyle-o-hara
+- 
+  type: relations/parental/colleague
+  item: people/mrs-carley-tromp
+- 
+  type: relations/parental/friend
+  item: people/tyrell-balistreri
+- 
+  type: relations/parental/friend
+  item: people/trever-kuphal
+- 
+  type: relations/parental/brosis
+  item: people/justen-carter
+- 
+  type: relations/parental/colleague
+  item: people/uriah-graham
+- 
+  type: relations/money/creditor
+  item: companies/emard-inc
+- 
+  type: relations/money/debtor
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/work/employer
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

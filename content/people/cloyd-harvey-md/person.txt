@@ -1,0 +1,64 @@
+Title: Cloyd Harvey MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/abel-schneider
+- 
+  type: relations/parental/brosis
+  item: people/penelope-bartoletti-iii
+- 
+  type: relations/parental/colleague
+  item: people/elnora-gutkowski
+- 
+  type: relations/parental/brosis
+  item: people/aniyah-mante
+- 
+  type: relations/parental/friend
+  item: people/mr-lon-crooks
+- 
+  type: relations/parental/colleague
+  item: people/winifred-thiel
+- 
+  type: relations/work/employer
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/client
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

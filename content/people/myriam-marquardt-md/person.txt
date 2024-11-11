@@ -1,0 +1,64 @@
+Title: Myriam Marquardt MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anne-friesen-sr
+- 
+  type: relations/parental/mom
+  item: people/ladarius-trantow
+- 
+  type: relations/parental/colleague
+  item: people/miss-viola-graham
+- 
+  type: relations/money/creditor
+  item: people/lia-bode
+- 
+  type: relations/money/creditor
+  item: people/esta-toy-dds
+- 
+  type: relations/money/creditor
+  item: people/abigail-parker
+- 
+  type: relations/work/client
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/employer
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

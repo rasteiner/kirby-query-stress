@@ -1,0 +1,64 @@
+Title: Anne Price
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hassie-denesik
+- 
+  type: relations/parental/colleague
+  item: people/miss-violette-zemlak
+- 
+  type: relations/parental/brosis
+  item: people/tate-o-hara
+- 
+  type: relations/money/creditor
+  item: people/minnie-dubuque
+- 
+  type: relations/parental/brosis
+  item: people/aliya-dickens-dvm
+- 
+  type: relations/parental/colleague
+  item: people/ms-destinee-konopelski-iii
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/work/client
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/creditor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/debtor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

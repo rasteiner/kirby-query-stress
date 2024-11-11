@@ -1,0 +1,64 @@
+Title: Prof. Clarabelle Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/adriel-dickinson
+- 
+  type: relations/parental/colleague
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/parental/friend
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-heidi-hessel
+- 
+  type: relations/money/creditor
+  item: people/dr-evie-powlowski
+- 
+  type: relations/money/creditor
+  item: people/gay-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

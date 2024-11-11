@@ -1,0 +1,65 @@
+Title: Francisco Hilpert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/maximillia-steuber-md
+- 
+  type: relations/money/creditor
+  item: people/dr-retha-nitzsche
+- 
+  type: relations/parental/dad
+  item: people/johnson-brekke
+- 
+  type: relations/money/creditor
+  item: people/miss-leda-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/dr-josefina-frami
+- 
+  type: relations/money/debtor
+  item: people/leif-friesen-phd
+- 
+  type: relations/money/debtor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/employer
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

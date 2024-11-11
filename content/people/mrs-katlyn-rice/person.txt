@@ -1,0 +1,64 @@
+Title: Mrs. Katlyn Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kamille-goyette-md
+- 
+  type: relations/parental/dad
+  item: people/eileen-terry
+- 
+  type: relations/parental/dad
+  item: people/adolfo-baumbach-md
+- 
+  type: relations/parental/friend
+  item: people/mr-lazaro-lockman-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-regan-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: people/tom-strosin
+- 
+  type: relations/work/employer
+  item: companies/tremblay-ankunding
+- 
+  type: relations/work/employer
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/employer
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

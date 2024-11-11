@@ -1,0 +1,64 @@
+Title: Malvina Hermiston I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/miss-bernadine-reichert
+- 
+  type: relations/money/debtor
+  item: people/gilda-monahan
+- 
+  type: relations/parental/brosis
+  item: people/alia-osinski
+- 
+  type: relations/parental/brosis
+  item: people/lon-turcotte
+- 
+  type: relations/parental/colleague
+  item: people/helene-wuckert-i
+- 
+  type: relations/money/creditor
+  item: people/fannie-hermann
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-plc
+- 
+  type: relations/work/employer
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/work/client
+  item: companies/littel-armstrong
+- 
+  type: relations/work/employer
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

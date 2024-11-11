@@ -1,0 +1,64 @@
+Title: Mrs. Kelly Hettinger DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-velda-cruickshank
+- 
+  type: relations/money/creditor
+  item: people/mr-mekhi-waters-dds
+- 
+  type: relations/money/creditor
+  item: people/caleigh-hessel
+- 
+  type: relations/parental/friend
+  item: people/kaelyn-abshire
+- 
+  type: relations/money/creditor
+  item: people/elinor-bogisich-v
+- 
+  type: relations/parental/friend
+  item: people/yesenia-gleason-jr
+- 
+  type: relations/work/employer
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/work/employer
+  item: companies/olson-inc
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

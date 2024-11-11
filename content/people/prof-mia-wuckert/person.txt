@@ -1,0 +1,64 @@
+Title: Prof. Mia Wuckert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-zora-jones-jr
+- 
+  type: relations/parental/mom
+  item: people/catharine-towne
+- 
+  type: relations/money/creditor
+  item: people/hortense-mitchell
+- 
+  type: relations/parental/friend
+  item: people/verdie-crooks
+- 
+  type: relations/parental/friend
+  item: people/mr-terrance-becker-dvm
+- 
+  type: relations/parental/colleague
+  item: people/marcelo-haley
+- 
+  type: relations/work/employer
+  item: companies/treutel-macejkovic
+- 
+  type: relations/work/employer
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/client
+  item: companies/schmidt-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

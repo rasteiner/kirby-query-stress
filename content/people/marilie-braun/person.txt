@@ -1,0 +1,64 @@
+Title: Marilie Braun
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/zander-schuppe
+- 
+  type: relations/money/creditor
+  item: people/tess-bednar-phd
+- 
+  type: relations/parental/friend
+  item: people/jaren-frami
+- 
+  type: relations/parental/colleague
+  item: people/dr-amos-padberg-iii
+- 
+  type: relations/parental/colleague
+  item: people/janick-ward-dds
+- 
+  type: relations/parental/friend
+  item: people/kobe-wiegand
+- 
+  type: relations/work/employer
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/murphy-batz
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/client
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

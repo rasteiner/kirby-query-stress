@@ -1,0 +1,64 @@
+Title: Mariano Kunde I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-augustus-rath
+- 
+  type: relations/parental/colleague
+  item: people/dr-roman-legros-iii
+- 
+  type: relations/parental/dad
+  item: people/will-klein
+- 
+  type: relations/money/creditor
+  item: people/colleen-rowe-sr
+- 
+  type: relations/money/creditor
+  item: people/kaitlin-buckridge
+- 
+  type: relations/parental/colleague
+  item: people/prof-rod-hudson
+- 
+  type: relations/money/debtor
+  item: companies/kuhn-renner
+- 
+  type: relations/money/creditor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/parker-pagac
+- 
+  type: relations/work/employer
+  item: companies/wehner-plc
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

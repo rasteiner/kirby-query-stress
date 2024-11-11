@@ -1,0 +1,64 @@
+Title: Jody Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/hettie-waters
+- 
+  type: relations/parental/friend
+  item: people/prof-roy-feeney
+- 
+  type: relations/money/debtor
+  item: people/ms-whitney-stehr-dds
+- 
+  type: relations/parental/dad
+  item: people/christophe-effertz-i
+- 
+  type: relations/parental/dad
+  item: people/miguel-wehner
+- 
+  type: relations/parental/colleague
+  item: people/ettie-lemke
+- 
+  type: relations/work/client
+  item: companies/casper-inc
+- 
+  type: relations/money/debtor
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-renner
+- 
+  type: relations/work/employer
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

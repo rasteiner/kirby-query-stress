@@ -1,0 +1,64 @@
+Title: Dr. Jasen Daugherty II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brant-kunze
+- 
+  type: relations/money/debtor
+  item: people/torrance-anderson
+- 
+  type: relations/money/debtor
+  item: people/chelsey-sanford
+- 
+  type: relations/parental/colleague
+  item: people/susanna-strosin-iv
+- 
+  type: relations/parental/dad
+  item: people/alvina-bernier
+- 
+  type: relations/parental/friend
+  item: people/rudolph-koch
+- 
+  type: relations/work/employer
+  item: companies/bashirian-veum
+- 
+  type: relations/money/debtor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/client
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Dr. Vivien Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bernie-rath
+- 
+  type: relations/parental/colleague
+  item: people/summer-cole-iii
+- 
+  type: relations/money/creditor
+  item: people/mrs-juliana-leffler-i
+- 
+  type: relations/money/creditor
+  item: people/prof-guido-okuneva
+- 
+  type: relations/money/creditor
+  item: people/florence-rath
+- 
+  type: relations/money/debtor
+  item: people/barney-kunde
+- 
+  type: relations/work/client
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/money/debtor
+  item: companies/wiza-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

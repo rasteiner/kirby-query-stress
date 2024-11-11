@@ -1,0 +1,64 @@
+Title: Lela Dibbert Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lexi-gaylord
+- 
+  type: relations/parental/brosis
+  item: people/franco-pfeffer
+- 
+  type: relations/parental/mom
+  item: people/prof-adam-stanton
+- 
+  type: relations/parental/mom
+  item: people/margarita-cronin-phd
+- 
+  type: relations/money/debtor
+  item: people/terence-thiel
+- 
+  type: relations/parental/mom
+  item: people/travis-parker
+- 
+  type: relations/work/employer
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/murphy-batz
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/client
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Jermain Lind II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lesley-wisoky
+- 
+  type: relations/parental/brosis
+  item: people/alvah-lesch
+- 
+  type: relations/money/creditor
+  item: people/keith-grimes
+- 
+  type: relations/parental/mom
+  item: people/prof-nikolas-walter
+- 
+  type: relations/parental/friend
+  item: people/ms-myrtle-trantow
+- 
+  type: relations/parental/brosis
+  item: people/bella-metz
+- 
+  type: relations/work/employer
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/work/employer
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/employer
+  item: companies/ratke-fay
+- 
+  type: relations/work/client
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Onie Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/andreane-kling-sr
+- 
+  type: relations/money/creditor
+  item: people/caleigh-lueilwitz-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-ross-hagenes
+- 
+  type: relations/parental/dad
+  item: people/joe-greenfelder
+- 
+  type: relations/parental/mom
+  item: people/prof-karelle-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-drew-lebsack-phd
+- 
+  type: relations/work/employer
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

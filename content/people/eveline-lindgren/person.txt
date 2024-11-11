@@ -1,0 +1,64 @@
+Title: Eveline Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jacquelyn-ziemann-dvm
+- 
+  type: relations/parental/friend
+  item: people/dedrick-corwin
+- 
+  type: relations/parental/dad
+  item: people/rashad-kling
+- 
+  type: relations/parental/friend
+  item: people/isidro-strosin
+- 
+  type: relations/parental/colleague
+  item: people/addison-auer
+- 
+  type: relations/parental/friend
+  item: people/dr-marian-towne
+- 
+  type: relations/work/client
+  item: companies/gorczany-group
+- 
+  type: relations/money/creditor
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/work/employer
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/debtor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

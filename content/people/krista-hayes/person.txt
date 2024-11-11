@@ -1,0 +1,64 @@
+Title: Krista Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eddie-ziemann
+- 
+  type: relations/parental/mom
+  item: people/treva-abernathy-dds
+- 
+  type: relations/parental/friend
+  item: people/justina-gulgowski
+- 
+  type: relations/parental/colleague
+  item: people/ms-anastasia-rice-dds
+- 
+  type: relations/parental/friend
+  item: people/nicholaus-brakus
+- 
+  type: relations/parental/colleague
+  item: people/jorge-funk
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/money/debtor
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

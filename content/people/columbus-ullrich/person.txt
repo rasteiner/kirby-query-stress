@@ -1,0 +1,64 @@
+Title: Columbus Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lenora-walsh
+- 
+  type: relations/parental/brosis
+  item: people/anne-johnson
+- 
+  type: relations/parental/colleague
+  item: people/sallie-hickle-dds
+- 
+  type: relations/money/creditor
+  item: people/audie-berge-jr
+- 
+  type: relations/parental/dad
+  item: people/isabel-friesen
+- 
+  type: relations/parental/mom
+  item: people/graham-effertz
+- 
+  type: relations/work/employer
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Glenda Bruen Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/anahi-roberts
+- 
+  type: relations/parental/colleague
+  item: people/wyatt-olson
+- 
+  type: relations/parental/dad
+  item: people/johnson-kub
+- 
+  type: relations/money/debtor
+  item: people/lou-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/forrest-friesen
+- 
+  type: relations/money/creditor
+  item: people/ephraim-langworth
+- 
+  type: relations/money/creditor
+  item: companies/barton-hagenes-and-kemmer
+- 
+  type: relations/work/employer
+  item: companies/lehner-sipes
+- 
+  type: relations/work/employer
+  item: companies/ratke-doyle-and-medhurst
+- 
+  type: relations/work/employer
+  item: companies/rempel-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

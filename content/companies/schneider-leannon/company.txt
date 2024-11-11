@@ -1,0 +1,43 @@
+Title: Schneider-Leannon
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/debtor
+  item: companies/hudson-group
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bayer-group
+- 
+  type: relations/money/debtor
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/creditor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/south-scarlett

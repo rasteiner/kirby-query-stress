@@ -1,0 +1,64 @@
+Title: Malinda Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-gaetano-ondricka
+- 
+  type: relations/parental/mom
+  item: people/alf-grady
+- 
+  type: relations/money/debtor
+  item: people/chandler-kessler
+- 
+  type: relations/parental/brosis
+  item: people/dr-zachariah-lesch-sr
+- 
+  type: relations/parental/mom
+  item: people/maxie-mraz
+- 
+  type: relations/parental/colleague
+  item: people/zelma-christiansen-iv
+- 
+  type: relations/work/client
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/casper-larson
+- 
+  type: relations/money/debtor
+  item: companies/anderson-muller
+- 
+  type: relations/work/employer
+  item: companies/halvorson-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

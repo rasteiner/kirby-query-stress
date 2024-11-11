@@ -1,0 +1,64 @@
+Title: Garth Powlowski II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jacquelyn-ryan
+- 
+  type: relations/parental/brosis
+  item: people/cesar-erdman
+- 
+  type: relations/parental/friend
+  item: people/isadore-haag
+- 
+  type: relations/parental/colleague
+  item: people/dusty-ebert
+- 
+  type: relations/money/creditor
+  item: people/dr-willy-eichmann-v
+- 
+  type: relations/money/debtor
+  item: people/khalil-raynor-iii
+- 
+  type: relations/money/creditor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/welch-kreiger
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

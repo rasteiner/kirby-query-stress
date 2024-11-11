@@ -1,0 +1,64 @@
+Title: Brenda O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/florencio-osinski
+- 
+  type: relations/parental/colleague
+  item: people/eliseo-crona
+- 
+  type: relations/parental/colleague
+  item: people/mrs-kyla-wolff-iii
+- 
+  type: relations/parental/friend
+  item: people/kelton-harvey
+- 
+  type: relations/parental/mom
+  item: people/dr-krystal-friesen-iv
+- 
+  type: relations/parental/mom
+  item: people/ms-nichole-mante
+- 
+  type: relations/work/employer
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

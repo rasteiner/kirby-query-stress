@@ -1,0 +1,64 @@
+Title: Gussie Kemmer Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/anastasia-fritsch
+- 
+  type: relations/money/creditor
+  item: people/alta-baumbach
+- 
+  type: relations/parental/friend
+  item: people/miss-rose-becker
+- 
+  type: relations/parental/brosis
+  item: people/prof-frieda-rempel-dvm
+- 
+  type: relations/parental/mom
+  item: people/kali-waelchi
+- 
+  type: relations/money/creditor
+  item: people/roberta-kunde
+- 
+  type: relations/work/client
+  item: companies/heathcote-and-sons
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/work/client
+  item: companies/orn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

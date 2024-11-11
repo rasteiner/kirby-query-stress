@@ -1,0 +1,65 @@
+Title: Einar Hessel MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/eudora-mitchell
+- 
+  type: relations/money/debtor
+  item: people/pablo-donnelly
+- 
+  type: relations/parental/mom
+  item: people/ms-emmy-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/jaqueline-hintz
+- 
+  type: relations/parental/mom
+  item: people/jaylon-nader
+- 
+  type: relations/money/creditor
+  item: people/braulio-willms-sr
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/creditor
+  item: companies/legros-and-sons
+- 
+  type: relations/work/client
+  item: companies/gaylord-boyle
+- 
+  type: relations/work/client
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

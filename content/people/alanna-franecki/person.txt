@@ -1,0 +1,64 @@
+Title: Alanna Franecki
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/albert-auer
+- 
+  type: relations/parental/brosis
+  item: people/sterling-turcotte-sr
+- 
+  type: relations/parental/friend
+  item: people/vicente-mueller
+- 
+  type: relations/money/debtor
+  item: people/river-schumm
+- 
+  type: relations/money/creditor
+  item: people/lamont-bode
+- 
+  type: relations/parental/mom
+  item: people/alexanne-nienow-v
+- 
+  type: relations/work/employer
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/client
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/employer
+  item: companies/walsh-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

@@ -1,0 +1,64 @@
+Title: Brady O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elmer-hartmann
+- 
+  type: relations/parental/friend
+  item: people/keira-schinner-dvm
+- 
+  type: relations/money/creditor
+  item: people/roger-gutmann
+- 
+  type: relations/money/debtor
+  item: people/griffin-gleichner
+- 
+  type: relations/parental/brosis
+  item: people/miss-josiane-wuckert-sr
+- 
+  type: relations/parental/mom
+  item: people/darien-mueller
+- 
+  type: relations/money/creditor
+  item: companies/padberg-white
+- 
+  type: relations/work/client
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/client
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

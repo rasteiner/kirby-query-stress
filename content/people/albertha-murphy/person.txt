@@ -1,0 +1,64 @@
+Title: Albertha Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-kailey-erdman
+- 
+  type: relations/parental/mom
+  item: people/clara-dare
+- 
+  type: relations/parental/friend
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/money/debtor
+  item: people/reyes-koepp
+- 
+  type: relations/parental/mom
+  item: people/buck-erdman
+- 
+  type: relations/parental/mom
+  item: people/prof-mervin-renner
+- 
+  type: relations/work/client
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/employer
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/work/employer
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

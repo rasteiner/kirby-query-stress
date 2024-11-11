@@ -1,0 +1,64 @@
+Title: Prof. Jerod Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/melyna-flatley-v
+- 
+  type: relations/parental/colleague
+  item: people/amalia-bosco
+- 
+  type: relations/parental/colleague
+  item: people/dr-jorge-botsford
+- 
+  type: relations/parental/mom
+  item: people/zakary-ledner
+- 
+  type: relations/parental/dad
+  item: people/mrs-creola-heidenreich
+- 
+  type: relations/parental/colleague
+  item: people/roma-cremin
+- 
+  type: relations/work/employer
+  item: companies/stroman-ltd
+- 
+  type: relations/work/client
+  item: companies/parker-fay-and-bode
+- 
+  type: relations/work/client
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

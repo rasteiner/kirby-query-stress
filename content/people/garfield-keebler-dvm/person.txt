@@ -1,0 +1,64 @@
+Title: Garfield Keebler DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jevon-hintz-iii
+- 
+  type: relations/parental/colleague
+  item: people/ivy-herzog-i
+- 
+  type: relations/parental/brosis
+  item: people/mr-sonny-cummerata
+- 
+  type: relations/parental/colleague
+  item: people/arlo-lueilwitz
+- 
+  type: relations/parental/dad
+  item: people/olin-ernser-dvm
+- 
+  type: relations/money/debtor
+  item: people/dr-angeline-brakus
+- 
+  type: relations/money/creditor
+  item: companies/towne-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/keebler-treutel
+- 
+  type: relations/work/client
+  item: companies/bashirian-klein
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

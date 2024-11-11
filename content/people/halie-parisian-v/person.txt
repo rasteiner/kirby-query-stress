@@ -1,0 +1,64 @@
+Title: Halie Parisian V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-retha-kub
+- 
+  type: relations/parental/friend
+  item: people/lucy-o-conner
+- 
+  type: relations/parental/mom
+  item: people/colton-kozey
+- 
+  type: relations/money/creditor
+  item: people/jordy-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/lucas-rath
+- 
+  type: relations/parental/friend
+  item: people/mrs-anabelle-olson
+- 
+  type: relations/money/debtor
+  item: companies/kertzmann-plc
+- 
+  type: relations/work/client
+  item: companies/orn-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-ltd
+- 
+  type: relations/money/debtor
+  item: companies/watsica-berge-and-schinner
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

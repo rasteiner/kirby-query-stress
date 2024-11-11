@@ -1,0 +1,64 @@
+Title: Eriberto Goyette
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/anne-botsford
+- 
+  type: relations/parental/mom
+  item: people/vincenzo-wunsch-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-ezequiel-cremin
+- 
+  type: relations/parental/dad
+  item: people/garnett-rohan
+- 
+  type: relations/parental/dad
+  item: people/miss-autumn-hermann-sr
+- 
+  type: relations/parental/brosis
+  item: people/kellen-simonis
+- 
+  type: relations/money/debtor
+  item: companies/raynor-schinner
+- 
+  type: relations/work/employer
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/work/employer
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

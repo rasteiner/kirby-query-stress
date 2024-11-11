@@ -1,0 +1,64 @@
+Title: Salma Ortiz Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/santino-cummerata
+- 
+  type: relations/money/debtor
+  item: people/cornell-buckridge
+- 
+  type: relations/parental/mom
+  item: people/sarina-johnson
+- 
+  type: relations/parental/colleague
+  item: people/chadrick-reichert
+- 
+  type: relations/parental/brosis
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/parental/friend
+  item: people/oma-howell
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

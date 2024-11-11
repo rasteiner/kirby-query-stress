@@ -1,0 +1,64 @@
+Title: Ms. Alba Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/emmitt-orn
+- 
+  type: relations/parental/dad
+  item: people/ms-catalina-ryan
+- 
+  type: relations/money/debtor
+  item: people/cruz-christiansen
+- 
+  type: relations/parental/mom
+  item: people/antwan-champlin
+- 
+  type: relations/parental/dad
+  item: people/mona-wuckert
+- 
+  type: relations/parental/brosis
+  item: people/asia-pouros
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zulauf-group
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

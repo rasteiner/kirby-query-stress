@@ -1,0 +1,65 @@
+Title: Odell Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/berry-wiza
+- 
+  type: relations/parental/colleague
+  item: people/kelley-powlowski
+- 
+  type: relations/parental/brosis
+  item: people/fidel-hoeger
+- 
+  type: relations/parental/dad
+  item: people/mckayla-bailey-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-shyann-nolan
+- 
+  type: relations/parental/dad
+  item: people/dr-jasen-lynch-iv
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/employer
+  item: companies/pollich-plc
+- 
+  type: relations/work/employer
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

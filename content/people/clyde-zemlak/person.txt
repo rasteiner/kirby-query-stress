@@ -1,0 +1,64 @@
+Title: Clyde Zemlak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-leonel-jacobson-iii
+- 
+  type: relations/parental/brosis
+  item: people/ruth-o-conner
+- 
+  type: relations/parental/mom
+  item: people/akeem-stoltenberg
+- 
+  type: relations/parental/friend
+  item: people/jana-huels
+- 
+  type: relations/parental/mom
+  item: people/nikolas-wunsch
+- 
+  type: relations/parental/mom
+  item: people/camille-raynor
+- 
+  type: relations/work/employer
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/orn-ltd
+- 
+  type: relations/work/employer
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Vena Lakin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/baby-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/amos-hilll-phd
+- 
+  type: relations/parental/friend
+  item: people/geo-robel
+- 
+  type: relations/parental/colleague
+  item: people/hellen-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/sidney-lynch-iv
+- 
+  type: relations/parental/mom
+  item: people/ezra-hilpert
+- 
+  type: relations/work/employer
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/client
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/work/client
+  item: companies/waters-inc
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

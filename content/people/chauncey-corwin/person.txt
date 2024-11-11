@@ -1,0 +1,64 @@
+Title: Chauncey Corwin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-adah-johns-phd
+- 
+  type: relations/parental/mom
+  item: people/cale-hansen
+- 
+  type: relations/parental/brosis
+  item: people/mr-kennith-wolff-dds
+- 
+  type: relations/money/creditor
+  item: people/gabe-sauer
+- 
+  type: relations/money/creditor
+  item: people/prof-julie-sipes-dvm
+- 
+  type: relations/parental/colleague
+  item: people/estevan-robel
+- 
+  type: relations/money/debtor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/work/employer
+  item: companies/waters-collins
+- 
+  type: relations/work/client
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

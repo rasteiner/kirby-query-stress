@@ -1,0 +1,64 @@
+Title: Dr. Macey Reichert Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-tierra-nicolas-v
+- 
+  type: relations/parental/friend
+  item: people/prof-josianne-gutmann
+- 
+  type: relations/parental/mom
+  item: people/destinee-ernser
+- 
+  type: relations/parental/colleague
+  item: people/dr-kadin-koch
+- 
+  type: relations/parental/mom
+  item: people/vicky-wiza
+- 
+  type: relations/parental/mom
+  item: people/dr-evangeline-abernathy
+- 
+  type: relations/work/client
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/work/client
+  item: companies/rath-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

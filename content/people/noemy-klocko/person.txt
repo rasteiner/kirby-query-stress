@@ -1,0 +1,64 @@
+Title: Noemy Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/karolann-carter
+- 
+  type: relations/parental/mom
+  item: people/prof-mireille-tillman
+- 
+  type: relations/parental/dad
+  item: people/arturo-zulauf
+- 
+  type: relations/parental/brosis
+  item: people/evan-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/miss-shyanne-weimann-i
+- 
+  type: relations/parental/mom
+  item: people/rafael-will
+- 
+  type: relations/money/creditor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/work/client
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/employer
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

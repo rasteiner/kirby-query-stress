@@ -1,0 +1,64 @@
+Title: Idell Hoppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/kelsi-feil
+- 
+  type: relations/money/creditor
+  item: people/annalise-ankunding-dds
+- 
+  type: relations/parental/colleague
+  item: people/bella-dooley-dvm
+- 
+  type: relations/money/debtor
+  item: people/miss-pearl-bashirian
+- 
+  type: relations/parental/friend
+  item: people/hilda-haag-iii
+- 
+  type: relations/money/debtor
+  item: people/darren-champlin-sr
+- 
+  type: relations/work/client
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/sporer-llc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/client
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

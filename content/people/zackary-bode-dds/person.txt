@@ -1,0 +1,64 @@
+Title: Zackary Bode DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/alexa-kertzmann
+- 
+  type: relations/money/debtor
+  item: people/dr-braxton-deckow-sr
+- 
+  type: relations/parental/brosis
+  item: people/brandy-hills
+- 
+  type: relations/parental/brosis
+  item: people/ms-aubree-swaniawski-ii
+- 
+  type: relations/parental/mom
+  item: people/enrico-ullrich-v
+- 
+  type: relations/money/creditor
+  item: people/juston-wintheiser-phd
+- 
+  type: relations/money/creditor
+  item: companies/huels-walter
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

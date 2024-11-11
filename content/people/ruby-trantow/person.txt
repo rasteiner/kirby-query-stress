@@ -1,0 +1,64 @@
+Title: Ruby Trantow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jesus-nikolaus
+- 
+  type: relations/parental/mom
+  item: people/torrance-reynolds
+- 
+  type: relations/parental/dad
+  item: people/prof-branson-feil-phd
+- 
+  type: relations/money/creditor
+  item: people/miss-allie-gulgowski-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-kristy-kuhic
+- 
+  type: relations/money/debtor
+  item: people/prof-penelope-trantow-jr
+- 
+  type: relations/work/employer
+  item: companies/gleason-inc
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/herman-upton-and-boehm
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

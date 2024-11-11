@@ -1,0 +1,65 @@
+Title: Jaleel Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-ross-romaguera-dvm
+- 
+  type: relations/money/debtor
+  item: people/raquel-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/sincere-bogan
+- 
+  type: relations/money/creditor
+  item: people/avery-rice
+- 
+  type: relations/parental/brosis
+  item: people/adaline-cruickshank
+- 
+  type: relations/parental/colleague
+  item: people/colleen-ziemann
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/client
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Ronny Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/angelina-jones
+- 
+  type: relations/parental/dad
+  item: people/wilber-boyer
+- 
+  type: relations/parental/brosis
+  item: people/dr-juliana-wisozk
+- 
+  type: relations/parental/dad
+  item: people/turner-bashirian
+- 
+  type: relations/parental/dad
+  item: people/mr-eldon-romaguera
+- 
+  type: relations/parental/brosis
+  item: people/rudy-crist-iii
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/work/employer
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

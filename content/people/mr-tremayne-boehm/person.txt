@@ -1,0 +1,64 @@
+Title: Mr. Tremayne Boehm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/layne-walter
+- 
+  type: relations/money/creditor
+  item: people/mertie-hackett
+- 
+  type: relations/parental/friend
+  item: people/myrtice-casper
+- 
+  type: relations/parental/brosis
+  item: people/prof-juliana-beahan
+- 
+  type: relations/money/creditor
+  item: people/immanuel-gaylord
+- 
+  type: relations/parental/brosis
+  item: people/ryleigh-nader-dds
+- 
+  type: relations/money/creditor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/work/employer
+  item: companies/cassin-rodriguez-and-dare
+- 
+  type: relations/work/client
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/work/client
+  item: companies/leannon-adams
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Leopold Jast
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-joy-cronin
+- 
+  type: relations/parental/friend
+  item: people/shawn-goyette
+- 
+  type: relations/parental/mom
+  item: people/brice-beier
+- 
+  type: relations/parental/dad
+  item: people/thea-lindgren
+- 
+  type: relations/money/debtor
+  item: people/lacey-rath
+- 
+  type: relations/parental/brosis
+  item: people/bailey-koch
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/work/employer
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/work/employer
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

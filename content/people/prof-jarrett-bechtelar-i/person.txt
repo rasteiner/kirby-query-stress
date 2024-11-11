@@ -1,0 +1,64 @@
+Title: Prof. Jarrett Bechtelar I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-glen-hoppe-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-glenna-raynor-dds
+- 
+  type: relations/money/debtor
+  item: people/angelo-strosin
+- 
+  type: relations/parental/friend
+  item: people/arno-fisher
+- 
+  type: relations/parental/dad
+  item: people/miss-cortney-schultz
+- 
+  type: relations/parental/brosis
+  item: people/cristal-hackett
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

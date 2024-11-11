@@ -1,0 +1,64 @@
+Title: Ms. Paige Barrows
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ezekiel-gislason
+- 
+  type: relations/money/creditor
+  item: people/prof-barney-reichert
+- 
+  type: relations/parental/colleague
+  item: people/cassidy-kertzmann
+- 
+  type: relations/parental/dad
+  item: people/zelda-daniel
+- 
+  type: relations/parental/colleague
+  item: people/bennett-schuster
+- 
+  type: relations/parental/friend
+  item: people/vinnie-fisher-sr
+- 
+  type: relations/work/employer
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/money/debtor
+  item: companies/kris-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/hintz-group
+- 
+  type: relations/work/employer
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

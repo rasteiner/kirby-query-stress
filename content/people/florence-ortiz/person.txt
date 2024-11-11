@@ -1,0 +1,65 @@
+Title: Florence Ortiz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bertha-vandervort-iv
+- 
+  type: relations/parental/brosis
+  item: people/danyka-bosco-sr
+- 
+  type: relations/parental/dad
+  item: people/olga-osinski
+- 
+  type: relations/parental/mom
+  item: people/mariana-berge-md
+- 
+  type: relations/parental/brosis
+  item: people/miss-jeanne-leuschke
+- 
+  type: relations/money/creditor
+  item: people/beatrice-ernser
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/employer
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-hamill
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Bernie Rath
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/michale-johns
+- 
+  type: relations/money/creditor
+  item: people/mr-mervin-conroy
+- 
+  type: relations/parental/colleague
+  item: people/mrs-aisha-stokes-v
+- 
+  type: relations/parental/brosis
+  item: people/millie-luettgen
+- 
+  type: relations/parental/brosis
+  item: people/rodger-johnson
+- 
+  type: relations/parental/mom
+  item: people/dedrick-lehner-dvm
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/creditor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/client
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Layla Reinger
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/rodrick-hamill
+- 
+  type: relations/parental/dad
+  item: people/lysanne-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/nayeli-schamberger
+- 
+  type: relations/parental/friend
+  item: people/prof-raegan-schmitt-v
+- 
+  type: relations/parental/mom
+  item: people/darrell-blanda
+- 
+  type: relations/parental/friend
+  item: people/lucious-mante-iv
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/creditor
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

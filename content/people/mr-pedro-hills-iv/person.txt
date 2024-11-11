@@ -1,0 +1,64 @@
+Title: Mr. Pedro Hills IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/cleveland-o-keefe
+- 
+  type: relations/money/debtor
+  item: people/lukas-sporer
+- 
+  type: relations/money/debtor
+  item: people/jerrold-will-md
+- 
+  type: relations/parental/dad
+  item: people/rickie-waelchi-i
+- 
+  type: relations/parental/friend
+  item: people/ruth-gerlach
+- 
+  type: relations/parental/colleague
+  item: people/mireya-boehm
+- 
+  type: relations/money/creditor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/money/creditor
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

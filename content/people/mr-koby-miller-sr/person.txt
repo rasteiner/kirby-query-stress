@@ -1,0 +1,64 @@
+Title: Mr. Koby Miller Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-hilbert-dubuque
+- 
+  type: relations/money/debtor
+  item: people/terrence-schneider
+- 
+  type: relations/parental/colleague
+  item: people/elda-shanahan
+- 
+  type: relations/parental/dad
+  item: people/ronaldo-zboncak
+- 
+  type: relations/parental/friend
+  item: people/jaquelin-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/arch-abernathy
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/work/employer
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

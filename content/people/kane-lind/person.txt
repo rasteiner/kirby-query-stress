@@ -1,0 +1,64 @@
+Title: Kane Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/myrna-bayer
+- 
+  type: relations/parental/dad
+  item: people/leanna-stark
+- 
+  type: relations/parental/friend
+  item: people/prof-shana-glover
+- 
+  type: relations/parental/dad
+  item: people/miss-stephanie-bergstrom-i
+- 
+  type: relations/parental/dad
+  item: people/okey-paucek-sr
+- 
+  type: relations/parental/brosis
+  item: people/ms-alejandra-spinka-sr
+- 
+  type: relations/money/creditor
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/debtor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/employer
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

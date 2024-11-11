@@ -1,0 +1,64 @@
+Title: Braxton Smith
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rosario-yundt
+- 
+  type: relations/parental/mom
+  item: people/delores-grady-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-savannah-kassulke
+- 
+  type: relations/money/debtor
+  item: people/frank-witting
+- 
+  type: relations/parental/colleague
+  item: people/stephen-herman
+- 
+  type: relations/parental/dad
+  item: people/mr-deven-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

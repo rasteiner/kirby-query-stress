@@ -1,0 +1,43 @@
+Title: Schumm and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/collins-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/lehner-sipes
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-inc
+- 
+  type: relations/money/creditor
+  item: companies/thiel-howe
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/new-cooper

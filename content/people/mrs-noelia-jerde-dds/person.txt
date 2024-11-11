@@ -1,0 +1,64 @@
+Title: Mrs. Noelia Jerde DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/felicita-kris-phd
+- 
+  type: relations/parental/mom
+  item: people/alexie-grimes
+- 
+  type: relations/parental/friend
+  item: people/kip-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/ms-reva-gleason-md
+- 
+  type: relations/parental/mom
+  item: people/annabell-buckridge
+- 
+  type: relations/money/creditor
+  item: people/lauriane-upton-sr
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/employer
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

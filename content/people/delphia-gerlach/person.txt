@@ -1,0 +1,64 @@
+Title: Delphia Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alford-osinski
+- 
+  type: relations/money/debtor
+  item: people/kira-considine
+- 
+  type: relations/money/creditor
+  item: people/jefferey-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/aric-runte-md
+- 
+  type: relations/parental/brosis
+  item: people/xavier-quigley
+- 
+  type: relations/money/creditor
+  item: people/rollin-wisozk
+- 
+  type: relations/money/creditor
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

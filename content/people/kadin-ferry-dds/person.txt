@@ -1,0 +1,64 @@
+Title: Kadin Ferry DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/darrin-hegmann
+- 
+  type: relations/money/creditor
+  item: people/prof-royce-torphy-sr
+- 
+  type: relations/parental/dad
+  item: people/sheridan-boehm-dds
+- 
+  type: relations/parental/brosis
+  item: people/clyde-zemlak
+- 
+  type: relations/money/creditor
+  item: people/madisen-gutmann-iv
+- 
+  type: relations/parental/colleague
+  item: people/micah-howe-sr
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/money/creditor
+  item: companies/kris-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hintz-group
+- 
+  type: relations/money/debtor
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

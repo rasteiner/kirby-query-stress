@@ -1,0 +1,64 @@
+Title: Dell Jacobi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/velma-collier-dvm
+- 
+  type: relations/money/debtor
+  item: people/nathen-ortiz-iv
+- 
+  type: relations/money/debtor
+  item: people/orie-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/brando-wolff
+- 
+  type: relations/money/creditor
+  item: people/jaleel-streich
+- 
+  type: relations/parental/dad
+  item: people/reanna-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/employer
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/work/employer
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

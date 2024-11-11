@@ -1,0 +1,64 @@
+Title: Dr. Davon Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rickey-jakubowski-sr
+- 
+  type: relations/parental/brosis
+  item: people/caterina-nikolaus
+- 
+  type: relations/parental/colleague
+  item: people/mittie-baumbach-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-abigale-schiller
+- 
+  type: relations/parental/mom
+  item: people/dr-tyson-o-conner-md
+- 
+  type: relations/parental/brosis
+  item: people/zetta-heathcote
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/botsford-plc
+- 
+  type: relations/money/debtor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

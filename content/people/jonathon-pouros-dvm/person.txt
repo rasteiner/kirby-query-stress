@@ -1,0 +1,64 @@
+Title: Jonathon Pouros DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/caesar-schmeler
+- 
+  type: relations/parental/dad
+  item: people/mr-charlie-predovic
+- 
+  type: relations/money/creditor
+  item: people/bryana-torphy-iii
+- 
+  type: relations/parental/colleague
+  item: people/miss-zena-altenwerth
+- 
+  type: relations/parental/brosis
+  item: people/diamond-ondricka
+- 
+  type: relations/parental/friend
+  item: people/kelly-nitzsche
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

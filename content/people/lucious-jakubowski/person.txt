@@ -1,0 +1,64 @@
+Title: Lucious Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/alexis-davis
+- 
+  type: relations/parental/dad
+  item: people/rebekah-bahringer
+- 
+  type: relations/money/creditor
+  item: people/prof-jarrett-abbott-ii
+- 
+  type: relations/parental/colleague
+  item: people/ms-olga-herzog
+- 
+  type: relations/parental/friend
+  item: people/lavonne-vandervort
+- 
+  type: relations/parental/mom
+  item: people/dr-delia-zieme
+- 
+  type: relations/money/creditor
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/employer
+  item: companies/daniel-group
+- 
+  type: relations/money/debtor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

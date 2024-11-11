@@ -1,0 +1,64 @@
+Title: Dr. Tyrel Hane Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/anissa-torphy
+- 
+  type: relations/parental/dad
+  item: people/dr-chauncey-romaguera-iv
+- 
+  type: relations/parental/mom
+  item: people/prof-uriah-balistreri-dvm
+- 
+  type: relations/parental/friend
+  item: people/nolan-effertz
+- 
+  type: relations/money/creditor
+  item: people/vivien-stiedemann-iv
+- 
+  type: relations/parental/colleague
+  item: people/precious-upton
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/work/client
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/daniel-group
+- 
+  type: relations/money/creditor
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

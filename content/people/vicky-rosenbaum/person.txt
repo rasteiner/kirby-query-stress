@@ -1,0 +1,64 @@
+Title: Vicky Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/reilly-wehner-i
+- 
+  type: relations/parental/dad
+  item: people/cleta-kulas
+- 
+  type: relations/parental/colleague
+  item: people/mr-monte-kerluke
+- 
+  type: relations/parental/dad
+  item: people/onie-howell
+- 
+  type: relations/parental/dad
+  item: people/carleton-boyer-sr
+- 
+  type: relations/parental/mom
+  item: people/arianna-grant
+- 
+  type: relations/work/employer
+  item: companies/kuhic-plc
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-gleason
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/debtor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

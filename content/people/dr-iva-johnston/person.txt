@@ -1,0 +1,64 @@
+Title: Dr. Iva Johnston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/isaias-denesik
+- 
+  type: relations/parental/dad
+  item: people/miss-gretchen-gulgowski
+- 
+  type: relations/parental/colleague
+  item: people/dr-skye-kunde-dds
+- 
+  type: relations/money/debtor
+  item: people/mr-deshaun-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/earl-hartmann
+- 
+  type: relations/parental/brosis
+  item: people/celestino-jones
+- 
+  type: relations/work/client
+  item: companies/steuber-balistreri
+- 
+  type: relations/work/client
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/money/creditor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

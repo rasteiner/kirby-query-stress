@@ -1,0 +1,64 @@
+Title: Miss Gretchen Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/maddison-zemlak-ii
+- 
+  type: relations/money/creditor
+  item: people/mr-dedric-shields
+- 
+  type: relations/parental/dad
+  item: people/mr-efrain-kunze-sr
+- 
+  type: relations/parental/dad
+  item: people/leatha-russel-ii
+- 
+  type: relations/parental/colleague
+  item: people/deonte-borer-md
+- 
+  type: relations/money/creditor
+  item: people/dr-dereck-padberg
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/renner-plc
+- 
+  type: relations/money/debtor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

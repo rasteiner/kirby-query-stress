@@ -1,0 +1,64 @@
+Title: Terrence Schneider
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/unique-schiller
+- 
+  type: relations/parental/brosis
+  item: people/thora-bednar-iii
+- 
+  type: relations/parental/friend
+  item: people/mrs-giovanna-deckow-v
+- 
+  type: relations/money/creditor
+  item: people/rowena-paucek-jr
+- 
+  type: relations/parental/brosis
+  item: people/kamron-pollich
+- 
+  type: relations/parental/friend
+  item: people/enoch-walsh
+- 
+  type: relations/work/employer
+  item: companies/hills-plc
+- 
+  type: relations/money/debtor
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/work/client
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

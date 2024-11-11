@@ -1,0 +1,64 @@
+Title: Ms. Shakira Pollich III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/robbie-bernier-ii
+- 
+  type: relations/parental/colleague
+  item: people/spencer-stanton
+- 
+  type: relations/money/debtor
+  item: people/danial-parisian-iii
+- 
+  type: relations/parental/friend
+  item: people/tremaine-daniel
+- 
+  type: relations/parental/mom
+  item: people/prof-korbin-barton-iv
+- 
+  type: relations/parental/mom
+  item: people/prof-annie-treutel
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

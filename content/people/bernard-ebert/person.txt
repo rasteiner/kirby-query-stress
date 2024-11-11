@@ -1,0 +1,64 @@
+Title: Bernard Ebert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alexandrea-nikolaus
+- 
+  type: relations/parental/brosis
+  item: people/greg-dicki-md
+- 
+  type: relations/parental/mom
+  item: people/dr-geraldine-o-keefe
+- 
+  type: relations/parental/colleague
+  item: people/lacey-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/markus-krajcik
+- 
+  type: relations/parental/dad
+  item: people/kaleb-hahn
+- 
+  type: relations/work/employer
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/client
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

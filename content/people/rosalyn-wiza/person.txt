@@ -1,0 +1,65 @@
+Title: Rosalyn Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gwen-hodkiewicz-md
+- 
+  type: relations/parental/colleague
+  item: people/ms-dina-lowe-md
+- 
+  type: relations/money/creditor
+  item: people/mylene-hayes-phd
+- 
+  type: relations/money/debtor
+  item: people/lillie-boyle
+- 
+  type: relations/parental/friend
+  item: people/dr-florida-denesik-jr
+- 
+  type: relations/money/creditor
+  item: people/mr-joshuah-kassulke-dds
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/money/creditor
+  item: companies/hamill-inc
+- 
+  type: relations/work/employer
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

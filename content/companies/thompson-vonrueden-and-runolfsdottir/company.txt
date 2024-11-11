@@ -1,0 +1,43 @@
+Title: Thompson, VonRueden and Runolfsdottir
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/money/creditor
+  item: companies/nitzsche-senger
+- 
+  type: relations/money/debtor
+  item: companies/zboncak-group
+- 
+  type: relations/money/creditor
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/money/debtor
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh

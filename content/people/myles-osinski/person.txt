@@ -1,0 +1,64 @@
+Title: Myles Osinski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/simone-glover
+- 
+  type: relations/parental/mom
+  item: people/dr-richmond-kutch
+- 
+  type: relations/parental/colleague
+  item: people/maximillia-beier
+- 
+  type: relations/money/creditor
+  item: people/murphy-medhurst-phd
+- 
+  type: relations/parental/mom
+  item: people/alysson-shields
+- 
+  type: relations/parental/mom
+  item: people/rocky-ziemann
+- 
+  type: relations/work/client
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/work/client
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/work/client
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

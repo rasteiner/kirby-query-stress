@@ -1,0 +1,64 @@
+Title: Gwen Brekke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rusty-bechtelar-dvm
+- 
+  type: relations/money/creditor
+  item: people/audra-toy-v
+- 
+  type: relations/parental/friend
+  item: people/irving-walker-i
+- 
+  type: relations/money/debtor
+  item: people/mrs-bridget-klocko-iii
+- 
+  type: relations/money/debtor
+  item: people/mohamed-dietrich
+- 
+  type: relations/parental/friend
+  item: people/mr-brandt-crooks-v
+- 
+  type: relations/money/debtor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/work/client
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/employer
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

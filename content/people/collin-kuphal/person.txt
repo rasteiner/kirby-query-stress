@@ -1,0 +1,64 @@
+Title: Collin Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jodie-green
+- 
+  type: relations/parental/friend
+  item: people/prof-donavon-kessler
+- 
+  type: relations/parental/friend
+  item: people/miss-shania-johns
+- 
+  type: relations/parental/brosis
+  item: people/mr-lee-bruen
+- 
+  type: relations/money/creditor
+  item: people/unique-rempel-iv
+- 
+  type: relations/money/debtor
+  item: people/prof-rasheed-o-hara-iii
+- 
+  type: relations/work/employer
+  item: companies/herman-ritchie-and-haley
+- 
+  type: relations/work/employer
+  item: companies/paucek-reichert
+- 
+  type: relations/work/employer
+  item: companies/smith-tromp
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-metz-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

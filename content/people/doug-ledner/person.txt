@@ -1,0 +1,64 @@
+Title: Doug Ledner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/michale-johns
+- 
+  type: relations/parental/dad
+  item: people/mr-mervin-conroy
+- 
+  type: relations/money/creditor
+  item: people/mrs-aisha-stokes-v
+- 
+  type: relations/parental/brosis
+  item: people/millie-luettgen
+- 
+  type: relations/money/debtor
+  item: people/rodger-johnson
+- 
+  type: relations/parental/friend
+  item: people/dedrick-lehner-dvm
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/creditor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

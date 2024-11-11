@@ -1,0 +1,64 @@
+Title: Miss Diana Cummerata PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/elvera-jast
+- 
+  type: relations/parental/brosis
+  item: people/sarah-lowe
+- 
+  type: relations/parental/colleague
+  item: people/max-kiehn
+- 
+  type: relations/parental/friend
+  item: people/hillard-doyle-v
+- 
+  type: relations/parental/mom
+  item: people/mr-westley-lebsack-dvm
+- 
+  type: relations/money/creditor
+  item: people/dr-anahi-cormier
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/client
+  item: companies/funk-group
+- 
+  type: relations/work/employer
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Anita Medhurst V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/zetta-walker-i
+- 
+  type: relations/parental/mom
+  item: people/jadyn-halvorson
+- 
+  type: relations/parental/mom
+  item: people/ulises-hegmann-iii
+- 
+  type: relations/money/creditor
+  item: people/esperanza-waters
+- 
+  type: relations/parental/colleague
+  item: people/juliet-harvey
+- 
+  type: relations/money/creditor
+  item: people/prof-clovis-dach
+- 
+  type: relations/work/client
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/debtor
+  item: companies/kunze-ltd
+- 
+  type: relations/work/client
+  item: companies/wilkinson-beahan
+- 
+  type: relations/work/employer
+  item: companies/heaney-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

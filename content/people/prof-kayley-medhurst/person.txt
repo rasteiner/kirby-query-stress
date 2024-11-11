@@ -1,0 +1,64 @@
+Title: Prof. Kayley Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-catherine-hackett-v
+- 
+  type: relations/money/debtor
+  item: people/ms-tressa-mueller
+- 
+  type: relations/parental/colleague
+  item: people/maybell-herzog
+- 
+  type: relations/parental/brosis
+  item: people/oren-hackett
+- 
+  type: relations/money/debtor
+  item: people/prof-carole-tillman-jr
+- 
+  type: relations/money/creditor
+  item: people/katlyn-stark
+- 
+  type: relations/work/employer
+  item: companies/homenick-plc
+- 
+  type: relations/money/debtor
+  item: companies/lehner-howe
+- 
+  type: relations/work/employer
+  item: companies/olson-schmidt-and-schulist
+- 
+  type: relations/work/employer
+  item: companies/osinski-sipes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

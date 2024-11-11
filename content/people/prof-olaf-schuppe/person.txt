@@ -1,0 +1,64 @@
+Title: Prof. Olaf Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/brooklyn-bogan
+- 
+  type: relations/parental/brosis
+  item: people/myrl-runte-dds
+- 
+  type: relations/money/creditor
+  item: people/florencio-osinski
+- 
+  type: relations/parental/mom
+  item: people/eliseo-crona
+- 
+  type: relations/parental/friend
+  item: people/mrs-kyla-wolff-iii
+- 
+  type: relations/parental/dad
+  item: people/kelton-harvey
+- 
+  type: relations/work/client
+  item: companies/roberts-mueller
+- 
+  type: relations/money/debtor
+  item: companies/murphy-batz
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-buckridge
+- 
+  type: relations/work/employer
+  item: companies/ondricka-plc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

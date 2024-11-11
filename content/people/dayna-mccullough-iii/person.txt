@@ -1,0 +1,64 @@
+Title: Dayna McCullough III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-kavon-jakubowski-dvm
+- 
+  type: relations/parental/brosis
+  item: people/patricia-dare
+- 
+  type: relations/money/creditor
+  item: people/david-lowe
+- 
+  type: relations/parental/colleague
+  item: people/darwin-wisoky-dds
+- 
+  type: relations/money/debtor
+  item: people/anne-kuhn
+- 
+  type: relations/parental/colleague
+  item: people/loma-stoltenberg-md
+- 
+  type: relations/work/client
+  item: companies/harris-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/kovacek-llc
+- 
+  type: relations/money/debtor
+  item: companies/bayer-group
+- 
+  type: relations/money/debtor
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

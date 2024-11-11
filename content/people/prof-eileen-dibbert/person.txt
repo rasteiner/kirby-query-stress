@@ -1,0 +1,64 @@
+Title: Prof. Eileen Dibbert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-olen-thompson-iii
+- 
+  type: relations/parental/brosis
+  item: people/mr-clark-o-conner-dds
+- 
+  type: relations/parental/brosis
+  item: people/catherine-waters
+- 
+  type: relations/parental/mom
+  item: people/prof-santa-bashirian
+- 
+  type: relations/money/creditor
+  item: people/mrs-kenya-tremblay
+- 
+  type: relations/parental/mom
+  item: people/prof-adonis-kassulke
+- 
+  type: relations/work/employer
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/goyette-wiza
+- 
+  type: relations/work/employer
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/client
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

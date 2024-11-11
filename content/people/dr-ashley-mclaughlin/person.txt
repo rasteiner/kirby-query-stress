@@ -1,0 +1,64 @@
+Title: Dr. Ashley McLaughlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/terrance-prohaska-iv
+- 
+  type: relations/parental/brosis
+  item: people/ms-leola-ferry-phd
+- 
+  type: relations/money/creditor
+  item: people/natasha-schimmel-jr
+- 
+  type: relations/parental/brosis
+  item: people/ambrose-cruickshank
+- 
+  type: relations/parental/dad
+  item: people/miss-cheyenne-leannon
+- 
+  type: relations/parental/friend
+  item: people/bernadine-sauer
+- 
+  type: relations/money/debtor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/work/client
+  item: companies/jenkins-group
+- 
+  type: relations/money/debtor
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

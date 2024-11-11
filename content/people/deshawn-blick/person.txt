@@ -1,0 +1,64 @@
+Title: Deshawn Blick
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sibyl-watsica
+- 
+  type: relations/parental/dad
+  item: people/flavio-marks
+- 
+  type: relations/money/debtor
+  item: people/dr-aletha-breitenberg-md
+- 
+  type: relations/parental/brosis
+  item: people/mr-norberto-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/joanny-ruecker
+- 
+  type: relations/money/debtor
+  item: people/destini-huel
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/debtor
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

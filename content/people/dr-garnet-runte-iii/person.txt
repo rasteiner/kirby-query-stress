@@ -1,0 +1,64 @@
+Title: Dr. Garnet Runte III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hermina-feil
+- 
+  type: relations/parental/mom
+  item: people/kylee-rice-dds
+- 
+  type: relations/parental/dad
+  item: people/dr-lisandro-romaguera
+- 
+  type: relations/parental/dad
+  item: people/meda-fay
+- 
+  type: relations/parental/colleague
+  item: people/hadley-schuster
+- 
+  type: relations/parental/brosis
+  item: people/maymie-skiles
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/work/client
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

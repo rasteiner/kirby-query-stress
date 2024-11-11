@@ -1,0 +1,64 @@
+Title: Dewitt Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/drake-kub-md
+- 
+  type: relations/parental/mom
+  item: people/malachi-kuhic
+- 
+  type: relations/parental/colleague
+  item: people/elta-bechtelar
+- 
+  type: relations/money/debtor
+  item: people/mr-tommie-langworth-iii
+- 
+  type: relations/parental/friend
+  item: people/malvina-pagac
+- 
+  type: relations/parental/colleague
+  item: people/ramon-veum
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-howe-and-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/work/employer
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-group
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

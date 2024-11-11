@@ -1,0 +1,64 @@
+Title: Orie Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/noel-shields
+- 
+  type: relations/parental/colleague
+  item: people/jamir-beer
+- 
+  type: relations/parental/colleague
+  item: people/prof-kayli-schumm-dvm
+- 
+  type: relations/parental/colleague
+  item: people/lester-wolf
+- 
+  type: relations/parental/friend
+  item: people/nicolette-bahringer
+- 
+  type: relations/money/creditor
+  item: people/dr-ashley-mclaughlin
+- 
+  type: relations/work/employer
+  item: companies/doyle-murphy
+- 
+  type: relations/money/creditor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/work/client
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

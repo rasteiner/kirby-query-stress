@@ -1,0 +1,64 @@
+Title: Prof. Stefanie Kshlerin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-brenden-jacobson-jr
+- 
+  type: relations/parental/brosis
+  item: people/dina-wolf
+- 
+  type: relations/money/debtor
+  item: people/lynn-harris
+- 
+  type: relations/money/creditor
+  item: people/else-jerde
+- 
+  type: relations/parental/mom
+  item: people/dr-aric-greenholt
+- 
+  type: relations/parental/mom
+  item: people/jammie-homenick-iii
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

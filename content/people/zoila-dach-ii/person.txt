@@ -1,0 +1,64 @@
+Title: Zoila Dach II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/chad-keebler
+- 
+  type: relations/money/debtor
+  item: people/verner-bahringer
+- 
+  type: relations/parental/mom
+  item: people/kasandra-balistreri
+- 
+  type: relations/parental/brosis
+  item: people/bernadine-champlin
+- 
+  type: relations/money/creditor
+  item: people/zola-mraz
+- 
+  type: relations/money/debtor
+  item: people/moshe-leuschke
+- 
+  type: relations/work/client
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/work/client
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/creditor
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

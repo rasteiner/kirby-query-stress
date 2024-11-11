@@ -1,0 +1,64 @@
+Title: Dr. Allen Hodkiewicz II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-gwendolyn-larkin-jr
+- 
+  type: relations/parental/dad
+  item: people/melany-kunze
+- 
+  type: relations/parental/dad
+  item: people/carol-kris
+- 
+  type: relations/parental/colleague
+  item: people/ms-ivah-carter
+- 
+  type: relations/parental/brosis
+  item: people/miss-dolly-quitzon
+- 
+  type: relations/parental/brosis
+  item: people/prof-whitney-terry-ii
+- 
+  type: relations/work/client
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kris-ltd
+- 
+  type: relations/work/client
+  item: companies/konopelski-cassin
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

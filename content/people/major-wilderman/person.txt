@@ -1,0 +1,64 @@
+Title: Major Wilderman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jayde-stehr
+- 
+  type: relations/parental/colleague
+  item: people/pinkie-heller-dds
+- 
+  type: relations/parental/brosis
+  item: people/aglae-wisozk
+- 
+  type: relations/parental/mom
+  item: people/chesley-hoeger
+- 
+  type: relations/money/creditor
+  item: people/miss-elsa-wintheiser-md
+- 
+  type: relations/parental/colleague
+  item: people/alisha-stracke
+- 
+  type: relations/work/client
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

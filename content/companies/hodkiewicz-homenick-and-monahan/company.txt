@@ -1,0 +1,43 @@
+Title: Hodkiewicz, Homenick and Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/jenkins-group
+- 
+  type: relations/money/creditor
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/debtor
+  item: companies/windler-inc
+- 
+  type: relations/money/creditor
+  item: companies/hand-halvorson-and-veum
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/horaceside

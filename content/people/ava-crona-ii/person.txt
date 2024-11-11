@@ -1,0 +1,64 @@
+Title: Ava Crona II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/chaya-mcglynn
+- 
+  type: relations/parental/friend
+  item: people/dusty-huels-i
+- 
+  type: relations/parental/brosis
+  item: people/maryse-koelpin
+- 
+  type: relations/money/creditor
+  item: people/raoul-robel
+- 
+  type: relations/parental/colleague
+  item: people/mr-louisa-conroy
+- 
+  type: relations/money/creditor
+  item: people/mr-jamison-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-inc
+- 
+  type: relations/work/client
+  item: companies/raynor-rippin
+- 
+  type: relations/money/creditor
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/client
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Josefa Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lucie-schaden
+- 
+  type: relations/parental/colleague
+  item: people/jazmin-klein
+- 
+  type: relations/parental/friend
+  item: people/natalie-mueller
+- 
+  type: relations/money/debtor
+  item: people/ms-mafalda-hackett-v
+- 
+  type: relations/parental/friend
+  item: people/myrtie-schultz-phd
+- 
+  type: relations/money/debtor
+  item: people/joaquin-wolf
+- 
+  type: relations/work/employer
+  item: companies/abbott-kihn-and-hilpert
+- 
+  type: relations/work/client
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-rempel-and-crist
+- 
+  type: relations/money/debtor
+  item: companies/kessler-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

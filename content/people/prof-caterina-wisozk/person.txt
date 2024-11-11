@@ -1,0 +1,64 @@
+Title: Prof. Caterina Wisozk
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-ethel-hoppe
+- 
+  type: relations/money/creditor
+  item: people/bud-wilderman
+- 
+  type: relations/money/creditor
+  item: people/prof-casimir-schimmel-dds
+- 
+  type: relations/parental/mom
+  item: people/mr-tremaine-walsh
+- 
+  type: relations/parental/dad
+  item: people/miss-zella-carroll-md
+- 
+  type: relations/parental/brosis
+  item: people/eriberto-goyette
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/client
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

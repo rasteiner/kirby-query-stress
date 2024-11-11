@@ -1,0 +1,64 @@
+Title: Dr. Reanna Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-yasmeen-bartell-ii
+- 
+  type: relations/parental/dad
+  item: people/crawford-quigley
+- 
+  type: relations/parental/dad
+  item: people/prof-kirsten-waters
+- 
+  type: relations/money/debtor
+  item: people/giuseppe-stroman
+- 
+  type: relations/parental/mom
+  item: people/charlotte-barton
+- 
+  type: relations/parental/brosis
+  item: people/mrs-eugenia-koch-sr
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/work/client
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/creditor
+  item: companies/metz-ltd
+- 
+  type: relations/work/client
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

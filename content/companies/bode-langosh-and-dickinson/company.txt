@@ -1,0 +1,43 @@
+Title: Bode, Langosh and Dickinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/money/creditor
+  item: companies/murphy-batz
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/money/creditor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/toy-macejkovic-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/new-jettie

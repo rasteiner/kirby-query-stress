@@ -1,0 +1,64 @@
+Title: Lazaro Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-brock-weissnat-iii
+- 
+  type: relations/parental/colleague
+  item: people/miss-abbey-cole-jr
+- 
+  type: relations/parental/mom
+  item: people/prof-chelsey-wolf
+- 
+  type: relations/parental/mom
+  item: people/dr-vivien-crist
+- 
+  type: relations/money/debtor
+  item: people/dr-evans-oberbrunner
+- 
+  type: relations/money/debtor
+  item: people/mr-miles-hand-i
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/work/employer
+  item: companies/mosciski-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/osinski-lehner
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

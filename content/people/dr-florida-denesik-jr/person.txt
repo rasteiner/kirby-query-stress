@@ -1,0 +1,64 @@
+Title: Dr. Florida Denesik Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/bobbie-stracke
+- 
+  type: relations/parental/brosis
+  item: people/wilhelm-stehr
+- 
+  type: relations/parental/brosis
+  item: people/dr-jared-willms-sr
+- 
+  type: relations/parental/colleague
+  item: people/maximo-considine
+- 
+  type: relations/parental/mom
+  item: people/vern-wunsch
+- 
+  type: relations/parental/dad
+  item: people/timmy-kihn
+- 
+  type: relations/money/debtor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/work/client
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

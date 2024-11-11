@@ -1,0 +1,64 @@
+Title: Loyal Block
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaylie-marvin
+- 
+  type: relations/money/creditor
+  item: people/alice-mcclure
+- 
+  type: relations/parental/colleague
+  item: people/trevion-zemlak
+- 
+  type: relations/money/creditor
+  item: people/jed-smitham
+- 
+  type: relations/parental/mom
+  item: people/kaley-marquardt-iv
+- 
+  type: relations/parental/dad
+  item: people/rebekah-predovic
+- 
+  type: relations/money/creditor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/creditor
+  item: companies/berge-waters
+- 
+  type: relations/work/client
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/work/employer
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Deonte Larkin PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/stephen-rolfson
+- 
+  type: relations/money/debtor
+  item: people/maxwell-christiansen
+- 
+  type: relations/parental/friend
+  item: people/jakob-block
+- 
+  type: relations/parental/colleague
+  item: people/emmalee-graham
+- 
+  type: relations/parental/friend
+  item: people/dr-elenora-sanford-i
+- 
+  type: relations/parental/dad
+  item: people/lela-dibbert-jr
+- 
+  type: relations/money/debtor
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/employer
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/money/debtor
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

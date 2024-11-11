@@ -1,0 +1,64 @@
+Title: Dr. Ari Turner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/myles-osinski
+- 
+  type: relations/parental/mom
+  item: people/parker-cummings
+- 
+  type: relations/money/debtor
+  item: people/floy-senger-dds
+- 
+  type: relations/parental/mom
+  item: people/shania-larson
+- 
+  type: relations/parental/colleague
+  item: people/brennon-spinka
+- 
+  type: relations/parental/mom
+  item: people/dr-colby-renner
+- 
+  type: relations/money/debtor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

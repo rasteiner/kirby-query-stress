@@ -1,0 +1,64 @@
+Title: Ms. Katelyn Leuschke IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/russel-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: people/michale-ebert
+- 
+  type: relations/money/debtor
+  item: people/laverna-reynolds
+- 
+  type: relations/money/debtor
+  item: people/tamia-stiedemann-iii
+- 
+  type: relations/parental/mom
+  item: people/arianna-veum
+- 
+  type: relations/parental/friend
+  item: people/ms-marta-wilkinson-i
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/client
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/client
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

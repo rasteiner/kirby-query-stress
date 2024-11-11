@@ -1,0 +1,64 @@
+Title: Kaya Renner MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/angelo-stiedemann-iii
+- 
+  type: relations/parental/brosis
+  item: people/earl-vandervort
+- 
+  type: relations/money/debtor
+  item: people/clovis-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/nathen-o-hara
+- 
+  type: relations/parental/friend
+  item: people/hermina-kris
+- 
+  type: relations/parental/mom
+  item: people/alessandro-doyle
+- 
+  type: relations/work/client
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

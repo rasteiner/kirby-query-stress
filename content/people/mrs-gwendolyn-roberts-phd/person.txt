@@ -1,0 +1,64 @@
+Title: Mrs. Gwendolyn Roberts PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/wanda-kutch
+- 
+  type: relations/parental/colleague
+  item: people/braxton-kihn
+- 
+  type: relations/money/creditor
+  item: people/magnolia-morissette-dvm
+- 
+  type: relations/parental/colleague
+  item: people/theresia-kulas-phd
+- 
+  type: relations/parental/colleague
+  item: people/ned-nolan
+- 
+  type: relations/money/debtor
+  item: people/rowena-gulgowski
+- 
+  type: relations/work/employer
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/waters-collins
+- 
+  type: relations/work/employer
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Dr. Ellie Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/deonte-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/furman-bergnaum
+- 
+  type: relations/money/creditor
+  item: people/enoch-gutmann
+- 
+  type: relations/parental/mom
+  item: people/ms-kellie-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/brian-kling
+- 
+  type: relations/parental/friend
+  item: people/prof-meggie-sauer-jr
+- 
+  type: relations/money/creditor
+  item: companies/graham-inc
+- 
+  type: relations/work/employer
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/money/creditor
+  item: companies/hintz-fisher
+- 
+  type: relations/work/client
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

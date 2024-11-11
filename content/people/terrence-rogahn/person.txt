@@ -1,0 +1,64 @@
+Title: Terrence Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-cedrick-konopelski-i
+- 
+  type: relations/parental/colleague
+  item: people/luis-pfannerstill-md
+- 
+  type: relations/money/debtor
+  item: people/roberta-larkin
+- 
+  type: relations/parental/colleague
+  item: people/marilou-towne
+- 
+  type: relations/parental/friend
+  item: people/carlos-armstrong
+- 
+  type: relations/money/debtor
+  item: people/prof-hailey-friesen
+- 
+  type: relations/money/creditor
+  item: companies/marquardt-zieme
+- 
+  type: relations/money/debtor
+  item: companies/welch-borer
+- 
+  type: relations/work/employer
+  item: companies/pollich-ltd
+- 
+  type: relations/money/debtor
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

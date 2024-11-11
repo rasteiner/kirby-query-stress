@@ -1,0 +1,64 @@
+Title: Lenora Monahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-lyric-medhurst-phd
+- 
+  type: relations/parental/dad
+  item: people/osvaldo-pacocha
+- 
+  type: relations/parental/dad
+  item: people/prof-olaf-schuppe
+- 
+  type: relations/parental/dad
+  item: people/prof-hudson-graham-dvm
+- 
+  type: relations/parental/brosis
+  item: people/cameron-mcclure
+- 
+  type: relations/parental/colleague
+  item: people/janiya-hirthe
+- 
+  type: relations/work/employer
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/debtor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/employer
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

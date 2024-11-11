@@ -1,0 +1,64 @@
+Title: Theodore Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-melyna-gusikowski
+- 
+  type: relations/parental/friend
+  item: people/annette-deckow-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-timmothy-baumbach
+- 
+  type: relations/money/creditor
+  item: people/prof-alex-welch
+- 
+  type: relations/parental/friend
+  item: people/mr-norbert-hoppe-i
+- 
+  type: relations/parental/colleague
+  item: people/dr-alyson-torp
+- 
+  type: relations/work/client
+  item: companies/leuschke-metz
+- 
+  type: relations/money/creditor
+  item: companies/walter-ryan
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

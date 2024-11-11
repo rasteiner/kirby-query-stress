@@ -1,0 +1,64 @@
+Title: Andy Kling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/miss-jeanne-leuschke
+- 
+  type: relations/money/debtor
+  item: people/beatrice-ernser
+- 
+  type: relations/parental/colleague
+  item: people/dr-jairo-welch
+- 
+  type: relations/parental/friend
+  item: people/eulah-abbott
+- 
+  type: relations/parental/colleague
+  item: people/ofelia-steuber
+- 
+  type: relations/parental/colleague
+  item: people/loyal-walsh
+- 
+  type: relations/money/creditor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/client
+  item: companies/ritchie-plc
+- 
+  type: relations/work/client
+  item: companies/stamm-hahn
+- 
+  type: relations/work/employer
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

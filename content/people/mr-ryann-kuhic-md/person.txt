@@ -1,0 +1,64 @@
+Title: Mr. Ryann Kuhic MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-deja-marks-ii
+- 
+  type: relations/money/creditor
+  item: people/heber-altenwerth
+- 
+  type: relations/parental/colleague
+  item: people/kristian-rempel
+- 
+  type: relations/parental/colleague
+  item: people/buck-smith
+- 
+  type: relations/parental/mom
+  item: people/roscoe-nolan-dvm
+- 
+  type: relations/money/debtor
+  item: people/maureen-kerluke
+- 
+  type: relations/work/employer
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

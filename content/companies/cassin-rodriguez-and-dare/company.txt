@@ -1,0 +1,44 @@
+Title: Cassin, Rodriguez and Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/money/debtor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/new-markhaven
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort

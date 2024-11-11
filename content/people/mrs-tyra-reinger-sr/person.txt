@@ -1,0 +1,64 @@
+Title: Mrs. Tyra Reinger Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dallin-terry
+- 
+  type: relations/parental/colleague
+  item: people/prof-benton-goldner
+- 
+  type: relations/parental/dad
+  item: people/harold-reichel
+- 
+  type: relations/parental/dad
+  item: people/adalberto-runte
+- 
+  type: relations/parental/dad
+  item: people/mrs-lilla-volkman-dvm
+- 
+  type: relations/parental/mom
+  item: people/jevon-botsford-v
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/employer
+  item: companies/kris-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/hintz-group
+- 
+  type: relations/work/employer
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

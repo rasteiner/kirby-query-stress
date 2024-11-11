@@ -1,0 +1,64 @@
+Title: Prof. Alfred Krajcik Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/keyon-lang
+- 
+  type: relations/parental/mom
+  item: people/asa-pagac
+- 
+  type: relations/parental/friend
+  item: people/kamren-metz
+- 
+  type: relations/money/creditor
+  item: people/prof-arvilla-mills-iv
+- 
+  type: relations/parental/dad
+  item: people/kiana-moore
+- 
+  type: relations/parental/brosis
+  item: people/dr-rodrick-green
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-group
+- 
+  type: relations/money/creditor
+  item: companies/stokes-inc
+- 
+  type: relations/work/employer
+  item: companies/kemmer-ltd
+- 
+  type: relations/money/creditor
+  item: companies/funk-ward
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

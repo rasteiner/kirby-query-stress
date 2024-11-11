@@ -1,0 +1,64 @@
+Title: Rodolfo Leffler III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/parental/brosis
+  item: people/retta-hilll-i
+- 
+  type: relations/money/debtor
+  item: people/ms-destini-hand
+- 
+  type: relations/money/creditor
+  item: people/marie-littel-dvm
+- 
+  type: relations/parental/colleague
+  item: people/miss-sarah-reilly
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-plc
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/client
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

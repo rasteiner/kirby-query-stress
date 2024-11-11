@@ -1,0 +1,64 @@
+Title: Ted Powlowski III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-verona-ullrich
+- 
+  type: relations/money/debtor
+  item: people/hans-lebsack
+- 
+  type: relations/money/debtor
+  item: people/miller-metz
+- 
+  type: relations/parental/colleague
+  item: people/ms-thelma-bernhard-iii
+- 
+  type: relations/money/creditor
+  item: people/mr-mervin-lakin
+- 
+  type: relations/money/debtor
+  item: people/sherwood-vandervort
+- 
+  type: relations/work/employer
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/crist-inc
+- 
+  type: relations/work/employer
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

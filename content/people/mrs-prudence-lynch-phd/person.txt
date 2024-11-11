@@ -1,0 +1,64 @@
+Title: Mrs. Prudence Lynch PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jerome-brown-jr
+- 
+  type: relations/parental/colleague
+  item: people/stephanie-haag
+- 
+  type: relations/money/creditor
+  item: people/mrs-mina-gerhold-iv
+- 
+  type: relations/parental/colleague
+  item: people/carey-fahey
+- 
+  type: relations/parental/brosis
+  item: people/evangeline-funk
+- 
+  type: relations/money/creditor
+  item: people/mrs-verna-paucek
+- 
+  type: relations/work/employer
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/employer
+  item: companies/nader-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

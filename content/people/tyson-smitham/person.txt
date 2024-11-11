@@ -1,0 +1,64 @@
+Title: Tyson Smitham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/maud-hessel
+- 
+  type: relations/parental/colleague
+  item: people/reyes-leannon-v
+- 
+  type: relations/money/creditor
+  item: people/rachel-weissnat
+- 
+  type: relations/money/creditor
+  item: people/sage-goyette
+- 
+  type: relations/parental/dad
+  item: people/justine-bergnaum
+- 
+  type: relations/parental/colleague
+  item: people/camilla-turner
+- 
+  type: relations/work/client
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/money/debtor
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/work/client
+  item: companies/reilly-hilpert
+- 
+  type: relations/work/client
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

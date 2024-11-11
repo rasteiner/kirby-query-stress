@@ -1,0 +1,64 @@
+Title: Taurean Cummings
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jamaal-o-reilly
+- 
+  type: relations/money/creditor
+  item: people/jennings-blanda
+- 
+  type: relations/parental/friend
+  item: people/dr-quinton-goldner
+- 
+  type: relations/parental/mom
+  item: people/mr-ricky-wintheiser-i
+- 
+  type: relations/money/debtor
+  item: people/kyleigh-nicolas
+- 
+  type: relations/parental/colleague
+  item: people/sidney-ledner
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/client
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

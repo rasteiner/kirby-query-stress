@@ -1,0 +1,64 @@
+Title: Pascale Collins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-tiana-fritsch
+- 
+  type: relations/money/creditor
+  item: people/jaime-jerde
+- 
+  type: relations/parental/brosis
+  item: people/chanel-pollich-i
+- 
+  type: relations/money/creditor
+  item: people/prof-cierra-fisher-i
+- 
+  type: relations/money/creditor
+  item: people/marcelina-gulgowski
+- 
+  type: relations/parental/mom
+  item: people/rahsaan-reynolds-dds
+- 
+  type: relations/work/client
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/employer
+  item: companies/kovacek-llc
+- 
+  type: relations/work/client
+  item: companies/bayer-group
+- 
+  type: relations/money/debtor
+  item: companies/cassin-group
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

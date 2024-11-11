@@ -1,0 +1,64 @@
+Title: Myriam McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/kirstin-dooley
+- 
+  type: relations/parental/mom
+  item: people/liana-romaguera-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-leonard-satterfield-iii
+- 
+  type: relations/money/creditor
+  item: people/miss-kaela-mcclure-jr
+- 
+  type: relations/parental/brosis
+  item: people/devin-boyle
+- 
+  type: relations/money/debtor
+  item: people/willy-runolfsson
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/creditor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/client
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

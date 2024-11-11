@@ -1,0 +1,64 @@
+Title: Brisa Ullrich MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-francesco-stroman-jr
+- 
+  type: relations/money/debtor
+  item: people/avis-morar
+- 
+  type: relations/money/debtor
+  item: people/judson-homenick
+- 
+  type: relations/money/creditor
+  item: people/paul-welch
+- 
+  type: relations/parental/brosis
+  item: people/kelvin-feeney
+- 
+  type: relations/parental/mom
+  item: people/mr-quentin-kautzer-iii
+- 
+  type: relations/work/client
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/employer
+  item: companies/mills-wyman
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/employer
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

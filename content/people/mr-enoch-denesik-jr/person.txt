@@ -1,0 +1,64 @@
+Title: Mr. Enoch Denesik Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/christina-zemlak-ii
+- 
+  type: relations/money/creditor
+  item: people/kiley-o-kon
+- 
+  type: relations/parental/mom
+  item: people/willow-gerhold
+- 
+  type: relations/parental/brosis
+  item: people/halie-parisian-v
+- 
+  type: relations/parental/dad
+  item: people/ms-vallie-batz
+- 
+  type: relations/money/creditor
+  item: people/ressie-rodriguez-v
+- 
+  type: relations/money/debtor
+  item: companies/mayert-hessel-and-hudson
+- 
+  type: relations/work/client
+  item: companies/lebsack-boyle-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/work/client
+  item: companies/sporer-dubuque-and-mohr
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

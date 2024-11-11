@@ -1,0 +1,43 @@
+Title: Bauch PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/connelly-llc
+- 
+  type: relations/money/creditor
+  item: companies/gerlach-terry-and-grant
+- 
+  type: relations/money/debtor
+  item: companies/koss-group
+- 
+  type: relations/money/creditor
+  item: companies/howell-plc
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/klocko-dibbert-and-schulist
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport

@@ -1,0 +1,64 @@
+Title: Miss Ena Metz Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-adrienne-wilderman
+- 
+  type: relations/parental/mom
+  item: people/dr-rossie-rohan-jr
+- 
+  type: relations/parental/dad
+  item: people/esta-hoppe
+- 
+  type: relations/parental/mom
+  item: people/mrs-helga-abernathy
+- 
+  type: relations/money/debtor
+  item: people/mrs-samantha-collins-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-amanda-adams-md
+- 
+  type: relations/work/employer
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/work/employer
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

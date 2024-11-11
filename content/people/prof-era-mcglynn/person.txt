@@ -1,0 +1,64 @@
+Title: Prof. Era McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-melyna-gusikowski
+- 
+  type: relations/parental/dad
+  item: people/annette-deckow-ii
+- 
+  type: relations/parental/brosis
+  item: people/dr-timmothy-baumbach
+- 
+  type: relations/parental/dad
+  item: people/prof-alex-welch
+- 
+  type: relations/parental/colleague
+  item: people/mr-norbert-hoppe-i
+- 
+  type: relations/money/debtor
+  item: people/dr-alyson-torp
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/employer
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Arch Abernathy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-carli-senger
+- 
+  type: relations/parental/colleague
+  item: people/jada-senger
+- 
+  type: relations/parental/brosis
+  item: people/marcelle-wilderman
+- 
+  type: relations/parental/dad
+  item: people/prof-anne-jones-iii
+- 
+  type: relations/parental/mom
+  item: people/raphael-nader-sr
+- 
+  type: relations/parental/colleague
+  item: people/omer-rohan-md
+- 
+  type: relations/work/client
+  item: companies/langosh-maggio
+- 
+  type: relations/work/employer
+  item: companies/berge-waters
+- 
+  type: relations/money/creditor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/ward-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

@@ -1,0 +1,64 @@
+Title: Destiney Bernhard
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/diamond-reilly
+- 
+  type: relations/money/debtor
+  item: people/samara-walter
+- 
+  type: relations/money/debtor
+  item: people/rigoberto-hintz
+- 
+  type: relations/parental/mom
+  item: people/mr-jessy-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: people/dr-jasen-swift
+- 
+  type: relations/money/creditor
+  item: people/vicente-heidenreich
+- 
+  type: relations/work/client
+  item: companies/rodriguez-group
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-group
+- 
+  type: relations/work/employer
+  item: companies/roberts-abbott-and-mitchell
+- 
+  type: relations/work/employer
+  item: companies/schmeler-conn
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

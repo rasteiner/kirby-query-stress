@@ -1,0 +1,64 @@
+Title: Blaze Beer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/floy-wuckert
+- 
+  type: relations/parental/friend
+  item: people/christa-murphy
+- 
+  type: relations/parental/brosis
+  item: people/everette-pfeffer-v
+- 
+  type: relations/money/creditor
+  item: people/stan-sauer
+- 
+  type: relations/money/debtor
+  item: people/cleveland-o-keefe
+- 
+  type: relations/parental/brosis
+  item: people/lukas-sporer
+- 
+  type: relations/work/client
+  item: companies/emard-inc
+- 
+  type: relations/work/client
+  item: companies/nienow-robel-and-lemke
+- 
+  type: relations/work/employer
+  item: companies/goldner-beier
+- 
+  type: relations/work/client
+  item: companies/grant-boyer-and-rodriguez
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

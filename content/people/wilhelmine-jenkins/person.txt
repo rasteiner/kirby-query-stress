@@ -1,0 +1,64 @@
+Title: Wilhelmine Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/salvador-bashirian
+- 
+  type: relations/parental/colleague
+  item: people/craig-barrows-v
+- 
+  type: relations/parental/mom
+  item: people/clifton-greenholt
+- 
+  type: relations/money/debtor
+  item: people/candelario-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/dr-erwin-stroman-sr
+- 
+  type: relations/money/debtor
+  item: people/margret-kozey
+- 
+  type: relations/work/client
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/work/client
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/work/client
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

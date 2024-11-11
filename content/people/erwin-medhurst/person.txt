@@ -1,0 +1,64 @@
+Title: Erwin Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-garett-schulist
+- 
+  type: relations/parental/dad
+  item: people/cedrick-torp
+- 
+  type: relations/parental/colleague
+  item: people/denis-ebert-ii
+- 
+  type: relations/parental/brosis
+  item: people/mr-ward-will-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/lila-walter
+- 
+  type: relations/work/employer
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/debtor
+  item: companies/johnson-windler
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

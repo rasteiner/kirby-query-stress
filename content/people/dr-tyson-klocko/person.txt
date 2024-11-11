@@ -1,0 +1,64 @@
+Title: Dr. Tyson Klocko
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-rhoda-schultz
+- 
+  type: relations/parental/dad
+  item: people/ike-zemlak
+- 
+  type: relations/parental/brosis
+  item: people/prof-sherman-schaefer-md
+- 
+  type: relations/money/creditor
+  item: people/mrs-ashtyn-funk
+- 
+  type: relations/parental/mom
+  item: people/mr-deshawn-parker-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-pablo-skiles-sr
+- 
+  type: relations/work/client
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/work/employer
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/work/client
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

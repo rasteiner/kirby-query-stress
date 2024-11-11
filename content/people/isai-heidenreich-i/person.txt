@@ -1,0 +1,64 @@
+Title: Isai Heidenreich I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/andy-kling
+- 
+  type: relations/parental/friend
+  item: people/dr-zoie-bradtke-iii
+- 
+  type: relations/parental/colleague
+  item: people/coby-murazik-ii
+- 
+  type: relations/parental/friend
+  item: people/mireya-baumbach
+- 
+  type: relations/parental/brosis
+  item: people/cyrus-o-kon
+- 
+  type: relations/parental/dad
+  item: people/maymie-lang
+- 
+  type: relations/work/client
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/creditor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

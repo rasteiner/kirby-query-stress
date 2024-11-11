@@ -1,0 +1,64 @@
+Title: Willow King
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/matt-rutherford
+- 
+  type: relations/parental/brosis
+  item: people/nola-howell-dds
+- 
+  type: relations/parental/dad
+  item: people/ransom-herman-sr
+- 
+  type: relations/parental/dad
+  item: people/javon-zieme
+- 
+  type: relations/parental/brosis
+  item: people/bennie-kihn
+- 
+  type: relations/parental/friend
+  item: people/wiley-langworth-iv
+- 
+  type: relations/money/debtor
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/debtor
+  item: companies/becker-ltd
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

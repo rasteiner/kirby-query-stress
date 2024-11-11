@@ -1,0 +1,64 @@
+Title: Bernadine Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/brice-beier
+- 
+  type: relations/money/creditor
+  item: people/thea-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/lacey-rath
+- 
+  type: relations/parental/dad
+  item: people/bailey-koch
+- 
+  type: relations/parental/brosis
+  item: people/simeon-mohr
+- 
+  type: relations/parental/mom
+  item: people/prof-lenora-cormier-iv
+- 
+  type: relations/work/client
+  item: companies/cummings-plc
+- 
+  type: relations/work/client
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/client
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

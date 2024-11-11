@@ -1,0 +1,64 @@
+Title: Joyce Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-nash-baumbach-sr
+- 
+  type: relations/parental/friend
+  item: people/gertrude-abshire
+- 
+  type: relations/parental/friend
+  item: people/mathew-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/prof-rashad-wilderman-iii
+- 
+  type: relations/parental/dad
+  item: people/mrs-alexane-lesch-phd
+- 
+  type: relations/parental/friend
+  item: people/marcos-lemke
+- 
+  type: relations/money/creditor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/employer
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

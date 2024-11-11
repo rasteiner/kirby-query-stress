@@ -1,0 +1,64 @@
+Title: Estelle Berge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mohammad-ryan
+- 
+  type: relations/parental/friend
+  item: people/prof-carlie-predovic
+- 
+  type: relations/parental/brosis
+  item: people/ellen-kozey
+- 
+  type: relations/money/debtor
+  item: people/garfield-keebler-dvm
+- 
+  type: relations/parental/friend
+  item: people/dr-burley-koch-iii
+- 
+  type: relations/money/creditor
+  item: people/shaun-bahringer-dvm
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/money/creditor
+  item: companies/goyette-wiza
+- 
+  type: relations/money/creditor
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

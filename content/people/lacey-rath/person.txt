@@ -1,0 +1,64 @@
+Title: Lacey Rath
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/thora-green
+- 
+  type: relations/parental/dad
+  item: people/colten-vandervort
+- 
+  type: relations/parental/colleague
+  item: people/ms-shanna-nikolaus
+- 
+  type: relations/parental/friend
+  item: people/loma-bogan
+- 
+  type: relations/money/creditor
+  item: people/henderson-lehner-v
+- 
+  type: relations/parental/brosis
+  item: people/leslie-ritchie
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/work/employer
+  item: companies/herzog-plc
+- 
+  type: relations/work/employer
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/work/client
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

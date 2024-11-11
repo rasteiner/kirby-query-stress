@@ -1,0 +1,64 @@
+Title: Franz Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-luigi-becker
+- 
+  type: relations/parental/colleague
+  item: people/elvis-schinner
+- 
+  type: relations/money/creditor
+  item: people/faye-wunsch-sr
+- 
+  type: relations/parental/colleague
+  item: people/matilde-o-keefe-i
+- 
+  type: relations/money/creditor
+  item: people/dr-nash-baumbach-sr
+- 
+  type: relations/parental/mom
+  item: people/gertrude-abshire
+- 
+  type: relations/money/debtor
+  item: companies/metz-and-sons
+- 
+  type: relations/work/client
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/work/client
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

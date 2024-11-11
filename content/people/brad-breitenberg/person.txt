@@ -1,0 +1,64 @@
+Title: Brad Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/odie-champlin
+- 
+  type: relations/parental/colleague
+  item: people/ms-clementina-terry-iii
+- 
+  type: relations/money/creditor
+  item: people/gail-hermiston
+- 
+  type: relations/parental/colleague
+  item: people/dr-guillermo-wolff
+- 
+  type: relations/money/debtor
+  item: people/dessie-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/ella-langworth-v
+- 
+  type: relations/work/employer
+  item: companies/doyle-murphy
+- 
+  type: relations/money/debtor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/work/employer
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

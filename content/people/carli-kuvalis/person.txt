@@ -1,0 +1,64 @@
+Title: Carli Kuvalis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/flossie-boehm
+- 
+  type: relations/money/debtor
+  item: people/citlalli-ernser-dvm
+- 
+  type: relations/parental/colleague
+  item: people/reva-turcotte
+- 
+  type: relations/parental/dad
+  item: people/leola-kihn
+- 
+  type: relations/parental/friend
+  item: people/rhianna-purdy-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-jarret-langworth
+- 
+  type: relations/work/client
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/employer
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

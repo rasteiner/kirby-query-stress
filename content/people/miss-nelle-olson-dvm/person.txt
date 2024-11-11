@@ -1,0 +1,64 @@
+Title: Miss Nelle Olson DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-lavon-yundt
+- 
+  type: relations/parental/colleague
+  item: people/miss-diana-cummerata-phd
+- 
+  type: relations/parental/friend
+  item: people/mr-verner-towne-v
+- 
+  type: relations/parental/dad
+  item: people/dr-thaddeus-satterfield
+- 
+  type: relations/parental/dad
+  item: people/mr-scottie-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/mr-tremayne-boehm
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/client
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/money/debtor
+  item: companies/grady-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Dr. Porter Hand MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kenna-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/tiffany-pacocha
+- 
+  type: relations/parental/dad
+  item: people/dr-lindsay-abshire
+- 
+  type: relations/parental/dad
+  item: people/eric-abshire
+- 
+  type: relations/parental/friend
+  item: people/robyn-smitham
+- 
+  type: relations/parental/mom
+  item: people/flo-conroy
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/debtor
+  item: companies/gibson-inc
+- 
+  type: relations/money/creditor
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

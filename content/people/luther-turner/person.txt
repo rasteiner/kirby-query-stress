@@ -1,0 +1,64 @@
+Title: Luther Turner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/eulalia-skiles
+- 
+  type: relations/parental/brosis
+  item: people/hayley-friesen
+- 
+  type: relations/parental/friend
+  item: people/dr-rubye-nolan-iv
+- 
+  type: relations/parental/dad
+  item: people/prof-lea-wiegand
+- 
+  type: relations/money/creditor
+  item: people/jaida-klocko
+- 
+  type: relations/parental/dad
+  item: people/prof-finn-bode-jr
+- 
+  type: relations/work/client
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/sporer-llc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-ltd
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-group
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

@@ -1,0 +1,43 @@
+Title: Thiel-Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/money/creditor
+  item: companies/flatley-inc
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/debtor
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/homenick-padberg
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-herman
+- 
+  type: relations/money/debtor
+  item: companies/o-kon-plc
+- 
+  type: relations/location/visited
+  item: places/robertstown
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/new-selmer

@@ -1,0 +1,64 @@
+Title: Carleton Greenfelder
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/alexzander-parisian
+- 
+  type: relations/money/creditor
+  item: people/lelah-kessler-sr
+- 
+  type: relations/parental/dad
+  item: people/lloyd-howe
+- 
+  type: relations/parental/dad
+  item: people/dawn-lakin-i
+- 
+  type: relations/parental/brosis
+  item: people/johnathan-luettgen
+- 
+  type: relations/money/creditor
+  item: people/dr-santos-moen-phd
+- 
+  type: relations/money/debtor
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/creditor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

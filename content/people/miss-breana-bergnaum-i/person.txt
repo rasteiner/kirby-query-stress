@@ -1,0 +1,64 @@
+Title: Miss Breana Bergnaum I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/shea-fisher-md
+- 
+  type: relations/parental/mom
+  item: people/prof-keven-armstrong-iv
+- 
+  type: relations/money/debtor
+  item: people/lura-sipes
+- 
+  type: relations/parental/friend
+  item: people/dr-lela-senger-i
+- 
+  type: relations/parental/friend
+  item: people/christiana-kuhic
+- 
+  type: relations/parental/dad
+  item: people/turner-casper
+- 
+  type: relations/work/employer
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/client
+  item: companies/bailey-group
+- 
+  type: relations/work/client
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

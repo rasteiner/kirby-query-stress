@@ -1,0 +1,64 @@
+Title: Mrs. Anjali Jerde Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/cassidy-cole
+- 
+  type: relations/parental/colleague
+  item: people/curt-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/stephon-mertz
+- 
+  type: relations/parental/mom
+  item: people/earnest-grimes
+- 
+  type: relations/parental/colleague
+  item: people/garland-rolfson
+- 
+  type: relations/parental/brosis
+  item: people/stephanie-sanford
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/money/debtor
+  item: companies/sporer-llc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/client
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

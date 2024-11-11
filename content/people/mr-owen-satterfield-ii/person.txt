@@ -1,0 +1,64 @@
+Title: Mr. Owen Satterfield II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/geo-robel
+- 
+  type: relations/parental/mom
+  item: people/hellen-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/sidney-lynch-iv
+- 
+  type: relations/parental/dad
+  item: people/ezra-hilpert
+- 
+  type: relations/parental/mom
+  item: people/carmine-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/antonina-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/work/client
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

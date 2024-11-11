@@ -1,0 +1,64 @@
+Title: Anderson Thiel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/aron-lesch
+- 
+  type: relations/parental/mom
+  item: people/mason-herman
+- 
+  type: relations/money/debtor
+  item: people/adalberto-mann
+- 
+  type: relations/parental/brosis
+  item: people/prof-buford-mosciski-md
+- 
+  type: relations/parental/mom
+  item: people/christy-vandervort
+- 
+  type: relations/parental/colleague
+  item: people/dr-cristal-beatty
+- 
+  type: relations/money/debtor
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/work/client
+  item: companies/jenkins-veum
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

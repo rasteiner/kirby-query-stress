@@ -1,0 +1,64 @@
+Title: Ian Reynolds
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/breanne-mckenzie
+- 
+  type: relations/parental/friend
+  item: people/aileen-luettgen
+- 
+  type: relations/parental/mom
+  item: people/roosevelt-stehr-i
+- 
+  type: relations/parental/dad
+  item: people/amy-ernser
+- 
+  type: relations/parental/brosis
+  item: people/nyasia-harris
+- 
+  type: relations/parental/mom
+  item: people/margarett-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/work/client
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/employer
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

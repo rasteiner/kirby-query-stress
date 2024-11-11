@@ -1,0 +1,64 @@
+Title: Cayla Grimes Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-isobel-west-v
+- 
+  type: relations/parental/mom
+  item: people/kristy-schroeder
+- 
+  type: relations/parental/dad
+  item: people/prof-clint-ondricka-phd
+- 
+  type: relations/parental/dad
+  item: people/ona-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/prof-margie-bartoletti
+- 
+  type: relations/money/creditor
+  item: people/candido-johns
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/client
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

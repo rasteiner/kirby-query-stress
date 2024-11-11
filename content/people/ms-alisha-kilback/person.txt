@@ -1,0 +1,64 @@
+Title: Ms. Alisha Kilback
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/stacey-waters
+- 
+  type: relations/parental/mom
+  item: people/dr-louisa-krajcik
+- 
+  type: relations/money/debtor
+  item: people/madalyn-torphy
+- 
+  type: relations/parental/friend
+  item: people/prof-jarrett-bechtelar-i
+- 
+  type: relations/money/debtor
+  item: people/deontae-beier
+- 
+  type: relations/parental/dad
+  item: people/jonathon-leffler
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-metz
+- 
+  type: relations/work/client
+  item: companies/walter-ryan
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

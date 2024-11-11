@@ -1,0 +1,64 @@
+Title: Ellis Johns Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/earnestine-schultz
+- 
+  type: relations/money/debtor
+  item: people/ellen-hauck-dds
+- 
+  type: relations/parental/dad
+  item: people/mrs-jazmyne-veum-ii
+- 
+  type: relations/parental/friend
+  item: people/prof-peter-fahey
+- 
+  type: relations/money/creditor
+  item: people/jose-heidenreich
+- 
+  type: relations/parental/dad
+  item: people/alessandra-towne
+- 
+  type: relations/work/employer
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/money/creditor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

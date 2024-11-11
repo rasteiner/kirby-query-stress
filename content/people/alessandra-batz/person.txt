@@ -1,0 +1,64 @@
+Title: Alessandra Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lambert-legros
+- 
+  type: relations/parental/dad
+  item: people/bridie-trantow-phd
+- 
+  type: relations/money/creditor
+  item: people/kraig-runolfsson
+- 
+  type: relations/parental/brosis
+  item: people/elody-kozey
+- 
+  type: relations/parental/dad
+  item: people/kiley-schowalter
+- 
+  type: relations/parental/brosis
+  item: people/jewell-effertz
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

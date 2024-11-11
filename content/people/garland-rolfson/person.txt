@@ -1,0 +1,64 @@
+Title: Garland Rolfson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-raul-bergstrom
+- 
+  type: relations/money/creditor
+  item: people/wayne-green
+- 
+  type: relations/parental/friend
+  item: people/emmalee-abshire
+- 
+  type: relations/parental/mom
+  item: people/marquis-schmidt
+- 
+  type: relations/parental/colleague
+  item: people/irwin-davis
+- 
+  type: relations/parental/mom
+  item: people/derick-adams
+- 
+  type: relations/work/client
+  item: companies/bruen-denesik-and-gaylord
+- 
+  type: relations/work/client
+  item: companies/daniel-tromp-and-lowe
+- 
+  type: relations/work/employer
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/work/employer
+  item: companies/becker-hills-and-white
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

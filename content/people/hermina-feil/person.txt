@@ -1,0 +1,64 @@
+Title: Hermina Feil
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mrs-talia-corwin
+- 
+  type: relations/parental/dad
+  item: people/violette-cummerata
+- 
+  type: relations/parental/mom
+  item: people/alec-marks
+- 
+  type: relations/money/creditor
+  item: people/eula-cassin-i
+- 
+  type: relations/parental/dad
+  item: people/micaela-haley
+- 
+  type: relations/money/creditor
+  item: people/joshua-yost
+- 
+  type: relations/work/employer
+  item: companies/shields-gusikowski-and-streich
+- 
+  type: relations/work/employer
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-wiza
+- 
+  type: relations/work/client
+  item: companies/grady-group
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

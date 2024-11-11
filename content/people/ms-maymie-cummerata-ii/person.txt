@@ -1,0 +1,65 @@
+Title: Ms. Maymie Cummerata II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-nicholaus-williamson-ii
+- 
+  type: relations/parental/dad
+  item: people/dr-heidi-hessel
+- 
+  type: relations/money/creditor
+  item: people/dr-evie-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/gay-altenwerth
+- 
+  type: relations/money/debtor
+  item: people/prof-zachery-douglas-md
+- 
+  type: relations/money/creditor
+  item: people/mark-wolff
+- 
+  type: relations/money/debtor
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/work/employer
+  item: companies/rippin-sauer
+- 
+  type: relations/money/creditor
+  item: companies/haley-inc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

@@ -1,0 +1,43 @@
+Title: Klein, Schaefer and Balistreri
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/wuckert-hickle-and-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/kris-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/hickle-plc
+- 
+  type: relations/money/creditor
+  item: companies/hansen-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/debtor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/schneider-durgan
+- 
+  type: relations/money/creditor
+  item: companies/conn-inc
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/horaceside
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland

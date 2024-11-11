@@ -1,0 +1,64 @@
+Title: Ashlynn Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-adele-bogan-iv
+- 
+  type: relations/parental/colleague
+  item: people/noble-douglas
+- 
+  type: relations/parental/mom
+  item: people/luis-casper
+- 
+  type: relations/parental/mom
+  item: people/heath-wolff
+- 
+  type: relations/parental/mom
+  item: people/blanca-ernser
+- 
+  type: relations/parental/brosis
+  item: people/claude-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/work/client
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/client
+  item: companies/harvey-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

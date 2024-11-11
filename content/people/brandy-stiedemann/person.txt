@@ -1,0 +1,64 @@
+Title: Brandy Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/marjolaine-bode-v
+- 
+  type: relations/parental/dad
+  item: people/mr-jarret-wyman
+- 
+  type: relations/parental/brosis
+  item: people/dr-gabriel-kuhlman
+- 
+  type: relations/parental/mom
+  item: people/dr-mikel-trantow-ii
+- 
+  type: relations/parental/mom
+  item: people/retta-hilll-i
+- 
+  type: relations/parental/dad
+  item: people/ms-destini-hand
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/debtor
+  item: companies/orn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Otilia Harris
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/retta-hilll-i
+- 
+  type: relations/parental/friend
+  item: people/ms-destini-hand
+- 
+  type: relations/parental/brosis
+  item: people/marie-littel-dvm
+- 
+  type: relations/money/creditor
+  item: people/miss-sarah-reilly
+- 
+  type: relations/parental/mom
+  item: people/miss-albina-rolfson-iv
+- 
+  type: relations/money/creditor
+  item: people/amanda-friesen
+- 
+  type: relations/money/debtor
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/client
+  item: companies/kessler-stark
+- 
+  type: relations/money/debtor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

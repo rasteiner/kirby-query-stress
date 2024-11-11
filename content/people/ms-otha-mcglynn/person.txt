@@ -1,0 +1,64 @@
+Title: Ms. Otha McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/keenan-wiza
+- 
+  type: relations/parental/colleague
+  item: people/adrian-watsica
+- 
+  type: relations/money/debtor
+  item: people/vito-runolfsdottir
+- 
+  type: relations/parental/friend
+  item: people/rigoberto-marquardt
+- 
+  type: relations/money/debtor
+  item: people/betsy-steuber
+- 
+  type: relations/parental/dad
+  item: people/ms-lexie-kihn-iii
+- 
+  type: relations/money/debtor
+  item: companies/o-connell-inc
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/employer
+  item: companies/russel-collier
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

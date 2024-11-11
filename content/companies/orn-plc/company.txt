@@ -1,0 +1,44 @@
+Title: Orn PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/money/debtor
+  item: companies/raynor-rippin
+- 
+  type: relations/money/debtor
+  item: companies/walker-howe
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/money/debtor
+  item: companies/morar-wilderman-and-goldner
+- 
+  type: relations/money/debtor
+  item: companies/murray-o-hara
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/brycebury

@@ -1,0 +1,64 @@
+Title: Marta Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clarabelle-abshire-iv
+- 
+  type: relations/parental/mom
+  item: people/ms-elsa-lindgren
+- 
+  type: relations/money/creditor
+  item: people/dr-rosetta-boehm-phd
+- 
+  type: relations/money/creditor
+  item: people/sylvester-doyle
+- 
+  type: relations/parental/friend
+  item: people/salvador-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/craig-barrows-v
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

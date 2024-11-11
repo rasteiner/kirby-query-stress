@@ -1,0 +1,64 @@
+Title: Mathilde Boyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/chelsey-sanford
+- 
+  type: relations/parental/dad
+  item: people/susanna-strosin-iv
+- 
+  type: relations/parental/colleague
+  item: people/alvina-bernier
+- 
+  type: relations/parental/friend
+  item: people/rudolph-koch
+- 
+  type: relations/parental/brosis
+  item: people/dr-lucius-senger
+- 
+  type: relations/parental/friend
+  item: people/ivah-feeney
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/work/employer
+  item: companies/wolf-steuber
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

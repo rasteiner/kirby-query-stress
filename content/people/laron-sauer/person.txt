@@ -1,0 +1,64 @@
+Title: Laron Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-keshaun-d-amore
+- 
+  type: relations/parental/brosis
+  item: people/ms-fatima-west-v
+- 
+  type: relations/money/creditor
+  item: people/mrs-madge-heaney-sr
+- 
+  type: relations/parental/colleague
+  item: people/arlene-nikolaus
+- 
+  type: relations/parental/friend
+  item: people/prof-karli-moore
+- 
+  type: relations/parental/brosis
+  item: people/dr-wayne-macejkovic-v
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

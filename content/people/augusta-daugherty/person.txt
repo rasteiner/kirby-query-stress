@@ -1,0 +1,64 @@
+Title: Augusta Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-serenity-upton
+- 
+  type: relations/parental/dad
+  item: people/mrs-jammie-schneider
+- 
+  type: relations/parental/colleague
+  item: people/randall-streich-dds
+- 
+  type: relations/money/creditor
+  item: people/prof-amelia-welch
+- 
+  type: relations/parental/colleague
+  item: people/dr-dimitri-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/leonardo-hudson
+- 
+  type: relations/work/client
+  item: companies/rowe-osinski
+- 
+  type: relations/work/client
+  item: companies/hamill-plc
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/employer
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

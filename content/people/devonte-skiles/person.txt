@@ -1,0 +1,64 @@
+Title: Devonte Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/petra-senger
+- 
+  type: relations/parental/mom
+  item: people/eleanore-aufderhar-iii
+- 
+  type: relations/parental/dad
+  item: people/carey-kirlin-iv
+- 
+  type: relations/parental/brosis
+  item: people/sammy-schinner
+- 
+  type: relations/parental/colleague
+  item: people/tomas-bashirian-iii
+- 
+  type: relations/parental/mom
+  item: people/lily-hyatt
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/money/creditor
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/money/debtor
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

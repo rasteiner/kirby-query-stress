@@ -1,0 +1,64 @@
+Title: Domenick Waelchi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/brenna-howell-v
+- 
+  type: relations/money/debtor
+  item: people/myriam-marquardt-md
+- 
+  type: relations/parental/dad
+  item: people/nathen-goldner
+- 
+  type: relations/parental/mom
+  item: people/mr-ibrahim-ledner
+- 
+  type: relations/parental/friend
+  item: people/sarai-schulist
+- 
+  type: relations/parental/dad
+  item: people/ron-o-keefe-md
+- 
+  type: relations/money/creditor
+  item: companies/beier-kub
+- 
+  type: relations/work/employer
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/money/creditor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

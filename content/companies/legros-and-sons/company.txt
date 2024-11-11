@@ -1,0 +1,44 @@
+Title: Legros and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/heaney-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/money/debtor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/creditor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/robertstown
+- 
+  type: relations/location/visited
+  item: places/hillardburgh

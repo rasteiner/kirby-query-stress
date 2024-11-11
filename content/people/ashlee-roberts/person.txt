@@ -1,0 +1,64 @@
+Title: Ashlee Roberts
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-maiya-harber
+- 
+  type: relations/money/creditor
+  item: people/brock-mckenzie
+- 
+  type: relations/parental/brosis
+  item: people/unique-dibbert
+- 
+  type: relations/money/debtor
+  item: people/prof-rocky-towne
+- 
+  type: relations/parental/colleague
+  item: people/bo-gleason
+- 
+  type: relations/parental/dad
+  item: people/ara-okuneva
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/hintz-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/homenick-padberg
+- 
+  type: relations/money/debtor
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

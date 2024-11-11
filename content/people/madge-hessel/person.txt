@@ -1,0 +1,65 @@
+Title: Madge Hessel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/eino-fisher
+- 
+  type: relations/money/creditor
+  item: people/werner-nader-phd
+- 
+  type: relations/parental/brosis
+  item: people/claudie-bode
+- 
+  type: relations/money/creditor
+  item: people/dr-eliza-terry
+- 
+  type: relations/money/creditor
+  item: people/verdie-farrell
+- 
+  type: relations/parental/friend
+  item: people/prof-hazel-flatley-dvm
+- 
+  type: relations/work/employer
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/money/debtor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

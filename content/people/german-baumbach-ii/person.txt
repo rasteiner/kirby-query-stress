@@ -1,0 +1,64 @@
+Title: German Baumbach II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-steve-morissette
+- 
+  type: relations/parental/brosis
+  item: people/eli-funk
+- 
+  type: relations/parental/mom
+  item: people/pat-kunze
+- 
+  type: relations/parental/friend
+  item: people/tillman-orn
+- 
+  type: relations/parental/brosis
+  item: people/ralph-boyer-md
+- 
+  type: relations/parental/dad
+  item: people/miss-palma-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/auer-gusikowski
+- 
+  type: relations/work/employer
+  item: companies/hintz-bergnaum
+- 
+  type: relations/money/debtor
+  item: companies/homenick-padberg
+- 
+  type: relations/work/employer
+  item: companies/kutch-group
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

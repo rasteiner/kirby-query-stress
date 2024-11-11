@@ -1,0 +1,64 @@
+Title: Kody Prohaska I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/noah-lockman
+- 
+  type: relations/money/creditor
+  item: people/emmett-mayert
+- 
+  type: relations/parental/friend
+  item: people/garrison-stroman-phd
+- 
+  type: relations/parental/dad
+  item: people/carmen-bogisich
+- 
+  type: relations/parental/dad
+  item: people/mrs-jermaine-kirlin-dds
+- 
+  type: relations/parental/brosis
+  item: people/catharine-homenick
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-davis
+- 
+  type: relations/money/creditor
+  item: companies/howell-and-sons
+- 
+  type: relations/work/employer
+  item: companies/emmerich-volkman
+- 
+  type: relations/money/creditor
+  item: companies/crona-llc
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

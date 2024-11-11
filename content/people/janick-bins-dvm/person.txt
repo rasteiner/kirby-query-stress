@@ -1,0 +1,64 @@
+Title: Janick Bins DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nikolas-klein
+- 
+  type: relations/parental/mom
+  item: people/joannie-pfannerstill-phd
+- 
+  type: relations/money/creditor
+  item: people/prof-dessie-o-kon-i
+- 
+  type: relations/money/debtor
+  item: people/mr-lon-shanahan-v
+- 
+  type: relations/parental/mom
+  item: people/justus-ratke
+- 
+  type: relations/money/debtor
+  item: people/harry-durgan
+- 
+  type: relations/money/creditor
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/client
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/work/employer
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

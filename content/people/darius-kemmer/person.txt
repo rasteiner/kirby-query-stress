@@ -1,0 +1,64 @@
+Title: Darius Kemmer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/martina-armstrong
+- 
+  type: relations/parental/dad
+  item: people/prof-wendy-gleason-iii
+- 
+  type: relations/parental/mom
+  item: people/dr-cedrick-konopelski-i
+- 
+  type: relations/parental/friend
+  item: people/luis-pfannerstill-md
+- 
+  type: relations/parental/dad
+  item: people/roberta-larkin
+- 
+  type: relations/parental/colleague
+  item: people/marilou-towne
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

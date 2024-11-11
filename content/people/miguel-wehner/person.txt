@@ -1,0 +1,64 @@
+Title: Miguel Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/beatrice-daugherty
+- 
+  type: relations/parental/brosis
+  item: people/pasquale-lowe
+- 
+  type: relations/money/debtor
+  item: people/mona-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/quincy-fahey
+- 
+  type: relations/parental/colleague
+  item: people/eudora-torphy
+- 
+  type: relations/parental/brosis
+  item: people/helene-bauch
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/work/client
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/employer
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/work/client
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

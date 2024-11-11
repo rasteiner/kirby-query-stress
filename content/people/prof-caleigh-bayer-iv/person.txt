@@ -1,0 +1,64 @@
+Title: Prof. Caleigh Bayer IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/tyreek-hilpert
+- 
+  type: relations/parental/colleague
+  item: people/yadira-herman-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-dock-ruecker
+- 
+  type: relations/parental/friend
+  item: people/vesta-walsh-dds
+- 
+  type: relations/parental/mom
+  item: people/cordia-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/dr-joey-hackett
+- 
+  type: relations/work/client
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/client
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

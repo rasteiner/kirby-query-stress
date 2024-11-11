@@ -1,0 +1,64 @@
+Title: Ms. Cheyanne Baumbach III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/franco-prosacco
+- 
+  type: relations/parental/colleague
+  item: people/blair-marvin
+- 
+  type: relations/parental/brosis
+  item: people/frances-zemlak
+- 
+  type: relations/money/debtor
+  item: people/larue-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/alva-medhurst
+- 
+  type: relations/money/creditor
+  item: people/mr-dane-fadel
+- 
+  type: relations/work/employer
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/money/creditor
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

@@ -1,0 +1,64 @@
+Title: Ceasar Ferry
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alvina-bernier
+- 
+  type: relations/parental/colleague
+  item: people/rudolph-koch
+- 
+  type: relations/parental/dad
+  item: people/dr-lucius-senger
+- 
+  type: relations/parental/dad
+  item: people/ivah-feeney
+- 
+  type: relations/parental/mom
+  item: people/micah-stokes
+- 
+  type: relations/money/creditor
+  item: people/laurine-spinka
+- 
+  type: relations/money/debtor
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/work/employer
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

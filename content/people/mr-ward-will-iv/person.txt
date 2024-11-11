@@ -1,0 +1,64 @@
+Title: Mr. Ward Will IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-dolly-quitzon
+- 
+  type: relations/parental/brosis
+  item: people/prof-whitney-terry-ii
+- 
+  type: relations/parental/colleague
+  item: people/mr-eddie-graham
+- 
+  type: relations/parental/colleague
+  item: people/julio-rice
+- 
+  type: relations/parental/brosis
+  item: people/miss-wava-wyman
+- 
+  type: relations/parental/mom
+  item: people/prof-dominique-kutch
+- 
+  type: relations/work/client
+  item: companies/christiansen-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/lueilwitz-plc
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/work/client
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

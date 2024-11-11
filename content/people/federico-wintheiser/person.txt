@@ -1,0 +1,64 @@
+Title: Federico Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/harry-cremin
+- 
+  type: relations/parental/mom
+  item: people/ms-margarita-abernathy
+- 
+  type: relations/parental/friend
+  item: people/christian-cruickshank-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-travon-hamill
+- 
+  type: relations/parental/brosis
+  item: people/dr-maci-hermiston-md
+- 
+  type: relations/parental/friend
+  item: people/miss-tina-dare
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/money/creditor
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/client
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Kaylie Johns DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/forest-hoppe
+- 
+  type: relations/parental/dad
+  item: people/maxie-rosenbaum
+- 
+  type: relations/parental/dad
+  item: people/shannon-king
+- 
+  type: relations/parental/dad
+  item: people/zoey-okuneva
+- 
+  type: relations/parental/friend
+  item: people/ms-felicity-daniel
+- 
+  type: relations/money/creditor
+  item: people/carolyn-dibbert
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/debtor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

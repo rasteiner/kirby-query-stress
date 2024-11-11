@@ -1,0 +1,64 @@
+Title: Jadyn Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-marvin-murazik-phd
+- 
+  type: relations/parental/mom
+  item: people/janiya-fisher
+- 
+  type: relations/money/debtor
+  item: people/dr-benedict-johns-sr
+- 
+  type: relations/parental/friend
+  item: people/ubaldo-howell
+- 
+  type: relations/parental/mom
+  item: people/dr-jimmy-gutkowski-dds
+- 
+  type: relations/parental/colleague
+  item: people/judah-heidenreich
+- 
+  type: relations/money/debtor
+  item: companies/powlowski-hoeger-and-schmidt
+- 
+  type: relations/money/creditor
+  item: companies/keebler-inc
+- 
+  type: relations/money/creditor
+  item: companies/dicki-ltd
+- 
+  type: relations/work/employer
+  item: companies/hilpert-bernier-and-mayert
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

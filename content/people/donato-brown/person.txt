@@ -1,0 +1,64 @@
+Title: Donato Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/magdalen-hammes
+- 
+  type: relations/parental/friend
+  item: people/dr-rebekah-friesen
+- 
+  type: relations/money/debtor
+  item: people/lindsay-lindgren
+- 
+  type: relations/parental/mom
+  item: people/dulce-grimes-sr
+- 
+  type: relations/money/debtor
+  item: people/adah-dubuque
+- 
+  type: relations/parental/friend
+  item: people/reese-stamm
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/money/debtor
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

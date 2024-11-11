@@ -1,0 +1,64 @@
+Title: Lorna Rosenbaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jamison-d-amore
+- 
+  type: relations/money/debtor
+  item: people/dr-dorris-volkman-ii
+- 
+  type: relations/money/creditor
+  item: people/myra-kemmer
+- 
+  type: relations/money/creditor
+  item: people/viola-gerlach-dds
+- 
+  type: relations/parental/brosis
+  item: people/santos-franecki-dvm
+- 
+  type: relations/parental/friend
+  item: people/wade-marvin
+- 
+  type: relations/work/employer
+  item: companies/dickinson-plc
+- 
+  type: relations/work/employer
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

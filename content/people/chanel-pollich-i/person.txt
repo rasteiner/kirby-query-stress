@@ -1,0 +1,64 @@
+Title: Chanel Pollich I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/gail-rolfson
+- 
+  type: relations/parental/mom
+  item: people/gennaro-o-keefe
+- 
+  type: relations/parental/friend
+  item: people/vivian-lueilwitz-iii
+- 
+  type: relations/parental/mom
+  item: people/layla-mclaughlin-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-elise-larson-ii
+- 
+  type: relations/parental/dad
+  item: people/mr-michael-kuphal
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-beahan-and-blanda
+- 
+  type: relations/work/employer
+  item: companies/kris-and-sons
+- 
+  type: relations/work/client
+  item: companies/hintz-group
+- 
+  type: relations/money/debtor
+  item: companies/donnelly-dietrich
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

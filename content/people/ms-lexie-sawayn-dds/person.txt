@@ -1,0 +1,64 @@
+Title: Ms. Lexie Sawayn DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ceasar-klein
+- 
+  type: relations/parental/brosis
+  item: people/dr-lourdes-abbott
+- 
+  type: relations/money/debtor
+  item: people/steve-smith
+- 
+  type: relations/money/debtor
+  item: people/cassie-hyatt
+- 
+  type: relations/parental/colleague
+  item: people/prof-sean-white
+- 
+  type: relations/parental/colleague
+  item: people/lorenz-stroman-phd
+- 
+  type: relations/work/client
+  item: companies/keeling-inc
+- 
+  type: relations/money/debtor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/work/employer
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

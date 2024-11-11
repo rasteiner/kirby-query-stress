@@ -1,0 +1,64 @@
+Title: Enoch Gutmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/makayla-hartmann
+- 
+  type: relations/parental/mom
+  item: people/delfina-weissnat
+- 
+  type: relations/parental/brosis
+  item: people/mary-kovacek
+- 
+  type: relations/parental/dad
+  item: people/vance-wilkinson
+- 
+  type: relations/parental/dad
+  item: people/dr-laverne-bartell
+- 
+  type: relations/parental/friend
+  item: people/guadalupe-bradtke-i
+- 
+  type: relations/work/employer
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/debtor
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

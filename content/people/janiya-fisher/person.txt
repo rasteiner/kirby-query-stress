@@ -1,0 +1,64 @@
+Title: Janiya Fisher
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/helene-wuckert-i
+- 
+  type: relations/parental/friend
+  item: people/fannie-hermann
+- 
+  type: relations/parental/friend
+  item: people/cristopher-lemke
+- 
+  type: relations/parental/dad
+  item: people/kody-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/dr-ansel-miller-md
+- 
+  type: relations/parental/mom
+  item: people/deshawn-blick
+- 
+  type: relations/money/debtor
+  item: companies/yundt-llc
+- 
+  type: relations/work/employer
+  item: companies/terry-ltd
+- 
+  type: relations/work/client
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/client
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

@@ -1,0 +1,64 @@
+Title: Weldon Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/eloise-cronin
+- 
+  type: relations/parental/dad
+  item: people/oceane-casper
+- 
+  type: relations/money/creditor
+  item: people/valerie-labadie
+- 
+  type: relations/parental/dad
+  item: people/fermin-will
+- 
+  type: relations/parental/friend
+  item: people/glennie-rowe
+- 
+  type: relations/parental/mom
+  item: people/vallie-franecki
+- 
+  type: relations/money/creditor
+  item: companies/mertz-stracke
+- 
+  type: relations/work/client
+  item: companies/ullrich-llc
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

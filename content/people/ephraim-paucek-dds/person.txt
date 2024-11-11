@@ -1,0 +1,64 @@
+Title: Ephraim Paucek DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alejandrin-jaskolski
+- 
+  type: relations/money/debtor
+  item: people/ms-maida-feil
+- 
+  type: relations/money/debtor
+  item: people/mr-mathew-kozey-iv
+- 
+  type: relations/money/creditor
+  item: people/dr-tyson-klocko
+- 
+  type: relations/money/debtor
+  item: people/prince-hamill
+- 
+  type: relations/parental/dad
+  item: people/micheal-mohr
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/work/client
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

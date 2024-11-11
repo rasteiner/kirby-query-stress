@@ -1,0 +1,64 @@
+Title: Jacinto VonRueden
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/joesph-abshire
+- 
+  type: relations/parental/mom
+  item: people/dusty-lehner
+- 
+  type: relations/parental/brosis
+  item: people/barrett-gaylord
+- 
+  type: relations/money/debtor
+  item: people/dr-darrel-o-keefe-phd
+- 
+  type: relations/parental/friend
+  item: people/jerome-brown-jr
+- 
+  type: relations/parental/mom
+  item: people/stephanie-haag
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/client
+  item: companies/leannon-rohan
+- 
+  type: relations/money/creditor
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

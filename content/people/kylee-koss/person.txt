@@ -1,0 +1,64 @@
+Title: Kylee Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/paula-trantow
+- 
+  type: relations/money/creditor
+  item: people/wilhelmine-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/prof-luigi-becker
+- 
+  type: relations/parental/colleague
+  item: people/elvis-schinner
+- 
+  type: relations/money/creditor
+  item: people/faye-wunsch-sr
+- 
+  type: relations/parental/friend
+  item: people/matilde-o-keefe-i
+- 
+  type: relations/money/creditor
+  item: companies/labadie-plc
+- 
+  type: relations/work/employer
+  item: companies/fisher-adams
+- 
+  type: relations/work/employer
+  item: companies/mertz-and-sons
+- 
+  type: relations/work/client
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

@@ -1,0 +1,64 @@
+Title: Eloisa Sporer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/miss-ena-metz-sr
+- 
+  type: relations/parental/mom
+  item: people/mrs-ettie-treutel-phd
+- 
+  type: relations/money/debtor
+  item: people/mr-adrien-bernhard
+- 
+  type: relations/money/debtor
+  item: people/delpha-rutherford-dds
+- 
+  type: relations/money/debtor
+  item: people/everardo-beer
+- 
+  type: relations/parental/dad
+  item: people/prof-taya-christiansen-dds
+- 
+  type: relations/work/employer
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/employer
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/work/employer
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

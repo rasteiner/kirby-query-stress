@@ -1,0 +1,64 @@
+Title: Patricia Dare
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-stephan-reynolds
+- 
+  type: relations/money/creditor
+  item: people/oleta-towne
+- 
+  type: relations/money/debtor
+  item: people/dalton-bahringer
+- 
+  type: relations/money/creditor
+  item: people/wilburn-hermann-v
+- 
+  type: relations/money/creditor
+  item: people/myrl-weber
+- 
+  type: relations/parental/dad
+  item: people/chad-wisoky-dds
+- 
+  type: relations/money/creditor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/work/client
+  item: companies/dicki-armstrong
+- 
+  type: relations/work/employer
+  item: companies/gibson-llc
+- 
+  type: relations/work/client
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

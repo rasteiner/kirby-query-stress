@@ -1,0 +1,64 @@
+Title: Daniella Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-candelario-lakin
+- 
+  type: relations/parental/mom
+  item: people/kirsten-sanford
+- 
+  type: relations/parental/mom
+  item: people/bradly-lind
+- 
+  type: relations/parental/colleague
+  item: people/sydnie-feil
+- 
+  type: relations/money/creditor
+  item: people/prof-marion-smitham-phd
+- 
+  type: relations/parental/friend
+  item: people/colleen-kilback-jr
+- 
+  type: relations/work/client
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Kamren Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/zella-hudson
+- 
+  type: relations/parental/friend
+  item: people/prof-hermann-hintz-dvm
+- 
+  type: relations/parental/dad
+  item: people/dr-rozella-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/destiny-o-hara
+- 
+  type: relations/money/creditor
+  item: people/dr-bennie-ziemann
+- 
+  type: relations/parental/friend
+  item: people/nyasia-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/creditor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/employer
+  item: companies/schmidt-gaylord
+- 
+  type: relations/work/employer
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

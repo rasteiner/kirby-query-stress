@@ -1,0 +1,64 @@
+Title: Hayden McGlynn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/una-bauch
+- 
+  type: relations/money/debtor
+  item: people/brando-sipes
+- 
+  type: relations/parental/dad
+  item: people/prof-giovanni-auer-sr
+- 
+  type: relations/money/debtor
+  item: people/eveline-hoeger-iii
+- 
+  type: relations/parental/mom
+  item: people/lulu-champlin
+- 
+  type: relations/money/creditor
+  item: people/trisha-hagenes
+- 
+  type: relations/money/creditor
+  item: companies/o-connell-inc
+- 
+  type: relations/work/client
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/money/debtor
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

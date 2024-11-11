@@ -1,0 +1,64 @@
+Title: Danika Jacobi
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-verner-towne-v
+- 
+  type: relations/parental/dad
+  item: people/dr-thaddeus-satterfield
+- 
+  type: relations/parental/brosis
+  item: people/mr-scottie-gorczany
+- 
+  type: relations/parental/dad
+  item: people/mr-tremayne-boehm
+- 
+  type: relations/money/creditor
+  item: people/tatum-crooks-ii
+- 
+  type: relations/parental/brosis
+  item: people/dr-imani-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/employer
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

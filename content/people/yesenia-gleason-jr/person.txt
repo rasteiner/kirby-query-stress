@@ -1,0 +1,64 @@
+Title: Yesenia Gleason Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/marjorie-rodriguez
+- 
+  type: relations/money/creditor
+  item: people/saul-langworth
+- 
+  type: relations/parental/friend
+  item: people/juwan-shields
+- 
+  type: relations/parental/dad
+  item: people/ms-ciara-lehner-iv
+- 
+  type: relations/parental/brosis
+  item: people/evie-fritsch
+- 
+  type: relations/parental/brosis
+  item: people/jammie-sawayn-ii
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/debtor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/money/debtor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

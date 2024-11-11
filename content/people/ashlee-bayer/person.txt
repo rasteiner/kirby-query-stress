@@ -1,0 +1,64 @@
+Title: Ashlee Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-jada-tremblay-jr
+- 
+  type: relations/money/debtor
+  item: people/shea-beahan-phd
+- 
+  type: relations/parental/colleague
+  item: people/mrs-laila-hyatt-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-giuseppe-zboncak
+- 
+  type: relations/parental/friend
+  item: people/tressa-reichel
+- 
+  type: relations/parental/brosis
+  item: people/rasheed-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-llc
+- 
+  type: relations/work/client
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

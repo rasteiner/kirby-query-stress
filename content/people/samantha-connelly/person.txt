@@ -1,0 +1,64 @@
+Title: Samantha Connelly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/clarissa-schulist
+- 
+  type: relations/parental/mom
+  item: people/stevie-jast
+- 
+  type: relations/parental/friend
+  item: people/dr-kacey-sanford-i
+- 
+  type: relations/parental/brosis
+  item: people/gideon-o-kon
+- 
+  type: relations/parental/friend
+  item: people/katelyn-greenholt
+- 
+  type: relations/money/creditor
+  item: people/dr-gregoria-strosin-dvm
+- 
+  type: relations/money/debtor
+  item: companies/simonis-inc
+- 
+  type: relations/money/creditor
+  item: companies/parisian-llc
+- 
+  type: relations/work/client
+  item: companies/murazik-mills
+- 
+  type: relations/work/client
+  item: companies/klein-ltd
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

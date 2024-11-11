@@ -1,0 +1,68 @@
+Title: Abelardo Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/nyasia-harris
+- 
+  type: relations/money/debtor
+  item: people/margarett-pfannerstill
+- 
+  type: relations/parental/dad
+  item: people/hildegard-larkin
+- 
+  type: relations/money/creditor
+  item: people/nikita-treutel-sr
+- 
+  type: relations/money/debtor
+  item: people/diamond-jerde-dds
+- 
+  type: relations/parental/mom
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/work/employer
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/king-plc
+- 
+  type: relations/money/creditor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview
+
+----
+
+Uuid: lkxyhxwnpkg1ymgt

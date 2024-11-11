@@ -1,0 +1,43 @@
+Title: Tromp, Bradtke and Batz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/creditor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg

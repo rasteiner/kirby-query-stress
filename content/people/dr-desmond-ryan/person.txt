@@ -1,0 +1,64 @@
+Title: Dr. Desmond Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gilda-grady-i
+- 
+  type: relations/parental/friend
+  item: people/kim-berge
+- 
+  type: relations/parental/brosis
+  item: people/keeley-ziemann
+- 
+  type: relations/parental/friend
+  item: people/mrs-glenda-davis-iii
+- 
+  type: relations/money/creditor
+  item: people/bernardo-dibbert
+- 
+  type: relations/parental/colleague
+  item: people/bobby-corwin
+- 
+  type: relations/money/debtor
+  item: companies/treutel-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-gottlieb
+- 
+  type: relations/work/client
+  item: companies/ferry-bayer
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

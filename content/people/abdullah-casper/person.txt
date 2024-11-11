@@ -1,0 +1,68 @@
+Title: Abdullah Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/libby-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/koby-rippin
+- 
+  type: relations/money/creditor
+  item: people/ophelia-schmitt
+- 
+  type: relations/money/debtor
+  item: people/marley-schinner
+- 
+  type: relations/money/debtor
+  item: people/alverta-heathcote-iii
+- 
+  type: relations/money/creditor
+  item: people/ali-monahan
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/employer
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/employer
+  item: companies/reichel-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo
+
+----
+
+Uuid: 3eokfj9mavcxwbci

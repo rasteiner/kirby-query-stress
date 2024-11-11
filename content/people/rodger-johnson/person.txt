@@ -1,0 +1,64 @@
+Title: Rodger Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ned-nolan
+- 
+  type: relations/money/creditor
+  item: people/rowena-gulgowski
+- 
+  type: relations/parental/dad
+  item: people/catherine-williamson
+- 
+  type: relations/parental/dad
+  item: people/dr-abe-reichel
+- 
+  type: relations/money/creditor
+  item: people/ms-kiana-champlin
+- 
+  type: relations/parental/friend
+  item: people/ona-roob
+- 
+  type: relations/money/creditor
+  item: companies/denesik-kuhic-and-kovacek
+- 
+  type: relations/work/employer
+  item: companies/durgan-baumbach
+- 
+  type: relations/money/debtor
+  item: companies/hudson-group
+- 
+  type: relations/work/employer
+  item: companies/satterfield-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

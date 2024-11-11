@@ -1,0 +1,64 @@
+Title: Dr. Rodrick Green
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mr-arlo-turner
+- 
+  type: relations/money/creditor
+  item: people/ms-sincere-kirlin-iv
+- 
+  type: relations/parental/mom
+  item: people/scotty-dubuque-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-guadalupe-goldner-i
+- 
+  type: relations/parental/brosis
+  item: people/virginie-jenkins
+- 
+  type: relations/money/creditor
+  item: people/quinten-ullrich
+- 
+  type: relations/work/employer
+  item: companies/kulas-and-sons
+- 
+  type: relations/work/client
+  item: companies/simonis-feil-and-stamm
+- 
+  type: relations/work/client
+  item: companies/legros-macejkovic-and-klein
+- 
+  type: relations/money/creditor
+  item: companies/hamill-tillman
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

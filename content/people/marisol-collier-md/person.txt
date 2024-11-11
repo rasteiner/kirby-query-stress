@@ -1,0 +1,64 @@
+Title: Marisol Collier MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/emelie-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/ottilie-wolf
+- 
+  type: relations/parental/mom
+  item: people/murl-wolf-ii
+- 
+  type: relations/parental/brosis
+  item: people/zackary-bode-dds
+- 
+  type: relations/money/debtor
+  item: people/mrs-thea-nader
+- 
+  type: relations/parental/mom
+  item: people/reese-kunze-dds
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/debtor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

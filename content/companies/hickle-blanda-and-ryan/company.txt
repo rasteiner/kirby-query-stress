@@ -1,0 +1,44 @@
+Title: Hickle, Blanda and Ryan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/creditor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/stromanstad

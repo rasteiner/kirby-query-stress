@@ -1,0 +1,64 @@
+Title: Brando Sipes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/xavier-quigley
+- 
+  type: relations/money/creditor
+  item: people/rollin-wisozk
+- 
+  type: relations/parental/dad
+  item: people/trey-crona
+- 
+  type: relations/money/debtor
+  item: people/sharon-boehm-phd
+- 
+  type: relations/money/creditor
+  item: people/melissa-thiel
+- 
+  type: relations/money/creditor
+  item: people/dr-garnet-runte-iii
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/work/employer
+  item: companies/morissette-jerde
+- 
+  type: relations/work/employer
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-group
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

@@ -1,0 +1,64 @@
+Title: Manuel Walker
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/sigmund-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/kenton-grimes-iv
+- 
+  type: relations/parental/mom
+  item: people/nash-smith
+- 
+  type: relations/parental/friend
+  item: people/wilton-powlowski
+- 
+  type: relations/parental/dad
+  item: people/wava-kuhic
+- 
+  type: relations/parental/mom
+  item: people/lavina-johnson
+- 
+  type: relations/work/client
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/work/employer
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

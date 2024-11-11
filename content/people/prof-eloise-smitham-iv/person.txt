@@ -1,0 +1,64 @@
+Title: Prof. Eloise Smitham IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lindsey-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/leonel-becker
+- 
+  type: relations/parental/brosis
+  item: people/zander-bashirian
+- 
+  type: relations/parental/friend
+  item: people/miss-chaya-armstrong
+- 
+  type: relations/money/debtor
+  item: people/selena-beahan
+- 
+  type: relations/parental/friend
+  item: people/madge-hessel
+- 
+  type: relations/work/client
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/client
+  item: companies/mills-wyman
+- 
+  type: relations/work/employer
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

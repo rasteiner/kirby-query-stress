@@ -1,0 +1,64 @@
+Title: Gisselle Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/johnson-brekke
+- 
+  type: relations/parental/colleague
+  item: people/miss-leda-gerhold
+- 
+  type: relations/parental/friend
+  item: people/dr-josefina-frami
+- 
+  type: relations/parental/colleague
+  item: people/leif-friesen-phd
+- 
+  type: relations/parental/colleague
+  item: people/dr-felix-keeling
+- 
+  type: relations/parental/dad
+  item: people/lafayette-treutel
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/employer
+  item: companies/romaguera-inc
+- 
+  type: relations/work/client
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

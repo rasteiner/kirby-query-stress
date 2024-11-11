@@ -1,0 +1,64 @@
+Title: Guillermo Koss III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/jeremie-wolff
+- 
+  type: relations/parental/brosis
+  item: people/pearlie-mann-jr
+- 
+  type: relations/parental/dad
+  item: people/gerald-rippin-md
+- 
+  type: relations/parental/mom
+  item: people/dr-reagan-buckridge-i
+- 
+  type: relations/money/creditor
+  item: people/dr-katheryn-legros
+- 
+  type: relations/parental/dad
+  item: people/prof-ernestine-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/schoen-reinger
+- 
+  type: relations/work/client
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

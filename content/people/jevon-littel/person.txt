@@ -1,0 +1,64 @@
+Title: Jevon Littel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sallie-hickle-dds
+- 
+  type: relations/parental/colleague
+  item: people/audie-berge-jr
+- 
+  type: relations/money/debtor
+  item: people/isabel-friesen
+- 
+  type: relations/money/creditor
+  item: people/graham-effertz
+- 
+  type: relations/parental/mom
+  item: people/maci-lang
+- 
+  type: relations/parental/dad
+  item: people/mr-myrl-schultz-md
+- 
+  type: relations/work/client
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/work/client
+  item: companies/davis-harber
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

@@ -1,0 +1,64 @@
+Title: Juwan Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/devin-boyle
+- 
+  type: relations/parental/mom
+  item: people/willy-runolfsson
+- 
+  type: relations/money/debtor
+  item: people/prof-ford-spinka
+- 
+  type: relations/parental/colleague
+  item: people/jarrell-hirthe
+- 
+  type: relations/money/creditor
+  item: people/hazle-blick
+- 
+  type: relations/parental/mom
+  item: people/esta-mcglynn-jr
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/work/employer
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/work/client
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

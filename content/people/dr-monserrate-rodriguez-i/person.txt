@@ -1,0 +1,64 @@
+Title: Dr. Monserrate Rodriguez I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-betsy-schneider
+- 
+  type: relations/parental/brosis
+  item: people/prof-steve-maggio
+- 
+  type: relations/parental/friend
+  item: people/louisa-kunde
+- 
+  type: relations/parental/colleague
+  item: people/mrs-marcia-borer-i
+- 
+  type: relations/parental/friend
+  item: people/adriel-dickinson
+- 
+  type: relations/parental/friend
+  item: people/ms-dariana-grant-iii
+- 
+  type: relations/money/debtor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/employer
+  item: companies/bogisich-cole
+- 
+  type: relations/work/client
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

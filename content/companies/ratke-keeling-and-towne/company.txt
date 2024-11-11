@@ -1,0 +1,44 @@
+Title: Ratke, Keeling and Towne
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/stanton-bashirian
+- 
+  type: relations/money/debtor
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/debtor
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/kunde-hirthe-and-kris
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/schneider-wolf-and-o-reilly
+- 
+  type: relations/money/debtor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/schowalterchester

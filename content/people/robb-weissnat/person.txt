@@ -1,0 +1,64 @@
+Title: Robb Weissnat
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/bella-heaney
+- 
+  type: relations/parental/friend
+  item: people/jake-bernhard-sr
+- 
+  type: relations/money/creditor
+  item: people/krista-lehner
+- 
+  type: relations/money/creditor
+  item: people/myriam-dickens
+- 
+  type: relations/parental/brosis
+  item: people/hazel-marvin
+- 
+  type: relations/parental/mom
+  item: people/randy-russel
+- 
+  type: relations/work/client
+  item: companies/grimes-inc
+- 
+  type: relations/work/employer
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/client
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

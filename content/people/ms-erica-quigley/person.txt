@@ -1,0 +1,64 @@
+Title: Ms. Erica Quigley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vernon-jacobi
+- 
+  type: relations/parental/friend
+  item: people/max-volkman
+- 
+  type: relations/parental/friend
+  item: people/ms-meredith-baumbach
+- 
+  type: relations/parental/mom
+  item: people/lonnie-runolfsson
+- 
+  type: relations/parental/dad
+  item: people/coty-rogahn
+- 
+  type: relations/parental/colleague
+  item: people/christine-hudson
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/mills-wyman
+- 
+  type: relations/work/employer
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/money/creditor
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

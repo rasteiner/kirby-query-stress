@@ -1,0 +1,64 @@
+Title: Ottilie Jakubowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-rosetta-boehm-phd
+- 
+  type: relations/parental/dad
+  item: people/sylvester-doyle
+- 
+  type: relations/money/creditor
+  item: people/salvador-bashirian
+- 
+  type: relations/parental/mom
+  item: people/craig-barrows-v
+- 
+  type: relations/parental/brosis
+  item: people/clifton-greenholt
+- 
+  type: relations/money/debtor
+  item: people/candelario-oberbrunner
+- 
+  type: relations/money/debtor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/employer
+  item: companies/ratke-fay
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

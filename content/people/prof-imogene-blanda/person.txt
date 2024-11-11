@@ -1,0 +1,64 @@
+Title: Prof. Imogene Blanda
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/selina-kuphal
+- 
+  type: relations/parental/colleague
+  item: people/dixie-harris
+- 
+  type: relations/money/creditor
+  item: people/ms-anne-price
+- 
+  type: relations/parental/colleague
+  item: people/aisha-goodwin-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-immanuel-bartell
+- 
+  type: relations/parental/dad
+  item: people/riley-lakin
+- 
+  type: relations/money/debtor
+  item: companies/mcclure-metz-and-altenwerth
+- 
+  type: relations/work/client
+  item: companies/sporer-llc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-ltd
+- 
+  type: relations/work/client
+  item: companies/breitenberg-group
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Gilda Stiedemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/cassidy-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/zelda-daniel
+- 
+  type: relations/money/debtor
+  item: people/bennett-schuster
+- 
+  type: relations/parental/friend
+  item: people/vinnie-fisher-sr
+- 
+  type: relations/parental/mom
+  item: people/mr-rhett-davis-sr
+- 
+  type: relations/parental/mom
+  item: people/bailey-raynor
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

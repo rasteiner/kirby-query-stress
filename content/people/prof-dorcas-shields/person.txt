@@ -1,0 +1,64 @@
+Title: Prof. Dorcas Shields
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/emelia-raynor
+- 
+  type: relations/parental/mom
+  item: people/anne-price
+- 
+  type: relations/money/debtor
+  item: people/erling-roberts
+- 
+  type: relations/parental/mom
+  item: people/jarvis-bauch
+- 
+  type: relations/money/creditor
+  item: people/prof-rae-gerlach
+- 
+  type: relations/parental/brosis
+  item: people/emanuel-o-conner
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/botsford-plc
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

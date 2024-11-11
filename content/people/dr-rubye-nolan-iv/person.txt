@@ -1,0 +1,64 @@
+Title: Dr. Rubye Nolan IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/fiona-morar-dvm
+- 
+  type: relations/parental/dad
+  item: people/teresa-witting
+- 
+  type: relations/money/debtor
+  item: people/dr-maxie-donnelly-i
+- 
+  type: relations/money/creditor
+  item: people/mr-fernando-collins
+- 
+  type: relations/parental/brosis
+  item: people/prof-destini-buckridge-iv
+- 
+  type: relations/parental/colleague
+  item: people/mr-oda-bruen-i
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/creditor
+  item: companies/king-schaefer
+- 
+  type: relations/work/employer
+  item: companies/volkman-group
+- 
+  type: relations/work/client
+  item: companies/skiles-lang
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

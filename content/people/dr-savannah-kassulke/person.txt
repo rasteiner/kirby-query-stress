@@ -1,0 +1,64 @@
+Title: Dr. Savannah Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-osbaldo-lesch-iv
+- 
+  type: relations/parental/mom
+  item: people/mrs-jakayla-romaguera-dds
+- 
+  type: relations/money/debtor
+  item: people/mr-fidel-walsh-i
+- 
+  type: relations/parental/dad
+  item: people/prof-cecilia-jast-dds
+- 
+  type: relations/parental/mom
+  item: people/prof-sarah-vandervort
+- 
+  type: relations/parental/mom
+  item: people/baron-ullrich
+- 
+  type: relations/work/employer
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

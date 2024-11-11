@@ -1,0 +1,64 @@
+Title: Mr. Maximo Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/aubree-oberbrunner
+- 
+  type: relations/parental/colleague
+  item: people/casimer-wehner
+- 
+  type: relations/money/creditor
+  item: people/prof-gus-cole
+- 
+  type: relations/parental/friend
+  item: people/prof-antwon-glover-dvm
+- 
+  type: relations/money/debtor
+  item: people/lina-nitzsche
+- 
+  type: relations/money/creditor
+  item: people/miss-ava-sporer
+- 
+  type: relations/work/client
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/client
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/creditor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/von-plc
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Ansel Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/justen-schoen
+- 
+  type: relations/money/debtor
+  item: people/darrick-huels
+- 
+  type: relations/parental/friend
+  item: people/annabell-bins-sr
+- 
+  type: relations/money/debtor
+  item: people/agustina-kohler
+- 
+  type: relations/parental/mom
+  item: people/tate-pagac
+- 
+  type: relations/parental/dad
+  item: people/prof-savanna-ankunding-sr
+- 
+  type: relations/work/employer
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/ferry-carter
+- 
+  type: relations/money/debtor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

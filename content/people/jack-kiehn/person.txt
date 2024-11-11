@@ -1,0 +1,64 @@
+Title: Jack Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-dawson-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/ofelia-vonrueden
+- 
+  type: relations/parental/brosis
+  item: people/mr-broderick-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/prof-rasheed-mraz-i
+- 
+  type: relations/parental/friend
+  item: people/prof-adrienne-wilderman
+- 
+  type: relations/parental/friend
+  item: people/dr-rossie-rohan-jr
+- 
+  type: relations/work/client
+  item: companies/hand-schuster
+- 
+  type: relations/work/employer
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

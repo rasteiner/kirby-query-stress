@@ -1,0 +1,64 @@
+Title: Tommie Jacobson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/sincere-bogan
+- 
+  type: relations/parental/dad
+  item: people/avery-rice
+- 
+  type: relations/parental/colleague
+  item: people/adaline-cruickshank
+- 
+  type: relations/parental/colleague
+  item: people/colleen-ziemann
+- 
+  type: relations/parental/mom
+  item: people/dr-jennyfer-wisozk-i
+- 
+  type: relations/parental/dad
+  item: people/hilma-hyatt
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/work/client
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/client
+  item: companies/bogan-llc
+- 
+  type: relations/work/client
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

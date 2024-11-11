@@ -1,0 +1,64 @@
+Title: Patience Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/lia-hettinger
+- 
+  type: relations/money/creditor
+  item: people/velda-maggio
+- 
+  type: relations/money/debtor
+  item: people/derek-sanford-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-mckenna-terry-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-solon-wisozk
+- 
+  type: relations/parental/brosis
+  item: people/tierra-beatty
+- 
+  type: relations/work/employer
+  item: companies/bogan-ltd
+- 
+  type: relations/work/employer
+  item: companies/mosciski-ondricka-and-cole
+- 
+  type: relations/money/debtor
+  item: companies/schmidt-llc
+- 
+  type: relations/work/client
+  item: companies/carroll-kassulke-and-jast
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

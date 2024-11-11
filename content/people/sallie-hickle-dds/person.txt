@@ -1,0 +1,64 @@
+Title: Sallie Hickle DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-ross-hagenes
+- 
+  type: relations/parental/colleague
+  item: people/joe-greenfelder
+- 
+  type: relations/parental/dad
+  item: people/prof-karelle-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-drew-lebsack-phd
+- 
+  type: relations/parental/dad
+  item: people/elva-kertzmann
+- 
+  type: relations/parental/mom
+  item: people/geo-boyer
+- 
+  type: relations/work/client
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/work/employer
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/employer
+  item: companies/ratke-fay
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-jast
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

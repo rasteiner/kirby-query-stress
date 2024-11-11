@@ -1,0 +1,65 @@
+Title: Colleen Bruen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/lauryn-schiller
+- 
+  type: relations/money/creditor
+  item: people/mr-dwight-mclaughlin
+- 
+  type: relations/parental/colleague
+  item: people/mr-darryl-heidenreich
+- 
+  type: relations/parental/dad
+  item: people/mellie-leuschke
+- 
+  type: relations/parental/dad
+  item: people/nat-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/celia-grant
+- 
+  type: relations/money/creditor
+  item: companies/runte-cremin
+- 
+  type: relations/money/debtor
+  item: companies/halvorson-bartell-and-walter
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/work/employer
+  item: companies/mills-hessel-and-mayer
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

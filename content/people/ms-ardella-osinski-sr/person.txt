@@ -1,0 +1,64 @@
+Title: Ms. Ardella Osinski Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kris-dibbert
+- 
+  type: relations/parental/mom
+  item: people/myriam-yost
+- 
+  type: relations/parental/friend
+  item: people/bill-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/dr-eric-quigley-iii
+- 
+  type: relations/money/debtor
+  item: people/ethyl-miller
+- 
+  type: relations/parental/dad
+  item: people/mose-mosciski
+- 
+  type: relations/work/client
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

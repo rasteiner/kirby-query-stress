@@ -1,0 +1,64 @@
+Title: Macey Sauer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/rogers-powlowski
+- 
+  type: relations/parental/friend
+  item: people/breanne-braun
+- 
+  type: relations/money/debtor
+  item: people/prof-alexandria-schaden
+- 
+  type: relations/money/debtor
+  item: people/myrtis-morar
+- 
+  type: relations/parental/brosis
+  item: people/vernon-jacobi
+- 
+  type: relations/parental/colleague
+  item: people/max-volkman
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/creditor
+  item: companies/beier-wiza-and-ward
+- 
+  type: relations/work/employer
+  item: companies/ratke-fay
+- 
+  type: relations/work/client
+  item: companies/cartwright-jast
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

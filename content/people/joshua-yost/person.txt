@@ -1,0 +1,64 @@
+Title: Joshua Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/hyman-koelpin
+- 
+  type: relations/parental/dad
+  item: people/prof-hortense-bergnaum-ii
+- 
+  type: relations/money/creditor
+  item: people/prof-mauricio-parisian
+- 
+  type: relations/parental/dad
+  item: people/odie-labadie
+- 
+  type: relations/parental/dad
+  item: people/mellie-volkman-iii
+- 
+  type: relations/parental/mom
+  item: people/mr-cloyd-kessler-i
+- 
+  type: relations/work/client
+  item: companies/kreiger-flatley-and-altenwerth
+- 
+  type: relations/money/creditor
+  item: companies/herzog-plc
+- 
+  type: relations/work/employer
+  item: companies/von-nicolas-and-cassin
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

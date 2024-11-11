@@ -1,0 +1,64 @@
+Title: Rosie Gleichner III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kaley-marquardt-iv
+- 
+  type: relations/money/creditor
+  item: people/rebekah-predovic
+- 
+  type: relations/money/creditor
+  item: people/deja-huel
+- 
+  type: relations/money/debtor
+  item: people/hailey-mohr
+- 
+  type: relations/parental/colleague
+  item: people/lelia-swaniawski
+- 
+  type: relations/money/creditor
+  item: people/rachelle-schamberger-md
+- 
+  type: relations/money/creditor
+  item: companies/thiel-howe
+- 
+  type: relations/work/employer
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/creditor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

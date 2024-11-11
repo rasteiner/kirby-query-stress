@@ -1,0 +1,64 @@
+Title: Jerry Streich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-brycen-anderson
+- 
+  type: relations/parental/mom
+  item: people/ignatius-mertz
+- 
+  type: relations/money/debtor
+  item: people/dorian-hegmann
+- 
+  type: relations/parental/colleague
+  item: people/charles-langworth-dvm
+- 
+  type: relations/parental/brosis
+  item: people/amelia-bergstrom
+- 
+  type: relations/money/debtor
+  item: people/margarita-mckenzie
+- 
+  type: relations/work/employer
+  item: companies/o-kon-plc
+- 
+  type: relations/money/debtor
+  item: companies/pfeffer-johnston-and-schultz
+- 
+  type: relations/money/debtor
+  item: companies/wolff-zulauf
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-mccullough
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

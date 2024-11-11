@@ -1,0 +1,64 @@
+Title: Marlee Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/keenan-collier
+- 
+  type: relations/parental/friend
+  item: people/omari-ledner
+- 
+  type: relations/money/creditor
+  item: people/prof-darwin-wisozk
+- 
+  type: relations/parental/mom
+  item: people/mrs-joana-olson-sr
+- 
+  type: relations/parental/mom
+  item: people/hilario-spinka-dds
+- 
+  type: relations/parental/brosis
+  item: people/rosamond-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Prof. Kamron Boyer DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/akeem-stoltenberg
+- 
+  type: relations/money/debtor
+  item: people/jana-huels
+- 
+  type: relations/parental/friend
+  item: people/nikolas-wunsch
+- 
+  type: relations/parental/mom
+  item: people/camille-raynor
+- 
+  type: relations/parental/mom
+  item: people/everette-boyle
+- 
+  type: relations/parental/mom
+  item: people/dr-hadley-volkman
+- 
+  type: relations/work/employer
+  item: companies/kuhic-plc
+- 
+  type: relations/work/client
+  item: companies/emmerich-gleason
+- 
+  type: relations/work/employer
+  item: companies/dubuque-yundt-and-champlin
+- 
+  type: relations/money/creditor
+  item: companies/ward-plc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

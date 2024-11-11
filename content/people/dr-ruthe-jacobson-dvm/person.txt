@@ -1,0 +1,64 @@
+Title: Dr. Ruthe Jacobson DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-arnold-heller
+- 
+  type: relations/parental/mom
+  item: people/saige-gutmann
+- 
+  type: relations/parental/friend
+  item: people/tod-crist
+- 
+  type: relations/parental/brosis
+  item: people/jess-dicki
+- 
+  type: relations/money/debtor
+  item: people/jeffery-brekke-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-sigurd-skiles-jr
+- 
+  type: relations/money/debtor
+  item: companies/beier-kub
+- 
+  type: relations/work/employer
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

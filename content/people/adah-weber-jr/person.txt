@@ -1,0 +1,64 @@
+Title: Adah Weber Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/hank-flatley
+- 
+  type: relations/money/debtor
+  item: people/zoe-torphy-phd
+- 
+  type: relations/parental/dad
+  item: people/eveline-grady
+- 
+  type: relations/parental/dad
+  item: people/gustave-watsica
+- 
+  type: relations/parental/mom
+  item: people/cruz-berge
+- 
+  type: relations/money/debtor
+  item: people/eloise-braun
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-mccullough-and-veum
+- 
+  type: relations/money/creditor
+  item: companies/ebert-inc
+- 
+  type: relations/money/debtor
+  item: companies/towne-stehr-and-considine
+- 
+  type: relations/work/client
+  item: companies/mosciski-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

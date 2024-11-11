@@ -1,0 +1,64 @@
+Title: Alanna Fahey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/breanne-mckenzie
+- 
+  type: relations/parental/mom
+  item: people/aileen-luettgen
+- 
+  type: relations/parental/mom
+  item: people/roosevelt-stehr-i
+- 
+  type: relations/parental/mom
+  item: people/amy-ernser
+- 
+  type: relations/money/creditor
+  item: people/nyasia-harris
+- 
+  type: relations/parental/brosis
+  item: people/margarett-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/work/employer
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

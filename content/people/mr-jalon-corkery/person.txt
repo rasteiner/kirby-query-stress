@@ -1,0 +1,64 @@
+Title: Mr. Jalon Corkery
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-priscilla-renner
+- 
+  type: relations/parental/brosis
+  item: people/mr-ottis-ondricka-jr
+- 
+  type: relations/parental/brosis
+  item: people/mr-werner-macejkovic
+- 
+  type: relations/money/creditor
+  item: people/dr-desmond-ryan
+- 
+  type: relations/parental/friend
+  item: people/ena-hayes
+- 
+  type: relations/parental/brosis
+  item: people/ryleigh-haley-i
+- 
+  type: relations/work/client
+  item: companies/white-gutmann
+- 
+  type: relations/money/creditor
+  item: companies/morissette-jerde
+- 
+  type: relations/work/client
+  item: companies/morar-bauch-and-schneider
+- 
+  type: relations/work/client
+  item: companies/bradtke-group
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

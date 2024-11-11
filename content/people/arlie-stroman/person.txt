@@ -1,0 +1,65 @@
+Title: Arlie Stroman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ms-nicolette-nicolas-iv
+- 
+  type: relations/money/creditor
+  item: people/reba-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/parental/friend
+  item: people/robb-parisian
+- 
+  type: relations/parental/mom
+  item: people/kennith-lebsack
+- 
+  type: relations/parental/brosis
+  item: people/leda-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/ratke-inc
+- 
+  type: relations/money/creditor
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/employer
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

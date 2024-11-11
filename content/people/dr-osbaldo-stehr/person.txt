@@ -1,0 +1,64 @@
+Title: Dr. Osbaldo Stehr
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/willow-ritchie
+- 
+  type: relations/money/creditor
+  item: people/thad-crist
+- 
+  type: relations/money/debtor
+  item: people/prof-carrie-rogahn
+- 
+  type: relations/parental/mom
+  item: people/josefa-sawayn
+- 
+  type: relations/parental/mom
+  item: people/mattie-ledner
+- 
+  type: relations/parental/friend
+  item: people/lauretta-o-keefe
+- 
+  type: relations/work/employer
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/client
+  item: companies/funk-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/work/client
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

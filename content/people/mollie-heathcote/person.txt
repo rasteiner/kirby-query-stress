@@ -1,0 +1,64 @@
+Title: Mollie Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jamil-kreiger
+- 
+  type: relations/parental/colleague
+  item: people/karlie-stiedemann
+- 
+  type: relations/parental/mom
+  item: people/mr-quinten-abbott-dvm
+- 
+  type: relations/parental/friend
+  item: people/beth-weber-i
+- 
+  type: relations/money/creditor
+  item: people/prof-milan-kuhlman-md
+- 
+  type: relations/money/debtor
+  item: people/kaci-lynch
+- 
+  type: relations/work/client
+  item: companies/gutmann-inc
+- 
+  type: relations/work/client
+  item: companies/murazik-thiel
+- 
+  type: relations/work/employer
+  item: companies/terry-spinka
+- 
+  type: relations/work/client
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

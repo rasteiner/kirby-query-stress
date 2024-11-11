@@ -1,0 +1,65 @@
+Title: Aida Heaney
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brennon-spinka
+- 
+  type: relations/parental/brosis
+  item: people/dr-colby-renner
+- 
+  type: relations/parental/dad
+  item: people/luis-pacocha
+- 
+  type: relations/money/creditor
+  item: people/prof-lonzo-beahan
+- 
+  type: relations/money/debtor
+  item: people/juston-streich
+- 
+  type: relations/parental/friend
+  item: people/melyssa-boyle
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/employer
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/work/employer
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

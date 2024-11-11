@@ -1,0 +1,64 @@
+Title: Dr. Karelle Kris I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-wilbert-hackett-iv
+- 
+  type: relations/parental/dad
+  item: people/marc-lowe
+- 
+  type: relations/parental/brosis
+  item: people/eulalia-skiles
+- 
+  type: relations/parental/friend
+  item: people/hayley-friesen
+- 
+  type: relations/parental/mom
+  item: people/dr-rubye-nolan-iv
+- 
+  type: relations/parental/brosis
+  item: people/prof-lea-wiegand
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-group
+- 
+  type: relations/work/client
+  item: companies/stokes-inc
+- 
+  type: relations/money/debtor
+  item: companies/kemmer-ltd
+- 
+  type: relations/work/employer
+  item: companies/funk-ward
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

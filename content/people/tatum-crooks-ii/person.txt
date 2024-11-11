@@ -1,0 +1,65 @@
+Title: Tatum Crooks II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/april-heidenreich
+- 
+  type: relations/parental/dad
+  item: people/dr-luisa-schuppe
+- 
+  type: relations/parental/mom
+  item: people/jevon-hintz-iii
+- 
+  type: relations/parental/mom
+  item: people/ivy-herzog-i
+- 
+  type: relations/money/creditor
+  item: people/mr-sonny-cummerata
+- 
+  type: relations/money/creditor
+  item: people/arlo-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/hirthe-rippin-and-rice
+- 
+  type: relations/work/client
+  item: >
+    companies/considine-stoltenberg-and-rutherford
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-haley-and-volkman
+- 
+  type: relations/work/employer
+  item: companies/crona-hamill
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

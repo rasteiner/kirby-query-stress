@@ -1,0 +1,64 @@
+Title: Rhett Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/julia-johnson
+- 
+  type: relations/parental/dad
+  item: people/bridgette-grant
+- 
+  type: relations/parental/dad
+  item: people/miss-darby-collins
+- 
+  type: relations/parental/brosis
+  item: people/davon-huels
+- 
+  type: relations/parental/mom
+  item: people/darlene-blick
+- 
+  type: relations/parental/brosis
+  item: people/deborah-crooks
+- 
+  type: relations/work/employer
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/keeling-denesik
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-ltd
+- 
+  type: relations/work/client
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

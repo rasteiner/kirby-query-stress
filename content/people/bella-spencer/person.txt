@@ -1,0 +1,65 @@
+Title: Bella Spencer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-keyon-herman-sr
+- 
+  type: relations/parental/dad
+  item: people/claudie-rohan
+- 
+  type: relations/money/debtor
+  item: people/willow-king
+- 
+  type: relations/parental/colleague
+  item: people/jarrett-walter
+- 
+  type: relations/money/creditor
+  item: people/madison-mraz-sr
+- 
+  type: relations/parental/friend
+  item: people/miss-clarabelle-ferry-iii
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/client
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

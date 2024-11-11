@@ -1,0 +1,65 @@
+Title: Ottilie Wolf
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/vernie-rolfson
+- 
+  type: relations/parental/brosis
+  item: people/rey-torphy-i
+- 
+  type: relations/parental/brosis
+  item: people/barrett-klocko
+- 
+  type: relations/money/creditor
+  item: people/mr-oswaldo-herzog-v
+- 
+  type: relations/parental/friend
+  item: people/hilbert-schumm
+- 
+  type: relations/parental/colleague
+  item: people/ashlynn-will
+- 
+  type: relations/work/employer
+  item: >
+    companies/weissnat-anderson-and-cartwright
+- 
+  type: relations/work/employer
+  item: companies/mohr-buckridge-and-emmerich
+- 
+  type: relations/work/client
+  item: companies/hahn-osinski-and-cruickshank
+- 
+  type: relations/work/employer
+  item: companies/marvin-lebsack
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

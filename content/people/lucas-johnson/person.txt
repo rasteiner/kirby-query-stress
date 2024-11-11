@@ -1,0 +1,64 @@
+Title: Lucas Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-nickolas-d-amore
+- 
+  type: relations/money/creditor
+  item: people/alex-kautzer
+- 
+  type: relations/parental/colleague
+  item: people/mrs-chanelle-thompson-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-nova-toy-dds
+- 
+  type: relations/parental/friend
+  item: people/rodrigo-lockman-iv
+- 
+  type: relations/money/debtor
+  item: people/obie-o-keefe
+- 
+  type: relations/money/debtor
+  item: companies/cummings-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/work/employer
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,65 @@
+Title: Lucius Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kelly-morissette
+- 
+  type: relations/parental/friend
+  item: people/linnea-price
+- 
+  type: relations/money/creditor
+  item: people/hillary-ratke
+- 
+  type: relations/money/debtor
+  item: people/stephan-heathcote
+- 
+  type: relations/money/creditor
+  item: people/dolly-hermiston
+- 
+  type: relations/parental/brosis
+  item: people/rafael-kuvalis-phd
+- 
+  type: relations/work/client
+  item: companies/swaniawski-price-and-schumm
+- 
+  type: relations/money/debtor
+  item: companies/rippin-sauer
+- 
+  type: relations/money/debtor
+  item: companies/haley-inc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Cleora Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/rocky-reichel-i
+- 
+  type: relations/money/debtor
+  item: people/betty-kertzmann
+- 
+  type: relations/parental/brosis
+  item: people/cristal-wunsch
+- 
+  type: relations/parental/dad
+  item: people/breanna-satterfield
+- 
+  type: relations/money/debtor
+  item: people/vilma-jacobs
+- 
+  type: relations/parental/mom
+  item: people/missouri-stroman
+- 
+  type: relations/work/employer
+  item: companies/sporer-will
+- 
+  type: relations/money/debtor
+  item: companies/kling-ltd
+- 
+  type: relations/money/creditor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

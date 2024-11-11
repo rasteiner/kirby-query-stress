@@ -1,0 +1,64 @@
+Title: Mrs. Bernice Kuphal
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/terrance-prohaska-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-leola-ferry-phd
+- 
+  type: relations/parental/mom
+  item: people/natasha-schimmel-jr
+- 
+  type: relations/parental/friend
+  item: people/ambrose-cruickshank
+- 
+  type: relations/parental/mom
+  item: people/miss-cheyenne-leannon
+- 
+  type: relations/parental/colleague
+  item: people/bernadine-sauer
+- 
+  type: relations/money/creditor
+  item: companies/bode-reinger
+- 
+  type: relations/money/creditor
+  item: companies/frami-group
+- 
+  type: relations/work/employer
+  item: companies/jenkins-group
+- 
+  type: relations/work/employer
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

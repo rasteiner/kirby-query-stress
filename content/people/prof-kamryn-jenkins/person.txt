@@ -1,0 +1,64 @@
+Title: Prof. Kamryn Jenkins
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-carli-senger
+- 
+  type: relations/parental/brosis
+  item: people/jada-senger
+- 
+  type: relations/parental/brosis
+  item: people/marcelle-wilderman
+- 
+  type: relations/parental/mom
+  item: people/prof-anne-jones-iii
+- 
+  type: relations/parental/mom
+  item: people/raphael-nader-sr
+- 
+  type: relations/parental/colleague
+  item: people/omer-rohan-md
+- 
+  type: relations/work/employer
+  item: companies/langosh-maggio
+- 
+  type: relations/work/client
+  item: companies/berge-waters
+- 
+  type: relations/money/debtor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/debtor
+  item: companies/ward-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

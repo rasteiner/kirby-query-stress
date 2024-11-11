@@ -1,0 +1,64 @@
+Title: Arthur Hermann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mrs-jena-rowe
+- 
+  type: relations/money/debtor
+  item: people/karelle-bayer
+- 
+  type: relations/money/creditor
+  item: people/ms-aisha-nader
+- 
+  type: relations/parental/brosis
+  item: people/danika-veum
+- 
+  type: relations/parental/brosis
+  item: people/odie-champlin
+- 
+  type: relations/parental/mom
+  item: people/ms-clementina-terry-iii
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-ltd
+- 
+  type: relations/money/debtor
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

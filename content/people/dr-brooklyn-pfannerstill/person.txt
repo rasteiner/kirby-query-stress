@@ -1,0 +1,64 @@
+Title: Dr. Brooklyn Pfannerstill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/scarlett-oberbrunner
+- 
+  type: relations/parental/mom
+  item: people/mr-rhett-buckridge
+- 
+  type: relations/parental/mom
+  item: people/deshaun-harris
+- 
+  type: relations/money/creditor
+  item: people/prof-milan-rau
+- 
+  type: relations/parental/colleague
+  item: people/edna-sawayn-iii
+- 
+  type: relations/money/debtor
+  item: people/ludwig-bailey
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/debtor
+  item: companies/blanda-bartell
+- 
+  type: relations/work/employer
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

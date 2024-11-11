@@ -1,0 +1,64 @@
+Title: Mr. Bret Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/jeanie-greenholt
+- 
+  type: relations/parental/friend
+  item: people/brittany-harber-sr
+- 
+  type: relations/parental/colleague
+  item: people/prof-benny-hermann-sr
+- 
+  type: relations/money/debtor
+  item: people/prof-haskell-o-connell-iv
+- 
+  type: relations/parental/mom
+  item: people/miss-kattie-cummings-iv
+- 
+  type: relations/money/creditor
+  item: people/dr-bernice-purdy-iii
+- 
+  type: relations/money/creditor
+  item: companies/huel-kling-and-glover
+- 
+  type: relations/money/debtor
+  item: companies/steuber-sawayn-and-hoppe
+- 
+  type: relations/work/employer
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/johnson-koss-and-lockman
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

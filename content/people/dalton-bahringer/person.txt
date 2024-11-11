@@ -1,0 +1,64 @@
+Title: Dalton Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/marlin-wisozk
+- 
+  type: relations/parental/dad
+  item: people/name-keeling
+- 
+  type: relations/parental/mom
+  item: people/karen-zboncak
+- 
+  type: relations/parental/dad
+  item: people/makayla-heaney
+- 
+  type: relations/parental/colleague
+  item: people/mrs-hertha-king-v
+- 
+  type: relations/money/creditor
+  item: people/sandrine-toy
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/work/client
+  item: companies/goldner-jacobi
+- 
+  type: relations/work/employer
+  item: companies/koelpin-group
+- 
+  type: relations/work/client
+  item: companies/spencer-block-and-weissnat
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

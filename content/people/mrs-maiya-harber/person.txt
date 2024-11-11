@@ -1,0 +1,64 @@
+Title: Mrs. Maiya Harber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/ms-sally-will-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-hillard-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/prof-milan-lubowitz
+- 
+  type: relations/parental/dad
+  item: people/dr-victor-gottlieb
+- 
+  type: relations/parental/mom
+  item: people/prof-kory-rogahn-i
+- 
+  type: relations/parental/brosis
+  item: people/esta-koss
+- 
+  type: relations/work/client
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/debtor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

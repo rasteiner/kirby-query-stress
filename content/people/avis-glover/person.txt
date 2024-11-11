@@ -1,0 +1,64 @@
+Title: Avis Glover
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bobbie-stracke
+- 
+  type: relations/parental/friend
+  item: people/wilhelm-stehr
+- 
+  type: relations/parental/brosis
+  item: people/dr-jared-willms-sr
+- 
+  type: relations/money/creditor
+  item: people/maximo-considine
+- 
+  type: relations/parental/colleague
+  item: people/vern-wunsch
+- 
+  type: relations/parental/brosis
+  item: people/timmy-kihn
+- 
+  type: relations/money/debtor
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/client
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/client
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

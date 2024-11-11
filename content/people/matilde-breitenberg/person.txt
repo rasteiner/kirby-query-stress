@@ -1,0 +1,64 @@
+Title: Matilde Breitenberg
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-abe-powlowski
+- 
+  type: relations/parental/mom
+  item: people/elton-murray
+- 
+  type: relations/parental/mom
+  item: people/rylan-wuckert
+- 
+  type: relations/parental/mom
+  item: people/enrico-heaney
+- 
+  type: relations/money/creditor
+  item: people/kailee-prohaska
+- 
+  type: relations/parental/friend
+  item: people/demond-kuhlman
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Jarrod Bahringer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/chauncey-marquardt
+- 
+  type: relations/money/creditor
+  item: people/keith-dickinson-ii
+- 
+  type: relations/parental/colleague
+  item: people/jamaal-franecki
+- 
+  type: relations/parental/colleague
+  item: people/trisha-schaden-iii
+- 
+  type: relations/parental/mom
+  item: people/annetta-metz
+- 
+  type: relations/parental/mom
+  item: people/lela-leffler
+- 
+  type: relations/money/debtor
+  item: companies/littel-schroeder-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/ferry-carter
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rippin-o-conner
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Gerard Johns
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/micaela-haley
+- 
+  type: relations/parental/colleague
+  item: people/joshua-yost
+- 
+  type: relations/parental/brosis
+  item: people/al-eichmann
+- 
+  type: relations/parental/mom
+  item: people/gabrielle-gislason
+- 
+  type: relations/parental/mom
+  item: people/alanna-leuschke
+- 
+  type: relations/parental/mom
+  item: people/mr-austin-stark-phd
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/money/creditor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/work/client
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

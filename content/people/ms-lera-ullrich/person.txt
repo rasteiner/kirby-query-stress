@@ -1,0 +1,64 @@
+Title: Ms. Lera Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-ricky-ankunding-dvm
+- 
+  type: relations/money/debtor
+  item: people/vanessa-skiles
+- 
+  type: relations/money/debtor
+  item: people/sydney-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/maya-lind
+- 
+  type: relations/parental/dad
+  item: people/carmine-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/alene-green
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/debtor
+  item: companies/boehm-group
+- 
+  type: relations/money/debtor
+  item: companies/ortiz-inc
+- 
+  type: relations/money/debtor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

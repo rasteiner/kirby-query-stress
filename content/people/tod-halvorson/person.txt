@@ -1,0 +1,64 @@
+Title: Tod Halvorson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/nico-kilback-iv
+- 
+  type: relations/money/debtor
+  item: people/mr-cruz-reichel
+- 
+  type: relations/money/debtor
+  item: people/marie-murazik
+- 
+  type: relations/parental/colleague
+  item: people/miss-aditya-reichert
+- 
+  type: relations/parental/mom
+  item: people/elinore-conroy
+- 
+  type: relations/parental/friend
+  item: people/mrs-jada-adams-dds
+- 
+  type: relations/work/client
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/funk-group
+- 
+  type: relations/work/employer
+  item: companies/funk-inc
+- 
+  type: relations/money/creditor
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

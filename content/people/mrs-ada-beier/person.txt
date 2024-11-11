@@ -1,0 +1,64 @@
+Title: Mrs. Ada Beier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-lizeth-senger-dvm
+- 
+  type: relations/parental/mom
+  item: people/german-baumbach-ii
+- 
+  type: relations/parental/brosis
+  item: people/cruz-marks-iv
+- 
+  type: relations/parental/mom
+  item: people/beatrice-lockman
+- 
+  type: relations/parental/dad
+  item: people/scarlett-mccullough
+- 
+  type: relations/money/debtor
+  item: people/mr-tyler-hintz-dds
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/creditor
+  item: companies/kris-inc
+- 
+  type: relations/money/creditor
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

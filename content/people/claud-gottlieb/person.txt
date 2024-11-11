@@ -1,0 +1,64 @@
+Title: Claud Gottlieb
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/neha-predovic
+- 
+  type: relations/money/creditor
+  item: people/katelyn-johnston
+- 
+  type: relations/money/debtor
+  item: people/dr-milton-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/ricky-abernathy
+- 
+  type: relations/parental/brosis
+  item: people/dr-bryce-mante
+- 
+  type: relations/parental/friend
+  item: people/prof-euna-powlowski-ii
+- 
+  type: relations/work/employer
+  item: companies/rogahn-ltd
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/client
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Dr. Ryleigh Rice DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/ignatius-kreiger
+- 
+  type: relations/parental/dad
+  item: people/dr-benton-fay
+- 
+  type: relations/parental/friend
+  item: people/prof-terrell-borer-ii
+- 
+  type: relations/parental/mom
+  item: people/mrs-lurline-volkman-i
+- 
+  type: relations/parental/dad
+  item: people/lucinda-roberts
+- 
+  type: relations/parental/colleague
+  item: people/jasen-abernathy-jr
+- 
+  type: relations/work/employer
+  item: companies/doyle-murphy
+- 
+  type: relations/money/debtor
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/debtor
+  item: companies/koss-adams
+- 
+  type: relations/work/employer
+  item: companies/corwin-zieme
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

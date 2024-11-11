@@ -1,0 +1,64 @@
+Title: Jarrett Walter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/myrtle-hermann
+- 
+  type: relations/parental/brosis
+  item: people/mr-harold-zieme
+- 
+  type: relations/parental/friend
+  item: people/leone-conn-phd
+- 
+  type: relations/parental/mom
+  item: people/destiney-schamberger
+- 
+  type: relations/money/debtor
+  item: people/loyal-block
+- 
+  type: relations/money/creditor
+  item: people/adolph-lockman
+- 
+  type: relations/money/debtor
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/client
+  item: companies/hoppe-llc
+- 
+  type: relations/work/client
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/work/client
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

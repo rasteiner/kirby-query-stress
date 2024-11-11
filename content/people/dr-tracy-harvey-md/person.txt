@@ -1,0 +1,64 @@
+Title: Dr. Tracy Harvey MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/shaina-lockman
+- 
+  type: relations/parental/friend
+  item: people/claudine-kautzer-dds
+- 
+  type: relations/parental/friend
+  item: people/enos-veum
+- 
+  type: relations/parental/colleague
+  item: people/miss-karen-bode-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-blanche-heller-phd
+- 
+  type: relations/money/debtor
+  item: people/terrill-carter
+- 
+  type: relations/money/creditor
+  item: companies/tromp-rutherford
+- 
+  type: relations/money/debtor
+  item: companies/moore-llc
+- 
+  type: relations/money/debtor
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

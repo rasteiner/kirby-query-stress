@@ -1,0 +1,64 @@
+Title: Ms. Julia Kunde III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/amely-smith-jr
+- 
+  type: relations/parental/friend
+  item: people/evangeline-flatley
+- 
+  type: relations/parental/mom
+  item: people/josianne-grady-iii
+- 
+  type: relations/parental/friend
+  item: people/selina-pouros
+- 
+  type: relations/parental/mom
+  item: people/malvina-hermiston-i
+- 
+  type: relations/money/debtor
+  item: people/lina-waters
+- 
+  type: relations/money/creditor
+  item: companies/jacobs-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kris-ltd
+- 
+  type: relations/money/debtor
+  item: companies/konopelski-cassin
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-lowe
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

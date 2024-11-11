@@ -1,0 +1,64 @@
+Title: Garnett Luettgen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-viva-bruen-dvm
+- 
+  type: relations/parental/colleague
+  item: people/nola-labadie-dvm
+- 
+  type: relations/parental/mom
+  item: people/leatha-watsica
+- 
+  type: relations/parental/brosis
+  item: people/pascale-mertz
+- 
+  type: relations/parental/dad
+  item: people/prof-jett-lakin-dvm
+- 
+  type: relations/parental/friend
+  item: people/chelsie-o-reilly
+- 
+  type: relations/work/employer
+  item: companies/hahn-mcclure-and-dicki
+- 
+  type: relations/money/debtor
+  item: companies/kunze-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wilkinson-beahan
+- 
+  type: relations/work/employer
+  item: companies/heaney-plc
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

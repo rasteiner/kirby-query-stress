@@ -1,0 +1,64 @@
+Title: Prof. Devonte Feest
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-glen-hoppe-dvm
+- 
+  type: relations/money/debtor
+  item: people/ms-glenna-raynor-dds
+- 
+  type: relations/parental/brosis
+  item: people/angelo-strosin
+- 
+  type: relations/parental/colleague
+  item: people/arno-fisher
+- 
+  type: relations/parental/dad
+  item: people/miss-cortney-schultz
+- 
+  type: relations/parental/brosis
+  item: people/cristal-hackett
+- 
+  type: relations/work/employer
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/employer
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

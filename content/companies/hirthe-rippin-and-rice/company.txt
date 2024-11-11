@@ -1,0 +1,43 @@
+Title: Hirthe, Rippin and Rice
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/huels-morissette-and-little
+- 
+  type: relations/money/creditor
+  item: companies/becker-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/money/creditor
+  item: companies/krajcik-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/debtor
+  item: companies/koepp-christiansen-and-simonis
+- 
+  type: relations/money/debtor
+  item: companies/grimes-boyer
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/west-carolina

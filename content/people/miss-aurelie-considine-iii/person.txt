@@ -1,0 +1,64 @@
+Title: Miss Aurelie Considine III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-violette-lehner-jr
+- 
+  type: relations/parental/colleague
+  item: people/nedra-marvin
+- 
+  type: relations/parental/dad
+  item: people/prof-morgan-heaney-i
+- 
+  type: relations/parental/dad
+  item: people/fanny-rice
+- 
+  type: relations/parental/dad
+  item: people/dudley-white
+- 
+  type: relations/money/creditor
+  item: people/miss-sierra-champlin
+- 
+  type: relations/money/debtor
+  item: companies/feest-ltd
+- 
+  type: relations/money/creditor
+  item: companies/dooley-walter
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/visited
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

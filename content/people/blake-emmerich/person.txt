@@ -1,0 +1,64 @@
+Title: Blake Emmerich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/chauncey-littel
+- 
+  type: relations/money/creditor
+  item: people/yoshiko-o-reilly
+- 
+  type: relations/parental/mom
+  item: people/marlene-harvey
+- 
+  type: relations/parental/dad
+  item: people/santiago-bradtke
+- 
+  type: relations/parental/dad
+  item: people/franz-koelpin
+- 
+  type: relations/money/debtor
+  item: people/gillian-russel
+- 
+  type: relations/work/employer
+  item: companies/gerlach-group
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/schoen-reinger
+- 
+  type: relations/work/employer
+  item: companies/dooley-llc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

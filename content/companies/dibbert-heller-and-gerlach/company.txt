@@ -1,0 +1,43 @@
+Title: Dibbert, Heller and Gerlach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/south-emieville

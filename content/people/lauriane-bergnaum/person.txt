@@ -1,0 +1,64 @@
+Title: Lauriane Bergnaum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/cassie-krajcik
+- 
+  type: relations/parental/friend
+  item: people/alexander-goldner
+- 
+  type: relations/parental/dad
+  item: people/mrs-thora-beahan
+- 
+  type: relations/money/creditor
+  item: people/otho-ruecker
+- 
+  type: relations/money/debtor
+  item: people/alford-osinski
+- 
+  type: relations/parental/mom
+  item: people/kira-considine
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-group
+- 
+  type: relations/work/client
+  item: companies/weber-ratke-and-hane
+- 
+  type: relations/money/creditor
+  item: companies/beier-pouros-and-reilly
+- 
+  type: relations/money/creditor
+  item: companies/heidenreich-ltd
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

@@ -1,0 +1,64 @@
+Title: Ezequiel Kozey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-roslyn-eichmann-v
+- 
+  type: relations/parental/mom
+  item: people/lorenzo-mertz
+- 
+  type: relations/parental/friend
+  item: people/mrs-bert-bauch-iv
+- 
+  type: relations/parental/mom
+  item: people/mr-jimmy-schmitt
+- 
+  type: relations/parental/friend
+  item: people/lempi-fay
+- 
+  type: relations/parental/friend
+  item: people/prof-jocelyn-green
+- 
+  type: relations/money/debtor
+  item: companies/veum-lehner-and-turcotte
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-group
+- 
+  type: relations/money/debtor
+  item: companies/windler-plc
+- 
+  type: relations/money/debtor
+  item: companies/block-inc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

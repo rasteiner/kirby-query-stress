@@ -1,0 +1,64 @@
+Title: Marina Lowe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-anibal-schimmel-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-guido-thompson
+- 
+  type: relations/parental/dad
+  item: people/danny-luettgen
+- 
+  type: relations/parental/colleague
+  item: people/miss-grace-durgan
+- 
+  type: relations/parental/mom
+  item: people/mr-nathanael-douglas-sr
+- 
+  type: relations/money/creditor
+  item: people/eriberto-rippin
+- 
+  type: relations/work/client
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/work/client
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

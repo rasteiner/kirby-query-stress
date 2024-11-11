@@ -1,0 +1,64 @@
+Title: Esta Toy DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-daisy-sanford-dvm
+- 
+  type: relations/money/debtor
+  item: people/noemie-rempel
+- 
+  type: relations/parental/colleague
+  item: people/prof-skylar-shields
+- 
+  type: relations/parental/dad
+  item: people/dr-laron-hilll
+- 
+  type: relations/parental/dad
+  item: people/una-bauch
+- 
+  type: relations/money/creditor
+  item: people/brando-sipes
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-llc
+- 
+  type: relations/work/employer
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/money/creditor
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

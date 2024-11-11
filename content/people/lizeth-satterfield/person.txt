@@ -1,0 +1,64 @@
+Title: Lizeth Satterfield
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-mariana-braun-dvm
+- 
+  type: relations/money/debtor
+  item: people/isobel-west
+- 
+  type: relations/parental/colleague
+  item: people/greg-gleason
+- 
+  type: relations/parental/colleague
+  item: people/delaney-kulas
+- 
+  type: relations/money/debtor
+  item: people/riley-wiza
+- 
+  type: relations/money/debtor
+  item: people/jerome-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/client
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

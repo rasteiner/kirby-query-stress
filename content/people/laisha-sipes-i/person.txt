@@ -1,0 +1,64 @@
+Title: Laisha Sipes I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-citlalli-wyman-i
+- 
+  type: relations/parental/colleague
+  item: people/mr-louie-rath-i
+- 
+  type: relations/parental/brosis
+  item: people/johathan-kunde
+- 
+  type: relations/parental/brosis
+  item: people/sven-ortiz
+- 
+  type: relations/parental/brosis
+  item: people/hattie-hilpert
+- 
+  type: relations/money/debtor
+  item: people/prof-clarabelle-gutkowski
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/employer
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/client
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

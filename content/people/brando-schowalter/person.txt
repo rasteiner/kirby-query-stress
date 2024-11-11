@@ -1,0 +1,64 @@
+Title: Brando Schowalter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-urban-champlin
+- 
+  type: relations/parental/mom
+  item: people/cheyanne-kreiger
+- 
+  type: relations/parental/brosis
+  item: people/prof-joesph-hilll-md
+- 
+  type: relations/money/debtor
+  item: people/kali-botsford-dds
+- 
+  type: relations/parental/friend
+  item: people/astrid-bechtelar
+- 
+  type: relations/parental/mom
+  item: people/prof-alena-cormier-i
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/client
+  item: companies/funk-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-inc
+- 
+  type: relations/work/client
+  item: companies/sporer-sanford
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

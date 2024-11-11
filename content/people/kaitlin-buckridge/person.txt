@@ -1,0 +1,64 @@
+Title: Kaitlin Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-ernestine-schaden
+- 
+  type: relations/money/creditor
+  item: people/gabrielle-reichert
+- 
+  type: relations/parental/dad
+  item: people/sheridan-lesch
+- 
+  type: relations/parental/mom
+  item: people/clinton-lehner
+- 
+  type: relations/parental/friend
+  item: people/howell-sawayn
+- 
+  type: relations/parental/friend
+  item: people/enid-blick
+- 
+  type: relations/work/employer
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kozey-group
+- 
+  type: relations/money/creditor
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

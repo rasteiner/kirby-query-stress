@@ -1,0 +1,64 @@
+Title: Mrs. Gia Connelly I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-kory-rogahn-i
+- 
+  type: relations/parental/friend
+  item: people/esta-koss
+- 
+  type: relations/parental/dad
+  item: people/edmond-cremin
+- 
+  type: relations/parental/brosis
+  item: people/geovanny-bergnaum
+- 
+  type: relations/money/creditor
+  item: people/alanis-stamm-iv
+- 
+  type: relations/parental/colleague
+  item: people/prof-isaac-rohan-v
+- 
+  type: relations/money/debtor
+  item: companies/abbott-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-medhurst-and-kemmer
+- 
+  type: relations/money/debtor
+  item: companies/cassin-powlowski-and-herzog
+- 
+  type: relations/work/employer
+  item: companies/schmitt-plc
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

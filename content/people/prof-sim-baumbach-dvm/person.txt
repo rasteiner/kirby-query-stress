@@ -1,0 +1,64 @@
+Title: Prof. Sim Baumbach DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/watson-schuster-sr
+- 
+  type: relations/parental/mom
+  item: people/lavinia-hand
+- 
+  type: relations/money/debtor
+  item: people/mr-brayan-beier
+- 
+  type: relations/parental/friend
+  item: people/dr-chester-cronin
+- 
+  type: relations/parental/dad
+  item: people/mr-lowell-medhurst
+- 
+  type: relations/parental/mom
+  item: people/kirsten-bauch
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

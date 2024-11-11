@@ -1,0 +1,64 @@
+Title: Saige O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/velda-emard
+- 
+  type: relations/parental/friend
+  item: people/frida-purdy
+- 
+  type: relations/money/debtor
+  item: people/mr-keshaun-d-amore
+- 
+  type: relations/parental/colleague
+  item: people/ms-fatima-west-v
+- 
+  type: relations/parental/dad
+  item: people/mrs-madge-heaney-sr
+- 
+  type: relations/parental/mom
+  item: people/arlene-nikolaus
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/welch-kreiger
+- 
+  type: relations/money/creditor
+  item: companies/nader-mcclure
+- 
+  type: relations/money/debtor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

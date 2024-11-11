@@ -1,0 +1,43 @@
+Title: Durgan, Russel and Kunze
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/carter-daniel
+- 
+  type: relations/money/debtor
+  item: companies/renner-erdman-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-group
+- 
+  type: relations/money/creditor
+  item: companies/hills-inc
+- 
+  type: relations/money/debtor
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/money/creditor
+  item: companies/langosh-maggio
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-group
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/lennyton
+- 
+  type: relations/location/residence
+  item: places/west-armandborough

@@ -1,0 +1,64 @@
+Title: Wilburn Weber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-efrain-kunze-sr
+- 
+  type: relations/money/creditor
+  item: people/leatha-russel-ii
+- 
+  type: relations/money/creditor
+  item: people/deonte-borer-md
+- 
+  type: relations/parental/mom
+  item: people/dr-dereck-padberg
+- 
+  type: relations/parental/colleague
+  item: people/nannie-moore
+- 
+  type: relations/parental/colleague
+  item: people/prof-travon-hegmann
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/debtor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/money/creditor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

@@ -1,0 +1,64 @@
+Title: Armani Lockman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/fausto-schultz
+- 
+  type: relations/parental/brosis
+  item: people/camden-bailey-dds
+- 
+  type: relations/parental/dad
+  item: people/mr-gonzalo-mcglynn-i
+- 
+  type: relations/parental/brosis
+  item: people/ottilie-nienow
+- 
+  type: relations/parental/friend
+  item: people/prof-alfreda-reynolds
+- 
+  type: relations/parental/mom
+  item: people/mara-johnson-dds
+- 
+  type: relations/work/employer
+  item: companies/gislason-brekke-and-kunde
+- 
+  type: relations/work/client
+  item: companies/bogisich-watsica-and-hermann
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/johns-turcotte
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

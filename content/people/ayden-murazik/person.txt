@@ -1,0 +1,64 @@
+Title: Ayden Murazik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/donato-pagac
+- 
+  type: relations/parental/colleague
+  item: people/miss-noemy-wunsch-iii
+- 
+  type: relations/parental/friend
+  item: people/oda-legros
+- 
+  type: relations/parental/dad
+  item: people/trinity-buckridge-jr
+- 
+  type: relations/parental/mom
+  item: people/antwon-marks-dds
+- 
+  type: relations/money/creditor
+  item: people/edwina-mayer-i
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

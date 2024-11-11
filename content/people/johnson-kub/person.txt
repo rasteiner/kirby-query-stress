@@ -1,0 +1,64 @@
+Title: Johnson Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alba-gaylord
+- 
+  type: relations/parental/friend
+  item: people/noemy-bode
+- 
+  type: relations/money/debtor
+  item: people/prof-easter-keeling
+- 
+  type: relations/parental/friend
+  item: people/foster-wilderman
+- 
+  type: relations/parental/mom
+  item: people/bobbie-stracke
+- 
+  type: relations/money/creditor
+  item: people/wilhelm-stehr
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/work/client
+  item: companies/hickle-plc
+- 
+  type: relations/work/employer
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

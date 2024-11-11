@@ -1,0 +1,64 @@
+Title: Gregoria Carroll
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/joe-considine-dvm
+- 
+  type: relations/parental/mom
+  item: people/dr-roberto-weber
+- 
+  type: relations/parental/dad
+  item: people/anastacio-walsh
+- 
+  type: relations/parental/brosis
+  item: people/mia-quigley
+- 
+  type: relations/parental/mom
+  item: people/emmalee-kautzer
+- 
+  type: relations/money/debtor
+  item: people/deja-cole
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/work/employer
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Dr. Monica Bednar V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jaquan-abbott
+- 
+  type: relations/money/creditor
+  item: people/sheldon-gutkowski
+- 
+  type: relations/parental/colleague
+  item: people/cassandre-treutel
+- 
+  type: relations/money/debtor
+  item: people/mrs-anjali-jerde-jr
+- 
+  type: relations/parental/dad
+  item: people/mohamed-blanda
+- 
+  type: relations/parental/colleague
+  item: people/kara-herzog
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/debtor
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

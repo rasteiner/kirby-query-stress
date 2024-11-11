@@ -1,0 +1,64 @@
+Title: Dr. Betty Doyle III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/santino-cummerata
+- 
+  type: relations/parental/dad
+  item: people/cornell-buckridge
+- 
+  type: relations/money/creditor
+  item: people/sarina-johnson
+- 
+  type: relations/parental/colleague
+  item: people/chadrick-reichert
+- 
+  type: relations/parental/mom
+  item: people/mrs-otilia-shanahan
+- 
+  type: relations/parental/mom
+  item: people/oma-howell
+- 
+  type: relations/money/debtor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/work/client
+  item: companies/boyle-dickens
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/residence
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

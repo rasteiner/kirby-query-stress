@@ -1,0 +1,44 @@
+Title: Hand, Halvorson and Veum
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/lowe-hermiston
+- 
+  type: relations/money/debtor
+  item: companies/reilly-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/heaney-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/thompson-vonrueden-and-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: companies/bins-ankunding
+- 
+  type: relations/money/creditor
+  item: companies/dicki-ltd
+- 
+  type: relations/money/debtor
+  item: companies/volkman-cummings-and-schmidt
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/lednermouth

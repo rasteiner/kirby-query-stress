@@ -1,0 +1,64 @@
+Title: Miss Carolyn Blanda PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/elza-langworth-iii
+- 
+  type: relations/money/creditor
+  item: people/dr-alexandre-stokes-i
+- 
+  type: relations/parental/dad
+  item: people/garfield-leannon
+- 
+  type: relations/money/creditor
+  item: people/sally-hickle-ii
+- 
+  type: relations/parental/mom
+  item: people/ava-crona-ii
+- 
+  type: relations/parental/colleague
+  item: people/shemar-beahan
+- 
+  type: relations/work/employer
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/work/client
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

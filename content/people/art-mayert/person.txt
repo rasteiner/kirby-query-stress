@@ -1,0 +1,64 @@
+Title: Art Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/maya-mertz
+- 
+  type: relations/parental/dad
+  item: people/jarrett-fahey
+- 
+  type: relations/parental/dad
+  item: people/rae-balistreri
+- 
+  type: relations/parental/dad
+  item: people/miss-delfina-hegmann
+- 
+  type: relations/parental/mom
+  item: people/mr-jalon-corkery
+- 
+  type: relations/money/debtor
+  item: people/cecilia-larson-phd
+- 
+  type: relations/money/creditor
+  item: companies/price-wisoky-and-beier
+- 
+  type: relations/work/client
+  item: companies/leffler-inc
+- 
+  type: relations/work/employer
+  item: companies/schroeder-group
+- 
+  type: relations/money/creditor
+  item: companies/klein-schaefer-and-balistreri
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

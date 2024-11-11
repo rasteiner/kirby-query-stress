@@ -1,0 +1,64 @@
+Title: Alyson Cummings DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/green-corkery
+- 
+  type: relations/parental/friend
+  item: people/arlie-anderson
+- 
+  type: relations/money/creditor
+  item: people/prof-ernestine-schaden
+- 
+  type: relations/parental/colleague
+  item: people/gabrielle-reichert
+- 
+  type: relations/money/debtor
+  item: people/sheridan-lesch
+- 
+  type: relations/parental/friend
+  item: people/clinton-lehner
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-goldner
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-plc
+- 
+  type: relations/money/debtor
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

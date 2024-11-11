@@ -1,0 +1,64 @@
+Title: Dr. Ona Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/esta-rice-ii
+- 
+  type: relations/money/debtor
+  item: people/simone-feest-iv
+- 
+  type: relations/parental/friend
+  item: people/mr-maximo-wolf
+- 
+  type: relations/money/creditor
+  item: people/edmond-roberts
+- 
+  type: relations/parental/colleague
+  item: people/keenan-abbott
+- 
+  type: relations/parental/dad
+  item: people/miss-yasmine-fisher-md
+- 
+  type: relations/money/debtor
+  item: companies/brekke-rohan-and-hagenes
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-goldner
+- 
+  type: relations/work/employer
+  item: companies/buckridge-plc
+- 
+  type: relations/work/employer
+  item: companies/cummerata-hilpert-and-marvin
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

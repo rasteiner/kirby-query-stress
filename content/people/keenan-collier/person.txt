@@ -1,0 +1,64 @@
+Title: Keenan Collier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/myrtle-hermann
+- 
+  type: relations/parental/brosis
+  item: people/mr-harold-zieme
+- 
+  type: relations/parental/brosis
+  item: people/leone-conn-phd
+- 
+  type: relations/parental/colleague
+  item: people/destiney-schamberger
+- 
+  type: relations/parental/brosis
+  item: people/loyal-block
+- 
+  type: relations/parental/colleague
+  item: people/adolph-lockman
+- 
+  type: relations/work/client
+  item: companies/deckow-ullrich
+- 
+  type: relations/work/client
+  item: companies/hoppe-llc
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-rath-and-brakus
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-inc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

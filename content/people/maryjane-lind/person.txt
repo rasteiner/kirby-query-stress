@@ -1,0 +1,65 @@
+Title: Maryjane Lind
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/marcelina-sawayn
+- 
+  type: relations/parental/mom
+  item: people/prof-earline-feest
+- 
+  type: relations/parental/mom
+  item: people/estella-runte-sr
+- 
+  type: relations/parental/colleague
+  item: people/prof-gladys-strosin
+- 
+  type: relations/parental/friend
+  item: people/dr-alphonso-raynor
+- 
+  type: relations/parental/dad
+  item: people/dejon-lemke
+- 
+  type: relations/work/employer
+  item: companies/mccullough-sawayn
+- 
+  type: relations/work/employer
+  item: companies/pollich-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

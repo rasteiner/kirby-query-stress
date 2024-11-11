@@ -1,0 +1,64 @@
+Title: Dr. Gisselle Purdy Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/maeve-robel
+- 
+  type: relations/parental/colleague
+  item: people/krystel-smitham
+- 
+  type: relations/parental/mom
+  item: people/miss-della-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/cordelia-ledner
+- 
+  type: relations/parental/dad
+  item: people/victor-west
+- 
+  type: relations/parental/mom
+  item: people/gisselle-kassulke-dvm
+- 
+  type: relations/money/debtor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/work/employer
+  item: companies/bailey-group
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-dicki
+- 
+  type: relations/work/employer
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

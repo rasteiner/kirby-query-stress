@@ -1,0 +1,64 @@
+Title: Mallie Okuneva
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/felipe-harber
+- 
+  type: relations/parental/mom
+  item: people/sigrid-goyette-jr
+- 
+  type: relations/parental/dad
+  item: people/margarete-bogan
+- 
+  type: relations/parental/mom
+  item: people/whitney-bosco
+- 
+  type: relations/money/creditor
+  item: people/ms-eleanora-wiza
+- 
+  type: relations/money/debtor
+  item: people/isabell-boyer
+- 
+  type: relations/work/client
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/money/creditor
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/work/employer
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

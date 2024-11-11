@@ -1,0 +1,64 @@
+Title: Kayla Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-peyton-gaylord-jr
+- 
+  type: relations/money/creditor
+  item: people/miss-brandy-shields
+- 
+  type: relations/parental/brosis
+  item: people/tyreek-buckridge-md
+- 
+  type: relations/parental/brosis
+  item: people/nella-hartmann-ii
+- 
+  type: relations/parental/dad
+  item: people/shaun-turner-sr
+- 
+  type: relations/money/creditor
+  item: people/dr-orin-roberts-dds
+- 
+  type: relations/money/debtor
+  item: companies/ryan-little
+- 
+  type: relations/work/employer
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

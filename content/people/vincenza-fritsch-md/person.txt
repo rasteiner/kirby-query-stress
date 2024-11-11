@@ -1,0 +1,64 @@
+Title: Vincenza Fritsch MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/keith-grimes
+- 
+  type: relations/money/creditor
+  item: people/prof-nikolas-walter
+- 
+  type: relations/money/creditor
+  item: people/ms-myrtle-trantow
+- 
+  type: relations/parental/dad
+  item: people/bella-metz
+- 
+  type: relations/money/creditor
+  item: people/ettie-stark
+- 
+  type: relations/parental/friend
+  item: people/mr-kim-nitzsche-sr
+- 
+  type: relations/work/employer
+  item: companies/waters-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/little-sipes
+- 
+  type: relations/work/client
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/creditor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,64 @@
+Title: Prof. Bria Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-aniya-koelpin
+- 
+  type: relations/parental/colleague
+  item: people/tracey-monahan
+- 
+  type: relations/money/debtor
+  item: people/ms-katelyn-leuschke-iv
+- 
+  type: relations/money/debtor
+  item: people/shyann-nader
+- 
+  type: relations/parental/friend
+  item: people/liana-padberg
+- 
+  type: relations/parental/mom
+  item: people/isom-ritchie
+- 
+  type: relations/work/client
+  item: companies/doyle-murphy
+- 
+  type: relations/work/employer
+  item: companies/lakin-abbott-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/koss-adams
+- 
+  type: relations/money/debtor
+  item: companies/corwin-zieme
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

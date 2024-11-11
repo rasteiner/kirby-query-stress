@@ -1,0 +1,64 @@
+Title: Hanna Wiza
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/franco-stracke
+- 
+  type: relations/parental/friend
+  item: people/prof-keely-mante
+- 
+  type: relations/money/creditor
+  item: people/dr-landen-wolff
+- 
+  type: relations/money/creditor
+  item: people/gregorio-carter
+- 
+  type: relations/parental/dad
+  item: people/jonathon-pouros-dvm
+- 
+  type: relations/money/creditor
+  item: people/eldridge-kiehn
+- 
+  type: relations/money/creditor
+  item: companies/mills-bergstrom-and-price
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-lueilwitz-and-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-group
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-mclaughlin
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

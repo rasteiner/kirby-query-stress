@@ -1,0 +1,64 @@
+Title: Theodora Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/america-braun
+- 
+  type: relations/parental/mom
+  item: people/thomas-bailey
+- 
+  type: relations/parental/mom
+  item: people/dr-sunny-kuvalis
+- 
+  type: relations/parental/mom
+  item: people/alexanne-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/sage-leannon
+- 
+  type: relations/parental/friend
+  item: people/josefina-kiehn
+- 
+  type: relations/money/debtor
+  item: companies/mayer-llc
+- 
+  type: relations/money/debtor
+  item: companies/hickle-plc
+- 
+  type: relations/money/debtor
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/work/client
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

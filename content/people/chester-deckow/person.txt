@@ -1,0 +1,65 @@
+Title: Chester Deckow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/max-kiehn
+- 
+  type: relations/parental/brosis
+  item: people/hillard-doyle-v
+- 
+  type: relations/parental/friend
+  item: people/mr-westley-lebsack-dvm
+- 
+  type: relations/parental/colleague
+  item: people/dr-anahi-cormier
+- 
+  type: relations/parental/friend
+  item: people/dr-orie-mueller-i
+- 
+  type: relations/parental/dad
+  item: people/ms-alexa-ebert-dvm
+- 
+  type: relations/money/creditor
+  item: companies/schaden-durgan-and-glover
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hodkiewicz-homenick-and-monahan
+- 
+  type: relations/work/client
+  item: companies/tremblay-shields-and-emard
+- 
+  type: relations/work/employer
+  item: companies/beatty-kulas-and-crooks
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

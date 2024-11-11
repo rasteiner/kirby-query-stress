@@ -1,0 +1,64 @@
+Title: Dr. Alan Ankunding
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/miss-esperanza-block-dds
+- 
+  type: relations/parental/dad
+  item: people/ruby-trantow
+- 
+  type: relations/money/creditor
+  item: people/lysanne-aufderhar
+- 
+  type: relations/parental/dad
+  item: people/august-schultz-jr
+- 
+  type: relations/money/debtor
+  item: people/mrs-dahlia-feeney-ii
+- 
+  type: relations/parental/colleague
+  item: people/stewart-kuhn-dvm
+- 
+  type: relations/work/client
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/work/client
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

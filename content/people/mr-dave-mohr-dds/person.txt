@@ -1,0 +1,64 @@
+Title: Mr. Dave Mohr DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/angelica-ebert
+- 
+  type: relations/parental/dad
+  item: people/august-mckenzie-sr
+- 
+  type: relations/parental/brosis
+  item: people/dr-santos-witting
+- 
+  type: relations/money/creditor
+  item: people/elouise-crooks
+- 
+  type: relations/parental/colleague
+  item: people/viviane-fadel-ii
+- 
+  type: relations/parental/mom
+  item: people/anabel-hilpert-iii
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/work/client
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

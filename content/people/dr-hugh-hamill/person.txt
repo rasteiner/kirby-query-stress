@@ -1,0 +1,64 @@
+Title: Dr. Hugh Hamill
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/liana-gutmann
+- 
+  type: relations/parental/mom
+  item: people/kenton-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/beaulah-kihn
+- 
+  type: relations/parental/dad
+  item: people/noel-kunze
+- 
+  type: relations/money/debtor
+  item: people/athena-wehner
+- 
+  type: relations/money/creditor
+  item: people/devante-yost-i
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/employer
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/money/debtor
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

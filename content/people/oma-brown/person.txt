@@ -1,0 +1,64 @@
+Title: Oma Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/roel-cole
+- 
+  type: relations/parental/mom
+  item: people/kayley-dach-md
+- 
+  type: relations/parental/friend
+  item: people/wilbert-hammes
+- 
+  type: relations/parental/dad
+  item: people/kyle-ankunding
+- 
+  type: relations/money/creditor
+  item: people/mr-camden-schulist
+- 
+  type: relations/parental/brosis
+  item: people/dr-wilbert-sipes
+- 
+  type: relations/money/creditor
+  item: companies/yundt-llc
+- 
+  type: relations/work/client
+  item: companies/terry-ltd
+- 
+  type: relations/money/debtor
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/money/creditor
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

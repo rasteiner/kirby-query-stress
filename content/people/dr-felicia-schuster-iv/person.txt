@@ -1,0 +1,65 @@
+Title: Dr. Felicia Schuster IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/brennon-spinka
+- 
+  type: relations/money/creditor
+  item: people/dr-colby-renner
+- 
+  type: relations/parental/mom
+  item: people/luis-pacocha
+- 
+  type: relations/parental/friend
+  item: people/prof-lonzo-beahan
+- 
+  type: relations/parental/brosis
+  item: people/juston-streich
+- 
+  type: relations/parental/mom
+  item: people/melyssa-boyle
+- 
+  type: relations/money/creditor
+  item: companies/hilpert-and-sons
+- 
+  type: relations/work/employer
+  item: >
+    companies/turcotte-stiedemann-and-bergnaum
+- 
+  type: relations/work/employer
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/creditor
+  item: companies/runte-carroll-and-tromp
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

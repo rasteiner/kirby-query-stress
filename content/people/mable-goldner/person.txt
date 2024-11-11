@@ -1,0 +1,64 @@
+Title: Mable Goldner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-broderick-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/prof-rasheed-mraz-i
+- 
+  type: relations/parental/dad
+  item: people/prof-adrienne-wilderman
+- 
+  type: relations/money/creditor
+  item: people/dr-rossie-rohan-jr
+- 
+  type: relations/parental/friend
+  item: people/esta-hoppe
+- 
+  type: relations/money/creditor
+  item: people/mrs-helga-abernathy
+- 
+  type: relations/work/client
+  item: companies/larkin-group
+- 
+  type: relations/work/client
+  item: companies/schneider-ltd
+- 
+  type: relations/money/debtor
+  item: companies/huels-hintz
+- 
+  type: relations/work/employer
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

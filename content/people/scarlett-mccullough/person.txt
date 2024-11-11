@@ -1,0 +1,64 @@
+Title: Scarlett McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mr-aurelio-stoltenberg-md
+- 
+  type: relations/money/creditor
+  item: people/adela-cormier
+- 
+  type: relations/money/creditor
+  item: people/kristopher-zieme
+- 
+  type: relations/parental/colleague
+  item: people/opal-hartmann
+- 
+  type: relations/parental/colleague
+  item: people/cleora-homenick
+- 
+  type: relations/parental/mom
+  item: people/tyrese-windler-sr
+- 
+  type: relations/work/employer
+  item: companies/senger-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/kris-moen
+- 
+  type: relations/work/employer
+  item: companies/kuhn-kuhn
+- 
+  type: relations/money/debtor
+  item: companies/douglas-emard
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

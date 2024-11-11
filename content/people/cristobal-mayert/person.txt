@@ -1,0 +1,64 @@
+Title: Cristobal Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/emmalee-abshire
+- 
+  type: relations/money/creditor
+  item: people/marquis-schmidt
+- 
+  type: relations/parental/brosis
+  item: people/irwin-davis
+- 
+  type: relations/parental/colleague
+  item: people/derick-adams
+- 
+  type: relations/parental/dad
+  item: people/valentin-gislason
+- 
+  type: relations/money/creditor
+  item: people/rachel-towne
+- 
+  type: relations/money/debtor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/debtor
+  item: companies/hamill-plc
+- 
+  type: relations/work/client
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

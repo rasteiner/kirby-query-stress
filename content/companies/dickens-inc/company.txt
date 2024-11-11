@@ -1,0 +1,43 @@
+Title: Dickens Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/heller-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/money/debtor
+  item: companies/deckow-ullrich
+- 
+  type: relations/money/creditor
+  item: companies/goldner-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/money/creditor
+  item: companies/russel-collier
+- 
+  type: relations/money/creditor
+  item: companies/hayes-llc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-group
+- 
+  type: relations/location/residence
+  item: places/new-carmela
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt

@@ -1,0 +1,43 @@
+Title: Crona and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/murray-schuster-and-boyle
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/debtor
+  item: companies/mraz-wunsch
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/money/creditor
+  item: companies/rodriguez-group
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/malindastad

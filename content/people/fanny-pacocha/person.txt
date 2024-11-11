@@ -1,0 +1,64 @@
+Title: Fanny Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lenna-oberbrunner
+- 
+  type: relations/parental/brosis
+  item: people/athena-daugherty
+- 
+  type: relations/parental/dad
+  item: people/prof-citlalli-wyman-i
+- 
+  type: relations/parental/dad
+  item: people/mr-louie-rath-i
+- 
+  type: relations/parental/mom
+  item: people/johathan-kunde
+- 
+  type: relations/parental/colleague
+  item: people/sven-ortiz
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/work/client
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

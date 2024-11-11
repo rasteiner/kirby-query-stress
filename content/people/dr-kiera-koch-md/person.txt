@@ -1,0 +1,64 @@
+Title: Dr. Kiera Koch MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ms-cassidy-graham-sr
+- 
+  type: relations/money/creditor
+  item: people/chloe-wolf
+- 
+  type: relations/parental/mom
+  item: people/kenya-keeling-iii
+- 
+  type: relations/money/debtor
+  item: people/zander-gislason
+- 
+  type: relations/parental/colleague
+  item: people/joelle-bernhard
+- 
+  type: relations/parental/brosis
+  item: people/dayton-rempel
+- 
+  type: relations/work/client
+  item: companies/beier-kub
+- 
+  type: relations/work/client
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

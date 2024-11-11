@@ -1,0 +1,64 @@
+Title: Elnora Schuppe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/retta-hilll-i
+- 
+  type: relations/parental/mom
+  item: people/ms-destini-hand
+- 
+  type: relations/parental/friend
+  item: people/marie-littel-dvm
+- 
+  type: relations/money/creditor
+  item: people/miss-sarah-reilly
+- 
+  type: relations/money/debtor
+  item: people/miss-albina-rolfson-iv
+- 
+  type: relations/parental/dad
+  item: people/amanda-friesen
+- 
+  type: relations/work/client
+  item: companies/considine-bruen
+- 
+  type: relations/work/employer
+  item: companies/emard-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

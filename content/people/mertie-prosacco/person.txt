@@ -1,0 +1,64 @@
+Title: Mertie Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mr-ricky-ankunding-dvm
+- 
+  type: relations/money/creditor
+  item: people/vanessa-skiles
+- 
+  type: relations/parental/colleague
+  item: people/sydney-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/maya-lind
+- 
+  type: relations/parental/colleague
+  item: people/carmine-zboncak
+- 
+  type: relations/parental/dad
+  item: people/alene-green
+- 
+  type: relations/money/creditor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/money/creditor
+  item: companies/boehm-group
+- 
+  type: relations/work/employer
+  item: companies/ortiz-inc
+- 
+  type: relations/money/debtor
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

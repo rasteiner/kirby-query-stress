@@ -1,0 +1,64 @@
+Title: Dr. Pete Wehner III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-alfredo-pfannerstill-ii
+- 
+  type: relations/parental/dad
+  item: people/miss-gwen-upton
+- 
+  type: relations/parental/colleague
+  item: people/etha-thiel
+- 
+  type: relations/parental/mom
+  item: people/ms-hertha-douglas-iii
+- 
+  type: relations/money/debtor
+  item: people/dr-guiseppe-mclaughlin
+- 
+  type: relations/parental/brosis
+  item: people/dexter-veum
+- 
+  type: relations/work/employer
+  item: companies/beier-kub
+- 
+  type: relations/money/debtor
+  item: companies/hudson-stroman-and-zboncak
+- 
+  type: relations/work/client
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/work/client
+  item: companies/lang-schmeler-and-schuster
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

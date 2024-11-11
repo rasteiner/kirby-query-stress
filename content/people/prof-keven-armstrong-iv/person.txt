@@ -1,0 +1,64 @@
+Title: Prof. Keven Armstrong IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/casandra-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/melany-feeney-ii
+- 
+  type: relations/parental/dad
+  item: people/andy-romaguera
+- 
+  type: relations/parental/brosis
+  item: people/prof-robyn-kuphal
+- 
+  type: relations/parental/mom
+  item: people/edison-hoppe-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-lew-beier-v
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/work/employer
+  item: companies/renner-plc
+- 
+  type: relations/work/employer
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

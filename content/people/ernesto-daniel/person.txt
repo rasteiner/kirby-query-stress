@@ -1,0 +1,64 @@
+Title: Ernesto Daniel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaquelin-pollich-phd
+- 
+  type: relations/parental/mom
+  item: people/mr-raoul-greenfelder-dvm
+- 
+  type: relations/parental/colleague
+  item: people/shania-ryan
+- 
+  type: relations/parental/colleague
+  item: people/ms-claudie-shanahan-md
+- 
+  type: relations/parental/dad
+  item: people/eugene-buckridge
+- 
+  type: relations/parental/brosis
+  item: people/hans-cronin
+- 
+  type: relations/money/creditor
+  item: companies/okuneva-inc
+- 
+  type: relations/work/client
+  item: companies/zboncak-group
+- 
+  type: relations/money/creditor
+  item: companies/homenick-carroll-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/hoeger-inc
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

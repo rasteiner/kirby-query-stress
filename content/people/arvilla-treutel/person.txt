@@ -1,0 +1,64 @@
+Title: Arvilla Treutel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/louie-effertz
+- 
+  type: relations/parental/colleague
+  item: people/aryanna-bruen
+- 
+  type: relations/parental/brosis
+  item: people/arlie-stroman
+- 
+  type: relations/parental/dad
+  item: people/peter-hintz-dds
+- 
+  type: relations/parental/brosis
+  item: people/rosario-yundt
+- 
+  type: relations/parental/dad
+  item: people/delores-grady-dvm
+- 
+  type: relations/work/employer
+  item: companies/emmerich-douglas
+- 
+  type: relations/money/debtor
+  item: companies/nader-grady-and-boehm
+- 
+  type: relations/work/client
+  item: companies/labadie-kuphal-and-brakus
+- 
+  type: relations/money/debtor
+  item: companies/bins-lakin-and-yundt
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

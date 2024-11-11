@@ -1,0 +1,64 @@
+Title: Domingo Bechtelar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/patience-cremin-iv
+- 
+  type: relations/parental/mom
+  item: people/antone-rath
+- 
+  type: relations/money/debtor
+  item: people/destini-crist-md
+- 
+  type: relations/parental/colleague
+  item: people/mr-waylon-pacocha-i
+- 
+  type: relations/money/debtor
+  item: people/jacques-prosacco-dvm
+- 
+  type: relations/parental/friend
+  item: people/shaun-wyman
+- 
+  type: relations/money/debtor
+  item: companies/casper-inc
+- 
+  type: relations/work/client
+  item: companies/stark-maggio-and-abbott
+- 
+  type: relations/work/employer
+  item: companies/turcotte-renner
+- 
+  type: relations/work/client
+  item: companies/willms-group
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/visited
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

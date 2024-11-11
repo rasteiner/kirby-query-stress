@@ -1,0 +1,64 @@
+Title: Miss Electa Rohan II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/mohamed-dietrich
+- 
+  type: relations/parental/friend
+  item: people/mr-brandt-crooks-v
+- 
+  type: relations/money/debtor
+  item: people/mr-lonny-greenholt
+- 
+  type: relations/parental/dad
+  item: people/elmer-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/shad-o-keefe
+- 
+  type: relations/parental/dad
+  item: people/madonna-balistreri
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/creditor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

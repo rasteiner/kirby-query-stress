@@ -1,0 +1,64 @@
+Title: Mr. Hassan Bruen V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/al-eichmann
+- 
+  type: relations/parental/colleague
+  item: people/gabrielle-gislason
+- 
+  type: relations/parental/mom
+  item: people/alanna-leuschke
+- 
+  type: relations/parental/brosis
+  item: people/mr-austin-stark-phd
+- 
+  type: relations/parental/dad
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/dad
+  item: people/nikko-king
+- 
+  type: relations/work/client
+  item: companies/doyle-ltd
+- 
+  type: relations/work/client
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/employer
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

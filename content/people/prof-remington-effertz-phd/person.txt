@@ -1,0 +1,66 @@
+Title: Prof. Remington Effertz PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/terrell-doyle-v
+- 
+  type: relations/parental/mom
+  item: people/keara-wiegand
+- 
+  type: relations/money/debtor
+  item: people/prof-luisa-grady-jr
+- 
+  type: relations/parental/brosis
+  item: people/dr-hector-jakubowski
+- 
+  type: relations/money/debtor
+  item: people/shayne-runte
+- 
+  type: relations/money/debtor
+  item: people/enoch-pfeffer
+- 
+  type: relations/money/debtor
+  item: >
+    companies/jaskolski-lueilwitz-and-eichmann
+- 
+  type: relations/money/creditor
+  item: companies/wolff-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/schroeder-williamson-and-casper
+- 
+  type: relations/work/employer
+  item: companies/kub-moen-and-barton
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

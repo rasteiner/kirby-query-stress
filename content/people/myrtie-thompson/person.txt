@@ -1,0 +1,64 @@
+Title: Myrtie Thompson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/monica-hane
+- 
+  type: relations/parental/dad
+  item: people/claudie-kemmer
+- 
+  type: relations/parental/brosis
+  item: people/mrs-lesly-hilll
+- 
+  type: relations/parental/dad
+  item: people/mr-austyn-conroy
+- 
+  type: relations/parental/brosis
+  item: people/dr-sonia-kris-jr
+- 
+  type: relations/money/debtor
+  item: people/sienna-dubuque
+- 
+  type: relations/work/employer
+  item: companies/breitenberg-huels
+- 
+  type: relations/work/client
+  item: companies/block-fritsch-and-gutmann
+- 
+  type: relations/work/employer
+  item: companies/fahey-olson
+- 
+  type: relations/work/employer
+  item: companies/fisher-hermiston-and-yost
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

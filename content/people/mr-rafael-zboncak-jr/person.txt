@@ -1,0 +1,64 @@
+Title: Mr. Rafael Zboncak Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-melany-stark-ii
+- 
+  type: relations/money/creditor
+  item: people/ashton-huels
+- 
+  type: relations/parental/mom
+  item: people/andreane-kling-sr
+- 
+  type: relations/money/creditor
+  item: people/caleigh-lueilwitz-v
+- 
+  type: relations/parental/friend
+  item: people/dr-ross-hagenes
+- 
+  type: relations/parental/friend
+  item: people/joe-greenfelder
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/employer
+  item: companies/romaguera-inc
+- 
+  type: relations/money/creditor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/debtor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

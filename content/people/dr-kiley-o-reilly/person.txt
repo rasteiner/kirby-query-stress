@@ -1,0 +1,64 @@
+Title: Dr. Kiley O'Reilly
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/angelo-strosin
+- 
+  type: relations/parental/friend
+  item: people/arno-fisher
+- 
+  type: relations/money/debtor
+  item: people/miss-cortney-schultz
+- 
+  type: relations/parental/brosis
+  item: people/cristal-hackett
+- 
+  type: relations/parental/brosis
+  item: people/myrna-mayer
+- 
+  type: relations/money/creditor
+  item: people/dr-angie-stroman
+- 
+  type: relations/work/client
+  item: companies/becker-schmidt-and-bergstrom
+- 
+  type: relations/work/employer
+  item: companies/bernier-gorczany-and-glover
+- 
+  type: relations/money/creditor
+  item: companies/labadie-rosenbaum
+- 
+  type: relations/money/debtor
+  item: companies/blanda-inc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

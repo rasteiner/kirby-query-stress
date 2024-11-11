@@ -1,0 +1,64 @@
+Title: Dr. Leatha Kerluke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/trey-crona
+- 
+  type: relations/parental/colleague
+  item: people/sharon-boehm-phd
+- 
+  type: relations/parental/dad
+  item: people/melissa-thiel
+- 
+  type: relations/parental/colleague
+  item: people/dr-garnet-runte-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-olen-bradtke
+- 
+  type: relations/parental/brosis
+  item: people/mollie-swift-dvm
+- 
+  type: relations/work/client
+  item: companies/mitchell-inc
+- 
+  type: relations/work/client
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/money/creditor
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

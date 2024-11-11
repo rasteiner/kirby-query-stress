@@ -1,0 +1,64 @@
+Title: Mr. Caden Herzog Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/dr-kayleigh-adams
+- 
+  type: relations/money/debtor
+  item: people/prof-larue-dicki
+- 
+  type: relations/parental/colleague
+  item: people/cara-kreiger
+- 
+  type: relations/parental/brosis
+  item: people/jacquelyn-heathcote
+- 
+  type: relations/parental/colleague
+  item: people/troy-sipes
+- 
+  type: relations/money/creditor
+  item: people/gustave-gusikowski
+- 
+  type: relations/money/creditor
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

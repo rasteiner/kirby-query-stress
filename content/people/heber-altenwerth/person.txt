@@ -1,0 +1,64 @@
+Title: Heber Altenwerth
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lexus-rodriguez
+- 
+  type: relations/parental/dad
+  item: people/gilda-johnson
+- 
+  type: relations/parental/friend
+  item: people/muhammad-emard
+- 
+  type: relations/parental/friend
+  item: people/dean-bailey
+- 
+  type: relations/parental/mom
+  item: people/jamison-d-amore
+- 
+  type: relations/money/debtor
+  item: people/dr-dorris-volkman-ii
+- 
+  type: relations/money/debtor
+  item: companies/reynolds-strosin
+- 
+  type: relations/money/debtor
+  item: companies/denesik-willms-and-weissnat
+- 
+  type: relations/work/client
+  item: companies/stanton-keebler-and-hirthe
+- 
+  type: relations/work/client
+  item: companies/jones-prohaska-and-bins
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

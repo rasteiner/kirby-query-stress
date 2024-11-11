@@ -1,0 +1,64 @@
+Title: Larue Wisoky
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/connie-goodwin
+- 
+  type: relations/money/debtor
+  item: people/miss-amira-fritsch-iv
+- 
+  type: relations/parental/mom
+  item: people/newton-hand
+- 
+  type: relations/parental/colleague
+  item: people/caterina-kuvalis-iii
+- 
+  type: relations/money/debtor
+  item: people/mr-hayden-connelly
+- 
+  type: relations/parental/colleague
+  item: people/hector-wisoky
+- 
+  type: relations/work/employer
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

@@ -1,0 +1,64 @@
+Title: Flo Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sheridan-feeney
+- 
+  type: relations/parental/friend
+  item: people/hobart-koch
+- 
+  type: relations/parental/colleague
+  item: people/trever-kulas-ii
+- 
+  type: relations/money/creditor
+  item: people/eulah-champlin
+- 
+  type: relations/parental/mom
+  item: people/rodolfo-bergstrom
+- 
+  type: relations/parental/friend
+  item: people/vito-swift
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-dooley
+- 
+  type: relations/work/client
+  item: companies/witting-hodkiewicz
+- 
+  type: relations/money/debtor
+  item: companies/toy-moen-and-jacobs
+- 
+  type: relations/work/client
+  item: companies/hayes-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

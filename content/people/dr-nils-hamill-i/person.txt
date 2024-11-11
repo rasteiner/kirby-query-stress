@@ -1,0 +1,64 @@
+Title: Dr. Nils Hamill I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/dr-vern-mitchell
+- 
+  type: relations/parental/friend
+  item: people/prof-eudora-kreiger-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-marlene-purdy-sr
+- 
+  type: relations/parental/friend
+  item: people/dr-ole-ryan
+- 
+  type: relations/parental/brosis
+  item: people/elaina-williamson
+- 
+  type: relations/money/creditor
+  item: people/cruz-runolfsdottir
+- 
+  type: relations/work/client
+  item: companies/mayer-llc
+- 
+  type: relations/money/creditor
+  item: companies/hickle-plc
+- 
+  type: relations/work/client
+  item: companies/murphy-rutherford-and-kohler
+- 
+  type: relations/money/creditor
+  item: companies/ankunding-conroy-and-heaney
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dewayne Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/anita-gutmann
+- 
+  type: relations/parental/mom
+  item: people/dr-giovanni-hyatt-jr
+- 
+  type: relations/money/debtor
+  item: people/dameon-schuster
+- 
+  type: relations/money/debtor
+  item: people/garrison-will
+- 
+  type: relations/money/debtor
+  item: people/dr-derrick-schaefer-dvm
+- 
+  type: relations/money/debtor
+  item: people/eleanore-gutmann
+- 
+  type: relations/work/client
+  item: companies/o-conner-plc
+- 
+  type: relations/money/creditor
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/debtor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

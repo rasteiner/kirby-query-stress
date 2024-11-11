@@ -1,0 +1,64 @@
+Title: Prof. Royce Shanahan Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/ben-ernser-dvm
+- 
+  type: relations/parental/brosis
+  item: people/miss-bridie-bradtke-phd
+- 
+  type: relations/parental/dad
+  item: people/mr-edwardo-kohler
+- 
+  type: relations/money/creditor
+  item: people/ryan-beier-dds
+- 
+  type: relations/parental/brosis
+  item: people/dr-marjory-pacocha-phd
+- 
+  type: relations/parental/colleague
+  item: people/carol-wuckert-iii
+- 
+  type: relations/work/employer
+  item: companies/crist-and-sons
+- 
+  type: relations/work/client
+  item: companies/franecki-blick
+- 
+  type: relations/money/creditor
+  item: companies/gibson-inc
+- 
+  type: relations/work/employer
+  item: companies/crooks-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

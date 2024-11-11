@@ -1,0 +1,64 @@
+Title: Angela Tremblay II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/rusty-walsh-dvm
+- 
+  type: relations/money/debtor
+  item: people/dorothea-bernier-dvm
+- 
+  type: relations/money/debtor
+  item: people/freida-bode
+- 
+  type: relations/money/debtor
+  item: people/rene-yost
+- 
+  type: relations/money/debtor
+  item: people/joyce-kunze
+- 
+  type: relations/parental/brosis
+  item: people/liliana-block
+- 
+  type: relations/money/debtor
+  item: companies/towne-and-sons
+- 
+  type: relations/work/employer
+  item: companies/zemlak-herman
+- 
+  type: relations/money/creditor
+  item: companies/keebler-treutel
+- 
+  type: relations/work/employer
+  item: companies/bashirian-klein
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

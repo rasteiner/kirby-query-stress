@@ -1,0 +1,64 @@
+Title: Jensen Terry Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-katelyn-kohler-i
+- 
+  type: relations/parental/mom
+  item: people/chet-windler-ii
+- 
+  type: relations/parental/friend
+  item: people/ashly-kassulke
+- 
+  type: relations/money/debtor
+  item: people/carolyne-schmitt
+- 
+  type: relations/money/creditor
+  item: people/iliana-mills-ii
+- 
+  type: relations/parental/mom
+  item: people/matilda-gorczany
+- 
+  type: relations/money/creditor
+  item: companies/powlowski-inc
+- 
+  type: relations/money/debtor
+  item: companies/sauer-ltd
+- 
+  type: relations/work/client
+  item: companies/roob-heathcote
+- 
+  type: relations/work/client
+  item: companies/haley-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

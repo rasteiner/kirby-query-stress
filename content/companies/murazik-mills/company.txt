@@ -1,0 +1,43 @@
+Title: Murazik-Mills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/huel-sipes
+- 
+  type: relations/money/creditor
+  item: companies/leannon-rohan
+- 
+  type: relations/money/debtor
+  item: companies/west-barrows
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/money/creditor
+  item: companies/bogan-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/koch-rosenbaum-and-osinski
+- 
+  type: relations/money/debtor
+  item: companies/schultz-altenwerth
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/south-taniachester

@@ -1,0 +1,64 @@
+Title: Myrna Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-seth-ebert-jr
+- 
+  type: relations/money/creditor
+  item: people/mrs-germaine-tillman
+- 
+  type: relations/money/debtor
+  item: people/miss-edna-konopelski
+- 
+  type: relations/parental/friend
+  item: people/rudy-conn
+- 
+  type: relations/money/debtor
+  item: people/alexandro-ward
+- 
+  type: relations/parental/colleague
+  item: people/mandy-kilback
+- 
+  type: relations/work/employer
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/work/client
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/work/employer
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Demetris Ernser MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/danny-luettgen
+- 
+  type: relations/parental/mom
+  item: people/miss-grace-durgan
+- 
+  type: relations/parental/dad
+  item: people/mr-nathanael-douglas-sr
+- 
+  type: relations/money/creditor
+  item: people/eriberto-rippin
+- 
+  type: relations/parental/mom
+  item: people/itzel-cormier
+- 
+  type: relations/parental/colleague
+  item: people/merl-feeney-iii
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/work/employer
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

@@ -1,0 +1,64 @@
+Title: Dr. Rosie Barton PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alexander-simonis-iv
+- 
+  type: relations/parental/colleague
+  item: people/donny-rippin
+- 
+  type: relations/parental/brosis
+  item: people/eden-batz
+- 
+  type: relations/money/debtor
+  item: people/eloisa-sporer
+- 
+  type: relations/parental/mom
+  item: people/amelie-walsh
+- 
+  type: relations/parental/brosis
+  item: people/sadie-kertzmann
+- 
+  type: relations/money/creditor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/employer
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/creditor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/visited
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/visited
+  item: places/crookstown

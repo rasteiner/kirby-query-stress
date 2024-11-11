@@ -1,0 +1,64 @@
+Title: Kellen Simonis
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/neal-labadie
+- 
+  type: relations/parental/colleague
+  item: people/noemi-gutkowski
+- 
+  type: relations/parental/mom
+  item: people/lina-davis
+- 
+  type: relations/parental/colleague
+  item: people/mohamed-morar
+- 
+  type: relations/money/debtor
+  item: people/darrin-hegmann
+- 
+  type: relations/parental/brosis
+  item: people/prof-royce-torphy-sr
+- 
+  type: relations/money/debtor
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/client
+  item: companies/daniel-group
+- 
+  type: relations/work/employer
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Makayla Pagac Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lexie-brekke
+- 
+  type: relations/money/creditor
+  item: people/eudora-zemlak-dvm
+- 
+  type: relations/money/creditor
+  item: people/whitney-jakubowski
+- 
+  type: relations/parental/brosis
+  item: people/prof-ariel-wiegand
+- 
+  type: relations/money/debtor
+  item: people/bella-spencer
+- 
+  type: relations/parental/brosis
+  item: people/christian-swaniawski
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/creditor
+  item: companies/ferry-inc
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

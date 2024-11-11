@@ -1,0 +1,64 @@
+Title: Nikolas Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/annetta-metz
+- 
+  type: relations/parental/brosis
+  item: people/lela-leffler
+- 
+  type: relations/parental/dad
+  item: people/kayley-gutkowski
+- 
+  type: relations/parental/friend
+  item: people/mrs-jude-stroman-ii
+- 
+  type: relations/parental/brosis
+  item: people/prof-jennings-keebler
+- 
+  type: relations/parental/colleague
+  item: people/leonie-bayer
+- 
+  type: relations/work/client
+  item: companies/graham-inc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-hettinger-and-ebert
+- 
+  type: relations/work/client
+  item: companies/hintz-fisher
+- 
+  type: relations/money/creditor
+  item: companies/labadie-beer-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

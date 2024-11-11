@@ -1,0 +1,65 @@
+Title: Carlie Cremin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/al-williamson
+- 
+  type: relations/parental/friend
+  item: people/charles-corwin
+- 
+  type: relations/money/debtor
+  item: people/ms-katelyn-kohler-i
+- 
+  type: relations/parental/dad
+  item: people/chet-windler-ii
+- 
+  type: relations/parental/brosis
+  item: people/ashly-kassulke
+- 
+  type: relations/parental/friend
+  item: people/carolyne-schmitt
+- 
+  type: relations/money/debtor
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/creditor
+  item: companies/pollich-plc
+- 
+  type: relations/money/debtor
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/hermann-murphy
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

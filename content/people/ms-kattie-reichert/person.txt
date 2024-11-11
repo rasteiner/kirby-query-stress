@@ -1,0 +1,64 @@
+Title: Ms. Kattie Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/vivienne-hackett
+- 
+  type: relations/parental/colleague
+  item: people/maribel-legros
+- 
+  type: relations/money/creditor
+  item: people/sheridan-feeney
+- 
+  type: relations/parental/dad
+  item: people/hobart-koch
+- 
+  type: relations/parental/colleague
+  item: people/trever-kulas-ii
+- 
+  type: relations/parental/mom
+  item: people/eulah-champlin
+- 
+  type: relations/work/employer
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-plc
+- 
+  type: relations/money/debtor
+  item: companies/stamm-hahn
+- 
+  type: relations/money/debtor
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

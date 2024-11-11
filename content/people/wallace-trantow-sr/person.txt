@@ -1,0 +1,64 @@
+Title: Wallace Trantow Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/santa-kiehn-dvm
+- 
+  type: relations/money/debtor
+  item: people/bret-bode
+- 
+  type: relations/money/debtor
+  item: people/lawson-cormier
+- 
+  type: relations/parental/colleague
+  item: people/dr-heather-casper
+- 
+  type: relations/parental/mom
+  item: people/gus-spencer
+- 
+  type: relations/parental/friend
+  item: people/kelsi-cartwright
+- 
+  type: relations/work/employer
+  item: companies/grimes-littel-and-padberg
+- 
+  type: relations/money/creditor
+  item: companies/becker-ltd
+- 
+  type: relations/work/client
+  item: companies/balistreri-zboncak-and-crist
+- 
+  type: relations/money/creditor
+  item: companies/bauch-plc
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

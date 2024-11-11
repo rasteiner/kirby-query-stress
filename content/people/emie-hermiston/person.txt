@@ -1,0 +1,64 @@
+Title: Emie Hermiston
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/laila-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/tomasa-mills
+- 
+  type: relations/parental/colleague
+  item: people/jennie-feeney
+- 
+  type: relations/money/debtor
+  item: people/dr-tate-kilback
+- 
+  type: relations/parental/dad
+  item: people/cara-kovacek
+- 
+  type: relations/money/debtor
+  item: people/daren-goldner
+- 
+  type: relations/money/creditor
+  item: companies/harvey-mitchell-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/greenholt-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-walter-and-swaniawski
+- 
+  type: relations/work/client
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

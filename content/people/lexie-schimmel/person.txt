@@ -1,0 +1,64 @@
+Title: Lexie Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/barrett-gaylord
+- 
+  type: relations/money/creditor
+  item: people/dr-darrel-o-keefe-phd
+- 
+  type: relations/money/debtor
+  item: people/jerome-brown-jr
+- 
+  type: relations/money/creditor
+  item: people/stephanie-haag
+- 
+  type: relations/money/creditor
+  item: people/mrs-mina-gerhold-iv
+- 
+  type: relations/parental/colleague
+  item: people/carey-fahey
+- 
+  type: relations/work/client
+  item: companies/nicolas-ltd
+- 
+  type: relations/work/client
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/money/creditor
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/employer
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

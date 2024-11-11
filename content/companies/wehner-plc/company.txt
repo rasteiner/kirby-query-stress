@@ -1,0 +1,43 @@
+Title: Wehner PLC
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/hane-group
+- 
+  type: relations/money/debtor
+  item: companies/gleason-inc
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/creditor
+  item: companies/willms-group
+- 
+  type: relations/money/creditor
+  item: companies/sporer-plc
+- 
+  type: relations/money/creditor
+  item: companies/bogan-ltd
+- 
+  type: relations/money/debtor
+  item: companies/hills-gusikowski-and-runte
+- 
+  type: relations/location/residence
+  item: places/lennyton
+- 
+  type: relations/location/visited
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/howefurt

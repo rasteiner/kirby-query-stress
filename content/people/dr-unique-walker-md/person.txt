@@ -1,0 +1,64 @@
+Title: Dr. Unique Walker MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jared-mosciski-jr
+- 
+  type: relations/parental/friend
+  item: people/mr-sydney-marks
+- 
+  type: relations/parental/mom
+  item: people/name-roberts
+- 
+  type: relations/parental/friend
+  item: people/adrienne-hills
+- 
+  type: relations/parental/brosis
+  item: people/ezequiel-ondricka-i
+- 
+  type: relations/parental/colleague
+  item: people/jeanie-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/rowe-osinski
+- 
+  type: relations/work/client
+  item: companies/hamill-plc
+- 
+  type: relations/money/creditor
+  item: companies/mitchell-boyle
+- 
+  type: relations/work/client
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

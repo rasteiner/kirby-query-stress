@@ -1,0 +1,64 @@
+Title: Rory Wisoky III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/ms-mariana-braun-dvm
+- 
+  type: relations/parental/friend
+  item: people/isobel-west
+- 
+  type: relations/parental/dad
+  item: people/greg-gleason
+- 
+  type: relations/parental/mom
+  item: people/delaney-kulas
+- 
+  type: relations/parental/friend
+  item: people/riley-wiza
+- 
+  type: relations/money/creditor
+  item: people/jerome-o-connell
+- 
+  type: relations/work/employer
+  item: companies/rowe-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hamill-plc
+- 
+  type: relations/work/employer
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

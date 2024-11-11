@@ -1,0 +1,64 @@
+Title: Cristal Wunsch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/greta-osinski
+- 
+  type: relations/parental/friend
+  item: people/estella-runte
+- 
+  type: relations/money/debtor
+  item: people/berry-wiza
+- 
+  type: relations/parental/dad
+  item: people/kelley-powlowski
+- 
+  type: relations/money/debtor
+  item: people/fidel-hoeger
+- 
+  type: relations/parental/friend
+  item: people/mckayla-bailey-iv
+- 
+  type: relations/work/client
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/work/client
+  item: companies/o-reilly-gislason
+- 
+  type: relations/money/debtor
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

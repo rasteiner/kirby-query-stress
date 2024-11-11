@@ -1,0 +1,64 @@
+Title: Franco McDermott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/guy-carroll
+- 
+  type: relations/parental/friend
+  item: people/dr-alicia-mcclure-dds
+- 
+  type: relations/parental/dad
+  item: people/prof-aaron-stokes-jr
+- 
+  type: relations/parental/brosis
+  item: people/prof-cornelius-schaden
+- 
+  type: relations/parental/mom
+  item: people/eva-kuhic-ii
+- 
+  type: relations/money/creditor
+  item: people/assunta-lind
+- 
+  type: relations/money/debtor
+  item: companies/labadie-plc
+- 
+  type: relations/money/creditor
+  item: companies/fisher-adams
+- 
+  type: relations/money/creditor
+  item: companies/mertz-and-sons
+- 
+  type: relations/work/employer
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

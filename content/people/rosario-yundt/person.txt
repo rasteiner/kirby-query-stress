@@ -1,0 +1,64 @@
+Title: Rosario Yundt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/parental/brosis
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/parental/mom
+  item: people/madaline-o-kon
+- 
+  type: relations/parental/brosis
+  item: people/amira-hintz
+- 
+  type: relations/parental/friend
+  item: people/ellen-schinner-ii
+- 
+  type: relations/money/creditor
+  item: people/dorian-haley-jr
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/employer
+  item: companies/kuhlman-llc
+- 
+  type: relations/work/employer
+  item: companies/kris-inc
+- 
+  type: relations/money/creditor
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Annabell Bernhard IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/jeremie-wolff
+- 
+  type: relations/parental/colleague
+  item: people/pearlie-mann-jr
+- 
+  type: relations/parental/friend
+  item: people/gerald-rippin-md
+- 
+  type: relations/parental/friend
+  item: people/dr-reagan-buckridge-i
+- 
+  type: relations/parental/brosis
+  item: people/dr-katheryn-legros
+- 
+  type: relations/parental/brosis
+  item: people/prof-ernestine-gusikowski
+- 
+  type: relations/money/debtor
+  item: companies/gerlach-group
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-mraz
+- 
+  type: relations/money/debtor
+  item: companies/schoen-reinger
+- 
+  type: relations/money/debtor
+  item: companies/dooley-llc
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/visited
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

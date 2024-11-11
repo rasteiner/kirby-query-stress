@@ -1,0 +1,64 @@
+Title: Katherine Murphy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/harold-reichel
+- 
+  type: relations/parental/brosis
+  item: people/adalberto-runte
+- 
+  type: relations/parental/friend
+  item: people/mrs-lilla-volkman-dvm
+- 
+  type: relations/money/debtor
+  item: people/jevon-botsford-v
+- 
+  type: relations/parental/brosis
+  item: people/rebeka-weimann
+- 
+  type: relations/parental/friend
+  item: people/odessa-kassulke
+- 
+  type: relations/work/client
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/bins-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

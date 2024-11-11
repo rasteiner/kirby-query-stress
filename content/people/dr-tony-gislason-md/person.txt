@@ -1,0 +1,64 @@
+Title: Dr. Tony Gislason MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/caleigh-hessel
+- 
+  type: relations/parental/brosis
+  item: people/kaelyn-abshire
+- 
+  type: relations/money/creditor
+  item: people/elinor-bogisich-v
+- 
+  type: relations/parental/brosis
+  item: people/yesenia-gleason-jr
+- 
+  type: relations/money/creditor
+  item: people/adolf-lind
+- 
+  type: relations/parental/colleague
+  item: people/herminia-jacobs
+- 
+  type: relations/money/debtor
+  item: companies/padberg-white
+- 
+  type: relations/work/employer
+  item: companies/gutmann-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/barrows-pouros-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/wolf-steuber
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/residence
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/residence
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/residence
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

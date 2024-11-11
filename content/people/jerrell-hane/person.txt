@@ -1,0 +1,64 @@
+Title: Jerrell Hane
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/charlene-turcotte-v
+- 
+  type: relations/parental/friend
+  item: people/hellen-haag
+- 
+  type: relations/money/creditor
+  item: people/elliot-abshire-iii
+- 
+  type: relations/parental/mom
+  item: people/ewald-tremblay
+- 
+  type: relations/money/creditor
+  item: people/bert-tromp-md
+- 
+  type: relations/parental/dad
+  item: people/prof-shanon-lindgren-dds
+- 
+  type: relations/money/creditor
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/money/creditor
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Ms. Sandrine Mosciski I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/scarlett-mccullough
+- 
+  type: relations/parental/friend
+  item: people/mr-tyler-hintz-dds
+- 
+  type: relations/parental/friend
+  item: people/anibal-lakin
+- 
+  type: relations/money/creditor
+  item: people/emmett-wilkinson
+- 
+  type: relations/money/debtor
+  item: people/alivia-okuneva
+- 
+  type: relations/parental/friend
+  item: people/dustin-spinka
+- 
+  type: relations/money/creditor
+  item: companies/waters-and-sons
+- 
+  type: relations/work/employer
+  item: companies/little-sipes
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-mertz-and-runolfsson
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-wiza-and-hahn
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

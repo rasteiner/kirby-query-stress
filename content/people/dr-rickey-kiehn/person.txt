@@ -1,0 +1,64 @@
+Title: Dr. Rickey Kiehn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-celestine-mills-md
+- 
+  type: relations/parental/dad
+  item: people/reggie-hermiston
+- 
+  type: relations/money/debtor
+  item: people/sandra-champlin-phd
+- 
+  type: relations/parental/brosis
+  item: people/mr-joshuah-langosh-i
+- 
+  type: relations/parental/brosis
+  item: people/jade-herman
+- 
+  type: relations/parental/dad
+  item: people/cristobal-mayert
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/employer
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/visited
+  item: places/robertstown

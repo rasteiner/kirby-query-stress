@@ -1,0 +1,68 @@
+Title: Abdullah McKenzie
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/sierra-mcclure
+- 
+  type: relations/parental/colleague
+  item: people/miss-valentina-balistreri
+- 
+  type: relations/parental/mom
+  item: people/monserrate-von
+- 
+  type: relations/parental/mom
+  item: people/dianna-swaniawski
+- 
+  type: relations/parental/brosis
+  item: people/gilberto-rodriguez
+- 
+  type: relations/money/debtor
+  item: people/benton-hand
+- 
+  type: relations/work/employer
+  item: companies/stark-hagenes-and-rowe
+- 
+  type: relations/money/creditor
+  item: companies/davis-harber
+- 
+  type: relations/work/client
+  item: companies/kshlerin-hoppe
+- 
+  type: relations/money/debtor
+  item: companies/thiel-walker
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort
+
+----
+
+Uuid: avtqyexldhnyxryo

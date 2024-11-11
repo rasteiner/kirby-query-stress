@@ -1,0 +1,64 @@
+Title: Zetta Heathcote
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/walton-white
+- 
+  type: relations/parental/brosis
+  item: people/hoyt-price
+- 
+  type: relations/parental/friend
+  item: people/dolly-thiel
+- 
+  type: relations/money/creditor
+  item: people/pearl-oberbrunner
+- 
+  type: relations/parental/dad
+  item: people/armand-keeling
+- 
+  type: relations/parental/colleague
+  item: people/neal-walker
+- 
+  type: relations/money/debtor
+  item: companies/kunde-roberts-and-bergstrom
+- 
+  type: relations/money/creditor
+  item: companies/welch-kreiger
+- 
+  type: relations/work/client
+  item: companies/nader-mcclure
+- 
+  type: relations/money/creditor
+  item: companies/lesch-and-sons
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

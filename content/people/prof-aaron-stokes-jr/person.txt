@@ -1,0 +1,64 @@
+Title: Prof. Aaron Stokes Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/danial-parisian-iii
+- 
+  type: relations/parental/mom
+  item: people/tremaine-daniel
+- 
+  type: relations/parental/colleague
+  item: people/prof-korbin-barton-iv
+- 
+  type: relations/parental/friend
+  item: people/prof-annie-treutel
+- 
+  type: relations/parental/colleague
+  item: people/bria-zieme
+- 
+  type: relations/parental/colleague
+  item: people/flavio-collins
+- 
+  type: relations/work/employer
+  item: companies/kutch-beer-and-von
+- 
+  type: relations/work/employer
+  item: companies/lebsack-bashirian-and-ratke
+- 
+  type: relations/work/client
+  item: companies/lind-nitzsche-and-lesch
+- 
+  type: relations/money/creditor
+  item: companies/lindgren-rath
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

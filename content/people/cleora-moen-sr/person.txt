@@ -1,0 +1,64 @@
+Title: Cleora Moen Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-meredith-daniel
+- 
+  type: relations/money/debtor
+  item: people/mrs-evangeline-daniel
+- 
+  type: relations/parental/colleague
+  item: people/adaline-schoen
+- 
+  type: relations/parental/friend
+  item: people/nikki-kutch
+- 
+  type: relations/parental/dad
+  item: people/karelle-price-md
+- 
+  type: relations/money/debtor
+  item: people/lexus-shields
+- 
+  type: relations/money/creditor
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/kutch-gerhold
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/work/client
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/residence
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

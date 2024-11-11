@@ -1,0 +1,64 @@
+Title: Dr. Julius Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kris-jast-phd
+- 
+  type: relations/money/creditor
+  item: people/ulises-ratke
+- 
+  type: relations/parental/dad
+  item: people/salvador-walsh
+- 
+  type: relations/parental/friend
+  item: people/cornelius-bode-v
+- 
+  type: relations/parental/dad
+  item: people/kaden-heidenreich-dvm
+- 
+  type: relations/parental/colleague
+  item: people/chet-cassin
+- 
+  type: relations/money/debtor
+  item: companies/berge-champlin-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/dicki-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/gibson-llc
+- 
+  type: relations/money/debtor
+  item: companies/waters-inc
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

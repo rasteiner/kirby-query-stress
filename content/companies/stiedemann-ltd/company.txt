@@ -1,0 +1,43 @@
+Title: Stiedemann Ltd
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/graham-inc
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-llc
+- 
+  type: relations/money/debtor
+  item: companies/windler-plc
+- 
+  type: relations/money/creditor
+  item: companies/ruecker-dubuque
+- 
+  type: relations/money/debtor
+  item: companies/nikolaus-davis-and-haag
+- 
+  type: relations/money/debtor
+  item: companies/cruickshank-inc
+- 
+  type: relations/money/debtor
+  item: companies/davis-kemmer
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort

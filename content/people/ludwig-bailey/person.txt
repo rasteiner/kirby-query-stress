@@ -1,0 +1,64 @@
+Title: Ludwig Bailey
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/wellington-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/yadira-mayer-iv
+- 
+  type: relations/parental/dad
+  item: people/aglae-adams
+- 
+  type: relations/parental/brosis
+  item: people/adela-dach
+- 
+  type: relations/parental/colleague
+  item: people/ms-theresia-rice
+- 
+  type: relations/parental/dad
+  item: people/zoey-bernhard
+- 
+  type: relations/money/creditor
+  item: companies/yost-o-conner
+- 
+  type: relations/work/client
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/schiller-strosin
+- 
+  type: relations/money/creditor
+  item: companies/walsh-lynch
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

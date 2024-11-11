@@ -1,0 +1,64 @@
+Title: Prof. Kristian Stiedemann II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/lindsey-ebert-ii
+- 
+  type: relations/parental/brosis
+  item: people/krista-hayes
+- 
+  type: relations/parental/friend
+  item: people/mrs-gwendolyn-roberts-phd
+- 
+  type: relations/parental/mom
+  item: people/prof-tyshawn-lynch
+- 
+  type: relations/parental/brosis
+  item: people/connor-koelpin-jr
+- 
+  type: relations/parental/colleague
+  item: people/dr-tony-gislason-md
+- 
+  type: relations/money/creditor
+  item: companies/christiansen-and-sons
+- 
+  type: relations/work/employer
+  item: companies/lueilwitz-plc
+- 
+  type: relations/work/employer
+  item: companies/wintheiser-price-and-smitham
+- 
+  type: relations/money/debtor
+  item: companies/schiller-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

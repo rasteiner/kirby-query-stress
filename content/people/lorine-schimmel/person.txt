@@ -1,0 +1,64 @@
+Title: Lorine Schimmel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/gianni-kuhic
+- 
+  type: relations/money/creditor
+  item: people/prof-arturo-feil
+- 
+  type: relations/money/debtor
+  item: people/ryder-barton
+- 
+  type: relations/parental/friend
+  item: people/dr-jalen-emard-ii
+- 
+  type: relations/money/debtor
+  item: people/mrs-talia-corwin
+- 
+  type: relations/money/debtor
+  item: people/violette-cummerata
+- 
+  type: relations/work/client
+  item: companies/mitchell-funk-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/turcotte-gottlieb
+- 
+  type: relations/money/debtor
+  item: companies/bode-langosh-and-dickinson
+- 
+  type: relations/work/client
+  item: companies/beahan-schroeder
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

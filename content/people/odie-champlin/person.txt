@@ -1,0 +1,64 @@
+Title: Odie Champlin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/humberto-halvorson
+- 
+  type: relations/parental/mom
+  item: people/billie-davis
+- 
+  type: relations/parental/mom
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/money/debtor
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/parental/dad
+  item: people/madaline-o-kon
+- 
+  type: relations/money/debtor
+  item: people/amira-hintz
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/work/employer
+  item: companies/romaguera-inc
+- 
+  type: relations/money/creditor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/work/client
+  item: companies/skiles-johns
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

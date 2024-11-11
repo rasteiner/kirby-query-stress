@@ -1,0 +1,64 @@
+Title: Dr. Angus Schumm Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/gordon-balistreri
+- 
+  type: relations/parental/mom
+  item: people/lauriane-bergnaum
+- 
+  type: relations/parental/dad
+  item: people/chanel-ziemann
+- 
+  type: relations/parental/mom
+  item: people/morgan-runolfsson
+- 
+  type: relations/parental/friend
+  item: people/ray-beer
+- 
+  type: relations/parental/brosis
+  item: people/chelsey-watsica-iv
+- 
+  type: relations/work/employer
+  item: companies/turcotte-bauch-and-mosciski
+- 
+  type: relations/money/creditor
+  item: companies/jenkins-veum
+- 
+  type: relations/money/creditor
+  item: companies/kshlerin-bahringer-and-swift
+- 
+  type: relations/work/employer
+  item: companies/hane-ltd
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/visited
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

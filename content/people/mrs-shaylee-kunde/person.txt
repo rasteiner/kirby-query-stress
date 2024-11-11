@@ -1,0 +1,64 @@
+Title: Mrs. Shaylee Kunde
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-sally-will-sr
+- 
+  type: relations/parental/mom
+  item: people/dr-hillard-hilpert
+- 
+  type: relations/parental/friend
+  item: people/prof-milan-lubowitz
+- 
+  type: relations/parental/colleague
+  item: people/dr-victor-gottlieb
+- 
+  type: relations/money/creditor
+  item: people/prof-kory-rogahn-i
+- 
+  type: relations/parental/colleague
+  item: people/esta-koss
+- 
+  type: relations/money/creditor
+  item: companies/weissnat-stamm
+- 
+  type: relations/money/creditor
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/work/employer
+  item: companies/rolfson-llc
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

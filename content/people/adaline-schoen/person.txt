@@ -1,0 +1,64 @@
+Title: Adaline Schoen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-ottilie-heathcote-md
+- 
+  type: relations/parental/brosis
+  item: people/sarina-bartell
+- 
+  type: relations/parental/dad
+  item: people/pamela-reinger
+- 
+  type: relations/parental/colleague
+  item: people/jewell-crist-iii
+- 
+  type: relations/money/creditor
+  item: people/jimmie-connelly
+- 
+  type: relations/parental/mom
+  item: people/haylee-thompson-dvm
+- 
+  type: relations/work/employer
+  item: companies/harris-macejkovic
+- 
+  type: relations/work/client
+  item: companies/kovacek-llc
+- 
+  type: relations/work/employer
+  item: companies/bayer-group
+- 
+  type: relations/money/creditor
+  item: companies/cassin-group
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

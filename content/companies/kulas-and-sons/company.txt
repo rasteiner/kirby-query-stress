@@ -1,0 +1,43 @@
+Title: Kulas and Sons
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/grimes-inc
+- 
+  type: relations/money/debtor
+  item: companies/gibson-llc
+- 
+  type: relations/money/creditor
+  item: companies/beer-treutel
+- 
+  type: relations/money/debtor
+  item: companies/larson-denesik
+- 
+  type: relations/money/creditor
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/schulist-wunsch
+- 
+  type: relations/location/visited
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh

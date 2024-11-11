@@ -1,0 +1,64 @@
+Title: Michel Sanford II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/andreane-kling-sr
+- 
+  type: relations/parental/friend
+  item: people/caleigh-lueilwitz-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-ross-hagenes
+- 
+  type: relations/parental/mom
+  item: people/joe-greenfelder
+- 
+  type: relations/parental/mom
+  item: people/prof-karelle-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/miss-drew-lebsack-phd
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/work/client
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

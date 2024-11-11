@@ -1,0 +1,64 @@
+Title: Kathryn Cummerata
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/madaline-spencer
+- 
+  type: relations/parental/dad
+  item: people/devon-rosenbaum
+- 
+  type: relations/parental/colleague
+  item: people/lulu-waters
+- 
+  type: relations/parental/friend
+  item: people/dr-michale-maggio-iv
+- 
+  type: relations/parental/friend
+  item: people/donnie-volkman
+- 
+  type: relations/money/debtor
+  item: people/abe-spinka-phd
+- 
+  type: relations/money/creditor
+  item: companies/bashirian-veum
+- 
+  type: relations/money/creditor
+  item: companies/fadel-schultz-and-tremblay
+- 
+  type: relations/work/client
+  item: companies/bogisich-cole
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

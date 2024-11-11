@@ -1,0 +1,64 @@
+Title: Cleo Conroy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/hilda-haag-iii
+- 
+  type: relations/parental/friend
+  item: people/darren-champlin-sr
+- 
+  type: relations/parental/friend
+  item: people/alvis-casper
+- 
+  type: relations/money/debtor
+  item: people/ima-jakubowski
+- 
+  type: relations/parental/colleague
+  item: people/edwina-crooks
+- 
+  type: relations/parental/colleague
+  item: people/elody-tillman
+- 
+  type: relations/work/client
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/work/client
+  item: companies/kub-llc
+- 
+  type: relations/work/employer
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

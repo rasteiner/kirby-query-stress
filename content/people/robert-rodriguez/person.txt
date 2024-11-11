@@ -1,0 +1,64 @@
+Title: Robert Rodriguez
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/tillman-veum
+- 
+  type: relations/money/creditor
+  item: people/mrs-yasmine-rempel-v
+- 
+  type: relations/parental/dad
+  item: people/abdullah-casper
+- 
+  type: relations/parental/brosis
+  item: people/wilton-gleason
+- 
+  type: relations/money/debtor
+  item: people/roel-cole
+- 
+  type: relations/parental/mom
+  item: people/kayley-dach-md
+- 
+  type: relations/work/employer
+  item: companies/o-conner-plc
+- 
+  type: relations/work/employer
+  item: companies/schimmel-wisoky-and-mcglynn
+- 
+  type: relations/money/debtor
+  item: companies/littel-armstrong
+- 
+  type: relations/money/creditor
+  item: companies/frami-schiller-and-schimmel
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

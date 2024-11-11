@@ -1,0 +1,64 @@
+Title: Jasen Kerluke I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mr-monte-kerluke
+- 
+  type: relations/parental/dad
+  item: people/onie-howell
+- 
+  type: relations/parental/mom
+  item: people/carleton-boyer-sr
+- 
+  type: relations/parental/colleague
+  item: people/arianna-grant
+- 
+  type: relations/parental/mom
+  item: people/montana-mraz-dvm
+- 
+  type: relations/parental/dad
+  item: people/ms-betty-rowe
+- 
+  type: relations/work/client
+  item: companies/considine-bruen
+- 
+  type: relations/money/debtor
+  item: companies/emard-and-sons
+- 
+  type: relations/work/employer
+  item: companies/kessler-stark
+- 
+  type: relations/money/creditor
+  item: companies/abbott-walter-and-pollich
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

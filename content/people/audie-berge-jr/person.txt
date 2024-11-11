@@ -1,0 +1,64 @@
+Title: Audie Berge Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/haven-ondricka-jr
+- 
+  type: relations/parental/colleague
+  item: people/rossie-bechtelar-dvm
+- 
+  type: relations/parental/dad
+  item: people/roel-dicki-jr
+- 
+  type: relations/parental/dad
+  item: people/destinee-kutch
+- 
+  type: relations/parental/dad
+  item: people/prof-joy-cronin
+- 
+  type: relations/parental/colleague
+  item: people/shawn-goyette
+- 
+  type: relations/money/debtor
+  item: companies/howe-group
+- 
+  type: relations/work/client
+  item: companies/rath-franecki-and-schuppe
+- 
+  type: relations/money/debtor
+  item: companies/kautzer-nicolas-and-beatty
+- 
+  type: relations/money/debtor
+  item: companies/ankunding-renner-and-schulist
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

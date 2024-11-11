@@ -1,0 +1,64 @@
+Title: Anissa Kuhic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/delphia-walker
+- 
+  type: relations/money/debtor
+  item: people/edythe-lesch
+- 
+  type: relations/parental/friend
+  item: people/miss-shaina-moore-iv
+- 
+  type: relations/parental/brosis
+  item: people/mr-pierre-fahey-i
+- 
+  type: relations/parental/friend
+  item: people/mr-curtis-zulauf
+- 
+  type: relations/money/creditor
+  item: people/gust-block-dds
+- 
+  type: relations/work/employer
+  item: companies/koch-ltd
+- 
+  type: relations/work/employer
+  item: companies/schoen-group
+- 
+  type: relations/work/client
+  item: companies/daniel-hills
+- 
+  type: relations/money/debtor
+  item: companies/lemke-and-sons
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

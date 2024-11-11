@@ -1,0 +1,64 @@
+Title: Harold Reichel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-cleora-hayes
+- 
+  type: relations/parental/dad
+  item: people/ms-maribel-bayer-dds
+- 
+  type: relations/money/creditor
+  item: people/jayda-paucek
+- 
+  type: relations/parental/friend
+  item: people/amaya-wolff
+- 
+  type: relations/parental/friend
+  item: people/andrew-reinger-iv
+- 
+  type: relations/parental/brosis
+  item: people/rachel-wyman
+- 
+  type: relations/work/employer
+  item: companies/collins-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/debtor
+  item: companies/bailey-hodkiewicz
+- 
+  type: relations/money/creditor
+  item: companies/abshire-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

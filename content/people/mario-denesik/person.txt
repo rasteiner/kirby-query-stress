@@ -1,0 +1,64 @@
+Title: Mario Denesik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/houston-donnelly
+- 
+  type: relations/parental/colleague
+  item: people/cecil-hilpert
+- 
+  type: relations/money/creditor
+  item: people/mr-raul-torphy
+- 
+  type: relations/money/creditor
+  item: people/kianna-prohaska
+- 
+  type: relations/parental/brosis
+  item: people/nona-schmeler-i
+- 
+  type: relations/parental/friend
+  item: people/andre-larson
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/creditor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

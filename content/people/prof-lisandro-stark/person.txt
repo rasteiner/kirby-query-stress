@@ -1,0 +1,64 @@
+Title: Prof. Lisandro Stark
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/leif-rippin
+- 
+  type: relations/parental/colleague
+  item: people/prof-emerson-koch
+- 
+  type: relations/parental/brosis
+  item: people/dr-ezequiel-zemlak
+- 
+  type: relations/parental/brosis
+  item: people/alexandra-kulas
+- 
+  type: relations/parental/colleague
+  item: people/alexandre-howell
+- 
+  type: relations/parental/dad
+  item: people/deangelo-heidenreich
+- 
+  type: relations/work/employer
+  item: companies/pouros-and-sons
+- 
+  type: relations/work/employer
+  item: companies/keeling-denesik
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

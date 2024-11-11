@@ -1,0 +1,64 @@
+Title: Buster Doyle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-walker-fisher
+- 
+  type: relations/parental/mom
+  item: people/kayden-pacocha
+- 
+  type: relations/money/creditor
+  item: people/rick-hyatt
+- 
+  type: relations/parental/mom
+  item: people/lia-kuhlman
+- 
+  type: relations/parental/brosis
+  item: people/elmira-funk
+- 
+  type: relations/parental/dad
+  item: people/haylee-howell
+- 
+  type: relations/work/client
+  item: companies/yundt-llc
+- 
+  type: relations/work/employer
+  item: companies/terry-ltd
+- 
+  type: relations/work/employer
+  item: companies/wiza-purdy-and-balistreri
+- 
+  type: relations/work/client
+  item: companies/hilll-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

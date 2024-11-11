@@ -1,0 +1,65 @@
+Title: Amos Hilll PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clint-west
+- 
+  type: relations/parental/brosis
+  item: people/ramon-marquardt
+- 
+  type: relations/parental/mom
+  item: people/cali-runte
+- 
+  type: relations/parental/mom
+  item: people/raquel-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/prof-geovanni-gusikowski-dds
+- 
+  type: relations/parental/colleague
+  item: people/percy-jenkins
+- 
+  type: relations/money/creditor
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/lemke-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leannon-pacocha
+- 
+  type: relations/work/employer
+  item: companies/dach-and-sons
+- 
+  type: relations/location/visited
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

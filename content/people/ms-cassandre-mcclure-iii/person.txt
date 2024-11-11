@@ -1,0 +1,64 @@
+Title: Ms. Cassandre McClure III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-eusebio-harvey
+- 
+  type: relations/parental/mom
+  item: people/mallie-prosacco
+- 
+  type: relations/parental/dad
+  item: people/amelia-stamm-phd
+- 
+  type: relations/parental/brosis
+  item: people/zita-blick
+- 
+  type: relations/parental/colleague
+  item: people/cali-quigley
+- 
+  type: relations/money/creditor
+  item: people/mr-zakary-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/money/creditor
+  item: companies/walter-lemke
+- 
+  type: relations/work/client
+  item: companies/brown-group
+- 
+  type: relations/money/creditor
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

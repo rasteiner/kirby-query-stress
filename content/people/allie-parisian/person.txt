@@ -1,0 +1,64 @@
+Title: Allie Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/connor-koelpin-jr
+- 
+  type: relations/parental/mom
+  item: people/dr-tony-gislason-md
+- 
+  type: relations/money/creditor
+  item: people/keanu-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/dr-deshaun-lang
+- 
+  type: relations/money/creditor
+  item: people/arvilla-green
+- 
+  type: relations/parental/dad
+  item: people/audra-zulauf
+- 
+  type: relations/work/client
+  item: companies/paucek-ruecker
+- 
+  type: relations/work/client
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/creditor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

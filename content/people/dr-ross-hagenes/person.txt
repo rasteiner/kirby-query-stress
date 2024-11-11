@@ -1,0 +1,64 @@
+Title: Dr. Ross Hagenes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sasha-rutherford-v
+- 
+  type: relations/money/creditor
+  item: people/neoma-kunze
+- 
+  type: relations/parental/colleague
+  item: people/stephon-hudson
+- 
+  type: relations/parental/friend
+  item: people/rick-erdman
+- 
+  type: relations/parental/colleague
+  item: people/miss-aditya-ondricka-i
+- 
+  type: relations/parental/brosis
+  item: people/bernie-schoen-iii
+- 
+  type: relations/money/debtor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/debtor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/work/employer
+  item: companies/schamberger-hamill
+- 
+  type: relations/money/debtor
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

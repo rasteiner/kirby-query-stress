@@ -1,0 +1,64 @@
+Title: Rocky Crist
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/bert-tromp-md
+- 
+  type: relations/parental/dad
+  item: people/prof-shanon-lindgren-dds
+- 
+  type: relations/parental/friend
+  item: people/providenci-wilkinson
+- 
+  type: relations/parental/colleague
+  item: people/gregoria-lind
+- 
+  type: relations/parental/mom
+  item: people/prof-krista-braun-phd
+- 
+  type: relations/parental/brosis
+  item: people/dr-jensen-windler
+- 
+  type: relations/work/employer
+  item: companies/labadie-plc
+- 
+  type: relations/money/debtor
+  item: companies/fisher-adams
+- 
+  type: relations/work/client
+  item: companies/mertz-and-sons
+- 
+  type: relations/work/client
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

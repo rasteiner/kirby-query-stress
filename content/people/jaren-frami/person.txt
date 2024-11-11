@@ -1,0 +1,64 @@
+Title: Jaren Frami
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/micah-blick-i
+- 
+  type: relations/parental/mom
+  item: people/brendan-wisozk
+- 
+  type: relations/parental/brosis
+  item: people/minerva-lakin-jr
+- 
+  type: relations/money/debtor
+  item: people/elmer-rempel
+- 
+  type: relations/parental/dad
+  item: people/imelda-mosciski
+- 
+  type: relations/money/creditor
+  item: people/amani-dare
+- 
+  type: relations/work/client
+  item: companies/gutkowski-wisoky
+- 
+  type: relations/work/client
+  item: companies/dibbert-heller-and-gerlach
+- 
+  type: relations/money/debtor
+  item: companies/kuhlman-bernier-and-stark
+- 
+  type: relations/work/client
+  item: companies/mayer-kutch
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

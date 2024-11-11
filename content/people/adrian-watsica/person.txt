@@ -1,0 +1,65 @@
+Title: Adrian Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/brando-schowalter
+- 
+  type: relations/parental/mom
+  item: people/miss-ava-klocko
+- 
+  type: relations/parental/friend
+  item: people/august-nienow-i
+- 
+  type: relations/money/creditor
+  item: people/stacy-schiller
+- 
+  type: relations/parental/mom
+  item: people/lexus-rodriguez
+- 
+  type: relations/money/creditor
+  item: people/gilda-johnson
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/work/employer
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/debtor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

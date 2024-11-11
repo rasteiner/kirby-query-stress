@@ -1,0 +1,64 @@
+Title: Eladio Keebler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/everette-boyle
+- 
+  type: relations/parental/brosis
+  item: people/dr-hadley-volkman
+- 
+  type: relations/parental/mom
+  item: people/mrs-rhoda-schultz
+- 
+  type: relations/parental/colleague
+  item: people/ike-zemlak
+- 
+  type: relations/parental/dad
+  item: people/prof-sherman-schaefer-md
+- 
+  type: relations/money/debtor
+  item: people/mrs-ashtyn-funk
+- 
+  type: relations/work/employer
+  item: companies/boyer-llc
+- 
+  type: relations/money/debtor
+  item: companies/medhurst-group
+- 
+  type: relations/money/debtor
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/client
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

@@ -1,0 +1,64 @@
+Title: Dr. Benton Rutherford Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/andre-ruecker
+- 
+  type: relations/parental/mom
+  item: people/mr-winfield-mayer-i
+- 
+  type: relations/money/debtor
+  item: people/pasquale-bergnaum
+- 
+  type: relations/parental/brosis
+  item: people/gabrielle-kassulke
+- 
+  type: relations/money/debtor
+  item: people/ephraim-paucek-dds
+- 
+  type: relations/parental/friend
+  item: people/prof-willa-sanford
+- 
+  type: relations/money/debtor
+  item: companies/shields-mckenzie-and-dibbert
+- 
+  type: relations/money/debtor
+  item: companies/mclaughlin-plc
+- 
+  type: relations/work/employer
+  item: companies/kovacek-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/funk-hammes-and-waters
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/residence
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

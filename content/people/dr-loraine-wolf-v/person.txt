@@ -1,0 +1,64 @@
+Title: Dr. Loraine Wolf V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ernest-gottlieb
+- 
+  type: relations/parental/brosis
+  item: people/dr-andrew-rau
+- 
+  type: relations/parental/mom
+  item: people/abelardo-goldner
+- 
+  type: relations/parental/friend
+  item: people/gerry-jenkins
+- 
+  type: relations/parental/friend
+  item: people/dr-roselyn-feil-i
+- 
+  type: relations/parental/colleague
+  item: people/lambert-kuvalis
+- 
+  type: relations/work/client
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/employer
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

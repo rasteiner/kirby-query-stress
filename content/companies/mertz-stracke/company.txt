@@ -1,0 +1,44 @@
+Title: Mertz-Stracke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/will-o-connell-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/cassin-group
+- 
+  type: relations/money/creditor
+  item: companies/altenwerth-herman-and-lind
+- 
+  type: relations/money/creditor
+  item: companies/doyle-group
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/sporer-sanford
+- 
+  type: relations/money/debtor
+  item: companies/donnelly-dietrich
+- 
+  type: relations/money/creditor
+  item: companies/reichel-funk
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/otiston
+- 
+  type: relations/location/visited
+  item: places/new-sibyl

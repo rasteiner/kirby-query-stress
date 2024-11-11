@@ -1,0 +1,64 @@
+Title: Mr. Marvin Murazik PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-cydney-shanahan-dds
+- 
+  type: relations/parental/colleague
+  item: people/arturo-cummings
+- 
+  type: relations/parental/friend
+  item: people/colin-herman
+- 
+  type: relations/parental/mom
+  item: people/dr-hugh-hamill
+- 
+  type: relations/money/debtor
+  item: people/clotilde-schamberger
+- 
+  type: relations/parental/colleague
+  item: people/felix-gerhold
+- 
+  type: relations/money/debtor
+  item: companies/kshlerin-donnelly
+- 
+  type: relations/money/debtor
+  item: companies/hackett-inc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/eichmann-leuschke
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/residence
+  item: places/rubyeville
+- 
+  type: relations/location/visited
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

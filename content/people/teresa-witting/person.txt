@@ -1,0 +1,64 @@
+Title: Teresa Witting
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/winston-fritsch
+- 
+  type: relations/parental/colleague
+  item: people/miss-destini-streich
+- 
+  type: relations/parental/dad
+  item: people/magdalen-hammes
+- 
+  type: relations/parental/colleague
+  item: people/dr-rebekah-friesen
+- 
+  type: relations/money/debtor
+  item: people/lindsay-lindgren
+- 
+  type: relations/parental/brosis
+  item: people/dulce-grimes-sr
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/client
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

@@ -1,0 +1,43 @@
+Title: Schiller-Collier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/hagenes-mueller-and-schroeder
+- 
+  type: relations/money/creditor
+  item: companies/nader-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/smith-tromp
+- 
+  type: relations/money/debtor
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/rowe-osinski
+- 
+  type: relations/money/creditor
+  item: companies/goldner-beier
+- 
+  type: relations/money/debtor
+  item: companies/walter-lemke
+- 
+  type: relations/money/debtor
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

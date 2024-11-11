@@ -1,0 +1,64 @@
+Title: Mrs. Princess Nikolaus
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-milan-kuhlman-md
+- 
+  type: relations/money/creditor
+  item: people/kaci-lynch
+- 
+  type: relations/parental/dad
+  item: people/douglas-veum
+- 
+  type: relations/parental/colleague
+  item: people/prof-lisa-feeney
+- 
+  type: relations/money/debtor
+  item: people/monserrat-mosciski
+- 
+  type: relations/money/creditor
+  item: people/miss-twila-cormier-jr
+- 
+  type: relations/work/client
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/work/client
+  item: companies/farrell-green
+- 
+  type: relations/work/client
+  item: companies/predovic-plc
+- 
+  type: relations/money/debtor
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

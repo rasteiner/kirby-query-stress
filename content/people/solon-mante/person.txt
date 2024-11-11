@@ -1,0 +1,64 @@
+Title: Solon Mante
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jamison-d-amore
+- 
+  type: relations/money/debtor
+  item: people/dr-dorris-volkman-ii
+- 
+  type: relations/parental/dad
+  item: people/myra-kemmer
+- 
+  type: relations/parental/friend
+  item: people/viola-gerlach-dds
+- 
+  type: relations/parental/friend
+  item: people/santos-franecki-dvm
+- 
+  type: relations/parental/dad
+  item: people/wade-marvin
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

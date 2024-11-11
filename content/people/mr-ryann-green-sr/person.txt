@@ -1,0 +1,64 @@
+Title: Mr. Ryann Green Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/claudia-daugherty
+- 
+  type: relations/money/debtor
+  item: people/chanelle-schuppe
+- 
+  type: relations/parental/brosis
+  item: people/corene-thompson
+- 
+  type: relations/parental/dad
+  item: people/golda-sauer-iii
+- 
+  type: relations/money/debtor
+  item: people/mariam-hayes
+- 
+  type: relations/parental/friend
+  item: people/kaylah-wisozk-dds
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-inc
+- 
+  type: relations/money/creditor
+  item: companies/murazik-thiel
+- 
+  type: relations/work/client
+  item: companies/terry-spinka
+- 
+  type: relations/money/creditor
+  item: companies/runte-kerluke-and-adams
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/visited
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/visited
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

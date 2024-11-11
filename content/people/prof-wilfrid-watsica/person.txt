@@ -1,0 +1,64 @@
+Title: Prof. Wilfrid Watsica
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-keshaun-d-amore
+- 
+  type: relations/parental/dad
+  item: people/ms-fatima-west-v
+- 
+  type: relations/parental/colleague
+  item: people/mrs-madge-heaney-sr
+- 
+  type: relations/parental/dad
+  item: people/arlene-nikolaus
+- 
+  type: relations/parental/dad
+  item: people/prof-karli-moore
+- 
+  type: relations/parental/mom
+  item: people/dr-wayne-macejkovic-v
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/debtor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/client
+  item: companies/harvey-ltd
+- 
+  type: relations/work/client
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

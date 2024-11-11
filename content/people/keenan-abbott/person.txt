@@ -1,0 +1,64 @@
+Title: Keenan Abbott
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/unique-schiller
+- 
+  type: relations/parental/mom
+  item: people/thora-bednar-iii
+- 
+  type: relations/money/creditor
+  item: people/mrs-giovanna-deckow-v
+- 
+  type: relations/money/debtor
+  item: people/rowena-paucek-jr
+- 
+  type: relations/money/creditor
+  item: people/kamron-pollich
+- 
+  type: relations/parental/mom
+  item: people/enoch-walsh
+- 
+  type: relations/work/client
+  item: companies/hills-plc
+- 
+  type: relations/money/creditor
+  item: companies/wiza-llc
+- 
+  type: relations/work/client
+  item: companies/maggio-halvorson-and-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/aufderhar-mayert
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

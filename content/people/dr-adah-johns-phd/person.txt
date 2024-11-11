@@ -1,0 +1,64 @@
+Title: Dr. Adah Johns PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lonnie-lebsack
+- 
+  type: relations/parental/dad
+  item: people/magali-lebsack
+- 
+  type: relations/money/creditor
+  item: people/dasia-pfeffer
+- 
+  type: relations/parental/colleague
+  item: people/prof-darwin-kuhlman-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-tyshawn-baumbach
+- 
+  type: relations/parental/brosis
+  item: people/samanta-wolf
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/client
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/work/employer
+  item: companies/smith-douglas
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

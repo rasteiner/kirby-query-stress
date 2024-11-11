@@ -1,0 +1,65 @@
+Title: Rhianna Lueilwitz
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/tania-hagenes
+- 
+  type: relations/money/debtor
+  item: people/ariel-thiel
+- 
+  type: relations/parental/friend
+  item: people/euna-heathcote-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-saul-schuster-jr
+- 
+  type: relations/parental/mom
+  item: people/reggie-pollich-ii
+- 
+  type: relations/parental/mom
+  item: people/mrs-ada-beier
+- 
+  type: relations/money/debtor
+  item: companies/hammes-koelpin
+- 
+  type: relations/work/employer
+  item: companies/legros-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/debtor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

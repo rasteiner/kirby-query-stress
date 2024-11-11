@@ -1,0 +1,64 @@
+Title: Gilda Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/angelina-jones
+- 
+  type: relations/parental/dad
+  item: people/wilber-boyer
+- 
+  type: relations/parental/mom
+  item: people/dr-juliana-wisozk
+- 
+  type: relations/parental/colleague
+  item: people/turner-bashirian
+- 
+  type: relations/parental/brosis
+  item: people/mr-eldon-romaguera
+- 
+  type: relations/money/debtor
+  item: people/rudy-crist-iii
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/creditor
+  item: companies/balistreri-bernier
+- 
+  type: relations/work/client
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/residence
+  item: places/new-freddy
+- 
+  type: relations/location/residence
+  item: places/new-markhaven

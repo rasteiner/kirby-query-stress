@@ -1,0 +1,64 @@
+Title: Velda Casper II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/vicente-mueller
+- 
+  type: relations/parental/dad
+  item: people/river-schumm
+- 
+  type: relations/money/debtor
+  item: people/lamont-bode
+- 
+  type: relations/parental/dad
+  item: people/alexanne-nienow-v
+- 
+  type: relations/money/creditor
+  item: people/modesto-marvin
+- 
+  type: relations/parental/dad
+  item: people/oceane-larkin
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-oberbrunner
+- 
+  type: relations/work/employer
+  item: companies/stamm-ltd
+- 
+  type: relations/work/employer
+  item: companies/kub-llc
+- 
+  type: relations/work/client
+  item: companies/quitzon-vonrueden
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

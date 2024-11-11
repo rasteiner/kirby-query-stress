@@ -1,0 +1,43 @@
+Title: Beier-Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/aufderhar-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-ltd
+- 
+  type: relations/money/debtor
+  item: companies/kassulke-adams-and-connelly
+- 
+  type: relations/money/creditor
+  item: companies/fahey-olson
+- 
+  type: relations/money/creditor
+  item: companies/fisher-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/bauch-crist
+- 
+  type: relations/money/creditor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/murazik-mills
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/south-scarlett

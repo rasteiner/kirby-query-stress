@@ -1,0 +1,64 @@
+Title: Prof. Marquis Huels
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/miss-cassie-tillman-dvm
+- 
+  type: relations/parental/brosis
+  item: people/guido-graham
+- 
+  type: relations/parental/brosis
+  item: people/wilson-lang
+- 
+  type: relations/money/debtor
+  item: people/missouri-effertz
+- 
+  type: relations/money/creditor
+  item: people/shanon-rohan-ii
+- 
+  type: relations/money/debtor
+  item: people/samantha-connelly
+- 
+  type: relations/money/debtor
+  item: companies/kuvalis-ltd
+- 
+  type: relations/work/employer
+  item: companies/armstrong-leuschke-and-hoeger
+- 
+  type: relations/money/debtor
+  item: companies/stoltenberg-kuhn
+- 
+  type: relations/work/employer
+  item: companies/von-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

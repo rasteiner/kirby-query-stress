@@ -1,0 +1,64 @@
+Title: Heloise Kulas
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/aliyah-kilback
+- 
+  type: relations/parental/dad
+  item: people/ines-goldner
+- 
+  type: relations/parental/friend
+  item: people/garnett-boehm
+- 
+  type: relations/money/creditor
+  item: people/giuseppe-spencer
+- 
+  type: relations/money/creditor
+  item: people/prof-russel-erdman
+- 
+  type: relations/money/debtor
+  item: people/mr-joshua-stracke
+- 
+  type: relations/work/client
+  item: companies/raynor-schinner
+- 
+  type: relations/money/debtor
+  item: companies/hills-inc
+- 
+  type: relations/money/creditor
+  item: companies/king-plc
+- 
+  type: relations/money/debtor
+  item: companies/kiehn-plc
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

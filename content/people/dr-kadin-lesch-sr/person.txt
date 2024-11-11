@@ -1,0 +1,64 @@
+Title: Dr. Kadin Lesch Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jaime-leffler
+- 
+  type: relations/parental/colleague
+  item: people/adeline-borer
+- 
+  type: relations/parental/colleague
+  item: people/marley-turner-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-murphy-jerde
+- 
+  type: relations/parental/brosis
+  item: people/miss-jeanette-heller-sr
+- 
+  type: relations/parental/dad
+  item: people/tania-effertz
+- 
+  type: relations/work/employer
+  item: companies/schneider-stark-and-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/farrell-green
+- 
+  type: relations/work/employer
+  item: companies/predovic-plc
+- 
+  type: relations/work/client
+  item: companies/erdman-stoltenberg
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

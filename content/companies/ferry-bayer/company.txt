@@ -1,0 +1,43 @@
+Title: Ferry-Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/mante-plc
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/money/creditor
+  item: companies/klein-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/debtor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

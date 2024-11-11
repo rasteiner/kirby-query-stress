@@ -1,0 +1,64 @@
+Title: Rigoberto Yost
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/imogene-christiansen
+- 
+  type: relations/money/creditor
+  item: people/dortha-johns
+- 
+  type: relations/parental/dad
+  item: people/juliana-torp
+- 
+  type: relations/parental/colleague
+  item: people/leta-dibbert
+- 
+  type: relations/parental/brosis
+  item: people/ova-pfeffer-md
+- 
+  type: relations/money/debtor
+  item: people/dr-jesse-metz-phd
+- 
+  type: relations/work/employer
+  item: companies/huels-walter
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/creditor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

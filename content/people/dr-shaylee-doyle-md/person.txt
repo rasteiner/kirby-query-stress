@@ -1,0 +1,64 @@
+Title: Dr. Shaylee Doyle MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kip-kuhlman
+- 
+  type: relations/parental/colleague
+  item: people/ms-reva-gleason-md
+- 
+  type: relations/parental/friend
+  item: people/annabell-buckridge
+- 
+  type: relations/parental/dad
+  item: people/lauriane-upton-sr
+- 
+  type: relations/money/creditor
+  item: people/abagail-casper
+- 
+  type: relations/parental/friend
+  item: people/leslie-parker
+- 
+  type: relations/work/client
+  item: companies/quigley-luettgen
+- 
+  type: relations/work/employer
+  item: companies/o-kon-ltd
+- 
+  type: relations/money/debtor
+  item: companies/collier-plc
+- 
+  type: relations/money/debtor
+  item: companies/smitham-flatley-and-hahn
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

@@ -1,0 +1,64 @@
+Title: Reymundo Cormier
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jessica-hagenes
+- 
+  type: relations/parental/mom
+  item: people/valentina-hyatt
+- 
+  type: relations/money/creditor
+  item: people/jacquelyn-ryan
+- 
+  type: relations/parental/colleague
+  item: people/cesar-erdman
+- 
+  type: relations/parental/dad
+  item: people/isadore-haag
+- 
+  type: relations/parental/mom
+  item: people/dusty-ebert
+- 
+  type: relations/money/creditor
+  item: companies/nicolas-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lang-krajcik-and-schmeler
+- 
+  type: relations/work/employer
+  item: companies/hessel-abbott-and-barton
+- 
+  type: relations/work/employer
+  item: companies/dicki-koelpin
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

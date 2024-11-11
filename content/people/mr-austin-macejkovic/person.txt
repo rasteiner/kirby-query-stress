@@ -1,0 +1,64 @@
+Title: Mr. Austin Macejkovic
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/yvonne-schroeder
+- 
+  type: relations/parental/brosis
+  item: people/dusty-rempel
+- 
+  type: relations/money/debtor
+  item: people/shany-kirlin
+- 
+  type: relations/parental/brosis
+  item: people/elissa-pfannerstill
+- 
+  type: relations/parental/dad
+  item: people/thalia-kovacek-md
+- 
+  type: relations/parental/friend
+  item: people/dr-ebony-lind-sr
+- 
+  type: relations/money/debtor
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

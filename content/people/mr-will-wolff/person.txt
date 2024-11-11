@@ -1,0 +1,64 @@
+Title: Mr. Will Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-gennaro-lueilwitz-md
+- 
+  type: relations/money/debtor
+  item: people/melody-emard
+- 
+  type: relations/parental/colleague
+  item: people/maximus-dubuque-jr
+- 
+  type: relations/parental/brosis
+  item: people/ursula-fadel
+- 
+  type: relations/parental/brosis
+  item: people/miss-bernadine-reichert
+- 
+  type: relations/parental/friend
+  item: people/gilda-monahan
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/torp-paucek-and-rohan
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

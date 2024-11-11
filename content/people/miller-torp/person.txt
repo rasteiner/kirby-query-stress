@@ -1,0 +1,64 @@
+Title: Miller Torp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/iliana-paucek
+- 
+  type: relations/parental/friend
+  item: people/miss-allison-prosacco
+- 
+  type: relations/parental/friend
+  item: people/vernie-beahan-sr
+- 
+  type: relations/parental/dad
+  item: people/deshaun-lehner
+- 
+  type: relations/money/creditor
+  item: people/alberto-wintheiser-dvm
+- 
+  type: relations/parental/mom
+  item: people/lorenz-price
+- 
+  type: relations/work/client
+  item: companies/labadie-plc
+- 
+  type: relations/work/client
+  item: companies/fisher-adams
+- 
+  type: relations/work/employer
+  item: companies/mertz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/mueller-kautzer-and-bechtelar
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

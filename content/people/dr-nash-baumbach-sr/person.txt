@@ -1,0 +1,64 @@
+Title: Dr. Nash Baumbach Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/denis-ebert-ii
+- 
+  type: relations/parental/friend
+  item: people/mr-ward-will-iv
+- 
+  type: relations/parental/colleague
+  item: people/ms-nellie-kuhlman
+- 
+  type: relations/parental/friend
+  item: people/lila-walter
+- 
+  type: relations/parental/colleague
+  item: people/demarco-kertzmann
+- 
+  type: relations/money/debtor
+  item: people/trudie-veum
+- 
+  type: relations/work/client
+  item: companies/dickinson-plc
+- 
+  type: relations/money/debtor
+  item: companies/gislason-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

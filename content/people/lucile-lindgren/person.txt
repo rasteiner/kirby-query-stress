@@ -1,0 +1,64 @@
+Title: Lucile Lindgren
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lucinda-ortiz
+- 
+  type: relations/money/creditor
+  item: people/jaden-heller
+- 
+  type: relations/parental/brosis
+  item: people/nicole-stokes
+- 
+  type: relations/parental/dad
+  item: people/gaetano-fay
+- 
+  type: relations/parental/friend
+  item: people/glenda-champlin
+- 
+  type: relations/parental/brosis
+  item: people/brendan-labadie
+- 
+  type: relations/work/client
+  item: companies/carter-daniel
+- 
+  type: relations/work/client
+  item: companies/ernser-inc
+- 
+  type: relations/work/client
+  item: companies/hyatt-dickinson
+- 
+  type: relations/work/employer
+  item: companies/vandervort-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/residence
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

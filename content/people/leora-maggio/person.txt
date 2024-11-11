@@ -1,0 +1,64 @@
+Title: Leora Maggio
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/misty-fay
+- 
+  type: relations/parental/colleague
+  item: people/freddy-zemlak-ii
+- 
+  type: relations/money/debtor
+  item: people/prof-francis-grant-phd
+- 
+  type: relations/parental/colleague
+  item: people/gerson-ullrich-i
+- 
+  type: relations/parental/brosis
+  item: people/ms-lea-buckridge
+- 
+  type: relations/parental/friend
+  item: people/dr-lazaro-huels-dds
+- 
+  type: relations/work/employer
+  item: companies/eichmann-ltd
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-jacobi-and-ankunding
+- 
+  type: relations/work/employer
+  item: companies/harvey-ltd
+- 
+  type: relations/money/creditor
+  item: companies/leuschke-schmeler-and-dooley
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

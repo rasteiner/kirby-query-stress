@@ -1,0 +1,45 @@
+Title: Kuhn-Renner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/olson-inc
+- 
+  type: relations/money/debtor
+  item: companies/will-plc
+- 
+  type: relations/money/creditor
+  item: >
+    companies/hettinger-watsica-and-jakubowski
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/stanton-stamm-and-rice
+- 
+  type: relations/money/creditor
+  item: companies/grady-reilly-and-kunze
+- 
+  type: relations/money/debtor
+  item: companies/farrell-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dubuque-yost
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn
+- 
+  type: relations/location/visited
+  item: places/east-holden

@@ -1,0 +1,64 @@
+Title: Darien Mueller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-savanah-zieme-i
+- 
+  type: relations/parental/friend
+  item: people/mr-tobin-ebert
+- 
+  type: relations/parental/colleague
+  item: people/kurtis-tromp-md
+- 
+  type: relations/parental/mom
+  item: people/mireille-zulauf
+- 
+  type: relations/money/debtor
+  item: people/chandler-fisher
+- 
+  type: relations/money/creditor
+  item: people/nelle-gorczany
+- 
+  type: relations/money/debtor
+  item: companies/steuber-balistreri
+- 
+  type: relations/money/debtor
+  item: companies/thompson-armstrong-and-zulauf
+- 
+  type: relations/money/creditor
+  item: companies/waters-collins
+- 
+  type: relations/money/creditor
+  item: companies/upton-johnston-and-bins
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

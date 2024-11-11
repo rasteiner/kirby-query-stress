@@ -1,0 +1,64 @@
+Title: Dr. Cleora Hayes
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/alanna-leuschke
+- 
+  type: relations/parental/friend
+  item: people/mr-austin-stark-phd
+- 
+  type: relations/parental/friend
+  item: people/araceli-weber-dvm
+- 
+  type: relations/parental/mom
+  item: people/nikko-king
+- 
+  type: relations/parental/colleague
+  item: people/amanda-altenwerth
+- 
+  type: relations/parental/friend
+  item: people/cathrine-marquardt-ii
+- 
+  type: relations/work/client
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/employer
+  item: companies/kuvalis-group
+- 
+  type: relations/money/creditor
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/residence
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

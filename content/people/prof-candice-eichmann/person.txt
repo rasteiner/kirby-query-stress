@@ -1,0 +1,64 @@
+Title: Prof. Candice Eichmann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/shayne-turner
+- 
+  type: relations/parental/brosis
+  item: people/otis-barrows
+- 
+  type: relations/money/debtor
+  item: people/dr-eldon-jacobi-dds
+- 
+  type: relations/parental/friend
+  item: people/kellen-deckow
+- 
+  type: relations/money/creditor
+  item: people/enid-sporer-ii
+- 
+  type: relations/parental/dad
+  item: people/abbey-buckridge
+- 
+  type: relations/work/employer
+  item: companies/huels-walter
+- 
+  type: relations/work/client
+  item: companies/breitenberg-stoltenberg
+- 
+  type: relations/work/client
+  item: companies/cartwright-jacobi-and-muller
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-stiedemann
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/residence
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

@@ -1,0 +1,64 @@
+Title: Prof. Dessie O'Kon I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/raphael-nader-sr
+- 
+  type: relations/parental/friend
+  item: people/omer-rohan-md
+- 
+  type: relations/money/creditor
+  item: people/avis-cassin
+- 
+  type: relations/parental/mom
+  item: people/markus-kuhn
+- 
+  type: relations/parental/friend
+  item: people/ms-paige-barrows
+- 
+  type: relations/money/debtor
+  item: people/prof-cyrus-powlowski
+- 
+  type: relations/money/debtor
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/paucek-berge
+- 
+  type: relations/work/employer
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/work/employer
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

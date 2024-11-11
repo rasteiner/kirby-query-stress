@@ -1,0 +1,64 @@
+Title: Rylan Greenholt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/orie-koch
+- 
+  type: relations/parental/colleague
+  item: people/amara-haley
+- 
+  type: relations/parental/colleague
+  item: people/dr-daisy-sanford-dvm
+- 
+  type: relations/money/debtor
+  item: people/noemie-rempel
+- 
+  type: relations/parental/dad
+  item: people/prof-skylar-shields
+- 
+  type: relations/money/debtor
+  item: people/dr-laron-hilll
+- 
+  type: relations/money/creditor
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/client
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/creditor
+  item: companies/beahan-sauer
+- 
+  type: relations/work/employer
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/visited
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

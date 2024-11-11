@@ -1,0 +1,64 @@
+Title: Colleen Rowe Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/halie-reichert
+- 
+  type: relations/parental/brosis
+  item: people/oswald-cassin
+- 
+  type: relations/parental/brosis
+  item: people/ena-satterfield-v
+- 
+  type: relations/parental/mom
+  item: people/roger-hahn
+- 
+  type: relations/money/debtor
+  item: people/solon-littel-dds
+- 
+  type: relations/money/debtor
+  item: people/mrs-flo-anderson
+- 
+  type: relations/work/employer
+  item: companies/hayes-yost
+- 
+  type: relations/money/debtor
+  item: companies/orn-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/klein-ryan-and-ziemann
+- 
+  type: relations/money/debtor
+  item: companies/kerluke-plc
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

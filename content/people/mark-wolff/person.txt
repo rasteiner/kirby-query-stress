@@ -1,0 +1,64 @@
+Title: Mark Wolff
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/abdiel-durgan
+- 
+  type: relations/parental/brosis
+  item: people/kim-jacobson
+- 
+  type: relations/money/debtor
+  item: people/salvador-champlin-ii
+- 
+  type: relations/parental/mom
+  item: people/miss-melody-zboncak-iii
+- 
+  type: relations/parental/mom
+  item: people/kristopher-pfannerstill
+- 
+  type: relations/parental/friend
+  item: people/dr-marcelino-rolfson
+- 
+  type: relations/work/client
+  item: companies/dubuque-yost
+- 
+  type: relations/work/employer
+  item: companies/conn-inc
+- 
+  type: relations/money/creditor
+  item: companies/schneider-leannon
+- 
+  type: relations/work/employer
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

@@ -1,0 +1,64 @@
+Title: Mr. Efrain Kunze Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lauren-zboncak-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-drake-schumm
+- 
+  type: relations/money/debtor
+  item: people/america-cummerata
+- 
+  type: relations/money/creditor
+  item: people/jaycee-lang-phd
+- 
+  type: relations/money/creditor
+  item: people/prof-magdalena-rogahn-phd
+- 
+  type: relations/money/creditor
+  item: people/prof-anais-jones
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-plc
+- 
+  type: relations/money/debtor
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/work/client
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

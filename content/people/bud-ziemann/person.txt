@@ -1,0 +1,64 @@
+Title: Bud Ziemann
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/immanuel-gaylord
+- 
+  type: relations/money/creditor
+  item: people/ryleigh-nader-dds
+- 
+  type: relations/parental/mom
+  item: people/ila-monahan
+- 
+  type: relations/parental/dad
+  item: people/maida-feeney-jr
+- 
+  type: relations/parental/mom
+  item: people/mrs-naomie-cartwright
+- 
+  type: relations/parental/mom
+  item: people/prof-jermaine-wolff
+- 
+  type: relations/money/debtor
+  item: companies/weber-lockman
+- 
+  type: relations/money/debtor
+  item: companies/hane-plc
+- 
+  type: relations/money/creditor
+  item: companies/gorczany-funk
+- 
+  type: relations/money/debtor
+  item: companies/beer-treutel
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

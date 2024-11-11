@@ -1,0 +1,64 @@
+Title: Prof. Joey Bradtke DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dakota-simonis
+- 
+  type: relations/parental/mom
+  item: people/ms-alba-gaylord
+- 
+  type: relations/parental/brosis
+  item: people/rosina-olson
+- 
+  type: relations/parental/friend
+  item: people/yoshiko-schamberger
+- 
+  type: relations/money/debtor
+  item: people/christelle-barton
+- 
+  type: relations/money/debtor
+  item: people/alysa-schneider
+- 
+  type: relations/work/employer
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/work/client
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

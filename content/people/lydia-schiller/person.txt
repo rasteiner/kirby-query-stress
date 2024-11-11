@@ -1,0 +1,64 @@
+Title: Lydia Schiller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/magali-marvin
+- 
+  type: relations/parental/brosis
+  item: people/mrs-amely-ebert
+- 
+  type: relations/money/creditor
+  item: people/dr-name-bernhard-iv
+- 
+  type: relations/parental/brosis
+  item: people/mozell-feest
+- 
+  type: relations/money/debtor
+  item: people/isai-heidenreich-i
+- 
+  type: relations/parental/brosis
+  item: people/prof-mabel-labadie-iii
+- 
+  type: relations/work/client
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/ziemann-jacobson
+- 
+  type: relations/work/employer
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

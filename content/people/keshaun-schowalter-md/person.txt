@@ -1,0 +1,64 @@
+Title: Keshaun Schowalter MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/mrs-flavie-thompson-v
+- 
+  type: relations/parental/colleague
+  item: people/dr-rickey-kiehn
+- 
+  type: relations/money/debtor
+  item: people/mittie-spinka
+- 
+  type: relations/parental/dad
+  item: people/prof-trystan-nikolaus
+- 
+  type: relations/money/creditor
+  item: people/jessica-olson-dvm
+- 
+  type: relations/parental/colleague
+  item: people/gracie-dubuque
+- 
+  type: relations/work/employer
+  item: companies/bode-reinger
+- 
+  type: relations/work/client
+  item: companies/frami-group
+- 
+  type: relations/work/employer
+  item: companies/jenkins-group
+- 
+  type: relations/money/debtor
+  item: companies/mraz-wunsch
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/visited
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

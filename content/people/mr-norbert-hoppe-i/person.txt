@@ -1,0 +1,64 @@
+Title: Mr. Norbert Hoppe I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/kyra-willms
+- 
+  type: relations/parental/friend
+  item: people/josiane-okuneva
+- 
+  type: relations/parental/colleague
+  item: people/jovani-jast
+- 
+  type: relations/parental/brosis
+  item: people/mr-brown-mertz
+- 
+  type: relations/parental/colleague
+  item: people/dr-nolan-boyer
+- 
+  type: relations/parental/friend
+  item: people/coy-kerluke
+- 
+  type: relations/money/creditor
+  item: companies/ondricka-durgan
+- 
+  type: relations/money/debtor
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/debtor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/work/client
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/residence
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

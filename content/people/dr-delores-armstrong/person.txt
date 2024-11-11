@@ -1,0 +1,64 @@
+Title: Dr. Delores Armstrong
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/rubie-russel
+- 
+  type: relations/money/creditor
+  item: people/dr-laurel-greenholt-md
+- 
+  type: relations/money/creditor
+  item: people/henriette-howell
+- 
+  type: relations/parental/brosis
+  item: people/aletha-hermann
+- 
+  type: relations/parental/dad
+  item: people/declan-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/gerardo-kutch
+- 
+  type: relations/work/employer
+  item: companies/hermiston-farrell
+- 
+  type: relations/money/creditor
+  item: companies/kuhic-ltd
+- 
+  type: relations/money/creditor
+  item: companies/bruen-wunsch-and-mitchell
+- 
+  type: relations/money/debtor
+  item: companies/nicolas-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/visited
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/visited
+  item: places/west-ottisland

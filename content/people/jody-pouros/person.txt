@@ -1,0 +1,64 @@
+Title: Jody Pouros
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/clovis-wintheiser
+- 
+  type: relations/parental/brosis
+  item: people/vance-braun
+- 
+  type: relations/money/creditor
+  item: people/miss-ona-wilkinson
+- 
+  type: relations/parental/mom
+  item: people/aimee-donnelly
+- 
+  type: relations/parental/brosis
+  item: people/kip-cronin
+- 
+  type: relations/parental/brosis
+  item: people/mrs-jade-walsh
+- 
+  type: relations/work/employer
+  item: companies/harber-group
+- 
+  type: relations/money/creditor
+  item: companies/funk-plc
+- 
+  type: relations/work/client
+  item: companies/roberts-turner-and-wehner
+- 
+  type: relations/money/creditor
+  item: companies/schumm-and-sons
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

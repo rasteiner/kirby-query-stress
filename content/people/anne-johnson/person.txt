@@ -1,0 +1,65 @@
+Title: Anne Johnson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-kristy-kuhic
+- 
+  type: relations/parental/brosis
+  item: people/prof-penelope-trantow-jr
+- 
+  type: relations/parental/brosis
+  item: people/houston-donnelly
+- 
+  type: relations/parental/dad
+  item: people/cecil-hilpert
+- 
+  type: relations/parental/brosis
+  item: people/mr-raul-torphy
+- 
+  type: relations/parental/colleague
+  item: people/kianna-prohaska
+- 
+  type: relations/work/employer
+  item: companies/mosciski-weber-and-turner
+- 
+  type: relations/work/client
+  item: companies/hilll-o-hara-and-bernhard
+- 
+  type: relations/work/employer
+  item: companies/bogan-mertz
+- 
+  type: relations/money/debtor
+  item: >
+    companies/o-keefe-breitenberg-and-smitham
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

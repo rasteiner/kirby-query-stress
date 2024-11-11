@@ -1,0 +1,64 @@
+Title: Aurelio Pfeffer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sylvia-haag
+- 
+  type: relations/money/creditor
+  item: people/nelson-emmerich
+- 
+  type: relations/parental/dad
+  item: people/mr-rickey-walter
+- 
+  type: relations/parental/brosis
+  item: people/ms-kavon-kohler
+- 
+  type: relations/parental/colleague
+  item: people/nedra-greenholt
+- 
+  type: relations/parental/brosis
+  item: people/shea-gaylord
+- 
+  type: relations/money/debtor
+  item: companies/rohan-heidenreich-and-feil
+- 
+  type: relations/work/client
+  item: companies/hane-group
+- 
+  type: relations/money/creditor
+  item: companies/wiegand-kemmer-and-hane
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-group
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

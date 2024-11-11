@@ -1,0 +1,65 @@
+Title: Franz Koelpin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-helen-hayes
+- 
+  type: relations/parental/mom
+  item: people/mauricio-zieme
+- 
+  type: relations/parental/friend
+  item: people/dylan-mosciski
+- 
+  type: relations/parental/colleague
+  item: people/miss-leanna-lindgren-ii
+- 
+  type: relations/money/debtor
+  item: people/ressie-douglas
+- 
+  type: relations/money/debtor
+  item: people/dr-madaline-greenfelder-dds
+- 
+  type: relations/work/client
+  item: companies/mccullough-sawayn
+- 
+  type: relations/money/debtor
+  item: companies/pollich-plc
+- 
+  type: relations/work/client
+  item: >
+    companies/monahan-swaniawski-and-bechtelar
+- 
+  type: relations/work/employer
+  item: companies/hermann-murphy
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

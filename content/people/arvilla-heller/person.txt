@@ -1,0 +1,64 @@
+Title: Arvilla Heller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/bonita-rogahn
+- 
+  type: relations/parental/friend
+  item: people/iva-walsh
+- 
+  type: relations/parental/brosis
+  item: people/marlin-wisozk
+- 
+  type: relations/parental/mom
+  item: people/name-keeling
+- 
+  type: relations/parental/brosis
+  item: people/karen-zboncak
+- 
+  type: relations/money/debtor
+  item: people/makayla-heaney
+- 
+  type: relations/money/creditor
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/work/client
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/work/employer
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/client
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

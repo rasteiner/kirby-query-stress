@@ -1,0 +1,66 @@
+Title: Miss Twila Cormier Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/alvena-miller-i
+- 
+  type: relations/parental/mom
+  item: people/mr-remington-satterfield-md
+- 
+  type: relations/parental/colleague
+  item: people/cecil-feil
+- 
+  type: relations/parental/colleague
+  item: people/stuart-lemke
+- 
+  type: relations/money/debtor
+  item: people/mrs-aurore-schroeder-jr
+- 
+  type: relations/money/debtor
+  item: people/ms-cheyanne-baumbach-iii
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/work/client
+  item: companies/collins-ltd
+- 
+  type: relations/money/debtor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/creditor
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

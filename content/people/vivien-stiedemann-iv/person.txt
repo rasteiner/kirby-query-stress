@@ -1,0 +1,64 @@
+Title: Vivien Stiedemann IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/roosevelt-stehr-i
+- 
+  type: relations/parental/dad
+  item: people/amy-ernser
+- 
+  type: relations/parental/friend
+  item: people/nyasia-harris
+- 
+  type: relations/parental/friend
+  item: people/margarett-pfannerstill
+- 
+  type: relations/parental/mom
+  item: people/hildegard-larkin
+- 
+  type: relations/parental/mom
+  item: people/nikita-treutel-sr
+- 
+  type: relations/money/debtor
+  item: companies/fisher-o-connell
+- 
+  type: relations/work/client
+  item: companies/hyatt-gulgowski
+- 
+  type: relations/money/debtor
+  item: companies/crist-inc
+- 
+  type: relations/work/client
+  item: companies/gaylord-price-and-luettgen
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

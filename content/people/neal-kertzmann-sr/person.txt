@@ -1,0 +1,64 @@
+Title: Neal Kertzmann Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/jody-pouros
+- 
+  type: relations/parental/dad
+  item: people/erich-dach
+- 
+  type: relations/parental/dad
+  item: people/dr-carli-senger
+- 
+  type: relations/money/creditor
+  item: people/jada-senger
+- 
+  type: relations/money/debtor
+  item: people/marcelle-wilderman
+- 
+  type: relations/money/creditor
+  item: people/prof-anne-jones-iii
+- 
+  type: relations/work/employer
+  item: companies/satterfield-and-sons
+- 
+  type: relations/work/client
+  item: companies/jacobi-group
+- 
+  type: relations/work/client
+  item: companies/lindgren-hilpert
+- 
+  type: relations/work/client
+  item: companies/schulist-bosco
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

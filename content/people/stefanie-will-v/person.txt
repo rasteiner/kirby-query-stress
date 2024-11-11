@@ -1,0 +1,65 @@
+Title: Stefanie Will V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/madisen-gutmann-iv
+- 
+  type: relations/parental/brosis
+  item: people/micah-howe-sr
+- 
+  type: relations/parental/friend
+  item: people/margarette-heidenreich
+- 
+  type: relations/parental/dad
+  item: people/miss-elvera-stoltenberg
+- 
+  type: relations/parental/brosis
+  item: people/lera-kassulke
+- 
+  type: relations/money/creditor
+  item: people/mr-abdullah-rippin-dvm
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-oberbrunner-and-wyman
+- 
+  type: relations/money/debtor
+  item: companies/gleason-group
+- 
+  type: relations/work/client
+  item: companies/hamill-inc
+- 
+  type: relations/work/client
+  item: companies/littel-and-sons
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

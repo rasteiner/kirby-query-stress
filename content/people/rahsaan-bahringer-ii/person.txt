@@ -1,0 +1,64 @@
+Title: Rahsaan Bahringer II
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/virginie-jenkins
+- 
+  type: relations/parental/brosis
+  item: people/quinten-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/jimmie-mante
+- 
+  type: relations/parental/dad
+  item: people/ruby-kuvalis-ii
+- 
+  type: relations/money/debtor
+  item: people/shemar-ortiz
+- 
+  type: relations/money/creditor
+  item: people/prof-kennith-hirthe
+- 
+  type: relations/money/creditor
+  item: companies/zemlak-walter-and-schimmel
+- 
+  type: relations/work/employer
+  item: companies/bins-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/reichel-quitzon
+- 
+  type: relations/money/debtor
+  item: companies/kreiger-kovacek
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/residence
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

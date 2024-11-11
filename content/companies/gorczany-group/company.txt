@@ -1,0 +1,43 @@
+Title: Gorczany Group
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/collins-eichmann
+- 
+  type: relations/money/debtor
+  item: companies/koch-jacobson-and-schiller
+- 
+  type: relations/money/debtor
+  item: companies/lehner-sipes
+- 
+  type: relations/money/debtor
+  item: companies/ferry-inc
+- 
+  type: relations/money/creditor
+  item: companies/barton-stehr-and-mann
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-inc
+- 
+  type: relations/money/debtor
+  item: companies/thiel-howe
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/location/residence
+  item: places/bahringerport
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/hoegerland

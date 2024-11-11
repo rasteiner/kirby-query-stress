@@ -1,0 +1,64 @@
+Title: Toni Shields V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-lucius-cronin-dds
+- 
+  type: relations/parental/mom
+  item: people/thurman-mckenzie
+- 
+  type: relations/money/creditor
+  item: people/addison-olson
+- 
+  type: relations/parental/mom
+  item: people/mrs-mabelle-howell-iii
+- 
+  type: relations/parental/dad
+  item: people/gail-rolfson
+- 
+  type: relations/parental/friend
+  item: people/gennaro-o-keefe
+- 
+  type: relations/money/creditor
+  item: companies/keeling-inc
+- 
+  type: relations/work/employer
+  item: companies/mayer-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/daniel-group
+- 
+  type: relations/work/client
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

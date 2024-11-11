@@ -1,0 +1,65 @@
+Title: Miss Anne Nader
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-fritz-kuhic-phd
+- 
+  type: relations/money/debtor
+  item: people/prof-annalise-rogahn
+- 
+  type: relations/parental/mom
+  item: people/miss-beth-nitzsche-v
+- 
+  type: relations/parental/friend
+  item: people/ms-taya-hintz
+- 
+  type: relations/parental/colleague
+  item: people/isac-russel
+- 
+  type: relations/parental/friend
+  item: people/gussie-kemmer-jr
+- 
+  type: relations/work/employer
+  item: companies/kilback-kub
+- 
+  type: relations/money/creditor
+  item: companies/larson-denesik
+- 
+  type: relations/work/client
+  item: companies/braun-barrows-and-bosco
+- 
+  type: relations/work/client
+  item: >
+    companies/reinger-buckridge-and-aufderhar
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

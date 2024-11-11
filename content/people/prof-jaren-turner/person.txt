@@ -1,0 +1,64 @@
+Title: Prof. Jaren Turner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/humberto-halvorson
+- 
+  type: relations/parental/dad
+  item: people/billie-davis
+- 
+  type: relations/parental/brosis
+  item: people/mr-tatum-schinner-jr
+- 
+  type: relations/parental/friend
+  item: people/miss-rosemary-howe-ii
+- 
+  type: relations/money/creditor
+  item: people/madaline-o-kon
+- 
+  type: relations/money/creditor
+  item: people/amira-hintz
+- 
+  type: relations/work/employer
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/debtor
+  item: companies/romaguera-inc
+- 
+  type: relations/money/debtor
+  item: companies/kulas-luettgen-and-vandervort
+- 
+  type: relations/money/creditor
+  item: companies/skiles-johns
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

@@ -1,0 +1,65 @@
+Title: Drake Zboncak
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mr-edwardo-kohler
+- 
+  type: relations/parental/brosis
+  item: people/ryan-beier-dds
+- 
+  type: relations/money/debtor
+  item: people/dr-marjory-pacocha-phd
+- 
+  type: relations/parental/mom
+  item: people/carol-wuckert-iii
+- 
+  type: relations/parental/brosis
+  item: people/adah-mccullough
+- 
+  type: relations/money/debtor
+  item: people/lucius-lindgren
+- 
+  type: relations/money/debtor
+  item: companies/parisian-koss-and-flatley
+- 
+  type: relations/work/client
+  item: companies/goodwin-nader
+- 
+  type: relations/money/creditor
+  item: companies/ratke-keeling-and-towne
+- 
+  type: relations/work/client
+  item: >
+    companies/armstrong-schuster-and-greenfelder
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/residence
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

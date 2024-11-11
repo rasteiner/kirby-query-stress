@@ -1,0 +1,64 @@
+Title: Prof. Barney Reichert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jayde-stehr
+- 
+  type: relations/parental/friend
+  item: people/pinkie-heller-dds
+- 
+  type: relations/parental/friend
+  item: people/aglae-wisozk
+- 
+  type: relations/parental/brosis
+  item: people/chesley-hoeger
+- 
+  type: relations/parental/mom
+  item: people/miss-elsa-wintheiser-md
+- 
+  type: relations/parental/dad
+  item: people/alisha-stracke
+- 
+  type: relations/work/employer
+  item: companies/durgan-muller-and-koss
+- 
+  type: relations/money/creditor
+  item: companies/swaniawski-group
+- 
+  type: relations/work/client
+  item: companies/hilll-kerluke
+- 
+  type: relations/work/client
+  item: companies/aufderhar-ltd
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

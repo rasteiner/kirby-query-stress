@@ -1,0 +1,64 @@
+Title: Albertha Gutkowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/diamond-jerde-dds
+- 
+  type: relations/money/creditor
+  item: people/dr-fabian-gaylord-v
+- 
+  type: relations/parental/colleague
+  item: people/lorna-walker
+- 
+  type: relations/parental/dad
+  item: people/miss-kathleen-kohler-sr
+- 
+  type: relations/parental/mom
+  item: people/josue-swift
+- 
+  type: relations/parental/dad
+  item: people/ramiro-kling
+- 
+  type: relations/money/debtor
+  item: companies/mueller-reichel
+- 
+  type: relations/work/employer
+  item: companies/hermiston-stracke-and-wolff
+- 
+  type: relations/money/debtor
+  item: companies/corwin-harvey-and-russel
+- 
+  type: relations/work/employer
+  item: companies/hansen-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/visited
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

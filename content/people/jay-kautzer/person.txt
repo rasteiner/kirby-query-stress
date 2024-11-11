@@ -1,0 +1,64 @@
+Title: Jay Kautzer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/samson-vandervort
+- 
+  type: relations/parental/friend
+  item: people/mr-kenton-schaden-phd
+- 
+  type: relations/parental/brosis
+  item: people/thaddeus-smith-md
+- 
+  type: relations/money/debtor
+  item: people/dion-kiehn
+- 
+  type: relations/parental/colleague
+  item: people/dr-greta-flatley
+- 
+  type: relations/parental/colleague
+  item: people/ida-koepp
+- 
+  type: relations/money/debtor
+  item: companies/beahan-carroll-and-walsh
+- 
+  type: relations/work/client
+  item: companies/ritchie-plc
+- 
+  type: relations/work/employer
+  item: companies/stamm-hahn
+- 
+  type: relations/work/employer
+  item: companies/spencer-and-sons
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

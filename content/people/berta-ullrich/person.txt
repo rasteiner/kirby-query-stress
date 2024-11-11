@@ -1,0 +1,64 @@
+Title: Berta Ullrich
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/garret-harber-dvm
+- 
+  type: relations/parental/friend
+  item: people/prof-edd-leffler-ii
+- 
+  type: relations/parental/dad
+  item: people/stephen-kovacek
+- 
+  type: relations/parental/colleague
+  item: people/urban-mayer
+- 
+  type: relations/parental/colleague
+  item: people/mrs-nyah-shields
+- 
+  type: relations/parental/brosis
+  item: people/ulices-kohler
+- 
+  type: relations/money/debtor
+  item: companies/jones-daugherty
+- 
+  type: relations/work/employer
+  item: companies/ferry-inc
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/work/employer
+  item: companies/cartwright-o-reilly
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

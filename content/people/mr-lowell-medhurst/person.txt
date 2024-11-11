@@ -1,0 +1,64 @@
+Title: Mr. Lowell Medhurst
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/bryce-cummings-md
+- 
+  type: relations/money/creditor
+  item: people/winfield-crooks
+- 
+  type: relations/parental/mom
+  item: people/yadira-simonis
+- 
+  type: relations/money/debtor
+  item: people/amalia-harber
+- 
+  type: relations/money/debtor
+  item: people/miss-carolyn-blanda-phd
+- 
+  type: relations/parental/colleague
+  item: people/mya-goyette
+- 
+  type: relations/work/employer
+  item: companies/tromp-rutherford
+- 
+  type: relations/work/client
+  item: companies/moore-llc
+- 
+  type: relations/work/client
+  item: companies/hamill-o-conner-and-fay
+- 
+  type: relations/work/employer
+  item: companies/spinka-plc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

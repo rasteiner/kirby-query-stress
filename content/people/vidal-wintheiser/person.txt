@@ -1,0 +1,64 @@
+Title: Vidal Wintheiser
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-trinity-d-amore-jr
+- 
+  type: relations/parental/brosis
+  item: people/curt-balistreri
+- 
+  type: relations/parental/friend
+  item: people/mae-jenkins
+- 
+  type: relations/money/creditor
+  item: people/della-kohler-phd
+- 
+  type: relations/money/creditor
+  item: people/erin-macejkovic
+- 
+  type: relations/parental/colleague
+  item: people/miss-trycia-cartwright-sr
+- 
+  type: relations/money/debtor
+  item: companies/schaden-herzog-and-bednar
+- 
+  type: relations/money/creditor
+  item: companies/yost-goyette-and-schaden
+- 
+  type: relations/work/client
+  item: companies/cremin-durgan
+- 
+  type: relations/money/creditor
+  item: companies/west-barrows
+- 
+  type: relations/location/residence
+  item: places/otiston
+- 
+  type: relations/location/residence
+  item: places/lueilwitzside
+- 
+  type: relations/location/residence
+  item: places/east-veronica
+- 
+  type: relations/location/residence
+  item: places/west-cleo
+- 
+  type: relations/location/residence
+  item: places/west-carolina
+- 
+  type: relations/location/residence
+  item: places/west-armandborough
+- 
+  type: relations/location/visited
+  item: places/new-jessicaview
+- 
+  type: relations/location/residence
+  item: places/crookstown

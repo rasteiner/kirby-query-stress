@@ -1,0 +1,64 @@
+Title: Ellen Wyman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/mrs-bert-bauch-iv
+- 
+  type: relations/parental/dad
+  item: people/mr-jimmy-schmitt
+- 
+  type: relations/parental/dad
+  item: people/lempi-fay
+- 
+  type: relations/parental/mom
+  item: people/prof-jocelyn-green
+- 
+  type: relations/parental/mom
+  item: people/dr-rusty-labadie
+- 
+  type: relations/money/creditor
+  item: people/prof-helena-langosh-jr
+- 
+  type: relations/work/employer
+  item: companies/kilback-mcdermott-and-bogisich
+- 
+  type: relations/work/employer
+  item: companies/leannon-rohan
+- 
+  type: relations/work/employer
+  item: companies/renner-plc
+- 
+  type: relations/money/creditor
+  item: companies/blick-price-and-keeling
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/residence
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

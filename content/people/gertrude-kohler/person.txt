@@ -1,0 +1,64 @@
+Title: Gertrude Kohler
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/prof-rosalinda-boyer-dvm
+- 
+  type: relations/parental/brosis
+  item: people/prof-sim-baumbach-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-amira-powlowski
+- 
+  type: relations/parental/mom
+  item: people/anjali-greenfelder
+- 
+  type: relations/parental/colleague
+  item: people/amara-fahey-dvm
+- 
+  type: relations/money/debtor
+  item: people/aida-heaney
+- 
+  type: relations/work/employer
+  item: companies/leuschke-metz
+- 
+  type: relations/money/debtor
+  item: companies/walter-ryan
+- 
+  type: relations/money/debtor
+  item: companies/balistreri-bernier
+- 
+  type: relations/money/debtor
+  item: companies/larkin-gulgowski
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/visited
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

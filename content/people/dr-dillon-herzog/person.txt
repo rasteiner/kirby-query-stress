@@ -1,0 +1,64 @@
+Title: Dr. Dillon Herzog
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-candelario-lakin
+- 
+  type: relations/parental/dad
+  item: people/kirsten-sanford
+- 
+  type: relations/parental/mom
+  item: people/bradly-lind
+- 
+  type: relations/parental/brosis
+  item: people/sydnie-feil
+- 
+  type: relations/parental/dad
+  item: people/prof-marion-smitham-phd
+- 
+  type: relations/parental/friend
+  item: people/colleen-kilback-jr
+- 
+  type: relations/work/client
+  item: companies/boyer-llc
+- 
+  type: relations/work/employer
+  item: companies/medhurst-group
+- 
+  type: relations/work/employer
+  item: companies/harvey-hirthe-and-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/ritchie-hagenes-and-auer
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/visited
+  item: places/stromanstad
+- 
+  type: relations/location/visited
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

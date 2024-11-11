@@ -1,0 +1,44 @@
+Title: Blick, Price and Keeling
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/debtor
+  item: companies/feest-west-and-ferry
+- 
+  type: relations/money/creditor
+  item: companies/crist-inc
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/money/creditor
+  item: companies/watsica-inc
+- 
+  type: relations/money/creditor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/murphy-hegmann
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/residence
+  item: places/reingertown
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/carmineshire

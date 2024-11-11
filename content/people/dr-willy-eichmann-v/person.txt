@@ -1,0 +1,64 @@
+Title: Dr. Willy Eichmann V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/marcus-schinner-ii
+- 
+  type: relations/money/creditor
+  item: people/ms-pasquale-stiedemann-i
+- 
+  type: relations/parental/dad
+  item: people/prof-norene-prohaska-md
+- 
+  type: relations/money/creditor
+  item: people/heidi-kuhn
+- 
+  type: relations/parental/friend
+  item: people/dr-gonzalo-heathcote-ii
+- 
+  type: relations/parental/colleague
+  item: people/dr-blanche-wiza-md
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/money/creditor
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/work/client
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

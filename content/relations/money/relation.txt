@@ -1,0 +1,5 @@
+Title: Money
+
+----
+
+Allows_from: person

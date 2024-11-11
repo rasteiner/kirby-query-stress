@@ -1,0 +1,66 @@
+Title: Dr. Elisha Christiansen
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/fannie-dare
+- 
+  type: relations/parental/colleague
+  item: people/elta-stoltenberg
+- 
+  type: relations/parental/colleague
+  item: people/doug-ledner
+- 
+  type: relations/money/creditor
+  item: people/prof-rubye-kemmer-phd
+- 
+  type: relations/parental/mom
+  item: people/garrett-kshlerin
+- 
+  type: relations/parental/friend
+  item: people/violet-jenkins
+- 
+  type: relations/work/employer
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/residence
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

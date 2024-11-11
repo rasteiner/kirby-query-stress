@@ -1,0 +1,64 @@
+Title: Beatrice Daugherty
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/reymundo-kertzmann
+- 
+  type: relations/parental/friend
+  item: people/joelle-feest
+- 
+  type: relations/parental/friend
+  item: people/earline-greenfelder-i
+- 
+  type: relations/parental/dad
+  item: people/xander-king
+- 
+  type: relations/parental/dad
+  item: people/tyrel-maggio
+- 
+  type: relations/money/debtor
+  item: people/chelsea-sanford
+- 
+  type: relations/work/client
+  item: companies/larkin-group
+- 
+  type: relations/money/creditor
+  item: companies/schneider-ltd
+- 
+  type: relations/money/creditor
+  item: companies/huels-hintz
+- 
+  type: relations/work/client
+  item: companies/doyle-group
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/visited
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/visited
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/visited
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

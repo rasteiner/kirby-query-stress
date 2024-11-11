@@ -1,0 +1,43 @@
+Title: Funk, Hammes and Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/herman-stokes-and-walter
+- 
+  type: relations/money/debtor
+  item: companies/quitzon-osinski
+- 
+  type: relations/money/creditor
+  item: companies/hyatt-dickinson
+- 
+  type: relations/money/debtor
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/money/creditor
+  item: companies/green-barrows-and-huels
+- 
+  type: relations/money/debtor
+  item: companies/smitham-renner
+- 
+  type: relations/money/debtor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/west-ottisland
+- 
+  type: relations/location/residence
+  item: places/ebertton

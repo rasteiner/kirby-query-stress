@@ -1,0 +1,43 @@
+Title: Harvey, Mitchell and Prosacco
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/mante-plc
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/money/debtor
+  item: companies/vandervort-llc
+- 
+  type: relations/money/debtor
+  item: companies/klein-ltd
+- 
+  type: relations/money/creditor
+  item: companies/hudson-reynolds-and-schulist
+- 
+  type: relations/money/creditor
+  item: companies/wintheiser-cormier
+- 
+  type: relations/money/creditor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/money/creditor
+  item: companies/bayer-willms-and-breitenberg
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort

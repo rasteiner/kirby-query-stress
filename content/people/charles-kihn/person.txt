@@ -1,0 +1,64 @@
+Title: Charles Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/kylee-runte
+- 
+  type: relations/money/debtor
+  item: people/hanna-wiza
+- 
+  type: relations/parental/dad
+  item: people/velma-collier-dvm
+- 
+  type: relations/parental/friend
+  item: people/nathen-ortiz-iv
+- 
+  type: relations/parental/mom
+  item: people/orie-breitenberg
+- 
+  type: relations/parental/mom
+  item: people/brando-wolff
+- 
+  type: relations/work/employer
+  item: companies/bosco-eichmann-and-thiel
+- 
+  type: relations/money/creditor
+  item: companies/gutkowski-king-and-stokes
+- 
+  type: relations/work/client
+  item: companies/hackett-braun-and-bartell
+- 
+  type: relations/money/creditor
+  item: companies/schuster-mann-and-lindgren
+- 
+  type: relations/location/visited
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/residence
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/visited
+  item: places/south-nevaberg

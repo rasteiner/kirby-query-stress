@@ -1,0 +1,64 @@
+Title: Miss Christina Wilkinson DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/iliana-mills-ii
+- 
+  type: relations/parental/brosis
+  item: people/matilda-gorczany
+- 
+  type: relations/parental/colleague
+  item: people/nichole-mccullough
+- 
+  type: relations/parental/brosis
+  item: people/jade-volkman
+- 
+  type: relations/parental/colleague
+  item: people/trey-towne
+- 
+  type: relations/parental/dad
+  item: people/collin-littel
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-kautzer
+- 
+  type: relations/work/employer
+  item: companies/boehm-group
+- 
+  type: relations/money/creditor
+  item: companies/ortiz-inc
+- 
+  type: relations/work/employer
+  item: companies/swift-and-sons
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

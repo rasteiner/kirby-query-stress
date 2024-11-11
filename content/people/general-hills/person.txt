@@ -1,0 +1,64 @@
+Title: General Hills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/vilma-jacobs
+- 
+  type: relations/money/creditor
+  item: people/missouri-stroman
+- 
+  type: relations/parental/mom
+  item: people/dawson-langosh
+- 
+  type: relations/money/debtor
+  item: people/kenyatta-marvin
+- 
+  type: relations/parental/mom
+  item: people/jody-pouros
+- 
+  type: relations/money/debtor
+  item: people/erich-dach
+- 
+  type: relations/money/debtor
+  item: companies/mitchell-inc
+- 
+  type: relations/work/employer
+  item: companies/raynor-rippin
+- 
+  type: relations/work/client
+  item: companies/schuster-ziemann
+- 
+  type: relations/work/employer
+  item: companies/swift-connelly-and-morar
+- 
+  type: relations/location/residence
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

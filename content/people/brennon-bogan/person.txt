@@ -1,0 +1,64 @@
+Title: Brennon Bogan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/loren-breitenberg
+- 
+  type: relations/parental/colleague
+  item: people/mr-brando-daniel-v
+- 
+  type: relations/money/creditor
+  item: people/dr-tre-gerhold-phd
+- 
+  type: relations/money/creditor
+  item: people/krystal-jacobi
+- 
+  type: relations/parental/colleague
+  item: people/prof-edwardo-lehner
+- 
+  type: relations/parental/colleague
+  item: people/dr-maximilian-stokes
+- 
+  type: relations/money/debtor
+  item: companies/littel-group
+- 
+  type: relations/money/debtor
+  item: companies/funk-greenfelder-and-ritchie
+- 
+  type: relations/work/client
+  item: companies/shanahan-schmitt-and-rath
+- 
+  type: relations/money/debtor
+  item: companies/price-pagac
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

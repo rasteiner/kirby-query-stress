@@ -1,0 +1,64 @@
+Title: Prof. Marion Smitham PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/donna-walter
+- 
+  type: relations/parental/friend
+  item: people/reagan-gorczany
+- 
+  type: relations/money/creditor
+  item: people/sedrick-d-amore-md
+- 
+  type: relations/money/debtor
+  item: people/dr-enid-hodkiewicz-jr
+- 
+  type: relations/parental/friend
+  item: people/prof-darrin-kling
+- 
+  type: relations/money/debtor
+  item: people/chanelle-wolff-md
+- 
+  type: relations/money/creditor
+  item: companies/farrell-beatty-and-wilkinson
+- 
+  type: relations/money/creditor
+  item: companies/boyer-weber-and-fisher
+- 
+  type: relations/money/creditor
+  item: companies/schamberger-hamill
+- 
+  type: relations/work/employer
+  item: companies/beer-hauck-and-hoeger
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/claudiestad
+- 
+  type: relations/location/visited
+  item: places/new-jettie
+- 
+  type: relations/location/visited
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/visited
+  item: places/new-rosetta
+- 
+  type: relations/location/visited
+  item: places/north-dusty
+- 
+  type: relations/location/residence
+  item: places/horaceside

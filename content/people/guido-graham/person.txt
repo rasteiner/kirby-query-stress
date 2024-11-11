@@ -1,0 +1,64 @@
+Title: Guido Graham
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/prof-kaylie-zulauf
+- 
+  type: relations/money/debtor
+  item: people/mariane-prohaska
+- 
+  type: relations/money/debtor
+  item: people/miss-kailey-erdman
+- 
+  type: relations/parental/mom
+  item: people/clara-dare
+- 
+  type: relations/parental/friend
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/parental/dad
+  item: people/reyes-koepp
+- 
+  type: relations/work/client
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/client
+  item: companies/wyman-legros
+- 
+  type: relations/money/creditor
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/residence
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/residence
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

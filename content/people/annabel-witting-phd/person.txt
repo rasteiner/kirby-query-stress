@@ -1,0 +1,64 @@
+Title: Annabel Witting PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/denis-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/sid-connelly
+- 
+  type: relations/parental/colleague
+  item: people/fannie-keeling
+- 
+  type: relations/parental/dad
+  item: people/retha-davis
+- 
+  type: relations/parental/brosis
+  item: people/ebba-christiansen
+- 
+  type: relations/parental/dad
+  item: people/kole-hyatt-sr
+- 
+  type: relations/money/creditor
+  item: companies/lebsack-berge
+- 
+  type: relations/money/creditor
+  item: companies/king-schaefer
+- 
+  type: relations/work/client
+  item: companies/volkman-group
+- 
+  type: relations/money/creditor
+  item: companies/skiles-lang
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

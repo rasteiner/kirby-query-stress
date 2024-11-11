@@ -1,0 +1,64 @@
+Title: Patsy Conn PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-gay-deckow
+- 
+  type: relations/parental/brosis
+  item: people/rebecca-stiedemann
+- 
+  type: relations/parental/friend
+  item: people/mr-coleman-white
+- 
+  type: relations/parental/dad
+  item: people/cayla-boyle
+- 
+  type: relations/parental/friend
+  item: people/kiarra-hansen
+- 
+  type: relations/money/creditor
+  item: people/cleo-conroy
+- 
+  type: relations/money/creditor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/work/client
+  item: companies/funk-group
+- 
+  type: relations/work/client
+  item: companies/funk-inc
+- 
+  type: relations/work/employer
+  item: companies/sporer-sanford
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

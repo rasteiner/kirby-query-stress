@@ -1,0 +1,64 @@
+Title: Prof. Morgan Heaney I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/kolby-lind
+- 
+  type: relations/money/creditor
+  item: people/mortimer-wisozk
+- 
+  type: relations/money/creditor
+  item: people/deshaun-klocko
+- 
+  type: relations/parental/mom
+  item: people/cheyenne-harris
+- 
+  type: relations/money/creditor
+  item: people/wellington-mitchell
+- 
+  type: relations/parental/brosis
+  item: people/yadira-mayer-iv
+- 
+  type: relations/money/creditor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/work/client
+  item: companies/lindgren-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dickens-group
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-plc
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/residence
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/residence
+  item: places/bahringerport

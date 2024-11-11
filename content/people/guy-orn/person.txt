@@ -1,0 +1,64 @@
+Title: Guy Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/shea-steuber
+- 
+  type: relations/parental/dad
+  item: people/burdette-kozey-dds
+- 
+  type: relations/parental/friend
+  item: people/jordi-marquardt
+- 
+  type: relations/parental/mom
+  item: people/andreane-wisozk
+- 
+  type: relations/parental/dad
+  item: people/mr-kirk-pacocha-iv
+- 
+  type: relations/parental/dad
+  item: people/kody-borer-dvm
+- 
+  type: relations/money/creditor
+  item: companies/paucek-ruecker
+- 
+  type: relations/money/debtor
+  item: companies/crona-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/bernhard-von-and-terry
+- 
+  type: relations/money/debtor
+  item: companies/feil-ltd
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

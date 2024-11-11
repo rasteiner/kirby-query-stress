@@ -1,0 +1,64 @@
+Title: Henri Kuhlman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/lucinda-roberts
+- 
+  type: relations/parental/brosis
+  item: people/jasen-abernathy-jr
+- 
+  type: relations/parental/mom
+  item: people/ms-nicolette-nicolas-iv
+- 
+  type: relations/parental/brosis
+  item: people/reba-weissnat
+- 
+  type: relations/parental/colleague
+  item: people/mr-mckenzie-crona-jr
+- 
+  type: relations/money/creditor
+  item: people/robb-parisian
+- 
+  type: relations/work/client
+  item: companies/cassin-llc
+- 
+  type: relations/work/client
+  item: companies/hilpert-skiles-and-schmidt
+- 
+  type: relations/work/client
+  item: companies/mann-gutmann
+- 
+  type: relations/work/client
+  item: companies/thiel-group
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

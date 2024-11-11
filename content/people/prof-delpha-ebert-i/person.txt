@@ -1,0 +1,64 @@
+Title: Prof. Delpha Ebert I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/brett-labadie
+- 
+  type: relations/parental/colleague
+  item: people/adrianna-schuppe
+- 
+  type: relations/parental/colleague
+  item: people/prof-rogelio-hills
+- 
+  type: relations/money/creditor
+  item: people/mabel-balistreri-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-arvel-kerluke
+- 
+  type: relations/parental/brosis
+  item: people/mrs-alyce-vandervort-iv
+- 
+  type: relations/money/creditor
+  item: companies/heathcote-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/runolfsdottir-mclaughlin
+- 
+  type: relations/money/creditor
+  item: companies/orn-ltd
+- 
+  type: relations/work/client
+  item: companies/rutherford-ward-and-bergstrom
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/visited
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/visited
+  item: places/carolanneville

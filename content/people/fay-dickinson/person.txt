@@ -1,0 +1,64 @@
+Title: Fay Dickinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/neha-predovic
+- 
+  type: relations/parental/mom
+  item: people/katelyn-johnston
+- 
+  type: relations/parental/colleague
+  item: people/dr-milton-mckenzie
+- 
+  type: relations/parental/colleague
+  item: people/ricky-abernathy
+- 
+  type: relations/parental/colleague
+  item: people/dr-bryce-mante
+- 
+  type: relations/parental/colleague
+  item: people/prof-euna-powlowski-ii
+- 
+  type: relations/money/debtor
+  item: companies/rogahn-ltd
+- 
+  type: relations/work/employer
+  item: companies/stoltenberg-llc
+- 
+  type: relations/money/debtor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/zieme-bechtelar-and-thiel
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/visited
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/visited
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

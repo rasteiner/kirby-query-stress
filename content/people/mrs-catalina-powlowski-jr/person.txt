@@ -1,0 +1,64 @@
+Title: Mrs. Catalina Powlowski Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/lessie-bruen-iii
+- 
+  type: relations/parental/dad
+  item: people/mrs-sadye-robel
+- 
+  type: relations/parental/dad
+  item: people/jeremy-barrows
+- 
+  type: relations/money/debtor
+  item: people/brycen-haley
+- 
+  type: relations/money/creditor
+  item: people/favian-stamm
+- 
+  type: relations/parental/friend
+  item: people/miss-dayana-hickle
+- 
+  type: relations/work/employer
+  item: companies/ferry-rolfson-and-lockman
+- 
+  type: relations/work/employer
+  item: companies/roob-hegmann-and-hickle
+- 
+  type: relations/money/debtor
+  item: companies/beahan-sauer
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-gusikowski
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

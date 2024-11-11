@@ -1,0 +1,64 @@
+Title: Ms. Sincere Kirlin IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/imelda-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/amani-dare
+- 
+  type: relations/money/debtor
+  item: people/lelah-reilly
+- 
+  type: relations/money/creditor
+  item: people/roosevelt-ziemann
+- 
+  type: relations/money/debtor
+  item: people/bianka-kunde
+- 
+  type: relations/parental/dad
+  item: people/dr-scottie-rippin
+- 
+  type: relations/work/employer
+  item: companies/feest-ltd
+- 
+  type: relations/money/debtor
+  item: companies/dooley-walter
+- 
+  type: relations/work/employer
+  item: companies/lindgren-group
+- 
+  type: relations/work/employer
+  item: companies/dicki-wiza
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/residence
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

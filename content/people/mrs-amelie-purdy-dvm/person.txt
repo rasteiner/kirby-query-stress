@@ -1,0 +1,64 @@
+Title: Mrs. Amelie Purdy DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jerry-streich
+- 
+  type: relations/parental/colleague
+  item: people/mr-charles-wunsch
+- 
+  type: relations/money/debtor
+  item: people/neal-kertzmann-sr
+- 
+  type: relations/parental/brosis
+  item: people/mr-tracey-langosh-dds
+- 
+  type: relations/parental/friend
+  item: people/kris-jast-phd
+- 
+  type: relations/money/debtor
+  item: people/ulises-ratke
+- 
+  type: relations/money/creditor
+  item: companies/pouros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/keeling-denesik
+- 
+  type: relations/work/client
+  item: companies/kshlerin-ltd
+- 
+  type: relations/money/creditor
+  item: companies/howe-lueilwitz-and-romaguera
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/visited
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

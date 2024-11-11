@@ -1,0 +1,64 @@
+Title: Ms. Lexie Kihn III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/aron-kovacek
+- 
+  type: relations/parental/colleague
+  item: people/daisy-nader
+- 
+  type: relations/money/debtor
+  item: people/alexandria-beer
+- 
+  type: relations/parental/colleague
+  item: people/giovani-wolff
+- 
+  type: relations/money/debtor
+  item: people/newell-berge
+- 
+  type: relations/parental/mom
+  item: people/miss-thora-gutmann-md
+- 
+  type: relations/money/debtor
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/work/employer
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/debtor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/residence
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

@@ -1,0 +1,65 @@
+Title: Jess Kub
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clint-west
+- 
+  type: relations/parental/colleague
+  item: people/ramon-marquardt
+- 
+  type: relations/parental/mom
+  item: people/cali-runte
+- 
+  type: relations/money/creditor
+  item: people/raquel-jaskolski
+- 
+  type: relations/parental/mom
+  item: people/prof-geovanni-gusikowski-dds
+- 
+  type: relations/money/creditor
+  item: people/percy-jenkins
+- 
+  type: relations/work/client
+  item: >
+    companies/homenick-ankunding-and-schimmel
+- 
+  type: relations/money/debtor
+  item: companies/lemke-ltd
+- 
+  type: relations/money/debtor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/creditor
+  item: companies/dach-and-sons
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/visited
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/visited
+  item: places/kathrynestad

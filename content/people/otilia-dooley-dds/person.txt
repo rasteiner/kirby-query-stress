@@ -1,0 +1,64 @@
+Title: Otilia Dooley DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/clara-effertz
+- 
+  type: relations/parental/dad
+  item: people/deonte-larkin-phd
+- 
+  type: relations/money/debtor
+  item: people/mac-pfannerstill
+- 
+  type: relations/money/debtor
+  item: people/ms-hollie-hoeger
+- 
+  type: relations/parental/brosis
+  item: people/reilly-wehner-i
+- 
+  type: relations/parental/colleague
+  item: people/cleta-kulas
+- 
+  type: relations/money/creditor
+  item: companies/prohaska-quitzon-and-weissnat
+- 
+  type: relations/work/employer
+  item: companies/walter-lemke
+- 
+  type: relations/work/employer
+  item: companies/brown-group
+- 
+  type: relations/work/client
+  item: companies/trantow-hermann-and-johns
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/residence
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/residence
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

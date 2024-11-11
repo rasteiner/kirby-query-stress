@@ -1,0 +1,64 @@
+Title: Mr. Imani Shanahan
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/keenan-wiza
+- 
+  type: relations/parental/friend
+  item: people/adrian-watsica
+- 
+  type: relations/parental/friend
+  item: people/vito-runolfsdottir
+- 
+  type: relations/money/creditor
+  item: people/rigoberto-marquardt
+- 
+  type: relations/money/creditor
+  item: people/betsy-steuber
+- 
+  type: relations/parental/mom
+  item: people/ms-lexie-kihn-iii
+- 
+  type: relations/work/employer
+  item: companies/o-connell-inc
+- 
+  type: relations/work/employer
+  item: companies/hettinger-crona-and-willms
+- 
+  type: relations/work/client
+  item: companies/russel-collier
+- 
+  type: relations/work/client
+  item: companies/schowalter-grimes
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/residence
+  item: places/carmineshire

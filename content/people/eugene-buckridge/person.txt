@@ -1,0 +1,64 @@
+Title: Eugene Buckridge
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/hermina-feil
+- 
+  type: relations/parental/mom
+  item: people/kylee-rice-dds
+- 
+  type: relations/parental/colleague
+  item: people/dr-lisandro-romaguera
+- 
+  type: relations/parental/dad
+  item: people/meda-fay
+- 
+  type: relations/money/debtor
+  item: people/hadley-schuster
+- 
+  type: relations/parental/colleague
+  item: people/maymie-skiles
+- 
+  type: relations/money/debtor
+  item: companies/cartwright-casper-and-kovacek
+- 
+  type: relations/work/client
+  item: companies/goyette-wiza
+- 
+  type: relations/work/client
+  item: companies/roob-boyle-and-abernathy
+- 
+  type: relations/money/debtor
+  item: companies/breitenberg-bins-and-murazik
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

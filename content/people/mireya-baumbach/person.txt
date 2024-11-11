@@ -1,0 +1,64 @@
+Title: Mireya Baumbach
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/braulio-jaskolski
+- 
+  type: relations/parental/colleague
+  item: people/dr-esmeralda-frami
+- 
+  type: relations/parental/brosis
+  item: people/dr-anthony-gutkowski-phd
+- 
+  type: relations/parental/colleague
+  item: people/beverly-abshire
+- 
+  type: relations/money/creditor
+  item: people/prof-drew-heidenreich
+- 
+  type: relations/parental/mom
+  item: people/jordan-bernier
+- 
+  type: relations/work/employer
+  item: companies/mertz-stracke
+- 
+  type: relations/money/creditor
+  item: companies/ullrich-llc
+- 
+  type: relations/work/client
+  item: companies/nicolas-rath-and-o-keefe
+- 
+  type: relations/work/client
+  item: companies/rutherford-wintheiser-and-lang
+- 
+  type: relations/location/residence
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/visited
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/residence
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/visited
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

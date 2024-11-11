@@ -1,0 +1,64 @@
+Title: Dr. Jared Willms Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-bettye-ernser-dds
+- 
+  type: relations/money/debtor
+  item: people/prof-monte-tromp
+- 
+  type: relations/parental/dad
+  item: people/jasen-kerluke-i
+- 
+  type: relations/parental/brosis
+  item: people/ms-daphnee-mckenzie
+- 
+  type: relations/parental/friend
+  item: people/dr-malcolm-stamm-iii
+- 
+  type: relations/parental/dad
+  item: people/barrett-jacobi
+- 
+  type: relations/work/client
+  item: companies/rowe-osinski
+- 
+  type: relations/work/employer
+  item: companies/hamill-plc
+- 
+  type: relations/work/employer
+  item: companies/mitchell-boyle
+- 
+  type: relations/money/debtor
+  item: companies/gorczany-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

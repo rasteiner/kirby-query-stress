@@ -1,0 +1,64 @@
+Title: Murray Koss
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/retta-nitzsche-dvm
+- 
+  type: relations/parental/friend
+  item: people/dr-brayan-anderson-jr
+- 
+  type: relations/parental/colleague
+  item: people/donald-cormier
+- 
+  type: relations/parental/dad
+  item: people/emily-gulgowski
+- 
+  type: relations/parental/friend
+  item: people/johanna-mosciski
+- 
+  type: relations/parental/brosis
+  item: people/gwen-weimann-iii
+- 
+  type: relations/work/client
+  item: companies/rau-quigley-and-doyle
+- 
+  type: relations/work/client
+  item: companies/cruickshank-inc
+- 
+  type: relations/work/employer
+  item: companies/kuhn-mante-and-kerluke
+- 
+  type: relations/money/debtor
+  item: companies/spencer-ltd
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Barrett Bergstrom
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/loyal-rowe
+- 
+  type: relations/money/creditor
+  item: people/mr-jaydon-kuhic
+- 
+  type: relations/parental/mom
+  item: people/alanna-kulas
+- 
+  type: relations/parental/dad
+  item: people/dagmar-gislason-md
+- 
+  type: relations/parental/dad
+  item: people/miss-joanny-bergnaum-sr
+- 
+  type: relations/parental/colleague
+  item: people/wellington-rutherford-sr
+- 
+  type: relations/money/debtor
+  item: companies/pollich-watsica
+- 
+  type: relations/money/debtor
+  item: companies/huel-sipes
+- 
+  type: relations/work/employer
+  item: companies/d-amore-aufderhar
+- 
+  type: relations/money/creditor
+  item: companies/bartell-plc
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/residence
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

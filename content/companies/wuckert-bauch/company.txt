@@ -1,0 +1,43 @@
+Title: Wuckert-Bauch
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/koelpin-group
+- 
+  type: relations/money/creditor
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/money/creditor
+  item: companies/jones-daugherty
+- 
+  type: relations/money/debtor
+  item: companies/white-blanda-and-friesen
+- 
+  type: relations/money/debtor
+  item: companies/o-hara-ltd
+- 
+  type: relations/money/creditor
+  item: companies/beer-brown-and-prosacco
+- 
+  type: relations/money/debtor
+  item: companies/gutmann-krajcik
+- 
+  type: relations/money/creditor
+  item: companies/predovic-plc
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven

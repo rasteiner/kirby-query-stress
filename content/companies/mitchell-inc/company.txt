@@ -1,0 +1,43 @@
+Title: Mitchell Inc
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: companies/zboncak-llc
+- 
+  type: relations/money/debtor
+  item: companies/hartmann-rolfson-and-gibson
+- 
+  type: relations/money/creditor
+  item: companies/leannon-pacocha
+- 
+  type: relations/money/debtor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/money/debtor
+  item: companies/mcglynn-o-conner
+- 
+  type: relations/money/creditor
+  item: companies/towne-llc
+- 
+  type: relations/money/debtor
+  item: companies/daniel-hills
+- 
+  type: relations/money/debtor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/location/residence
+  item: places/hoegerland
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh

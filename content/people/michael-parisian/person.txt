@@ -1,0 +1,64 @@
+Title: Michael Parisian
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/retha-adams
+- 
+  type: relations/parental/mom
+  item: people/hobart-dickens
+- 
+  type: relations/parental/brosis
+  item: people/shanny-sauer
+- 
+  type: relations/parental/colleague
+  item: people/prof-kiel-durgan-ii
+- 
+  type: relations/money/creditor
+  item: people/mr-tyrese-bashirian-dvm
+- 
+  type: relations/parental/mom
+  item: people/tate-schulist
+- 
+  type: relations/work/client
+  item: companies/satterfield-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/jacobi-group
+- 
+  type: relations/work/employer
+  item: companies/lindgren-hilpert
+- 
+  type: relations/money/creditor
+  item: companies/schulist-bosco
+- 
+  type: relations/location/visited
+  item: places/north-destineyburgh
+- 
+  type: relations/location/residence
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/visited
+  item: places/lake-irmatown
+- 
+  type: relations/location/residence
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/visited
+  item: places/cristfurt

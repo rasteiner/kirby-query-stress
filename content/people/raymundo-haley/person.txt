@@ -1,0 +1,64 @@
+Title: Raymundo Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/tristin-conroy
+- 
+  type: relations/parental/mom
+  item: people/asa-kulas
+- 
+  type: relations/parental/friend
+  item: people/keenan-wiza
+- 
+  type: relations/parental/dad
+  item: people/adrian-watsica
+- 
+  type: relations/money/creditor
+  item: people/vito-runolfsdottir
+- 
+  type: relations/parental/colleague
+  item: people/rigoberto-marquardt
+- 
+  type: relations/money/debtor
+  item: companies/bosco-hoeger-and-heller
+- 
+  type: relations/money/creditor
+  item: companies/runolfsson-lesch-and-brekke
+- 
+  type: relations/work/employer
+  item: companies/howe-haag-and-o-conner
+- 
+  type: relations/money/debtor
+  item: companies/emmerich-altenwerth
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

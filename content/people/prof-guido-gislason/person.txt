@@ -1,0 +1,64 @@
+Title: Prof. Guido Gislason
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/dr-darian-runolfsson-iv
+- 
+  type: relations/parental/dad
+  item: people/madelynn-hyatt
+- 
+  type: relations/parental/brosis
+  item: people/selmer-osinski
+- 
+  type: relations/parental/colleague
+  item: people/narciso-daugherty-ii
+- 
+  type: relations/parental/friend
+  item: people/enos-wiegand-ii
+- 
+  type: relations/parental/brosis
+  item: people/lois-konopelski-i
+- 
+  type: relations/work/employer
+  item: companies/o-keefe-mitchell
+- 
+  type: relations/money/creditor
+  item: companies/bergnaum-daugherty-and-klein
+- 
+  type: relations/money/debtor
+  item: companies/mosciski-wunsch
+- 
+  type: relations/work/employer
+  item: companies/osinski-lehner
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

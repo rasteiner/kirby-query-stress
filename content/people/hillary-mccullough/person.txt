@@ -1,0 +1,64 @@
+Title: Hillary McCullough
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/dr-nash-baumbach-sr
+- 
+  type: relations/parental/brosis
+  item: people/gertrude-abshire
+- 
+  type: relations/parental/colleague
+  item: people/mathew-jaskolski
+- 
+  type: relations/money/creditor
+  item: people/prof-rashad-wilderman-iii
+- 
+  type: relations/money/debtor
+  item: people/mrs-alexane-lesch-phd
+- 
+  type: relations/parental/brosis
+  item: people/marcos-lemke
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/work/client
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/money/creditor
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/visited
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/visited
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

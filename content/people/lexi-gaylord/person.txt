@@ -1,0 +1,64 @@
+Title: Lexi Gaylord
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/gaylord-rau
+- 
+  type: relations/parental/dad
+  item: people/dr-melissa-funk-ii
+- 
+  type: relations/parental/brosis
+  item: people/erich-lang-v
+- 
+  type: relations/money/debtor
+  item: people/mario-denesik
+- 
+  type: relations/money/creditor
+  item: people/shakira-robel
+- 
+  type: relations/money/creditor
+  item: people/stacey-dach-iii
+- 
+  type: relations/money/debtor
+  item: companies/schamberger-schiller
+- 
+  type: relations/money/creditor
+  item: companies/paucek-corkery-and-leannon
+- 
+  type: relations/work/client
+  item: companies/durgan-russel-and-kunze
+- 
+  type: relations/work/client
+  item: companies/wyman-kutch-and-hegmann
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

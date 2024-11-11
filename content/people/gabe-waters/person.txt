@@ -1,0 +1,64 @@
+Title: Gabe Waters
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-tierra-nicolas-v
+- 
+  type: relations/parental/brosis
+  item: people/prof-josianne-gutmann
+- 
+  type: relations/parental/brosis
+  item: people/destinee-ernser
+- 
+  type: relations/parental/colleague
+  item: people/dr-kadin-koch
+- 
+  type: relations/parental/brosis
+  item: people/vicky-wiza
+- 
+  type: relations/parental/brosis
+  item: people/dr-evangeline-abernathy
+- 
+  type: relations/money/creditor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/debtor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/debtor
+  item: companies/rath-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/visited
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

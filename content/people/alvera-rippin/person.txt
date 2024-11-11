@@ -1,0 +1,64 @@
+Title: Alvera Rippin
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-luigi-becker
+- 
+  type: relations/parental/colleague
+  item: people/elvis-schinner
+- 
+  type: relations/parental/brosis
+  item: people/faye-wunsch-sr
+- 
+  type: relations/parental/brosis
+  item: people/matilde-o-keefe-i
+- 
+  type: relations/parental/dad
+  item: people/dr-nash-baumbach-sr
+- 
+  type: relations/parental/mom
+  item: people/gertrude-abshire
+- 
+  type: relations/money/creditor
+  item: companies/metz-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-dubuque
+- 
+  type: relations/money/creditor
+  item: companies/beer-ltd
+- 
+  type: relations/money/debtor
+  item: companies/toy-raynor-and-brown
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

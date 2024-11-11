@@ -1,0 +1,64 @@
+Title: Mr. Xzavier Crooks MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/shad-o-keefe
+- 
+  type: relations/parental/mom
+  item: people/madonna-balistreri
+- 
+  type: relations/parental/dad
+  item: people/mr-harvey-carroll
+- 
+  type: relations/parental/friend
+  item: people/taurean-mckenzie-jr
+- 
+  type: relations/parental/brosis
+  item: people/kariane-zboncak
+- 
+  type: relations/parental/colleague
+  item: people/sabryna-schaefer
+- 
+  type: relations/money/debtor
+  item: companies/hoppe-hayes-and-jacobi
+- 
+  type: relations/money/debtor
+  item: companies/reilly-yundt-and-sauer
+- 
+  type: relations/work/client
+  item: companies/bergnaum-morar-and-deckow
+- 
+  type: relations/work/employer
+  item: companies/wiza-plc
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/visited
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

@@ -1,0 +1,64 @@
+Title: Paolo Wehner MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/joanny-kessler
+- 
+  type: relations/money/creditor
+  item: people/edward-barrows
+- 
+  type: relations/parental/mom
+  item: people/ms-aniyah-boyle
+- 
+  type: relations/parental/brosis
+  item: people/micheal-bayer
+- 
+  type: relations/parental/dad
+  item: people/prof-camryn-brakus-v
+- 
+  type: relations/parental/dad
+  item: people/prof-elnora-hilpert-iii
+- 
+  type: relations/work/employer
+  item: companies/jones-llc
+- 
+  type: relations/money/debtor
+  item: companies/veum-pagac
+- 
+  type: relations/money/creditor
+  item: companies/king-and-sons
+- 
+  type: relations/work/employer
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

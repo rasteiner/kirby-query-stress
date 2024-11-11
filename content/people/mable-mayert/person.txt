@@ -1,0 +1,64 @@
+Title: Mable Mayert
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-theresia-rice
+- 
+  type: relations/parental/dad
+  item: people/zoey-bernhard
+- 
+  type: relations/parental/colleague
+  item: people/amalia-beier
+- 
+  type: relations/parental/dad
+  item: people/jody-rogahn
+- 
+  type: relations/parental/mom
+  item: people/prof-nathanial-bartoletti-dds
+- 
+  type: relations/parental/colleague
+  item: people/nannie-schroeder
+- 
+  type: relations/work/client
+  item: companies/robel-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/koss-group
+- 
+  type: relations/money/debtor
+  item: companies/veum-and-sons
+- 
+  type: relations/work/client
+  item: companies/will-plc
+- 
+  type: relations/location/residence
+  item: places/lake-friedachester
+- 
+  type: relations/location/residence
+  item: places/port-camdenberg
+- 
+  type: relations/location/visited
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

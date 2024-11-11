@@ -1,0 +1,64 @@
+Title: Davion Wehner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/theo-hyatt
+- 
+  type: relations/parental/dad
+  item: people/carli-walsh
+- 
+  type: relations/money/debtor
+  item: people/wilbert-mosciski
+- 
+  type: relations/money/creditor
+  item: people/luther-turner
+- 
+  type: relations/parental/mom
+  item: people/cassandre-huel
+- 
+  type: relations/parental/friend
+  item: people/miss-jewel-kovacek
+- 
+  type: relations/money/debtor
+  item: companies/haley-mcclure-and-ledner
+- 
+  type: relations/money/creditor
+  item: companies/o-reilly-gislason
+- 
+  type: relations/work/client
+  item: companies/blanda-bartell
+- 
+  type: relations/money/creditor
+  item: companies/botsford-kunze-and-jenkins
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/residence
+  item: places/kaylastad
+- 
+  type: relations/location/residence
+  item: places/bretberg
+- 
+  type: relations/location/residence
+  item: places/north-brannonberg
+- 
+  type: relations/location/visited
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/residence
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

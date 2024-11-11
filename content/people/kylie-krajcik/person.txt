@@ -1,0 +1,64 @@
+Title: Kylie Krajcik
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/angelina-schultz
+- 
+  type: relations/money/creditor
+  item: people/filiberto-breitenberg
+- 
+  type: relations/parental/dad
+  item: people/clint-dubuque
+- 
+  type: relations/parental/friend
+  item: people/nora-marks
+- 
+  type: relations/parental/brosis
+  item: people/keaton-lang
+- 
+  type: relations/parental/friend
+  item: people/ms-lia-armstrong-phd
+- 
+  type: relations/money/creditor
+  item: companies/cummings-plc
+- 
+  type: relations/money/creditor
+  item: companies/cummerata-botsford-and-tromp
+- 
+  type: relations/money/creditor
+  item: companies/ledner-mann-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/sporer-jones-and-shanahan
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/residence
+  item: places/south-emerson

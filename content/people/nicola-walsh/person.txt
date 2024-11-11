@@ -1,0 +1,64 @@
+Title: Nicola Walsh
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-ramon-lind
+- 
+  type: relations/parental/colleague
+  item: people/pink-olson
+- 
+  type: relations/parental/mom
+  item: people/clovis-wintheiser
+- 
+  type: relations/parental/friend
+  item: people/vance-braun
+- 
+  type: relations/parental/friend
+  item: people/miss-ona-wilkinson
+- 
+  type: relations/money/creditor
+  item: people/aimee-donnelly
+- 
+  type: relations/work/employer
+  item: companies/weissnat-stamm
+- 
+  type: relations/work/client
+  item: companies/kirlin-pfannerstill
+- 
+  type: relations/money/debtor
+  item: companies/kunze-group
+- 
+  type: relations/money/debtor
+  item: companies/rolfson-llc
+- 
+  type: relations/location/residence
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/residence
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

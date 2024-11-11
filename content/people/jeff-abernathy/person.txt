@@ -1,0 +1,64 @@
+Title: Jeff Abernathy
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/gayle-heaney
+- 
+  type: relations/money/creditor
+  item: people/mr-guido-lind-dvm
+- 
+  type: relations/parental/colleague
+  item: people/prof-justus-powlowski-iv
+- 
+  type: relations/parental/dad
+  item: people/thurman-schuppe
+- 
+  type: relations/parental/dad
+  item: people/bud-ziemann
+- 
+  type: relations/parental/brosis
+  item: people/ms-hellen-rempel
+- 
+  type: relations/money/debtor
+  item: companies/runolfsson-dare-and-barton
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-ltd
+- 
+  type: relations/money/creditor
+  item: companies/kozey-group
+- 
+  type: relations/work/client
+  item: companies/huels-hoppe
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/visited
+  item: places/port-vilmaland
+- 
+  type: relations/location/residence
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

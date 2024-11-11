@@ -1,0 +1,64 @@
+Title: Prof. Oda Mills DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/prof-dawn-jacobs-v
+- 
+  type: relations/parental/colleague
+  item: people/paris-hagenes
+- 
+  type: relations/parental/brosis
+  item: people/prof-freddy-zieme
+- 
+  type: relations/parental/dad
+  item: people/orin-turner
+- 
+  type: relations/money/creditor
+  item: people/prof-benedict-raynor-iii
+- 
+  type: relations/parental/friend
+  item: people/dr-dina-bartoletti-iv
+- 
+  type: relations/work/client
+  item: companies/purdy-koch
+- 
+  type: relations/work/client
+  item: companies/smith-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/kessler-harber
+- 
+  type: relations/money/debtor
+  item: companies/schneider-plc
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/kaylastad
+- 
+  type: relations/location/visited
+  item: places/bretberg
+- 
+  type: relations/location/visited
+  item: places/north-brannonberg
+- 
+  type: relations/location/residence
+  item: places/jessikamouth
+- 
+  type: relations/location/visited
+  item: places/new-aylastad
+- 
+  type: relations/location/visited
+  item: places/west-alize
+- 
+  type: relations/location/visited
+  item: places/carmineshire

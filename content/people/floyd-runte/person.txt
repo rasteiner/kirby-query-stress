@@ -1,0 +1,64 @@
+Title: Floyd Runte
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mason-prohaska
+- 
+  type: relations/parental/brosis
+  item: people/marianna-corwin
+- 
+  type: relations/parental/dad
+  item: people/joyce-wolff
+- 
+  type: relations/parental/mom
+  item: people/mrs-bette-frami-i
+- 
+  type: relations/parental/brosis
+  item: people/emiliano-sauer-ii
+- 
+  type: relations/parental/mom
+  item: people/prof-jackeline-murazik-md
+- 
+  type: relations/work/client
+  item: companies/thiel-howe
+- 
+  type: relations/work/client
+  item: companies/paucek-berge
+- 
+  type: relations/money/creditor
+  item: companies/mccullough-harris-and-carter
+- 
+  type: relations/money/debtor
+  item: companies/russel-and-sons
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

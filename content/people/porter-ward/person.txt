@@ -1,0 +1,64 @@
+Title: Porter Ward
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/montana-mraz-dvm
+- 
+  type: relations/parental/friend
+  item: people/ms-betty-rowe
+- 
+  type: relations/parental/mom
+  item: people/jarred-kirlin
+- 
+  type: relations/money/creditor
+  item: people/kendrick-adams
+- 
+  type: relations/parental/mom
+  item: people/dr-cindy-ratke
+- 
+  type: relations/parental/colleague
+  item: people/jarret-shields
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-hudson
+- 
+  type: relations/work/employer
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/hettinger-fay
+- 
+  type: relations/location/visited
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

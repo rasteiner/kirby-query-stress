@@ -1,0 +1,64 @@
+Title: Miss Kailey Erdman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/sheila-bode
+- 
+  type: relations/parental/friend
+  item: people/marianna-parisian
+- 
+  type: relations/parental/mom
+  item: people/lonnie-mann
+- 
+  type: relations/parental/brosis
+  item: people/luther-runolfsdottir
+- 
+  type: relations/money/debtor
+  item: people/prof-maxwell-durgan-jr
+- 
+  type: relations/parental/dad
+  item: people/jaqueline-skiles-md
+- 
+  type: relations/work/client
+  item: companies/jones-llc
+- 
+  type: relations/work/client
+  item: companies/veum-pagac
+- 
+  type: relations/work/client
+  item: companies/king-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/marvin-gulgowski-and-pfeffer
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/visited
+  item: places/new-carmela

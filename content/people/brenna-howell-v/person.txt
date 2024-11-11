@@ -1,0 +1,64 @@
+Title: Brenna Howell V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-eliza-stehr
+- 
+  type: relations/money/creditor
+  item: people/julio-kling
+- 
+  type: relations/parental/mom
+  item: people/dr-ian-swaniawski
+- 
+  type: relations/parental/mom
+  item: people/sydnee-buckridge-jr
+- 
+  type: relations/money/debtor
+  item: people/clement-leffler
+- 
+  type: relations/parental/dad
+  item: people/raymundo-bode
+- 
+  type: relations/money/creditor
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/employer
+  item: companies/schmidt-gaylord
+- 
+  type: relations/work/employer
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/visited
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

@@ -1,0 +1,65 @@
+Title: Athena Hyatt
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/afton-breitenberg-md
+- 
+  type: relations/parental/dad
+  item: people/mr-gordon-trantow-dvm
+- 
+  type: relations/money/creditor
+  item: people/donald-blanda-i
+- 
+  type: relations/parental/mom
+  item: people/lauriane-kertzmann
+- 
+  type: relations/parental/mom
+  item: people/mrs-chloe-berge-dds
+- 
+  type: relations/parental/dad
+  item: people/chadd-johnston
+- 
+  type: relations/work/client
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/work/employer
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/client
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/employer
+  item: companies/flatley-inc
+- 
+  type: relations/location/visited
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/residence
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

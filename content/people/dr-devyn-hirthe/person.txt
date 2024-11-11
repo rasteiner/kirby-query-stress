@@ -1,0 +1,64 @@
+Title: Dr. Devyn Hirthe
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-kirsten-waters
+- 
+  type: relations/money/debtor
+  item: people/giuseppe-stroman
+- 
+  type: relations/parental/brosis
+  item: people/charlotte-barton
+- 
+  type: relations/money/creditor
+  item: people/mrs-eugenia-koch-sr
+- 
+  type: relations/parental/brosis
+  item: people/prof-seth-gutkowski
+- 
+  type: relations/money/debtor
+  item: people/dave-quigley-sr
+- 
+  type: relations/money/creditor
+  item: companies/monahan-gulgowski
+- 
+  type: relations/money/creditor
+  item: companies/mcdermott-pouros-and-morar
+- 
+  type: relations/work/client
+  item: companies/kuvalis-group
+- 
+  type: relations/work/client
+  item: companies/wuckert-little
+- 
+  type: relations/location/residence
+  item: places/lake-aldaside
+- 
+  type: relations/location/visited
+  item: places/port-jonfort
+- 
+  type: relations/location/visited
+  item: places/new-ignatiusport
+- 
+  type: relations/location/visited
+  item: places/new-brayanside
+- 
+  type: relations/location/visited
+  item: places/west-leifmouth
+- 
+  type: relations/location/visited
+  item: places/rodriguezstad
+- 
+  type: relations/location/residence
+  item: places/leschfort
+- 
+  type: relations/location/residence
+  item: places/south-nevaberg

@@ -1,0 +1,64 @@
+Title: Winfield Crooks
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/enrico-walker
+- 
+  type: relations/parental/mom
+  item: people/reyna-brown
+- 
+  type: relations/parental/friend
+  item: people/glenna-kuvalis
+- 
+  type: relations/money/creditor
+  item: people/alda-mertz
+- 
+  type: relations/parental/friend
+  item: people/art-hyatt
+- 
+  type: relations/money/creditor
+  item: people/ernesto-quitzon
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-yost
+- 
+  type: relations/work/client
+  item: companies/conn-inc
+- 
+  type: relations/work/employer
+  item: companies/schneider-leannon
+- 
+  type: relations/work/client
+  item: companies/stiedemann-ltd
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/visited
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/residence
+  item: places/south-bridie
+- 
+  type: relations/location/residence
+  item: places/east-aishafort
+- 
+  type: relations/location/residence
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/residence
+  item: places/north-horace
+- 
+  type: relations/location/residence
+  item: places/new-donnie

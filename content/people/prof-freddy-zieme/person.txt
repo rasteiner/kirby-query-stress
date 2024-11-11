@@ -1,0 +1,64 @@
+Title: Prof. Freddy Zieme
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/caitlyn-wyman
+- 
+  type: relations/parental/mom
+  item: people/dr-vallie-reichel-jr
+- 
+  type: relations/parental/mom
+  item: people/betsy-graham-i
+- 
+  type: relations/parental/colleague
+  item: people/priscilla-kunze-iii
+- 
+  type: relations/parental/mom
+  item: people/ms-della-schimmel-jr
+- 
+  type: relations/money/debtor
+  item: people/fiona-schulist
+- 
+  type: relations/work/client
+  item: companies/treutel-macejkovic
+- 
+  type: relations/money/debtor
+  item: companies/lang-koch-and-schiller
+- 
+  type: relations/work/client
+  item: companies/schmidt-gaylord
+- 
+  type: relations/money/creditor
+  item: companies/tromp-bradtke-and-batz
+- 
+  type: relations/location/residence
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

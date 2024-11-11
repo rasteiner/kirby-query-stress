@@ -1,0 +1,64 @@
+Title: Dr. Zakary Farrell DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/jeff-beer
+- 
+  type: relations/parental/dad
+  item: people/bernadine-williamson
+- 
+  type: relations/parental/colleague
+  item: people/ms-euna-fadel
+- 
+  type: relations/parental/brosis
+  item: people/earnest-wiza
+- 
+  type: relations/parental/mom
+  item: people/delaney-runolfsdottir-i
+- 
+  type: relations/parental/brosis
+  item: people/dolores-bins
+- 
+  type: relations/work/employer
+  item: companies/quigley-windler-and-braun
+- 
+  type: relations/money/creditor
+  item: companies/reichert-mante-and-hilll
+- 
+  type: relations/money/creditor
+  item: companies/frami-hintz-and-boyle
+- 
+  type: relations/work/client
+  item: companies/klein-wilkinson
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/residence
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/residence
+  item: places/gutmannhaven
+- 
+  type: relations/location/visited
+  item: places/west-jamey
+- 
+  type: relations/location/residence
+  item: places/bergnaumfort

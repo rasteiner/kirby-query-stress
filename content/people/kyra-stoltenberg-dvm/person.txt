@@ -1,0 +1,64 @@
+Title: Kyra Stoltenberg DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jackson-bode
+- 
+  type: relations/parental/friend
+  item: people/dr-keyshawn-schuppe
+- 
+  type: relations/parental/colleague
+  item: people/mr-brandt-hoppe-v
+- 
+  type: relations/money/creditor
+  item: people/dr-darby-bins-iv
+- 
+  type: relations/parental/mom
+  item: people/dr-monica-bednar-v
+- 
+  type: relations/money/debtor
+  item: people/nicola-murazik
+- 
+  type: relations/money/debtor
+  item: companies/sporer-will
+- 
+  type: relations/money/creditor
+  item: companies/kling-ltd
+- 
+  type: relations/money/debtor
+  item: companies/legros-morar
+- 
+  type: relations/money/debtor
+  item: companies/cole-bins
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/residence
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/residence
+  item: places/abdielmouth
+- 
+  type: relations/location/residence
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/residence
+  item: places/new-selmer

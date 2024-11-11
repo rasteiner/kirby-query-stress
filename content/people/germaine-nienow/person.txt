@@ -1,0 +1,64 @@
+Title: Germaine Nienow
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/joany-stehr
+- 
+  type: relations/parental/dad
+  item: people/dr-osborne-murray
+- 
+  type: relations/money/debtor
+  item: people/kennedi-lubowitz-iii
+- 
+  type: relations/parental/dad
+  item: people/lucio-lueilwitz
+- 
+  type: relations/parental/colleague
+  item: people/ezekiel-gislason
+- 
+  type: relations/parental/friend
+  item: people/prof-barney-reichert
+- 
+  type: relations/work/employer
+  item: companies/keeling-inc
+- 
+  type: relations/money/creditor
+  item: companies/mayer-and-sons
+- 
+  type: relations/work/employer
+  item: companies/daniel-group
+- 
+  type: relations/work/client
+  item: companies/schuppe-grimes
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/visited
+  item: places/east-arielleburgh
+- 
+  type: relations/location/visited
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

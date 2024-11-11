@@ -1,0 +1,64 @@
+Title: Miss Giovanna Gleichner
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-rubye-nolan-iv
+- 
+  type: relations/parental/friend
+  item: people/prof-lea-wiegand
+- 
+  type: relations/parental/dad
+  item: people/jaida-klocko
+- 
+  type: relations/parental/brosis
+  item: people/prof-finn-bode-jr
+- 
+  type: relations/parental/friend
+  item: people/miss-etha-tromp-phd
+- 
+  type: relations/parental/dad
+  item: people/jayson-bergstrom
+- 
+  type: relations/work/client
+  item: companies/corkery-medhurst-and-schmeler
+- 
+  type: relations/money/debtor
+  item: companies/baumbach-wiegand
+- 
+  type: relations/work/employer
+  item: companies/feil-stoltenberg-and-denesik
+- 
+  type: relations/work/employer
+  item: companies/walsh-plc
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/visited
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/residence
+  item: places/new-anahi
+- 
+  type: relations/location/visited
+  item: places/ariannahaven
+- 
+  type: relations/location/residence
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/visited
+  item: places/brayanmouth

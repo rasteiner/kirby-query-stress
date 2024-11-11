@@ -1,0 +1,64 @@
+Title: Turner Casper
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/ms-ellen-cummings-i
+- 
+  type: relations/parental/friend
+  item: people/tremaine-nitzsche
+- 
+  type: relations/parental/friend
+  item: people/marta-gulgowski
+- 
+  type: relations/parental/brosis
+  item: people/mrs-melyssa-monahan
+- 
+  type: relations/money/debtor
+  item: people/leora-maggio
+- 
+  type: relations/money/debtor
+  item: people/clare-casper
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/money/creditor
+  item: companies/johnson-windler
+- 
+  type: relations/work/employer
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-llc
+- 
+  type: relations/location/visited
+  item: places/marjoryland
+- 
+  type: relations/location/visited
+  item: places/new-kaileeborough
+- 
+  type: relations/location/residence
+  item: places/vernieview
+- 
+  type: relations/location/residence
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

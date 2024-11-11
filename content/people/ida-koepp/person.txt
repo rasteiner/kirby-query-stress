@@ -1,0 +1,64 @@
+Title: Ida Koepp
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/dr-abe-powlowski
+- 
+  type: relations/money/creditor
+  item: people/elton-murray
+- 
+  type: relations/parental/friend
+  item: people/rylan-wuckert
+- 
+  type: relations/parental/colleague
+  item: people/enrico-heaney
+- 
+  type: relations/parental/friend
+  item: people/kailee-prohaska
+- 
+  type: relations/parental/mom
+  item: people/demond-kuhlman
+- 
+  type: relations/money/debtor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/residence
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

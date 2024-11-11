@@ -1,0 +1,64 @@
+Title: Pearlie Hills MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/linnie-orn-jr
+- 
+  type: relations/parental/friend
+  item: people/dr-madelynn-koepp-jr
+- 
+  type: relations/parental/colleague
+  item: people/prof-franz-rohan
+- 
+  type: relations/parental/dad
+  item: people/prof-baylee-hauck-md
+- 
+  type: relations/parental/friend
+  item: people/thea-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/dr-lonnie-stokes
+- 
+  type: relations/work/client
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/creditor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/client
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/residence
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/visited
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

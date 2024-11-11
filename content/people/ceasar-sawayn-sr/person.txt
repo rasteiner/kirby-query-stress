@@ -1,0 +1,64 @@
+Title: Ceasar Sawayn Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/coty-rogahn
+- 
+  type: relations/parental/brosis
+  item: people/christine-hudson
+- 
+  type: relations/parental/mom
+  item: people/prof-agustin-sporer
+- 
+  type: relations/money/creditor
+  item: people/germaine-nienow
+- 
+  type: relations/money/debtor
+  item: people/zola-kihn
+- 
+  type: relations/parental/mom
+  item: people/imelda-abshire
+- 
+  type: relations/money/creditor
+  item: companies/herzog-pfannerstill
+- 
+  type: relations/work/client
+  item: companies/harris-pfannerstill
+- 
+  type: relations/money/creditor
+  item: companies/ziemann-jacobson
+- 
+  type: relations/money/debtor
+  item: companies/willms-terry-and-boehm
+- 
+  type: relations/location/residence
+  item: places/staceyville
+- 
+  type: relations/location/visited
+  item: places/east-collinfurt
+- 
+  type: relations/location/residence
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/visited
+  item: places/hageneston
+- 
+  type: relations/location/residence
+  item: places/otiliachester

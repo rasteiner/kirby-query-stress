@@ -1,0 +1,64 @@
+Title: Miss Angelita Gutmann III
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/blake-miller
+- 
+  type: relations/parental/dad
+  item: people/holly-pollich
+- 
+  type: relations/money/debtor
+  item: people/blanche-collier-phd
+- 
+  type: relations/parental/colleague
+  item: people/daren-wolf
+- 
+  type: relations/parental/dad
+  item: people/prof-hector-quigley
+- 
+  type: relations/money/creditor
+  item: people/mrs-octavia-prosacco
+- 
+  type: relations/money/creditor
+  item: companies/becker-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/mante-plc
+- 
+  type: relations/work/employer
+  item: companies/ruecker-llc
+- 
+  type: relations/work/employer
+  item: companies/kunde-llc
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/residence
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/residence
+  item: places/port-noraborough
+- 
+  type: relations/location/visited
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

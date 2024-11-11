@@ -1,0 +1,64 @@
+Title: Josue Swift
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/lambert-homenick
+- 
+  type: relations/parental/mom
+  item: people/dr-kurt-ebert
+- 
+  type: relations/parental/brosis
+  item: people/mr-joshuah-anderson
+- 
+  type: relations/parental/colleague
+  item: people/mr-brandt-olson-sr
+- 
+  type: relations/parental/brosis
+  item: people/terrill-corwin-sr
+- 
+  type: relations/money/debtor
+  item: people/greta-senger
+- 
+  type: relations/work/client
+  item: companies/quitzon-christiansen
+- 
+  type: relations/work/client
+  item: companies/mills-wyman
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-hand-and-heathcote
+- 
+  type: relations/work/client
+  item: companies/brown-pfeffer-and-kirlin
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

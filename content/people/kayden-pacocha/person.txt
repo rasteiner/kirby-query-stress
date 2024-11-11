@@ -1,0 +1,64 @@
+Title: Kayden Pacocha
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/helmer-aufderhar
+- 
+  type: relations/parental/mom
+  item: people/rupert-schneider
+- 
+  type: relations/parental/dad
+  item: people/breana-kiehn
+- 
+  type: relations/money/debtor
+  item: people/lizeth-satterfield
+- 
+  type: relations/parental/colleague
+  item: people/tatyana-macejkovic
+- 
+  type: relations/parental/friend
+  item: people/dell-stamm-md
+- 
+  type: relations/money/creditor
+  item: companies/dickinson-plc
+- 
+  type: relations/money/creditor
+  item: companies/gislason-llc
+- 
+  type: relations/money/creditor
+  item: companies/daniel-cummerata-and-nolan
+- 
+  type: relations/money/creditor
+  item: companies/o-keefe-llc
+- 
+  type: relations/location/residence
+  item: places/lake-romaineberg
+- 
+  type: relations/location/visited
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/visited
+  item: places/kuhicport
+- 
+  type: relations/location/visited
+  item: places/shaneton
+- 
+  type: relations/location/visited
+  item: places/east-holden
+- 
+  type: relations/location/residence
+  item: places/east-dante
+- 
+  type: relations/location/residence
+  item: places/malindastad

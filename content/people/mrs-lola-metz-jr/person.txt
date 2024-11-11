@@ -1,0 +1,64 @@
+Title: Mrs. Lola Metz Jr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/sarai-schulist
+- 
+  type: relations/parental/friend
+  item: people/ron-o-keefe-md
+- 
+  type: relations/parental/friend
+  item: people/annabel-witting-phd
+- 
+  type: relations/parental/dad
+  item: people/americo-wisoky
+- 
+  type: relations/parental/colleague
+  item: people/ladarius-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/thurman-dicki
+- 
+  type: relations/money/creditor
+  item: companies/hoppe-harris-and-keebler
+- 
+  type: relations/money/creditor
+  item: companies/ward-dickens
+- 
+  type: relations/work/employer
+  item: companies/anderson-bartell-and-zboncak
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-parker
+- 
+  type: relations/location/residence
+  item: places/new-marafurt
+- 
+  type: relations/location/residence
+  item: places/new-alleneville
+- 
+  type: relations/location/visited
+  item: places/hodkiewiczland
+- 
+  type: relations/location/visited
+  item: places/jeanetteside
+- 
+  type: relations/location/residence
+  item: places/hettingermouth
+- 
+  type: relations/location/visited
+  item: places/gutmannhaven
+- 
+  type: relations/location/residence
+  item: places/west-jamey
+- 
+  type: relations/location/visited
+  item: places/bergnaumfort

@@ -1,0 +1,65 @@
+Title: Coty Rogahn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/florence-ortiz
+- 
+  type: relations/money/creditor
+  item: people/elyssa-hermann
+- 
+  type: relations/parental/colleague
+  item: people/alejandra-muller
+- 
+  type: relations/money/creditor
+  item: people/ms-gina-hirthe
+- 
+  type: relations/parental/colleague
+  item: people/dr-alejandra-kuvalis
+- 
+  type: relations/parental/brosis
+  item: people/serena-schamberger
+- 
+  type: relations/money/creditor
+  item: companies/ratke-inc
+- 
+  type: relations/work/employer
+  item: companies/zulauf-kuphal-and-romaguera
+- 
+  type: relations/work/client
+  item: companies/kihn-conn-and-legros
+- 
+  type: relations/work/employer
+  item: >
+    companies/schmidt-runolfsdottir-and-zulauf
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/residence
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

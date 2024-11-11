@@ -1,0 +1,64 @@
+Title: Tomasa Mills
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/elfrieda-schaden
+- 
+  type: relations/parental/colleague
+  item: people/ruthie-powlowski
+- 
+  type: relations/parental/colleague
+  item: people/mr-jamaal-champlin
+- 
+  type: relations/parental/colleague
+  item: people/blaise-howell
+- 
+  type: relations/parental/colleague
+  item: people/miss-roberta-stiedemann
+- 
+  type: relations/money/debtor
+  item: people/lily-parker
+- 
+  type: relations/work/employer
+  item: companies/gottlieb-wisoky
+- 
+  type: relations/money/debtor
+  item: companies/barrows-sawayn-and-kshlerin
+- 
+  type: relations/work/client
+  item: companies/d-amore-walter-and-schamberger
+- 
+  type: relations/money/debtor
+  item: companies/hansen-abernathy
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/residence
+  item: places/hudsonbury
+- 
+  type: relations/location/visited
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/visited
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/visited
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

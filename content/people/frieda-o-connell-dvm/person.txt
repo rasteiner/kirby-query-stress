@@ -1,0 +1,64 @@
+Title: Frieda O'Connell DVM
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/ms-hollie-dach-i
+- 
+  type: relations/parental/mom
+  item: people/prof-ramona-bogisich
+- 
+  type: relations/money/debtor
+  item: people/kayli-effertz
+- 
+  type: relations/parental/colleague
+  item: people/lamont-ryan
+- 
+  type: relations/parental/friend
+  item: people/mollie-ankunding
+- 
+  type: relations/parental/brosis
+  item: people/prof-chasity-heidenreich
+- 
+  type: relations/work/client
+  item: companies/jacobi-little-and-waters
+- 
+  type: relations/work/client
+  item: companies/kuhlman-llc
+- 
+  type: relations/money/debtor
+  item: companies/kris-inc
+- 
+  type: relations/money/debtor
+  item: companies/smith-douglas
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/residence
+  item: places/aldenmouth
+- 
+  type: relations/location/visited
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/residence
+  item: places/west-noemi
+- 
+  type: relations/location/residence
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/visited
+  item: places/lake-travisfort
+- 
+  type: relations/location/visited
+  item: places/lake-freddyview

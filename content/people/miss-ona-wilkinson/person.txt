@@ -1,0 +1,64 @@
+Title: Miss Ona Wilkinson
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/lambert-legros
+- 
+  type: relations/parental/brosis
+  item: people/bridie-trantow-phd
+- 
+  type: relations/money/creditor
+  item: people/kraig-runolfsson
+- 
+  type: relations/parental/colleague
+  item: people/elody-kozey
+- 
+  type: relations/parental/friend
+  item: people/kiley-schowalter
+- 
+  type: relations/parental/dad
+  item: people/jewell-effertz
+- 
+  type: relations/work/client
+  item: companies/gibson-lynch
+- 
+  type: relations/money/debtor
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/visited
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/residence
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal

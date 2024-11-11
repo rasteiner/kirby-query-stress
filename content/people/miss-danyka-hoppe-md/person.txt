@@ -1,0 +1,64 @@
+Title: Miss Danyka Hoppe MD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/velda-casper-ii
+- 
+  type: relations/parental/colleague
+  item: people/ms-shanelle-hamill-v
+- 
+  type: relations/money/creditor
+  item: people/raheem-hettinger
+- 
+  type: relations/parental/dad
+  item: people/ryan-ullrich-ii
+- 
+  type: relations/money/creditor
+  item: people/laila-lueilwitz
+- 
+  type: relations/money/creditor
+  item: people/tomasa-mills
+- 
+  type: relations/money/debtor
+  item: companies/gerhold-and-sons
+- 
+  type: relations/work/client
+  item: companies/cassin-greenfelder
+- 
+  type: relations/work/client
+  item: companies/funk-osinski-and-bogan
+- 
+  type: relations/work/client
+  item: companies/connelly-llc
+- 
+  type: relations/location/residence
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/residence
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

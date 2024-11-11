@@ -1,0 +1,65 @@
+Title: Delfina Ward
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mrs-gwendolyn-roberts-phd
+- 
+  type: relations/parental/friend
+  item: people/prof-tyshawn-lynch
+- 
+  type: relations/money/creditor
+  item: people/connor-koelpin-jr
+- 
+  type: relations/money/creditor
+  item: people/dr-tony-gislason-md
+- 
+  type: relations/parental/dad
+  item: people/keanu-ullrich
+- 
+  type: relations/parental/colleague
+  item: people/dr-deshaun-lang
+- 
+  type: relations/money/creditor
+  item: companies/hammes-koelpin
+- 
+  type: relations/money/debtor
+  item: companies/legros-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/gaylord-boyle
+- 
+  type: relations/money/creditor
+  item: >
+    companies/ritchie-armstrong-and-cruickshank
+- 
+  type: relations/location/visited
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/visited
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/visited
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

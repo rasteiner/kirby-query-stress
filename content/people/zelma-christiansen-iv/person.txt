@@ -1,0 +1,64 @@
+Title: Zelma Christiansen IV
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/linda-waelchi
+- 
+  type: relations/parental/colleague
+  item: people/prof-emmet-hermann
+- 
+  type: relations/parental/colleague
+  item: people/marvin-williamson
+- 
+  type: relations/parental/mom
+  item: people/earl-halvorson
+- 
+  type: relations/money/debtor
+  item: people/viva-welch
+- 
+  type: relations/parental/colleague
+  item: people/mrs-lizeth-marvin
+- 
+  type: relations/money/creditor
+  item: companies/doyle-ltd
+- 
+  type: relations/work/employer
+  item: companies/ullrich-medhurst
+- 
+  type: relations/work/employer
+  item: companies/metz-ltd
+- 
+  type: relations/work/employer
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/residence
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/visited
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

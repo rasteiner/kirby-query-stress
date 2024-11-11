@@ -1,0 +1,43 @@
+Title: Ritchie-Kautzer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: companies/sawayn-schamberger-and-lowe
+- 
+  type: relations/money/creditor
+  item: companies/roberts-kemmer-and-johnson
+- 
+  type: relations/money/creditor
+  item: companies/schiller-collier
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/creditor
+  item: companies/gottlieb-plc
+- 
+  type: relations/money/creditor
+  item: companies/bogan-llc
+- 
+  type: relations/money/creditor
+  item: companies/dickens-bode
+- 
+  type: relations/money/debtor
+  item: companies/auer-gusikowski
+- 
+  type: relations/location/residence
+  item: places/east-dexter
+- 
+  type: relations/location/visited
+  item: places/new-carmela
+- 
+  type: relations/location/residence
+  item: places/jeanetteside

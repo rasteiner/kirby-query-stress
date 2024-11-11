@@ -1,0 +1,65 @@
+Title: Miss Ava Sporer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/prof-noe-wunsch-ii
+- 
+  type: relations/parental/brosis
+  item: people/prof-macie-gleichner-md
+- 
+  type: relations/money/creditor
+  item: people/garfield-boehm
+- 
+  type: relations/parental/friend
+  item: people/victoria-ebert-iii
+- 
+  type: relations/parental/colleague
+  item: people/ms-vada-von-sr
+- 
+  type: relations/parental/brosis
+  item: people/carli-kuvalis
+- 
+  type: relations/money/debtor
+  item: companies/rosenbaum-hintz-and-okuneva
+- 
+  type: relations/money/debtor
+  item: >
+    companies/schneider-stiedemann-and-baumbach
+- 
+  type: relations/work/employer
+  item: companies/yundt-lesch-and-goyette
+- 
+  type: relations/work/client
+  item: companies/flatley-inc
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/residence
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/residence
+  item: places/north-dallin
+- 
+  type: relations/location/residence
+  item: places/gerlachberg
+- 
+  type: relations/location/residence
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Valentine Willms
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/alene-ortiz
+- 
+  type: relations/parental/brosis
+  item: people/carmel-schinner
+- 
+  type: relations/parental/dad
+  item: people/ismael-wyman-jr
+- 
+  type: relations/parental/colleague
+  item: people/ms-amie-rolfson-jr
+- 
+  type: relations/money/debtor
+  item: people/prof-telly-harvey
+- 
+  type: relations/money/creditor
+  item: people/prof-brando-price
+- 
+  type: relations/work/client
+  item: companies/nicolas-bednar
+- 
+  type: relations/work/client
+  item: companies/johnson-windler
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-and-sons
+- 
+  type: relations/work/client
+  item: companies/reichel-llc
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/residence
+  item: places/consueloberg
+- 
+  type: relations/location/residence
+  item: places/port-osvaldo

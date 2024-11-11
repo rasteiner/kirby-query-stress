@@ -1,0 +1,64 @@
+Title: Mr. Rhett Davis Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/miss-carolyn-blanda-phd
+- 
+  type: relations/parental/friend
+  item: people/mya-goyette
+- 
+  type: relations/money/creditor
+  item: people/dr-andy-pollich
+- 
+  type: relations/parental/colleague
+  item: people/dr-johnathon-oberbrunner
+- 
+  type: relations/parental/friend
+  item: people/ferne-miller-v
+- 
+  type: relations/parental/colleague
+  item: people/jude-dooley
+- 
+  type: relations/work/client
+  item: companies/doyle-ltd
+- 
+  type: relations/work/employer
+  item: companies/ullrich-medhurst
+- 
+  type: relations/money/debtor
+  item: companies/metz-ltd
+- 
+  type: relations/money/creditor
+  item: companies/lubowitz-upton-and-huel
+- 
+  type: relations/location/visited
+  item: places/staceyville
+- 
+  type: relations/location/residence
+  item: places/east-collinfurt
+- 
+  type: relations/location/visited
+  item: places/gutmannville
+- 
+  type: relations/location/visited
+  item: places/east-aubreeport
+- 
+  type: relations/location/visited
+  item: places/port-ricky
+- 
+  type: relations/location/residence
+  item: places/gaylordchester
+- 
+  type: relations/location/residence
+  item: places/hageneston
+- 
+  type: relations/location/visited
+  item: places/otiliachester

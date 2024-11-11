@@ -1,0 +1,66 @@
+Title: Maryam Brown
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/chaya-haley
+- 
+  type: relations/parental/mom
+  item: people/mr-carey-goodwin
+- 
+  type: relations/parental/friend
+  item: people/bernhard-doyle
+- 
+  type: relations/money/debtor
+  item: people/kara-schimmel
+- 
+  type: relations/parental/brosis
+  item: people/mr-jonas-harvey-iv
+- 
+  type: relations/parental/colleague
+  item: people/dr-max-greenholt
+- 
+  type: relations/money/debtor
+  item: >
+    companies/cummerata-zboncak-and-lueilwitz
+- 
+  type: relations/money/debtor
+  item: companies/collins-ltd
+- 
+  type: relations/money/creditor
+  item: >
+    companies/keeling-tremblay-and-christiansen
+- 
+  type: relations/money/debtor
+  item: companies/jones-ltd
+- 
+  type: relations/location/visited
+  item: places/east-marjorieview
+- 
+  type: relations/location/visited
+  item: places/hoegerland
+- 
+  type: relations/location/visited
+  item: places/claudiestad
+- 
+  type: relations/location/residence
+  item: places/new-jettie
+- 
+  type: relations/location/residence
+  item: places/north-leilaniburgh
+- 
+  type: relations/location/residence
+  item: places/new-rosetta
+- 
+  type: relations/location/residence
+  item: places/north-dusty
+- 
+  type: relations/location/visited
+  item: places/horaceside

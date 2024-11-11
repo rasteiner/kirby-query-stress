@@ -1,0 +1,64 @@
+Title: August McKenzie Sr.
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/edna-stracke
+- 
+  type: relations/parental/dad
+  item: people/garfield-wintheiser
+- 
+  type: relations/parental/friend
+  item: people/sabrina-lubowitz
+- 
+  type: relations/parental/colleague
+  item: people/sarah-aufderhar
+- 
+  type: relations/parental/friend
+  item: people/junior-keeling-sr
+- 
+  type: relations/parental/dad
+  item: people/dejuan-jaskolski
+- 
+  type: relations/work/employer
+  item: companies/becker-schuppe
+- 
+  type: relations/money/creditor
+  item: companies/mante-plc
+- 
+  type: relations/work/employer
+  item: companies/ruecker-llc
+- 
+  type: relations/work/client
+  item: companies/kunde-llc
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/visited
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/residence
+  item: places/lake-odellland
+- 
+  type: relations/location/residence
+  item: places/reecemouth
+- 
+  type: relations/location/residence
+  item: places/east-jazmyn

@@ -1,0 +1,64 @@
+Title: Jessica Mitchell
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/dr-ruthe-jacobson-dvm
+- 
+  type: relations/parental/dad
+  item: people/georgiana-hilpert
+- 
+  type: relations/parental/dad
+  item: people/prof-alexandria-schmidt-i
+- 
+  type: relations/parental/brosis
+  item: people/elena-rice
+- 
+  type: relations/parental/colleague
+  item: people/jedediah-stokes
+- 
+  type: relations/parental/friend
+  item: people/prof-rupert-mohr-md
+- 
+  type: relations/work/client
+  item: companies/marquardt-zieme
+- 
+  type: relations/work/client
+  item: companies/welch-borer
+- 
+  type: relations/work/client
+  item: companies/pollich-ltd
+- 
+  type: relations/work/client
+  item: companies/christiansen-turcotte
+- 
+  type: relations/location/residence
+  item: places/lake-bradfordfort
+- 
+  type: relations/location/visited
+  item: places/lake-myahfort
+- 
+  type: relations/location/residence
+  item: places/port-easterton
+- 
+  type: relations/location/visited
+  item: places/oberbrunnerbury
+- 
+  type: relations/location/visited
+  item: places/abdielmouth
+- 
+  type: relations/location/visited
+  item: places/sengerville
+- 
+  type: relations/location/residence
+  item: places/new-karinaland
+- 
+  type: relations/location/visited
+  item: places/new-selmer

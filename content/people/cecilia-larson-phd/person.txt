@@ -1,0 +1,65 @@
+Title: Cecilia Larson PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/miss-hulda-hodkiewicz-iv
+- 
+  type: relations/parental/brosis
+  item: people/rafaela-larson
+- 
+  type: relations/parental/colleague
+  item: people/petra-senger
+- 
+  type: relations/money/creditor
+  item: people/eleanore-aufderhar-iii
+- 
+  type: relations/parental/mom
+  item: people/carey-kirlin-iv
+- 
+  type: relations/parental/dad
+  item: people/sammy-schinner
+- 
+  type: relations/money/debtor
+  item: companies/skiles-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/morar-connelly
+- 
+  type: relations/work/employer
+  item: companies/lowe-bartoletti
+- 
+  type: relations/money/creditor
+  item: >
+    companies/bashirian-weissnat-and-langworth
+- 
+  type: relations/location/visited
+  item: places/lake-friedachester
+- 
+  type: relations/location/visited
+  item: places/port-camdenberg
+- 
+  type: relations/location/residence
+  item: places/port-laviniamouth
+- 
+  type: relations/location/residence
+  item: places/steubershire
+- 
+  type: relations/location/residence
+  item: places/stromanstad
+- 
+  type: relations/location/residence
+  item: places/lake-shadbury
+- 
+  type: relations/location/visited
+  item: places/new-freddy
+- 
+  type: relations/location/visited
+  item: places/new-markhaven

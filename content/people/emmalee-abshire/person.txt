@@ -1,0 +1,64 @@
+Title: Emmalee Abshire
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/nichole-mccullough
+- 
+  type: relations/parental/mom
+  item: people/jade-volkman
+- 
+  type: relations/parental/brosis
+  item: people/trey-towne
+- 
+  type: relations/money/debtor
+  item: people/collin-littel
+- 
+  type: relations/parental/dad
+  item: people/miss-herminia-homenick
+- 
+  type: relations/parental/brosis
+  item: people/darius-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/hand-schuster
+- 
+  type: relations/work/employer
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/money/creditor
+  item: companies/mraz-kub
+- 
+  type: relations/work/client
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/visited
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/residence
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/visited
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

@@ -1,0 +1,64 @@
+Title: Mrs. Heath Mayer PhD
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/kathlyn-nolan
+- 
+  type: relations/parental/friend
+  item: people/mrs-haylie-streich-sr
+- 
+  type: relations/money/creditor
+  item: people/payton-toy
+- 
+  type: relations/parental/mom
+  item: people/arnaldo-bernier
+- 
+  type: relations/parental/dad
+  item: people/murray-koss
+- 
+  type: relations/money/debtor
+  item: people/martin-gerlach
+- 
+  type: relations/work/client
+  item: companies/dickinson-grant
+- 
+  type: relations/money/debtor
+  item: companies/vonrueden-okuneva-and-bogan
+- 
+  type: relations/money/debtor
+  item: companies/ritchie-fritsch-and-quigley
+- 
+  type: relations/money/creditor
+  item: companies/eichmann-towne-and-zboncak
+- 
+  type: relations/location/visited
+  item: places/tremblayhaven
+- 
+  type: relations/location/residence
+  item: places/east-maye
+- 
+  type: relations/location/residence
+  item: places/port-alexa
+- 
+  type: relations/location/visited
+  item: places/new-anahi
+- 
+  type: relations/location/residence
+  item: places/ariannahaven
+- 
+  type: relations/location/visited
+  item: places/ebertton
+- 
+  type: relations/location/visited
+  item: places/linneaburgh
+- 
+  type: relations/location/residence
+  item: places/brayanmouth

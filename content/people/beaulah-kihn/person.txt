@@ -1,0 +1,64 @@
+Title: Beaulah Kihn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/nyasia-quigley
+- 
+  type: relations/parental/mom
+  item: people/prof-edgar-bogisich
+- 
+  type: relations/parental/brosis
+  item: people/dr-bobby-leuschke-dvm
+- 
+  type: relations/parental/colleague
+  item: people/tomas-kuhic-sr
+- 
+  type: relations/parental/friend
+  item: people/eugenia-wiegand
+- 
+  type: relations/money/debtor
+  item: people/prof-coby-reynolds-ii
+- 
+  type: relations/money/creditor
+  item: companies/o-conner-hudson
+- 
+  type: relations/money/debtor
+  item: companies/bergstrom-mohr-and-wilderman
+- 
+  type: relations/money/debtor
+  item: companies/shanahan-russel-and-jacobson
+- 
+  type: relations/money/creditor
+  item: companies/hettinger-fay
+- 
+  type: relations/location/residence
+  item: places/nicolasborough
+- 
+  type: relations/location/residence
+  item: places/hillardburgh
+- 
+  type: relations/location/visited
+  item: places/odellborough
+- 
+  type: relations/location/visited
+  item: places/south-bridie
+- 
+  type: relations/location/visited
+  item: places/east-aishafort
+- 
+  type: relations/location/visited
+  item: places/south-jayceeburgh
+- 
+  type: relations/location/visited
+  item: places/north-horace
+- 
+  type: relations/location/visited
+  item: places/new-donnie

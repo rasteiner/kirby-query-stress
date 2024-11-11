@@ -1,0 +1,64 @@
+Title: Myrl Hickle
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/thurman-collier-sr
+- 
+  type: relations/money/debtor
+  item: people/melody-smith-sr
+- 
+  type: relations/money/creditor
+  item: people/gloria-lebsack-ii
+- 
+  type: relations/parental/dad
+  item: people/marcelle-kuhlman
+- 
+  type: relations/money/creditor
+  item: people/margaret-becker
+- 
+  type: relations/money/creditor
+  item: people/prof-cooper-ernser-iii
+- 
+  type: relations/money/creditor
+  item: companies/o-hara-hettinger
+- 
+  type: relations/money/creditor
+  item: companies/greenfelder-plc
+- 
+  type: relations/work/client
+  item: companies/harris-reinger-and-morar
+- 
+  type: relations/work/client
+  item: companies/simonis-and-sons
+- 
+  type: relations/location/visited
+  item: places/lake-romaineberg
+- 
+  type: relations/location/residence
+  item: places/north-trestad
+- 
+  type: relations/location/residence
+  item: places/south-sadie
+- 
+  type: relations/location/residence
+  item: places/kuhicport
+- 
+  type: relations/location/residence
+  item: places/shaneton
+- 
+  type: relations/location/residence
+  item: places/east-holden
+- 
+  type: relations/location/visited
+  item: places/east-dante
+- 
+  type: relations/location/visited
+  item: places/malindastad

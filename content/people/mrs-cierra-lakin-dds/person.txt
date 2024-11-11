@@ -1,0 +1,64 @@
+Title: Mrs. Cierra Lakin DDS
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/keon-runte
+- 
+  type: relations/parental/colleague
+  item: people/rosalind-wyman-phd
+- 
+  type: relations/parental/mom
+  item: people/aubrey-lemke
+- 
+  type: relations/parental/dad
+  item: people/luella-hoeger
+- 
+  type: relations/money/creditor
+  item: people/edna-borer
+- 
+  type: relations/parental/colleague
+  item: people/elissa-marvin
+- 
+  type: relations/money/debtor
+  item: companies/lueilwitz-and-sons
+- 
+  type: relations/work/client
+  item: companies/botsford-plc
+- 
+  type: relations/work/client
+  item: companies/d-amore-hessel-and-connelly
+- 
+  type: relations/work/client
+  item: companies/harris-morissette-and-steuber
+- 
+  type: relations/location/residence
+  item: places/east-jadafort
+- 
+  type: relations/location/visited
+  item: places/port-mauricio
+- 
+  type: relations/location/residence
+  item: places/south-isabel
+- 
+  type: relations/location/visited
+  item: places/jacobsonview
+- 
+  type: relations/location/residence
+  item: places/nienowmouth
+- 
+  type: relations/location/visited
+  item: places/north-dallin
+- 
+  type: relations/location/visited
+  item: places/gerlachberg
+- 
+  type: relations/location/visited
+  item: places/reingertown

@@ -1,0 +1,64 @@
+Title: Tillman Orn
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/evangeline-waelchi
+- 
+  type: relations/money/debtor
+  item: people/demond-howell
+- 
+  type: relations/money/debtor
+  item: people/monserrat-bednar
+- 
+  type: relations/parental/colleague
+  item: people/mr-german-kshlerin
+- 
+  type: relations/parental/dad
+  item: people/mr-rory-kunde-sr
+- 
+  type: relations/parental/colleague
+  item: people/emmet-halvorson
+- 
+  type: relations/money/debtor
+  item: companies/olson-cassin-and-rolfson
+- 
+  type: relations/money/creditor
+  item: companies/wiza-mccullough-and-dickens
+- 
+  type: relations/money/creditor
+  item: companies/rath-schuppe
+- 
+  type: relations/work/employer
+  item: companies/kshlerin-llc
+- 
+  type: relations/location/visited
+  item: places/kaleland
+- 
+  type: relations/location/visited
+  item: places/aldenmouth
+- 
+  type: relations/location/residence
+  item: places/howefurt
+- 
+  type: relations/location/residence
+  item: places/nyahport
+- 
+  type: relations/location/visited
+  item: places/west-noemi
+- 
+  type: relations/location/visited
+  item: places/lake-lexiemouth
+- 
+  type: relations/location/residence
+  item: places/lake-travisfort
+- 
+  type: relations/location/residence
+  item: places/lake-freddyview

@@ -1,0 +1,64 @@
+Title: Leonie Bayer
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/colleague
+  item: people/mr-ariel-fisher
+- 
+  type: relations/parental/mom
+  item: people/prof-darron-treutel-phd
+- 
+  type: relations/parental/friend
+  item: people/mckenzie-sauer-dds
+- 
+  type: relations/parental/mom
+  item: people/theodora-christiansen
+- 
+  type: relations/parental/friend
+  item: people/donato-brown
+- 
+  type: relations/money/creditor
+  item: people/dr-jammie-wiegand
+- 
+  type: relations/work/client
+  item: companies/nolan-inc
+- 
+  type: relations/work/employer
+  item: companies/sanford-lehner
+- 
+  type: relations/work/client
+  item: companies/kuhlman-plc
+- 
+  type: relations/money/debtor
+  item: companies/flatley-ltd
+- 
+  type: relations/location/residence
+  item: places/south-michaleport
+- 
+  type: relations/location/visited
+  item: places/south-scarlett
+- 
+  type: relations/location/residence
+  item: places/matildafort
+- 
+  type: relations/location/visited
+  item: places/port-noraborough
+- 
+  type: relations/location/residence
+  item: places/alfordview
+- 
+  type: relations/location/visited
+  item: places/lake-odellland
+- 
+  type: relations/location/visited
+  item: places/reecemouth
+- 
+  type: relations/location/visited
+  item: places/east-jazmyn

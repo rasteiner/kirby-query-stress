@@ -1,0 +1,64 @@
+Title: Dr. Aaron Lebsack
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/jaylen-wiegand
+- 
+  type: relations/parental/colleague
+  item: people/cristal-kuhlman-i
+- 
+  type: relations/parental/colleague
+  item: people/prof-dorian-heller
+- 
+  type: relations/money/creditor
+  item: people/kadin-ferry-dds
+- 
+  type: relations/money/debtor
+  item: people/ralph-sipes
+- 
+  type: relations/parental/colleague
+  item: people/dr-sven-wiza
+- 
+  type: relations/work/employer
+  item: companies/ryan-little
+- 
+  type: relations/work/client
+  item: companies/wilderman-boehm
+- 
+  type: relations/work/client
+  item: companies/davis-kemmer
+- 
+  type: relations/money/creditor
+  item: companies/leffler-stroman
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/residence
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/visited
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/visited
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

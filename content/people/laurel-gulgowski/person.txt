@@ -1,0 +1,64 @@
+Title: Laurel Gulgowski
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-torrance-schiller-iii
+- 
+  type: relations/money/debtor
+  item: people/dana-kessler
+- 
+  type: relations/parental/brosis
+  item: people/helga-skiles
+- 
+  type: relations/parental/colleague
+  item: people/otilia-harris
+- 
+  type: relations/parental/brosis
+  item: people/koby-kohler
+- 
+  type: relations/parental/dad
+  item: people/leonie-rodriguez
+- 
+  type: relations/money/debtor
+  item: companies/gibson-lynch
+- 
+  type: relations/work/employer
+  item: companies/legros-hirthe
+- 
+  type: relations/work/employer
+  item: companies/kuhn-plc
+- 
+  type: relations/work/client
+  item: companies/reynolds-and-sons
+- 
+  type: relations/location/residence
+  item: places/dedricburgh
+- 
+  type: relations/location/residence
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/residence
+  item: places/north-jamal

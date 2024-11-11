@@ -1,0 +1,64 @@
+Title: Jeanne Schiller
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/raul-waters
+- 
+  type: relations/parental/brosis
+  item: people/ignacio-effertz
+- 
+  type: relations/parental/brosis
+  item: people/estrella-ebert-i
+- 
+  type: relations/money/creditor
+  item: people/ashtyn-hills
+- 
+  type: relations/parental/dad
+  item: people/mr-owen-satterfield-ii
+- 
+  type: relations/parental/colleague
+  item: people/prof-clement-schinner-dvm
+- 
+  type: relations/work/client
+  item: companies/hayes-roberts-and-rowe
+- 
+  type: relations/work/employer
+  item: companies/daugherty-schamberger
+- 
+  type: relations/work/client
+  item: companies/christiansen-mann-and-wolf
+- 
+  type: relations/work/client
+  item: companies/kreiger-spinka-and-glover
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/residence
+  item: places/new-cooper
+- 
+  type: relations/location/residence
+  item: places/kathlynland
+- 
+  type: relations/location/visited
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/visited
+  item: places/north-michelehaven
+- 
+  type: relations/location/residence
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

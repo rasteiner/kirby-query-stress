@@ -1,0 +1,64 @@
+Title: Dr. Alphonso Raynor
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/mom
+  item: people/kyra-willms
+- 
+  type: relations/parental/mom
+  item: people/josiane-okuneva
+- 
+  type: relations/parental/brosis
+  item: people/jovani-jast
+- 
+  type: relations/money/debtor
+  item: people/mr-brown-mertz
+- 
+  type: relations/parental/dad
+  item: people/dr-nolan-boyer
+- 
+  type: relations/money/debtor
+  item: people/coy-kerluke
+- 
+  type: relations/work/client
+  item: companies/ondricka-durgan
+- 
+  type: relations/work/employer
+  item: companies/waelchi-halvorson-and-pagac
+- 
+  type: relations/money/creditor
+  item: companies/hickle-blanda-and-ryan
+- 
+  type: relations/money/creditor
+  item: companies/hamill-kuvalis-and-hauck
+- 
+  type: relations/location/residence
+  item: places/claudfort
+- 
+  type: relations/location/residence
+  item: places/schowalterchester
+- 
+  type: relations/location/residence
+  item: places/port-vilmaland
+- 
+  type: relations/location/visited
+  item: places/east-daphneyfurt
+- 
+  type: relations/location/visited
+  item: places/betsyfort
+- 
+  type: relations/location/visited
+  item: places/verlaberg
+- 
+  type: relations/location/visited
+  item: places/mooreland
+- 
+  type: relations/location/residence
+  item: places/kathrynestad

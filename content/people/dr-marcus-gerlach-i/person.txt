@@ -1,0 +1,64 @@
+Title: Dr. Marcus Gerlach I
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/myrtie-thompson
+- 
+  type: relations/money/debtor
+  item: people/junior-reynolds
+- 
+  type: relations/parental/colleague
+  item: people/manuel-greenholt-iv
+- 
+  type: relations/money/debtor
+  item: people/dr-antwan-conn-jr
+- 
+  type: relations/parental/colleague
+  item: people/lafayette-stehr
+- 
+  type: relations/parental/dad
+  item: people/maegan-bergstrom
+- 
+  type: relations/money/debtor
+  item: companies/hand-schuster
+- 
+  type: relations/work/client
+  item: companies/schaden-macejkovic-and-king
+- 
+  type: relations/work/employer
+  item: companies/mraz-kub
+- 
+  type: relations/money/debtor
+  item: companies/buckridge-goyette-and-fisher
+- 
+  type: relations/location/residence
+  item: places/kuhlmanfurt
+- 
+  type: relations/location/visited
+  item: places/south-houstonberg
+- 
+  type: relations/location/residence
+  item: places/east-verona
+- 
+  type: relations/location/residence
+  item: places/laronview
+- 
+  type: relations/location/residence
+  item: places/new-hannah
+- 
+  type: relations/location/residence
+  item: places/port-shaynachester
+- 
+  type: relations/location/residence
+  item: places/runolfssonfort
+- 
+  type: relations/location/residence
+  item: places/carolanneville

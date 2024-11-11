@@ -1,0 +1,64 @@
+Title: Dr. Marc Kunze V
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-branson-feil-phd
+- 
+  type: relations/parental/brosis
+  item: people/miss-allie-gulgowski-iii
+- 
+  type: relations/parental/mom
+  item: people/mrs-kristy-kuhic
+- 
+  type: relations/money/creditor
+  item: people/prof-penelope-trantow-jr
+- 
+  type: relations/parental/colleague
+  item: people/houston-donnelly
+- 
+  type: relations/money/debtor
+  item: people/cecil-hilpert
+- 
+  type: relations/work/client
+  item: companies/rath-and-sons
+- 
+  type: relations/money/creditor
+  item: companies/dubuque-hegmann-and-roberts
+- 
+  type: relations/work/employer
+  item: companies/harris-veum
+- 
+  type: relations/money/creditor
+  item: companies/kub-group
+- 
+  type: relations/location/visited
+  item: places/bernierstad
+- 
+  type: relations/location/residence
+  item: places/johnstonbury
+- 
+  type: relations/location/visited
+  item: places/east-rachaelport
+- 
+  type: relations/location/residence
+  item: places/new-janiyaport
+- 
+  type: relations/location/residence
+  item: places/lake-hillardhaven
+- 
+  type: relations/location/visited
+  item: places/new-taurean
+- 
+  type: relations/location/residence
+  item: places/lake-jacklyn
+- 
+  type: relations/location/residence
+  item: places/west-ottisland

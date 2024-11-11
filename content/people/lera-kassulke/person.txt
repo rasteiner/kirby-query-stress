@@ -1,0 +1,64 @@
+Title: Lera Kassulke
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/mrs-deja-marks-ii
+- 
+  type: relations/parental/dad
+  item: people/heber-altenwerth
+- 
+  type: relations/parental/dad
+  item: people/kristian-rempel
+- 
+  type: relations/parental/dad
+  item: people/buck-smith
+- 
+  type: relations/parental/colleague
+  item: people/roscoe-nolan-dvm
+- 
+  type: relations/parental/colleague
+  item: people/maureen-kerluke
+- 
+  type: relations/work/employer
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/money/debtor
+  item: companies/johns-schamberger
+- 
+  type: relations/work/client
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/residence
+  item: places/lennyton

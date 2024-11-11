@@ -1,0 +1,64 @@
+Title: Dr. Barton Boehm
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/prof-kaylie-zulauf
+- 
+  type: relations/money/debtor
+  item: people/mariane-prohaska
+- 
+  type: relations/parental/dad
+  item: people/miss-kailey-erdman
+- 
+  type: relations/money/debtor
+  item: people/clara-dare
+- 
+  type: relations/parental/brosis
+  item: people/dr-nathanial-farrell-dds
+- 
+  type: relations/money/creditor
+  item: people/reyes-koepp
+- 
+  type: relations/work/employer
+  item: companies/zboncak-llc
+- 
+  type: relations/money/creditor
+  item: companies/dach-keebler-and-beatty
+- 
+  type: relations/work/client
+  item: companies/wyman-legros
+- 
+  type: relations/work/employer
+  item: companies/hodkiewicz-ltd
+- 
+  type: relations/location/residence
+  item: places/north-destineyburgh
+- 
+  type: relations/location/visited
+  item: places/north-keyshawnfurt
+- 
+  type: relations/location/visited
+  item: places/east-therese
+- 
+  type: relations/location/residence
+  item: places/lake-irmatown
+- 
+  type: relations/location/visited
+  item: places/jerdeton
+- 
+  type: relations/location/visited
+  item: places/yundtton
+- 
+  type: relations/location/residence
+  item: places/blazemouth
+- 
+  type: relations/location/residence
+  item: places/cristfurt

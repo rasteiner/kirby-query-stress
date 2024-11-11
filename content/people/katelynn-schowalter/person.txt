@@ -1,0 +1,64 @@
+Title: Katelynn Schowalter
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/debtor
+  item: people/mrs-meredith-daniel
+- 
+  type: relations/money/debtor
+  item: people/mrs-evangeline-daniel
+- 
+  type: relations/money/creditor
+  item: people/adaline-schoen
+- 
+  type: relations/money/debtor
+  item: people/nikki-kutch
+- 
+  type: relations/parental/brosis
+  item: people/karelle-price-md
+- 
+  type: relations/parental/dad
+  item: people/lexus-shields
+- 
+  type: relations/work/employer
+  item: companies/parisian-kessler-and-johnson
+- 
+  type: relations/work/employer
+  item: companies/kutch-gerhold
+- 
+  type: relations/work/client
+  item: companies/wintheiser-frami-and-bauch
+- 
+  type: relations/money/debtor
+  item: companies/schneider-durgan
+- 
+  type: relations/location/visited
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/visited
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/residence
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

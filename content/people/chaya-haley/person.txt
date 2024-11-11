@@ -1,0 +1,64 @@
+Title: Chaya Haley
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/royal-mitchell
+- 
+  type: relations/parental/colleague
+  item: people/korbin-morar
+- 
+  type: relations/money/creditor
+  item: people/marjorie-rodriguez
+- 
+  type: relations/parental/colleague
+  item: people/saul-langworth
+- 
+  type: relations/parental/brosis
+  item: people/juwan-shields
+- 
+  type: relations/parental/friend
+  item: people/ms-ciara-lehner-iv
+- 
+  type: relations/money/creditor
+  item: companies/bogisich-barrows-and-cassin
+- 
+  type: relations/work/client
+  item: companies/auer-lebsack-and-ferry
+- 
+  type: relations/work/employer
+  item: companies/rice-inc
+- 
+  type: relations/work/client
+  item: companies/mueller-graham-and-bashirian
+- 
+  type: relations/location/visited
+  item: places/lake-darrickfurt
+- 
+  type: relations/location/residence
+  item: places/north-gailmouth
+- 
+  type: relations/location/visited
+  item: places/lake-scottieshire
+- 
+  type: relations/location/visited
+  item: places/new-clemensview
+- 
+  type: relations/location/visited
+  item: places/brycebury
+- 
+  type: relations/location/visited
+  item: places/gerholdshire
+- 
+  type: relations/location/residence
+  item: places/eduardofort
+- 
+  type: relations/location/visited
+  item: places/bahringerport

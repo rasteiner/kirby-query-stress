@@ -1,0 +1,64 @@
+Title: Chauncey Littel
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/mr-deonte-hayes-ii
+- 
+  type: relations/parental/brosis
+  item: people/cecil-beer
+- 
+  type: relations/parental/dad
+  item: people/maggie-thiel-iii
+- 
+  type: relations/parental/friend
+  item: people/ms-katarina-toy
+- 
+  type: relations/money/debtor
+  item: people/lindsey-fisher
+- 
+  type: relations/parental/friend
+  item: people/okey-corwin
+- 
+  type: relations/work/client
+  item: companies/ullrich-funk-and-o-connell
+- 
+  type: relations/money/creditor
+  item: companies/leffler-bogisich-and-buckridge
+- 
+  type: relations/work/client
+  item: companies/hegmann-cartwright-and-miller
+- 
+  type: relations/work/client
+  item: companies/mueller-hayes-and-ankunding
+- 
+  type: relations/location/visited
+  item: places/new-fabiolaport
+- 
+  type: relations/location/residence
+  item: places/west-makenziefurt
+- 
+  type: relations/location/visited
+  item: places/hudsonbury
+- 
+  type: relations/location/residence
+  item: places/new-ramonbury
+- 
+  type: relations/location/residence
+  item: places/new-sibyl
+- 
+  type: relations/location/residence
+  item: places/east-ivoryburgh
+- 
+  type: relations/location/residence
+  item: places/lake-ibrahim
+- 
+  type: relations/location/residence
+  item: places/new-carmela

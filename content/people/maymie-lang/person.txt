@@ -1,0 +1,64 @@
+Title: Maymie Lang
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/dr-malcolm-stamm-iii
+- 
+  type: relations/parental/colleague
+  item: people/barrett-jacobi
+- 
+  type: relations/money/creditor
+  item: people/percival-smitham
+- 
+  type: relations/parental/colleague
+  item: people/gilda-zboncak-iv
+- 
+  type: relations/parental/friend
+  item: people/danial-weber
+- 
+  type: relations/parental/friend
+  item: people/miss-carmen-adams-iii
+- 
+  type: relations/work/client
+  item: companies/welch-hand-and-rogahn
+- 
+  type: relations/work/client
+  item: companies/johns-schamberger
+- 
+  type: relations/work/employer
+  item: companies/hand-morissette-and-larson
+- 
+  type: relations/work/client
+  item: companies/schinner-llc
+- 
+  type: relations/location/residence
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/residence
+  item: places/lemkebury
+- 
+  type: relations/location/visited
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/visited
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

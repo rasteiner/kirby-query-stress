@@ -1,0 +1,64 @@
+Title: Renee Bechtelar
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/dad
+  item: people/prof-raymundo-jacobson-v
+- 
+  type: relations/parental/dad
+  item: people/ubaldo-simonis
+- 
+  type: relations/money/creditor
+  item: people/beau-sanford
+- 
+  type: relations/parental/brosis
+  item: people/houston-tillman
+- 
+  type: relations/parental/mom
+  item: people/elmo-cremin
+- 
+  type: relations/parental/colleague
+  item: people/daphnee-toy
+- 
+  type: relations/money/creditor
+  item: companies/bradtke-and-sons
+- 
+  type: relations/money/debtor
+  item: companies/bailey-group
+- 
+  type: relations/money/creditor
+  item: companies/greenholt-dicki
+- 
+  type: relations/money/creditor
+  item: companies/quitzon-collins
+- 
+  type: relations/location/visited
+  item: places/kimberlyfort
+- 
+  type: relations/location/visited
+  item: places/port-nicolemouth
+- 
+  type: relations/location/visited
+  item: places/lemkebury
+- 
+  type: relations/location/residence
+  item: places/port-dale
+- 
+  type: relations/location/residence
+  item: places/heatherville
+- 
+  type: relations/location/residence
+  item: places/new-alexanderview
+- 
+  type: relations/location/residence
+  item: places/port-tanner
+- 
+  type: relations/location/visited
+  item: places/lennyton

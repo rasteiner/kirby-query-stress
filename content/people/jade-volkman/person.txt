@@ -1,0 +1,64 @@
+Title: Jade Volkman
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/friend
+  item: people/ms-corrine-beer
+- 
+  type: relations/parental/dad
+  item: people/dr-bennett-pacocha-iv
+- 
+  type: relations/parental/mom
+  item: people/kacey-quigley-iv
+- 
+  type: relations/money/creditor
+  item: people/adelle-kessler-sr
+- 
+  type: relations/money/debtor
+  item: people/tre-gorczany
+- 
+  type: relations/money/creditor
+  item: people/sherman-west
+- 
+  type: relations/work/employer
+  item: companies/reilly-hilpert-and-stehr
+- 
+  type: relations/money/debtor
+  item: companies/hegmann-ltd
+- 
+  type: relations/work/employer
+  item: companies/bogan-llc
+- 
+  type: relations/work/employer
+  item: companies/morissette-schoen-and-huel
+- 
+  type: relations/location/residence
+  item: places/lake-abbie
+- 
+  type: relations/location/visited
+  item: places/south-emieville
+- 
+  type: relations/location/visited
+  item: places/rubyeville
+- 
+  type: relations/location/residence
+  item: places/east-terrellbury
+- 
+  type: relations/location/residence
+  item: places/east-wilber
+- 
+  type: relations/location/visited
+  item: places/jacintheburgh
+- 
+  type: relations/location/visited
+  item: places/darleneshire
+- 
+  type: relations/location/residence
+  item: places/robertstown

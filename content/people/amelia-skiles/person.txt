@@ -1,0 +1,64 @@
+Title: Amelia Skiles
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/parental/brosis
+  item: people/prof-marion-smitham-phd
+- 
+  type: relations/parental/brosis
+  item: people/colleen-kilback-jr
+- 
+  type: relations/parental/brosis
+  item: people/maddison-blanda-iii
+- 
+  type: relations/money/debtor
+  item: people/palma-runolfsson
+- 
+  type: relations/parental/colleague
+  item: people/mrs-flavie-thompson-v
+- 
+  type: relations/parental/brosis
+  item: people/dr-rickey-kiehn
+- 
+  type: relations/money/debtor
+  item: companies/schowalter-dubuque-and-lesch
+- 
+  type: relations/money/debtor
+  item: companies/macejkovic-fadel-and-ryan
+- 
+  type: relations/work/client
+  item: companies/vonrueden-plc
+- 
+  type: relations/work/employer
+  item: companies/armstrong-ltd
+- 
+  type: relations/location/visited
+  item: places/new-brisaport
+- 
+  type: relations/location/visited
+  item: places/new-cooper
+- 
+  type: relations/location/visited
+  item: places/kathlynland
+- 
+  type: relations/location/residence
+  item: places/kuhicborough
+- 
+  type: relations/location/visited
+  item: places/gusbury
+- 
+  type: relations/location/residence
+  item: places/north-michelehaven
+- 
+  type: relations/location/visited
+  item: places/karlport
+- 
+  type: relations/location/visited
+  item: places/south-emerson

@@ -1,0 +1,64 @@
+Title: Claudie Bode
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/horacio-hessel
+- 
+  type: relations/parental/colleague
+  item: people/connor-wehner
+- 
+  type: relations/parental/colleague
+  item: people/mauricio-murazik
+- 
+  type: relations/parental/dad
+  item: people/dr-delores-armstrong
+- 
+  type: relations/parental/friend
+  item: people/reanna-baumbach-dds
+- 
+  type: relations/parental/friend
+  item: people/hannah-stamm
+- 
+  type: relations/money/creditor
+  item: companies/tremblay-ankunding
+- 
+  type: relations/work/client
+  item: companies/schowalter-gutmann-and-roberts
+- 
+  type: relations/money/debtor
+  item: companies/gottlieb-plc
+- 
+  type: relations/work/client
+  item: companies/harvey-lang
+- 
+  type: relations/location/residence
+  item: places/marjoryland
+- 
+  type: relations/location/residence
+  item: places/new-kaileeborough
+- 
+  type: relations/location/visited
+  item: places/vernieview
+- 
+  type: relations/location/visited
+  item: places/west-darianaport
+- 
+  type: relations/location/residence
+  item: places/east-arielleburgh
+- 
+  type: relations/location/residence
+  item: places/south-lurastad
+- 
+  type: relations/location/visited
+  item: places/consueloberg
+- 
+  type: relations/location/visited
+  item: places/port-osvaldo

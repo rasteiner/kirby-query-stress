@@ -1,0 +1,64 @@
+Title: Jeffrey Weber
+
+----
+
+Text: 
+
+----
+
+Relations:
+
+- 
+  type: relations/money/creditor
+  item: people/jaleel-sauer
+- 
+  type: relations/parental/friend
+  item: people/tyler-gleichner-v
+- 
+  type: relations/parental/brosis
+  item: people/berta-ullrich
+- 
+  type: relations/parental/dad
+  item: people/audreanne-dicki
+- 
+  type: relations/parental/brosis
+  item: people/mrs-scarlett-harvey-phd
+- 
+  type: relations/parental/friend
+  item: people/grant-cummings
+- 
+  type: relations/work/client
+  item: companies/kuhn-renner
+- 
+  type: relations/money/debtor
+  item: companies/upton-lockman-and-bechtelar
+- 
+  type: relations/money/debtor
+  item: companies/parker-pagac
+- 
+  type: relations/work/employer
+  item: companies/wehner-plc
+- 
+  type: relations/location/visited
+  item: places/dedricburgh
+- 
+  type: relations/location/visited
+  item: places/jerrytown
+- 
+  type: relations/location/residence
+  item: places/lednermouth
+- 
+  type: relations/location/residence
+  item: places/kadinview
+- 
+  type: relations/location/visited
+  item: places/south-clevelandfort
+- 
+  type: relations/location/residence
+  item: places/south-taniachester
+- 
+  type: relations/location/visited
+  item: places/new-earleneshire
+- 
+  type: relations/location/visited
+  item: places/north-jamal
